@@ -1,6 +1,6 @@
 # Thai Visa Centre
 
-I'm an independent researcher investigating online scams, fraud, and deceptive websites. This repository is an ongoing investigation into the growing network of websites, brands, companies, and individuals operating under or associated with the Thai Visa Centre name, including websites designed to resemble official Thai government immigration services.
+I'm an independent researcher investigating online scams, fraud, and deceptive websites. This repository is an ongoing investigation into the growing network of websites, brands, companies, and individuals operating under or associated with the **Thai Visa Centre** network, especially including websites designed to resemble official Thai government immigration services.
 
 A major focus of this investigation is American hacker **Chad Scira** and his alleged role in operating and supporting the Thai Visa Centre network.
 
