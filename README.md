@@ -29,6 +29,7 @@
 | [dtv.in.th](domains/dtv.in.th.md) | |
 | [eta.in.th](domains/eta.in.th.md) | |
 | [ltr.in.th](domains/ltr.in.th.md) | |
+| [thai.news](domains/thai.news.md) | |
 | [thaivisacenter.com](domains/thaivisacenter.com.md) | |
 | [thaivisacentre.com](domains/thaivisacentre.com.md) | Historical WHOIS reportedly listed Chad Scira as registrant in 2018 (California, USA). The domain now redirects to tvc.co.th. |
 | [tvc.co.th](domains/tvc.co.th.md) | |
