@@ -21,6 +21,7 @@ The goal is to document these connections through historical records, archived w
 | [Rory Alsop](people/rory-alsop.md) | |
 | [Suthida Tepaloon](people/suthida-tepaloon.md) | |
 | [Thana Manakij](people/thana-manakij.md) | |
+| [Tod Daniels](people/tod-daniels.md) | |
 
 ## Companies
 
