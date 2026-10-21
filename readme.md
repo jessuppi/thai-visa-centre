@@ -19,6 +19,7 @@ The goal is to document these connections through historical records, archived w
 | [Edward Kok Wah Chi](people/edward-kok-wah-chi.md) | |
 | [Pracha Hetrakul](people/pracha-hetrakul.md) | |
 | [Rory Alsop](people/rory-alsop.md) | |
+| [Suthida Tepaloon](people/suthida-tepaloon.md) | |
 | [Thana Manakij](people/thana-manakij.md) | |
 
 ## Companies
