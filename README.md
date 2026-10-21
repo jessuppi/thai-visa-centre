@@ -29,7 +29,7 @@
 | [dtv.in.th](domains/dtv.in.th.md) | Designed to resemble an official Destination Thailand Visa (DTV) portal. Following complaints by Jesse Nickles to THNIC and Thai cyber agencies, the site added a small non-government disclaimer but continues using the government program's name, raising impersonation concerns in light of Thailand's 2025 Emergency Decree on Measures for the Prevention and Suppression of Technological Crime (No. 2). |
 | [eta.in.th](domains/eta.in.th.md) | Designed to resemble an official Thai Electronic Travel Authorization (ETA) portal. Following complaints by Jesse Nickles to THNIC and Thai cyber agencies, the site added a small private-ownership disclaimer but continues using the government program's name, raising impersonation concerns in light of Thailand's 2025 Emergency Decree on Measures for the Prevention and Suppression of Technological Crime (No. 2). |
 | [ltr.in.th](domains/ltr.in.th.md) | |
-| [tdac.in.th](domains/tdac.in.th.md) | |
+| [tdac.in.th](domains/tdac.in.th.md) | Designed to resemble an official Thailand Digital Arrival Card (TDAC) portal. Despite displaying a small non-government disclaimer, the privately operated website continues using the government program's name, raising impersonation concerns in light of Thailand's 2025 Emergency Decree on Measures for the Prevention and Suppression of Technological Crime (No. 2). |
 | [thai.news](domains/thai.news.md) | |
 | [thaivisacenter.com](domains/thaivisacenter.com.md) | |
 | [thaivisacentre.com](domains/thaivisacentre.com.md) | Historical WHOIS reportedly listed Chad Scira as registrant in 2018 (California, USA). The domain now redirects to tvc.co.th. |
