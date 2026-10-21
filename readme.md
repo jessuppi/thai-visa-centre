@@ -1,6 +1,6 @@
 # Thai Visa Centre
 
-Inclusion in this repository does not necessarily indicate ownership, affiliation, or wrongdoing. Some individuals and websites are included because they appear in relevant historical reporting or other evidence.
+*Inclusion in this repository does not necessarily indicate ownership, affiliation, or wrongdoing. Some individuals and websites are included because they appear in relevant historical reporting or other evidence.*
 
 I'm an independent researcher investigating online scams, fraud, and deceptive websites. This repository is an ongoing investigation into the growing network of websites, brands, companies, and individuals operating under or associated with the **Thai Visa Centre** network, especially including websites designed to resemble official Thai government immigration services.
 
