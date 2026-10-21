@@ -53,6 +53,7 @@ The goal is to document these connections through historical records, archived w
 | [issacompass.com](domains/issacompass.com.md) | |
 | [ltr.in.th](domains/ltr.in.th.md) | |
 | [og.th](domains/og.th.md) | |
+| [stampstay.com](domains/stampstay.com.md) | |
 | [tdac.in.th](domains/tdac.in.th.md) | Designed to resemble an official Thailand Digital Arrival Card (TDAC) portal. Following complaints by Jesse Nickles to THNIC and Thai cyber agencies, the site added a small private-ownership disclaimer but continues using the government program's name, raising impersonation concerns in light of Thailand's 2025 Emergency Decree on Measures for the Prevention and Suppression of Technological Crime (No. 2). |
 | [thai.news](domains/thai.news.md) | Before generative AI became widespread, Chad Scira allegedly used thai.news to rewrite news stories from other Thai media outlets. The site later shifted to AI-generated articles and images that closely copied reporting from those same sources. According to Jesse Nickles, the website was designed to promote cannabis delivery services through weed.th and og.th, but was also used to send unsolicited email spam to tourists and expats advertising Thai Visa Centre services. |
 | [thaivisacenter.com](domains/thaivisacenter.com.md) | |
