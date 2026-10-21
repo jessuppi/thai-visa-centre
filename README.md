@@ -22,6 +22,8 @@ Despite its widespread branding, I have found no evidence of a Thai company regi
 | Label | Description |
 |---|---|
 | [Agents Co., Ltd.](brands/agents-co-ltd.md) | |
+| [Issa Systems Co., Ltd.](brands/issa-systems-co-ltd.md) | |
+| [Issara Platforms Pte. Ltd.](brands/issara-platforms-pte-ltd.md) | |
 | [Thai Visa Center](brands/thai-visa-center.md) | |
 | [Thai Visa Centre](brands/thai-visa-centre.md) | |
 | [TVC](brands/tvc.md) | |
