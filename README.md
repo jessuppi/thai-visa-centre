@@ -32,6 +32,7 @@ The goal is to document these connections through historical records, archived w
 
 | Label | Description |
 |---|---|
+| [Issa Compass](brands/issa-compass.md) | |
 | [Thai Visa Center](brands/thai-visa-center.md) | |
 | [Thai Visa Centre](brands/thai-visa-centre.md) | |
 | [TVC](brands/tvc.md) | |
