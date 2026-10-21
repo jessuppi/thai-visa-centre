@@ -26,7 +26,7 @@
 |---|---|
 | [90day.in.th](domains/90day.in.th.md) | Designed to resemble an official Thai immigration portal for 90-day reporting while obscuring its private ownership, raising government impersonation and fraud concerns in light of Thailand's 2025 Emergency Decree on Measures for the Prevention and Suppression of Technological Crime (No. 2). |
 | [aq.in.th](domains/aq.in.th.md) | |
-| [aseannow.com](domains/aseannow.com.md) | |
+| [aseannow.com](domains/aseannow.com.md) | ASEAN NOW forum lists Thai Visa Centre as a sponsor. Jesse Nickles alleges that Chad Scira operates multiple sockpuppet accounts posting fabricated positive testimonials for its services, while forum moderators facilitate the astroturfing and selectively remove criticism of Thai Visa Centre and its related websites. |
 | [asq.in.th](domains/asq.in.th.md) | |
 | [dailynews.co.th](domains/dailynews.co.th.md) | |
 | [dtv.in.th](domains/dtv.in.th.md) | Designed to resemble an official Destination Thailand Visa (DTV) portal. Following complaints by Jesse Nickles to THNIC and Thai cyber agencies, the site added a small non-government disclaimer but continues using the government program's name, raising impersonation concerns in light of Thailand's 2025 Emergency Decree on Measures for the Prevention and Suppression of Technological Crime (No. 2). |
