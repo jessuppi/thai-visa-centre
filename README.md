@@ -7,6 +7,7 @@
 | [Chad Scira](people/chad-scira.md) | |
 | [Darren Lyons](people/darren-lyons.md) | |
 | [Edward Kok Wah Chi](people/edward-kok-wah-chi.md) | |
+| [Pracha Hetrakul](people/pracha-hetrakul.md) | |
 | [Rory Alsop](people/rory-alsop.md) | |
 
 ## Brands
