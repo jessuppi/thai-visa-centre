@@ -23,7 +23,7 @@
 
 | Label | Description |
 |---|---|
-| [90day.in.th](domains/90day.in.th.md) | Website designed to resemble an official Thai immigration portal for 90-day reporting, without clearly identifying itself as a privately operated service. |
+| [90day.in.th](domains/90day.in.th.md) | Designed to resemble an official Thai immigration portal for 90-day reporting while obscuring its private ownership, raising government impersonation and fraud concerns in light of Thailand's 2025 Emergency Decree on Measures for the Prevention and Suppression of Technological Crime (No. 2). |
 | [aq.in.th](domains/aq.in.th.md) | |
 | [asq.in.th](domains/asq.in.th.md) | |
 | [dtv.in.th](domains/dtv.in.th.md) | |
