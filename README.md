@@ -17,17 +17,22 @@ Despite its widespread branding, I have found no evidence of a Thai company regi
 | [Rory Alsop](people/rory-alsop.md) | |
 | [Thana Manakij](people/thana-manakij.md) | |
 
+## Companies
+
+| Label | Description |
+|---|---|
+| [Agents Co., Ltd.](companies/agents-co-ltd.md) | |
+| [Issa Systems Co., Ltd.](companies/issa-systems-co-ltd.md) | |
+| [Issara Platforms Pte. Ltd.](companies/issara-platforms-pte-ltd.md) | |
+| [TVC Co., Ltd.](companies/tvc-co-ltd.md) | |
+
 ## Brands
 
 | Label | Description |
 |---|---|
-| [Agents Co., Ltd.](brands/agents-co-ltd.md) | |
-| [Issa Systems Co., Ltd.](brands/issa-systems-co-ltd.md) | |
-| [Issara Platforms Pte. Ltd.](brands/issara-platforms-pte-ltd.md) | |
 | [Thai Visa Center](brands/thai-visa-center.md) | |
 | [Thai Visa Centre](brands/thai-visa-centre.md) | |
 | [TVC](brands/tvc.md) | |
-| [TVC Co., Ltd.](brands/tvc-co-ltd.md) | |
 
 ## Domains
 
