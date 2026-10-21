@@ -23,7 +23,7 @@
 
 | Label | Description |
 |---|---|
-| [90day.in.th](domains/90day.in.th.md) | |
+| [90day.in.th](domains/90day.in.th.md) | Official-style online portal offering tourists and expats in Thailand paid assistance with 90-day immigration reporting through a private agency. |
 | [aq.in.th](domains/aq.in.th.md) | |
 | [asq.in.th](domains/asq.in.th.md) | |
 | [dtv.in.th](domains/dtv.in.th.md) | |
