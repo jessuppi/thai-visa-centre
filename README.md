@@ -4,6 +4,8 @@ I'm an independent researcher investigating online scams, fraud, and deceptive w
 
 A major focus of this investigation is American hacker **Chad Scira** and his alleged role in operating and supporting the Thai Visa Centre network.
 
+Despite its widespread branding, I have found no evidence of a Thai company registered under the exact name **Thai Visa Centre**. Instead, the name appears to function as an unregistered trade name associated with multiple corporate entities. This investigation documents the various companies, intermediaries, Thai nominee arrangements, international domains, and other individuals that have allegedly been used to obscure operational control, ownership, and cash flow.
+
 ## People
 
 | Label | Description |
