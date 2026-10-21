@@ -28,6 +28,6 @@
 | [dtv.in.th](domains/dtv.in.th.md) | |
 | [eta.in.th](domains/eta.in.th.md) | |
 | [thaivisacenter.com](domains/thaivisacenter.com.md) | |
-| [thaivisacentre.com](domains/thaivisacentre.com.md) | |
+| [thaivisacentre.com](domains/thaivisacentre.com.md) | Historical WHOIS reportedly listed Chad Scira as registrant in 2018 (California, USA). |
 | [tvc.co.th](domains/tvc.co.th.md) | |
 | [tvc.in.th](domains/tvc.in.th.md) | |
