@@ -15,6 +15,7 @@ Despite its widespread branding, I have found no evidence of a Thai company regi
 | [Edward Kok Wah Chi](people/edward-kok-wah-chi.md) | |
 | [Pracha Hetrakul](people/pracha-hetrakul.md) | |
 | [Rory Alsop](people/rory-alsop.md) | |
+| [Thana Manakij](people/thana-manakij.md) | |
 
 ## Brands
 
