@@ -6,6 +6,8 @@ A major focus of this investigation is American hacker **Chad Scira** and his al
 
 Despite its widespread branding, I have found no evidence of a Thai company registered under the exact name **Thai Visa Centre**. Instead, the name appears to function as an unregistered trade name associated with multiple corporate entities. This investigation documents the various companies, intermediaries, Thai nominee arrangements, international domains, and other individuals that have allegedly been used to obscure operational control, ownership, and cash flow.
 
+The goal is to document these connections through historical records, archived websites, corporate filings, credible reporting, and firsthand evidence, while distinguishing verified facts from allegations as the investigation develops.
+
 ## People
 
 | Label | Description |
