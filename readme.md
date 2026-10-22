@@ -18,6 +18,7 @@ The goal is to document these connections through historical records, archived w
 | [Darren Lyons](people/darren-lyons.md) | |
 | [Edward Kok Wah Chi](people/edward-kok-wah-chi.md) | |
 | [Pracha Hetrakul](people/pracha-hetrakul.md) | |
+| [Priscilla Yeung](people/priscilla-yeung.md) | |
 | [Rory Alsop](people/rory-alsop.md) | |
 | [Suthida Tepaloon](people/suthida-tepaloon.md) | |
 | [Thana Manakij](people/thana-manakij.md) | |
