@@ -14,6 +14,7 @@ The goal is to document these connections through historical records, archived w
 
 | Label | Description |
 |---|---|
+| [Aaron Yip](people/aaron-yip.md) | |
 | [Chad Scira](people/chad-scira.md) | |
 | [Darren Lyons](people/darren-lyons.md) | |
 | [Edward Kok Wah Chi](people/edward-kok-wah-chi.md) | |
