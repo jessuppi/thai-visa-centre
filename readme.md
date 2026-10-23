@@ -32,7 +32,7 @@ The goal is to document these connections through historical records, archived w
 | Label | Country | Description |
 |---|---|---|
 | [Agents Co., Ltd.](companies/agents-co-ltd.md) | Thailand | |
-| [Issa Systems Co., Ltd.](companies/issa-systems-co-ltd.md) | | |
+| [Issa Systems Co., Ltd.](companies/issa-systems-co-ltd.md) | Thailand | |
 | [Issara Platforms Pte. Ltd.](companies/issara-platforms-pte-ltd.md) | Singapore | |
 | [Si Phya Publishing Co. Ltd.](companies/si-phya-publishing-co-ltd.md) | Thailand | |
 | [The Thaiger Pte. Ltd.](companies/the-thaiger-pte-ltd.md) | Singapore | |
