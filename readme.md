@@ -22,7 +22,7 @@ The goal is to document these connections through historical records, archived w
 | [Edward Kok Wah Chi](people/edward-kok-wah-chi.md) | American | |
 | [Pracha Hetrakul](people/pracha-hetrakul.md) | Thai | Although some sources still identify Pracha Hetrakul as editor-in-chief of Daily News, his current involvement in day-to-day editorial operations is unclear. |
 | [Priscilla Yeung](people/priscilla-yeung.md) | | |
-| [Rory Alsop](people/rory-alsop.md) | | |
+| [Rory Alsop](people/rory-alsop.md) | British | |
 | [Suthida Tepaloon](people/suthida-tepaloon.md) | | |
 | [Thana Manakij](people/thana-manakij.md) | | |
 | [Tod Daniels](people/tod-daniels.md) | | |
