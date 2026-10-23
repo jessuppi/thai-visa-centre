@@ -36,7 +36,7 @@ The goal is to document these connections through historical records, archived w
 | [Issara Platforms Pte. Ltd.](companies/issara-platforms-pte-ltd.md) | Singapore | |
 | [Si Phya Publishing Co. Ltd.](companies/si-phya-publishing-co-ltd.md) | Thailand | |
 | [The Thaiger Pte. Ltd.](companies/the-thaiger-pte-ltd.md) | Singapore | |
-| [TVC Co., Ltd.](companies/tvc-co-ltd.md) | | |
+| [TVC Co., Ltd.](companies/tvc-co-ltd.md) | Thailand | |
 
 ## Brands
 
