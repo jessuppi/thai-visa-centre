@@ -20,7 +20,7 @@ The goal is to document these connections through historical records, archived w
 | [Darren Lyons](people/darren-lyons.md) | |
 | [Dechathorn Saengsap](people/dechathorn-saengsap.md) | Head of online news at Daily News since at least 2022. The newspaper's [August 2020](https://github.com/jessuppi/chad-scira-arrest/blob/master/articles/2020-08-05-dailynews.md) coverage of the Thai Visa Centre police raid is no longer available on its website, while April 2025 reporting on the launch of Thailand's official TDAC program included links to the privately operated tdac.in.th alongside the government portal. Jesse Nickles says his emails alerting Daily News that tdac.in.th is an unofficial and deceptively designed TDAC website have gone unanswered. |
 | [Edward Kok Wah Chi](people/edward-kok-wah-chi.md) | |
-| [Pracha Hetrakul](people/pracha-hetrakul.md) | |
+| [Pracha Hetrakul](people/pracha-hetrakul.md) | Although some sources still identify Pracha Hetrakul as editor-in-chief of Daily News, his current involvement in day-to-day editorial operations is unclear. |
 | [Priscilla Yeung](people/priscilla-yeung.md) | |
 | [Rory Alsop](people/rory-alsop.md) | |
 | [Suthida Tepaloon](people/suthida-tepaloon.md) | |
