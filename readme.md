@@ -33,6 +33,7 @@ The goal is to document these connections through historical records, archived w
 | [Agents Co., Ltd.](companies/agents-co-ltd.md) | |
 | [Issa Systems Co., Ltd.](companies/issa-systems-co-ltd.md) | |
 | [Issara Platforms Pte. Ltd.](companies/issara-platforms-pte-ltd.md) | |
+| [Si Phya Publishing Co. Ltd.](companies/si-phya-publishing-co-ltd.md) | |
 | [TVC Co., Ltd.](companies/tvc-co-ltd.md) | |
 
 ## Brands
