@@ -18,6 +18,7 @@ The goal is to document these connections through historical records, archived w
 | [Andrei-Nicusor Covalescu](people/andrei-nicusor-covalescu.md) | |
 | [Chad Scira](people/chad-scira.md) | |
 | [Darren Lyons](people/darren-lyons.md) | |
+| [Dechathorn Saengsap](people/dechathorn-saengsap.md) | |
 | [Edward Kok Wah Chi](people/edward-kok-wah-chi.md) | |
 | [Pracha Hetrakul](people/pracha-hetrakul.md) | |
 | [Priscilla Yeung](people/priscilla-yeung.md) | |
