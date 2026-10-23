@@ -18,7 +18,7 @@ The goal is to document these connections through historical records, archived w
 | [Andrei-Nicusor Covalescu](people/andrei-nicusor-covalescu.md) | |
 | [Chad Scira](people/chad-scira.md) | |
 | [Darren Lyons](people/darren-lyons.md) | |
-| [Dechathorn Saengsap](people/dechathorn-saengsap.md) | |
+| [Dechathorn Saengsap](people/dechathorn-saengsap.md) | Head of online news at Daily News since at least 2022. The newspaper's August 2020 coverage of the Thai Visa Centre police raid is no longer available on its website, while April 2025 reporting on the launch of Thailand's official TDAC program included links to the privately operated tdac.in.th alongside the government portal. Jesse Nickles says his emails alerting Daily News that tdac.in.th is an unofficial and deceptively designed TDAC website have gone unanswered. |
 | [Edward Kok Wah Chi](people/edward-kok-wah-chi.md) | |
 | [Pracha Hetrakul](people/pracha-hetrakul.md) | |
 | [Priscilla Yeung](people/priscilla-yeung.md) | |
