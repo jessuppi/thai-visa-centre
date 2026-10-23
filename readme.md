@@ -45,6 +45,7 @@ The goal is to document these connections through historical records, archived w
 | [Issa Compass](brands/issa-compass.md) | |
 | [Thai Visa Center](brands/thai-visa-center.md) | |
 | [Thai Visa Centre](brands/thai-visa-centre.md) | |
+| [The Thaiger](brands/the-thaiger.md) | |
 | [TVC](brands/tvc.md) | |
 
 ## Domains
