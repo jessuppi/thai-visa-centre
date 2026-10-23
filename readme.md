@@ -41,6 +41,7 @@ The goal is to document these connections through historical records, archived w
 
 | Label | Description |
 |---|---|
+| [ASEAN NOW](brands/asean-now.md) | |
 | [Issa Compass](brands/issa-compass.md) | |
 | [Thai Visa Center](brands/thai-visa-center.md) | |
 | [Thai Visa Centre](brands/thai-visa-centre.md) | |
