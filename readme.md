@@ -51,7 +51,7 @@ The goal is to document these connections through historical records, archived w
 
 ## Domains
 
-| Label | Owner | Description |
+| Domain | Owner | Description |
 |---|---|---|
 | [90day.in.th](domains/90day.in.th.md) | | Designed to resemble an official Thai immigration portal for 90-day reporting while obscuring its private ownership, raising government impersonation and fraud concerns in light of Thailand's 2025 Emergency Decree on Measures for the Prevention and Suppression of Technological Crime (No. 2). |
 | [agents.co.th](domains/agents.co.th.md) | | |
