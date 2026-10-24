@@ -25,7 +25,7 @@ The goal is to document these connections through historical records, archived w
 | [Rory Alsop](people/rory-alsop.md) | British | |
 | [Suthida Tepaloon](people/suthida-tepaloon.md) | Thai | |
 | [Thana Manakij](people/thana-manakij.md) | Thai | |
-| [Thanyarat Tiangtrong](people/thanyarat-tiangtrong.md) | Thai | According to her LinkedIn profile, she worked full-time as a sales representative for OG Thai Co., Ltd. from November 2023 to August 2024, before joining FazWaz Co., Ltd. in August 2024, where she remains employed as of October 2026. |
+| [Thanyarat Tiangtrong](people/thanyarat-tiangtrong.md) | Thai | According to her [LinkedIn profile](https://www.linkedin.com/in/thanyarat-t-793a30290/), she worked full-time as a sales representative for OG Thai Co., Ltd. from November 2023 to August 2024, before joining FazWaz Co., Ltd. in August 2024, where she remains employed as of October 2026. |
 | [Tod Daniels](people/tod-daniels.md) | American | |
 
 ## Companies
