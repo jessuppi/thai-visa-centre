@@ -1,4 +1,4 @@
-# Thai Visa Centre
+# Mapping the Thai Visa Centre and Issa Compass network
 
 *Inclusion in this repository does not necessarily indicate ownership, affiliation, or wrongdoing. Some individuals and websites are included because they appear in relevant historical reporting or other evidence.*
 
