@@ -37,7 +37,7 @@ The goal is to document these connections through historical records, archived w
 | [Si Phya Publishing Co. Ltd.](companies/si-phya-publishing-co-ltd.md) | Thailand | |
 | [The Thaiger Pte. Ltd.](companies/the-thaiger-pte-ltd.md) | Singapore | |
 | [TVC Co., Ltd.](companies/tvc-co-ltd.md) | Thailand | |
-| [TVC. Visa Agent Co., Ltd.](companies/tvc-visa-agent-co-ltd.md) | | |
+| [TVC. Visa Agent Co., Ltd.](companies/tvc-visa-agent-co-ltd.md) | Thailand | |
 
 ## Brands
 
