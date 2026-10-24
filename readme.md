@@ -76,7 +76,7 @@ The goal is to document these connections through historical records, archived w
 | [thethaiger.com](domains/thethaiger.com.md) | | |
 | [thetdacguide.com](domains/thetdacguide.com.md) | | |
 | [thim.in.th](domains/thim.in.th.md) | | |
-| [tvc.co.th](domains/tvc.co.th.md) | | |
+| [tvc.co.th](domains/tvc.co.th.md) | [TVC. Visa Agent Co., Ltd.](companies/tvc-visa-agent-co-ltd.md) | |
 | [tvc.in.th](domains/tvc.in.th.md) | | |
 | [useblacklist.com](domains/useblacklist.com.md) | | |
 | [weed.th](domains/weed.th.md) | | |
