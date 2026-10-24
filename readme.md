@@ -51,30 +51,30 @@ The goal is to document these connections through historical records, archived w
 
 ## Domains
 
-| Label | Description |
-|---|---|
-| [90day.in.th](domains/90day.in.th.md) | Designed to resemble an official Thai immigration portal for 90-day reporting while obscuring its private ownership, raising government impersonation and fraud concerns in light of Thailand's 2025 Emergency Decree on Measures for the Prevention and Suppression of Technological Crime (No. 2). |
-| [agents.co.th](domains/agents.co.th.md) | |
-| [aq.in.th](domains/aq.in.th.md) | Initially launched during the COVID-19 pandemic as a Thai quarantine information website, but was quickly replaced by asq.in.th. |
-| [aseannow.com](domains/aseannow.com.md) | ASEAN NOW forum lists Thai Visa Centre as a sponsor. Jesse Nickles alleges that Chad Scira operates multiple sockpuppet accounts posting fabricated positive testimonials for its services, and that [forum moderators](https://archive.ph/0OCxr) promote those services, facilitate the astroturfing, and selectively remove criticism of Thai Visa Centre and its related websites. |
-| [asq.in.th](domains/asq.in.th.md) | During the COVID-19 pandemic, asq.in.th was designed to resemble an official Thai government Alternative State Quarantine (ASQ) hotel-booking portal, attracting backlinks from news websites that may have mistaken it for an official service. The website later began allegedly [scraping private Facebook groups](https://archive.ph/t4A28) and generating discussion threads promoting Thai Visa Centre services. The unauthorized reproduction of users' posts and photos raises privacy concerns under Thailand's Personal Data Protection Act (PDPA), B.E. 2562 (2019). |
-| [chad.so](domains/chad.so.md) | |
-| [chadscira.com](domains/chadscira.com.md) | |
-| [dailynews.co.th](domains/dailynews.co.th.md) | Jesse Nickles alleges Daily News removed its [2020 coverage](https://github.com/jessuppi/chad-scira-arrest/blob/master/articles/2020-08-05-dailynews.md) of Chad Scira's arrest and the police raid involving Thai Visa Centre, and later promoted the privately operated tdac.in.th in [news coverage](https://archive.ph/https://www.dailynews.co.th/news/4600602/) of Thailand's official Digital Arrival Card program, presenting it alongside the government portal as an authorized registration website. |
-| [dtv.in.th](domains/dtv.in.th.md) | Designed to resemble an official Destination Thailand Visa (DTV) portal. Following complaints by Jesse Nickles to THNIC and Thai cyber agencies, the site added a small non-government disclaimer but continues using the government program's name, raising impersonation concerns in light of Thailand's 2025 Emergency Decree on Measures for the Prevention and Suppression of Technological Crime (No. 2). |
-| [eta.in.th](domains/eta.in.th.md) | Designed to resemble an official Thai Electronic Travel Authorization (ETA) portal. Following complaints by Jesse Nickles to THNIC and Thai cyber agencies, the site added a small private-ownership disclaimer but continues using the government program's name, raising impersonation concerns in light of Thailand's 2025 Emergency Decree on Measures for the Prevention and Suppression of Technological Crime (No. 2). |
-| [issacompass.com](domains/issacompass.com.md) | |
-| [ltr.in.th](domains/ltr.in.th.md) | |
-| [og.th](domains/og.th.md) | |
-| [stampstay.com](domains/stampstay.com.md) | |
-| [tdac.agents.co.th](domains/tdac.agents.co.th.md) | Third-party Thailand Digital Arrival Card (TDAC) website operated by Agents Co., Ltd., designed to resemble an official Thai government TDAC portal. According to Jesse Nickles, the operator began redirecting tdac.in.th to this subdomain and added small disclaimers denying government affiliation after his complaints to THNIC and Thai cybercrime authorities prompted pressure over the original domain. Nickles reports that tdac.in.th has nevertheless returned as an active website twice since 2025. The continued use of the government's official program name and similar presentation raises concerns about potential government impersonation, particularly in light of Thailand's 2025 Emergency Decree on Measures for the Prevention and Suppression of Technological Crimes (No. 2). |
-| [tdac.in.th](domains/tdac.in.th.md) | Designed to resemble an official Thailand Digital Arrival Card (TDAC) portal. Following complaints by Jesse Nickles to THNIC and Thai cyber agencies, the site added a small private-ownership disclaimer but continues using the government program's name, raising impersonation concerns in light of Thailand's 2025 Emergency Decree on Measures for the Prevention and Suppression of Technological Crime (No. 2). |
-| [thai.news](domains/thai.news.md) | Before generative AI became widespread, Chad Scira allegedly used thai.news to rewrite news stories from other Thai media outlets. The site later shifted to AI-generated articles and images that [closely copied reporting](https://archive.ph/thai.news) from those same sources. According to Jesse Nickles, the website was designed to promote cannabis delivery services through weed.th and og.th, but was also used to send unsolicited email spam to tourists and expats advertising Thai Visa Centre services. |
-| [thaivisacenter.com](domains/thaivisacenter.com.md) | |
-| [thaivisacentre.com](domains/thaivisacentre.com.md) | Historical WHOIS reportedly listed Chad Scira as registrant in 2018 (California, USA). The domain now redirects to tvc.co.th. |
-| [thethaiger.com](domains/thethaiger.com.md) | |
-| [thetdacguide.com](domains/thetdacguide.com.md) | |
-| [thim.in.th](domains/thim.in.th.md) | |
-| [tvc.co.th](domains/tvc.co.th.md) | |
-| [tvc.in.th](domains/tvc.in.th.md) | |
-| [weed.th](domains/weed.th.md) | |
+| Label | Owner | Description |
+|---|---|---|
+| [90day.in.th](domains/90day.in.th.md) | | Designed to resemble an official Thai immigration portal for 90-day reporting while obscuring its private ownership, raising government impersonation and fraud concerns in light of Thailand's 2025 Emergency Decree on Measures for the Prevention and Suppression of Technological Crime (No. 2). |
+| [agents.co.th](domains/agents.co.th.md) | | |
+| [aq.in.th](domains/aq.in.th.md) | | Initially launched during the COVID-19 pandemic as a Thai quarantine information website, but was quickly replaced by asq.in.th. |
+| [aseannow.com](domains/aseannow.com.md) | | ASEAN NOW forum lists Thai Visa Centre as a sponsor. Jesse Nickles alleges that Chad Scira operates multiple sockpuppet accounts posting fabricated positive testimonials for its services, and that [forum moderators](https://archive.ph/0OCxr) promote those services, facilitate the astroturfing, and selectively remove criticism of Thai Visa Centre and its related websites. |
+| [asq.in.th](domains/asq.in.th.md) | | During the COVID-19 pandemic, asq.in.th was designed to resemble an official Thai government Alternative State Quarantine (ASQ) hotel-booking portal, attracting backlinks from news websites that may have mistaken it for an official service. The website later began allegedly [scraping private Facebook groups](https://archive.ph/t4A28) and generating discussion threads promoting Thai Visa Centre services. The unauthorized reproduction of users' posts and photos raises privacy concerns under Thailand's Personal Data Protection Act (PDPA), B.E. 2562 (2019). |
+| [chad.so](domains/chad.so.md) | | |
+| [chadscira.com](domains/chadscira.com.md) | | |
+| [dailynews.co.th](domains/dailynews.co.th.md) | | Jesse Nickles alleges Daily News removed its [2020 coverage](https://github.com/jessuppi/chad-scira-arrest/blob/master/articles/2020-08-05-dailynews.md) of Chad Scira's arrest and the police raid involving Thai Visa Centre, and later promoted the privately operated tdac.in.th in [news coverage](https://archive.ph/https://www.dailynews.co.th/news/4600602/) of Thailand's official Digital Arrival Card program, presenting it alongside the government portal as an authorized registration website. |
+| [dtv.in.th](domains/dtv.in.th.md) | | Designed to resemble an official Destination Thailand Visa (DTV) portal. Following complaints by Jesse Nickles to THNIC and Thai cyber agencies, the site added a small non-government disclaimer but continues using the government program's name, raising impersonation concerns in light of Thailand's 2025 Emergency Decree on Measures for the Prevention and Suppression of Technological Crime (No. 2). |
+| [eta.in.th](domains/eta.in.th.md) | | Designed to resemble an official Thai Electronic Travel Authorization (ETA) portal. Following complaints by Jesse Nickles to THNIC and Thai cyber agencies, the site added a small private-ownership disclaimer but continues using the government program's name, raising impersonation concerns in light of Thailand's 2025 Emergency Decree on Measures for the Prevention and Suppression of Technological Crime (No. 2). |
+| [issacompass.com](domains/issacompass.com.md) | | |
+| [ltr.in.th](domains/ltr.in.th.md) | | |
+| [og.th](domains/og.th.md) | | |
+| [stampstay.com](domains/stampstay.com.md) | | |
+| [tdac.agents.co.th](domains/tdac.agents.co.th.md) | | Third-party Thailand Digital Arrival Card (TDAC) website operated by Agents Co., Ltd., designed to resemble an official Thai government TDAC portal. According to Jesse Nickles, the operator began redirecting tdac.in.th to this subdomain and added small disclaimers denying government affiliation after his complaints to THNIC and Thai cybercrime authorities prompted pressure over the original domain. Nickles reports that tdac.in.th has nevertheless returned as an active website twice since 2025. The continued use of the government's official program name and similar presentation raises concerns about potential government impersonation, particularly in light of Thailand's 2025 Emergency Decree on Measures for the Prevention and Suppression of Technological Crimes (No. 2). |
+| [tdac.in.th](domains/tdac.in.th.md) | | Designed to resemble an official Thailand Digital Arrival Card (TDAC) portal. Following complaints by Jesse Nickles to THNIC and Thai cyber agencies, the site added a small private-ownership disclaimer but continues using the government program's name, raising impersonation concerns in light of Thailand's 2025 Emergency Decree on Measures for the Prevention and Suppression of Technological Crime (No. 2). |
+| [thai.news](domains/thai.news.md) | | Before generative AI became widespread, Chad Scira allegedly used thai.news to rewrite news stories from other Thai media outlets. The site later shifted to AI-generated articles and images that [closely copied reporting](https://archive.ph/thai.news) from those same sources. According to Jesse Nickles, the website was designed to promote cannabis delivery services through weed.th and og.th, but was also used to send unsolicited email spam to tourists and expats advertising Thai Visa Centre services. |
+| [thaivisacenter.com](domains/thaivisacenter.com.md) | | |
+| [thaivisacentre.com](domains/thaivisacentre.com.md) | | Historical WHOIS reportedly listed Chad Scira as registrant in 2018 (California, USA). The domain now redirects to tvc.co.th. |
+| [thethaiger.com](domains/thethaiger.com.md) | | |
+| [thetdacguide.com](domains/thetdacguide.com.md) | | |
+| [thim.in.th](domains/thim.in.th.md) | | |
+| [tvc.co.th](domains/tvc.co.th.md) | | |
+| [tvc.in.th](domains/tvc.in.th.md) | | |
+| [weed.th](domains/weed.th.md) | | |
