@@ -33,6 +33,7 @@ The goal is to document these connections through historical records, archived w
 | Label | Country | Description |
 |---|---|---|
 | [Agents Co., Ltd.](companies/agents-co-ltd.md) | Thailand | |
+| [FazWaz Co., Ltd.](companies/fazwaz-co-ltd.md) | | |
 | [Issa Systems Co., Ltd.](companies/issa-systems-co-ltd.md) | Thailand | |
 | [Issara Platforms Pte. Ltd.](companies/issara-platforms-pte-ltd.md) | Singapore | |
 | [OG Thai Co., Ltd.](companies/og-thai-co-ltd.md) | Thailand | |
