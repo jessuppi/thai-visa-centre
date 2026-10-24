@@ -83,4 +83,4 @@ The goal is to document these connections through historical records, archived w
 | [tvc.co.th](domains/tvc.co.th.md) | [TVC. Visa Agent Co., Ltd.](companies/tvc-visa-agent-co-ltd.md) | |
 | [tvc.in.th](domains/tvc.in.th.md) | | |
 | [useblacklist.com](domains/useblacklist.com.md) | | |
-| [weed.th](domains/weed.th.md) | | |
+| [weed.th](domains/weed.th.md) | [WEED.TH Co., Ltd.](companies/weed-th-co-ltd.md) | |
