@@ -41,7 +41,7 @@ The goal is to document these connections through historical records, archived w
 | [The Thaiger Pte. Ltd.](companies/the-thaiger-pte-ltd.md) | Singapore | |
 | [TVC Co., Ltd.](companies/tvc-co-ltd.md) | Thailand | |
 | [TVC. Visa Agent Co., Ltd.](companies/tvc-visa-agent-co-ltd.md) | Thailand | |
-| [WEED.TH Co., Ltd.](companies/weed-th-co-ltd.md) | | |
+| [WEED.TH Co., Ltd.](companies/weed-th-co-ltd.md) | Thailand | |
 
 ## Brands
 
