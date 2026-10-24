@@ -25,6 +25,7 @@ The goal is to document these connections through historical records, archived w
 | [Rory Alsop](people/rory-alsop.md) | British | |
 | [Suthida Tepaloon](people/suthida-tepaloon.md) | Thai | |
 | [Thana Manakij](people/thana-manakij.md) | Thai | |
+| [Thanyarat Tiangtrong](people/thanyarat-tiangtrong.md) | | |
 | [Tod Daniels](people/tod-daniels.md) | | |
 
 ## Companies
