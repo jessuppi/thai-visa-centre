@@ -14,7 +14,7 @@ The goal is to document these connections through historical records, archived w
 
 | Label | Nationality | Description |
 |---|---|---|
-| [Aaron Yip](people/aaron-yip.md) | | |
+| [Aaron Yip](people/aaron-yip.md) | Singaporean | |
 | [Andrei-Nicusor Covalescu](people/andrei-nicusor-covalescu.md) | | |
 | [Chad Scira](people/chad-scira.md) | American | American national [arrested in Bangkok](https://github.com/jessuppi/chad-scira-arrest) in August 2020 following a police investigation into an alleged large-scale visa and government-document forgery operation and illegal cannabis production intended for sale. Thailand's Immigration Bureau chief publicly identified Scira and his wife as having established the business calling itself Thai Visa Centre. Police reported seizing forged documents, 55 government-style stamps, and 60 cannabis plants. More than six years later, Jesse Nickles says he has found no public documentation of any subsequent prosecution, court proceedings, or case outcome, nor evidence that Scira has served a prison sentence. |
 | [Darren Lyons](people/darren-lyons.md) | British | |
