@@ -23,7 +23,7 @@ The goal is to document these connections through historical records, archived w
 | [Pracha Hetrakul](people/pracha-hetrakul.md) | Thai | Although some sources still identify Pracha Hetrakul as editor-in-chief of Daily News, his current involvement in day-to-day editorial operations is unclear. |
 | [Priscilla Yeung](people/priscilla-yeung.md) | Singaporean | |
 | [Rory Alsop](people/rory-alsop.md) | British | |
-| [Suthida Tepaloon](people/suthida-tepaloon.md) | | |
+| [Suthida Tepaloon](people/suthida-tepaloon.md) | Thai | |
 | [Thana Manakij](people/thana-manakij.md) | | |
 | [Tod Daniels](people/tod-daniels.md) | | |
 
