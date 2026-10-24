@@ -24,7 +24,7 @@ The goal is to document these connections through historical records, archived w
 | [Priscilla Yeung](people/priscilla-yeung.md) | Singaporean | |
 | [Rory Alsop](people/rory-alsop.md) | British | |
 | [Suthida Tepaloon](people/suthida-tepaloon.md) | Thai | |
-| [Thana Manakij](people/thana-manakij.md) | | |
+| [Thana Manakij](people/thana-manakij.md) | Thai | |
 | [Tod Daniels](people/tod-daniels.md) | | |
 
 ## Companies
