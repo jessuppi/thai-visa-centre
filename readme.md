@@ -23,6 +23,7 @@ The goal is to document these connections through historical records, archived w
 | [Pracha Hetrakul](people/pracha-hetrakul.md) | Thai | Although some sources still identify Pracha Hetrakul as editor-in-chief of Daily News, his current involvement in day-to-day editorial operations is unclear. |
 | [Priscilla Yeung](people/priscilla-yeung.md) | Singaporean | |
 | [Rory Alsop](people/rory-alsop.md) | British | |
+| [Sompong Chingduang](people/sompong-chingduang.md) | | |
 | [Suthida Tepaloon](people/suthida-tepaloon.md) | Thai | |
 | [Thana Manakij](people/thana-manakij.md) | Thai | |
 | [Thanyarat Tiangtrong](people/thanyarat-tiangtrong.md) | Thai | According to her [LinkedIn profile](https://www.linkedin.com/in/thanyarat-t-793a30290/), she worked full-time as a sales representative for OG Thai Co., Ltd. from November 2023 to August 2024, before joining FazWaz Co., Ltd. in August 2024, where she remains employed as of October 2026. |
