@@ -38,6 +38,7 @@ The goal is to document these connections through historical records, archived w
 | [Issara Platforms Pte. Ltd.](companies/issara-platforms-pte-ltd.md) | Singapore | |
 | [OG Thai Co., Ltd.](companies/og-thai-co-ltd.md) | Thailand | |
 | [Si Phya Publishing Co. Ltd.](companies/si-phya-publishing-co-ltd.md) | Thailand | |
+| [T.H.NIC Co., Ltd.](companies/t-h-nic-co-ltd.md) | | |
 | [The Thaiger Pte. Ltd.](companies/the-thaiger-pte-ltd.md) | Singapore | |
 | [TVC Co., Ltd.](companies/tvc-co-ltd.md) | Thailand | |
 | [TVC. Visa Agent Co., Ltd.](companies/tvc-visa-agent-co-ltd.md) | Thailand | |
