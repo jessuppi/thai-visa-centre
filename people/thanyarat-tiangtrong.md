@@ -1,1 +1,2 @@
 https://th.jobsdb.com/profiles/thanyarat-tiangtrong-VcHRGPLpjs
+https://www.linkedin.com/in/thanyarat-t-793a30290/
