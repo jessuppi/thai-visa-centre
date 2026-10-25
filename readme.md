@@ -53,6 +53,7 @@ The goal is to document these connections through historical records, archived w
 | [Thai Visa Center](brands/thai-visa-center.md) | |
 | [Thai Visa Centre](brands/thai-visa-centre.md) | Unregistered trade name used to conduct business in Thailand since at least 2018, primarily promoted by American national Chad Scira. According to Jesse Nickles, no company has ever been legally registered in Thailand under the name "Thai Visa Centre," despite the name being used publicly for years to advertise immigration and visa services. |
 | [The Thaiger](brands/the-thaiger.md) | |
+| [THNIC](brands/thnic.md) | |
 | [THNIC Foundation](brands/thnic-foundation.md) | |
 | [TVC](brands/tvc.md) | |
 
