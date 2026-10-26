@@ -56,7 +56,7 @@ The goal is to document these connections through historical records, archived w
 | [The Thaiger](brands/the-thaiger.md) | | |
 | [THNIC](brands/thnic.md) | | THNIC is the commonly used name for Thailand's official registrar of .th and .ไทย domain names, operated by [T.H.NIC Co., Ltd.](companies/t-h-nic-co-ltd.md). The company is authorized by the separate THNIC Foundation to process domain registration applications and manage registrations under Thailand's national domain extensions. |
 | [THNIC Foundation](brands/thnic-foundation.md) | | |
-| [Travel Stack Exchange](brands/travel-stack-exchange.md) | | |
+| [Travel Stack Exchange](brands/travel-stack-exchange.md) | Q&A community | |
 | [TVC](brands/tvc.md) | | |
 
 ## Domains
