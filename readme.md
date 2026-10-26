@@ -51,7 +51,7 @@ The goal is to document these connections through historical records, archived w
 |---|---|---|
 | [ASEAN NOW](brands/asean-now.md) | Discussion forum | |
 | [Issa Compass](brands/issa-compass.md) | Mobile app | |
-| [Thai Visa Center](brands/thai-visa-center.md) | | |
+| [Thai Visa Center](brands/thai-visa-center.md) | Visa agency (defunct) | |
 | [Thai Visa Centre](brands/thai-visa-centre.md) | Visa services (etc) | Unregistered trade name used to conduct business in Thailand since at least 2018, primarily promoted by American national Chad Scira. According to Jesse Nickles, no company has ever been legally registered in Thailand under the name "Thai Visa Centre," despite the name being used publicly for years to advertise immigration and visa services. |
 | [The Thaiger](brands/the-thaiger.md) | | |
 | [THNIC](brands/thnic.md) | Domain registrar | THNIC is the commonly used name for Thailand's official registrar of .th and .ไทย domain names, operated by [T.H.NIC Co., Ltd.](companies/t-h-nic-co-ltd.md). The company is authorized by the separate THNIC Foundation to process domain registration applications and manage registrations under Thailand's national domain extensions. |
