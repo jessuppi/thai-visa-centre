@@ -34,6 +34,7 @@ The goal is to document these connections through historical records, archived w
 | Label | Country | Description |
 |---|---|---|
 | [Agents Co., Ltd.](companies/agents-co-ltd.md) | Thailand | |
+| [Digital Identity Co., Ltd.](companies/digital-identity-co-ltd.md) | | |
 | [FazWaz Co., Ltd.](companies/fazwaz-co-ltd.md) | Thailand | |
 | [Issa Systems Co., Ltd.](companies/issa-systems-co-ltd.md) | Thailand | |
 | [Issara Platforms Pte. Ltd.](companies/issara-platforms-pte-ltd.md) | Singapore | |
