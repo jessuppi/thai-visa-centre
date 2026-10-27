@@ -1,3 +1,4 @@
 - `https://aseannow.com/topic/1343828-residence-certificate-for-dlt-mae-sai-or-central-immigration/`
 - `https://aseannow.com/topic/1345519-safe-entry-services-bkk-airport/`
 - `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/`
+- `https://aseannow.com/topic/1387557-has-the-visa-exempt-fuss-calmed-down-in-2026/`
