@@ -8,3 +8,4 @@
 - `https://aseannow.com/topic/1388105-safe-entry/`
 - `https://aseannow.com/topic/1400159-re-entry-application-at-suvarnabhumi-airport/`
 - `https://aseannow.com/topic/1402416-re-entry-permit-at-airport/`
+- `https://aseannow.com/topic/1403802-important-dtv-announcement-application-restrictions-sep-2026/`
