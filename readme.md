@@ -35,6 +35,7 @@ The goal is to document these connections through historical records, archived w
 |---|---|---|
 | BrandonJT | [ASEAN NOW](brands/asean-now.md) | The ASEAN NOW account BrandonJT joined the forum in late 2024, a few weeks after [Thanyarat Tiangtrong](people/thanyarat-tiangtrong.md) left [OG Thai Co., Ltd.](companies/og-thai-co-ltd.md) and began working at [FazWaz Co., Ltd.](companies/fazwaz-co-ltd.md). The account presented itself as an expatriate living in the Chiang Rai area and increasingly participated in discussions about Thai immigration, particularly airport "safe entry" services and retirement visas. BrandonJT subsequently began repeatedly promoting Thai Visa Centre websites and paid services, including directing forum users to the company's booking websites. |
 | DrJack54 | [ASEAN NOW](brands/asean-now.md) | |
+| [Edward Kok Wah Chi](people/edward-kok-wah-chi.md) | | |
 
 ## Companies
 
