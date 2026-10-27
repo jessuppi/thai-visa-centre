@@ -7,3 +7,4 @@
 - `https://aseannow.com/topic/1397370-guaranteed-entry-under-some-official-scrutiny/`
 - `https://aseannow.com/topic/1388105-safe-entry/`
 - `https://aseannow.com/topic/1400159-re-entry-application-at-suvarnabhumi-airport/`
+- `https://aseannow.com/topic/1402416-re-entry-permit-at-airport/`
