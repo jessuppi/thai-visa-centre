@@ -4,3 +4,4 @@
 - `https://aseannow.com/topic/1387557-has-the-visa-exempt-fuss-calmed-down-in-2026/`
 - `https://aseannow.com/topic/1394428-looking-for-a-retirement-visa-vis-agent/`
 - `https://aseannow.com/topic/1406324-using-an-agent-for-annual-retirement-extension/`
+- `https://aseannow.com/topic/1397370-guaranteed-entry-under-some-official-scrutiny/`
