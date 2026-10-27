@@ -31,9 +31,9 @@ The goal is to document these connections through historical records, archived w
 
 ## Moderators
 
-| Username | Description |
-|---|---|
-| BrandonJT | |
+| Username | Website | Description |
+|---|---|---|
+| BrandonJT | | |
 
 ## Companies
 
