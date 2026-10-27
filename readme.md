@@ -34,6 +34,7 @@ The goal is to document these connections through historical records, archived w
 | Username | Website | Description |
 |---|---|---|
 | BrandonJT | [ASEAN NOW](brands/asean-now.md) | |
+| DrJack54 | [ASEAN NOW](brands/asean-now.md) | |
 
 ## Companies
 
