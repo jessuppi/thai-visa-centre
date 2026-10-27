@@ -2,3 +2,4 @@
 - `https://aseannow.com/topic/1345519-safe-entry-services-bkk-airport/`
 - `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/`
 - `https://aseannow.com/topic/1387557-has-the-visa-exempt-fuss-calmed-down-in-2026/`
+- `https://aseannow.com/topic/1394428-looking-for-a-retirement-visa-vis-agent/`
