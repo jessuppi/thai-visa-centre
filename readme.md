@@ -33,7 +33,7 @@ The goal is to document these connections through historical records, archived w
 
 | Username | Website | Description |
 |---|---|---|
-| BrandonJT | | |
+| BrandonJT | [ASEAN NOW](brands/asean-now.md) | |
 
 ## Companies
 
