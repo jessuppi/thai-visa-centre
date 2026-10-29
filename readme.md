@@ -50,7 +50,7 @@ The goal is to document these connections through historical records, archived w
 | [Issa Systems Co., Ltd.](companies/issa-systems-co-ltd.md) | Thailand | |
 | [Issara Platforms Pte. Ltd.](companies/issara-platforms-pte-ltd.md) | Singapore | |
 | [OG Thai Co., Ltd.](companies/og-thai-co-ltd.md) | Thailand | |
-| [Si Phya Publishing Co. Ltd.](companies/si-phya-publishing-co-ltd.md) | Thailand | Longtime owner and publisher of Daily News (เดลินิวส์), a Thai-language newspaper established in 1964. |
+| [Si Phya Publishing Co. Ltd.](companies/si-phya-publishing-co-ltd.md) | Thailand | Longtime owner and publisher of Daily News (เดลินิวส์), a Thai-language newspaper established in 1964 that operates dailynews.co.th. Jesse Nickles alleges that at least one newspaper employee was involved in removing its August 2020 coverage of the Thai Visa Centre police raid. In April 2025, Daily News also included a link to the privately operated tdac.in.th in its reporting on Thailand's official Digital Arrival Card (TDAC) program. |
 | [T.H.NIC Co., Ltd.](companies/t-h-nic-co-ltd.md) | Thailand | |
 | [The Thaiger Pte. Ltd.](companies/the-thaiger-pte-ltd.md) | Singapore | |
 | [TVC Co., Ltd.](companies/tvc-co-ltd.md) | Thailand | |
