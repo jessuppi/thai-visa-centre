@@ -1,2 +1,3 @@
 - [https://archive.ph/zEj2y](https://archive.ph/zEj2y)
 - [https://www.tripadvisor.com/ShowTopic-g1-i12105-k15580387-Og_th_marijuana_scam_site_listed_on_Tripadvisor_attractions-Tripadvisor_Support.html](https://www.tripadvisor.com/ShowTopic-g1-i12105-k15580387-Og_th_marijuana_scam_site_listed_on_Tripadvisor_attractions-Tripadvisor_Support.html)
+- `https://www.tripadvisor.com/Attraction_Review-g293916-d28395546-Reviews-Og_th_Bangkok_Weed_Delivery-Bangkok.html`
