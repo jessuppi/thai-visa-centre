@@ -1,0 +1,1 @@
+- [https://archive.ph/https://www.dailynews.co.th/news/4600602/](https://archive.ph/https://www.dailynews.co.th/news/4600602/)
