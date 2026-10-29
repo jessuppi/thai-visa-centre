@@ -49,7 +49,7 @@ The goal is to document these connections through historical records, archived w
 | [FazWaz Co., Ltd.](companies/fazwaz-co-ltd.md) | Thailand | |
 | [Issa Systems Co., Ltd.](companies/issa-systems-co-ltd.md) | Thailand | |
 | [Issara Platforms Pte. Ltd.](companies/issara-platforms-pte-ltd.md) | Singapore | |
-| [OG Thai Co., Ltd.](companies/og-thai-co-ltd.md) | Thailand | |
+| [OG Thai Co., Ltd.](companies/og-thai-co-ltd.md) | Thailand | Operator of og.th, an online cannabis retailer offering products and delivery services in Thailand. According to Jesse Nickles, the business is associated with Chad Scira, and og.th was prominently advertised on thai.news, a website Nickles alleges is personally owned by Scira. |
 | [Si Phya Publishing Co. Ltd.](companies/si-phya-publishing-co-ltd.md) | Thailand | Longtime owner and publisher of Daily News (เดลินิวส์), a Thai-language newspaper established in 1964 that operates [dailynews.co.th](domains/dailynews.co.th.md). Jesse Nickles alleges that at least one newspaper employee was involved in removing its August 2020 coverage of the Thai Visa Centre police raid. In April 2025, Daily News also included a link to the privately operated [tdac.in.th](domains/tdac.in.th.md) in its reporting on Thailand's official Digital Arrival Card (TDAC) program. |
 | [T.H.NIC Co., Ltd.](companies/t-h-nic-co-ltd.md) | Thailand | |
 | [The Thaiger Pte. Ltd.](companies/the-thaiger-pte-ltd.md) | Singapore | |
