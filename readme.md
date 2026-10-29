@@ -49,7 +49,7 @@ The goal is to document these connections through historical records, archived w
 | [Issa Systems Co., Ltd.](companies/issa-systems-co-ltd.md) | Thailand | |
 | [Issara Platforms Pte. Ltd.](companies/issara-platforms-pte-ltd.md) | Singapore | |
 | [OG Thai Co., Ltd.](companies/og-thai-co-ltd.md) | Thailand | |
-| [Si Phya Publishing Co. Ltd.](companies/si-phya-publishing-co-ltd.md) | Thailand | |
+| [Si Phya Publishing Co. Ltd.](companies/si-phya-publishing-co-ltd.md) | Thailand | Longtime owner and publisher of Daily News (เดลินิวส์), a Thai-language newspaper established in 1964. |
 | [T.H.NIC Co., Ltd.](companies/t-h-nic-co-ltd.md) | Thailand | |
 | [The Thaiger Pte. Ltd.](companies/the-thaiger-pte-ltd.md) | Singapore | |
 | [TVC Co., Ltd.](companies/tvc-co-ltd.md) | Thailand | |
