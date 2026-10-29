@@ -43,7 +43,7 @@ The goal is to document these connections through historical records, archived w
 | Label | Country | Description |
 |---|---|---|
 | [Agents Co., Ltd.](companies/agents-co-ltd.md) | Thailand | |
-| [Choice Group Asia Co., Ltd.](companies/choice-group-asia-co-ltd.md) | Thailand | Former owner of ASEAN NOW (previously ThaiVisa.com), whose digital assets, including its discussion forums, were acquired by The Thaiger in April 2024. |
+| [Choice Group Asia Co., Ltd.](companies/choice-group-asia-co-ltd.md) | Thailand | Former owner of [ASEAN NOW](brands/asean-now.md) (previously ThaiVisa.com), whose digital assets, including its discussion forums, were acquired by The Thaiger in April 2024. |
 | [Digital Identity Co., Ltd.](companies/digital-identity-co-ltd.md) | Thailand | |
 | [FazWaz Co., Ltd.](companies/fazwaz-co-ltd.md) | Thailand | |
 | [Issa Systems Co., Ltd.](companies/issa-systems-co-ltd.md) | Thailand | |
