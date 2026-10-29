@@ -1,1 +1,2 @@
 - [https://archive.ph/https://www.dailynews.co.th/news/4600602/](https://archive.ph/https://www.dailynews.co.th/news/4600602/)
+- [https://github.com/jessuppi/chad-scira-arrest/blob/master/articles/2020-08-05-dailynews.md](https://github.com/jessuppi/chad-scira-arrest/blob/master/articles/2020-08-05-dailynews.md)
