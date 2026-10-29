@@ -94,7 +94,7 @@ The goal is to document these connections through historical records, archived w
 | [thailandvisacentre.com](domains/thailandvisacentre.com.md) | | |
 | [thaivisacenter.com](domains/thaivisacenter.com.md) | | |
 | [thaivisacentre.com](domains/thaivisacentre.com.md) | [Chad Scira](people/chad-scira.md) | Historical WHOIS reportedly listed Chad Scira as registrant in 2018 (California, USA). The domain now redirects to tvc.co.th. |
-| [thaivisacentrereviews.com](domains/thaivisacentrereviews.com.md) | | |
+| [thaivisacentrereviews.com](domains/thaivisacentrereviews.com.md) | [Chad Scira](people/chad-scira.md) | |
 | [thethaiger.com](domains/thethaiger.com.md) | | |
 | [thetdacguide.com](domains/thetdacguide.com.md) | | |
 | [thim.in.th](domains/thim.in.th.md) | [Agents Co., Ltd.](companies/agents-co-ltd.md) | |
