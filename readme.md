@@ -37,7 +37,7 @@ The goal is to document these connections through historical records, archived w
 | DrJack54 | [ASEAN NOW](brands/asean-now.md) | |
 | [Edward Kok Wah Chi](people/edward-kok-wah-chi.md) | Koh Chang News (Facebook group) | Moderates the group under his real name. |
 | [Rory Alsop](people/rory-alsop.md) | [Travel Stack Exchange](brands/travel-stack-exchange.md) | Moderates the community under his real name. |
-| [Tod Daniels](people/tod-daniels.md) | | Moderates or assists with moderation of various Thailand-focused Facebook groups and the ASEAN NOW forums, using his real name. |
+| [Tod Daniels](people/tod-daniels.md) | | Moderates or assists with moderation of various Thailand-focused Facebook groups and the [ASEAN NOW](brands/asean-now.md) forums, using his real name. |
 
 ## Companies
 
