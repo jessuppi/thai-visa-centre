@@ -62,6 +62,18 @@ Alsop confirmed that he had voted to close the question, arguing that the electr
 
 The exchange is relevant to Alsop's later handling of Thailand-related visa questions. It documents his willingness to defend a closure even after the community reversed it, while openly discouraging contributors from seeking explanations for moderation decisions.
 
+## December 2024: Accusing a User of “Gaming Results”
+
+On December 29, 2024, Travel Stack Exchange contributor Franck Dernoncourt challenged the closure of his question about finding the locations of a city's tallest buildings. The question had been closed under rules prohibiting tasks normally performed by travel agents, despite asking how to locate buildings on a map rather than arrange an itinerary.[^66][^67]
+
+On December 30, Rory Alsop confirmed that he had voted to close the question. Rather than explaining why identifying tall buildings constituted a travel-agent task, he repeated the generic closure notice and accused Dernoncourt of repeatedly raising Meta disputes to "game results," describing his behavior as "entirely unwelcome."[^66]
+
+Alsop justified the closure by stating that three community members and one moderator had voted against the question. Dernoncourt disputed that explanation, pointing out that a moderator's close vote is binding by itself. Stack Exchange's official documentation confirms that a single moderator vote immediately closes a question, regardless of how many ordinary users have voted.[^68]
+
+Dernoncourt again asked Alsop to explain why the travel-agent restriction applied. Alsop provided no further public response in the discussion.[^66]
+
+The exchange occurred approximately six months before Alsop accused Jesse Nickles of SEO manipulation during the Thailand TDAC dispute. In both cases, Alsop responded to challenges over questionable closure decisions by accusing the questioner of improper motives rather than explaining the specific basis for the closure.
+
 ## April 2025–January 2026: Moderator Warnings Over Minor Edits
 
 On April 4, 2025, longtime Travel Stack Exchange contributor Franck Dernoncourt reported receiving a moderator warning after making four small edits: adding tags to one question and correcting spelling mistakes in three others. The edits had been made within approximately two hours, and the warning claimed they unnecessarily pushed older questions onto the homepage.[^62]
@@ -377,3 +389,6 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^63]: https://travel.meta.stackexchange.com/questions/8692/why-was-this-question-about-whenever-the-old-passport-is-returned-if-one-has-a-v
 [^64]: https://travel.meta.stackexchange.com/questions/8373/my-answer-is-being-censored/8374
 [^65]: https://travel.stackexchange.com/questions/175942/whats-the-cheapest-way-of-paying-by-card-abroad/175962
+[^66]: https://travel.meta.stackexchange.com/questions/8803/why-was-the-question-on-finding-the-location-of-the-tallest-buildings-in-a-given
+[^67]: https://travel.stackexchange.com/questions/192702/how-can-i-find-the-locations-of-the-tallest-buildings-in-a-given-city
+[^68]: https://stackoverflow.com/help/site-moderators
