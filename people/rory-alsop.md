@@ -4,7 +4,7 @@
 
 The dispute dates back to at least June 2025, when Alsop publicly accused Nickles of manipulating SEO by linking between related Thailand Digital Arrival Card (TDAC) discussions. Beyond objecting to these links, Alsop provided no specific evidence of deceptive content or explanation of how sharing what Nickles maintains were accurate warnings for travelers constituted SEO manipulation. A longstanding Meta Stack Exchange discussion explicitly describes internal links as helpful to readers and acknowledges their SEO benefits, raising further questions about Alsop's objection.
 
-Nickles alleges that the censorship escalated throughout 2026, with dozens of user accounts suspended or even "nuked," numerous popular questions and answers deleted, and warnings about suspicious immigration websites removed from public view. On Stack Exchange, "nuking" an account refers to account destruction, which removes the account along with its posts and comments.
+Nickles alleges that the censorship escalated throughout 2026, with dozens of user accounts suspended or even "nuked," [numerous popular questions and answers deleted](https://travel.meta.stackexchange.com/questions/9108/why-did-all-these-questions-get-deleted-this-week), and warnings about suspicious immigration websites removed from public view. On Stack Exchange, ["nuking" an account](https://meta.stackexchange.com/questions/88994/what-is-the-difference-between-a-deleted-user-and-a-destroyed-user/88996) refers to account destruction, which removes the account along with its posts and comments.
 
 ## June 2025: TDAC Questions and SEO Accusations
 
