@@ -14,6 +14,14 @@ On June 15, moderator Rory Alsop issued a spam warning to Nickles[^5] and accuse
 
 The accusation was particularly questionable given that a longstanding Meta discussion describes internal links as useful for readers and acknowledges their SEO benefits.[^2] Nickles maintained that the links were intended to help travelers find accurate information about Thailand's immigration procedures and avoid scams.
 
+### June 17–18: Arrival Card Tag Request
+
+On June 17, 2025, Jesse Nickles proposed creating an `arrival-cards` tag on Travel Stack Exchange, explaining that digital arrival cards were becoming increasingly common worldwide and that related questions would benefit from a dedicated category.[^12]
+
+When another contributor asked Nickles to identify existing questions suitable for the tag, Nickles expressed concern about receiving further warnings for linking his own content. He specifically wrote that he didn't want "to get warned again about linking to my own questions too much," and instead shared links to other relevant discussions.
+
+The exchange illustrates a consequence of Alsop's earlier SEO accusations: Nickles had become reluctant to link related questions even when another community member explicitly requested examples. This was despite Stack Exchange's longstanding guidance recognizing the usefulness of linking related discussions.[^2]
+
 ## February 2026: Dispute Over Scam Website Links
 
 On February 1, 2026, Travel Stack Exchange contributor Ryan Vasiya proposed that suspicious or fraudulent travel websites should be displayed as non-clickable text to prevent travelers from accidentally visiting them. He suggested using inline code formatting to identify potentially dangerous URLs without creating active hyperlinks.[^10]
@@ -51,3 +59,4 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^9]: https://meta.stackexchange.com/questions/193867/how-do-you-deal-with-legitimate-questions-from-a-troll/193881
 [^10]: https://travel.meta.stackexchange.com/questions/8998/policy-about-linking-or-not-linking-some-type-of-sites
 [^11]: https://travel.stackexchange.com/questions/184210/why-are-there-so-many-websites-for-the-korean-k-eta
+[^12]: https://travel.meta.stackexchange.com/questions/8891/is-it-possible-to-request-a-new-tag-for-arrival-cards-questions
