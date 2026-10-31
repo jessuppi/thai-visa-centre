@@ -76,6 +76,16 @@ The following day, Alsop called Campion's attempts to obtain clarification "poin
 
 The exchange provides another documented example of Alsop treating persistent questions about moderation decisions as evidence of bad faith, rather than resolving the disagreement by identifying a specific rule.
 
+## May–September 2025: Higher Flag Limits and Easier Spam Deletions
+
+In March 2025, Travel Stack Exchange was hit by a large spam wave. A member of the Charcoal anti-spam project reported 283 spam reports in 24 hours and requested higher flag limits. On May 1, Stack Exchange staff moderator Frog increased the limit to **100 flags per user per day**.[^57]
+
+On May 29, moderator Willeke proposed reducing the number of spam flags required to automatically delete a post from four to three. Rory Alsop supported the proposal two days later, writing that the increased flag limit had been helpful, “but on smaller sites such as Travel, we also need this.”[^58]
+
+Stack Exchange staff rejected the lower deletion threshold in September 2025. However, staff moderator Spevacus confirmed that the increased flag limit remained in place and specifically warned users to report unusually high or abusive flagging made possible by the change.[^58]
+
+This is relevant to Nickles's later allegations that suspected sockpuppet accounts were using spam flags to target Thailand-related questions and warnings about fraudulent visa services. Alsop had publicly supported increasing the effectiveness of spam flags, while Stack Exchange staff had explicitly acknowledged the potential for abuse. The 2025 discussions do not identify who submitted the flags against the Thailand-related content.
+
 ## December 2025: Upvoted Immigration Answer Deleted After Flags
 
 On December 30, 2025, longtime Travel Stack Exchange contributor jcaron questioned why a moderator had deleted an upvoted answer to a Schengen travel question involving a South African citizen with an expired Spanish residence permit. The answer had received positive votes, no downvotes, and no critical comments. Jcaron said the usual reasons for deletion, such as spam or extremely poor quality, did not appear to apply.[^55][^56]
@@ -280,3 +290,5 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^54]: https://meta.stackexchange.com/questions/10249/what-is-migration-and-how-does-it-work
 [^55]: https://travel.meta.stackexchange.com/questions/8982/what-s-the-reason-behind-this-deletion
 [^56]: https://travel.stackexchange.com/questions/202931/south-african-with-expired-tie-need-to-travel-for-bereavement/202939
+[^57]: https://travel.meta.stackexchange.com/questions/8837/can-we-please-have-the-flag-limit-temporarily-increased
+[^58]: https://travel.meta.stackexchange.com/questions/8877/can-we-get-a-way-that-fewer-people-are-needed-to-kill-spam-posts
