@@ -64,6 +64,18 @@ Nickles replied that moderators appeared concerned scammers might exploit TDAC d
 
 No moderator publicly answered Franck's objection in that discussion, and the TDAC pricing question remained closed as a duplicate.[^1][^5]
 
+## July 2025: Dispute Over Deleted Comments and Moderation Rules
+
+On July 6, 2025, Travel Stack Exchange user Tim Campion questioned why his post about avoiding distractions from other passengers' screens had been migrated to Lifehacks Stack Exchange. Campion argued that the question concerned air travel and asked which Travel Stack Exchange rule justified removing it. Longtime contributor Franck Dernoncourt agreed the question belonged on Travel and confirmed that he had voted to reopen it before the migration.[^53]
+
+Stack Exchange's migration guidelines explicitly discourage moving questions merely because another site might also be suitable. Campion repeatedly asked moderators to explain which rule his question violated.[^54]
+
+On July 24, Campion accused Rory Alsop of previously providing an incorrect policy link and deleting comments after Campion pointed out the mistake. Alsop responded by accusing Campion of not making a "good faith effort" to follow site guidance. He also suggested Campion was deliberately following advice from another contributor who had problems with community rules, warning that moderators had "low tolerance" for such behavior.[^53]
+
+The following day, Alsop called Campion's attempts to obtain clarification "pointless and disruptive." Campion later acknowledged that he had become emotional but objected that asking about site rules was precisely what Travel Meta was intended for.[^53]
+
+The exchange provides another documented example of Alsop treating persistent questions about moderation decisions as evidence of bad faith, rather than resolving the disagreement by identifying a specific rule.
+
 ## February 2026: Dispute Over Scam Website Links
 
 On February 1, 2026, Travel Stack Exchange contributor Ryan Vasiya proposed that suspicious or fraudulent travel websites should be displayed as non-clickable text to prevent travelers from accidentally visiting them. He suggested using inline code formatting to identify potentially dangerous URLs without creating active hyperlinks.[^10]
@@ -252,3 +264,5 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^50]: https://travel.stackexchange.com/users/12777/ben-voigt?tab=answers
 [^51]: https://meta.stackexchange.com/questions/58032/what-are-the-spam-and-rude-or-abusive-offensive-flags-and-how-do-they-wor
 [^52]: https://meta.stackexchange.com/questions/226144/what-exactly-can-moderators-see-when-one-raises-a-flag
+[^53]: https://travel.meta.stackexchange.com/questions/8900/what-is-wrong-with-my-question
+[^54]: https://meta.stackexchange.com/questions/10249/what-is-migration-and-how-does-it-work
