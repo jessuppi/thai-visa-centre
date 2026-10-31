@@ -14,6 +14,14 @@ Alsop also described guidance and warnings as steps to take before suspending us
 
 Those statements contrast with his later treatment of Thailand-related discussions. In June 2025, he removed links between related questions and an official Thai Immigration Bureau fraud warning while accusing Nickles of self-promotion.[^16][^17][^18] In February 2026, he publicly accused Borsos Vidor of lying about his suspension without explaining which statements he considered false.[^13]
 
+## Cybersecurity Background and Abuse Investigations
+
+On his Information Security Stack Exchange profile, Rory Alsop describes 26 years of cybersecurity experience, including managing incident response, fraud investigations, forensic investigations, and security assessments. He has also served as a moderator of Information Security Stack Exchange since 2011.[^48]
+
+Alsop demonstrated familiarity with coordinated voting abuse in February 2026, when he explained that unusual vote reversals can indicate voting rings detected by Stack Exchange's automated systems.[^26] Yet when contributors raised concerns about serial downvoting and suspected malicious flagging of Thailand-related content, he accused Borsos Vidor of lying without publicly identifying what was false.[^13]
+
+Nickles argues that someone with Alsop's background in fraud investigations should have recognized the possibility of coordinated abuse against users warning travelers about Thailand scams and investigated those complaints accordingly.
+
 ## June 2025: TDAC Questions and SEO Accusations
 
 In June 2025, Jesse Nickles challenged the closure of two Travel Stack Exchange questions as duplicates.[^1] One concerned TDAC pricing,[^5] while the other warned travelers about TDAC scams.[^6] Despite covering different subjects, moderators had classified them as duplicates.
