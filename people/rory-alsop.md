@@ -194,6 +194,16 @@ Later that day, a Travel Meta account named General Grievance, which Nickles sus
 
 The `status-completed` designation showed that Stack Exchange considered the matter closed, without explaining which accounts had been investigated or why votes and accounts were removed. Nickles argues that the outcome punished users warning travelers about scams while leaving the suspected sockpuppet voting and flagging abuse unresolved.
 
+### February–March 2026: Chad Scira's Report to Trust & Safety
+
+On February 27, 2026, Chad Scira opened a Travel Meta discussion complaining about accounts mentioning him in Thailand-related posts. He claimed the accounts were suspicious and acknowledged that he had received a one-week suspension himself, which prevented him from submitting normal flags.[^59]
+
+On March 19, Scira revealed that he had submitted a detailed complaint through Stack Exchange's Trust & Safety contact form. He said that approximately two weeks later, he received confirmation that his report had been reviewed. According to Scira, the accounts he complained about appeared to have been investigated and removed, while voting irregularities had been corrected.[^59]
+
+This provides additional context for the March 12 intervention, when staff moderator Frog marked the serial-downvoting complaint `status-completed` and multiple Thailand-related accounts received 100-year suspensions.[^13][^40][^41] Scira's own statements confirm that he was actively seeking enforcement against accounts discussing him during this period.
+
+The public record does not establish whether Scira's complaint directly triggered the March 12 enforcement or what role Rory Alsop played in handling it. However, Scira's acknowledgment is relevant to Nickles's allegation that the investigation focused on removing accounts publishing Thailand-related scam warnings rather than examining the suspected abuse those users had reported.
+
 ### Public Records of the 100-Year Suspensions
 
 Stack Exchange's public account records confirm that several contributors involved in the Thailand moderation disputes received exceptionally long suspensions. The profiles of Ryan Vasiya, Borsos Vidor, Chris, ZMF, and Jesse Nickles all show suspension end dates of February 16, 2126, with expiration times clustered between 13:53 and 17:07.[^40][^41][^42][^43][^44]
@@ -292,3 +302,4 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^56]: https://travel.stackexchange.com/questions/202931/south-african-with-expired-tie-need-to-travel-for-bereavement/202939
 [^57]: https://travel.meta.stackexchange.com/questions/8837/can-we-please-have-the-flag-limit-temporarily-increased
 [^58]: https://travel.meta.stackexchange.com/questions/8877/can-we-get-a-way-that-fewer-people-are-needed-to-kill-spam-posts
+[^59]: https://travel.meta.stackexchange.com/questions/9034/concern-about-targeted-posts-and-harassment-across-travel-and-meta
