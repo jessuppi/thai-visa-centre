@@ -136,6 +136,18 @@ Four days later, Wilson publicly complained that Rory Alsop had closed the passp
 
 Alsop has decades of cybersecurity experience and moderates Information Security Stack Exchange.[^48] Nickles argues that he should have recognized and investigated the suspected false-flagging attacks targeting Thailand-related users and scam warnings, rather than repeatedly dismissing complaints about suspicious voting and flagging activity.[^13][^26]
 
+## March 11–12: Calls to Remove Thailand Cannabis Questions
+
+On March 11, 2026, Travel Stack Exchange user Ben Voigt opened a Meta discussion complaining that Thailand cannabis questions were dominating the homepage and allegedly being used for personal attacks and scam website promotion. He asked whether moderators could "nuke all related posts" or close them in bulk as duplicates.[^28]
+
+Voigt had posted just six answers and no questions on Travel Stack Exchange since joining in 2014. His most recent answer, on February 10, 2026, concerned Philippine arrival requirements.[^50] His March 11 complaint was also his first question on Travel Meta. It remains unclear whether his sudden interest in removing Thailand-related content came from independently reviewing the questions or was influenced by visible downvotes, question closures, public accusations, or discussions among other users.
+
+Other participants disagreed that cannabis-related travel questions were inherently off-topic, pointing out that travelers could legitimately need information about local laws. Nevertheless, on March 12, user111403 openly acknowledged **flagging the latest batch of questions as spam**. Another user warned that such flags might be rejected without sufficient context and recommended submitting detailed moderator flags instead. User111403 later defended the reports, claiming the posts promoted or discredited people and services without disclosing affiliations.[^28]
+
+Nickles disputes that characterization, arguing that many of the targeted posts were **warning travelers about suspected scams, not promoting those businesses**. Stack Exchange's own spam guidelines distinguish unsolicited advertising from legitimate criticism.[^51] Voigt's complaint did not identify specific examples demonstrating that the scam warnings themselves constituted promotional spam.
+
+As an elected moderator, Alsop could see spam flags and the accounts submitting them.[^52] Repeated reports could therefore have influenced his assessment of Thailand-related content, although the public record does not establish whether they did. What is documented is that calls for mass removal and actual spam flagging were taking place immediately before Stack Exchange staff member Frog's March 12 intervention and the mass account suspensions.
+
 ## March 12: Staff Intervention and Mass Account Suspensions
 
 On March 12, 2026, Stack Exchange staff moderator Frog edited Ryan Vasiya's February 1 complaint about serial downvoting of Thailand-related content, marking it `status-completed`.[^13] The intervention came more than two weeks after Rory Alsop had publicly accused Borsos Vidor of lying about his suspension in the same discussion.
@@ -237,3 +249,6 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^47]: https://charcoal-se.org/smokey/Commands.html
 [^48]: https://security.stackexchange.com/users/roryalsop
 [^49]: https://chat.stackexchange.com/transcript/11540/2026/3/8/0-20
+[^50]: https://travel.stackexchange.com/users/12777/ben-voigt?tab=answers
+[^51]: https://meta.stackexchange.com/questions/58032/what-are-the-spam-and-rude-or-abusive-offensive-flags-and-how-do-they-wor
+[^52]: https://meta.stackexchange.com/questions/226144/what-exactly-can-moderators-see-when-one-raises-a-flag
