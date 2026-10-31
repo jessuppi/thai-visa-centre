@@ -34,6 +34,18 @@ Nickles believes suspected sockpuppet accounts associated with Chad Scira were e
 
 Other contributors supported safer ways to display suspicious domains, including replacing periods with `[.]` to prevent accidental clicks. The discussion highlighted how an established method of identifying potentially fraudulent websites had become a moderation dispute, with Alsop continuing to object to the formatting despite its previous use on Travel Stack Exchange.[^10]
 
+## February 2026: Serial Downvoting Complaints
+
+On February 1, 2026, Travel Stack Exchange contributor Ryan Vasiya reported that Stack Exchange had detected and reversed serial downvotes against his account. He also raised concerns about similar activity targeting other discussions involving Thailand.[^13] Stack Exchange's official guidance identifies serial downvoting as voting abuse and explains that its systems automatically reverse suspicious voting patterns.[^14]
+
+Alsop was already familiar with these rules. In November 2013, he had personally directed another user reporting serial downvotes to Stack Exchange's canonical explanation of voting fraud.[^15]
+
+In the February 2026 discussion, another contributor, Borsos Vidor, alleged that he had received a one-week suspension after reporting suspicious posting and flagging activity involving Thai visas, visa scams, and cannabis. He maintained that the problems were genuine and suggested that a visa agency might be involved.
+
+On February 23, Alsop challenged Vidor's explanation for the suspension, stating that he had already been told the actual reason and adding, "do not make up lies, Boris." Alsop did not publicly explain the suspension reason or address Vidor's broader allegations about suspicious voting and flagging in that exchange.[^13]
+
+The discussion documents concerns about targeted voting and alleged misuse of moderation flags affecting Thailand-related content, alongside an openly confrontational response from Alsop to a contributor raising those concerns.
+
 ## July 2026: Mass Deletion of Travel Questions
 
 On July 21, 2026, Travel Stack Exchange contributor Franck Dernoncourt questioned why several useful travel questions had been deleted, including discussions about Thailand's Destination Thailand Visa (DTV), Hua Hin Airport, and travel to Vietnam.[^3]
@@ -60,3 +72,6 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^10]: https://travel.meta.stackexchange.com/questions/8998/policy-about-linking-or-not-linking-some-type-of-sites
 [^11]: https://travel.stackexchange.com/questions/184210/why-are-there-so-many-websites-for-the-korean-k-eta
 [^12]: https://travel.meta.stackexchange.com/questions/8891/is-it-possible-to-request-a-new-tag-for-arrival-cards-questions
+[^13]: https://travel.meta.stackexchange.com/questions/8997/serial-down-voting-about-topics-involving-thailand-abuse
+[^14]: https://meta.stackexchange.com/questions/126829/what-is-serial-voting-and-how-does-it-affect-me/126857
+[^15]: https://security.meta.stackexchange.com/questions/1444/what-do-we-do-if-weve-been-deliberately-downvoted-for-no-reason
