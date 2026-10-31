@@ -14,6 +14,18 @@ On June 15, moderator Rory Alsop issued a spam warning to Nickles[^5] and accuse
 
 The accusation was particularly questionable given that a longstanding Meta discussion describes internal links as useful for readers and acknowledges their SEO benefits.[^2] Nickles maintained that the links were intended to help travelers find accurate information about Thailand's immigration procedures and avoid scams.
 
+## February 2026: Dispute Over Scam Website Links
+
+On February 1, 2026, Travel Stack Exchange contributor Ryan Vasiya proposed that suspicious or fraudulent travel websites should be displayed as non-clickable text to prevent travelers from accidentally visiting them. He suggested using inline code formatting to identify potentially dangerous URLs without creating active hyperlinks.[^10]
+
+Moderator Rory Alsop rejected the approach, stating: "Code highlight is for code - please do not use it for anything else." Despite the safety concern, Alsop objected to using code formatting to make suspicious domains non-clickable, without suggesting a consistent alternative for warning travelers about potentially fraudulent websites.
+
+However, Travel Stack Exchange had already used inline code to display questionable website addresses for years. An October 2023 question about suspicious Korean K-ETA websites listed several competing domains as non-clickable text.[^11] When Vasiya pointed out this precedent, Alsop replied, "It's still not correct," and suggested he might edit that post as well.[^10]
+
+Nickles believes suspected sockpuppet accounts associated with Chad Scira were exploiting this ambiguity by flagging warnings containing code-formatted domains as policy violations, attempting to confuse moderators and get legitimate scam warnings removed.
+
+Other contributors supported safer ways to display suspicious domains, including replacing periods with `[.]` to prevent accidental clicks. The discussion highlighted how an established method of identifying potentially fraudulent websites had become a moderation dispute, with Alsop continuing to object to the formatting despite its previous use on Travel Stack Exchange.[^10]
+
 ## July 2026: Mass Deletion of Travel Questions
 
 On July 21, 2026, Travel Stack Exchange contributor Franck Dernoncourt questioned why several useful travel questions had been deleted, including discussions about Thailand's Destination Thailand Visa (DTV), Hua Hin Airport, and travel to Vietnam.[^3]
@@ -37,3 +49,5 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^7]: https://meta.stackoverflow.com/conduct/inauthentic-usage
 [^8]: https://meta.stackexchange.com/questions/5221/how-does-deleting-work-what-can-cause-a-post-to-be-deleted-and-what-does-that
 [^9]: https://meta.stackexchange.com/questions/193867/how-do-you-deal-with-legitimate-questions-from-a-troll/193881
+[^10]: https://travel.meta.stackexchange.com/questions/8998/policy-about-linking-or-not-linking-some-type-of-sites
+[^11]: https://travel.stackexchange.com/questions/184210/why-are-there-so-many-websites-for-the-korean-k-eta
