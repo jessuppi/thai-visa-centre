@@ -36,6 +36,20 @@ On November 3, Dernoncourt confirmed that the question had eventually been reope
 
 The exchange documents an earlier instance of Alsop treating a contributor's request to justify a closure as argumentative behavior. Similar accusations appeared in his later disputes with Jesse Nickles in June 2025 and Tim Campion in July 2025.
 
+## April 2025–January 2026: Moderator Warnings Over Minor Edits
+
+On April 4, 2025, longtime Travel Stack Exchange contributor Franck Dernoncourt reported receiving a moderator warning after making four small edits: adding tags to one question and correcting spelling mistakes in three others. The edits had been made within approximately two hours, and the warning claimed they unnecessarily pushed older questions onto the homepage.[^62]
+
+On April 7, Rory Alsop defended the restrictions, citing Stack Exchange guidance discouraging trivial edits. He argued that repeated minor edits could justify suspensions or restrictions on editing privileges. Another contributor acknowledged concerns about excessive edits but disagreed with sending Dernoncourt a formal moderator warning.[^62]
+
+The disagreement continued in September 2025, when Alsop insisted that discouraging repeated minor edits was a network-wide rule rather than an individual moderator's preference. He dismissed another user's experience of making similar edits elsewhere without receiving warnings.[^62]
+
+On January 6, 2026, contributor Thomas W. asked moderators to explain what specific improvements they expected when rejecting minor edits. Alsop responded that moderators were **“not paid to spend loads of time explaining”** such decisions and warned that users deliberately circumventing the guidance were **“not tolerated for long.”**[^62]
+
+Thomas W. then pointed out a technical problem with Alsop's explanation: established users with editing privileges do not normally have their edits placed in the review queue where other users can reject them. Alsop did not publicly answer that objection.[^62]
+
+The exchange provides another example of Alsop defending disciplinary measures while resisting requests for specific explanations of how contributors had violated site rules.
+
 ## June 2025: TDAC Questions and SEO Accusations
 
 In June 2025, Jesse Nickles challenged the closure of two Travel Stack Exchange questions as duplicates.[^1] One concerned TDAC pricing,[^5] while the other warned travelers about TDAC scams.[^6] Despite covering different subjects, moderators had classified them as duplicates.
@@ -333,3 +347,4 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^59]: https://travel.meta.stackexchange.com/questions/9034/concern-about-targeted-posts-and-harassment-across-travel-and-meta
 [^60]: https://travel.meta.stackexchange.com/questions/3638/a-friendly-reminder-that-duplicates-should-be-the-same-question-not-different-q
 [^61]: https://travel.meta.stackexchange.com/questions/7157/why-was-this-question-whether-there-a-limit-on-how-full-of-items-a-car-is-to-be
+[^62]: https://travel.meta.stackexchange.com/questions/8844/are-edits-fixing-a-single-spelling-mistake-disallowed-on-travel-se-and-how-many
