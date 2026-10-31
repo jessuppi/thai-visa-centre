@@ -36,6 +36,18 @@ On November 3, Dernoncourt confirmed that the question had eventually been reope
 
 The exchange documents an earlier instance of Alsop treating a contributor's request to justify a closure as argumentative behavior. Similar accusations appeared in his later disputes with Jesse Nickles in June 2025 and Tim Campion in July 2025.
 
+## August 2022: Removing a Warning About Revolut
+
+On August 29, 2022, a Travel Stack Exchange user publicly accused moderators of censorship after criticism of Revolut was removed from an answer about paying by card abroad. The deleted passage warned against using Revolut, citing alleged connections to Gazprom and concerns about cryptocurrency.[^64]
+
+Rory Alsop acknowledged removing the passage, arguing that it did not answer the original question and was a personal rant. He explicitly rejected the censorship accusation:
+
+> this is not censorship
+
+Alsop defended the site's practice of editing posts to remove personal opinions and material considered irrelevant. Fellow moderator Willeke also defended the removal, explaining that the practical answer had been retained while the disputed criticism was removed.[^64]
+
+The incident predates the Thailand visa controversy by nearly three years. It documents an earlier occasion when Alsop removed a user's warning about a commercial service and defended that decision as ordinary moderation. Unlike his later accusations of SEO manipulation against Jesse Nickles, Alsop provided a specific explanation for the removal: he considered the passage unrelated to the question.[^64][^65]
+
 ## April 2024: Defending a Reopened Visa Question's Closure
 
 On April 9, 2024, longtime Travel Stack Exchange contributor Franck Dernoncourt challenged the closure of a question about renewing a French passport while holding a valid electronic visa linked to the old passport number. The question had been classified as off-topic, with one close voter incorrectly claiming that such electronic visas did not exist.[^63]
@@ -363,3 +375,5 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^61]: https://travel.meta.stackexchange.com/questions/7157/why-was-this-question-whether-there-a-limit-on-how-full-of-items-a-car-is-to-be
 [^62]: https://travel.meta.stackexchange.com/questions/8844/are-edits-fixing-a-single-spelling-mistake-disallowed-on-travel-se-and-how-many
 [^63]: https://travel.meta.stackexchange.com/questions/8692/why-was-this-question-about-whenever-the-old-passport-is-returned-if-one-has-a-v
+[^64]: https://travel.meta.stackexchange.com/questions/8373/my-answer-is-being-censored/8374
+[^65]: https://travel.stackexchange.com/questions/175942/whats-the-cheapest-way-of-paying-by-card-abroad/175962
