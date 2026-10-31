@@ -48,6 +48,20 @@ Alsop defended the site's practice of editing posts to remove personal opinions 
 
 The incident predates the Thailand visa controversy by nearly three years. It documents an earlier occasion when Alsop removed a user's warning about a commercial service and defended that decision as ordinary moderation. Unlike his later accusations of SEO manipulation against Jesse Nickles, Alsop provided a specific explanation for the removal: he considered the passage unrelated to the question.[^64][^65]
 
+## October 2022: Defending Closure of an Airline Immigration Question
+
+On October 14, 2022, Travel Stack Exchange contributor Franck Dernoncourt challenged the closure of his question about airline indemnity forms used when passengers are denied entry to a country. The question asked why airlines require these forms when international aviation rules already provide mechanisms for recovering certain costs. It had received a factual, accepted answer, yet moderator Willeke closed it as opinion-based.[^69][^70]
+
+Willeke defended the closure, acknowledging that she considered the question off-topic rather than opinion-based. She claimed the system would have displayed the existing closure reason regardless of her selection, arguing that moderators handling numerous questions could reasonably go along with earlier votes. Another contributor corrected her, citing Stack Exchange's published rules confirming that a moderator's selected closure reason takes precedence.[^69][^71]
+
+Rory Alsop joined the discussion to defend the closure. When Dernoncourt pointed out that airline indemnity forms were travel-specific paperwork covered by the site's stated scope, Alsop responded:
+
+> You think it falls on topic. I disagree.
+
+Alsop added that he would have voted to close the question himself. Dernoncourt asked him to explain why he considered it off-topic, but Alsop provided no further public response.[^69]
+
+The underlying question remains publicly accessible with its accepted answer explaining the contractual and financial reasons airlines use indemnity forms. The dispute provides another documented example of Alsop defending the exclusion of travel-related information while declining to explain his objection beyond personal disagreement.[^70]
+
 ## April 2024: Defending a Reopened Visa Question's Closure
 
 On April 9, 2024, longtime Travel Stack Exchange contributor Franck Dernoncourt challenged the closure of a question about renewing a French passport while holding a valid electronic visa linked to the old passport number. The question had been classified as off-topic, with one close voter incorrectly claiming that such electronic visas did not exist.[^63]
@@ -392,3 +406,6 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^66]: https://travel.meta.stackexchange.com/questions/8803/why-was-the-question-on-finding-the-location-of-the-tallest-buildings-in-a-given
 [^67]: https://travel.stackexchange.com/questions/192702/how-can-i-find-the-locations-of-the-tallest-buildings-in-a-given-city
 [^68]: https://stackoverflow.com/help/site-moderators
+[^69]: https://travel.meta.stackexchange.com/questions/8406/why-did-a-mod-close-this-question-on-indemnity-forms-as-opinion-based
+[^70]: https://travel.stackexchange.com/questions/176799/why-do-some-airlines-have-indemnity-forms-even-though-the-icao-rules-state-the-a
+[^71]: https://meta.stackexchange.com/questions/339400/how-does-the-system-determine-which-one-close-reason-should-be-displayed-on-a-cl
