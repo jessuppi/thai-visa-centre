@@ -18,9 +18,15 @@ The accusation was particularly questionable given that a longstanding Meta disc
 
 On June 15, 2025, at 16:56 UTC, moderator Willeke locked Jesse Nickles's question about avoiding Thailand TDAC scams, marking it as a "content dispute." The question had previously appeared on Stack Exchange's Hot Network Questions list. Although the warning remained publicly visible, the lock prevented further answers and interaction.[^16]
 
-Over the next 17 minutes, Rory Alsop edited three of Nickles's TDAC posts. At 17:09, he removed links to related Travel Stack Exchange questions and an embedded image from an answer about TDAC pricing, describing the changes as "Removed unneeded self-promoting links."[^17]
+Between 17:09 and 17:13 UTC, Rory Alsop edited five of Nickles's TDAC posts in five consecutive minutes. At 17:09, he removed links to related Travel Stack Exchange questions and an embedded image from an answer about TDAC pricing, describing the changes as "Removed unneeded self-promoting links."[^17]
 
 The removed image was an official public warning from Thailand's Immigration Bureau, advising travelers to avoid fraudulent TDAC websites, protect their personal information, and use the government's free registration service. It was a government anti-fraud announcement, not advertising or self-promotion by Nickles.[^19]
+
+At 17:10, Alsop edited Nickles's answer explaining that Thailand had no official TDAC mobile app. He removed a link to another Travel Stack Exchange question about completing the TDAC form, replacing it with a link to the government's official website.[^24]
+
+At 17:11, Alsop edited a separate answer explaining the difference between Thailand's TDAC and ETA programs. This time he removed three links to related Travel Stack Exchange questions, including discussions about the ETA rollout and who was required to complete the TDAC. He labeled the edit "removal of unnecessary self promotion."[^25]
+
+These were not links to Nickles's own websites or commercial services. They pointed to other questions on Stack Exchange itself. Together with the edits at 17:09, 17:12, and 17:13, the revision histories document five consecutive edits targeting Nickles's TDAC content, repeatedly removing internal links under accusations of self-promotion.
 
 At 17:12, Alsop edited the locked scam-warning question, replacing a link to another TDAC discussion with a direct link to Thailand's official immigration website. One minute later, he removed two more links to related Travel Stack Exchange questions from the warning's highest-scoring answer, again labeling the changes "removal of unnecessary self promotion."[^16][^18]
 
@@ -113,3 +119,5 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^21]: https://travel.stackexchange.com/help/closed-questions
 [^22]: https://meta.stackexchange.com/help/site-moderators
 [^23]: https://stackoverflow.com/legal/moderator-agreement
+[^24]: https://travel.stackexchange.com/posts/198941/revisions
+[^25]: https://travel.stackexchange.com/posts/198761/revisions
