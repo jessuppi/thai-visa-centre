@@ -36,6 +36,20 @@ On November 3, Dernoncourt confirmed that the question had eventually been reope
 
 The exchange documents an earlier instance of Alsop treating a contributor's request to justify a closure as argumentative behavior. Similar accusations appeared in his later disputes with Jesse Nickles in June 2025 and Tim Campion in July 2025.
 
+## April 2024: Defending a Reopened Visa Question's Closure
+
+On April 9, 2024, longtime Travel Stack Exchange contributor Franck Dernoncourt challenged the closure of a question about renewing a French passport while holding a valid electronic visa linked to the old passport number. The question had been classified as off-topic, with one close voter incorrectly claiming that such electronic visas did not exist.[^63]
+
+Dernoncourt provided examples of relevant electronic visas and questioned why passport renewal and visa validity were considered outside the site's travel-related scope. The question was subsequently reopened.[^63]
+
+On April 11, Rory Alsop defended the original closure, acknowledging that Stack Exchange's standard closure reasons were broad and that users often selected whichever reason seemed closest to their objection. He also stated:
+
+> Close voters are under no obligation to explain their vote - so asking for explanation is not that useful.
+
+Alsop confirmed that he had voted to close the question, arguing that the electronic visa example appeared unrelated. Dernoncourt asked him to explain why, but received no further public response.[^63]
+
+The exchange is relevant to Alsop's later handling of Thailand-related visa questions. It documents his willingness to defend a closure even after the community reversed it, while openly discouraging contributors from seeking explanations for moderation decisions.
+
 ## April 2025–January 2026: Moderator Warnings Over Minor Edits
 
 On April 4, 2025, longtime Travel Stack Exchange contributor Franck Dernoncourt reported receiving a moderator warning after making four small edits: adding tags to one question and correcting spelling mistakes in three others. The edits had been made within approximately two hours, and the warning claimed they unnecessarily pushed older questions onto the homepage.[^62]
@@ -348,3 +362,4 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^60]: https://travel.meta.stackexchange.com/questions/3638/a-friendly-reminder-that-duplicates-should-be-the-same-question-not-different-q
 [^61]: https://travel.meta.stackexchange.com/questions/7157/why-was-this-question-whether-there-a-limit-on-how-full-of-items-a-car-is-to-be
 [^62]: https://travel.meta.stackexchange.com/questions/8844/are-edits-fixing-a-single-spelling-mistake-disallowed-on-travel-se-and-how-many
+[^63]: https://travel.meta.stackexchange.com/questions/8692/why-was-this-question-about-whenever-the-old-passport-is-returned-if-one-has-a-v
