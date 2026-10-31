@@ -76,6 +76,18 @@ The following day, Alsop called Campion's attempts to obtain clarification "poin
 
 The exchange provides another documented example of Alsop treating persistent questions about moderation decisions as evidence of bad faith, rather than resolving the disagreement by identifying a specific rule.
 
+## December 2025: Upvoted Immigration Answer Deleted After Flags
+
+On December 30, 2025, longtime Travel Stack Exchange contributor jcaron questioned why a moderator had deleted an upvoted answer to a Schengen travel question involving a South African citizen with an expired Spanish residence permit. The answer had received positive votes, no downvotes, and no critical comments. Jcaron said the usual reasons for deletion, such as spam or extremely poor quality, did not appear to apply.[^55][^56]
+
+Rory Alsop responded that the author had received multiple flags alleging ChatGPT-generated or plagiarized content. He confirmed that he had personally handled the reports:
+
+> I was the first mod on the scene to deal with the flags, reviewed them, and agreed with them.
+
+Alsop stated that the deleted answer was among the flagged posts. However, he did not identify any plagiarized passages, provide examples of the alleged AI-generated content, or explain what specifically was wrong with that answer.[^55]
+
+The deletion only received a public explanation after another contributor questioned it on Travel Meta. Although Alsop confirmed that he had reviewed and accepted the flags, the public discussion provided no supporting evidence allowing other users to independently evaluate the accusations.
+
 ## February 2026: Dispute Over Scam Website Links
 
 On February 1, 2026, Travel Stack Exchange contributor Ryan Vasiya proposed that suspicious or fraudulent travel websites should be displayed as non-clickable text to prevent travelers from accidentally visiting them. He suggested using inline code formatting to identify potentially dangerous URLs without creating active hyperlinks.[^10]
@@ -266,3 +278,5 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^52]: https://meta.stackexchange.com/questions/226144/what-exactly-can-moderators-see-when-one-raises-a-flag
 [^53]: https://travel.meta.stackexchange.com/questions/8900/what-is-wrong-with-my-question
 [^54]: https://meta.stackexchange.com/questions/10249/what-is-migration-and-how-does-it-work
+[^55]: https://travel.meta.stackexchange.com/questions/8982/what-s-the-reason-behind-this-deletion
+[^56]: https://travel.stackexchange.com/questions/202931/south-african-with-expired-tie-need-to-travel-for-bereavement/202939
