@@ -58,6 +58,14 @@ On February 23, Alsop challenged Vidor's explanation for the suspension, stating
 
 The discussion documents concerns about targeted voting and alleged misuse of moderation flags affecting Thailand-related content, alongside an openly confrontational response from Alsop to a contributor raising those concerns.
 
+## February 2026: Reopening Closed Questions
+
+On February 13, 2026, Rory Alsop responded to a Travel Stack Exchange discussion about whether community members should help improve and reopen closed questions. He acknowledged that users might rescue a post containing a "good core question," but added that if its author had ignored site guidance or was "rude in comments," the "likelihood drops to near zero."[^20]
+
+The statement is relevant to Nickles's June 2025 TDAC dispute, when he repeatedly requested an explanation for why his question about the official arrival-card price had been closed as a duplicate. Rather than addressing the distinction between pricing information and scam warnings, Alsop accused Nickles of SEO manipulation and warned him about spam.[^1][^5]
+
+Travel Stack Exchange's published guidance bases reopening decisions on whether a question meets the site's requirements, whether the original closure reasons have been addressed, and whether users vote to reopen it.[^21] An author's perceived attitude toward moderators is not among those criteria.
+
 ## July 2026: Mass Deletion of Travel Questions
 
 On July 21, 2026, Travel Stack Exchange contributor Franck Dernoncourt questioned why several useful travel questions had been deleted, including discussions about Thailand's Destination Thailand Visa (DTV), Hua Hin Airport, and travel to Vietnam.[^3]
@@ -91,3 +99,5 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^17]: https://travel.stackexchange.com/posts/198997/revisions
 [^18]: https://travel.stackexchange.com/posts/198664/revisions
 [^19]: https://i.sstatic.net/gYEFsrHI.jpg
+[^20]: https://travel.meta.stackexchange.com/questions/9012/to-what-extent-do-we-proactively-edit-and-improve-others-closed-posts-without
+[^21]: https://travel.stackexchange.com/help/closed-questions
