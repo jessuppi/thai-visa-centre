@@ -110,6 +110,14 @@ Later that day, a Travel Meta account named General Grievance, which Nickles sus
 
 The `status-completed` designation showed that Stack Exchange considered the matter closed, without explaining which accounts had been investigated or why votes and accounts were removed. Nickles argues that the outcome punished users warning travelers about scams while leaving the suspected sockpuppet voting and flagging abuse unresolved.
 
+## March 12: Questions About Inconsistent Moderation of Thailand Topics
+
+On March 12, 2026, a user posting as Carter Wilson challenged Rory Alsop's decision to close a question asking whether tourists need to carry their passports while traveling in Thailand. Alsop had reportedly marked it off-topic, despite Travel Stack Exchange allowing similar questions about other countries, including Italy.[^29][^30]
+
+Wilson also challenged Alsop's treatment of questions concerning Thailand's cannabis laws. According to Wilson, Alsop had justified removing such questions by arguing that they concerned legal matters rather than travel. Wilson pointed out that Travel Stack Exchange already contained more than 1,100 questions under its legal tag, and asked why the same reasoning was apparently being applied to Thailand-related questions.[^29][^31]
+
+Both complaints appeared publicly on Travel Meta before the discussions became unavailable through their original links.
+
 ## July 2026: Mass Deletion of Travel Questions
 
 On July 21, 2026, Travel Stack Exchange contributor Franck Dernoncourt questioned why several useful travel questions had been deleted, including discussions about Thailand's Destination Thailand Visa (DTV), Hua Hin Airport, and travel to Vietnam.[^3]
@@ -152,3 +160,6 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^26]: https://travel.meta.stackexchange.com/questions/9006/is-it-legal-for-visa-agents-to-extend-your-visa-in-thailand
 [^27]: https://travel.stackexchange.com/questions/203049/is-it-legal-for-visa-agents-to-extend-your-visa-in-thailand
 [^28]: https://travel.meta.stackexchange.com/questions/9047/these-thailand-cannabis-questions-smell
+[^29]: https://chat.stackexchange.com/transcript/160030/2026/3/12/0-24
+[^30]: https://travel.stackexchange.com/questions/124501/is-it-necessary-to-carry-a-passport-when-traveling-in-italy
+[^31]: https://travel.stackexchange.com/questions/tagged/legal
