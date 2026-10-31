@@ -126,6 +126,14 @@ Wilson also challenged Alsop's treatment of questions concerning Thailand's cann
 
 Both complaints appeared publicly on Travel Meta before the discussions became unavailable through their original links.
 
+### Alsop's Own Answers to Legal Questions
+
+Alsop's own activity on Travel Stack Exchange raises further questions about his treatment of Thailand-related legal topics. His public profile lists six answers under the site's `legal` tag, including questions about drinking alcohol in public in Dubai, legally importing drones into the Dominican Republic, and the risks of identity theft involving passport copies.[^36][^37][^38]
+
+These questions remained publicly accessible, and Alsop personally contributed answers explaining the relevant restrictions or risks. In the Dubai discussion, for example, he explained where tourists could drink alcohol and how Ramadan affected those rules. In the Dominican Republic discussion, he described the paperwork required to import a drone.
+
+Travel Stack Exchange has therefore allowed questions involving local laws and regulations for years, including questions answered by Alsop himself. Wilson's objection was that Thailand-related questions were being rejected on grounds that apparently did not prevent comparable discussions about other countries.
+
 ## July 2026: Mass Deletion of Travel Questions
 
 On July 21, 2026, Travel Stack Exchange contributor Franck Dernoncourt questioned why several useful travel questions had been deleted, including discussions about Thailand's Destination Thailand Visa (DTV), Hua Hin Airport, and travel to Vietnam.[^3]
@@ -175,3 +183,6 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^33]: https://travel.meta.stackexchange.com/questions/9030/avoiding-scams-with-online-thailand-cannabis-paperwork
 [^34]: https://travel.meta.stackexchange.com/a/9031/244022
 [^35]: https://www.thailand.go.th/public/index.php/issue-focus-detail/cannabis-now-strictly-regulated-in-thailand--important-notice-for-tourists
+[^36]: https://travel.stackexchange.com/search?q=user%3A1381+%5Blegal%5D
+[^37]: https://travel.stackexchange.com/questions/3410/will-i-get-in-trouble-if-i-drink-beer-in-public-in-dubai/7994
+[^38]: https://travel.stackexchange.com/questions/83549/can-i-bring-a-dji-phantom-3-standard-drone-into-the-dominican-republic/84710
