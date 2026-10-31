@@ -74,6 +74,18 @@ Stack Exchange's published moderator guidelines say moderators should be "patien
 
 Alsop's public accusation that a contributor reporting suspicious voting and flagging activity was lying stands in contrast to those expectations. Although Alsop claimed the contributor already knew why he had been suspended, he provided no explanation in the public discussion identifying what he believed was false.[^13]
 
+## February 5–8: Dispute Over Visa Agents Near Bangkok Immigration
+
+On February 5, 2026, Travel Stack Exchange contributor Borsos Vidor challenged the closure of his question asking whether visa agents operating near Bangkok's Immigration Division 1 could legally arrange visa extensions without applicants appearing in person.[^26][^27]
+
+Rory Alsop acknowledged that Vidor's edits had made the question less opinion-based, but argued that it was now a duplicate of another discussion. Vidor objected that the linked question concerned Destination Thailand Visa (DTV) applications in Vietnam, while his question concerned agents physically operating near immigration offices in Bangkok.
+
+When Vidor pressed for an explanation, Alsop responded that asking specifically about those agents was what had originally caused the closure, adding: "If that is the question you want answered then I'll reclose it." He later stated that the question was unsuitable for Travel Stack Exchange.[^26]
+
+Vidor questioned why the justification had shifted between being opinion-based, a duplicate, and unsuitable for the site. He also asked whether visa agents had been flagging his posts, but received no public confirmation.
+
+On February 8, fellow moderator Willeke advised Vidor to stop asking questions about Thai visas and visa agents, suggesting that his posts were intended to influence search engines rather than obtain answers. The accusation echoed the SEO manipulation allegations Alsop had made against Nickles in June 2025, despite the questions concerning different aspects of Thailand's immigration system.[^26]
+
 ## February 2026: Reopening Closed Questions
 
 On February 13, 2026, Rory Alsop responded to a Travel Stack Exchange discussion about whether community members should help improve and reopen closed questions. He acknowledged that users might rescue a post containing a "good core question," but added that if its author had ignored site guidance or was "rude in comments," the "likelihood drops to near zero."[^20]
@@ -121,3 +133,5 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^23]: https://stackoverflow.com/legal/moderator-agreement
 [^24]: https://travel.stackexchange.com/posts/198941/revisions
 [^25]: https://travel.stackexchange.com/posts/198761/revisions
+[^26]: https://travel.meta.stackexchange.com/questions/9006/is-it-legal-for-visa-agents-to-extend-your-visa-in-thailand
+[^27]: https://travel.stackexchange.com/questions/203049/is-it-legal-for-visa-agents-to-extend-your-visa-in-thailand
