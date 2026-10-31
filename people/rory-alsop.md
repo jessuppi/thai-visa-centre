@@ -56,7 +56,9 @@ In the February 2026 discussion, another contributor, Borsos Vidor, alleged that
 
 On February 23, Alsop challenged Vidor's explanation for the suspension, stating that he had already been told the actual reason and adding, "do not make up lies, Boris." Alsop did not publicly explain the suspension reason or address Vidor's broader allegations about suspicious voting and flagging in that exchange.[^13]
 
-The discussion documents concerns about targeted voting and alleged misuse of moderation flags affecting Thailand-related content, alongside an openly confrontational response from Alsop to a contributor raising those concerns.
+Stack Exchange's published moderator guidelines say moderators should be "patient and fair," "lead by example," and show respect for community members in their words and actions.[^22] Its Moderator Agreement also requires moderators to follow the network-wide Code of Conduct.[^23]
+
+Alsop's public accusation that a contributor reporting suspicious voting and flagging activity was lying stands in contrast to those expectations. Although Alsop claimed the contributor already knew why he had been suspended, he provided no explanation in the public discussion identifying what he believed was false.[^13]
 
 ## February 2026: Reopening Closed Questions
 
@@ -101,3 +103,5 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^19]: https://i.sstatic.net/gYEFsrHI.jpg
 [^20]: https://travel.meta.stackexchange.com/questions/9012/to-what-extent-do-we-proactively-edit-and-improve-others-closed-posts-without
 [^21]: https://travel.stackexchange.com/help/closed-questions
+[^22]: https://meta.stackexchange.com/help/site-moderators
+[^23]: https://stackoverflow.com/legal/moderator-agreement
