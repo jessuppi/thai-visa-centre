@@ -114,15 +114,17 @@ The subject was relevant to travelers. Thailand's official tourism guidance warn
 
 Vasiya's complaint remains visible in search-indexed excerpts of Stack Exchange's February 24 chat transcript, although the original Meta posts are no longer publicly accessible. The surviving excerpt identifies the deleted posts but does not establish which moderation rule, if any, justified their removal.
 
-### March 8: Passport Question Reported After Earlier Blacklisting
+### March 8: Spam Classification and Automatic Blacklisting
 
-On March 8, 2026, SmokeDetector reported Carter Wilson's question, "Do you need to carry your passport with you in Thailand?" with the detection reason `Blacklisted user (86)`. **This confirms that someone had already taken action to have Wilson treated as a suspected spammer**—by reporting an earlier post, classifying one as spam, or manually blacklisting his account. His passport question was then automatically reported because of that earlier action, not because SmokeDetector detected spam in the question itself.[^46][^47]
+On March 8, 2026, at 07:01 UTC, SmokeDetector automatically reported Carter Wilson's answer to "Do I need a medical marijuana card to buy weed in Thailand?" because of a potentially suspicious keyword. The initial detection was automated, but at approximately 15:00, someone submitted `tpu-` feedback, manually classifying the answer as spam and causing Wilson's account to be blacklisted. The transcript does not identify who submitted that classification.[^49][^47]
 
-According to Charcoal's official documentation, marking a post `tpu` (true positive, blacklist user) automatically blacklists its author. Manually reporting an otherwise undetected post or explicitly adding an account to the blacklist can have the same effect. Once blacklisted, subsequent posts are automatically reported regardless of their content. The records do not identify who originally blacklisted Wilson or which earlier action triggered it.[^47]
+Following that human intervention, SmokeDetector automatically reported two more Wilson posts: "Getting a legit medical cannabis prescription for Thailand" and "Weed.th legally recognized Thai medical cannabis cards?" Both triggered the detection reason `Blacklisted user (86)`, meaning they were reported because of the earlier blacklisting rather than suspicious content detected in those posts. Both reports subsequently received `tp` feedback.[^49]
 
-The same March 8 transcript records `fp-` feedback for Wilson's passport question, meaning someone classified the spam report as a false positive. Charcoal's documentation confirms that this feedback also removes an account from the user blacklist.[^46][^47]
+At 22:47, SmokeDetector reported Wilson's question, "Do you need to carry your passport with you in Thailand?" for the same reason. This time, someone marked the report `fp-` (false positive), which also removes the author from the blacklist under Charcoal's rules.[^46][^47]
 
-Four days later, Wilson publicly complained that Rory Alsop had closed the same passport question as off-topic, despite Travel Stack Exchange allowing comparable passport questions about countries such as Italy.[^29][^30]
+The sequence shows how one human spam classification caused Wilson's subsequent Thailand-related posts to be reported automatically, including a passport question that was ultimately cleared as a false positive.
+
+Four days later, Wilson publicly complained that Rory Alsop had closed the passport question as off-topic, despite Travel Stack Exchange allowing comparable passport questions about countries such as Italy.[^29][^30]
 
 Alsop has decades of cybersecurity experience and moderates Information Security Stack Exchange.[^48] Nickles argues that he should have recognized and investigated the suspected false-flagging attacks targeting Thailand-related users and scam warnings, rather than repeatedly dismissing complaints about suspicious voting and flagging activity.[^13][^26]
 
@@ -226,3 +228,4 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^46]: https://chat.stackexchange.com/transcript/11540/2026/3/8/20-24
 [^47]: https://charcoal-se.org/smokey/Commands.html
 [^48]: https://security.stackexchange.com/users/roryalsop
+[^49]: https://chat.stackexchange.com/transcript/11540/2026/3/8/0-20
