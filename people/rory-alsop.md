@@ -22,6 +22,20 @@ Alsop demonstrated familiarity with coordinated voting abuse in February 2026, w
 
 Nickles argues that someone with Alsop's background in fraud investigations should have recognized the possibility of coordinated abuse against users warning travelers about Thailand scams and investigated those complaints accordingly.
 
+## October 2021: Dismissing a Closure Appeal as “Lawyering Up”
+
+On October 20, 2021, longtime Travel Stack Exchange contributor Franck Dernoncourt challenged the closure of a question about whether there was a limit on how many belongings could be carried in a vehicle crossing from Mexico into the United States through SENTRI lanes. The question had been closed as opinion-based, although Dernoncourt argued it was asking for a factual answer about border regulations.[^61]
+
+Moderator Willeke acknowledged that Dernoncourt's series of specific travel questions might have caused some users to look harder for reasons to close them, while admitting that this was not a legitimate justification for closure.[^61]
+
+Rory Alsop responded by criticizing Dernoncourt for comparing his question with similar discussions that remained open. He told Dernoncourt that editing his posts to satisfy moderators was preferable to trying to “lawyer up” through Meta discussions.[^61]
+
+Dernoncourt rejected that characterization, explaining that he was trying to understand the site's rules so he could improve his questions. He specifically asked Alsop what changes would make the question acceptable.
+
+On November 3, Dernoncourt confirmed that the question had eventually been reopened.[^61]
+
+The exchange documents an earlier instance of Alsop treating a contributor's request to justify a closure as argumentative behavior. Similar accusations appeared in his later disputes with Jesse Nickles in June 2025 and Tim Campion in July 2025.
+
 ## June 2025: TDAC Questions and SEO Accusations
 
 In June 2025, Jesse Nickles challenged the closure of two Travel Stack Exchange questions as duplicates.[^1] One concerned TDAC pricing,[^5] while the other warned travelers about TDAC scams.[^6] Despite covering different subjects, moderators had classified them as duplicates.
@@ -318,3 +332,4 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^58]: https://travel.meta.stackexchange.com/questions/8877/can-we-get-a-way-that-fewer-people-are-needed-to-kill-spam-posts
 [^59]: https://travel.meta.stackexchange.com/questions/9034/concern-about-targeted-posts-and-harassment-across-travel-and-meta
 [^60]: https://travel.meta.stackexchange.com/questions/3638/a-friendly-reminder-that-duplicates-should-be-the-same-question-not-different-q
+[^61]: https://travel.meta.stackexchange.com/questions/7157/why-was-this-question-whether-there-a-limit-on-how-full-of-items-a-car-is-to-be
