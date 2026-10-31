@@ -68,7 +68,11 @@ Alsop was already familiar with these rules. In November 2013, he had personally
 
 In the February 2026 discussion, another contributor, Borsos Vidor, alleged that he had received a one-week suspension after reporting suspicious posting and flagging activity involving Thai visas, visa scams, and cannabis. He maintained that the problems were genuine and suggested that a visa agency might be involved.
 
-On February 23, Alsop challenged Vidor's explanation for the suspension, stating that he had already been told the actual reason and adding, "do not make up lies, Boris." Alsop did not publicly explain the suspension reason or address Vidor's broader allegations about suspicious voting and flagging in that exchange.[^13]
+On February 19, 2026, Ryan Vasiya observed that Alsop's answer in the separate visa-agent dispute had risen from -7 to -1 votes within a few hours. The following day, Alsop replied: "Usually that's a sign of irregular voting being reversed. We see this when automated systems detect voting rings."[^26]
+
+The comment is notable because Vasiya had reported receiving confirmation from Stack Exchange that serial downvotes against his own account had been detected and reversed earlier that month.[^13] Alsop's response shows that he recognized unusual voting reversals as a potential sign of coordinated voting abuse.
+
+Three days later, on February 23, Alsop publicly accused Borsos Vidor of lying about the reason for his suspension, saying he had already been told the actual reason and adding, "do not make up lies, Boris." He did not publicly explain which part of Vidor's account he believed was false or address Vidor's broader allegations about suspicious voting and flagging.[^13]
 
 Stack Exchange's published moderator guidelines say moderators should be "patient and fair," "lead by example," and show respect for community members in their words and actions.[^22] Its Moderator Agreement also requires moderators to follow the network-wide Code of Conduct.[^23]
 
