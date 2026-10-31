@@ -64,6 +64,20 @@ Nickles replied that moderators appeared concerned scammers might exploit TDAC d
 
 No moderator publicly answered Franck's objection in that discussion, and the TDAC pricing question remained closed as a duplicate.[^1][^5]
 
+### Earlier Travel Meta Guidance on Duplicate Questions
+
+In April 2016, Travel Stack Exchange users discussed the problem of closing different questions as duplicates simply because their answers contained overlapping information. A highly upvoted Meta post cited Stack Exchange staff guidance explaining that duplicate closures should concern the same underlying question, not merely related topics.[^60]
+
+The discussion also recommended linking between related questions when an existing answer provided useful background but did not fully address a different question. This was precisely the kind of internal linking Rory Alsop later characterized as SEO manipulation when editing Nickles's Thailand Digital Arrival Card posts in June 2025.[^17][^18][^60]
+
+The distinction was relevant to Nickles's two TDAC questions: one asked about the official registration price, while the other concerned avoiding fraudulent websites. On June 17, 2025, Nickles again asked moderators to explain why these had been classified as duplicates.[^1]
+
+Moderator Willeke responded:
+
+> Your insisting does you no good, it makes our 'is this spam' sense working harder.
+
+Rather than providing a specific explanation of how the questions duplicated each other, Willeke treated Nickles's continued requests for clarification as another reason to suspect spam. The response followed Alsop's June 15 accusation that Nickles was manipulating SEO through links between related questions.[^1]
+
 ## July 2025: Dispute Over Deleted Comments and Moderation Rules
 
 On July 6, 2025, Travel Stack Exchange user Tim Campion questioned why his post about avoiding distractions from other passengers' screens had been migrated to Lifehacks Stack Exchange. Campion argued that the question concerned air travel and asked which Travel Stack Exchange rule justified removing it. Longtime contributor Franck Dernoncourt agreed the question belonged on Travel and confirmed that he had voted to reopen it before the migration.[^53]
@@ -303,3 +317,4 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^57]: https://travel.meta.stackexchange.com/questions/8837/can-we-please-have-the-flag-limit-temporarily-increased
 [^58]: https://travel.meta.stackexchange.com/questions/8877/can-we-get-a-way-that-fewer-people-are-needed-to-kill-spam-posts
 [^59]: https://travel.meta.stackexchange.com/questions/9034/concern-about-targeted-posts-and-harassment-across-travel-and-meta
+[^60]: https://travel.meta.stackexchange.com/questions/3638/a-friendly-reminder-that-duplicates-should-be-the-same-question-not-different-q
