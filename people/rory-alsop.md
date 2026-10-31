@@ -34,6 +34,14 @@ When another contributor asked Nickles to identify existing questions suitable f
 
 The exchange illustrates a consequence of Alsop's earlier SEO accusations: Nickles had become reluctant to link related questions even when another community member explicitly requested examples. This was despite Stack Exchange's longstanding guidance recognizing the usefulness of linking related discussions.[^2]
 
+### July 7: Independent Challenge to TDAC Duplicate Closure
+
+On July 7, 2025, longtime Travel Stack Exchange contributor Franck Dernoncourt challenged the closure of Nickles's TDAC pricing question as a duplicate of the separate scam-warning discussion. "It's not a duplicate," Franck wrote, explaining that questions about official travel-document fees and questions about avoiding scams cover different subjects. He cited other visa-related discussions on Travel Stack Exchange as examples.[^1]
+
+Nickles replied that moderators appeared concerned scammers might exploit TDAC discussions and acknowledged that this precaution could explain their decision. Franck then questioned why other questions about prices and scams were allowed to remain open if that was the justification.
+
+No moderator publicly answered Franck's objection in that discussion, and the TDAC pricing question remained closed as a duplicate.[^1][^5]
+
 ## February 2026: Dispute Over Scam Website Links
 
 On February 1, 2026, Travel Stack Exchange contributor Ryan Vasiya proposed that suspicious or fraudulent travel websites should be displayed as non-clickable text to prevent travelers from accidentally visiting them. He suggested using inline code formatting to identify potentially dangerous URLs without creating active hyperlinks.[^10]
