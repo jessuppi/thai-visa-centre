@@ -14,6 +14,18 @@ On June 15, moderator Rory Alsop issued a spam warning to Nickles[^5] and accuse
 
 The accusation was particularly questionable given that a longstanding Meta discussion describes internal links as useful for readers and acknowledges their SEO benefits.[^2] Nickles maintained that the links were intended to help travelers find accurate information about Thailand's immigration procedures and avoid scams.
 
+### June 15: Locked TDAC Warning and Removed Links
+
+On June 15, 2025, at 16:56 UTC, moderator Willeke locked Jesse Nickles's question about avoiding Thailand TDAC scams, marking it as a "content dispute." The question had previously appeared on Stack Exchange's Hot Network Questions list. Although the warning remained publicly visible, the lock prevented further answers and interaction.[^16]
+
+Over the next 17 minutes, Rory Alsop edited three of Nickles's TDAC posts. At 17:09, he removed links to related Travel Stack Exchange questions and an embedded image from an answer about TDAC pricing, describing the changes as "Removed unneeded self-promoting links."[^17]
+
+The removed image was an official public warning from Thailand's Immigration Bureau, advising travelers to avoid fraudulent TDAC websites, protect their personal information, and use the government's free registration service. It was a government anti-fraud announcement, not advertising or self-promotion by Nickles.[^19]
+
+At 17:12, Alsop edited the locked scam-warning question, replacing a link to another TDAC discussion with a direct link to Thailand's official immigration website. One minute later, he removed two more links to related Travel Stack Exchange questions from the warning's highest-scoring answer, again labeling the changes "removal of unnecessary self promotion."[^16][^18]
+
+At 17:23, Alsop warned Nickles that his activity was "skirting the wrong side" of Stack Exchange's spam rules and that he risked being blocked.[^5] The revision records show that Alsop removed legitimate links between related travel questions and an official government fraud warning while accusing their author of self-promotion and spam.
+
 ### June 17–18: Arrival Card Tag Request
 
 On June 17, 2025, Jesse Nickles proposed creating an `arrival-cards` tag on Travel Stack Exchange, explaining that digital arrival cards were becoming increasingly common worldwide and that related questions would benefit from a dedicated category.[^12]
@@ -75,3 +87,7 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^13]: https://travel.meta.stackexchange.com/questions/8997/serial-down-voting-about-topics-involving-thailand-abuse
 [^14]: https://meta.stackexchange.com/questions/126829/what-is-serial-voting-and-how-does-it-affect-me/126857
 [^15]: https://security.meta.stackexchange.com/questions/1444/what-do-we-do-if-weve-been-deliberately-downvoted-for-no-reason
+[^16]: https://travel.stackexchange.com/posts/198663/revisions
+[^17]: https://travel.stackexchange.com/posts/198997/revisions
+[^18]: https://travel.stackexchange.com/posts/198664/revisions
+[^19]: https://i.sstatic.net/gYEFsrHI.jpg
