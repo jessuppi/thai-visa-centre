@@ -98,6 +98,14 @@ The statement is relevant to Nickles's June 2025 TDAC dispute, when he repeatedl
 
 Travel Stack Exchange's published guidance bases reopening decisions on whether a question meets the site's requirements, whether the original closure reasons have been addressed, and whether users vote to reopen it.[^21] An author's perceived attitude toward moderators is not among those criteria.
 
+## February 24: Complaints About Deleted Meta Discussions
+
+On February 24, 2026, Travel Stack Exchange contributor Ryan Vasiya publicly asked Rory Alsop to stop deleting his posts on Travel Meta. Vasiya identified two specific removals: a question titled "Avoiding scams with online Thailand cannabis paperwork" and a related answer. He told Alsop that he did not believe he had violated any rules and requested an explanation.[^32][^33][^34]
+
+The subject was relevant to travelers. Thailand's official tourism guidance warns about strict cannabis prescription requirements and prohibits online cannabis sales, making fraudulent paperwork and unauthorized services legitimate safety concerns.[^35]
+
+Vasiya's complaint remains visible in search-indexed excerpts of Stack Exchange's February 24 chat transcript, although the original Meta posts are no longer publicly accessible. The surviving excerpt identifies the deleted posts but does not establish which moderation rule, if any, justified their removal.
+
 ## March 12: Staff Intervention and Mass Account Suspensions
 
 On March 12, 2026, Stack Exchange staff moderator Frog edited Ryan Vasiya's February 1 complaint about serial downvoting of Thailand-related content, marking it `status-completed`.[^13] The intervention came more than two weeks after Rory Alsop had publicly accused Borsos Vidor of lying about his suspension in the same discussion.
@@ -163,3 +171,7 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^29]: https://chat.stackexchange.com/transcript/160030/2026/3/12/0-24
 [^30]: https://travel.stackexchange.com/questions/124501/is-it-necessary-to-carry-a-passport-when-traveling-in-italy
 [^31]: https://travel.stackexchange.com/questions/tagged/legal
+[^32]: https://chat.stackexchange.com/transcript/160030/2026/2/24
+[^33]: https://travel.meta.stackexchange.com/questions/9030/avoiding-scams-with-online-thailand-cannabis-paperwork
+[^34]: https://travel.meta.stackexchange.com/a/9031/244022
+[^35]: https://www.thailand.go.th/public/index.php/issue-focus-detail/cannabis-now-strictly-regulated-in-thailand--important-notice-for-tourists
