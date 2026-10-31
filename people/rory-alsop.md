@@ -126,6 +126,16 @@ Later that day, a Travel Meta account named General Grievance, which Nickles sus
 
 The `status-completed` designation showed that Stack Exchange considered the matter closed, without explaining which accounts had been investigated or why votes and accounts were removed. Nickles argues that the outcome punished users warning travelers about scams while leaving the suspected sockpuppet voting and flagging abuse unresolved.
 
+### Public Records of the 100-Year Suspensions
+
+Stack Exchange's public account records confirm that several contributors involved in the Thailand moderation disputes received exceptionally long suspensions. The profiles of Ryan Vasiya, Borsos Vidor, Chris, ZMF, and Jesse Nickles all show suspension end dates of February 16, 2126, with expiration times clustered between 13:53 and 17:07.[^40][^41][^42][^43][^44]
+
+Stack Exchange staff moderator Frog was also involved. On March 12, 2026, Frog edited Ryan Vasiya's complaint about serial downvoting of Thailand-related content and marked the discussion `status-completed`.[^13] The intervention coincided with the enforcement action affecting multiple accounts that had participated in discussions about Thailand.
+
+Stack Exchange's published guidance states that ordinary site moderators cannot issue suspensions longer than 365 days. Network-wide suspensions and longer penalties require staff intervention.[^45]
+
+Nickles alleges that Rory Alsop helped direct the investigation toward users discussing Thailand-related scams, with Frog and other Stack Exchange staff involved in the resulting enforcement. The public records confirm Frog's intervention and the unusually severe suspensions, although they do not identify which staff member issued each penalty or what evidence was used.
+
 ## March 12: Questions About Inconsistent Moderation of Thailand Topics
 
 On March 12, 2026, a user posting as Carter Wilson challenged Rory Alsop's decision to close a question asking whether tourists need to carry their passports while traveling in Thailand. Alsop had reportedly marked it off-topic, despite Travel Stack Exchange allowing similar questions about other countries, including Italy.[^29][^30]
@@ -195,3 +205,9 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^37]: https://travel.stackexchange.com/questions/3410/will-i-get-in-trouble-if-i-drink-beer-in-public-in-dubai/7994
 [^38]: https://travel.stackexchange.com/questions/83549/can-i-bring-a-dji-phantom-3-standard-drone-into-the-dominican-republic/84710
 [^39]: https://travel.meta.stackexchange.com/a/4747/1381
+[^40]: https://travel.meta.stackexchange.com/users/244022/ryan-vasiya
+[^41]: https://travel.meta.stackexchange.com/users/243003/borsos-vidor
+[^42]: https://travel.stackexchange.com/users/242536/chris
+[^43]: https://travel.stackexchange.com/users/243438/zmf
+[^44]: https://stackoverflow.com/users/1718491/jesse-nickles
+[^45]: https://meta.stackexchange.com/questions/392267/minimum-suspension-sentencing-and-transparency-rules
