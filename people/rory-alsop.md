@@ -62,6 +62,18 @@ Alsop added that he would have voted to close the question himself. Dernoncourt 
 
 The underlying question remains publicly accessible with its accepted answer explaining the contractual and financial reasons airlines use indemnity forms. The dispute provides another documented example of Alsop defending the exclusion of travel-related information while declining to explain his objection beyond personal disagreement.[^70]
 
+## January 2023: Defending a Closure Without a Matching Reason
+
+On January 17, 2023, Travel Stack Exchange contributor Franck Dernoncourt challenged the closure of his question about self-service transfer kiosks at Amsterdam Schiphol Airport. The question asked whether passengers could use the kiosks without having missed a flight or lost a boarding pass. It had been closed as needing details or clarification, prompting Dernoncourt to ask what was actually unclear.[^72]
+
+Rory Alsop defended the closure, describing the question as potentially "speculative/fictional" and accusing Dernoncourt of insufficient research. However, he acknowledged that the site might not have an appropriate standard closure reason for his objection, saying the existing reason was "suitable enough."[^72]
+
+Dernoncourt challenged both explanations, pointing out that the question concerned an actual airport service and asking whether insufficient research independently justified closing a question.
+
+Alsop responded that it effectively did, arguing that questions needed to be useful to future visitors. Dernoncourt countered that information about airport transfer kiosks would be useful to travelers and cited an earlier community discussion questioning whether lack of research was a valid closure reason. Alsop provided no further public response.[^72]
+
+The incident documents Alsop defending a closure despite acknowledging that the selected reason did not precisely match his objection, while questioning the contributor's motives instead of identifying what clarification the question required.
+
 ## April 2024: Defending a Reopened Visa Question's Closure
 
 On April 9, 2024, longtime Travel Stack Exchange contributor Franck Dernoncourt challenged the closure of a question about renewing a French passport while holding a valid electronic visa linked to the old passport number. The question had been classified as off-topic, with one close voter incorrectly claiming that such electronic visas did not exist.[^63]
@@ -409,3 +421,4 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^69]: https://travel.meta.stackexchange.com/questions/8406/why-did-a-mod-close-this-question-on-indemnity-forms-as-opinion-based
 [^70]: https://travel.stackexchange.com/questions/176799/why-do-some-airlines-have-indemnity-forms-even-though-the-icao-rules-state-the-a
 [^71]: https://meta.stackexchange.com/questions/339400/how-does-the-system-determine-which-one-close-reason-should-be-displayed-on-a-cl
+[^72]: https://travel.meta.stackexchange.com/questions/8464/why-was-this-question-on-understanding-what-services-self-service-transfer-kiosk
