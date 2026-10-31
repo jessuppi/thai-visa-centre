@@ -6,6 +6,14 @@ The dispute dates back to at least June 2025, when Alsop publicly accused Nickle
 
 Nickles alleges that the censorship escalated throughout 2026, with dozens of user accounts suspended or even "nuked," numerous popular questions and answers deleted,[^3] and warnings about suspicious immigration websites removed from public view. On Stack Exchange, "nuking" an account refers to account destruction, which removes the account along with its posts and comments.[^4]
 
+## Alsop's Earlier Statements on Moderation
+
+During the 2018 Travel Stack Exchange moderator election, Rory Alsop described his moderation philosophy as assuming the best of contributors and treating them respectfully. He said moderators should be welcoming, discuss disagreements before taking action, and encourage useful edits rather than unnecessarily restricting contributors.[^39]
+
+Alsop also described guidance and warnings as steps to take before suspending users. When asked how he would handle disagreements between moderators, he emphasized discussing the reasons behind decisions and acknowledged that either moderator could be mistaken.[^39]
+
+Those statements contrast with his later treatment of Thailand-related discussions. In June 2025, he removed links between related questions and an official Thai Immigration Bureau fraud warning while accusing Nickles of self-promotion.[^16][^17][^18] In February 2026, he publicly accused Borsos Vidor of lying about his suspension without explaining which statements he considered false.[^13]
+
 ## June 2025: TDAC Questions and SEO Accusations
 
 In June 2025, Jesse Nickles challenged the closure of two Travel Stack Exchange questions as duplicates.[^1] One concerned TDAC pricing,[^5] while the other warned travelers about TDAC scams.[^6] Despite covering different subjects, moderators had classified them as duplicates.
@@ -186,3 +194,4 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^36]: https://travel.stackexchange.com/search?q=user%3A1381+%5Blegal%5D
 [^37]: https://travel.stackexchange.com/questions/3410/will-i-get-in-trouble-if-i-drink-beer-in-public-in-dubai/7994
 [^38]: https://travel.stackexchange.com/questions/83549/can-i-bring-a-dji-phantom-3-standard-drone-into-the-dominican-republic/84710
+[^39]: https://travel.meta.stackexchange.com/a/4747/1381
