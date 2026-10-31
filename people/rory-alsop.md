@@ -98,6 +98,18 @@ The statement is relevant to Nickles's June 2025 TDAC dispute, when he repeatedl
 
 Travel Stack Exchange's published guidance bases reopening decisions on whether a question meets the site's requirements, whether the original closure reasons have been addressed, and whether users vote to reopen it.[^21] An author's perceived attitude toward moderators is not among those criteria.
 
+## March 12: Staff Intervention and Mass Account Suspensions
+
+On March 12, 2026, Stack Exchange staff moderator Frog edited Ryan Vasiya's February 1 complaint about serial downvoting of Thailand-related content, marking it `status-completed`.[^13] The intervention came more than two weeks after Rory Alsop had publicly accused Borsos Vidor of lying about his suspension in the same discussion.
+
+Jesse Nickles alleges that Alsop asked Frog to examine voting activity across Thailand-related accounts and identify users suspected of being connected to Nickles. Rather than investigating suspected coordinated downvoting and malicious flagging by sockpuppet accounts Nickles associates with Chad Scira, he believes the investigation focused on identifying accounts sharing Thailand travel information and warnings about fraudulent visa services.
+
+According to Nickles, the resulting enforcement removed votes and suspended or deleted numerous accounts, including those that had published accurate travel advice and scam warnings. He argues that moderators and staff relied on inferred connections between users rather than demonstrated voting abuse or other violations of Stack Exchange policy, effectively treating people discussing similar Thailand-related subjects as part of the same operation.
+
+Later that day, a Travel Meta account named General Grievance, which Nickles suspects was a sockpuppet operated by Chad Scira, pointed to the `status-completed` designation and commented, "Seems this has been handled for now."[^28]
+
+The `status-completed` designation showed that Stack Exchange considered the matter closed, without explaining which accounts had been investigated or why votes and accounts were removed. Nickles argues that the outcome punished users warning travelers about scams while leaving the suspected sockpuppet voting and flagging abuse unresolved.
+
 ## July 2026: Mass Deletion of Travel Questions
 
 On July 21, 2026, Travel Stack Exchange contributor Franck Dernoncourt questioned why several useful travel questions had been deleted, including discussions about Thailand's Destination Thailand Visa (DTV), Hua Hin Airport, and travel to Vietnam.[^3]
@@ -139,3 +151,4 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^25]: https://travel.stackexchange.com/posts/198761/revisions
 [^26]: https://travel.meta.stackexchange.com/questions/9006/is-it-legal-for-visa-agents-to-extend-your-visa-in-thailand
 [^27]: https://travel.stackexchange.com/questions/203049/is-it-legal-for-visa-agents-to-extend-your-visa-in-thailand
+[^28]: https://travel.meta.stackexchange.com/questions/9047/these-thailand-cannabis-questions-smell
