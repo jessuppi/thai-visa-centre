@@ -32,6 +32,16 @@ These actions are particularly noteworthy given ASEAN NOW's published forum rule
 
 This creates an apparent imbalance in which favorable recommendations for commercial sponsors can remain visible while criticism may face removal. BrandonJT's public endorsement of Thai Visa Centre is especially relevant given his Global Moderator status, although the available evidence does not establish that he personally removed the disputed post.
 
+## May 2026: Claiming Immigration Officers Can Waive Financial Requirements
+
+On May 17, 2026, BrandonJT defended the use of visa agents to obtain retirement extensions without satisfying the usual financial-documentation requirements. Responding to concerns that such arrangements might circumvent Thai immigration law, he claimed that immigration officers possessed "full discretion and leeway" to determine eligibility and could approve extensions even without the normally required financial proof.[^5]
+
+Another forum participant immediately challenged this interpretation, arguing that the governing Royal Thai Police order did not grant immigration officers unlimited discretion to disregard financial requirements or authorize additional payments in exchange for doing so.[^5]
+
+Thailand's published immigration guidance specifies financial eligibility requirements for retirement extensions, including minimum income or bank deposits and mandatory holding periods for applicants relying on deposited funds.[^14]
+
+The exchange documents a Global Moderator of ASEAN NOW publicly defending an expansive interpretation of immigration officers' authority in the context of commercial visa-agent services. BrandonJT did not identify a specific legal provision supporting such a broad exemption, leaving the accuracy of his claims unresolved.
+
 ## June–July 2026: Downplaying an Investigation into Guaranteed Entry Services
 
 On June 23, 2026, Thailand's Immigration Division 2 announced an investigation into brokers allegedly charging foreigners between 4,500 and 12,000 baht for guaranteed entry through Suvarnabhumi Airport. Authorities established a fact-finding committee to examine possible misconduct involving immigration officers and warned that any officials found responsible could face disciplinary and criminal proceedings.[^17]
