@@ -58,6 +58,10 @@ These actions are particularly noteworthy given ASEAN NOW's published forum rule
 
 This creates an apparent imbalance in which favorable recommendations for commercial sponsors can remain visible while criticism may face removal. BrandonJT's public endorsement of Thai Visa Centre is especially relevant given his Global Moderator status, although the available evidence does not establish that he personally removed the disputed post.
 
+On November 7, 2025, BrandonJT participated in another discussion about obtaining a Non-O retirement visa and opening a Thai bank account. He stated that some visa agents could still arrange bank accounts when customers were also applying for visas or extensions, adding that he knew "for a fact" Thai Visa Centre continued offering this service. He also tagged the agency's forum account.[^25]
+
+The statement is noteworthy because BrandonJT expressed certainty about Thai Visa Centre's current services, rather than simply recommending the agency based on online reviews. He did not explain how he obtained that information. Thai Visa Centre had previously confirmed offering similar bank-account assistance in March 2025.[^23][^25]
+
 ## November 2025: Claiming Visa Agent Fees Are Passed to Immigration Offices
 
 On November 8, 2025, BrandonJT explained how some visa agents allegedly obtain retirement extensions for customers who cannot meet Thailand's financial requirements. He claimed that agents accompany customers to a bank, temporarily deposit 800,000 baht into their accounts, obtain the necessary bank letters and updated passbooks, and then withdraw the money.[^24]
@@ -140,3 +144,4 @@ Additional forum references: [^9][^10][^11]
 [^22]: `https://aseannow.com/topic/1406166-are-safe-entry-service-still-available/`
 [^23]: `https://aseannow.com/topic/1355069-can-i-change-the-visa-extemption-to-non-o-based-on-marriage/`
 [^24]: `https://aseannow.com/topic/1377086-easiest-initial-visa-to-then-convert-to-non-imm-o/page/2/`
+[^25]: `https://aseannow.com/topic/1377086-easiest-initial-visa-to-then-convert-to-non-imm-o/`
