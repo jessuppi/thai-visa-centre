@@ -44,6 +44,14 @@ On May 26, 2025, BrandonJT again recommended Thai Visa Centre in a discussion ab
 
 These exchanges are significant because BrandonJT acknowledged receiving a service-specific booking link from Thai Visa Centre before repeatedly directing forum users toward it. This suggests a more direct line of communication with the business than an ordinary forum member casually recommending a service.
 
+## May 2025: Citing Agency Reports of TDAC Passport Data Mix-Ups
+
+On May 26, 2025, an ASEAN NOW user reported that the official Thai government TDAC website had supplied a downloadable PDF containing another traveler's passport information. Although the user's confirmation email and online records displayed their own correct details, the PDF reportedly exposed the other person's name, passport number, date of birth, and accommodation information.[^27]
+
+BrandonJT responded that he had heard about similar incidents from the agency operating tdac.agents.co.th, claiming that approximately one in every 500 submissions was affected. He reassured the user that their correct email confirmation should remain usable and attributed the problem to Thailand's government IT systems.[^27]
+
+The exchange is noteworthy because BrandonJT cited a specific error rate that he claimed to have learned from the operator of a commercial TDAC service he had repeatedly promoted. However, the discussion provides no independent verification of that figure or explanation of how he obtained it. The original user's reported incident occurred through the official government TDAC website, not necessarily through tdac.agents.co.th.[^27]
+
 ## July 2025: Claiming Guaranteed Airport Entry Through Visa Agents
 
 On July 23, 2025, BrandonJT responded to an ASEAN NOW user concerned about being denied entry to Thailand despite paying for an airport "safe entry" service. BrandonJT described these services as "100% reliable," claiming that agents would first obtain copies of every page of the customer's passport and submit them to contacts at the airport for screening and pricing.[^15]
@@ -152,3 +160,4 @@ Additional forum references: [^9][^10][^11]
 [^24]: `https://aseannow.com/topic/1377086-easiest-initial-visa-to-then-convert-to-non-imm-o/page/2/`
 [^25]: `https://aseannow.com/topic/1377086-easiest-initial-visa-to-then-convert-to-non-imm-o/`
 [^26]: `https://aseannow.com/topic/1343856-visa-on-arrival-refused-what-is-the-best-way-to-re-enter-thailand/page/2/`
+[^27]: `https://aseannow.com/topic/1358135-thailand-digital-arrival-card-tdac/page/10/`
