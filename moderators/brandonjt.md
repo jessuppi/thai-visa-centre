@@ -84,6 +84,12 @@ On November 7, 2025, BrandonJT participated in another discussion about obtainin
 
 The statement is noteworthy because BrandonJT expressed certainty about Thai Visa Centre's current services, rather than simply recommending the agency based on online reviews. He did not explain how he obtained that information. Thai Visa Centre had previously confirmed offering similar bank-account assistance in March 2025.[^23][^25]
 
+## November 2025: Referring a Blacklist Inquiry to Airport Safe Entry Services
+
+On November 26, 2025, an ASEAN NOW user asked for a reliable visa agent who could help determine whether a friend might be blacklisted or encounter problems when returning to Thailand. Another participant had raised the possibility that the friend might have an outstanding arrest warrant. BrandonJT responded by linking directly to a discussion about airport "safe entry" services.[^30]
+
+The exchange is another documented instance of BrandonJT directing forum users toward airport entry arrangements, this time in response to concerns about a potentially serious immigration or legal issue. His reply consisted solely of the link; he did not specifically recommend Thai Visa Centre or claim that any agent could verify outstanding arrest warrants.[^30]
+
 ## November 2025: Claiming Visa Agent Fees Are Passed to Immigration Offices
 
 On November 8, 2025, BrandonJT explained how some visa agents allegedly obtain retirement extensions for customers who cannot meet Thailand's financial requirements. He claimed that agents accompany customers to a bank, temporarily deposit 800,000 baht into their accounts, obtain the necessary bank letters and updated passbooks, and then withdraw the money.[^24]
@@ -171,3 +177,5 @@ Additional forum references: [^9][^10][^11]
 [^27]: `https://aseannow.com/topic/1358135-thailand-digital-arrival-card-tdac/page/10/`
 [^28]: `https://aseannow.com/topic/1361664-apply-for-your-tdac-early-here/`
 [^29]: https://cgchicago.thaiembassy.org/en/content/press-release-the-immigration-bureau-would-like-t?menu=62134944bb835d1888475343
+
+[^30]: `https://aseannow.com/topic/1379856-service-for-checking-my-friends-status-re-blacklist-etc/`
