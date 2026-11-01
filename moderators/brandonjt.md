@@ -90,24 +90,24 @@ The discussion documents a Global Moderator of ASEAN NOW presenting an arrangeme
 
 Additional forum references: [^9][^10][^11]
 
-[^1]: https://aseannow.com/topic/1343828-residence-certificate-for-dlt-mae-sai-or-central-immigration/
-[^2]: https://aseannow.com/topic/1345519-safe-entry-services-bkk-airport/
-[^3]: https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/
-[^4]: https://aseannow.com/topic/1387557-has-the-visa-exempt-fuss-calmed-down-in-2026/
-[^5]: https://aseannow.com/topic/1394428-looking-for-a-retirement-visa-vis-agent/
-[^6]: https://aseannow.com/topic/1406324-using-an-agent-for-annual-retirement-extension/
-[^7]: https://aseannow.com/topic/1397370-guaranteed-entry-under-some-official-scrutiny/
-[^8]: https://aseannow.com/topic/1388105-safe-entry/
-[^9]: https://aseannow.com/topic/1400159-re-entry-application-at-suvarnabhumi-airport/
-[^10]: https://aseannow.com/topic/1402416-re-entry-permit-at-airport/
-[^11]: https://aseannow.com/topic/1403802-important-dtv-announcement-application-restrictions-sep-2026/
-[^12]: https://aseannow.com/topic/1359952-visa-run-to-laos-always-fine-no-problem-with-tdac/page/2/
-[^13]: https://aseannow.com/topic/1359107-almost-refused-entry-at-chiang-mai-airport-be-warned-2nd-visa-exemption/page/8/
+[^1]: `https://aseannow.com/topic/1343828-residence-certificate-for-dlt-mae-sai-or-central-immigration/`
+[^2]: `https://aseannow.com/topic/1345519-safe-entry-services-bkk-airport/`
+[^3]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/`
+[^4]: `https://aseannow.com/topic/1387557-has-the-visa-exempt-fuss-calmed-down-in-2026/`
+[^5]: `https://aseannow.com/topic/1394428-looking-for-a-retirement-visa-vis-agent/`
+[^6]: `https://aseannow.com/topic/1406324-using-an-agent-for-annual-retirement-extension/`
+[^7]: `https://aseannow.com/topic/1397370-guaranteed-entry-under-some-official-scrutiny/`
+[^8]: `https://aseannow.com/topic/1388105-safe-entry/`
+[^9]: `https://aseannow.com/topic/1400159-re-entry-application-at-suvarnabhumi-airport/`
+[^10]: `https://aseannow.com/topic/1402416-re-entry-permit-at-airport/`
+[^11]: `https://aseannow.com/topic/1403802-important-dtv-announcement-application-restrictions-sep-2026/`
+[^12]: `https://aseannow.com/topic/1359952-visa-run-to-laos-always-fine-no-problem-with-tdac/page/2/`
+[^13]: `https://aseannow.com/topic/1359107-almost-refused-entry-at-chiang-mai-airport-be-warned-2nd-visa-exemption/page/8/`
 [^14]: https://www.thailand.go.th/guide-book-detail/001_01_134
-[^15]: https://aseannow.com/topic/1367646-cant-apply-for-dtv-yet-what-are-my-best-options-to-stay-here/
-[^16]: https://aseannow.com/forum_rules/
+[^15]: `https://aseannow.com/topic/1367646-cant-apply-for-dtv-yet-what-are-my-best-options-to-stay-here/`
+[^16]: `https://aseannow.com/forum_rules/`
 [^17]: https://www.nationthailand.com/news/general/40067752
-[^18]: https://aseannow.com/topic/1355857-retirement-extension-via-agent-change-of-bank/
-[^19]: https://aseannow.com/topic/1354958-retirement-visa/
-[^20]: https://aseannow.com/topic/1361730-access-denied-to-enter-in-thailand/page/2/
-[^21]: https://aseannow.com/topic/1402687-passport-need/
+[^18]: `https://aseannow.com/topic/1355857-retirement-extension-via-agent-change-of-bank/`
+[^19]: `https://aseannow.com/topic/1354958-retirement-visa/`
+[^20]: `https://aseannow.com/topic/1361730-access-denied-to-enter-in-thailand/page/2/`
+[^21]: `https://aseannow.com/topic/1402687-passport-need/`
