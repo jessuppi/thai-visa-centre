@@ -22,6 +22,16 @@ BrandonJT then directed the user to [Thai Visa Centre](../brands/thai-visa-centr
 
 The exchange is significant because a Global Moderator of ASEAN NOW was publicly promoting a private visa agency while making extraordinary claims about guaranteed admission and direct cooperation from Thai immigration officers. The discussion provides no independent verification that the described arrangements operated as claimed.
 
+## November 2025: Endorsing a Forum Sponsor While Criticism Was Removed
+
+On November 4, 2025, BrandonJT publicly praised Thai Visa Centre in an ASEAN NOW discussion, claiming that virtually everyone he had seen discussing the agency reported positive experiences. In the same discussion, Thai Visa Centre participated under an account explicitly labeled "Forum Sponsor" and advertised its immigration services.[^3]
+
+The thread also contained a moderation notice confirming that a post criticizing the sponsor had been removed. Another warning invoked ASEAN NOW's Rule 37, which restricted negative comments concerning advertisements and sponsors.[^3]
+
+These actions are particularly noteworthy given ASEAN NOW's published forum rules. Rule 24 generally treats commercial promotion by non-sponsors as spam, while Rule 37 prohibits disrespectful, dismissive, or off-topic comments concerning sponsors and sponsored content.[^16]
+
+This creates an apparent imbalance in which favorable recommendations for commercial sponsors can remain visible while criticism may face removal. BrandonJT's public endorsement of Thai Visa Centre is especially relevant given his Global Moderator status, although the available evidence does not establish that he personally removed the disputed post.
+
 ## October 2026: Describing Temporary Bank Deposits for Retirement Visas
 
 On October 1, 2026, BrandonJT explained how some Thai visa agents arrange retirement extensions for customers who do not have the required 800,000 baht available. According to his description, an agent helps the applicant open a Thai bank account, temporarily deposits 800,000 baht, obtains the necessary bank statements and immigration documentation, and then has the applicant "return the funds" to the agent.[^6]
@@ -49,3 +59,4 @@ Additional forum references: [^9][^10][^11]
 [^13]: https://aseannow.com/topic/1359107-almost-refused-entry-at-chiang-mai-airport-be-warned-2nd-visa-exemption/page/8/
 [^14]: https://www.thailand.go.th/guide-book-detail/001_01_134
 [^15]: https://aseannow.com/topic/1367646-cant-apply-for-dtv-yet-what-are-my-best-options-to-stay-here/
+[^16]: https://aseannow.com/forum_rules/
