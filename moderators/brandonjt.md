@@ -4,6 +4,14 @@
 
 BrandonJT is a Global Moderator on [ASEAN NOW](../brands/asean-now.md) who joined the forum in late 2024 and appears to have received moderator privileges almost immediately afterward. Such a rapid promotion to a position of authority is highly unusual for a large, established discussion forum, particularly for a newly registered account with little posting history. Although the account presents itself as an expatriate living in the Chiang Rai area,[^1] BrandonJT has repeatedly recommended services offered by [Thai Visa Centre](../brands/thai-visa-centre.md), including paid airport "safe entry" arrangements[^2][^4][^7][^8] and retirement visa assistance.[^3][^5][^6] In May 2025, BrandonJT directly referred users to the agency's booking website at asq.in.th,[^12] while other posts have promoted its services through tdac.agents.co.th. These recommendations are particularly noteworthy given the account's unusually rapid elevation to a position of authority on a popular immigration forum.
 
+## March 2025: Publicly Endorsing Thai Visa Centre
+
+On March 18, 2025, BrandonJT responded to an ASEAN NOW user in Phuket who asked whether Thai Visa Centre could arrange a retirement visa extension remotely. BrandonJT confirmed that the agency served customers throughout Thailand and explained that those outside Bangkok could mail their passports to its Bangkok office.[^19]
+
+He explicitly described Thai Visa Centre as a "legit agent" and encouraged the user to look for online reviews. He also corrected the user's spelling of the company name, distinguishing "Thai Visa Centre" from "Thai Visa Center" and advising them to verify that they were contacting the intended business.[^19]
+
+This exchange documents BrandonJT publicly endorsing Thai Visa Centre nearly two months before his May 2025 posts directing users to booking links that the agency had shared with him.[^13][^19]
+
 ## March 2025: Allegations About Visa Agents and Bank Accounts
 
 On March 26–28, 2025, BrandonJT participated in an ASEAN NOW discussion about retirement visa agents reportedly losing access to certain Bangkok Bank branches. He claimed that some large agencies had been opening dozens of bank accounts for foreign customers each day, attracting government scrutiny and causing banks to stop working with them.[^18]
@@ -90,3 +98,4 @@ Additional forum references: [^9][^10][^11]
 [^16]: https://aseannow.com/forum_rules/
 [^17]: https://www.nationthailand.com/news/general/40067752
 [^18]: https://aseannow.com/topic/1355857-retirement-extension-via-agent-change-of-bank/
+[^19]: https://aseannow.com/topic/1354958-retirement-visa/
