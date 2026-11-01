@@ -4,6 +4,12 @@
 
 BrandonJT is a Global Moderator on [ASEAN NOW](../brands/asean-now.md) who joined the forum in late 2024 and appears to have received moderator privileges almost immediately afterward. Such a rapid promotion to a position of authority is highly unusual for a large, established discussion forum, particularly for a newly registered account with little posting history. Although the account presents itself as an expatriate living in the Chiang Rai area,[^1] BrandonJT has repeatedly recommended services offered by [Thai Visa Centre](../brands/thai-visa-centre.md), including paid airport "safe entry" arrangements[^2][^4][^7][^8] and retirement visa assistance.[^3][^5][^6] In May 2025, BrandonJT directly referred users to the agency's booking website at asq.in.th,[^12] while other posts have promoted its services through tdac.agents.co.th. These recommendations are particularly noteworthy given the account's unusually rapid elevation to a position of authority on a popular immigration forum.
 
+## November 2024: Discussing Paid Airport Entry Services
+
+On November 21, 2024, BrandonJT participated in an ASEAN NOW discussion about a traveler who had been refused entry to Thailand. When another user asked about the cost of airport "safe entry" services, BrandonJT explained that pricing depended on the applicant's immigration history. He estimated that services started at approximately 1,500–2,000 baht, with higher prices for applicants whose travel histories presented greater difficulties.[^26]
+
+The exchange is an early documented example of BrandonJT discussing the pricing and limitations of paid airport entry arrangements. Although he did not identify a particular agency, his comments preceded his March 2025 endorsements of Thai Visa Centre and his May 2025 recommendation of its 2,000–4,000 baht airport entry service.[^19][^20][^26]
+
 ## March 2025: Publicly Endorsing Thai Visa Centre
 
 On March 18, 2025, BrandonJT responded to an ASEAN NOW user in Phuket who asked whether Thai Visa Centre could arrange a retirement visa extension remotely. BrandonJT confirmed that the agency served customers throughout Thailand and explained that those outside Bangkok could mail their passports to its Bangkok office.[^19]
@@ -145,3 +151,4 @@ Additional forum references: [^9][^10][^11]
 [^23]: `https://aseannow.com/topic/1355069-can-i-change-the-visa-extemption-to-non-o-based-on-marriage/`
 [^24]: `https://aseannow.com/topic/1377086-easiest-initial-visa-to-then-convert-to-non-imm-o/page/2/`
 [^25]: `https://aseannow.com/topic/1377086-easiest-initial-visa-to-then-convert-to-non-imm-o/`
+[^26]: `https://aseannow.com/topic/1343856-visa-on-arrival-refused-what-is-the-best-way-to-re-enter-thailand/page/2/`
