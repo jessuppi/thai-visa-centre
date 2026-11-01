@@ -1,3 +1,7 @@
+# BrandonJT
+
+*Last updated: November 1, 2026*
+
 BrandonJT is a Global Moderator on [ASEAN NOW](../brands/asean-now.md) who joined the forum in late 2024 and appears to have received moderator privileges almost immediately afterward. Such a rapid promotion to a position of authority is highly unusual for a large, established discussion forum, particularly for a newly registered account with little posting history. Although the account presents itself as an expatriate living in the Chiang Rai area,[^1] BrandonJT has repeatedly recommended services offered by [Thai Visa Centre](../brands/thai-visa-centre.md), including paid airport "safe entry" arrangements[^2][^4][^7][^8] and retirement visa assistance.[^3][^5][^6] In May 2025, BrandonJT directly referred users to the agency's booking website at asq.in.th,[^12] while other posts have promoted its services through tdac.agents.co.th. These recommendations are particularly noteworthy given the account's unusually rapid elevation to a position of authority on a popular immigration forum.
 
 ## May 2025: Direct Contact with Thai Visa Centre
