@@ -12,6 +12,16 @@ Three days later, on May 7, BrandonJT shared the same booking URL in another dis
 
 These exchanges are significant because BrandonJT acknowledged receiving a service-specific booking link from Thai Visa Centre before repeatedly directing forum users toward it. This suggests a more direct line of communication with the business than an ordinary forum member casually recommending a service.
 
+## July 2025: Claiming Guaranteed Airport Entry Through Visa Agents
+
+On July 23, 2025, BrandonJT responded to an ASEAN NOW user concerned about being denied entry to Thailand despite paying for an airport "safe entry" service. BrandonJT described these services as "100% reliable," claiming that agents would first obtain copies of every page of the customer's passport and submit them to contacts at the airport for screening and pricing.[^15]
+
+He further claimed that customers would be instructed to send a photograph of their clothing before boarding their flight so that an immigration officer could identify them upon arrival. According to BrandonJT, the officer would personally meet the traveler, escort them to an immigration counter, and open it specifically to process their entry.[^15]
+
+BrandonJT then directed the user to [Thai Visa Centre](../brands/thai-visa-centre.md), explaining how to access its paid VIP/Fast Track service through [tdac.agents.co.th](../domains/tdac.agents.co.th.md). Another forum participant questioned the legitimacy of the arrangement, describing BrandonJT's explanation as suspicious.[^15]
+
+The exchange is significant because a Global Moderator of ASEAN NOW was publicly promoting a private visa agency while making extraordinary claims about guaranteed admission and direct cooperation from Thai immigration officers. The discussion provides no independent verification that the described arrangements operated as claimed.
+
 ## October 2026: Describing Temporary Bank Deposits for Retirement Visas
 
 On October 1, 2026, BrandonJT explained how some Thai visa agents arrange retirement extensions for customers who do not have the required 800,000 baht available. According to his description, an agent helps the applicant open a Thai bank account, temporarily deposits 800,000 baht, obtains the necessary bank statements and immigration documentation, and then has the applicant "return the funds" to the agent.[^6]
@@ -38,3 +48,4 @@ Additional forum references: [^9][^10][^11]
 [^12]: https://aseannow.com/topic/1359952-visa-run-to-laos-always-fine-no-problem-with-tdac/page/2/
 [^13]: https://aseannow.com/topic/1359107-almost-refused-entry-at-chiang-mai-airport-be-warned-2nd-visa-exemption/page/8/
 [^14]: https://www.thailand.go.th/guide-book-detail/001_01_134
+[^15]: https://aseannow.com/topic/1367646-cant-apply-for-dtv-yet-what-are-my-best-options-to-stay-here/
