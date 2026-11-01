@@ -26,6 +26,8 @@ On May 4, 2025, BrandonJT told another ASEAN NOW user that Thai Visa Centre prov
 
 Three days later, on May 7, BrandonJT shared the same booking URL in another discussion, explaining that users could request a quote for the agency's airport "safe entry" service.[^12]
 
+On May 26, 2025, BrandonJT again recommended Thai Visa Centre in a discussion about a traveler being denied entry to Thailand. He tagged the agency's forum account and claimed it was offering airport "safe entry" services for 2,000 baht, increasing to 4,000 baht for more difficult cases. He directed users to tdac.agents.co.th and explained that the service could be selected as an add-on after completing the initial entry form.[^20]
+
 These exchanges are significant because BrandonJT acknowledged receiving a service-specific booking link from Thai Visa Centre before repeatedly directing forum users toward it. This suggests a more direct line of communication with the business than an ordinary forum member casually recommending a service.
 
 ## July 2025: Claiming Guaranteed Airport Entry Through Visa Agents
@@ -99,3 +101,4 @@ Additional forum references: [^9][^10][^11]
 [^17]: https://www.nationthailand.com/news/general/40067752
 [^18]: https://aseannow.com/topic/1355857-retirement-extension-via-agent-change-of-bank/
 [^19]: https://aseannow.com/topic/1354958-retirement-visa/
+[^20]: https://aseannow.com/topic/1361730-access-denied-to-enter-in-thailand/page/2/
