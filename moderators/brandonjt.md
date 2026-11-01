@@ -70,6 +70,14 @@ On July 19, after other forum members reported that airport "safe entry" service
 
 These statements are noteworthy given BrandonJT's earlier promotion of paid airport entry services. Rather than expressing concern about the allegations under investigation, he appeared to treat the enforcement efforts as a temporary disruption. The official investigation concerned alleged broker activities and did not publicly identify BrandonJT or Thai Visa Centre as subjects of the inquiry.
 
+## August 2026: Suggesting Visa Extensions Through Other Provinces
+
+In August 2026, an ASEAN NOW member living in Korat explained that they had contacted Thai Visa Centre for assistance with a retirement extension but were told the agency did not handle applications through Korat Immigration.[^21]
+
+BrandonJT responded that the member might have asked the wrong question. He claimed that Thai Visa Centre could arrange extensions anywhere in Thailand, explaining that if the agency did not work with the applicant's local immigration office, the extension would instead be issued through an office in another province.[^21]
+
+The exchange is noteworthy because BrandonJT was explicitly recommending the use of immigration offices outside an applicant's home province through a commercial visa agency. He did not explain how such arrangements would satisfy applicable residence or immigration-office requirements, or whether Thai Visa Centre would actually accept the member's application.[^21]
+
 ## October 2026: Describing Temporary Bank Deposits for Retirement Visas
 
 On October 1, 2026, BrandonJT explained how some Thai visa agents arrange retirement extensions for customers who do not have the required 800,000 baht available. According to his description, an agent helps the applicant open a Thai bank account, temporarily deposits 800,000 baht, obtains the necessary bank statements and immigration documentation, and then has the applicant "return the funds" to the agent.[^6]
@@ -102,3 +110,4 @@ Additional forum references: [^9][^10][^11]
 [^18]: https://aseannow.com/topic/1355857-retirement-extension-via-agent-change-of-bank/
 [^19]: https://aseannow.com/topic/1354958-retirement-visa/
 [^20]: https://aseannow.com/topic/1361730-access-denied-to-enter-in-thailand/page/2/
+[^21]: https://aseannow.com/topic/1402687-passport-need/
