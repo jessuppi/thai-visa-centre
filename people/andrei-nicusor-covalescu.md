@@ -1,1 +1,2 @@
-https://sg.linkedin.com/in/andrei-nicusor-covalescu-b4b559212
+- https://sg.linkedin.com/in/andrei-nicusor-covalescu-b4b559212
+- https://medium.com/@covalescuandrei433/users-want-it-and-still-dont-click-the-fogg-behavior-model-in-plain-english-f86e3ca3c445
