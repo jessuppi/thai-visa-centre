@@ -100,6 +100,16 @@ The statement is particularly significant because BrandonJT explicitly alleged p
 
 BrandonJT repeated his description of temporary agent-supplied bank deposits in October 2026, but that later post omitted his earlier allegation about payments to immigration officials.[^6][^24]
 
+## April 2026: Referring a Fellow Moderator to Thai Visa Centre's 90-Day Reporting Service
+
+On April 22, 2026, ASEAN NOW Global Moderator DrJack54 asked for an agent who could handle his 90-day immigration report because he was unable to submit it in person or by mail, and online reporting was unavailable following his return from abroad. BrandonJT responded by directing him to Thai Visa Centre's dedicated reporting website, 90day.in.th.[^31]
+
+BrandonJT stated that Thai Visa Centre had launched the service approximately six months earlier, recalled an initial price of 375 baht, and explained that the completed reporting confirmation would be mailed to the customer. He acknowledged that he did not know the current price.[^31]
+
+Thai Visa Centre separately confirmed that its service cost 500 baht for an individual report, with a discounted rate of 375 baht per report when purchasing four or more credits.[^3]
+
+The exchange documents BrandonJT recommending another specific Thai Visa Centre service to a fellow Global Moderator, extending his public endorsements beyond visa extensions and airport entry arrangements.[^31]
+
 ## May 2026: Claiming Immigration Officers Can Waive Financial Requirements
 
 On May 17, 2026, BrandonJT defended the use of visa agents to obtain retirement extensions without satisfying the usual financial-documentation requirements. Responding to concerns that such arrangements might circumvent Thai immigration law, he claimed that immigration officers possessed "full discretion and leeway" to determine eligibility and could approve extensions even without the normally required financial proof.[^5]
@@ -179,3 +189,4 @@ Additional forum references: [^9][^10][^11]
 [^29]: https://cgchicago.thaiembassy.org/en/content/press-release-the-immigration-bureau-would-like-t?menu=62134944bb835d1888475343
 
 [^30]: `https://aseannow.com/topic/1379856-service-for-checking-my-friends-status-re-blacklist-etc/`
+[^31]: `https://aseannow.com/topic/1392852-unable-to-login-for-online-90-days-reporting/`
