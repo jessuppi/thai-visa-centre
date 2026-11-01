@@ -62,6 +62,14 @@ BrandonJT then directed the user to [Thai Visa Centre](../brands/thai-visa-centr
 
 The exchange is significant because a Global Moderator of ASEAN NOW was publicly promoting a private visa agency while making extraordinary claims about guaranteed admission and direct cooperation from Thai immigration officers. The discussion provides no independent verification that the described arrangements operated as claimed.
 
+## July–August 2025: Defending Paid TDAC Services While Questioning Government Data Security
+
+On July 9, 2025, BrandonJT participated in an ASEAN NOW discussion promoting AGENTS CO., LTD.'s commercial TDAC submission service. When another user questioned whether the service was legitimate and expressed concerns about personal-data theft, BrandonJT confirmed that the service was genuine and explained that early submissions required a fee. He then claimed that information submitted through Thailand's official government TDAC system had a 50% chance of being stolen by hackers, citing unspecified previous government data breaches.[^28]
+
+On August 9, another forum member questioned why anyone would pay for early submission when the official TDAC could be completed free of charge within three days of arrival. BrandonJT defended the optional $8 fee, arguing that some travelers preferred paying for convenience rather than handling the application shortly before departure. Thai Visa Centre subsequently participated in the discussion through its "Forum Sponsor" account, confirming that the AGENTS service was free within the standard submission window and charged only for early processing.[^28]
+
+These exchanges are noteworthy because Thailand's Immigration Bureau had already encouraged foreign travelers to register exclusively through its official TDAC website to protect their personal information.[^29] BrandonJT offered no supporting evidence for his claimed 50% risk of data theft, while publicly defending a commercial alternative. The official government application remained free, and use of the third-party service was optional.[^28][^29]
+
 ## November 2025: Endorsing a Forum Sponsor While Criticism Was Removed
 
 On November 4, 2025, BrandonJT publicly praised Thai Visa Centre in an ASEAN NOW discussion, claiming that virtually everyone he had seen discussing the agency reported positive experiences. In the same discussion, Thai Visa Centre participated under an account explicitly labeled "Forum Sponsor" and advertised its immigration services.[^3]
@@ -161,3 +169,5 @@ Additional forum references: [^9][^10][^11]
 [^25]: `https://aseannow.com/topic/1377086-easiest-initial-visa-to-then-convert-to-non-imm-o/`
 [^26]: `https://aseannow.com/topic/1343856-visa-on-arrival-refused-what-is-the-best-way-to-re-enter-thailand/page/2/`
 [^27]: `https://aseannow.com/topic/1358135-thailand-digital-arrival-card-tdac/page/10/`
+[^28]: `https://aseannow.com/topic/1361664-apply-for-your-tdac-early-here/`
+[^29]: https://cgchicago.thaiembassy.org/en/content/press-release-the-immigration-bureau-would-like-t?menu=62134944bb835d1888475343
