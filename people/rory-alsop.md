@@ -74,6 +74,16 @@ Alsop responded that it effectively did, arguing that questions needed to be use
 
 The incident documents Alsop defending a closure despite acknowledging that the selected reason did not precisely match his objection, while questioning the contributor's motives instead of identifying what clarification the question required.
 
+## October 2023: Defending Repeated Removal of Comments
+
+On October 14, 2023, longtime Travel Stack Exchange contributor lambshaanxy publicly criticized moderators for repeatedly deleting comments beneath a popular question about carrying a sex toy through the United Arab Emirates. The removed comments reportedly contained jokes and cultural references, and the contributor questioned whether such remarks justified deleting the discussion twice.[^73][^74]
+
+Moderator Willeke confirmed that she had "nuked" the comments once and suspected another moderator had removed them a second time. She defended the deletions on grounds that some comments could offend readers or encourage travelers to violate local laws. She also acknowledged that she had not provided a specific explanation on the original question.[^73]
+
+Rory Alsop supported the removals, stating that comments "are not expected to be permanent" and describing jokes as "low value." He agreed with Willeke's argument that the comments might offend some readers.[^73]
+
+Although the public record does not establish that Alsop personally deleted the comments, it documents his defense of repeated comment removals after an established community member publicly raised concerns about censorship.
+
 ## April 2024: Defending a Reopened Visa Question's Closure
 
 On April 9, 2024, longtime Travel Stack Exchange contributor Franck Dernoncourt challenged the closure of a question about renewing a French passport while holding a valid electronic visa linked to the old passport number. The question had been classified as off-topic, with one close voter incorrectly claiming that such electronic visas did not exist.[^63]
@@ -422,3 +432,5 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^70]: https://travel.stackexchange.com/questions/176799/why-do-some-airlines-have-indemnity-forms-even-though-the-icao-rules-state-the-a
 [^71]: https://meta.stackexchange.com/questions/339400/how-does-the-system-determine-which-one-close-reason-should-be-displayed-on-a-cl
 [^72]: https://travel.meta.stackexchange.com/questions/8464/why-was-this-question-on-understanding-what-services-self-service-transfer-kiosk
+[^73]: https://travel.meta.stackexchange.com/questions/8583/censorship-of-comments
+[^74]: https://travel.stackexchange.com/questions/184079/where-to-put-vibrator-when-transit-flight-goes-through-uae-and-dubai
