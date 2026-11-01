@@ -58,6 +58,16 @@ These actions are particularly noteworthy given ASEAN NOW's published forum rule
 
 This creates an apparent imbalance in which favorable recommendations for commercial sponsors can remain visible while criticism may face removal. BrandonJT's public endorsement of Thai Visa Centre is especially relevant given his Global Moderator status, although the available evidence does not establish that he personally removed the disputed post.
 
+## November 2025: Claiming Visa Agent Fees Are Passed to Immigration Offices
+
+On November 8, 2025, BrandonJT explained how some visa agents allegedly obtain retirement extensions for customers who cannot meet Thailand's financial requirements. He claimed that agents accompany customers to a bank, temporarily deposit 800,000 baht into their accounts, obtain the necessary bank letters and updated passbooks, and then withdraw the money.[^24]
+
+BrandonJT went further, claiming that part of the agency's fee is passed to the immigration office so officials overlook the failure to maintain the required bank balance. Another Global Moderator subsequently characterized his explanation as describing how agents "cover" the financial requirements.[^24]
+
+The statement is particularly significant because BrandonJT explicitly alleged payments to immigration offices in exchange for disregarding financial requirements. His post did not identify any specific agency or immigration officer, however, and provided no independent evidence that such payments occurred. Thai Visa Centre was not named in this particular exchange.[^24]
+
+BrandonJT repeated his description of temporary agent-supplied bank deposits in October 2026, but that later post omitted his earlier allegation about payments to immigration officials.[^6][^24]
+
 ## May 2026: Claiming Immigration Officers Can Waive Financial Requirements
 
 On May 17, 2026, BrandonJT defended the use of visa agents to obtain retirement extensions without satisfying the usual financial-documentation requirements. Responding to concerns that such arrangements might circumvent Thai immigration law, he claimed that immigration officers possessed "full discretion and leeway" to determine eligibility and could approve extensions even without the normally required financial proof.[^5]
@@ -129,3 +139,4 @@ Additional forum references: [^9][^10][^11]
 [^21]: `https://aseannow.com/topic/1402687-passport-need/`
 [^22]: `https://aseannow.com/topic/1406166-are-safe-entry-service-still-available/`
 [^23]: `https://aseannow.com/topic/1355069-can-i-change-the-visa-extemption-to-non-o-based-on-marriage/`
+[^24]: `https://aseannow.com/topic/1377086-easiest-initial-visa-to-then-convert-to-non-imm-o/page/2/`
