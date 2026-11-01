@@ -12,6 +12,14 @@ He explicitly described Thai Visa Centre as a "legit agent" and encouraged the u
 
 This exchange documents BrandonJT publicly endorsing Thai Visa Centre nearly two months before his May 2025 posts directing users to booking links that the agency had shared with him.[^13][^19]
 
+## March 2025: Describing Thai Visa Centre's Bank Account Services
+
+On March 20, 2025, BrandonJT participated in an ASEAN NOW discussion about obtaining a Non-O marriage visa and opening a Thai bank account. After another Global Moderator suggested contacting Thai Visa Centre, BrandonJT explained that most Bangkok visa agents, including Thai Visa Centre, did not offer standalone bank-account opening services. According to him, these agencies generally assisted with opening accounts only when customers were also obtaining a visa or extension through them.[^23]
+
+The following day, Thai Visa Centre responded in the same discussion through its account identified as a "Forum Sponsor." The agency confirmed that it assisted customers opening bank accounts as part of Non-O retirement, marriage, family, and DTV applications. It also stated that customers receiving banking assistance had to be accompanied by its staff.[^23]
+
+The exchange is noteworthy because BrandonJT provided specific details about Thai Visa Centre's banking arrangements before the agency publicly confirmed them. Although this demonstrates familiarity with its services, the discussion does not establish whether BrandonJT obtained that information directly from the company or through other sources.[^23]
+
 ## March 2025: Allegations About Visa Agents and Bank Accounts
 
 On March 26–28, 2025, BrandonJT participated in an ASEAN NOW discussion about retirement visa agents reportedly losing access to certain Bangkok Bank branches. He claimed that some large agencies had been opening dozens of bank accounts for foreign customers each day, attracting government scrutiny and causing banks to stop working with them.[^18]
@@ -120,3 +128,4 @@ Additional forum references: [^9][^10][^11]
 [^20]: `https://aseannow.com/topic/1361730-access-denied-to-enter-in-thailand/page/2/`
 [^21]: `https://aseannow.com/topic/1402687-passport-need/`
 [^22]: `https://aseannow.com/topic/1406166-are-safe-entry-service-still-available/`
+[^23]: `https://aseannow.com/topic/1355069-can-i-change-the-visa-extemption-to-non-o-based-on-marriage/`
