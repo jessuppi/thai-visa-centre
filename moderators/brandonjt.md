@@ -4,6 +4,14 @@
 
 BrandonJT is a Global Moderator on [ASEAN NOW](../brands/asean-now.md) who joined the forum in late 2024 and appears to have received moderator privileges almost immediately afterward. Such a rapid promotion to a position of authority is highly unusual for a large, established discussion forum, particularly for a newly registered account with little posting history. Although the account presents itself as an expatriate living in the Chiang Rai area,[^1] BrandonJT has repeatedly recommended services offered by [Thai Visa Centre](../brands/thai-visa-centre.md), including paid airport "safe entry" arrangements[^2][^4][^7][^8] and retirement visa assistance.[^3][^5][^6] In May 2025, BrandonJT directly referred users to the agency's booking website at asq.in.th,[^12] while other posts have promoted its services through tdac.agents.co.th. These recommendations are particularly noteworthy given the account's unusually rapid elevation to a position of authority on a popular immigration forum.
 
+## March 2025: Allegations About Visa Agents and Bank Accounts
+
+On March 26–28, 2025, BrandonJT participated in an ASEAN NOW discussion about retirement visa agents reportedly losing access to certain Bangkok Bank branches. He claimed that some large agencies had been opening dozens of bank accounts for foreign customers each day, attracting government scrutiny and causing banks to stop working with them.[^18]
+
+When another forum member challenged his explanation as speculation, BrandonJT maintained that the largest agencies were the ones affected and suggested they were moving their business to different bank branches. He also accused some affected agents of engaging in questionable practices, although he provided no official banking records or enforcement findings to substantiate those allegations.[^18]
+
+The exchange is relevant to BrandonJT's later discussions of agent-arranged retirement extensions and temporary bank deposits. However, the discussion does not establish that Thai Visa Centre was among the agencies affected.
+
 ## May 2025: Direct Contact with Thai Visa Centre
 
 On May 4, 2025, BrandonJT told another ASEAN NOW user that Thai Visa Centre provided paid airport entry services at Suvarnabhumi, Don Mueang, and Phuket airports. He supplied the agency's booking URL at asq.in.th/thailand-fasttrack and explicitly acknowledged that Thai Visa Centre had "previously shared this link with me" for registering customers.[^13]
@@ -81,3 +89,4 @@ Additional forum references: [^9][^10][^11]
 [^15]: https://aseannow.com/topic/1367646-cant-apply-for-dtv-yet-what-are-my-best-options-to-stay-here/
 [^16]: https://aseannow.com/forum_rules/
 [^17]: https://www.nationthailand.com/news/general/40067752
+[^18]: https://aseannow.com/topic/1355857-retirement-extension-via-agent-change-of-bank/
