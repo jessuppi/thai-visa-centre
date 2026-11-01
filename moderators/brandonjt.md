@@ -12,6 +12,16 @@ Three days later, on May 7, BrandonJT shared the same booking URL in another dis
 
 These exchanges are significant because BrandonJT acknowledged receiving a service-specific booking link from Thai Visa Centre before repeatedly directing forum users toward it. This suggests a more direct line of communication with the business than an ordinary forum member casually recommending a service.
 
+## October 2026: Describing Temporary Bank Deposits for Retirement Visas
+
+On October 1, 2026, BrandonJT explained how some Thai visa agents arrange retirement extensions for customers who do not have the required 800,000 baht available. According to his description, an agent helps the applicant open a Thai bank account, temporarily deposits 800,000 baht, obtains the necessary bank statements and immigration documentation, and then has the applicant "return the funds" to the agent.[^6]
+
+However, Thailand's published immigration requirements generally mandate maintaining at least 800,000 baht in a Thai bank account for two months before applying for a retirement extension and three months after approval, with a minimum balance of 400,000 baht thereafter when using the bank-deposit qualification method.[^14]
+
+Other forum participants questioned how the temporary deposits described by BrandonJT could satisfy these requirements. BrandonJT did not explain how the arrangement complied with the published rules or identify any applicable legal exemption.[^6]
+
+The discussion documents a Global Moderator of ASEAN NOW presenting an arrangement involving temporary agent-supplied funds as a routine part of obtaining retirement extensions. Although BrandonJT frequently recommends Thai Visa Centre, this particular post did not identify which agents offered the arrangement.
+
 Additional forum references: [^9][^10][^11]
 
 [^1]: https://aseannow.com/topic/1343828-residence-certificate-for-dlt-mae-sai-or-central-immigration/
@@ -27,3 +37,4 @@ Additional forum references: [^9][^10][^11]
 [^11]: https://aseannow.com/topic/1403802-important-dtv-announcement-application-restrictions-sep-2026/
 [^12]: https://aseannow.com/topic/1359952-visa-run-to-laos-always-fine-no-problem-with-tdac/page/2/
 [^13]: https://aseannow.com/topic/1359107-almost-refused-entry-at-chiang-mai-airport-be-warned-2nd-visa-exemption/page/8/
+[^14]: https://www.thailand.go.th/guide-book-detail/001_01_134
