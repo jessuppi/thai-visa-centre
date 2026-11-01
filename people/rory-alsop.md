@@ -36,6 +36,16 @@ On November 3, Dernoncourt confirmed that the question had eventually been reope
 
 The exchange documents an earlier instance of Alsop treating a contributor's request to justify a closure as argumentative behavior. Similar accusations appeared in his later disputes with Jesse Nickles in June 2025 and Tim Campion in July 2025.
 
+## December 2021: Defending Closure of an Airline Check-In Question
+
+On December 26, 2021, Travel Stack Exchange contributor Franck Dernoncourt challenged the closure of his question about why an airline allowed passengers to check in up to ten days before departure. The question had been closed as "opinion-based," despite receiving several factual answers explaining the benefits of early check-in, including priority for standby passengers, reduced risk of being bumped from overbooked flights, and obtaining boarding passes before losing internet access.[^75][^76]
+
+Rory Alsop confirmed that he had voted to close the question. He defended the decision by arguing that "each answer has a different opinion" and that there was "no objective answer that is fully correct." He also told Dernoncourt to reread the site's help pages.[^75]
+
+When Dernoncourt complained that close voters had not explained their objections, Alsop stated that Stack Exchange deliberately kept votes anonymous and did not expect users to explain them in comments.[^75]
+
+The problem with Alsop's reasoning was that the answers described different, compatible benefits of early check-in. Having several valid factual explanations does not automatically make a question opinion-based. The question is now open, with multiple highly upvoted answers.[^76]
+
 ## August 2022: Removing a Warning About Revolut
 
 On August 29, 2022, a Travel Stack Exchange user publicly accused moderators of censorship after criticism of Revolut was removed from an answer about paying by card abroad. The deleted passage warned against using Revolut, citing alleged connections to Gazprom and concerns about cryptocurrency.[^64]
@@ -434,3 +444,5 @@ Although Stack Exchange permits moderators to take action against abusive accoun
 [^72]: https://travel.meta.stackexchange.com/questions/8464/why-was-this-question-on-understanding-what-services-self-service-transfer-kiosk
 [^73]: https://travel.meta.stackexchange.com/questions/8583/censorship-of-comments
 [^74]: https://travel.stackexchange.com/questions/184079/where-to-put-vibrator-when-transit-flight-goes-through-uae-and-dubai
+[^75]: https://travel.meta.stackexchange.com/questions/8201/why-was-this-question-about-early-check-in-closed-as-opinion-based
+[^76]: https://travel.stackexchange.com/questions/171357/whats-the-point-of-checking-in-several-days-before-a-flight
