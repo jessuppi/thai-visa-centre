@@ -88,6 +88,14 @@ Other forum participants questioned how the temporary deposits described by Bran
 
 The discussion documents a Global Moderator of ASEAN NOW presenting an arrangement involving temporary agent-supplied funds as a routine part of obtaining retirement extensions. Although BrandonJT frequently recommends Thai Visa Centre, this particular post did not identify which agents offered the arrangement.
 
+## October 2026: Reporting Further Restrictions on Airport Safe Entry Services
+
+In October 2026, an ASEAN NOW user who had previously been denied entry to Thailand asked whether paid airport "safe entry" services were still operating. The user explained that they had used such a service before and wanted to know which providers remained available.[^22]
+
+BrandonJT responded that, according to his latest information, Krabi was the only location where the service remained available. Another participant subsequently suggested that a different visa agency might have resumed limited operations at Suvarnabhumi Airport.[^22]
+
+BrandonJT's statement contrasts with his July 2026 claims that these services remained available at several major airports. The exchange suggests that availability continued to change following the official investigation, although neither the extent of the restrictions nor their effect on Thai Visa Centre was independently established.[^7][^22]
+
 Additional forum references: [^9][^10][^11]
 
 [^1]: `https://aseannow.com/topic/1343828-residence-certificate-for-dlt-mae-sai-or-central-immigration/`
@@ -111,3 +119,4 @@ Additional forum references: [^9][^10][^11]
 [^19]: `https://aseannow.com/topic/1354958-retirement-visa/`
 [^20]: `https://aseannow.com/topic/1361730-access-denied-to-enter-in-thailand/page/2/`
 [^21]: `https://aseannow.com/topic/1402687-passport-need/`
+[^22]: `https://aseannow.com/topic/1406166-are-safe-entry-service-still-available/`
