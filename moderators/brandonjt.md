@@ -32,6 +32,16 @@ These actions are particularly noteworthy given ASEAN NOW's published forum rule
 
 This creates an apparent imbalance in which favorable recommendations for commercial sponsors can remain visible while criticism may face removal. BrandonJT's public endorsement of Thai Visa Centre is especially relevant given his Global Moderator status, although the available evidence does not establish that he personally removed the disputed post.
 
+## June–July 2026: Downplaying an Investigation into Guaranteed Entry Services
+
+On June 23, 2026, Thailand's Immigration Division 2 announced an investigation into brokers allegedly charging foreigners between 4,500 and 12,000 baht for guaranteed entry through Suvarnabhumi Airport. Authorities established a fact-finding committee to examine possible misconduct involving immigration officers and warned that any officials found responsible could face disciplinary and criminal proceedings.[^17]
+
+The following day, BrandonJT responded to an ASEAN NOW discussion of the investigation by predicting that the services would return to normal once public attention moved elsewhere. On June 25, he further mocked the prospect of meaningful enforcement with the sarcastic remark, "We've investigated ourselves and found no wrongdoing."[^7]
+
+On July 19, after other forum members reported that airport "safe entry" services had been suspended or restricted, BrandonJT stated that they remained available at Don Mueang, Chiang Mai, and Phuket airports. He also mentioned an unconfirmed rumor that the service had resumed at Suvarnabhumi.[^7]
+
+These statements are noteworthy given BrandonJT's earlier promotion of paid airport entry services. Rather than expressing concern about the allegations under investigation, he appeared to treat the enforcement efforts as a temporary disruption. The official investigation concerned alleged broker activities and did not publicly identify BrandonJT or Thai Visa Centre as subjects of the inquiry.
+
 ## October 2026: Describing Temporary Bank Deposits for Retirement Visas
 
 On October 1, 2026, BrandonJT explained how some Thai visa agents arrange retirement extensions for customers who do not have the required 800,000 baht available. According to his description, an agent helps the applicant open a Thai bank account, temporarily deposits 800,000 baht, obtains the necessary bank statements and immigration documentation, and then has the applicant "return the funds" to the agent.[^6]
@@ -60,3 +70,4 @@ Additional forum references: [^9][^10][^11]
 [^14]: https://www.thailand.go.th/guide-book-detail/001_01_134
 [^15]: https://aseannow.com/topic/1367646-cant-apply-for-dtv-yet-what-are-my-best-options-to-stay-here/
 [^16]: https://aseannow.com/forum_rules/
+[^17]: https://www.nationthailand.com/news/general/40067752
