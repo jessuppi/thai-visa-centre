@@ -40,6 +40,16 @@ Daniels claimed his endorsement was based on feedback from numerous customers he
 
 His endorsement is particularly noteworthy because it came more than five years after Thai authorities publicly accused Thai Visa Centre's alleged operators of visa and document forgery during the August 2020 police investigation. Daniels did not address that history in his recommendation, nor did he clarify whether he received compensation or other benefits from moderating the company-owned community.
 
+## February 2026: Warning Travelers of Denied Entry While Promising Guaranteed Admission Through Visa Agents
+
+On February 18, 2026, Tod Daniels responded to an ASEAN NOW member who was concerned about reentering Thailand after several visa-exempt stays while awaiting resolution of financial matters affecting his marriage-based extension. Daniels criticized the traveler's immigration history, suggested that immigration officers would no longer regard him as a genuine tourist, and warned that attempting to reenter independently would likely result in detention and refusal of entry.[^8]
+
+Rather than recommending that the traveler obtain clarification directly from Thai immigration authorities, Daniels repeatedly encouraged him to use a commercial airport "safe entry" service. He explicitly claimed, "They guarantee you can get back in," and subsequently asserted that such companies could secure a "guaranteed new 60 day entry stamp" along with a further 30-day extension.[^8]
+
+Daniels went so far as to predict that the traveler would probably be questioned, denied entry, and returned to his departure country at his own expense if he attempted the journey without an agent. In contrast, he portrayed privately arranged admission as a reliable solution, despite providing no official evidence that commercial agents could guarantee immigration decisions or future extensions.[^8]
+
+The contrast is striking: Daniels presented ordinary entry procedures as highly risky while promoting paid intermediaries as capable of guaranteeing favorable treatment from government immigration officers. These claims reinforce concerns raised by his earlier descriptions of private agents using personal connections inside Thai airports to facilitate entry. His statements risked pressuring travelers into purchasing commercial services based on assurances of government cooperation that he had not independently substantiated.
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/page/2/`
@@ -49,3 +59,4 @@ His endorsement is particularly noteworthy because it came more than five years 
 [^5]: `https://tdac.immigration.go.th/manual/en/faq.html`
 [^6]: `https://archive.ph/AuDzg`
 [^7]: `https://aseannow.com/topic/1361730-access-denied-to-enter-in-thailand/page/2/`
+[^8]: `https://aseannow.com/topic/1387557-has-the-visa-exempt-fuss-calmed-down-in-2026/`
