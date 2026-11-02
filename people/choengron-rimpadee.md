@@ -99,6 +99,12 @@ Immigration authorities in Phuket also confirmed that visa agencies had been for
 
 Although the Immigration Bureau published statistics on refused travelers and announced penalties for visa agencies, the reviewed reports did not identify specific agencies prosecuted under the crackdown or provide outcomes of investigations into commercial organizers. Rimpadee's accusations of deliberate misinformation by visa-run operators likewise did not publicly identify the businesses responsible. The announcements therefore document substantial enforcement against individual travelers but provide less evidence of corresponding action against the agencies allegedly facilitating immigration abuse.
 
+## December 2025: Chinese Scam Fugitive Arrested Despite Holding a Thailand Privilege Visa
+
+On December 16, 2025, immigration officers at Suvarnabhumi Airport arrested a 44-year-old Chinese national identified as Huang after he attempted to leave Thailand using a counterfeit Mexican passport under the name Gol. Officers discovered his genuine Chinese passport and a valid Thailand Privilege Card visa permitting him to remain in Thailand for several more years. An INTERPOL database check revealed that Chinese authorities wanted Huang in connection with an alleged cryptocurrency investment scam involving more than 500 victims and losses of approximately one billion baht. Choengron Rimpadee was among the senior Immigration Bureau officers overseeing the operation.[^38][^39]
+
+According to investigators, Huang had previously operated with a criminal network based at New Taichang Park in Myanmar's Myawaddy area between 2022 and 2024. The case demonstrated that a suspected transnational scam operator could possess valid long-term immigration privileges in Thailand while being wanted by foreign authorities. Although officers ultimately identified him through the fraudulent passport and INTERPOL records, the public reports did not explain when his Thailand Privilege visa had been issued, what background checks accompanied its approval, or whether the bureau subsequently reviewed how he obtained and retained that status.[^38][^39]
+
 ## March 2026: Warning About Fraudulent TDAC Websites
 
 On March 29, 2026, Choengron Rimpadee warned that unofficial Thailand Digital Arrival Card (TDAC) websites were collecting travelers' personal information and charging unnecessary registration fees. He explained that these websites were not connected to the Immigration Bureau's registration system, meaning travelers could pay for a submission that did not reach immigration authorities.[^2][^3]
@@ -212,3 +218,7 @@ These incidents illustrate a broader commercial market built around claims of pr
 [^36]: https://www.thaipbsworld.com/news/thai-immigration-deny-11-south-koreans-were-abducted-in-thailand
 
 [^37]: https://www.touristpolice.go.th/post/tpbnews2025080802
+
+[^38]: https://www.khaosodenglish.com/news/2025/12/18/chinese-fugitive-arrested-at-bangkok-airport-with-fake-passport/
+
+[^39]: https://www.matichon.co.th/local/crime/news_5508364
