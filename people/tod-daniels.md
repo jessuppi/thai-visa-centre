@@ -146,6 +146,22 @@ The response is also noteworthy because Daniels had previously claimed that SR S
 
 Daniels again recommended Thai Visa Centre without mentioning his acknowledged role moderating a Facebook group owned by the agency. Although these repeated referrals do not establish compensation or a formal business relationship, they demonstrate that his public promotion of Thai Visa Centre continued well after his November 2025 denial of personal affiliation.[^1][^16]
 
+## July–August 2026: Repeating the "Wheels Greased" Claim and Encouraging Paid Border Services
+
+On July 27, 2026, Tod Daniels responded to an ASEAN NOW member who had lived in Thailand since 2014, primarily using education visas supplemented by tourist visas and visa-exempt entries. The traveler wanted to cross into Laos through Nong Khai and asked whether obtaining a tourist visa would be safer than returning visa-exempt.[^21]
+
+Daniels warned that Nong Khai was no longer the accommodating border crossing it had once been. He claimed that travelers with extensive immigration histories could be permitted to leave Thailand but subsequently refused permission to return by land. Rather than recommending that the traveler obtain clarification from immigration authorities before departing, Daniels identified hiring a commercial border-run company as the safest option.[^21]
+
+He again described such operators as having the "wheels greased" at their preferred crossings, claiming that these arrangements allowed customers to leave Thailand and return on the same day. Daniels specifically recommended Thai Visa Service, stating that the company operated regular trips from Bangkok to the Lao border.[^21]
+
+The language was nearly identical to his December 2023 advice, when he had used the same expression to explain why travelers should pay border-run companies rather than attempt immigration crossings independently. More than two and a half years later, Daniels was still presenting unspecified arrangements between commercial operators and border checkpoints as a practical advantage of purchasing their services.[^20][^21]
+
+On July 28, Daniels continued warning that the traveler could face immigration questioning even with a valid tourist visa. He also acknowledged that someone intending to remain in Thailand should investigate appropriate long-term visas and extensions. Nevertheless, his immediate recommendation remained a privately operated border-run service whose supposed advantage depended on arrangements he had not independently documented.[^21]
+
+The discussion produced a noteworthy response. On August 4, the traveler returned to the thread and indicated that he might pay for a commercial border-run service that year. Although there is no evidence that he subsequently purchased the service, his response demonstrates that Daniels's warnings and recommendations were reaching someone who was actively considering spending money on the suggested assistance.[^21]
+
+This episode does not establish any financial relationship between Daniels and Thai Visa Service, nor does it involve a direct recommendation of Thai Visa Centre. It does, however, reinforce the broader pattern documented throughout this profile: Daniels repeatedly characterized ordinary immigration procedures as risky while presenting paid intermediaries with purportedly privileged border connections as a safer alternative.
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/page/2/`
@@ -169,3 +185,4 @@ Daniels again recommended Thai Visa Centre without mentioning his acknowledged r
 [^18]: `https://www.nationthailand.com/in-focus/30392449`
 [^19]: `https://thethaiger.com/guides/visa-information/thai-visa-centre-accuses-former-employee-of-stealing-from-a-family-seeking-to-travel-to-thailand`
 [^20]: `https://aseannow.com/topic/1314050-border-run-with-ed-visa-fee-and-test-on-re-entry/`
+[^21]: `https://aseannow.com/topic/1401332-laos-visa-exempt-vs-tourist-visa-and-re-entry/`
