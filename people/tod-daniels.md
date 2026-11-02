@@ -100,7 +100,7 @@ Although the traveler did not identify which company provided the service, the e
 
 The discussion does not establish that Daniels received compensation, that Thai Visa Centre handled the booking, or that the traveler would otherwise have been refused entry. Nevertheless, it demonstrates how Daniels's immigration warnings and commercial recommendations reached travelers who ultimately spent money on the services he promoted. Whether such services were genuinely necessary or provided any advantage beyond ordinary immigration procedures remains unverified.
 
-## February 2026: Warning Travelers of Denied Entry While Promising Guaranteed Admission Through Visa Agents
+## February 2026: Warning of Denied Entry While Recommending Paid Immigration Agents
 
 On February 18, 2026, Tod Daniels responded to an ASEAN NOW member who was concerned about reentering Thailand after several visa-exempt stays while awaiting resolution of financial matters affecting his marriage-based extension. Daniels criticized the traveler's immigration history, suggested that immigration officers would no longer regard him as a genuine tourist, and warned that attempting to reenter independently would likely result in detention and refusal of entry.[^8]
 
@@ -109,6 +109,14 @@ Rather than recommending that the traveler obtain clarification directly from Th
 Daniels went so far as to predict that the traveler would probably be questioned, denied entry, and returned to his departure country at his own expense if he attempted the journey without an agent. In contrast, he portrayed privately arranged admission as a reliable solution, despite providing no official evidence that commercial agents could guarantee immigration decisions or future extensions.[^8]
 
 The contrast is striking: Daniels presented ordinary entry procedures as highly risky while promoting paid intermediaries as capable of guaranteeing favorable treatment from government immigration officers. These claims reinforce concerns raised by his earlier descriptions of private agents using personal connections inside Thai airports to facilitate entry. His statements risked pressuring travelers into purchasing commercial services based on assurances of government cooperation that he had not independently substantiated.
+
+On February 23, 2026, Daniels participated in another ASEAN NOW discussion after a member asked whether SR Services was still operating. The member explained that the company had previously been highly recommended but could no longer be located online. Rather than clarifying the status of SR Services, Daniels identified three companies he claimed handled substantial volumes of paid airport entry arrangements: Thai Visa Service (SWD Transport), Thai Visa Centre, and Friendly Thai Visa.[^16]
+
+Daniels provided the websites of all three companies, including `tvc.co.th`, and encouraged the member to compare their prices. This was another explicit referral to Thai Visa Centre, coming just five days after his warnings that travelers with problematic immigration histories risked being refused entry unless they arranged paid assistance.[^8][^16]
+
+The response is also noteworthy because Daniels had previously claimed that SR Services handled most advertised "safe entry" customers in December 2024, before making a similar claim about SWD Transport in October 2025. When directly confronted with a question about SR Services' apparent absence, he offered alternative providers without explaining what had happened to the company he had once endorsed so enthusiastically.[^12][^13][^16]
+
+Daniels again recommended Thai Visa Centre without mentioning his acknowledged role moderating a Facebook group owned by the agency. Although these repeated referrals do not establish compensation or a formal business relationship, they demonstrate that his public promotion of Thai Visa Centre continued well after his November 2025 denial of personal affiliation.[^1][^16]
 
 ## References
 
@@ -127,3 +135,4 @@ The contrast is striking: Daniels presented ordinary entry procedures as highly 
 [^13]: `https://aseannow.com/topic/1374954-vientiane-e-visa-after-9-months-in-thailand/`
 [^14]: `https://aseannow.com/topic/1378770-new-rules-issued-for-visa-extensions-and-visa-exempt-entries/page/15/`
 [^15]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/5/`
+[^16]: `https://aseannow.com/topic/1388105-safe-entry/`
