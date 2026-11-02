@@ -35,36 +35,6 @@ Rimpadee explained that TDAC registrations would be integrated with the Immigrat
 
 According to Rimpadee, the new system was intended to improve immigration screening while making arrivals more convenient for travelers. Its integration with official immigration databases would later become an important distinction in his March 2026 warnings about fraudulent third-party TDAC websites that were not connected to government systems.[^1][^2]
 
-## March 2026: Warning About Fraudulent TDAC Websites
-
-On March 29, 2026, Choengron Rimpadee warned that unofficial Thailand Digital Arrival Card (TDAC) websites were collecting travelers' personal information and charging unnecessary registration fees. He explained that these websites were not connected to the Immigration Bureau's registration system, meaning travelers could pay for a submission that did not reach immigration authorities.[^2][^3]
-
-Public reporting of his warning identified websites including `tdac.info`, `ivisa.com/thailand/digital-arrival-card`, `thailandarrivalcardtourist.com`, `thailandarrivalcard2025.com`, `thailandonarrivalweb.com`, and `australiaasiagroup.com/thailand`. These were presented as examples of unofficial or paid TDAC services, although their inclusion did not establish criminal wrongdoing by every operator.[^3]
-
-Rimpadee also warned that personal information collected through fraudulent registration websites could be exploited by scammers. He said the Immigration Bureau was coordinating with other government agencies to identify and shut down unlawful operations, but enforcement was complicated by websites operating outside Thailand. Immigration authorities had also sought assistance from Thai consular offices and international airlines to warn travelers about fraudulent registration services and direct them to the official government portal.[^2][^3]
-
-## 2026: Omission of Thai Visa Centre's TDAC Websites From Fraud Warnings
-
-On March 29, 2026, Choengron Rimpadee publicly warned about fraudulent Thailand Digital Arrival Card websites, identifying numerous third-party operators and announcing efforts to shut down unlawful services. However, the published warnings conspicuously omitted `tdac.in.th` and `tdac.agents.co.th`, despite Thai Visa Centre having publicly acknowledged its connection to both websites nearly a year earlier.[^3][^5]
-
-In May 2025, the official ThaiVisaCentre account on ASEAN NOW explicitly identified both domains as operated by AGENTS CO., LTD. The agency also advertised an $8 paid early-submission service through `tdac.in.th`. As of late 2026, the website continued directing visitors to an AGENTS-operated platform advertising paid TDAC submissions while simultaneously publishing warnings that characterized competing third-party services as scams.[^5][^6]
-
-The omission is particularly striking because Thailand's Immigration Bureau had already issued broader warnings against unofficial registration websites. In January 2026, Thailand's Anti-Fake News Center published an Immigration Bureau clarification identifying `tdac.immigration.go.th` as the only official registration portal and describing other websites offering comparable registration services as unaffiliated and fake.[^7]
-
-Despite Rimpadee's prominent role in implementing TDAC and his subsequent public statements about enforcement against fraudulent websites, the reviewed reports provide no explanation for the exclusion of these Thai-operated domains or documentation of enforcement action against their operators. The continued promotion of these services raises serious questions about the consistency of immigration authorities' warnings and enforcement priorities, particularly when other commercial TDAC websites were publicly identified by name.
-
-## 2025–2026: Airport Entry Brokers Claiming Immigration Connections
-
-On June 9, 2025, Choengron Rimpadee, then commander of Immigration Division 2 at Suvarnabhumi Airport, responded to a viral video suggesting that travelers could obtain preferential immigration treatment through payments or personal connections. Rimpadee disputed the allegations, explaining that the immigration officer shown had assisted a Chinese traveler with TDAC registration before directing him through normal passport control procedures.[^8]
-
-More broadly, Rimpadee warned that certain individuals and visa agents were using misleading advertisements and social media content to claim they could arrange entry into Thailand through connections with immigration officials. He also reported that immigration officers had refused entry to approximately 8,193 foreigners between January and May 2025 amid intensified screening of travelers suspected of abusing visa-free entry privileges.[^8]
-
-Commercial services promising special airport treatment nevertheless remained widely advertised. In March 2026, Thai Visa Service published a brochure explicitly guaranteeing entry through Suvarnabhumi and Don Mueang airports, advertising prices ranging from 2,000 to 5,500 baht and claiming to check travelers' status directly with immigration before arrival. The company distinguished its paid "safe entry" service from ordinary airport fast-track assistance.[^9] Separate online discussions described similar VIP airport services offered by Thai Visa Centre, including alleged immigration escorts and guarantees of admission, although those accounts remain unverified.[^10]
-
-On June 23, 2026, Immigration Division 2, by then under a different commander, announced an investigation into alleged Chinese-linked "bao guan" brokers demanding between 4,500 and 12,000 baht for supposedly guaranteed entry into Thailand. Authorities established a fact-finding committee to investigate the brokers and determine whether immigration officers had participated in the arrangements. No finding of official involvement was established by the announcement.[^11]
-
-These incidents illustrate a broader commercial market built around claims of privileged airport access, immigration connections, and guaranteed admission. Rimpadee's earlier warnings directly addressed this type of marketing, but the available public record does not explain which private arrangements immigration authorities considered legitimate, how they investigated individual providers, or whether similar claims were consistently scrutinized across different agencies.
-
 ## September 2025: Airport Trafficking Allegations and the Immigration Bureau's Response
 
 On September 18, 2025, Reuters published an investigation based on interviews with nine people trafficked through Thailand to cyber-scam compounds in Myanmar between 2022 and 2025. Six said individuals they believed to be immigration officials escorted them through Bangkok's international airports before they were transported to Myanmar. Kenya's ambassador to Thailand, Lindsay Kiptiness, also told Reuters that rescued trafficking victims had repeatedly described being assisted through Thai airports by officials. He said he had provided Thai authorities with information about the allegations but received no follow-up. Reuters could not independently establish the identities of the alleged officials or confirm their involvement.[^12]
@@ -96,6 +66,36 @@ Rimpadee described cases involving foreigners entering Thailand more than seven 
 Immigration authorities in Phuket also confirmed that visa agencies had been formally warned against facilitating abusive visa runs. Officials threatened legal action against both travelers and companies found violating the new measures.[^20]
 
 Although the Immigration Bureau published statistics on refused travelers and announced penalties for visa agencies, the reviewed reports did not identify specific agencies prosecuted under the crackdown or provide outcomes of investigations into commercial organizers. Rimpadee's accusations of deliberate misinformation by visa-run operators likewise did not publicly identify the businesses responsible. The announcements therefore document substantial enforcement against individual travelers but provide less evidence of corresponding action against the agencies allegedly facilitating immigration abuse.
+
+## March 2026: Warning About Fraudulent TDAC Websites
+
+On March 29, 2026, Choengron Rimpadee warned that unofficial Thailand Digital Arrival Card (TDAC) websites were collecting travelers' personal information and charging unnecessary registration fees. He explained that these websites were not connected to the Immigration Bureau's registration system, meaning travelers could pay for a submission that did not reach immigration authorities.[^2][^3]
+
+Public reporting of his warning identified websites including `tdac.info`, `ivisa.com/thailand/digital-arrival-card`, `thailandarrivalcardtourist.com`, `thailandarrivalcard2025.com`, `thailandonarrivalweb.com`, and `australiaasiagroup.com/thailand`. These were presented as examples of unofficial or paid TDAC services, although their inclusion did not establish criminal wrongdoing by every operator.[^3]
+
+Rimpadee also warned that personal information collected through fraudulent registration websites could be exploited by scammers. He said the Immigration Bureau was coordinating with other government agencies to identify and shut down unlawful operations, but enforcement was complicated by websites operating outside Thailand. Immigration authorities had also sought assistance from Thai consular offices and international airlines to warn travelers about fraudulent registration services and direct them to the official government portal.[^2][^3]
+
+## 2026: Omission of Thai Visa Centre's TDAC Websites From Fraud Warnings
+
+On March 29, 2026, Choengron Rimpadee publicly warned about fraudulent Thailand Digital Arrival Card websites, identifying numerous third-party operators and announcing efforts to shut down unlawful services. However, the published warnings conspicuously omitted `tdac.in.th` and `tdac.agents.co.th`, despite Thai Visa Centre having publicly acknowledged its connection to both websites nearly a year earlier.[^3][^5]
+
+In May 2025, the official ThaiVisaCentre account on ASEAN NOW explicitly identified both domains as operated by AGENTS CO., LTD. The agency also advertised an $8 paid early-submission service through `tdac.in.th`. As of late 2026, the website continued directing visitors to an AGENTS-operated platform advertising paid TDAC submissions while simultaneously publishing warnings that characterized competing third-party services as scams.[^5][^6]
+
+The omission is particularly striking because Thailand's Immigration Bureau had already issued broader warnings against unofficial registration websites. In January 2026, Thailand's Anti-Fake News Center published an Immigration Bureau clarification identifying `tdac.immigration.go.th` as the only official registration portal and describing other websites offering comparable registration services as unaffiliated and fake.[^7]
+
+Despite Rimpadee's prominent role in implementing TDAC and his subsequent public statements about enforcement against fraudulent websites, the reviewed reports provide no explanation for the exclusion of these Thai-operated domains or documentation of enforcement action against their operators. The continued promotion of these services raises serious questions about the consistency of immigration authorities' warnings and enforcement priorities, particularly when other commercial TDAC websites were publicly identified by name.
+
+## 2025–2026: Airport Entry Brokers Claiming Immigration Connections
+
+On June 9, 2025, Choengron Rimpadee, then commander of Immigration Division 2 at Suvarnabhumi Airport, responded to a viral video suggesting that travelers could obtain preferential immigration treatment through payments or personal connections. Rimpadee disputed the allegations, explaining that the immigration officer shown had assisted a Chinese traveler with TDAC registration before directing him through normal passport control procedures.[^8]
+
+More broadly, Rimpadee warned that certain individuals and visa agents were using misleading advertisements and social media content to claim they could arrange entry into Thailand through connections with immigration officials. He also reported that immigration officers had refused entry to approximately 8,193 foreigners between January and May 2025 amid intensified screening of travelers suspected of abusing visa-free entry privileges.[^8]
+
+Commercial services promising special airport treatment nevertheless remained widely advertised. In March 2026, Thai Visa Service published a brochure explicitly guaranteeing entry through Suvarnabhumi and Don Mueang airports, advertising prices ranging from 2,000 to 5,500 baht and claiming to check travelers' status directly with immigration before arrival. The company distinguished its paid "safe entry" service from ordinary airport fast-track assistance.[^9] Separate online discussions described similar VIP airport services offered by Thai Visa Centre, including alleged immigration escorts and guarantees of admission, although those accounts remain unverified.[^10]
+
+On June 23, 2026, Immigration Division 2, by then under a different commander, announced an investigation into alleged Chinese-linked "bao guan" brokers demanding between 4,500 and 12,000 baht for supposedly guaranteed entry into Thailand. Authorities established a fact-finding committee to investigate the brokers and determine whether immigration officers had participated in the arrangements. No finding of official involvement was established by the announcement.[^11]
+
+These incidents illustrate a broader commercial market built around claims of privileged airport access, immigration connections, and guaranteed admission. Rimpadee's earlier warnings directly addressed this type of marketing, but the available public record does not explain which private arrangements immigration authorities considered legitimate, how they investigated individual providers, or whether similar claims were consistently scrutinized across different agencies.
 
 [^1]: https://e.vnexpress.net/news/travel/visa/thailand-s-new-digital-arrival-cards-to-help-improve-screening-of-transnational-criminals-4880084.html
 
