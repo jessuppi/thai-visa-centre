@@ -57,6 +57,12 @@ These responses challenged elements of one account but did not publicly resolve 
 
 The central accountability question is whether the Immigration Bureau investigated possible misconduct by its own personnel with the same urgency it devoted to rejecting the reporting. The public responses reviewed did not present findings from an independent inquiry into the six accounts, a comprehensive examination of airport surveillance and access records, or disciplinary outcomes. This does not establish that immigration officers participated in trafficking, or that Choengron was personally involved. It does, however, expose a significant gap between categorical official denials and publicly demonstrated scrutiny of serious corruption allegations.
 
+## September 2025: Arrest of a Cross-Border Migrant-Smuggling Broker
+
+On September 30, 2025, Immigration Division 2 officers operating under Choengron Rimpadee's command arrested a Thai national identified as Firdaus at an apartment on Ramkhamhaeng 65 in Bangkok. The investigation began after officers intercepted a Bangladeshi national at Don Mueang Airport on August 12, discovering that he had entered Thailand illegally from Myanmar and intended to continue to Malaysia. Investigators alleged that Firdaus arranged border crossings, accommodation, and domestic flights for migrants traveling through Thailand, while a Bangladesh-based associate coordinated travel arrangements. Police obtained arrest warrants, recovered rental agreements connected to safe houses, and detained a Myanmar national discovered during the subsequent searches.[^33][^34]
+
+The operation demonstrated that Immigration Division 2 could investigate cross-border intermediaries, identify their accommodation networks, obtain warrants, and arrest suspected facilitators operating inside Thailand. It concerned migrant smuggling rather than the alleged trafficking of travelers into Myanmar scam compounds. Nevertheless, the arrests came just days after Rimpadee publicly rejected Reuters' investigation into alleged immigration-officer involvement in trafficking. The contrast highlights the bureau's documented enforcement against civilian intermediaries alongside the more limited public disclosure of investigative findings concerning alleged misconduct by immigration personnel.[^12][^13][^33][^34]
+
 ## October 2025: Rejection of Belarusian Model Trafficking Allegations
 
 On October 21, 2025, Choengron Rimpadee rejected reports that Belarusian model Vera Kravtsova had been abducted in Thailand and trafficked to Myanmar. He cited biometric records and airport surveillance footage showing that she departed Suvarnabhumi Airport alone on September 20, using an automated passport-control gate without visible signs of coercion. Immigration authorities released the footage and maintained that events following her arrival in Myanmar were outside Thai jurisdiction.[^25]
@@ -188,3 +194,7 @@ These incidents illustrate a broader commercial market built around claims of pr
 [^31]: https://www.thaipbs.or.th/news/content/345368
 
 [^32]: https://www.yna.co.kr/view/AKR20241017072900076
+
+[^33]: https://radiotrat.prd.go.th/th/content/category/detail/id/615/iid/430445
+
+[^34]: https://www.fm91bkk.com/newsarticle/58349
