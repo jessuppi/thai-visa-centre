@@ -10,6 +10,16 @@ Despite the group's acquisition by a commercial visa agency, Daniels remained in
 
 These statements establish that Daniels continued exercising moderation authority within a community owned by Thai Visa Centre years before his enthusiastic November 2025 endorsement of the agency. Whether he received compensation for his moderation activities or subsequent recommendations remains unclear.
 
+## September 2025: Directing Travelers to Thai Visa Centre's Paid TDAC Service
+
+On September 6, 2025, Tod Daniels participated in an ASEAN NOW discussion involving a traveler concerned about possible immigration problems following a historical overstay. After the traveler explained that he had contacted Thai Visa Centre about its airport "safe entry" service, Daniels confirmed that the agency offered such assistance and explained how to purchase it.
+
+Daniels instructed the traveler to complete Thai Visa Centre's TDAC application form at `agents.co.th/tdac-apply` and select a paid add-on during the second step. He explained that the agency would then use the submission to begin assessing the traveler's eligibility for its service.
+
+The recommendation directed a traveler seeking immigration advice toward a commercial TDAC submission website, despite Thailand's Immigration Bureau providing the official TDAC application free of charge at `tdac.immigration.go.th`. Daniels did not mention the free government alternative in his response.
+
+This documented referral demonstrates Daniels actively directing potential customers toward Thai Visa Centre's commercial services, rather than merely expressing favorable opinions about the agency. It also predates his November 2025 statement denying any personal affiliation with the company.
+
 ## November 2025: Publicly Endorsing Thai Visa Centre While Denying Affiliation
 
 On November 11, 2025, Tod Daniels participated in an ASEAN NOW discussion about Thai Visa Centre, which also maintained an account on the forum labeled "Forum Sponsor." Daniels described the agency as the "best marketed, most well managed visa agency in Thailand," praising its nationwide operations, reliability, pricing, and customer service.
@@ -24,3 +34,5 @@ His endorsement is particularly noteworthy because it came more than five years 
 - `https://asq.in.th/question/should-tod-daniels-stay-as-a-moderator-in-the-thai-visa-advice-group`
 - `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/page/2/`
 - `https://archive.ph/AuDzg`
+- `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/3/`
+- `https://tdac.immigration.go.th/manual/en/faq.html`
