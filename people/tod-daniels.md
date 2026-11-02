@@ -162,6 +162,22 @@ The discussion produced a noteworthy response. On August 4, the traveler returne
 
 This episode does not establish any financial relationship between Daniels and Thai Visa Service, nor does it involve a direct recommendation of Thai Visa Centre. It does, however, reinforce the broader pattern documented throughout this profile: Daniels repeatedly characterized ordinary immigration procedures as risky while presenting paid intermediaries with purportedly privileged border connections as a safer alternative.
 
+## October 2026: Acknowledging Restricted Availability of Airport "Safe Entry" Services
+
+In October 2026, Tod Daniels participated in an ASEAN NOW discussion involving a traveler who had previously been refused entry to Thailand and subsequently used a commercial "safe entry" service. The traveler asked whether these arrangements were still available and how much they currently cost.[^22]
+
+The responses revealed uncertainty about whether the services Daniels had repeatedly recommended were still operating. ASEAN NOW moderator BrandonJT stated that his latest information indicated such arrangements were available only at Krabi Airport. Daniels offered a different account, suggesting that Thai Visa Service had resumed operations at Bangkok's Suvarnabhumi Airport, but only on particular days and at certain times.[^22]
+
+Notably, Daniels qualified his statement with "Unless I'm mistaken," a departure from his earlier categorical assurances that commercial agents could guarantee admission through Thailand's major airports. His latest account suggested a considerably more restricted service, dependent on specific locations and schedules rather than the broadly available arrangements he had previously described.[^8][^12][^22]
+
+Neither moderator provided official documentation explaining why these services were apparently restricted, whether their arrangements with immigration personnel had changed, or what authority allowed private companies to facilitate admission under these conditions. The disagreement also demonstrated that even influential contributors who had previously promoted such services lacked a consistent account of their current availability.
+
+The traveler subsequently indicated that he expected to spend approximately 8,000 baht on immigration assistance, describing similar quotations from different providers. Although the discussion does not establish that he completed a purchase, it illustrates how travelers continued considering substantial payments for services whose availability and underlying arrangements remained poorly documented.[^22]
+
+This exchange adds an important development to Daniels's history of promoting commercial immigration intermediaries. After years of confidently portraying paid "safe entry" services as reliable solutions to entry difficulties, he was now describing their availability in tentative and restrictive terms. It raises further questions about the reliability of his earlier guarantees and the extent of his independently verified knowledge about the services he recommended.
+
+The discussion does not establish that Thai Visa Centre itself had suspended or restricted operations, and Daniels did not specifically recommend that company in this exchange.
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/page/2/`
@@ -186,3 +202,4 @@ This episode does not establish any financial relationship between Daniels and T
 [^19]: `https://thethaiger.com/guides/visa-information/thai-visa-centre-accuses-former-employee-of-stealing-from-a-family-seeking-to-travel-to-thailand`
 [^20]: `https://aseannow.com/topic/1314050-border-run-with-ed-visa-fee-and-test-on-re-entry/`
 [^21]: `https://aseannow.com/topic/1401332-laos-visa-exempt-vs-tourist-visa-and-re-entry/`
+[^22]: `https://aseannow.com/topic/1406166-are-safe-entry-service-still-available/`
