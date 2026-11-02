@@ -91,6 +91,12 @@ The omission is particularly striking because Thailand's Immigration Bureau had 
 
 Rimpadee cited overseas operators as one reason fraudulent TDAC websites were difficult to shut down. Yet Thai Visa Centre's own website identifies AGENTS CO., LTD., the company behind its TDAC services, as registered in Thailand.[^23] Thai registration does not establish wrongdoing or prove where the websites are hosted. But it raises a more direct enforcement question: why were `tdac.in.th` and `tdac.agents.co.th` absent from the bureau's named warnings when their operator was publicly identifiable in Thailand? The reviewed reports offer no explanation for the omission or evidence of enforcement action against that operator.[^2][^3][^5]
 
+## June 2026: Nationwide Immigration Crackdown and Visa Agency Accountability
+
+On June 4, 2026, Choengron Rimpadee, serving as deputy commissioner and spokesperson for the Immigration Bureau, announced results from the nationwide "Three No's" enforcement campaign: "No Entry, No Stay, No Escape." Between January and May 2026, immigration authorities reported refusing entry to 29,490 foreigners and revoking permission to stay for 668 individuals. They also reported 14,161 arrests for immigration-related offenses between January and April, alongside investigations targeting 190 locations considered potentially connected to unlawful activity.[^28][^29]
+
+The figures demonstrated extensive enforcement against individual foreigners, including suspected illegal workers, visa-run travelers, and people misusing education visas. However, the announcement provided no corresponding figures for investigations, prosecutions, or penalties involving commercial visa agencies. This omission is significant because Rimpadee had previously accused visa-run operators of spreading misinformation and facilitating immigration abuse.[^19][^20] Despite the bureau's emphasis on strict enforcement, its published statistics offered little indication of whether the businesses organizing questionable immigration arrangements faced comparable scrutiny or consequences.
+
 ## 2025–2026: Airport Entry Brokers Claiming Immigration Connections
 
 On June 9, 2025, Choengron Rimpadee, then commander of Immigration Division 2 at Suvarnabhumi Airport, responded to a viral video suggesting that travelers could obtain preferential immigration treatment through payments or personal connections. Rimpadee disputed the allegations, explaining that the immigration officer shown had assisted a Chinese traveler with TDAC registration before directing him through normal passport control procedures.[^8]
@@ -160,3 +166,7 @@ These incidents illustrate a broader commercial market built around claims of pr
 [^26]: https://english.dvb.no/belarusian-models-disappearance-in-myanmar-sparks-conflicting-reports-of-murder-and-travel/
 
 [^27]: https://www.thansettakij.com/business/tourism/662039
+
+[^28]: https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/509718
+
+[^29]: https://www.siamfocustime.com/770532/
