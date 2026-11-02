@@ -16,6 +16,14 @@ On June 22, 2024, Tod Daniels published a lengthy ASEAN NOW guide advising forei
 
 In the same discussion, Daniels described arrangements in which foreigners refused entry at land borders could pay intermediaries to facilitate admission the following day. He claimed to know travelers who had successfully negotiated such arrangements and returned through the same border crossing without problems. Daniels also suggested that travelers denied entry at airports could arrange paid "safe entry" services and return through the same airport the following day.[^9]
 
+On June 22, 2024, Daniels's immigration advice received exposure beyond the ASEAN NOW forum when The Thaiger published an article titled *I've Been Denied Entry to Thailand – Now What?* The article was presented as a joint Thaiger/ASEAN NOW exclusive and introduced Daniels as a visa expert. It reproduced his recommendations concerning entry refusals, informal border intermediaries, and commercial airport assistance.[^17]
+
+The published advice explicitly instructed travelers not to sign immigration refusal documents, asserting that this would prevent officers from stamping their passports. Daniels also described paying intermediaries at land borders to arrange admission the following day and claimed that travelers denied entry at an airport could return successfully after arranging a paid "safe entry" service.[^17]
+
+This publication matters because it presented Daniels's personal assertions about immigration procedures and paid intermediaries under the authority of a named visa expert, reaching an audience beyond forum participants. The article did not establish that his proposed workarounds were officially recognized or legally reliable. Three days later, a forum participant reported receiving a refusal stamp despite following his advice not to sign the paperwork.[^10]
+
+The combination of media amplification and the subsequent contradictory experience illustrates the distinction between Daniels's confidence in these methods and the evidence supporting their effectiveness. His recommendations were not confined to casual forum exchanges; they were also circulated as expert guidance by a news website associated with ASEAN NOW.
+
 On June 25, another forum member reported that they had followed Daniels's advice by refusing to sign the paperwork but nevertheless received a large denial-of-entry stamp. Daniels responded by suggesting that refusals at land borders were handled differently and that those travelers generally received stamps regardless of whether they signed.[^10]
 
 These statements demonstrate that Daniels was publicly discussing ways to bypass or minimize the consequences of official immigration refusals well before his documented endorsements of Thai Visa Centre. His advice relied heavily on anecdotal accounts and offered no official legal authority establishing that refusing government paperwork could prevent a refusal stamp or that paying intermediaries could legitimately reverse an immigration decision.
@@ -136,3 +144,5 @@ Daniels again recommended Thai Visa Centre without mentioning his acknowledged r
 [^14]: `https://aseannow.com/topic/1378770-new-rules-issued-for-visa-extensions-and-visa-exempt-entries/page/15/`
 [^15]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/5/`
 [^16]: `https://aseannow.com/topic/1388105-safe-entry/`
+
+[^17]: `https://thethaiger.com/news/national/ive-been-denied-entry-to-thailand-now-what`
