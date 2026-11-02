@@ -109,3 +109,9 @@ The goal is to document these connections through historical records, archived w
 | [tvc.in.th](domains/tvc.in.th.md) | | |
 | [useblacklist.com](domains/useblacklist.com.md) | | |
 | [weed.th](domains/weed.th.md) | [WEED.TH Co., Ltd.](companies/weed-th-co-ltd.md) | |
+
+## Threads
+
+| Date | Platform | Thread | Summary |
+|---|---|---|---|
+| 2025-11-12 | Reddit (r/Thailand) | [Aggressive Reddit manipulation by Thai visa agents](threads/2025-11-12-reddit-visa-agent-manipulation.md) | Discussion alleging coordinated downvoting, spam reports, and sockpuppet activity involving visa agencies, including Thai Visa Centre; includes user experiences, an agency-named account's response, and moderators' explanation of Reddit removals. |
