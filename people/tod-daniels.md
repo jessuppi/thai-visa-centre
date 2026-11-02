@@ -2,6 +2,14 @@
 
 **Tod Daniels** is a Bangkok-based contributor to ASEAN NOW, where he holds the forum designation "Thai Visas Forum Expert." Daniels has repeatedly recommended Thai Visa Centre in discussions about Thai immigration services. On November 11, 2025, he publicly praised the company as Thailand's best-managed visa agency while acknowledging that Thai Visa Centre owns the Facebook group he moderates. Although Daniels denied having any personal affiliation with the company, his disclosed relationship raises questions about the independence of his endorsements.[^1]
 
+## Background: Thai Visa Centre's 2020 Police Investigation
+
+On August 4, 2020, Thailand's immigration police chief, Pol Lt-General Sompong Chingduang, publicly announced the arrests of Chad Vincent Scira and Grace Scira over allegations involving forged visas and government documents. According to The Nation, police identified the couple as having established Thai Visa Centre and claimed that investigators recovered forged documents and 55 rubber stamps bearing the insignia of government departments at their Bangkok residence. These were police allegations reported at the time, not judicial findings of guilt or proof that the agency's customers held invalid visas.[^18]
+
+Thai Visa Centre disputed the implications of the investigation, publicly maintaining that its customers' visas had been legitimately obtained through immigration authorities. Reporting by The Thaiger in March 2021 recounted the arrests and repeated the agency's statement that its visas were officially obtained. That denial represents the company's position; neither report establishes the ultimate legal outcome of the visa-forgery allegations.[^19]
+
+This investigation provides important context for Daniels's subsequent endorsements and referrals. Beginning years after the widely reported police allegations, Daniels repeatedly recommended Thai Visa Centre to travelers seeking immigration assistance, praised its operations, and acknowledged moderating a Facebook community owned by the agency. His documented recommendations did not address the company's earlier controversy or establish whether his moderation role involved compensation. The available evidence does not establish that Daniels participated in or knew about the alleged misconduct. Nevertheless, the historical record is relevant to evaluating the completeness, independence, and credibility of his repeated endorsements.
+
 ## March 2022: Thai Visa Centre Acquires the Thai Visa Advice Group
 
 On March 17, 2022, Tod Daniels announced that the Thai Visa Advice Facebook group, where he had served as an administrator for years, had been acquired by Thai Visa Centre. Daniels explained that he had not originally created the group and expressed hope that the transition would proceed smoothly for members and moderators.[^2]
@@ -92,7 +100,7 @@ On November 11, 2025, Tod Daniels participated in an ASEAN NOW discussion about 
 
 Daniels claimed his endorsement was based on feedback from numerous customers he had spoken with over the years. However, he also included a disclaimer denying any personal affiliation with Thai Visa Centre while acknowledging that the company owned the Facebook group he moderated. He explained that he had been moderating the group for years before the agency acquired it in March 2022.[^1]
 
-His endorsement is particularly noteworthy because it came more than five years after Thai authorities publicly accused Thai Visa Centre's alleged operators of visa and document forgery during the August 2020 police investigation. Daniels did not address that history in his recommendation, nor did he clarify whether he received compensation or other benefits from moderating the company-owned community.
+The recommendation also made no mention of the publicly reported 2020 police investigation involving Thai Visa Centre, discussed in the background section above. Daniels did not clarify whether his moderation role involved compensation or other benefits.
 
 ## January 2026: Recommending Thai Visa Centre Before a Traveler Reports Purchasing Paid Entry Assistance
 
@@ -146,3 +154,5 @@ Daniels again recommended Thai Visa Centre without mentioning his acknowledged r
 [^16]: `https://aseannow.com/topic/1388105-safe-entry/`
 
 [^17]: `https://thethaiger.com/news/national/ive-been-denied-entry-to-thailand-now-what`
+[^18]: `https://www.nationthailand.com/in-focus/30392449`
+[^19]: `https://thethaiger.com/guides/visa-information/thai-visa-centre-accuses-former-employee-of-stealing-from-a-family-seeking-to-travel-to-thailand`
