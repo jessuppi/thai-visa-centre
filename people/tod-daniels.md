@@ -10,8 +10,17 @@ Despite the group's acquisition by a commercial visa agency, Daniels remained in
 
 These statements establish that Daniels continued exercising moderation authority within a community owned by Thai Visa Centre years before his enthusiastic November 2025 endorsement of the agency. Whether he received compensation for his moderation activities or subsequent recommendations remains unclear.
 
+## November 2025: Publicly Endorsing Thai Visa Centre While Denying Affiliation
+
+On November 11, 2025, Tod Daniels participated in an ASEAN NOW discussion about Thai Visa Centre, which also maintained an account on the forum labeled "Forum Sponsor." Daniels described the agency as the "best marketed, most well managed visa agency in Thailand," praising its nationwide operations, reliability, pricing, and customer service.
+
+Daniels claimed his endorsement was based on feedback from numerous customers he had spoken with over the years. However, he also included a disclaimer denying any personal affiliation with Thai Visa Centre while acknowledging that the company owned the Facebook group he moderated. He explained that he had been moderating the group for years before the agency acquired it in March 2022.
+
+His endorsement is particularly noteworthy because it came more than five years after Thai authorities publicly accused Thai Visa Centre's alleged operators of visa and document forgery during the August 2020 police investigation. Daniels did not address that history in his recommendation, nor did he clarify whether he received compensation or other benefits from moderating the company-owned community.
+
 ### References
 
 - `https://asq.in.th/question/what-does-the-acquisition-of-the-thai-visa-advice-group-by-thai-visa-centre-mean-for-its-members-1`
 - `https://asq.in.th/question/should-tod-daniels-stay-as-a-moderator-in-the-thai-visa-advice-group`
 - `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/page/2/`
+- `https://archive.ph/AuDzg`
