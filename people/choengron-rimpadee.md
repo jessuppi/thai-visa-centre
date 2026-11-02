@@ -41,6 +41,16 @@ On June 23, 2026, Immigration Division 2, by then under a different commander, a
 
 These incidents illustrate a broader commercial market built around claims of privileged airport access, immigration connections, and guaranteed admission. Rimpadee's earlier warnings directly addressed this type of marketing, but the available public record does not explain which private arrangements immigration authorities considered legitimate, how they investigated individual providers, or whether similar claims were consistently scrutinized across different agencies.
 
+## September 2025: Airport Trafficking Allegations and the Immigration Bureau's Response
+
+On September 18, 2025, Reuters published an investigation based on interviews with nine people trafficked through Thailand to cyber-scam compounds in Myanmar between 2022 and 2025. Six said individuals they believed to be immigration officials escorted them through Bangkok's international airports before they were transported to Myanmar. Kenya's ambassador to Thailand, Lindsay Kiptiness, also told Reuters that rescued trafficking victims had repeatedly described being assisted through Thai airports by officials. He said he had provided Thai authorities with information about the allegations but received no follow-up. Reuters could not independently establish the identities of the alleged officials or confirm their involvement.[^12]
+
+On September 20, Police Major General Choengron Rimpadee, then commander of Immigration Division 2, publicly rejected the investigation, describing it as "essentially fictional." He disputed the account of one victim identified as "Oly," citing a search of immigration records and restrictions on access to airport baggage-claim areas. He also highlighted tighter screening procedures introduced in January 2025 and reported that 16,538 travelers had been denied entry since then.[^13]
+
+These responses challenged elements of one account but did not publicly resolve the broader allegations involving six witnesses or the Kenyan ambassador's claim that authorities had failed to follow up. The search for records matching "Oly" was also not conclusive on its own: Reuters identified the man by his first name and said he had traveled from Ethiopia, without establishing that he was an Ethiopian national.[^12][^13]
+
+The central accountability question is whether the Immigration Bureau investigated possible misconduct by its own personnel with the same urgency it devoted to rejecting the reporting. The public responses reviewed did not present findings from an independent inquiry into the six accounts, a comprehensive examination of airport surveillance and access records, or disciplinary outcomes. This does not establish that immigration officers participated in trafficking, or that Choengron was personally involved. It does, however, expose a significant gap between categorical official denials and publicly demonstrated scrutiny of serious corruption allegations.
+
 [^1]: https://e.vnexpress.net/news/travel/visa/thailand-s-new-digital-arrival-cards-to-help-improve-screening-of-transnational-criminals-4880084.html
 
 [^2]: https://www.khaosodenglish.com/tourism/2026/03/29/10-of-foreign-arrivals-used-fake-tdac-sites-immigration-warns/
@@ -62,3 +72,7 @@ These incidents illustrate a broader commercial market built around claims of pr
 [^10]: https://www.reddit.com/r/thailandvisa/comments/1qm8ysd/thai_visa_centre_visa_agent/
 
 [^11]: https://www.nationthailand.com/news/general/40067752
+
+[^12]: https://www.reuters.com/graphics/SOUTHEASTASIA-SCAMS/mypmxwdwwvr/
+
+[^13]: https://www.khaosodenglish.com/featured/2025/09/20/thai-immigration-bureau-disputes-reuters-scam-trafficking-story/
