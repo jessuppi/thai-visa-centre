@@ -73,6 +73,18 @@ The incident occurred approximately one month after Reuters reported allegations
 
 Although the Immigration Bureau detailed its screening procedures for those fleeing KK Park, the reviewed announcements did not disclose whether authorities investigated how those individuals originally traveled through Thailand, identified the brokers who facilitated their movements, or examined possible involvement by immigration personnel. The absence of publicly reported findings leaves questions about the effectiveness of earlier screening measures and the extent of investigations into trafficking networks operating through Thailand.
 
+## November 2025: Visa-Run Crackdown and Warnings to Visa Agencies
+
+In November 2025, Thailand's Immigration Bureau introduced stricter measures against foreigners repeatedly using visa exemptions to remain in the country. The policy targeted travelers making more than two visa runs without adequate justification, individuals flagged at high-risk border crossings, suspicious extensions of stay, and visa overstayers. The government reported that approximately 2,900 foreigners had already been refused entry during 2025 for similar travel patterns.[^18]
+
+On November 24, Police Major General Choengron Rimpadee, then deputy commissioner and spokesperson for the Immigration Bureau, accused commercial visa-run operators of spreading misleading information about the crackdown. He rejected claims that immigration officers were specifically targeting Chinese, Russian, South Korean, or Singaporean visitors, insisting that enforcement focused on repeated long stays and suspected misuse of tourist privileges regardless of nationality.[^19]
+
+Rimpadee described cases involving foreigners entering Thailand more than seven times and spending over 200 days in the country while claiming to be tourists. He alleged that some were working illegally, operating businesses through Thai nominees, or exploiting visa exemptions to avoid proper immigration procedures. Officers were instructed to scrutinize travel histories, accommodation, return tickets, and stated purposes of entry.[^19]
+
+Immigration authorities in Phuket also confirmed that visa agencies had been formally warned against facilitating abusive visa runs. Officials threatened legal action against both travelers and companies found violating the new measures.[^20]
+
+Although the Immigration Bureau published statistics on refused travelers and announced penalties for visa agencies, the reviewed reports did not identify specific agencies prosecuted under the crackdown or provide outcomes of investigations into commercial organizers. Rimpadee's accusations of deliberate misinformation by visa-run operators likewise did not publicly identify the businesses responsible. The announcements therefore document substantial enforcement against individual travelers but provide less evidence of corresponding action against the agencies allegedly facilitating immigration abuse.
+
 [^1]: https://e.vnexpress.net/news/travel/visa/thailand-s-new-digital-arrival-cards-to-help-improve-screening-of-transnational-criminals-4880084.html
 
 [^2]: https://www.khaosodenglish.com/tourism/2026/03/29/10-of-foreign-arrivals-used-fake-tdac-sites-immigration-warns/
@@ -106,3 +118,9 @@ Although the Immigration Bureau detailed its screening procedures for those flee
 [^16]: https://www.reuters.com/world/china/nearly-700-people-flee-thailand-after-myanmar-scam-centre-raid-2025-10-23/
 
 [^17]: https://www.khaosodenglish.com/news/2025/10/24/over-800-flee-to-thailand-as-myanmar-raids-scam-compound/
+
+[^18]: https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/444048
+
+[^19]: https://www.khaosodenglish.com/tourism/2025/11/25/thailand-tightens-visa-run-controls-denies-impact-on-legitimate-tourism/
+
+[^20]: https://www.thephuketnews.com/phuket-immigration-spells-out-visa-free-crackdown-98324.php
