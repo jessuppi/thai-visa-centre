@@ -22,6 +22,18 @@ These statements demonstrate that Daniels was publicly discussing ways to bypass
 
 For someone publicly designated a "Thai Visas Forum Expert," encouraging travelers to rely on undocumented procedural workarounds and informal paid arrangements raises serious concerns about the reliability and potential consequences of his immigration advice.
 
+## December 2024: Describing Hidden Intermediaries Behind Airport "Safe Entry" Services
+
+On December 29, 2024, Tod Daniels participated in an ASEAN NOW discussion about commercial airport entry services. He claimed that Friendly Thai Visa was actually routing customers through another operator called SR Services. Daniels enthusiastically endorsed SR Services, describing it as the "REAL DEAL" and claiming that the company could secure admission even for travelers who had been refused entry and deported through the same airport the previous day.[^12]
+
+On December 30, Daniels explained how these arrangements allegedly operated. He distinguished ordinary airport VIP or fast-track services, which primarily bypass immigration queues, from paid "safe entry" services that purportedly guaranteed admission. According to Daniels, customers were required to submit their passport information, most recent Thai entry stamp, flight number, and a photograph showing the clothing they intended to wear during travel. The agent would then determine whether admission could be arranged, collect payment, and provide instructions for meeting someone after arrival.[^12]
+
+Daniels further claimed that most companies advertising "safe entry" services on Facebook were quietly routing their customers through SR Services, often without informing them. His account described a commercial network in which agencies marketed and sold immigration assistance while potentially relying on separate operators to deliver the actual service.[^12]
+
+These claims raise questions about transparency, customer privacy, and the involvement of private intermediaries in official immigration decisions. Daniels provided no independent documentation establishing how SR Services obtained its purported ability to secure admission after previous refusals, whether its arrangements were officially authorized, or whether customers were informed that their personal information might be shared with another company.
+
+Although Daniels did not specifically identify Thai Visa Centre as an SR Services intermediary, his statements demonstrate that he was publicly promoting and describing these arrangements months before recommending Thai Visa Centre's own paid airport entry services in May and September 2025.
+
 ## May 2025: Describing Paid Airport Entry Arrangements With Thai Immigration Officers
 
 On May 25, 2025, Tod Daniels participated in an ASEAN NOW discussion involving a traveler who had been denied entry to Thailand. Daniels claimed that commercial "safe entry" services could secure admission regardless of a traveler's previous immigration history, including prior refusals of entry. He distinguished these services from ordinary airport fast-track arrangements, which merely allow travelers to bypass queues without influencing an immigration officer's decision.[^7]
@@ -83,3 +95,4 @@ The contrast is striking: Daniels presented ordinary entry procedures as highly 
 [^9]: `https://aseannow.com/topic/1330417-ive-been-denied-entry-to-thailand-now-what/`
 [^10]: `https://aseannow.com/topic/1330417-ive-been-denied-entry-to-thailand-now-what/page/2/`
 [^11]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/4/`
+[^12]: `https://aseannow.com/topic/1345519-safe-entry-services-bkk-airport/`
