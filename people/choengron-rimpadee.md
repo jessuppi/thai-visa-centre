@@ -63,6 +63,16 @@ These responses challenged elements of one account but did not publicly resolve 
 
 The central accountability question is whether the Immigration Bureau investigated possible misconduct by its own personnel with the same urgency it devoted to rejecting the reporting. The public responses reviewed did not present findings from an independent inquiry into the six accounts, a comprehensive examination of airport surveillance and access records, or disciplinary outcomes. This does not establish that immigration officers participated in trafficking, or that Choengron was personally involved. It does, however, expose a significant gap between categorical official denials and publicly demonstrated scrutiny of serious corruption allegations.
 
+## October 2025: KK Park Exodus and Immigration Screening
+
+In October 2025, more than 1,000 foreign nationals fled Myanmar's notorious KK Park scam compound into Thailand following a military operation against the facility. Those crossing into Tak province included nationals of China, India, Vietnam, Ethiopia, Pakistan, Indonesia, and other countries. Thai authorities began screening the arrivals to identify suspected criminal participants and potential trafficking victims.[^16][^17]
+
+Police Major General Choengron Rimpadee, then spokesperson for the Immigration Bureau, announced that immigration officers were coordinating with security forces to verify identities, examine travel histories, and check criminal records using mobile biometric equipment. He emphasized that immigration laws would be strictly enforced and that individuals suspected of criminal activity would undergo further investigation.[^17]
+
+The incident occurred approximately one month after Reuters reported allegations that trafficking victims had been escorted through Bangkok airports by people believed to be immigration officials before being transported to KK Park. Rimpadee had publicly rejected those allegations, describing the reporting as false and distorted.[^12]
+
+Although the Immigration Bureau detailed its screening procedures for those fleeing KK Park, the reviewed announcements did not disclose whether authorities investigated how those individuals originally traveled through Thailand, identified the brokers who facilitated their movements, or examined possible involvement by immigration personnel. The absence of publicly reported findings leaves questions about the effectiveness of earlier screening measures and the extent of investigations into trafficking networks operating through Thailand.
+
 [^1]: https://e.vnexpress.net/news/travel/visa/thailand-s-new-digital-arrival-cards-to-help-improve-screening-of-transnational-criminals-4880084.html
 
 [^2]: https://www.khaosodenglish.com/tourism/2026/03/29/10-of-foreign-arrivals-used-fake-tdac-sites-immigration-warns/
@@ -92,3 +102,7 @@ The central accountability question is whether the Immigration Bureau investigat
 [^14]: https://www.voabkkimmigration.go.th/ตม-2-เตือนเพจปลอมอ้างจ่าย/
 
 [^15]: https://www.thaipbsworld.com/crime/police-officers-providing-escort-service-to-chinese-tourists-face-criminal-probe
+
+[^16]: https://www.reuters.com/world/china/nearly-700-people-flee-thailand-after-myanmar-scam-centre-raid-2025-10-23/
+
+[^17]: https://www.khaosodenglish.com/news/2025/10/24/over-800-flee-to-thailand-as-myanmar-raids-scam-compound/
