@@ -5,6 +5,12 @@ Police Major General Choengron Rimpadee (เชิงรณ ริมผดี) 
 However, his published warnings omitted `tdac.in.th` and `tdac.agents.co.th`, despite Thai Visa Centre having publicly acknowledged its connection to both domains and advertised paid TDAC registration services.[^5][^6] Rimpadee had also issued warnings against paid airport fast-track schemes and agents claiming privileged immigration connections, yet commercial operators continued advertising guaranteed-entry services at major Thai airports.[^8][^9][^14] These repeated warnings, selective identification of operators, and limited publicly documented enforcement outcomes raise questions about the consistency of immigration oversight, particularly where commercial visa agencies and allegations of official involvement are concerned.[^3][^11]
 
 
+## December 2023: Passenger Data Privacy and Unauthorized Access
+
+On December 8, 2023, Choengron Rimpadee, then commander of Immigration Division 2, announced measures to protect travelers' personal information after authorities received requests from government agencies, private organizations, and other parties seeking access to immigration arrival and departure records. He warned that improperly disclosing such information could violate individuals' privacy rights and undermine confidence in immigration databases. The division introduced restrictions requiring appropriate legal authorization or written consent, limiting database access to designated officers, and maintaining logs of access to personal information.[^30]
+
+Rimpadee's earlier recognition of these privacy risks provides important context for his March 2026 warnings about third-party TDAC websites collecting travelers' personal information. Although access to government records and collection of information through private registration websites are different activities, both raise concerns about the handling of sensitive immigration-related data. Nevertheless, his subsequent warnings omitted `tdac.in.th` and `tdac.agents.co.th`, with no publicly documented explanation of whether authorities examined the personal-data practices of these identifiable commercial operators.[^2][^3][^5]
+
 ## February 2024: CCTV Investigation and Monitoring of an Indonesian Tourist
 
 On February 28, 2024, Choengron Rimpadee publicly disputed allegations made by an Indonesian TikTok user who claimed her husband had been refused entry at Don Mueang Airport because he lacked sufficient cash. The woman said the incident forced them to cancel their honeymoon in Thailand and travel to Japan instead.[^21]
@@ -170,3 +176,5 @@ These incidents illustrate a broader commercial market built around claims of pr
 [^28]: https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/509718
 
 [^29]: https://www.siamfocustime.com/770532/
+
+[^30]: https://www.voabkkimmigration.go.th/ตม-สนามบิน-ย้ำมาตรการคุ้/
