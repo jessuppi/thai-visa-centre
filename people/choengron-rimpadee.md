@@ -33,6 +33,12 @@ Yet comparable claims continued appearing in later years. In March 2026, Thai Vi
 
 The available reports do not establish what legal consequences, if any, followed the investigation of `richcarsbangkok`, or whether similar advertisers faced consistent enforcement. Given the earlier misconduct involving serving police officers, assurances that unauthorized fast-track services do not officially exist are insufficient to establish that such arrangements cannot occur. The repeated cycle of public warnings, promised investigations, and continuing advertisements raises legitimate questions about enforcement effectiveness, transparency, and the Immigration Bureau's willingness to confront possible internal complicity.
 
+## October 2024: Korean Detainee Livestream and Bribery Allegations
+
+On October 16, 2024, Choengron Rimpadee, then spokesperson for the Immigration Bureau, addressed a scandal involving a South Korean detainee who had livestreamed from a police holding cell and an immigration transport vehicle while awaiting deportation. The detainee, identified as Seo Jung-nam, had been arrested for overstaying his visa by 373 days and was wanted in South Korea on drug-trafficking allegations. During his broadcasts, Seo claimed that he had paid Thai police officers for privileges while detained, including being allowed to use his mobile phone.[^31][^32]
+
+Rimpadee acknowledged that allowing a detainee access to a phone represented a serious security failure, particularly because it could facilitate an escape. Two Chonburi immigration officers responsible for transporting Seo were removed from their duties pending a disciplinary investigation. Immigration officials attributed the incident to inadequate searches and supervision, but the initial public explanations did not establish whether Seo's bribery allegations were investigated or substantiated. The case raised questions about internal accountability and the handling of alleged misconduct by immigration personnel.[^31][^32]
+
 ## April 2025: Launch of Thailand's Digital Arrival Card
 
 In April 2025, Choengron Rimpadee, then commander of Immigration Division 2 at Suvarnabhumi Airport, publicly explained Thailand's new Digital Arrival Card (TDAC) system ahead of its nationwide launch on May 1. The system replaced paper arrival cards with mandatory online registration for foreign travelers entering Thailand by air, land, or sea. Registration opened on April 28 for travelers arriving from May 1 onward.[^1][^4]
@@ -178,3 +184,7 @@ These incidents illustrate a broader commercial market built around claims of pr
 [^29]: https://www.siamfocustime.com/770532/
 
 [^30]: https://www.voabkkimmigration.go.th/ตม-สนามบิน-ย้ำมาตรการคุ้/
+
+[^31]: https://www.thaipbs.or.th/news/content/345368
+
+[^32]: https://www.yna.co.kr/view/AKR20241017072900076
