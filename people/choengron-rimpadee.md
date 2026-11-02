@@ -89,6 +89,8 @@ Rimpadee cited overseas operators as one reason fraudulent TDAC websites were di
 
 On June 9, 2025, Choengron Rimpadee, then commander of Immigration Division 2 at Suvarnabhumi Airport, responded to a viral video suggesting that travelers could obtain preferential immigration treatment through payments or personal connections. Rimpadee disputed the allegations, explaining that the immigration officer shown had assisted a Chinese traveler with TDAC registration before directing him through normal passport control procedures.[^8]
 
+Following the June 2025 video alleging bribery and privileged airport entry, the immigration officer depicted filed a defamation complaint against the Chinese visitor. Rimpadee also announced that immigration authorities were pursuing the visitor's visa cancellation and blacklisting.[^8][^24] The response contrasts with his warnings about commercial visa agents claiming immigration connections: while authorities moved to pursue the individual making allegations against an officer, the reviewed reports identify no comparable legal action against businesses advertising privileged immigration access. The disparity raises questions about the bureau's enforcement priorities and its willingness to scrutinize commercial operators as aggressively as critics of its personnel.
+
 More broadly, Rimpadee warned that certain individuals and visa agents were using misleading advertisements and social media content to claim they could arrange entry into Thailand through connections with immigration officials. He also reported that immigration officers had refused entry to approximately 8,193 foreigners between January and May 2025 amid intensified screening of travelers suspected of abusing visa-free entry privileges.[^8]
 
 Commercial services promising special airport treatment nevertheless remained widely advertised. In March 2026, Thai Visa Service published a brochure explicitly guaranteeing entry through Suvarnabhumi and Don Mueang airports, advertising prices ranging from 2,000 to 5,500 baht and claiming to check travelers' status directly with immigration before arrival. The company distinguished its paid "safe entry" service from ordinary airport fast-track assistance.[^9] Separate online discussions described similar VIP airport services offered by Thai Visa Centre, including alleged immigration escorts and guarantees of admission, although those accounts remain unverified.[^10]
@@ -142,3 +144,5 @@ These incidents illustrate a broader commercial market built around claims of pr
 [^22]: https://www.khaosodenglish.com/news/2024/02/29/thailand-records-indonesian-woman-who-made-up-story/
 
 [^23]: `https://tvc.co.th/scam`
+
+[^24]: https://www.thephuketnews.com/chinese-visitor-video-claims-special-connection-in-immigration-96545.php
