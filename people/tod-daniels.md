@@ -18,6 +18,22 @@ Despite the group's acquisition by a commercial visa agency, Daniels remained in
 
 These statements establish that Daniels continued exercising moderation authority within a community owned by Thai Visa Centre years before his enthusiastic November 2025 endorsement of the agency. Whether he received compensation for his moderation activities or subsequent recommendations remains unclear.
 
+## May 2023: Describing Agent-Arranged Retirement Extensions as "Back Door" and "Under the Table"
+
+On May 17, 2023, Tod Daniels participated in an ASEAN NOW discussion involving a foreigner who had obtained a retirement visa and extension through a Bangkok-based agent. The traveler explained that the agency had arranged his immigration paperwork through an office in Trang, despite his living elsewhere in Thailand. He subsequently encountered difficulties obtaining a certificate of residence and questioned whether his immigration records could be transferred to his actual province of residence.[^23]
+
+Daniels responded by explaining that immigration officers could recognize extensions arranged through agents in other provinces. He characterized these arrangements as "back door" and "under the table," while emphasizing that the resulting extensions were genuine immigration stamps rather than outright forgeries.[^23]
+
+His explanation suggested that immigration officers were aware of informal arrangements through which commercial agents obtained extensions at offices outside their customers' provinces of residence. Daniels further claimed that officers might object because another immigration office had handled the unofficial arrangement rather than their own.[^23]
+
+Another participant explicitly asked whether the traveler had used Thai Visa Centre. However, the traveler did not confirm that identification, and Daniels did not name Thai Visa Centre as the agency responsible. The thread therefore provides no basis for attributing this particular extension to the company.[^23]
+
+Nevertheless, Daniels's comments are revealing because they demonstrate his familiarity with questionable practices involving commercial visa agents and immigration offices years before his enthusiastic endorsements of Thai Visa Centre. He openly described an immigration-service market in which agents could obtain genuine government extensions through arrangements he himself characterized as unofficial.
+
+His subsequent praise of Thai Visa Centre's nationwide operations is particularly interesting in this context. In November 2025, Daniels emphasized the agency's ability to serve customers throughout Thailand, distinguishing it from competitors operating through individual immigration offices. Yet his earlier explanation had acknowledged that agents arranging extensions outside customers' provinces could create complications and invite scrutiny from immigration officers.[^1][^23]
+
+The two statements do not establish that Thai Visa Centre engaged in the practices Daniels described in 2023. They do, however, illustrate an important gap in his later endorsements: despite demonstrating knowledge of the potential problems associated with agent-arranged immigration services, he offered little discussion of how prospective customers could verify the legitimacy of an agency's arrangements or avoid the difficulties he had previously identified.
+
 ## December 2023: Describing Border-Run Companies as Having Immigration Crossings "Wheels Greased"
 
 On December 12, 2023, Tod Daniels participated in an ASEAN NOW discussion involving a foreigner holding an education visa extension who wanted to leave Thailand through Cambodia and return immediately on a visa-exempt entry. Daniels advised the traveler to formally cancel his education extension before departing and then hire a commercial border-run service rather than attempting the crossing independently.[^20]
@@ -203,3 +219,4 @@ The discussion does not establish that Thai Visa Centre itself had suspended or 
 [^20]: `https://aseannow.com/topic/1314050-border-run-with-ed-visa-fee-and-test-on-re-entry/`
 [^21]: `https://aseannow.com/topic/1401332-laos-visa-exempt-vs-tourist-visa-and-re-entry/`
 [^22]: `https://aseannow.com/topic/1406166-are-safe-entry-service-still-available/`
+[^23]: `https://aseannow.com/topic/1295041-retirement-visa-change-of-address/`
