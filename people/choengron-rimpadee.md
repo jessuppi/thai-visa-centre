@@ -69,6 +69,14 @@ On October 21, 2025, Choengron Rimpadee rejected reports that Belarusian model V
 
 Although surveillance footage showed no visible coercion during Kravtsova's airport departure, Rimpadee went further, declaring that "There is no abduction of foreigners for human trafficking to neighboring countries as rumored."[^25] That sweeping assurance extended well beyond what one passenger's airport records could establish. The evidence did not resolve whether Kravtsova had been deceptively recruited or whether trafficking networks were facilitating travel through Thailand. Her reported death remained unconfirmed, and Belarusian authorities were still attempting to locate her at the time.[^26] Coming just one month after Rimpadee dismissed Reuters' investigation into suspected immigration involvement in trafficking, the episode highlights a recurring disparity between categorical official denials and publicly documented investigations into the alleged facilitators.[^12][^13]
 
+## October 2025: Rejection of South Korean Kidnapping Reports
+
+On October 22, 2025, The Korea Herald reported that South Korea's Ministry of Foreign Affairs had recorded 11 reported kidnappings of South Korean nationals in Thailand through September 2025, according to data submitted to a South Korean lawmaker. On October 28, Choengron Rimpadee rejected the reports, announcing that Immigration Bureau checks found five individuals had entered and departed Thailand, two had been arrested and deported, and four had no recorded entry into the country. He characterized the reports as misleading and said the bureau had informed the South Korean Embassy of its findings.[^35][^36]
+
+However, Thailand's own Tourist Police Bureau had previously documented the rescue of South Korean nationals allegedly forced to work at a scam operation in Chonburi. On June 21, 2025, officers raided a Pattaya villa following coordination with the South Korean Embassy, rescued victims, and detained 20 South Korean men and one Chinese national. The authorities reported discovering evidence of investment fraud and romance scams.[^37]
+
+The June rescue does not establish that the 11 cases cited in the South Korean reports were accurately described. Nevertheless, it demonstrates that coercion and forced involvement in scam operations had been documented inside Thailand. Immigration departure records alone cannot establish whether a person experienced coercion before leaving the country. Rimpadee's categorical rejection of the kidnapping reports therefore went beyond what the publicly described immigration records could conclusively establish, continuing a pattern also evident in his responses to the Reuters investigation and Belarusian trafficking allegations.[^12][^25][^35][^36][^37]
+
 ## October 2025: KK Park Exodus and Immigration Screening
 
 In October 2025, more than 1,000 foreign nationals fled Myanmar's notorious KK Park scam compound into Thailand following a military operation against the facility. Those crossing into Tak province included nationals of China, India, Vietnam, Ethiopia, Pakistan, Indonesia, and other countries. Thai authorities began screening the arrivals to identify suspected criminal participants and potential trafficking victims.[^16][^17]
@@ -198,3 +206,9 @@ These incidents illustrate a broader commercial market built around claims of pr
 [^33]: https://radiotrat.prd.go.th/th/content/category/detail/id/615/iid/430445
 
 [^34]: https://www.fm91bkk.com/newsarticle/58349
+
+[^35]: https://www.koreaherald.com/article/10598964
+
+[^36]: https://www.thaipbsworld.com/news/thai-immigration-deny-11-south-koreans-were-abducted-in-thailand
+
+[^37]: https://www.touristpolice.go.th/post/tpbnews2025080802
