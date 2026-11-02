@@ -18,6 +18,18 @@ Despite the group's acquisition by a commercial visa agency, Daniels remained in
 
 These statements establish that Daniels continued exercising moderation authority within a community owned by Thai Visa Centre years before his enthusiastic November 2025 endorsement of the agency. Whether he received compensation for his moderation activities or subsequent recommendations remains unclear.
 
+## December 2023: Describing Border-Run Companies as Having Immigration Crossings "Wheels Greased"
+
+On December 12, 2023, Tod Daniels participated in an ASEAN NOW discussion involving a foreigner holding an education visa extension who wanted to leave Thailand through Cambodia and return immediately on a visa-exempt entry. Daniels advised the traveler to formally cancel his education extension before departing and then hire a commercial border-run service rather than attempting the crossing independently.[^20]
+
+Daniels claimed that these companies already had the "wheels greased" at their preferred border crossings, allowing customers to exit Thailand, enter and leave Cambodia, and return to Thailand on the same day. He dismissed the idea of arranging the journey independently to save money, comparing the likely outcome to watching a slow-motion train wreck.[^20]
+
+His remarks went beyond recommending transportation or administrative assistance. Daniels suggested that commercial border-run operators enjoyed established arrangements at particular immigration checkpoints that ordinary travelers could not safely rely upon. He did not explain what these arrangements involved, whether they were officially authorized, or why paying an intermediary would supposedly produce a more favorable immigration outcome.
+
+The expression "wheels greased" is particularly revealing. Although it does not establish that bribery or other misconduct occurred, it strongly suggests that Daniels regarded privileged relationships or informal arrangements with border officials as an advantage worth paying for.
+
+This discussion establishes that Daniels was publicly encouraging travelers to rely on commercially arranged immigration crossings as early as December 2023. His later recommendations of paid airport "safe entry" services followed the same underlying argument: that travelers facing immigration uncertainty should pay private intermediaries who supposedly possessed connections or capabilities unavailable through ordinary government procedures.
+
 ## June 2024: Advising Travelers to Refuse Immigration Paperwork and Use Paid Border Intermediaries
 
 On June 22, 2024, Tod Daniels published a lengthy ASEAN NOW guide advising foreigners who had been refused entry to Thailand. Among his recommendations, Daniels explicitly instructed travelers denied entry at airports not to sign official Thai immigration refusal forms. He claimed that refusing to sign would prevent officers from placing a visible denial-of-entry stamp in their passports, although the refusal would still be recorded in the government's immigration database.[^9]
@@ -156,3 +168,4 @@ Daniels again recommended Thai Visa Centre without mentioning his acknowledged r
 [^17]: `https://thethaiger.com/news/national/ive-been-denied-entry-to-thailand-now-what`
 [^18]: `https://www.nationthailand.com/in-focus/30392449`
 [^19]: `https://thethaiger.com/guides/visa-information/thai-visa-centre-accuses-former-employee-of-stealing-from-a-family-seeking-to-travel-to-thailand`
+[^20]: `https://aseannow.com/topic/1314050-border-run-with-ed-visa-fee-and-test-on-re-entry/`
