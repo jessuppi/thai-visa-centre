@@ -84,6 +84,20 @@ Daniels claimed his endorsement was based on feedback from numerous customers he
 
 His endorsement is particularly noteworthy because it came more than five years after Thai authorities publicly accused Thai Visa Centre's alleged operators of visa and document forgery during the August 2020 police investigation. Daniels did not address that history in his recommendation, nor did he clarify whether he received compensation or other benefits from moderating the company-owned community.
 
+## January 2026: Recommending Thai Visa Centre Before a Traveler Reports Purchasing Paid Entry Assistance
+
+On January 6, 2026, Tod Daniels responded to an ASEAN NOW member who had spent approximately 270 days in Thailand during 2025 using visa-exempt entries. The traveler was temporarily staying in Vietnam and expressed concern about being refused entry when returning to Bangkok. Daniels warned that the traveler belonged to precisely the category of foreigners Thai immigration authorities were targeting for denial of entry.[^14]
+
+Daniels strongly recommended considering a commercial "safe entry" service and identified three companies he described as the industry's major providers: Thai Visa Service, Thai Visa Centre, and Friendly Thai Visa. He included their website addresses, explicitly directing the traveler toward commercial immigration assistance.[^14]
+
+Notably, Daniels did not mention his existing relationship with Thai Visa Centre in this recommendation. Just two months earlier, he had publicly acknowledged moderating a Facebook group owned by the company while denying any personal affiliation. His January recommendation again presented Thai Visa Centre as an independent option without disclosing that connection to readers of the discussion.[^1][^14]
+
+On January 13, the same traveler returned to the thread, quoted Daniels's earlier recommendation, and reported successfully entering Thailand using a paid "safe entry" service. The traveler stated that immigration officers had admitted him without questioning and subsequently confirmed paying 4,500 baht for the arrangement.[^14]
+
+Although the traveler did not identify which company provided the service, the exchange documents a particularly relevant sequence: Daniels warned of a substantial risk of refusal, recommended Thai Visa Centre alongside two competitors, and the traveler subsequently reported purchasing commercial entry assistance.
+
+The discussion does not establish that Daniels received compensation, that Thai Visa Centre handled the booking, or that the traveler would otherwise have been refused entry. Nevertheless, it demonstrates how Daniels's immigration warnings and commercial recommendations reached travelers who ultimately spent money on the services he promoted. Whether such services were genuinely necessary or provided any advantage beyond ordinary immigration procedures remains unverified.
+
 ## February 2026: Warning Travelers of Denied Entry While Promising Guaranteed Admission Through Visa Agents
 
 On February 18, 2026, Tod Daniels responded to an ASEAN NOW member who was concerned about reentering Thailand after several visa-exempt stays while awaiting resolution of financial matters affecting his marriage-based extension. Daniels criticized the traveler's immigration history, suggested that immigration officers would no longer regard him as a genuine tourist, and warned that attempting to reenter independently would likely result in detention and refusal of entry.[^8]
@@ -109,3 +123,4 @@ The contrast is striking: Daniels presented ordinary entry procedures as highly 
 [^11]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/4/`
 [^12]: `https://aseannow.com/topic/1345519-safe-entry-services-bkk-airport/`
 [^13]: `https://aseannow.com/topic/1374954-vientiane-e-visa-after-9-months-in-thailand/`
+[^14]: `https://aseannow.com/topic/1378770-new-rules-issued-for-visa-extensions-and-visa-exempt-entries/page/15/`
