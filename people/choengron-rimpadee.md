@@ -3,6 +3,18 @@
 Police Major General Choengron Rimpadee (เชิงรณ ริมผดี) is a senior Royal Thai Police officer who commanded Immigration Division 2 at Suvarnabhumi Airport during the 2025 rollout of Thailand's Digital Arrival Card (TDAC) system before becoming deputy commissioner and spokesperson for the Immigration Bureau. On March 29, 2026, he publicly warned that at least 10% of foreign arrivals had registered through fraudulent TDAC websites that were not connected to the government's immigration system, with some charging travelers for a service that is officially free. Rimpadee directed travelers to the legitimate government portal, `tdac.immigration.go.th`, warned that personal information submitted to fraudulent websites could be misused, and confirmed that immigration authorities were coordinating efforts to shut down these operations and pursue legal action.[^1][^2]
 
 
+## March 2024: Paid Airport Fast-Track Warnings and Unresolved Enforcement
+
+The problem of paid airport privileges had already exposed misconduct within the Royal Thai Police. In January 2023, authorities investigated four officers accused of providing paid escort services to Chinese tourists arriving at Suvarnabhumi Airport. Investigators found that officers had used private vehicles fitted with unauthorized sirens and police-style markings. All four were removed from their regular duties and transferred pending disciplinary and criminal proceedings. The incident predated Choengron Rimpadee's subsequent warnings and does not establish his personal involvement.[^15]
+
+On March 27, 2024, Rimpadee, then commander of Immigration Division 2 and an Immigration Bureau spokesperson, publicly identified a Facebook page called `richcarsbangkok` advertising airport immigration fast-track services for 2,900 baht per flight. He stated that no private company was authorized to sell access to immigration fast-track lanes at Suvarnabhumi or Don Mueang airports. Special immigration channels, he explained, were restricted to eligible passenger categories rather than customers paying private agents.[^14]
+
+Rimpadee said authorities had investigated the advertisement, determined its claims were false, and were examining other businesses promoting similar services with a view to taking legal action. His warning was published on an official Immigration Division 2 website, demonstrating that authorities were aware of the commercial advertising and had identified at least one operator by name.[^14]
+
+Yet comparable claims continued appearing in later years. In March 2026, Thai Visa Service advertised paid airport "safe entry" packages costing between 2,000 and 5,500 baht, while a June 2026 investigation concerned brokers allegedly charging 4,500–12,000 baht for guaranteed entry and possible assistance from immigration officers. These services were not necessarily identical to the fast-track product Rimpadee condemned, but they demonstrate the persistence of businesses marketing privileged access to immigration procedures.[^9][^11]
+
+The available reports do not establish what legal consequences, if any, followed the investigation of `richcarsbangkok`, or whether similar advertisers faced consistent enforcement. Given the earlier misconduct involving serving police officers, assurances that unauthorized fast-track services do not officially exist are insufficient to establish that such arrangements cannot occur. The repeated cycle of public warnings, promised investigations, and continuing advertisements raises legitimate questions about enforcement effectiveness, transparency, and the Immigration Bureau's willingness to confront possible internal complicity.
+
 ## April 2025: Launch of Thailand's Digital Arrival Card
 
 In April 2025, Choengron Rimpadee, then commander of Immigration Division 2 at Suvarnabhumi Airport, publicly explained Thailand's new Digital Arrival Card (TDAC) system ahead of its nationwide launch on May 1. The system replaced paper arrival cards with mandatory online registration for foreign travelers entering Thailand by air, land, or sea. Registration opened on April 28 for travelers arriving from May 1 onward.[^1][^4]
@@ -76,3 +88,7 @@ The central accountability question is whether the Immigration Bureau investigat
 [^12]: https://www.reuters.com/graphics/SOUTHEASTASIA-SCAMS/mypmxwdwwvr/
 
 [^13]: https://www.khaosodenglish.com/featured/2025/09/20/thai-immigration-bureau-disputes-reuters-scam-trafficking-story/
+
+[^14]: https://www.voabkkimmigration.go.th/ตม-2-เตือนเพจปลอมอ้างจ่าย/
+
+[^15]: https://www.thaipbsworld.com/crime/police-officers-providing-escort-service-to-chinese-tourists-face-criminal-probe
