@@ -103,6 +103,8 @@ Commercial services promising special airport treatment nevertheless remained wi
 
 On June 23, 2026, Immigration Division 2, by then under a different commander, announced an investigation into alleged Chinese-linked "bao guan" brokers demanding between 4,500 and 12,000 baht for supposedly guaranteed entry into Thailand. Authorities established a fact-finding committee to investigate the brokers and determine whether immigration officers had participated in the arrangements. No finding of official involvement was established by the announcement.[^11]
 
+At the same June 2026 briefing, Immigration Division 2 reported that 13,229 foreigners had been refused entry since the beginning of the year. Officials suggested that Chinese agents might be exploiting stricter screening to inflate their fees, while also acknowledging allegations that immigration officers themselves were involved in setting prices.[^11][^27] Despite detailed statistics on enforcement against individual travelers, the reviewed reports provide no findings from the promised investigation, identify no brokers prosecuted, and document no disciplinary outcomes involving immigration personnel. The contrast reinforces a recurring concern throughout Rimpadee's earlier warnings: authorities readily publicize enforcement against foreigners while providing considerably less transparency about investigations into the commercial operators and officials allegedly facilitating immigration abuse.[^14]
+
 These incidents illustrate a broader commercial market built around claims of privileged airport access, immigration connections, and guaranteed admission. Rimpadee's earlier warnings directly addressed this type of marketing, but the available public record does not explain which private arrangements immigration authorities considered legitimate, how they investigated individual providers, or whether similar claims were consistently scrutinized across different agencies.
 
 [^1]: https://e.vnexpress.net/news/travel/visa/thailand-s-new-digital-arrival-cards-to-help-improve-screening-of-transnational-criminals-4880084.html
@@ -156,3 +158,5 @@ These incidents illustrate a broader commercial market built around claims of pr
 [^25]: https://www.khaosodenglish.com/news/2025/10/21/thai-police-release-cctv-dismissing-belarusian-model-abduction-claims/
 
 [^26]: https://english.dvb.no/belarusian-models-disappearance-in-myanmar-sparks-conflicting-reports-of-murder-and-travel/
+
+[^27]: https://www.thansettakij.com/business/tourism/662039
