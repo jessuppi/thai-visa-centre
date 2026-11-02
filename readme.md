@@ -114,4 +114,5 @@ The goal is to document these connections through historical records, archived w
 
 | Date | Platform | Thread | Summary |
 |---|---|---|---|
+| 2020-08-12 | ASEAN NOW (ThaiVisa.com) | [Grace @ Thai Visa Centre back](threads/2020-08-12-asean-now-grace-thai-visa-centre-back.md) | Forum discussion following the August 2020 police raid, including a reproduced email from Grace claiming the agency was legitimate and still operating, questions about unsolicited marketing, and debate over the investigation. |
 | 2025-11-12 | Reddit (r/Thailand) | [Aggressive Reddit manipulation by Thai visa agents](threads/2025-11-12-reddit-visa-agent-manipulation.md) | Discussion alleging coordinated downvoting, spam reports, and sockpuppet activity involving visa agencies, including Thai Visa Centre; includes user experiences, an agency-named account's response, and moderators' explanation of Reddit removals. |
