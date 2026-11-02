@@ -10,6 +10,18 @@ Despite the group's acquisition by a commercial visa agency, Daniels remained in
 
 These statements establish that Daniels continued exercising moderation authority within a community owned by Thai Visa Centre years before his enthusiastic November 2025 endorsement of the agency. Whether he received compensation for his moderation activities or subsequent recommendations remains unclear.
 
+## May 2025: Describing Paid Airport Entry Arrangements With Thai Immigration Officers
+
+On May 25, 2025, Tod Daniels participated in an ASEAN NOW discussion involving a traveler who had been denied entry to Thailand. Daniels claimed that commercial "safe entry" services could secure admission regardless of a traveler's previous immigration history, including prior refusals of entry. He distinguished these services from ordinary airport fast-track arrangements, which merely allow travelers to bypass queues without influencing an immigration officer's decision.[^7]
+
+On May 26, Daniels explicitly recommended Thai Visa Centre, claiming that its airport entry service cost 2,000 baht for ordinary cases and 4,000 baht for more difficult applicants. He directed readers to `tdac.agents.co.th`, explaining that the paid service could be selected as an add-on during the company's TDAC submission process.[^7]
+
+Later in the same discussion, ASEAN NOW moderator BrandonJT described how private visa agents allegedly submit customers' passport information to contacts inside Thai airports, obtain advance approval, and arrange for immigration officers to personally escort paying customers through passport control. Daniels endorsed this explanation as "100% exactly how Safe Entry works" and claimed that agents could access travelers' immigration records through their contacts, including information about previous entry refusals.[^7]
+
+These extraordinary statements describe a purported arrangement in which commercial visa agencies use personal connections with Thai immigration personnel to obtain privileged access to government records and facilitate admission for paying customers. If accurate, such arrangements raise serious questions about immigration corruption, unauthorized access to personal information, and unequal enforcement of Thailand's entry requirements.
+
+Daniels offered no official documentation establishing that private visa agencies were authorized to access government immigration databases or arrange preferential admission through individual officers. Nevertheless, he publicly promoted Thai Visa Centre's paid service while presenting these alleged arrangements as established industry practices.[^7]
+
 ## September 2025: Directing Travelers to Thai Visa Centre's Paid TDAC Service
 
 On September 6, 2025, Tod Daniels participated in an ASEAN NOW discussion involving a traveler concerned about possible immigration problems following a historical overstay. After the traveler explained that he had contacted Thai Visa Centre about its airport "safe entry" service, Daniels confirmed that the agency offered such assistance and explained how to purchase it.
@@ -36,3 +48,4 @@ His endorsement is particularly noteworthy because it came more than five years 
 [^4]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/3/`
 [^5]: `https://tdac.immigration.go.th/manual/en/faq.html`
 [^6]: `https://archive.ph/AuDzg`
+[^7]: `https://aseannow.com/topic/1361730-access-denied-to-enter-in-thailand/page/2/`
