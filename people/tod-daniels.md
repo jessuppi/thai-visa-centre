@@ -34,7 +34,7 @@ These extraordinary statements describe a purported arrangement in which commerc
 
 Daniels offered no official documentation establishing that private visa agencies were authorized to access government immigration databases or arrange preferential admission through individual officers. Nevertheless, he publicly promoted Thai Visa Centre's paid service while presenting these alleged arrangements as established industry practices.[^7]
 
-## September 2025: Directing Travelers to Thai Visa Centre's Paid TDAC Service
+## September 2025: Directing Travelers to Paid Services, Then Conceding They May Be Unnecessary
 
 On September 6, 2025, Tod Daniels participated in an ASEAN NOW discussion involving a traveler concerned about possible immigration problems following a historical overstay. After the traveler explained that he had contacted Thai Visa Centre about its airport "safe entry" service, Daniels confirmed that the agency offered such assistance and explained how to purchase it.
 
@@ -43,6 +43,14 @@ Daniels instructed the traveler to complete Thai Visa Centre's TDAC application 
 The recommendation directed a traveler seeking immigration advice toward a commercial TDAC submission website, despite Thailand's Immigration Bureau providing the official TDAC application free of charge at `tdac.immigration.go.th`. Daniels did not mention the free government alternative in his response.[^5]
 
 This documented referral demonstrates Daniels actively directing potential customers toward Thai Visa Centre's commercial services, rather than merely expressing favorable opinions about the agency. It also predates his November 2025 statement denying any personal affiliation with the company.
+
+On September 10, 2025, the same traveler reported contacting Thai Visa Centre through LINE. According to the traveler, the agency offered to investigate whether a historical immigration problem could prevent his return to Thailand and quoted approximately 10,000 baht for assistance. The traveler understood that the service involved checking his immigration status through contacts at Bangkok's international airport, although that purported access was not independently verified.[^11]
+
+When another forum participant argued that hiring a paid entry agent would be a waste of money, Daniels reacted dismissively. He insisted that commercial "safe entry" services guaranteed admission without questioning or complications. Yet, in the same response, he acknowledged that the traveler probably did not need such a service, arguing that the expense could nevertheless provide peace of mind.[^11]
+
+The exchange became more revealing when the critic pointed out that the traveler's overstay dated back more than two decades and was unlikely to justify a current entry ban. Daniels subsequently conceded the point, stating that the traveler should be able to enter without paid assistance and explicitly acknowledging, "I stand corrected."[^11]
+
+This sequence raises an important question about the quality and independence of Daniels's recommendations. He encouraged a traveler to consult commercial entry services, defended their purported guarantees, and justified their cost before ultimately agreeing that the traveler likely needed no such assistance. The traveler had already contacted Thai Visa Centre and received a substantial price quotation. The record does not establish that a purchase occurred or that Daniels received any financial benefit, but it documents how his initial advice could steer travelers toward unnecessary commercial immigration services.
 
 ## November 2025: Publicly Endorsing Thai Visa Centre While Denying Affiliation
 
@@ -74,3 +82,4 @@ The contrast is striking: Daniels presented ordinary entry procedures as highly 
 [^8]: `https://aseannow.com/topic/1387557-has-the-visa-exempt-fuss-calmed-down-in-2026/`
 [^9]: `https://aseannow.com/topic/1330417-ive-been-denied-entry-to-thailand-now-what/`
 [^10]: `https://aseannow.com/topic/1330417-ive-been-denied-entry-to-thailand-now-what/page/2/`
+[^11]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/4/`
