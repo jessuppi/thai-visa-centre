@@ -45,6 +45,12 @@ These responses challenged elements of one account but did not publicly resolve 
 
 The central accountability question is whether the Immigration Bureau investigated possible misconduct by its own personnel with the same urgency it devoted to rejecting the reporting. The public responses reviewed did not present findings from an independent inquiry into the six accounts, a comprehensive examination of airport surveillance and access records, or disciplinary outcomes. This does not establish that immigration officers participated in trafficking, or that Choengron was personally involved. It does, however, expose a significant gap between categorical official denials and publicly demonstrated scrutiny of serious corruption allegations.
 
+## October 2025: Rejection of Belarusian Model Trafficking Allegations
+
+On October 21, 2025, Choengron Rimpadee rejected reports that Belarusian model Vera Kravtsova had been abducted in Thailand and trafficked to Myanmar. He cited biometric records and airport surveillance footage showing that she departed Suvarnabhumi Airport alone on September 20, using an automated passport-control gate without visible signs of coercion. Immigration authorities released the footage and maintained that events following her arrival in Myanmar were outside Thai jurisdiction.[^25]
+
+The evidence addressed allegations of a forcible abduction at the airport but could not establish whether Kravtsova had been deceptively recruited or subsequently coerced. Reports of her death remained unverified, with Belarusian authorities still attempting to locate her at the time.[^26] Coming just one month after Rimpadee dismissed Reuters' investigation into trafficking through Bangkok airports, the response again demonstrated the bureau's willingness to examine surveillance and immigration records to rebut allegations, while the reviewed reports documented no comparable investigation into the recruiters or intermediaries potentially involved.[^12][^13][^25]
+
 ## October 2025: KK Park Exodus and Immigration Screening
 
 In October 2025, more than 1,000 foreign nationals fled Myanmar's notorious KK Park scam compound into Thailand following a military operation against the facility. Those crossing into Tak province included nationals of China, India, Vietnam, Ethiopia, Pakistan, Indonesia, and other countries. Thai authorities began screening the arrivals to identify suspected criminal participants and potential trafficking victims.[^16][^17]
@@ -146,3 +152,7 @@ These incidents illustrate a broader commercial market built around claims of pr
 [^23]: `https://tvc.co.th/scam`
 
 [^24]: https://www.thephuketnews.com/chinese-visitor-video-claims-special-connection-in-immigration-96545.php
+
+[^25]: https://www.khaosodenglish.com/news/2025/10/21/thai-police-release-cctv-dismissing-belarusian-model-abduction-claims/
+
+[^26]: https://english.dvb.no/belarusian-models-disappearance-in-myanmar-sparks-conflicting-reports-of-murder-and-travel/
