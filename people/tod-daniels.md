@@ -46,23 +46,23 @@ These extraordinary statements describe a purported arrangement in which commerc
 
 Daniels offered no official documentation establishing that private visa agencies were authorized to access government immigration databases or arrange preferential admission through individual officers. Nevertheless, he publicly promoted Thai Visa Centre's paid service while presenting these alleged arrangements as established industry practices.[^7]
 
-## September 2025: Directing Travelers to Paid Services, Then Conceding They May Be Unnecessary
+## September 2025: Recommending Paid Entry Services and Later Conceding They May Be Unnecessary
 
-On September 6, 2025, Tod Daniels participated in an ASEAN NOW discussion involving a traveler concerned about possible immigration problems following a historical overstay. After the traveler explained that he had contacted Thai Visa Centre about its airport "safe entry" service, Daniels confirmed that the agency offered such assistance and explained how to purchase it.
+In early September 2025, Tod Daniels participated in an ASEAN NOW discussion involving a traveler concerned about possible immigration problems following an overstay more than two decades earlier. Daniels recommended Thai Visa Service, also known as SWD Transport, claiming that the company could check the traveler's immigration history before he attempted to return to Thailand.[^4]
 
-Daniels instructed the traveler to complete Thai Visa Centre's TDAC application form at `agents.co.th/tdac-apply` and select a paid add-on during the second step. He explained that the agency would then use the submission to begin assessing the traveler's eligibility for its service.[^4]
+On September 6, the traveler explained that he had separately contacted Thai Visa Centre. ASEAN NOW moderator BrandonJT, rather than Daniels, confirmed that Thai Visa Centre offered airport "safe entry" assistance and instructed the traveler to complete the agency's TDAC application at `agents.co.th/tdac-apply`, selecting a paid add-on during the second step.[^4]
 
-The recommendation directed a traveler seeking immigration advice toward a commercial TDAC submission website, despite Thailand's Immigration Bureau providing the official TDAC application free of charge at `tdac.immigration.go.th`. Daniels did not mention the free government alternative in his response.[^5]
+BrandonJT's recommendation directed the traveler toward a commercial TDAC submission service despite Thailand's Immigration Bureau providing the official application free of charge at `tdac.immigration.go.th`. The moderator did not mention the free government alternative in that response.[^4][^5]
 
-This documented referral demonstrates Daniels actively directing potential customers toward Thai Visa Centre's commercial services, rather than merely expressing favorable opinions about the agency. It also predates his November 2025 statement denying any personal affiliation with the company.
+On September 9, Daniels returned to the discussion and asked whether the traveler had contacted a "safe entry" company. The following day, the traveler reported communicating with Thai Visa Centre through LINE and described a potential fee of approximately 10,000 baht. He also claimed to understand that the agency could check immigration records through contacts at Bangkok's international airport, although this alleged access was not independently verified.[^11]
 
-On September 10, 2025, the same traveler reported contacting Thai Visa Centre through LINE. According to the traveler, the agency offered to investigate whether a historical immigration problem could prevent his return to Thailand and quoted approximately 10,000 baht for assistance. The traveler understood that the service involved checking his immigration status through contacts at Bangkok's international airport, although that purported access was not independently verified.[^11]
+When another participant argued that hiring a paid agent would be a waste of money, Daniels reacted dismissively. He insisted that commercial "safe entry" services guaranteed admission without questions or complications. Yet, in the same response, he acknowledged that the traveler probably did not need such assistance, arguing that the expense could nevertheless provide peace of mind.[^11]
 
-When another forum participant argued that hiring a paid entry agent would be a waste of money, Daniels reacted dismissively. He insisted that commercial "safe entry" services guaranteed admission without questioning or complications. Yet, in the same response, he acknowledged that the traveler probably did not need such a service, arguing that the expense could nevertheless provide peace of mind.[^11]
+After further criticism, Daniels conceded that the traveler should be able to enter without paying an agent, explicitly acknowledging, "I stand corrected." The traveler subsequently shared a separate quotation of 10,000 baht from Thai Visa Service, which Daniels attributed partly to additional scrutiny of Turkish passport holders.[^11][^15]
 
-The exchange became more revealing when the critic pointed out that the traveler's overstay dated back more than two decades and was unlikely to justify a current entry ban. Daniels subsequently conceded the point, stating that the traveler should be able to enter without paid assistance and explicitly acknowledging, "I stand corrected."[^11]
+The distinction between the participants is important: the specific instructions for purchasing Thai Visa Centre's paid TDAC add-on came from BrandonJT, not Daniels. Nevertheless, Daniels repeatedly encouraged the traveler to consult commercial entry services, defended their purported guarantees, and justified their expense before ultimately agreeing that paid assistance was probably unnecessary.
 
-This sequence raises an important question about the quality and independence of Daniels's recommendations. He encouraged a traveler to consult commercial entry services, defended their purported guarantees, and justified their cost before ultimately agreeing that the traveler likely needed no such assistance. The traveler had already contacted Thai Visa Centre and received a substantial price quotation. The record does not establish that a purchase occurred or that Daniels received any financial benefit, but it documents how his initial advice could steer travelers toward unnecessary commercial immigration services.
+The discussion illustrates how immigration advice from multiple influential forum contributors could direct travelers toward commercial services. It does not establish that the traveler purchased either company's assistance or that Daniels received any financial benefit.
 
 ## October 2025: Recommending Paid Entry Services Instead of Tourist Visas
 
@@ -124,3 +124,4 @@ The contrast is striking: Daniels presented ordinary entry procedures as highly 
 [^12]: `https://aseannow.com/topic/1345519-safe-entry-services-bkk-airport/`
 [^13]: `https://aseannow.com/topic/1374954-vientiane-e-visa-after-9-months-in-thailand/`
 [^14]: `https://aseannow.com/topic/1378770-new-rules-issued-for-visa-extensions-and-visa-exempt-entries/page/15/`
+[^15]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/5/`
