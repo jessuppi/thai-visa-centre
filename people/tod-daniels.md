@@ -64,6 +64,18 @@ The exchange became more revealing when the critic pointed out that the traveler
 
 This sequence raises an important question about the quality and independence of Daniels's recommendations. He encouraged a traveler to consult commercial entry services, defended their purported guarantees, and justified their cost before ultimately agreeing that the traveler likely needed no such assistance. The traveler had already contacted Thai Visa Centre and received a substantial price quotation. The record does not establish that a purchase occurred or that Daniels received any financial benefit, but it documents how his initial advice could steer travelers toward unnecessary commercial immigration services.
 
+## October 2025: Recommending Paid Entry Services Instead of Tourist Visas
+
+On October 3, 2025, Tod Daniels participated in an ASEAN NOW discussion involving a foreigner who had spent approximately nine months in Thailand and was considering applying for a tourist e-visa in Vientiane, Laos. Daniels warned that the traveler's immigration history placed him at substantial risk of being refused entry, even with a valid tourist visa. He urged the traveler to use either a commercial border-run company or a paid airport "safe entry" provider instead.[^13]
+
+On October 4, Daniels went further, arguing that obtaining a tourist visa was unnecessary if the traveler arranged paid "safe entry" assistance. He recommended flying out of Thailand and immediately returning through an agent, claiming the traveler would receive another 60-day visa-exempt entry without problems. His advice effectively presented a privately arranged immigration service as a more reliable alternative to applying for a visa through an official Thai consulate.[^13]
+
+On October 5, Daniels identified SWD Transport, also known as Thai Visa Service, as the country's largest provider of these arrangements. He claimed that most companies advertising "safe entry" services simply collected a commission and passed their customers to SWD Transport, which he described as having connections inside Thai airports.[^13]
+
+This account differed noticeably from Daniels's statements in December 2024, when he had identified SR Services as the underlying operator handling customers for most advertised "safe entry" companies. Within ten months, Daniels had attributed the majority of this supposedly subcontracted business to two different companies, without explaining the change or providing evidence supporting either assertion.[^12][^13]
+
+The inconsistency raises questions about the reliability of Daniels's claimed industry knowledge. He repeatedly portrayed commercial intermediaries as capable of securing immigration outcomes through airport connections, while offering little verifiable information about the companies actually delivering those services. His recommendation to abandon the ordinary tourist visa application process in favor of paid assistance also illustrates how confidently he promoted informal commercial arrangements over established immigration procedures.
+
 ## November 2025: Publicly Endorsing Thai Visa Centre While Denying Affiliation
 
 On November 11, 2025, Tod Daniels participated in an ASEAN NOW discussion about Thai Visa Centre, which also maintained an account on the forum labeled "Forum Sponsor." Daniels described the agency as the "best marketed, most well managed visa agency in Thailand," praising its nationwide operations, reliability, pricing, and customer service.[^1][^6]
@@ -96,3 +108,4 @@ The contrast is striking: Daniels presented ordinary entry procedures as highly 
 [^10]: `https://aseannow.com/topic/1330417-ive-been-denied-entry-to-thailand-now-what/page/2/`
 [^11]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/4/`
 [^12]: `https://aseannow.com/topic/1345519-safe-entry-services-bkk-airport/`
+[^13]: `https://aseannow.com/topic/1374954-vientiane-e-visa-after-9-months-in-thailand/`
