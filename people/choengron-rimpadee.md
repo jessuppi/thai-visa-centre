@@ -83,7 +83,7 @@ In May 2025, the official ThaiVisaCentre account on ASEAN NOW explicitly identif
 
 The omission is particularly striking because Thailand's Immigration Bureau had already issued broader warnings against unofficial registration websites. In January 2026, Thailand's Anti-Fake News Center published an Immigration Bureau clarification identifying `tdac.immigration.go.th` as the only official registration portal and describing other websites offering comparable registration services as unaffiliated and fake.[^7]
 
-Despite Rimpadee's prominent role in implementing TDAC and his subsequent public statements about enforcement against fraudulent websites, the reviewed reports provide no explanation for the exclusion of these Thai-operated domains or documentation of enforcement action against their operators. The continued promotion of these services raises serious questions about the consistency of immigration authorities' warnings and enforcement priorities, particularly when other commercial TDAC websites were publicly identified by name.
+Rimpadee cited overseas operators as one reason fraudulent TDAC websites were difficult to shut down. Yet Thai Visa Centre's own website identifies AGENTS CO., LTD., the company behind its TDAC services, as registered in Thailand under DBD number `0115562031107`.[^23] Thai registration does not establish wrongdoing or prove where the websites are hosted. But it raises a more direct enforcement question: why were `tdac.in.th` and `tdac.agents.co.th` absent from the bureau's named warnings when their operator was publicly identifiable in Thailand? The reviewed reports offer no explanation for the omission or evidence of enforcement action against that operator.[^2][^3][^5]
 
 ## 2025–2026: Airport Entry Brokers Claiming Immigration Connections
 
@@ -140,3 +140,5 @@ These incidents illustrate a broader commercial market built around claims of pr
 [^21]: https://www.nationthailand.com/thailand/general/40035989
 
 [^22]: https://www.khaosodenglish.com/news/2024/02/29/thailand-records-indonesian-woman-who-made-up-story/
+
+[^23]: `https://tvc.co.th/scam`
