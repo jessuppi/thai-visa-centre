@@ -3,6 +3,16 @@
 Police Major General Choengron Rimpadee (เชิงรณ ริมผดี) is a senior Royal Thai Police officer who commanded Immigration Division 2 at Suvarnabhumi Airport during the 2025 rollout of Thailand's Digital Arrival Card (TDAC) system before becoming deputy commissioner and spokesperson for the Immigration Bureau. On March 29, 2026, he publicly warned that at least 10% of foreign arrivals had registered through fraudulent TDAC websites that were not connected to the government's immigration system, with some charging travelers for a service that is officially free. Rimpadee directed travelers to the legitimate government portal, `tdac.immigration.go.th`, warned that personal information submitted to fraudulent websites could be misused, and confirmed that immigration authorities were coordinating efforts to shut down these operations and pursue legal action.[^1][^2]
 
 
+## February 2024: CCTV Investigation and Monitoring of an Indonesian Tourist
+
+On February 28, 2024, Choengron Rimpadee publicly disputed allegations made by an Indonesian TikTok user who claimed her husband had been refused entry at Don Mueang Airport because he lacked sufficient cash. The woman said the incident forced them to cancel their honeymoon in Thailand and travel to Japan instead.[^21]
+
+Rimpadee announced that Immigration Division 2 had examined passenger records and airport surveillance footage. According to the investigation, the woman arrived alone on January 4 and departed Thailand on January 16, contradicting her account of immediately leaving with her husband. Rimpadee presented the findings to representatives of the Indonesian Embassy and the Tourism Authority of Thailand, maintaining that the allegations against immigration officers were fabricated.[^21]
+
+Khaosod English subsequently reported that the Immigration Bureau had entered the woman's conduct into its Advance Passenger Processing System (APPS) notification database to monitor her future travel to Thailand. The report did not identify a separate immigration offense committed by the woman. This raises questions about the use of passenger-monitoring systems in response to public criticism of immigration authorities.[^22]
+
+The investigation also demonstrates that Immigration Division 2 could examine travel records, obtain surveillance footage, and publicly present detailed findings when responding to allegations against its officers. By comparison, Rimpadee's September 2025 rebuttal of Reuters' airport-trafficking investigation did not publicly document an equivalent examination of all six witnesses' accounts of suspected immigration involvement.[^12][^13]
+
 ## March 2024: Paid Airport Fast-Track Warnings and Unresolved Enforcement
 
 The problem of paid airport privileges had already exposed misconduct within the Royal Thai Police. In January 2023, authorities investigated four officers accused of providing paid escort services to Chinese tourists arriving at Suvarnabhumi Airport. Investigators found that officers had used private vehicles fitted with unauthorized sirens and police-style markings. All four were removed from their regular duties and transferred pending disciplinary and criminal proceedings. The incident predated Choengron Rimpadee's subsequent warnings and does not establish his personal involvement.[^15]
@@ -124,3 +134,7 @@ Although the Immigration Bureau published statistics on refused travelers and an
 [^19]: https://www.khaosodenglish.com/tourism/2025/11/25/thailand-tightens-visa-run-controls-denies-impact-on-legitimate-tourism/
 
 [^20]: https://www.thephuketnews.com/phuket-immigration-spells-out-visa-free-crackdown-98324.php
+
+[^21]: https://www.nationthailand.com/thailand/general/40035989
+
+[^22]: https://www.khaosodenglish.com/news/2024/02/29/thailand-records-indonesian-woman-who-made-up-story/
