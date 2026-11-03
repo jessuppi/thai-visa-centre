@@ -26,6 +26,12 @@ Although Atthaphon was still heading Chainat Immigration on January 9, 2025, off
 
 By May 27, 2025, Atthaphon had been identified as an inspector at the Bangkok Port Immigration Checkpoint. The Duang Prateep Foundation reported that he and colleagues visited the foundation to donate rice and adult diapers. This confirms that he had moved to another immigration posting following his tenure in Chainat, although the exact date of his transfer remains unclear.[^15][^18][^19]
 
+## Academic Research and Publications
+
+In addition to his immigration-police career, Atthaphon Sirilatthayakorn has contributed to academic research in public administration. In July 2020, the *Research Community and Social Development Journal* published a study he co-authored examining how Thai organizations could become learning organizations within the country's cultural context. The journal identified him as affiliated with Rattana Bundit University.[^21]
+
+In December 2022, he co-authored another paper, "Applying Qualitative Research in Public Administration," published in the *Journal of the Public Administration Association of Thailand*. The paper identified him as "Pol. Maj. Dr. Artthapol Sirilatthayakorn," affiliated with Rattana Bundit University, and provided an official Royal Thai Police email address.[^22]
+
 ## May 2024: Anti-Trafficking Operations in Chainat
 
 On May 15, 2024, while serving as head of Chainat Provincial Immigration, Atthaphon directed officers from its investigation and suppression unit to participate in the province's eighth labor anti-trafficking committee meeting of the year. The meeting was held at the provincial Ministry of Labour government complex, and officers also inspected two businesses considered potentially at risk in Wat Sing District. Chainat Immigration reported that neither inspection uncovered any violations. The announcement identifies Atthaphon as supervising the operation but does not establish whether he personally attended the meeting or inspections.[^17]
@@ -97,3 +103,7 @@ The plan called for supervisory checks, anti-bribery briefings, public complaint
 [^19]: https://scontent.fcgk6-3.fna.fbcdn.net/v/t39.30808-6/886731584_1587898320031238_3384267257813496148_n.avif?stp=dst-jpg_tt6&cstp=mx1477x1108&ctp=s1477x1108&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=UXEFYJILNvMQ7kNvwH-47KM&_nc_oc=AdpwK6naQxluTF09kwk_ZDeSF_bIfO9FF5bVB12Ug6vzJtdXLVcEIpwX3Mq2vYipiqs&_nc_zt=23&_nc_ht=scontent.fcgk6-3.fna&_nc_gid=yz4_hbQ-vcBkQdiCFscChQ&_nc_ss=7b2a8&oh=00_AQT-ON9OMpEfl1dyro6THMV1VZJoFI-lhB277W5Hnjg6Bg&oe=6AEF947D
 
 [^20]: https://www.isranews.org/article/isranews-scoop/135111-isranews-381.html
+
+[^21]: https://so04.tci-thaijo.org/index.php/NRRU/article/view/241413
+
+[^22]: https://so10.tci-thaijo.org/index.php/paatj/article/download/433/350/932
