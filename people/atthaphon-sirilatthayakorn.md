@@ -46,7 +46,9 @@ Police arrested the driver on suspicion of facilitating unlawful entry into Thai
 
 ## December 2024–January 2025: Transparency Oversight
 
-On December 12, 2024, Atthaphon chaired a meeting at Chainat Provincial Immigration to prepare for the office's fiscal 2025 Integrity and Transparency Assessment (ITA). The office issued Order No. 31/2567 establishing a working group to oversee the assessment. On January 9, 2025, he conducted another briefing to review assessment requirements, identify areas needing improvement, assign responsibilities, and inform officers about the internal-stakeholder questionnaire.[^23]
+On December 12, 2024, Atthaphon chaired a meeting at Chainat Provincial Immigration to prepare for the office's fiscal 2025 Integrity and Transparency Assessment (ITA). The office issued Order No. 31/2567 establishing a working group to oversee the assessment.[^23]
+
+On January 8, 2025, Atthaphon publicized the assessment's external-stakeholder questionnaire (EIT) to visitors receiving services at Chainat Immigration. The following day, he conducted an internal briefing to review assessment requirements, identify areas needing improvement, assign responsibilities, and inform officers about the internal-stakeholder questionnaire (IIT). These activities documented his involvement in both the public-facing and internal components of the assessment shortly before his departure from Chainat.[^2][^23]
 
 The accompanying plan called for monthly publication of immigration enforcement and service statistics, bribery-risk assessments, public feedback channels, and improved information about immigration services, including electronic extension applications. These measures were documented during Atthaphon's final months heading Chainat Immigration, although the report does not establish how effectively each measure was implemented.[^23]
 
