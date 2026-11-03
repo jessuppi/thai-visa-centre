@@ -5,6 +5,6 @@ Thai Visa Centre has publicly acknowledged operating `aq.in.th` during the COVID
 ## References
 
 - `https://tvc.co.th/scam`
-- https://asq.in.th/policy/terms-and-conditions
-- https://www.reddit.com/r/ThailandTourism/comments/rtbu4r/anybody_used_the_aqinth/
-- https://www.reddit.com/r/Thailand/comments/tl5x7r/anyone_have_experience_with_aqinth/
+- <https://asq.in.th/policy/terms-and-conditions>
+- <https://www.reddit.com/r/ThailandTourism/comments/rtbu4r/anybody_used_the_aqinth/>
+- <https://www.reddit.com/r/Thailand/comments/tl5x7r/anyone_have_experience_with_aqinth/>
