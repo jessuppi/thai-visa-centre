@@ -23,7 +23,7 @@ Taken together, these records establish a documented operational connection betw
 ## References
 
 - `https://tvc.co.th/scam`
-- [https://asq.in.th/policy/terms-and-conditions](https://asq.in.th/policy/terms-and-conditions)
+- `https://asq.in.th/policy/terms-and-conditions`
 - [https://www.dataforthai.com/company/0115562031107/](https://www.dataforthai.com/company/0115562031107/)
 - [https://www.dataforthai.com/company/0115563017485/](https://www.dataforthai.com/company/0115563017485/)
 - [https://www.dataforthai.com/company/0105568195331/](https://www.dataforthai.com/company/0105568195331/)
