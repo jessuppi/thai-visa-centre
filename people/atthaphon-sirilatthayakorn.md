@@ -10,6 +10,8 @@ In January 2025, investigative outlet Isra News reported that Atthaphon held a 1
 
 Isra News also examined a 19-million-baht loan that their father had made to the company in July 2015, as disclosed in his official asset declaration, and subsequently published details of the loan agreement.[^3][^5]
 
+On January 27, 2025, Isra News published a further investigation into Atthasiri Co., Ltd.'s financial statements filed with Thailand's Department of Business Development. The outlet reported that the company had recorded no revenue from 2015 through 2023, with a net loss of 14,630 baht in 2023. Its latest accounts also listed 19.2 million baht in interest-free short-term loans from a company director and a real estate development project valued at approximately 20.08 million baht. Although Atthaphon held a 15% stake in the company, the report did not identify him personally as the lender.[^20]
+
 ## Immigration Career and Departure from Chainat
 
 An earlier Royal Thai Police personnel order dated July 21, 2017, identifies Atthaphon as a staff officer attached to the commander of Immigration Division 2. The order transferred him to Pathum Thani Provincial Immigration as a deputy inspector under Immigration Division 3, establishing another documented posting before his subsequent assignments to Nakhon Pathom and Chainat.[^8]
@@ -93,3 +95,5 @@ The plan called for supervisory checks, anti-bribery briefings, public complaint
 [^18]: https://www.facebook.com/photo/?fbid=1350875120400227&set=pb.100064332566533.-2207520000
 
 [^19]: https://scontent.fcgk6-3.fna.fbcdn.net/v/t39.30808-6/886731584_1587898320031238_3384267257813496148_n.avif?stp=dst-jpg_tt6&cstp=mx1477x1108&ctp=s1477x1108&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=UXEFYJILNvMQ7kNvwH-47KM&_nc_oc=AdpwK6naQxluTF09kwk_ZDeSF_bIfO9FF5bVB12Ug6vzJtdXLVcEIpwX3Mq2vYipiqs&_nc_zt=23&_nc_ht=scontent.fcgk6-3.fna&_nc_gid=yz4_hbQ-vcBkQdiCFscChQ&_nc_ss=7b2a8&oh=00_AQT-ON9OMpEfl1dyro6THMV1VZJoFI-lhB277W5Hnjg6Bg&oe=6AEF947D
+
+[^20]: https://www.isranews.org/article/isranews-scoop/135111-isranews-381.html
