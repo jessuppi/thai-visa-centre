@@ -24,6 +24,10 @@ Although Atthaphon was still heading Chainat Immigration on January 9, 2025, off
 
 By May 27, 2025, Atthaphon had been identified as an inspector at the Bangkok Port Immigration Checkpoint. The Duang Prateep Foundation reported that he and colleagues visited the foundation to donate rice and adult diapers. This confirms that he had moved to another immigration posting following his tenure in Chainat, although the exact date of his transfer remains unclear.[^15]
 
+## May 2024: Anti-Trafficking Operations in Chainat
+
+On May 15, 2024, while serving as head of Chainat Provincial Immigration, Atthaphon directed officers from its investigation and suppression unit to participate in the province's eighth labor anti-trafficking committee meeting of the year. The meeting was held at the provincial Ministry of Labour government complex, and officers also inspected two businesses considered potentially at risk in Wat Sing District. Chainat Immigration reported that neither inspection uncovered any violations. The announcement identifies Atthaphon as supervising the operation but does not establish whether he personally attended the meeting or inspections.[^17]
+
 ## December 2024: Joint Immigration Enforcement Operation
 
 On December 17, 2024, while Atthaphon headed Chainat Provincial Immigration, he was named among officers involved in a joint immigration enforcement operation in Si Prachan District, Suphan Buri. According to *Ban Muang*, highway police stopped a van on Highway 340 after noticing apparent mechanical problems and discovered eight undocumented migrants inside. The operation involved immigration personnel from Chainat, Suphan Buri, and Sing Buri, along with highway police.[^16]
@@ -83,3 +87,5 @@ The plan called for supervisory checks, anti-bribery briefings, public complaint
 [^15]: https://www.dpf.or.th/th/news.php?Page=21
 
 [^16]: https://www.banmuang.co.th/news/region/410314
+
+[^17]: https://chainat.imm.police.go.th/?p=2174
