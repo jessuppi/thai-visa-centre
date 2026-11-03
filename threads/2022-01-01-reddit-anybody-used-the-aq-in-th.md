@@ -18,3 +18,4 @@ The discussion documents early public concerns about the website's government-li
 ## References
 
 - https://www.reddit.com/r/ThailandTourism/comments/rtbu4r/anybody_used_the_aqinth/
+- https://archive.ph/fuPPL
