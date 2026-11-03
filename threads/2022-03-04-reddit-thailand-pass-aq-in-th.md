@@ -16,4 +16,5 @@ The thread documents a purportedly favorable testimonial for `aq.in.th` in a dis
 ## References
 
 - [https://www.reddit.com/r/ThailandTourism/comments/t6dy1n/flying_in_6_days_applied_for_thailand_pass/](https://www.reddit.com/r/ThailandTourism/comments/t6dy1n/flying_in_6_days_applied_for_thailand_pass/)
+- [https://archive.ph/650N1](https://archive.ph/650N1)
 - `https://tvc.co.th/scam`
