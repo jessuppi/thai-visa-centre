@@ -8,6 +8,14 @@ On October 23, 2025, ASEAN NOW member AcuDoc started a discussion asking whether
 
 The original question specifically requested firsthand customer experiences, which DrJack54's response did not provide. By closing the discussion, he prevented other forum members from sharing potentially useful independent reviews, including negative experiences or criticism of the agency.
 
+## August 2026: Restricting Discussion of Visa-Agent Legality
+
+In an ASEAN NOW discussion about retirement-visa agents, forum members questioned how agencies could arrange extensions for applicants who did not maintain the required 800,000-baht bank balance. When one member questioned whether an agent would cover the deposit, DrJack54 replied that "The financials would be covered."[^3]
+
+As participants debated whether these arrangements were lawful, DrJack54 announced that several posts had been removed for trolling and warned that further discussion about the legality of visa agents would be removed. He subsequently reported deleting another post as offensive and off-topic.[^3]
+
+The deleted posts are not publicly available, so their exact content and the justification for removing them cannot be independently verified.
+
 ### References
 
 [^1]: `https://aseannow.com/topic/1276156-recommendations-visa-agent-bangkok/`
