@@ -32,6 +32,16 @@ On August 16, 2023, an ASEAN NOW member asked whether a Bangkok visa agent's 35,
 
 Other participants questioned the legality of obtaining retirement extensions without satisfying the financial requirements, and one suggested that the described services resembled Thai Visa Centre's offerings. DrJack54 later acknowledged that the applicant already held a Non-O visa and advised that anyone able to deposit the required funds could handle the extension independently.[^13]
 
+## August–September 2024: Inviting Thai Visa Centre to Explain Airport Fast-Track Services
+
+On August 31, 2024, an ASEAN NOW discussion about repeated visa-exempt entries turned to the possibility of travelers using paid assistance when facing additional immigration scrutiny. DrJack54 asked another member to identify agents offering airport "meet and greet" services. When fellow Global Moderator BrandonJT identified Thai Visa Centre as offering assistance at Bangkok and Phuket airports, DrJack54 directly tagged the agency's forum account and asked it to explain the available arrangements and costs.[^21]
+
+On September 4, Thai Visa Centre responded through its account labeled "Forum Sponsor," advertising airport fast-track and prescreening services priced at approximately 2,000–8,000 baht, depending on the traveler's immigration history. The agency invited prospective customers to contact it through LINE for individual quotations and stated that it also offered assistance to travelers concerned about border crossings.[^21]
+
+On September 10, DrJack54 acknowledged that travelers making repeated visa-exempt entries could encounter questioning or refusal at immigration checkpoints, where admission remained at the discretion of immigration officers. Referring back to the services discussed in the thread, he stated that agents could "grease the wheels."[^22]
+
+The exchange documents a moderator directly soliciting a commercial sponsor's participation in a discussion about overcoming potential immigration-entry difficulties. Neither the forum posts nor the agency's advertisement independently establish what arrangements, if any, existed with immigration officials.
+
 ## December 2024: Restricting Questions About Out-of-Province Visa Extensions
 
 On December 26, 2024, an ASEAN NOW member described a retired friend living in Korat who had obtained a retirement extension through an unidentified Pattaya visa agent despite lacking the required 800,000-baht bank balance. According to the member's secondhand account, the agent arranged a bank account and deposit, obtained an extension stamped by Pattaya immigration rather than Korat immigration, and offered to handle subsequent 90-day reporting. The member also alleged that money had been discreetly handed to several people, while acknowledging that some details might be inaccurate.[^18]
@@ -135,3 +145,5 @@ The deleted posts are not publicly available, so their exact content and the jus
 [^18]: `https://aseannow.com/topic/1347200-im-confused-using-a-visa-agent/`
 [^19]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/`
 [^20]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/2/`
+[^21]: `https://aseannow.com/topic/1336926-setv-metv-still-around-now-that-visa-exempts-are-now-60-days/`
+[^22]: `https://aseannow.com/topic/1336926-setv-metv-still-around-now-that-visa-exempts-are-now-60-days/page/2/`
