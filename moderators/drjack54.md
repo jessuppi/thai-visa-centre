@@ -46,6 +46,14 @@ On May 7, 2025, ASEAN NOW Global Moderator BrandonJT recommended Thai Visa Centr
 
 DrJack54 subsequently shared a purported Facebook testimonial from someone claiming to have entered Thailand through the service in approximately 20 seconds. He encouraged the member to deal directly with the agent for visa-exempt entry by air, without addressing the concerns about the website's presentation or passport collection. BrandonJT separately explained that passport details were needed so the agency could check a traveler's immigration history with its airport contacts and determine pricing.[^12]
 
+## September 2025: Removing Legality Questions During a Thai Visa Centre Referral
+
+On September 3, 2025, an ASEAN NOW member sought advice about returning to Thailand after a historical overstay and obtaining a retirement extension without personally maintaining the required 800,000-baht bank balance. DrJack54 explained that visa agents could arrange bank accounts, Non-O visas, and subsequent retirement extensions. He also recommended Thai Visa Centre, later explicitly confirming that he had suggested the agency and noting that it assisted customers outside Bangkok.[^19]
+
+On September 4, DrJack54 announced that posts discussing the legality of visa agents had been removed as off-topic. The following day, Thai Visa Centre participated through its account designated "Forum Sponsor," advertising packages costing 60,000 baht for bank-account opening, a Non-O visa, and a retirement extension, or 37,000 baht for the visa and extension without account opening. The agency also advertised expedited processing, and the original poster subsequently contacted it through LINE.[^19][^20]
+
+The exchange documents DrJack54 removing questions about agent legality from a discussion that subsequently became an opportunity for Thai Visa Centre to advertise its services. The deleted posts are unavailable, so their precise contents cannot be independently verified.
+
 ## October 2025: Closing a Discussion About Thai Visa Centre
 
 On October 23, 2025, ASEAN NOW member AcuDoc started a discussion asking whether anyone had personal experience with [Thai Visa Centre](../brands/thai-visa-centre.md) in Bangkok. Global Moderator DrJack54 responded by describing the agency as the "Most well known agent in Bangkok" and advising the user to contact it directly through Line or other channels. He then declared, "OP, has answer. Thread closed."[^4]
@@ -125,3 +133,5 @@ The deleted posts are not publicly available, so their exact content and the jus
 [^16]: `https://aseannow.com/topic/1394428-looking-for-a-retirement-visa-vis-agent/`
 [^17]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/page/2/`
 [^18]: `https://aseannow.com/topic/1347200-im-confused-using-a-visa-agent/`
+[^19]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/`
+[^20]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/2/`
