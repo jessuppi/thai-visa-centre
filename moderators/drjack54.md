@@ -24,6 +24,14 @@ On November 4, 2025, ASEAN NOW member Liverpool Lou requested firsthand experien
 
 Thai Visa Centre also participated in the discussion through its account labeled "Forum Sponsor," advertising its services directly to forum members. On November 5, DrJack54 announced that several off-topic posts and replies had been removed. Fellow Global Moderator Captain Flack separately confirmed deleting a post he described as attacking a forum sponsor, explicitly invoking Rule 37 against negative comments concerning sponsors. Meanwhile, favorable testimonials about Thai Visa Centre continued appearing, raising questions about possible coordinated astroturfing while criticism of the sponsor was being removed.[^5]
 
+## December 2025: Removing Legality Questions From a Thai Visa Centre Testimonial
+
+On December 4, 2025, ASEAN NOW member Liverpool Lou started a follow-up discussion praising [Thai Visa Centre](../brands/thai-visa-centre.md) after using its services. He described the experience as excellent, reporting that the agency collected his passport by courier and returned it within days. Other participants questioned why he needed an agent and discussed the financial requirements associated with retirement extensions.[^8]
+
+DrJack54 intervened, declaring that the discussion was going nowhere and announcing that posts questioning the legality of visa agents had been removed. Liverpool Lou challenged the intervention, pointing out that DrJack54 had closed his earlier discussion and that he was now providing firsthand feedback about a forum sponsor.[^8]
+
+The following day, Liverpool Lou disclosed that his extension had been issued through Chai Nat province despite his residence in Bangkok, and confirmed that the agency offered services involving financial assistance. These details made questions about the agency's procedures particularly relevant, yet DrJack54 had already removed discussion of their legality.[^8]
+
 ## April 2026: Claimed Need for 90-Day Reporting Assistance
 
 On April 22, 2026, DrJack54 posted in an ASEAN NOW discussion about online 90-day immigration reporting, claiming that he could not submit his upcoming report in person or by mail and that online reporting was unavailable following his return from abroad. He asked other members to recommend an agent who could handle the report in Bangkok.[^2]
@@ -48,3 +56,4 @@ The deleted posts are not publicly available, so their exact content and the jus
 
 [^6]: `https://aseannow.com/topic/1249268-agent-recommendations-in-bangkok/`
 [^7]: https://www.nationthailand.com/in-focus/30392449
+[^8]: `https://aseannow.com/topic/1380748-thai-visa-centre-bangna-grace/`
