@@ -14,7 +14,11 @@ Isra News also examined a 19-million-baht loan that their father had made to the
 
 An earlier Royal Thai Police personnel order dated July 21, 2017, identifies Atthaphon as a staff officer attached to the commander of Immigration Division 2. The order transferred him to Pathum Thani Provincial Immigration as a deputy inspector under Immigration Division 3, establishing another documented posting before his subsequent assignments to Nakhon Pathom and Chainat.[^8]
 
+An *Inspector 234* training yearbook also lists Atthaphon as a police captain and deputy inspector at Nakhon Pathom Provincial Immigration, with a portrait in uniform.[^12]
+
 A November 30, 2021 Immigration Bureau personnel order identifies Atthaphon as a deputy inspector at Nakhon Pathom Provincial Immigration and records his transfer to an inspector position in the Investigation and Suppression Division of Immigration Division 2. He remained there until his January 2023 reassignment to Chainat Provincial Immigration.[^1][^6]
+
+A Chainat Immigration expenditure plan for the first two quarters of fiscal 2024, reporting data through March 31, 2024, identifies him as the provincial immigration inspector in its verification section.[^13]
 
 Although Atthaphon was still heading Chainat Immigration on January 9, 2025, official records identify Police Lieutenant Colonel Chanaiyaporn Chatphum (ชไนยพร ฉัตรภูมิ) as the office's inspector on March 6, 2025. This establishes that a leadership change occurred between those dates, although the cited records do not identify Atthaphon's subsequent posting.[^2][^7]
 
@@ -33,6 +37,12 @@ The account was published during Atthaphon's tenure, raising questions about age
 Official Chainat Immigration statistics recorded 131 applications for extensions of stay in October 2024, 48 in November, and 62 in December, while Atthaphon remained head of the office. The same report separately recorded two applications per month for obtaining or changing visa categories.[^11]
 
 These figures confirm that Chainat Immigration continued processing extension applications during his tenure, following the August 2023 forum report about an agent-arranged extension stamped in Chainat for a resident of southern Thailand. However, the published statistics do not identify applicants' provinces of residence, the agents involved, or the officers who approved individual extensions, leaving questions about out-of-province processing unresolved.[^9][^11]
+
+## 2024 Bribery-Risk Assessment for Extension Applications
+
+A fiscal-year 2024 risk-management plan published by Chainat Provincial Immigration classified temporary extensions of stay as a high bribery-risk activity, with a risk score of 8. It identified failure to remit collected extension fees to the state as a potential avenue for corruption and assigned oversight responsibilities to the provincial immigration inspector and the deputy inspector responsible for services to foreigners.[^14]
+
+The plan called for supervisory checks, anti-bribery briefings, public complaint channels, and disciplinary investigations if misconduct was detected. The assessment describes institutional risks, not proven wrongdoing by Atthaphon or any other named officer. It provides additional context for the office's handling of extension applications during his tenure.[^14]
 
 [^1]: https://www.rayongtouristpolice.com/wp-content/uploads/2023/02/สตม.-ที่-27.66-ลง-31-ม.ค.66.pdf
 
@@ -55,3 +65,9 @@ These figures confirm that Chainat Immigration continued processing extension ap
 [^10]: https://tak.immigration.go.th/wp-content/uploads/2024/03/O8-คู่มือการให้บริการประชาชน-อังกฤษ.pdf
 
 [^11]: https://chainat.imm.police.go.th/wp-content/uploads/2025/04/O10-ตารางสถิติการให้บริการ-ต.ค.67-มี.ค.68.pdf
+
+[^12]: https://online.anyflip.com/eztca/olmt/files/mobile/84.webp
+
+[^13]: https://chainat.imm.police.go.th/wp-content/uploads/2024/04/O11-แผนการใช้จ่ายงบประมาณ-ชัยนาท.pdf
+
+[^14]: https://chainat.imm.police.go.th/wp-content/uploads/2024/04/O19-การประเมินความเสี่ยงต่อการรับสินบน-ตม.จว.ชัยนาท.pdf
