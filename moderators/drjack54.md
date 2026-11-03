@@ -2,6 +2,16 @@
 
 DrJack54 is a longtime Global Moderator on [ASEAN NOW](../brands/asean-now.md) who has repeatedly recommended [Thai Visa Centre](../brands/thai-visa-centre.md) to forum members seeking immigration assistance since at least 2022.[^1] In April 2026, he publicly claimed to need assistance with his own 90-day immigration report and later claimed that Grace had sent him a link to Thai Visa Centre's service.[^2] His moderation activities are also noteworthy: during a later discussion about visa agents and retirement-extension financial requirements, he announced that further posts questioning the legality of agent arrangements would be removed.[^3] These exchanges document his repeated endorsements and moderation decisions, although they do not establish any financial relationship with Thai Visa Centre.
 
+## February 2022: Dismissing Police Allegations Against Thai Visa Centre
+
+On February 6, 2022, ASEAN NOW member JimmyJ requested recommendations for a Bangkok visa agent. DrJack54 suggested [Thai Visa Centre](../brands/thai-visa-centre.md) alongside Bangkok Buddy. JimmyJ expressed surprise, explaining that it was the first recommendation for Thai Visa Centre he had noticed since the controversy surrounding the agency's operators.[^6]
+
+DrJack54 dismissed the concern, replying, "Wasn't a scandal." He encouraged the member to consult the agency's favorable reviews and compared negative accounts to ordinary customer complaints about hotels and other businesses.[^6]
+
+His response downplayed the significance of widely reported August 2020 arrests involving Thai Visa Centre's operators, Grace and Chad Scira. Thai immigration police had publicly announced allegations involving forged immigration documents and cannabis cultivation, including the seizure of 55 government stamps. These were reported allegations, not established convictions.[^7]
+
+Rather than address the substance of the police allegations, DrJack54 redirected attention toward favorable reviews. The exchange raises questions about whether his repeated endorsements reflected independent recommendations or contributed to a broader effort to rehabilitate the agency's reputation.
+
 ## October 2025: Closing a Discussion About Thai Visa Centre
 
 On October 23, 2025, ASEAN NOW member AcuDoc started a discussion asking whether anyone had personal experience with [Thai Visa Centre](../brands/thai-visa-centre.md) in Bangkok. Global Moderator DrJack54 responded by describing the agency as the "Most well known agent in Bangkok" and advising the user to contact it directly through Line or other channels. He then declared, "OP, has answer. Thread closed."[^4]
@@ -35,3 +45,6 @@ The deleted posts are not publicly available, so their exact content and the jus
 [^3]: `https://aseannow.com/topic/1402765-visa-agents/`
 [^4]: `https://aseannow.com/topic/1376876-thai-visa-centre-in-bangkok/`
 [^5]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/`
+
+[^6]: `https://aseannow.com/topic/1249268-agent-recommendations-in-bangkok/`
+[^7]: https://www.nationthailand.com/in-focus/30392449
