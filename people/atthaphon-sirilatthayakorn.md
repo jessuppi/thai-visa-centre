@@ -34,6 +34,8 @@ In December 2022, he co-authored another paper, "Applying Qualitative Research i
 
 
 On July 7, 2023, the *Journal of the Public Administration Association of Thailand* published a further study co-authored by Atthaphon, Jamnean Joungtrakul, and Klahan Na-Nan. The paper examined the application of systematic literature reviews to public administration research in Thailand, particularly their potential use in government development planning, policy implementation, and evaluation. The journal again identified Atthaphon as affiliated with Rattana Bundit University.[^26]
+
+In December 2023, the *Journal of MCU Social Science Review* published "Creating Sound Labor Relations to Prevent and Settlement of Labor Dispute," listing Artthapol Sirilatthayakorn among five co-authors, including Jamnean Joungtrakul, who collaborated with him on earlier public administration research. The paper examined workplace conflicts in Thailand and proposed a 12-step approach to preventing and resolving labor disputes. Although the English author name matches Atthaphon's other publications, the journal uses a different Thai spelling of his surname, leaving some uncertainty about the identification.[^27]
 ## May 2024: Anti-Trafficking Operations in Chainat
 
 On May 15, 2024, while serving as head of Chainat Provincial Immigration, Atthaphon directed officers from its investigation and suppression unit to participate in the province's eighth labor anti-trafficking committee meeting of the year. The meeting was held at the provincial Ministry of Labour government complex, and officers also inspected two businesses considered potentially at risk in Wat Sing District. Chainat Immigration reported that neither inspection uncovered any violations. The announcement identifies Atthaphon as supervising the operation but does not establish whether he personally attended the meeting or inspections.[^17]
@@ -130,3 +132,5 @@ The plan called for supervisory checks, anti-bribery briefings, public complaint
 
 
 [^26]: https://so10.tci-thaijo.org/index.php/paatj/article/view/683
+
+[^27]: https://so03.tci-thaijo.org/index.php/jssr/article/view/257764
