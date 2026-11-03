@@ -48,6 +48,12 @@ DrJack54 initially suggested obtaining a retirement extension through an agent. 
 
 Thai Visa Centre responded through its account designated "Forum Sponsor," announcing that it had privately sent the member a personal telephone number. The exchange documents a direct referral from an ASEAN NOW moderator to the forum's commercial sponsor, despite the member having repeatedly explained his financial difficulties.[^9]
 
+## January 2026: Promoting Thai Visa Centre’s Airport Fast-Track Service
+
+On January 29, 2026, DrJack54 recommended another service offered by Thai Visa Centre during an ASEAN NOW discussion about travelers concerned that Thai immigration might refuse entry after repeated visa-exempt visits. When a member expressed interest in airport assistance, DrJack54 tagged the forum sponsor, writing, “@ThaiVisaCentre also has this, service.”
+
+Thai Visa Centre responded directly, confirming that it offered airport fast-track assistance and directing readers to its commercial booking page on `agents.co.th`. The exchange illustrates how DrJack54's recommendations extended beyond ordinary visa extensions to services marketed to travelers concerned about immigration scrutiny.[^11]
+
 ## April 2026: Claimed Need for 90-Day Reporting Assistance
 
 On April 22, 2026, DrJack54 posted in an ASEAN NOW discussion about online 90-day immigration reporting, claiming that he could not submit his upcoming report in person or by mail and that online reporting was unavailable following his return from abroad. He asked other members to recommend an agent who could handle the report in Bangkok.[^2]
@@ -75,3 +81,4 @@ The deleted posts are not publicly available, so their exact content and the jus
 [^8]: `https://aseannow.com/topic/1380748-thai-visa-centre-bangna-grace/`
 [^9]: `https://aseannow.com/topic/1382159-am-i-paranoic-here/`
 [^10]: `https://aseannow.com/topic/1193131-first-time-retirement-visa-use-thai-visa-centre-agent-or-a-legal-firm-in-bangkok/`
+[^11]: `https://aseannow.com/topic/1386083-visa-exempt-entry-after-a-few-days-out-of-the-country/`
