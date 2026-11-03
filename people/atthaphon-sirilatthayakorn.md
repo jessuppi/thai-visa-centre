@@ -10,6 +10,12 @@ In January 2025, investigative outlet Isra News reported that Atthaphon held a 1
 
 Isra News also examined a 19-million-baht loan that their father had made to the company in July 2015, as disclosed in his official asset declaration, and subsequently published details of the loan agreement.[^3][^5]
 
+## Immigration Career and Departure from Chainat
+
+A November 30, 2021 Immigration Bureau personnel order identifies Atthaphon as a deputy inspector at Nakhon Pathom Provincial Immigration and records his transfer to an inspector position in the Investigation and Suppression Division of Immigration Division 2. He remained there until his January 2023 reassignment to Chainat Provincial Immigration.[^1][^6]
+
+Although Atthaphon was still heading Chainat Immigration on January 9, 2025, official records identify Police Lieutenant Colonel Chanaiyaporn Chatphum (ชไนยพร ฉัตรภูมิ) as the office's inspector on March 6, 2025. This establishes that a leadership change occurred between those dates, although the cited records do not identify Atthaphon's subsequent posting.[^2][^7]
+
 [^1]: https://www.rayongtouristpolice.com/wp-content/uploads/2023/02/สตม.-ที่-27.66-ลง-31-ม.ค.66.pdf
 
 [^2]: https://chainat.imm.police.go.th/?page_id=3000
@@ -19,3 +25,7 @@ Isra News also examined a 19-million-baht loan that their father had made to the
 [^4]: https://www.isranews.org/article/isranews-scoop/128183-isranewsna.html
 
 [^5]: https://www.isranews.org/article/investigative/investigate-asset/135095-inewsddddddas.html
+
+[^6]: https://rayongtouristpolice.com/wp-content/uploads/2021/12/คำสั่ง-สตม.-ที่-291.2564.pdf
+
+[^7]: https://chainat.imm.police.go.th/wp-content/uploads/2025/04/O23-มาตรการยกระดับคุณธรรมและความโปร่งใสฯ1.pdf
