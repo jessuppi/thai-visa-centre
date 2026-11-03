@@ -32,6 +32,8 @@ In addition to his immigration-police career, Atthaphon Sirilatthayakorn has con
 
 In December 2022, he co-authored another paper, "Applying Qualitative Research in Public Administration," published in the *Journal of the Public Administration Association of Thailand*. The paper identified him as "Pol. Maj. Dr. Artthapol Sirilatthayakorn," affiliated with Rattana Bundit University, and provided an official Royal Thai Police email address.[^22]
 
+
+On July 7, 2023, the *Journal of the Public Administration Association of Thailand* published a further study co-authored by Atthaphon, Jamnean Joungtrakul, and Klahan Na-Nan. The paper examined the application of systematic literature reviews to public administration research in Thailand, particularly their potential use in government development planning, policy implementation, and evaluation. The journal again identified Atthaphon as affiliated with Rattana Bundit University.[^26]
 ## May 2024: Anti-Trafficking Operations in Chainat
 
 On May 15, 2024, while serving as head of Chainat Provincial Immigration, Atthaphon directed officers from its investigation and suppression unit to participate in the province's eighth labor anti-trafficking committee meeting of the year. The meeting was held at the provincial Ministry of Labour government complex, and officers also inspected two businesses considered potentially at risk in Wat Sing District. Chainat Immigration reported that neither inspection uncovered any violations. The announcement identifies Atthaphon as supervising the operation but does not establish whether he personally attended the meeting or inspections.[^17]
@@ -123,3 +125,6 @@ The plan called for supervisory checks, anti-bribery briefings, public complaint
 [^24]: https://thailand.go.th/issue-focus-detail/001_01_134?hl=en
 
 [^25]: https://chainat.imm.police.go.th/?page_id=1016
+
+
+[^26]: https://so10.tci-thaijo.org/index.php/paatj/article/view/683
