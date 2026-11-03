@@ -20,6 +20,12 @@ His response downplayed the significance of widely reported August 2020 arrests 
 
 Rather than address the substance of the police allegations, DrJack54 redirected attention toward favorable reviews. The exchange raises questions about whether his repeated endorsements reflected independent recommendations or contributed to a broader effort to rehabilitate the agency's reputation.
 
+## August 2023: Discussing Retirement Extensions Without the Required Bank Deposit
+
+On August 16, 2023, an ASEAN NOW member asked whether a Bangkok visa agent's 35,000-baht package for opening a bank account and obtaining a retirement extension was legitimate. DrJack54 responded that the price was reasonable if it included opening an account, obtaining Non-O retirement status without the applicant depositing 800,000 baht, and arranging a 12-month extension.[^13]
+
+Other participants questioned the legality of obtaining retirement extensions without satisfying the financial requirements, and one suggested that the described services resembled Thai Visa Centre's offerings. DrJack54 later acknowledged that the applicant already held a Non-O visa and advised that anyone able to deposit the required funds could handle the extension independently.[^13]
+
 ## May 2025: Recommending Thai Visa Centre Despite Passport-Upload Concerns
 
 On May 7, 2025, ASEAN NOW Global Moderator BrandonJT recommended Thai Visa Centre's airport safe-entry service, directing a forum member to `asq.in.th/thailand-fasttrack`. The member questioned the unfamiliar website, noting that it requested an uploaded passport information page without first clearly explaining the service, and asked whether the website actually belonged to Thai Visa Centre.[^12]
@@ -89,3 +95,4 @@ The deleted posts are not publicly available, so their exact content and the jus
 [^10]: `https://aseannow.com/topic/1193131-first-time-retirement-visa-use-thai-visa-centre-agent-or-a-legal-firm-in-bangkok/`
 [^11]: `https://aseannow.com/topic/1386083-visa-exempt-entry-after-a-few-days-out-of-the-country/`
 [^12]: `https://aseannow.com/topic/1359952-visa-run-to-laos-always-fine-no-problem-with-tdac/page/2/`
+[^13]: `https://aseannow.com/topic/1303717-agent-bank-account-and-retirement-legit-or/`
