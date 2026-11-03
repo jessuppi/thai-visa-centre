@@ -24,6 +24,8 @@ On August 17, 2023, while Atthaphon headed Chainat Provincial Immigration, ASEAN
 
 Another forum member questioned the arrangement's legality and warned that obtaining extensions outside the applicant's province of residence could leave customers dependent on agents for subsequent renewals. Thailand's Immigration Bureau handbook specifies that retirement-extension applicants should contact the immigration office responsible for their area of residence.[^9][^10]
 
+On August 18, 2023, ASEAN NOW global moderator [DrJack54](../moderators/drjack54.md) responded to the discussion after the customer disclosed that his agent-arranged retirement extension had been stamped in Chainat despite living in southern Thailand. DrJack54 agreed with another member's assessment that the customer could either continue using the agent or leave Thailand and restart the visa process. He recommended continuing with the agent for the time being, comparing increased agent fees to rising rent, without addressing why the extension had been processed outside the customer's province of residence.[^9]
+
 The account was published during Atthaphon's tenure, raising questions about agent-arranged extensions processed through Chainat Immigration. However, the discussion does not establish the extension's exact issuance date, identify the approving officer, or conclusively identify the agency involved as Thai Visa Centre.[^9]
 
 ## Visa-Extension Processing During His Tenure
