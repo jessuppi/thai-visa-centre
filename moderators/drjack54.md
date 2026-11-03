@@ -50,6 +50,10 @@ On November 4, 2025, ASEAN NOW member Liverpool Lou requested firsthand experien
 
 Thai Visa Centre also participated in the discussion through its account labeled "Forum Sponsor," advertising its services directly to forum members. On November 5, DrJack54 announced that several off-topic posts and replies had been removed. Fellow Global Moderator Captain Flack separately confirmed deleting a post he described as attacking a forum sponsor, explicitly invoking Rule 37 against negative comments concerning sponsors. Meanwhile, favorable testimonials about Thai Visa Centre continued appearing, raising questions about possible coordinated astroturfing while criticism of the sponsor was being removed.[^5]
 
+On November 10, 2025, another member asked whether Thai Visa Centre actually deposited the required 800,000 baht into customers' bank accounts. DrJack54 responded that agents deposited the funds, obtained a bank letter confirming the balance, and then immediately withdrew the money. His sweeping description was challenged by another member who said it did not match his experience with two visa agents.[^17]
+
+The discussion continued with questions about how Thai Visa Centre handled bankbooks and financial arrangements. On November 11, DrJack54 agreed with another participant's advice to seek clarification directly from the agency and announced that the thread was closed. His description of temporary deposits was a claim about agent practices, not independently verified evidence of Thai Visa Centre's procedures.[^17]
+
 ## December 2025: Removing Legality Questions From a Thai Visa Centre Testimonial
 
 On December 4, 2025, ASEAN NOW member Liverpool Lou started a follow-up discussion praising [Thai Visa Centre](../brands/thai-visa-centre.md) after using its services. He described the experience as excellent, reporting that the agency collected his passport by courier and returned it within days. Other participants questioned why he needed an agent and discussed the financial requirements associated with retirement extensions.[^8]
@@ -111,3 +115,4 @@ The deleted posts are not publicly available, so their exact content and the jus
 [^14]: `https://aseannow.com/topic/1211624-thai-visa-agent-legit/`
 [^15]: `https://aseannow.com/topic/1211624-thai-visa-agent-legit/page/2/`
 [^16]: `https://aseannow.com/topic/1394428-looking-for-a-retirement-visa-vis-agent/`
+[^17]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/page/2/`
