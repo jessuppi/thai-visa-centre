@@ -10,6 +10,12 @@ DrJack54 responded that nothing had resulted from what he characterized as an un
 
 His reassurances came just three months after Thai immigration police publicly announced the arrests of Grace and Chad Scira in connection with alleged document forgery and cannabis cultivation. Police reported discovering forged documents and 55 government stamps during their investigation. DrJack54's characterization minimized these documented events while offering broad assurances about the agency's legitimacy.[^7]
 
+## March 2021: Defending Visas Obtained Without Actual Volunteering
+
+On March 27, 2021, an ASEAN NOW member described a visa agent offering a one-year volunteer visa for 38,000 baht without requiring any actual volunteer work. Asked whether the arrangement was legitimate, DrJack54 declared it "100% legit" because the immigration stamps would be genuine. He dismissed objections from other members and advised that he would use an agent in the same circumstances.[^14]
+
+When participants raised concerns about fraudulent applications and potential consequences for customers, DrJack54 challenged them to identify a single case in which an applicant had been punished. Another member subsequently described an alleged immigration investigation in Roi Et involving dismissed officers and deported foreigners. DrJack54 acknowledged the account but said he could not find independent confirmation, then tagged Thai Visa Centre's forum account for its opinion.[^15]
+
 ## February 2022: Dismissing Police Allegations Against Thai Visa Centre
 
 On February 6, 2022, ASEAN NOW member JimmyJ requested recommendations for a Bangkok visa agent. DrJack54 suggested [Thai Visa Centre](../brands/thai-visa-centre.md) alongside Bangkok Buddy. JimmyJ expressed surprise, explaining that it was the first recommendation for Thai Visa Centre he had noticed since the controversy surrounding the agency's operators.[^6]
@@ -96,3 +102,5 @@ The deleted posts are not publicly available, so their exact content and the jus
 [^11]: `https://aseannow.com/topic/1386083-visa-exempt-entry-after-a-few-days-out-of-the-country/`
 [^12]: `https://aseannow.com/topic/1359952-visa-run-to-laos-always-fine-no-problem-with-tdac/page/2/`
 [^13]: `https://aseannow.com/topic/1303717-agent-bank-account-and-retirement-legit-or/`
+[^14]: `https://aseannow.com/topic/1211624-thai-visa-agent-legit/`
+[^15]: `https://aseannow.com/topic/1211624-thai-visa-agent-legit/page/2/`
