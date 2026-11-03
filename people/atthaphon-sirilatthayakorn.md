@@ -20,7 +20,9 @@ A November 30, 2021 Immigration Bureau personnel order identifies Atthaphon as a
 
 A Chainat Immigration expenditure plan for the first two quarters of fiscal 2024, reporting data through March 31, 2024, identifies him as the provincial immigration inspector in its verification section.[^13]
 
-Although Atthaphon was still heading Chainat Immigration on January 9, 2025, official records identify Police Lieutenant Colonel Chanaiyaporn Chatphum (ชไนยพร ฉัตรภูมิ) as the office's inspector on March 6, 2025. This establishes that a leadership change occurred between those dates, although the cited records do not identify Atthaphon's subsequent posting.[^2][^7]
+Although Atthaphon was still heading Chainat Immigration on January 9, 2025, official records identify Police Lieutenant Colonel Chanaiyaporn Chatphum (ชไนยพร ฉัตรภูมิ) as the office's inspector on March 6, 2025. This establishes that a leadership change occurred between those dates, although the exact date of the change remains unclear.[^2][^7]
+
+By May 27, 2025, Atthaphon had been identified as an inspector at the Bangkok Port Immigration Checkpoint. The Duang Prateep Foundation reported that he and colleagues visited the foundation to donate rice and adult diapers. This confirms that he had moved to another immigration posting following his tenure in Chainat, although the exact date of his transfer remains unclear.[^15]
 
 ## August 2023: Questions About Agent-Arranged Extensions in Chainat
 
@@ -71,3 +73,5 @@ The plan called for supervisory checks, anti-bribery briefings, public complaint
 [^13]: https://chainat.imm.police.go.th/wp-content/uploads/2024/04/O11-แผนการใช้จ่ายงบประมาณ-ชัยนาท.pdf
 
 [^14]: https://chainat.imm.police.go.th/wp-content/uploads/2024/04/O19-การประเมินความเสี่ยงต่อการรับสินบน-ตม.จว.ชัยนาท.pdf
+
+[^15]: https://www.dpf.or.th/th/news.php?Page=21
