@@ -42,6 +42,12 @@ On December 17, 2024, while Atthaphon headed Chainat Provincial Immigration, he 
 
 Police arrested the driver on suspicion of facilitating unlawful entry into Thailand and detained the eight migrants for further proceedings. Although the report identifies Atthaphon among the participating officers, it does not specify his individual role in the initial stop or subsequent arrests.[^16]
 
+## December 2024–January 2025: Transparency Oversight
+
+On December 12, 2024, Atthaphon chaired a meeting at Chainat Provincial Immigration to prepare for the office's fiscal 2025 Integrity and Transparency Assessment (ITA). The office issued Order No. 31/2567 establishing a working group to oversee the assessment. On January 9, 2025, he conducted another briefing to review assessment requirements, identify areas needing improvement, assign responsibilities, and inform officers about the internal-stakeholder questionnaire.[^23]
+
+The accompanying plan called for monthly publication of immigration enforcement and service statistics, bribery-risk assessments, public feedback channels, and improved information about immigration services, including electronic extension applications. These measures were documented during Atthaphon's final months heading Chainat Immigration, although the report does not establish how effectively each measure was implemented.[^23]
+
 ## August 2023: Questions About Agent-Arranged Extensions in Chainat
 
 On August 17, 2023, while Atthaphon headed Chainat Provincial Immigration, ASEAN NOW member JustAnotherFarang reported obtaining retirement extensions through a visa agent despite living in southern Thailand. He stated that his extension was stamped in Chainat and acknowledged having sufficient money available but not maintaining it in the required Thai bank account. He also described using the same agent for approximately three years, with his annual renewal fee increasing to 18,000 baht.[^9]
@@ -107,3 +113,5 @@ The plan called for supervisory checks, anti-bribery briefings, public complaint
 [^21]: https://so04.tci-thaijo.org/index.php/NRRU/article/view/241413
 
 [^22]: https://so10.tci-thaijo.org/index.php/paatj/article/download/433/350/932
+
+[^23]: https://chainat.imm.police.go.th/wp-content/uploads/2025/04/O24-การรายงานผลการดำเนินการ-ตามมาตรการการยก.pdf
