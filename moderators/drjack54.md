@@ -32,6 +32,14 @@ DrJack54 intervened, declaring that the discussion was going nowhere and announc
 
 The following day, Liverpool Lou disclosed that his extension had been issued through Chai Nat province despite his residence in Bangkok, and confirmed that the agency offered services involving financial assistance. These details made questions about the agency's procedures particularly relevant, yet DrJack54 had already removed discussion of their legality.[^8]
 
+## December 2025: Directly Referring a Forum Member to Thai Visa Centre
+
+On December 18, 2025, ASEAN NOW member cliveshep described difficulties renewing his marriage-based extension after Bangkok Bank restricted access to funds needed for immigration requirements. Approaching his 80th birthday, he explained that he lived on a limited UK pension and could not afford a visa agent.[^9]
+
+DrJack54 initially suggested obtaining a retirement extension through an agent. After the member explicitly ruled out that expense, DrJack54 responded that his choices were to meet the financial requirements, use an agent, or return home. He then directly tagged [Thai Visa Centre](../brands/thai-visa-centre.md), asking the agency to advise the member.[^9]
+
+Thai Visa Centre responded through its account designated "Forum Sponsor," announcing that it had privately sent the member a personal telephone number. The exchange documents a direct referral from an ASEAN NOW moderator to the forum's commercial sponsor, despite the member having repeatedly explained his financial difficulties.[^9]
+
 ## April 2026: Claimed Need for 90-Day Reporting Assistance
 
 On April 22, 2026, DrJack54 posted in an ASEAN NOW discussion about online 90-day immigration reporting, claiming that he could not submit his upcoming report in person or by mail and that online reporting was unavailable following his return from abroad. He asked other members to recommend an agent who could handle the report in Bangkok.[^2]
@@ -57,3 +65,4 @@ The deleted posts are not publicly available, so their exact content and the jus
 [^6]: `https://aseannow.com/topic/1249268-agent-recommendations-in-bangkok/`
 [^7]: https://www.nationthailand.com/in-focus/30392449
 [^8]: `https://aseannow.com/topic/1380748-thai-visa-centre-bangna-grace/`
+[^9]: `https://aseannow.com/topic/1382159-am-i-paranoic-here/`
