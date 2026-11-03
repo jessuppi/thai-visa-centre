@@ -17,3 +17,4 @@ The discussion illustrates how `aq.in.th` was promoted through apparently indepe
 
 - [https://www.reddit.com/r/ThailandTourism/comments/rwqf9l/expedited_thai_pass_aqinth/](https://www.reddit.com/r/ThailandTourism/comments/rwqf9l/expedited_thai_pass_aqinth/)
 - `https://tvc.co.th/scam`
+- [https://archive.ph/syHaB](https://archive.ph/syHaB)
