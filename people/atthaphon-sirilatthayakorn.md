@@ -12,6 +12,8 @@ Isra News also examined a 19-million-baht loan that their father had made to the
 
 ## Immigration Career and Departure from Chainat
 
+An earlier Royal Thai Police personnel order dated July 21, 2017, identifies Atthaphon as a staff officer attached to the commander of Immigration Division 2. The order transferred him to Pathum Thani Provincial Immigration as a deputy inspector under Immigration Division 3, establishing another documented posting before his subsequent assignments to Nakhon Pathom and Chainat.[^8]
+
 A November 30, 2021 Immigration Bureau personnel order identifies Atthaphon as a deputy inspector at Nakhon Pathom Provincial Immigration and records his transfer to an inspector position in the Investigation and Suppression Division of Immigration Division 2. He remained there until his January 2023 reassignment to Chainat Provincial Immigration.[^1][^6]
 
 Although Atthaphon was still heading Chainat Immigration on January 9, 2025, official records identify Police Lieutenant Colonel Chanaiyaporn Chatphum (ชไนยพร ฉัตรภูมิ) as the office's inspector on March 6, 2025. This establishes that a leadership change occurred between those dates, although the cited records do not identify Atthaphon's subsequent posting.[^2][^7]
@@ -29,3 +31,5 @@ Although Atthaphon was still heading Chainat Immigration on January 9, 2025, off
 [^6]: https://rayongtouristpolice.com/wp-content/uploads/2021/12/คำสั่ง-สตม.-ที่-291.2564.pdf
 
 [^7]: https://chainat.imm.police.go.th/wp-content/uploads/2025/04/O23-มาตรการยกระดับคุณธรรมและความโปร่งใสฯ1.pdf
+
+[^8]: https://www.rayongtouristpolice.com/คำสั่งแต่งตั้งโยกย้าย-ต/คำสั่ง-ตร-ที่-409_2560/
