@@ -32,6 +32,14 @@ On August 16, 2023, an ASEAN NOW member asked whether a Bangkok visa agent's 35,
 
 Other participants questioned the legality of obtaining retirement extensions without satisfying the financial requirements, and one suggested that the described services resembled Thai Visa Centre's offerings. DrJack54 later acknowledged that the applicant already held a Non-O visa and advised that anyone able to deposit the required funds could handle the extension independently.[^13]
 
+## December 2024: Restricting Questions About Out-of-Province Visa Extensions
+
+On December 26, 2024, an ASEAN NOW member described a retired friend living in Korat who had obtained a retirement extension through an unidentified Pattaya visa agent despite lacking the required 800,000-baht bank balance. According to the member's secondhand account, the agent arranged a bank account and deposit, obtained an extension stamped by Pattaya immigration rather than Korat immigration, and offered to handle subsequent 90-day reporting. The member also alleged that money had been discreetly handed to several people, while acknowledging that some details might be inaccurate.[^18]
+
+DrJack54 responded that the described arrangement was accurate and explained that the agent had covered the applicant's financial requirements. When other members questioned the legality of obtaining an extension in Pattaya while residing in Korat, he announced that further posts discussing agent legality would be removed as off-topic. He subsequently advised that the applicant could continue using an agent or leave Thailand and reenter to restart the immigration process.[^18]
+
+The exchange documents DrJack54's willingness to restrict discussion of potential irregularities involving agent-assisted retirement extensions, even when the concerns directly involved financial requirements and the immigration office responsible for issuing the extension.[^18]
+
 ## May 2025: Recommending Thai Visa Centre Despite Passport-Upload Concerns
 
 On May 7, 2025, ASEAN NOW Global Moderator BrandonJT recommended Thai Visa Centre's airport safe-entry service, directing a forum member to `asq.in.th/thailand-fasttrack`. The member questioned the unfamiliar website, noting that it requested an uploaded passport information page without first clearly explaining the service, and asked whether the website actually belonged to Thai Visa Centre.[^12]
@@ -116,3 +124,4 @@ The deleted posts are not publicly available, so their exact content and the jus
 [^15]: `https://aseannow.com/topic/1211624-thai-visa-agent-legit/page/2/`
 [^16]: `https://aseannow.com/topic/1394428-looking-for-a-retirement-visa-vis-agent/`
 [^17]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/page/2/`
+[^18]: `https://aseannow.com/topic/1347200-im-confused-using-a-visa-agent/`
