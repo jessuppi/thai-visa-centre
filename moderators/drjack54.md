@@ -20,6 +20,12 @@ His response downplayed the significance of widely reported August 2020 arrests 
 
 Rather than address the substance of the police allegations, DrJack54 redirected attention toward favorable reviews. The exchange raises questions about whether his repeated endorsements reflected independent recommendations or contributed to a broader effort to rehabilitate the agency's reputation.
 
+## May 2025: Recommending Thai Visa Centre Despite Passport-Upload Concerns
+
+On May 7, 2025, ASEAN NOW Global Moderator BrandonJT recommended Thai Visa Centre's airport safe-entry service, directing a forum member to `asq.in.th/thailand-fasttrack`. The member questioned the unfamiliar website, noting that it requested an uploaded passport information page without first clearly explaining the service, and asked whether the website actually belonged to Thai Visa Centre.[^12]
+
+DrJack54 subsequently shared a purported Facebook testimonial from someone claiming to have entered Thailand through the service in approximately 20 seconds. He encouraged the member to deal directly with the agent for visa-exempt entry by air, without addressing the concerns about the website's presentation or passport collection. BrandonJT separately explained that passport details were needed so the agency could check a traveler's immigration history with its airport contacts and determine pricing.[^12]
+
 ## October 2025: Closing a Discussion About Thai Visa Centre
 
 On October 23, 2025, ASEAN NOW member AcuDoc started a discussion asking whether anyone had personal experience with [Thai Visa Centre](../brands/thai-visa-centre.md) in Bangkok. Global Moderator DrJack54 responded by describing the agency as the "Most well known agent in Bangkok" and advising the user to contact it directly through Line or other channels. He then declared, "OP, has answer. Thread closed."[^4]
@@ -82,3 +88,4 @@ The deleted posts are not publicly available, so their exact content and the jus
 [^9]: `https://aseannow.com/topic/1382159-am-i-paranoic-here/`
 [^10]: `https://aseannow.com/topic/1193131-first-time-retirement-visa-use-thai-visa-centre-agent-or-a-legal-firm-in-bangkok/`
 [^11]: `https://aseannow.com/topic/1386083-visa-exempt-entry-after-a-few-days-out-of-the-country/`
+[^12]: `https://aseannow.com/topic/1359952-visa-run-to-laos-always-fine-no-problem-with-tdac/page/2/`
