@@ -16,3 +16,4 @@ The discussion illustrates growing concerns about privately operated websites ex
 ## References
 
 - https://www.reddit.com/r/ThailandTourism/comments/1s2a8gw/thailand_eta_scams_are_the_new_tdac_scams/
+- https://archive.ph/TLbRV
