@@ -16,4 +16,5 @@ Several commenters appeared to endorse Thai Visa Centre, although the independen
 ## References
 
 - [https://www.reddit.com/r/ThailandTourism/comments/ui8lrq/extending_visa_via_thai_visa_centre/](https://www.reddit.com/r/ThailandTourism/comments/ui8lrq/extending_visa_via_thai_visa_centre/)
+- [https://archive.ph/o7Y4a](https://archive.ph/o7Y4a)
 - `https://tvc.co.th/scam`
