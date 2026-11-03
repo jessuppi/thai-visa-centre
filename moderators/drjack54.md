@@ -8,6 +8,12 @@ On October 23, 2025, ASEAN NOW member AcuDoc started a discussion asking whether
 
 The original question specifically requested firsthand customer experiences, which DrJack54's response did not provide. By closing the discussion, he prevented other forum members from sharing potentially useful independent reviews, including negative experiences or criticism of the agency.
 
+## November 2025: Promoting Thai Visa Centre While Removing Sponsor Criticism
+
+On November 4, 2025, ASEAN NOW member Liverpool Lou requested firsthand experiences with [Thai Visa Centre](../brands/thai-visa-centre.md)'s Bangna office, explicitly excluding unsubstantiated online reviews. DrJack54 nevertheless cited more than 160 purported reviews on the agency's own website and approximately 300 on Trustpilot, called it Bangkok's largest visa agent, and remarked that it was "Easy to do some research." Liverpool Lou immediately challenged his response, explaining that he had specifically requested personal experiences and had already identified the Bangna location.[^5]
+
+Thai Visa Centre also participated in the discussion through its account labeled "Forum Sponsor," advertising its services directly to forum members. On November 5, DrJack54 announced that several off-topic posts and replies had been removed. Fellow Global Moderator Captain Flack separately confirmed deleting a post he described as attacking a forum sponsor, explicitly invoking Rule 37 against negative comments concerning sponsors. Meanwhile, favorable testimonials about Thai Visa Centre continued appearing, raising questions about possible coordinated astroturfing while criticism of the sponsor was being removed.[^5]
+
 ## April 2026: Claimed Need for 90-Day Reporting Assistance
 
 On April 22, 2026, DrJack54 posted in an ASEAN NOW discussion about online 90-day immigration reporting, claiming that he could not submit his upcoming report in person or by mail and that online reporting was unavailable following his return from abroad. He asked other members to recommend an agent who could handle the report in Bangkok.[^2]
@@ -28,3 +34,4 @@ The deleted posts are not publicly available, so their exact content and the jus
 [^2]: `https://aseannow.com/topic/1392852-unable-to-login-for-online-90-days-reporting/`
 [^3]: `https://aseannow.com/topic/1402765-visa-agents/`
 [^4]: `https://aseannow.com/topic/1376876-thai-visa-centre-in-bangkok/`
+[^5]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/`
