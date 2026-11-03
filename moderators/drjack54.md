@@ -8,6 +8,12 @@ On October 23, 2025, ASEAN NOW member AcuDoc started a discussion asking whether
 
 The original question specifically requested firsthand customer experiences, which DrJack54's response did not provide. By closing the discussion, he prevented other forum members from sharing potentially useful independent reviews, including negative experiences or criticism of the agency.
 
+## April 2026: Claimed Need for 90-Day Reporting Assistance
+
+On April 22, 2026, DrJack54 posted in an ASEAN NOW discussion about online 90-day immigration reporting, claiming that he could not submit his upcoming report in person or by mail and that online reporting was unavailable following his return from abroad. He asked other members to recommend an agent who could handle the report in Bangkok.[^2]
+
+Fellow Global Moderator [BrandonJT](brandonjt.md) responded by recommending [Thai Visa Centre](../brands/thai-visa-centre.md)'s paid reporting service at [90day.in.th](../domains/90day.in.th.md). He recalled an introductory price of 375 baht and explained that completed reporting confirmations were mailed to customers. DrJack54 thanked BrandonJT and another participant, then claimed that Grace had already sent him the service link by message. He estimated the price at approximately 400 baht and said he had merely been seeking confirmation.[^2]
+
 ## August 2026: Restricting Discussion of Visa-Agent Legality
 
 In an ASEAN NOW discussion about retirement-visa agents, forum members questioned how agencies could arrange extensions for applicants who did not maintain the required 800,000-baht bank balance. When one member questioned whether an agent would cover the deposit, DrJack54 replied that "The financials would be covered."[^3]
