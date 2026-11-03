@@ -2,7 +2,6 @@
 
 - Date: May 2026
 - Platform: Reddit (r/expatsinbangkok)
-- Source: `https://www.reddit.com/r/expatsinbangkok/comments/1tdqdc8/thailand_90_day_online_reporting/`
 
 ## Summary
 
@@ -14,4 +13,7 @@ Significantly, Thai Visa Centre acknowledged offering paid 90-day reporting thro
 
 Thai Visa Centre also defended its separate TDAC services and accused the original poster of harassment, coordinated online manipulation, and other misconduct, claiming to have filed a criminal complaint. These competing allegations were not independently substantiated by the discussion.
 
-- Archive: `https://archive.ph/JwAuO`
+## References
+
+- https://www.reddit.com/r/expatsinbangkok/comments/1tdqdc8/thailand_90_day_online_reporting/
+- https://archive.ph/JwAuO
