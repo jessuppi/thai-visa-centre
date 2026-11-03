@@ -122,6 +122,16 @@ As participants debated whether these arrangements were lawful, DrJack54 announc
 
 The deleted posts are not publicly available, so their exact content and the justification for removing them cannot be independently verified.
 
+## August 2026: Referring a 91-Year-Old Korat Resident to Thai Visa Centre
+
+On August 13, 2026, a 91-year-old American living in Korat asked ASEAN NOW members for advice about renewing his passport and future retirement extensions. He explained that he had handled his own immigration extensions for more than 30 years but now rarely left his home and found immigration visits increasingly difficult. When he requested an agent who could manage the process on his behalf, DrJack54 directly tagged Thai Visa Centre and asked the agency to advise him. DrJack54 also stated that he was considering using an agent himself because of mobility difficulties.[^23]
+
+The member subsequently reported that he had already contacted Thai Visa Centre but had been told the agency did not handle extensions through Korat Immigration. DrJack54 suggested approaching Korat immigration officials directly to explore alternatives, adding that this would require an arrangement to "grease the wheels."[^23]
+
+Fellow Global Moderator BrandonJT offered a different explanation, stating that Thai Visa Centre could arrange extensions for residents anywhere in Thailand, even when the agency did not work with their local immigration office. In those circumstances, he explained, the extension would be issued by an immigration office in another province. He left it to the applicant to decide whether such an arrangement was acceptable.[^23]
+
+Other participants pointed out that Thailand's immigration application form provides an exception to personal attendance for applicants with disabilities, potentially allowing assistance without hiring a commercial agent. The discussion nevertheless illustrates how forum moderators directed an elderly resident toward Thai Visa Centre and described out-of-province immigration processing as a possible solution. DrJack54's reference to "grease the wheels" raises additional questions about the nature of the alternative he suggested, although the exchange does not establish that any improper payment occurred.[^23]
+
 ### References
 
 [^1]: `https://aseannow.com/topic/1276156-recommendations-visa-agent-bangkok/`
@@ -147,3 +157,4 @@ The deleted posts are not publicly available, so their exact content and the jus
 [^20]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/2/`
 [^21]: `https://aseannow.com/topic/1336926-setv-metv-still-around-now-that-visa-exempts-are-now-60-days/`
 [^22]: `https://aseannow.com/topic/1336926-setv-metv-still-around-now-that-visa-exempts-are-now-60-days/page/2/`
+[^23]: `https://aseannow.com/topic/1402687-passport-need/`
