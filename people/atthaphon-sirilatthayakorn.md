@@ -62,9 +62,11 @@ The account was published during Atthaphon's tenure, raising questions about age
 
 ## Visa-Extension Processing During His Tenure
 
-Official Chainat Immigration statistics recorded 131 applications for extensions of stay in October 2024, 48 in November, and 62 in December, while Atthaphon remained head of the office. The same report separately recorded two applications per month for obtaining or changing visa categories.[^11]
+Official Chainat Immigration statistics recorded 131 extension-of-stay applications in October 2024—more than twice November's 48 and December's 62, and over four times January 2025's 31. February recorded 42 applications, while March rose to 157, the only month in the six-month reporting period to exceed October. The report offers no explanation for these substantial fluctuations.[^11]
 
-These figures confirm that Chainat Immigration continued processing extension applications during his tenure, following the August 2023 forum report about an agent-arranged extension stamped in Chainat for a resident of southern Thailand. However, the published statistics do not identify applicants' provinces of residence, the agents involved, or the officers who approved individual extensions, leaving questions about out-of-province processing unresolved.[^9][^11]
+The office also recorded two applications per month for obtaining or changing visa categories from October through December, followed by one in January. Atthaphon was still heading Chainat Immigration on January 9, 2025, although the exact date of his subsequent transfer remains unclear.[^2][^11]
+
+These figures document considerable variation in extension-processing activity around the end of his tenure. However, the published statistics do not identify individual applicants, their provinces of residence, participating visa agents, or the officers approving each application. Consequently, they cannot establish whether the agent-arranged extension discussed on ASEAN NOW in August 2023 was an isolated case or part of a broader practice.[^9][^11]
 
 ## 2024 Bribery-Risk Assessment for Extension Applications
 
