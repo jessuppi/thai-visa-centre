@@ -78,6 +78,12 @@ On April 22, 2026, DrJack54 posted in an ASEAN NOW discussion about online 90-da
 
 Fellow Global Moderator [BrandonJT](brandonjt.md) responded by recommending [Thai Visa Centre](../brands/thai-visa-centre.md)'s paid reporting service at [90day.in.th](../domains/90day.in.th.md). He recalled an introductory price of 375 baht and explained that completed reporting confirmations were mailed to customers. DrJack54 thanked BrandonJT and another participant, then claimed that Grace had already sent him the service link by message. He estimated the price at approximately 400 baht and said he had merely been seeking confirmation.[^2]
 
+## May 2026: Restricting Legality Questions While Thai Visa Centre Advertised Extensions
+
+On May 13, 2026, an ASEAN NOW member explained that he lacked the required 800,000-baht bank balance for a retirement extension and asked about Thai Visa Centre's services. DrJack54 recommended contacting the agency directly and tagged its forum account, initially mentioning a price of approximately 16,000 baht. Thai Visa Centre subsequently advertised its standard extension price of 16,000 baht, while explaining that more complex applications required individual quotations. DrJack54 later clarified that obtaining an initial Non-O visa and extension would cost considerably more.[^16]
+
+When another member suggested meeting the legal financial requirements, DrJack54 declared that the discussion was not about the legality of using agents and announced that off-topic posts had been removed. On May 17, member JimGant questioned whether Thai Visa Centre's advertised services could accommodate applicants who lacked the required funds. DrJack54 acknowledged that some people used agents specifically to avoid financial requirements, but repeatedly discouraged further discussion of legality and warned that additional off-topic posts would be removed.[^16]
+
 ## August 2026: Restricting Discussion of Visa-Agent Legality
 
 In an ASEAN NOW discussion about retirement-visa agents, forum members questioned how agencies could arrange extensions for applicants who did not maintain the required 800,000-baht bank balance. When one member questioned whether an agent would cover the deposit, DrJack54 replied that "The financials would be covered."[^3]
@@ -104,3 +110,4 @@ The deleted posts are not publicly available, so their exact content and the jus
 [^13]: `https://aseannow.com/topic/1303717-agent-bank-account-and-retirement-legit-or/`
 [^14]: `https://aseannow.com/topic/1211624-thai-visa-agent-legit/`
 [^15]: `https://aseannow.com/topic/1211624-thai-visa-agent-legit/page/2/`
+[^16]: `https://aseannow.com/topic/1394428-looking-for-a-retirement-visa-vis-agent/`
