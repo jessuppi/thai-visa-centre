@@ -16,6 +16,16 @@ On March 27, 2021, an ASEAN NOW member described a visa agent offering a one-yea
 
 When participants raised concerns about fraudulent applications and potential consequences for customers, DrJack54 challenged them to identify a single case in which an applicant had been punished. Another member subsequently described an alleged immigration investigation in Roi Et involving dismissed officers and deported foreigners. DrJack54 acknowledged the account but said he could not find independent confirmation, then tagged Thai Visa Centre's forum account for its opinion.[^15]
 
+## January 2022: Seeking Thai Visa Centre Assistance After an Immigration Refusal
+
+On January 26, 2022, ASEAN NOW member freesudani reported that immigration officials had refused another COVID-related extension after reviewing his previous extensions and had given him seven days to leave Thailand. The member explained that he had originally entered on an education visa. Other participants attributed the refusal to newly introduced restrictions affecting certain non-immigrant visa holders.[^24]
+
+When another member suggested that a visa agent could obtain an extension without difficulty, DrJack54 cautioned against making such assurances. He then directly tagged Thai Visa Centre's forum account, asking whether the agency had any options for applicants facing the same situation. Thai Visa Centre responded through its account labeled "Forum Sponsor," stating that it could still assist some comparable cases but warning that processing certain non-immigrant applications within seven days would not be possible.[^24][^25]
+
+During the same discussion, DrJack54 described recently helping a couple obtain their first COVID extensions through an agent. He claimed that their extensions had been dated from the expiration of their existing permission to stay rather than from the application date, which he said was common at many immigration offices. He specifically attributed the difference to their use of an agent.[^24]
+
+The exchange provides an early example of DrJack54 referring an applicant facing an official immigration refusal to Thai Visa Centre while also describing how an agent had obtained more favorable extension dates for other applicants. The discussion does not establish whether the agency ultimately assisted the original poster or obtained any exception to the immigration restrictions.
+
 ## February 2022: Dismissing Police Allegations Against Thai Visa Centre
 
 On February 6, 2022, ASEAN NOW member JimmyJ requested recommendations for a Bangkok visa agent. DrJack54 suggested [Thai Visa Centre](../brands/thai-visa-centre.md) alongside Bangkok Buddy. JimmyJ expressed surprise, explaining that it was the first recommendation for Thai Visa Centre he had noticed since the controversy surrounding the agency's operators.[^6]
@@ -158,3 +168,5 @@ Other participants pointed out that Thailand's immigration application form prov
 [^21]: `https://aseannow.com/topic/1336926-setv-metv-still-around-now-that-visa-exempts-are-now-60-days/`
 [^22]: `https://aseannow.com/topic/1336926-setv-metv-still-around-now-that-visa-exempts-are-now-60-days/page/2/`
 [^23]: `https://aseannow.com/topic/1402687-passport-need/`
+[^24]: `https://aseannow.com/topic/1248076-covid-visa-extension-denied/`
+[^25]: `https://aseannow.com/topic/1248076-covid-visa-extension-denied/page/3/`
