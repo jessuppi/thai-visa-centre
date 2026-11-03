@@ -52,6 +52,8 @@ The accompanying plan called for monthly publication of immigration enforcement 
 
 On August 17, 2023, while Atthaphon headed Chainat Provincial Immigration, ASEAN NOW member JustAnotherFarang reported obtaining retirement extensions through a visa agent despite living in southern Thailand. He stated that his extension was stamped in Chainat and acknowledged having sufficient money available but not maintaining it in the required Thai bank account. He also described using the same agent for approximately three years, with his annual renewal fee increasing to 18,000 baht.[^9]
 
+Thailand's published retirement-extension rules required applicants using the bank-deposit method to maintain at least 800,000 baht in a Thai bank account for two months before applying and three months after approval, with a minimum balance of 400,000 baht thereafter. Applicants could alternatively qualify through monthly income of at least 65,000 baht or a combination of income and savings.[^24] The forum user's admission that he had sufficient funds but did not keep them in the bank therefore raised questions about the financial evidence supporting his Chainat extension. However, he did not publish his application documents or disclose which financial criteria the immigration office had applied.[^9][^24]
+
 Another forum member questioned the arrangement's legality and warned that obtaining extensions outside the applicant's province of residence could leave customers dependent on agents for subsequent renewals. Thailand's Immigration Bureau handbook specifies that retirement-extension applicants should contact the immigration office responsible for their area of residence.[^9][^10]
 
 On August 18, 2023, ASEAN NOW global moderator [DrJack54](../moderators/drjack54.md) responded to the discussion after the customer disclosed that his agent-arranged retirement extension had been stamped in Chainat despite living in southern Thailand. DrJack54 agreed with another member's assessment that the customer could either continue using the agent or leave Thailand and restart the visa process. He recommended continuing with the agent for the time being, comparing increased agent fees to rising rent, without addressing why the extension had been processed outside the customer's province of residence.[^9]
@@ -115,3 +117,5 @@ The plan called for supervisory checks, anti-bribery briefings, public complaint
 [^22]: https://so10.tci-thaijo.org/index.php/paatj/article/download/433/350/932
 
 [^23]: https://chainat.imm.police.go.th/wp-content/uploads/2025/04/O24-การรายงานผลการดำเนินการ-ตามมาตรการการยก.pdf
+
+[^24]: https://thailand.go.th/issue-focus-detail/001_01_134?hl=en
