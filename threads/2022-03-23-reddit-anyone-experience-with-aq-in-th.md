@@ -18,3 +18,4 @@ The discussion documents consumer reliance on a privately operated Thailand Pass
 ## References
 
 - https://www.reddit.com/r/Thailand/comments/tl5x7r/anyone_have_experience_with_aqinth/
+- https://archive.ph/fuPPL
