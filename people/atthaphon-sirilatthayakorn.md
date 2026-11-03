@@ -54,7 +54,7 @@ On August 17, 2023, while Atthaphon headed Chainat Provincial Immigration, ASEAN
 
 Thailand's published retirement-extension rules required applicants using the bank-deposit method to maintain at least 800,000 baht in a Thai bank account for two months before applying and three months after approval, with a minimum balance of 400,000 baht thereafter. Applicants could alternatively qualify through monthly income of at least 65,000 baht or a combination of income and savings.[^24] The forum user's admission that he had sufficient funds but did not keep them in the bank therefore raised questions about the financial evidence supporting his Chainat extension. However, he did not publish his application documents or disclose which financial criteria the immigration office had applied.[^9][^24]
 
-Another forum member questioned the arrangement's legality and warned that obtaining extensions outside the applicant's province of residence could leave customers dependent on agents for subsequent renewals. Thailand's Immigration Bureau handbook specifies that retirement-extension applicants should contact the immigration office responsible for their area of residence.[^9][^10]
+Another forum member questioned the arrangement's legality and warned that obtaining extensions outside an applicant's province of residence could leave customers dependent on agents for subsequent renewals. Thailand's Immigration Bureau handbook directs retirement-extension applicants to the office responsible for their area of residence, while Chainat Immigration's own jurisdictional description covers eight districts, 51 subdistricts, and 505 villages within Chainat Province. The customer's account of receiving a Chainat-stamped extension despite living in southern Thailand therefore raises questions about the residence address used for his application and why that office processed it. The forum discussion does not provide the application documents needed to resolve those questions.[^9][^10][^25]
 
 On August 18, 2023, ASEAN NOW global moderator [DrJack54](../moderators/drjack54.md) responded to the discussion after the customer disclosed that his agent-arranged retirement extension had been stamped in Chainat despite living in southern Thailand. DrJack54 agreed with another member's assessment that the customer could either continue using the agent or leave Thailand and restart the visa process. He recommended continuing with the agent for the time being, comparing increased agent fees to rising rent, without addressing why the extension had been processed outside the customer's province of residence.[^9]
 
@@ -121,3 +121,5 @@ The plan called for supervisory checks, anti-bribery briefings, public complaint
 [^23]: https://chainat.imm.police.go.th/wp-content/uploads/2025/04/O24-การรายงานผลการดำเนินการ-ตามมาตรการการยก.pdf
 
 [^24]: https://thailand.go.th/issue-focus-detail/001_01_134?hl=en
+
+[^25]: https://chainat.imm.police.go.th/?page_id=1016
