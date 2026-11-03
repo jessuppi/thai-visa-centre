@@ -26,6 +26,12 @@ Another forum member questioned the arrangement's legality and warned that obtai
 
 The account was published during Atthaphon's tenure, raising questions about agent-arranged extensions processed through Chainat Immigration. However, the discussion does not establish the extension's exact issuance date, identify the approving officer, or conclusively identify the agency involved as Thai Visa Centre.[^9]
 
+## Visa-Extension Processing During His Tenure
+
+Official Chainat Immigration statistics recorded 131 applications for extensions of stay in October 2024, 48 in November, and 62 in December, while Atthaphon remained head of the office. The same report separately recorded two applications per month for obtaining or changing visa categories.[^11]
+
+These figures confirm that Chainat Immigration continued processing extension applications during his tenure, following the August 2023 forum report about an agent-arranged extension stamped in Chainat for a resident of southern Thailand. However, the published statistics do not identify applicants' provinces of residence, the agents involved, or the officers who approved individual extensions, leaving questions about out-of-province processing unresolved.[^9][^11]
+
 [^1]: https://www.rayongtouristpolice.com/wp-content/uploads/2023/02/สตม.-ที่-27.66-ลง-31-ม.ค.66.pdf
 
 [^2]: https://chainat.imm.police.go.th/?page_id=3000
@@ -45,3 +51,5 @@ The account was published during Atthaphon's tenure, raising questions about age
 [^9]: `https://aseannow.com/topic/1303897-retirement-visa-from-an-agent/`
 
 [^10]: https://tak.immigration.go.th/wp-content/uploads/2024/03/O8-คู่มือการให้บริการประชาชน-อังกฤษ.pdf
+
+[^11]: https://chainat.imm.police.go.th/wp-content/uploads/2025/04/O10-ตารางสถิติการให้บริการ-ต.ค.67-มี.ค.68.pdf
