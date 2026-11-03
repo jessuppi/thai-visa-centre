@@ -24,6 +24,12 @@ Although Atthaphon was still heading Chainat Immigration on January 9, 2025, off
 
 By May 27, 2025, Atthaphon had been identified as an inspector at the Bangkok Port Immigration Checkpoint. The Duang Prateep Foundation reported that he and colleagues visited the foundation to donate rice and adult diapers. This confirms that he had moved to another immigration posting following his tenure in Chainat, although the exact date of his transfer remains unclear.[^15]
 
+## December 2024: Joint Immigration Enforcement Operation
+
+On December 17, 2024, while Atthaphon headed Chainat Provincial Immigration, he was named among officers involved in a joint immigration enforcement operation in Si Prachan District, Suphan Buri. According to *Ban Muang*, highway police stopped a van on Highway 340 after noticing apparent mechanical problems and discovered eight undocumented migrants inside. The operation involved immigration personnel from Chainat, Suphan Buri, and Sing Buri, along with highway police.[^16]
+
+Police arrested the driver on suspicion of facilitating unlawful entry into Thailand and detained the eight migrants for further proceedings. Although the report identifies Atthaphon among the participating officers, it does not specify his individual role in the initial stop or subsequent arrests.[^16]
+
 ## August 2023: Questions About Agent-Arranged Extensions in Chainat
 
 On August 17, 2023, while Atthaphon headed Chainat Provincial Immigration, ASEAN NOW member JustAnotherFarang reported obtaining retirement extensions through a visa agent despite living in southern Thailand. He stated that his extension was stamped in Chainat and acknowledged having sufficient money available but not maintaining it in the required Thai bank account. He also described using the same agent for approximately three years, with his annual renewal fee increasing to 18,000 baht.[^9]
@@ -75,3 +81,5 @@ The plan called for supervisory checks, anti-bribery briefings, public complaint
 [^14]: https://chainat.imm.police.go.th/wp-content/uploads/2024/04/O19-การประเมินความเสี่ยงต่อการรับสินบน-ตม.จว.ชัยนาท.pdf
 
 [^15]: https://www.dpf.or.th/th/news.php?Page=21
+
+[^16]: https://www.banmuang.co.th/news/region/410314
