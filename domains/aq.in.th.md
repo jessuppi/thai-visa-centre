@@ -20,6 +20,12 @@ Contemporaneous Reddit discussions in January and March 2022 questioned the webs
 
 Taken together, these records establish a documented operational connection between `aq.in.th` and the Thai Visa Centre brand, while leaving the website's precise legal ownership during 2022 unresolved.
 
+## Related Records
+
+- [Anybody used AQ.in.th? (January 2022)](../threads/2022-01-01-reddit-anybody-used-the-aq-in-th.md)
+- [Anyone have experience with aq.in.th? (March 2022)](../threads/2022-03-23-reddit-anyone-experience-with-aq-in-th.md)
+- [Extending Visa via Thai Visa Centre (May 2022)](../threads/2022-05-04-reddit-extending-visa-thai-visa-centre.md)
+
 ## References
 
 - `https://tvc.co.th/scam`
