@@ -6,7 +6,7 @@
 
 ## Summary
 
-A December 2025 Reddit discussion presented a list of supposedly legitimate Thai visa agencies, initially recommending just two businesses: Thai Visa Centre (`tvc.co.th`) and Issa Compass (`issacompass.com`).
+A December 2025 Reddit discussion presented a list of supposedly legitimate Thai visa agencies, initially recommending just two businesses: [Thai Visa Centre](../brands/thai-visa-centre.md) (`tvc.co.th`) and [Issa Compass](../brands/issa-compass.md) (`issacompass.com`).
 
 Despite inviting users to contribute recommendations based on personal experience, the original post provided no explanation for selecting these two agencies, no firsthand account of using either service, and no evidence supporting their legitimacy.
 
