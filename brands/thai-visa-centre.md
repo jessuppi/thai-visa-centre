@@ -6,7 +6,7 @@ In a [May 2025 ASEAN NOW discussion](../threads/2025-05-01-asean-now-fake-tdac-e
 
 In a [May 2026 Reddit discussion](../threads/2026-05-reddit-thailand-90-day-online-reporting.md), the agency acknowledged offering paid 90-day immigration reporting services through [90day.in.th](../domains/90day.in.th.md).
 
-On its own `tvc.co.th/scam` page, the agency also stated that it operated [aq.in.th](../domains/aq.in.th.md) and [tp.in.th](../domains/tp.in.th.md) during the COVID-19 pandemic.
+On its own [`tvc.co.th/scam`](../domains/tvc.co.th.md) page, the agency also stated that it operated [aq.in.th](../domains/aq.in.th.md) and [tp.in.th](../domains/tp.in.th.md) during the COVID-19 pandemic.
 
 These statements document the agency's publicly claimed operational connections. They do not independently establish the legal ownership of the domains or the complete relationships between the corporate entities involved.
 
