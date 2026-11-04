@@ -6,7 +6,7 @@
 
 ## Summary
 
-On July 8, 2026, a welcome announcement in the newly established r/ThailandVisaAdvice subreddit explicitly identified Thai Visa Centre as the creator of the community.
+On July 8, 2026, a welcome announcement in the newly established r/ThailandVisaAdvice subreddit explicitly identified [Thai Visa Centre](../brands/thai-visa-centre.md) as the creator of the community.
 
 The announcement described the subreddit as a place for discussing Thai visas, immigration procedures, extensions, border runs, 90-day reporting, and other immigration-related subjects. Members were encouraged to share personal experiences, recommendations, warnings, and advice.
 
