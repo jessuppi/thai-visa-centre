@@ -6,7 +6,7 @@
 
 ## Summary
 
-An August 2026 ASEAN NOW discussion began when a Thai Visa Centre customer asked whether retirement visa extensions arranged through the agency would be accepted by immigration officers when applying for other services, including a Certificate of Residence or opening a bank account.
+An August 2026 ASEAN NOW discussion began when a [Thai Visa Centre](../brands/thai-visa-centre.md) customer asked whether retirement visa extensions arranged through the agency would be accepted by immigration officers when applying for other services, including a Certificate of Residence or opening a bank account.
 
 The original poster, TonBrow, subsequently explained that their primary concern was whether the visa stamps obtained through Thai Visa Centre were legitimate. They acknowledged that the agency sent passports to immigration offices in Thailand's northeastern Isan region and worried that presenting those stamps at their local immigration office might expose irregularities.
 
