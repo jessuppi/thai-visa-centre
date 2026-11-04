@@ -5,7 +5,7 @@
 
 ## Summary
 
-A January 2022 Reddit discussion questioned the legitimacy of `aq.in.th`, a privately operated website offering expedited Thailand Pass applications and COVID-era quarantine hotel bookings. The original poster expressed suspicion about the website's appearance and questioned how it could promise application processing within 6–36 hours.
+A January 2022 Reddit discussion questioned the legitimacy of [`aq.in.th`](../domains/aq.in.th.md), a privately operated website offering expedited Thailand Pass applications and COVID-era quarantine hotel bookings. The original poster expressed suspicion about the website's appearance and questioned how it could promise application processing within 6–36 hours.
 
 One commenter criticized the website's presentation, alleging that its hotel listings were designed to resemble an official government directory of approved ASQ, Sandbox, and Test & Go accommodations. According to the commenter, the website actually promoted selected hotels through commission arrangements while failing to clearly disclose its private ownership.
 
