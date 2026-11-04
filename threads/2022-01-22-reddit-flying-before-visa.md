@@ -6,7 +6,7 @@
 
 ## Summary
 
-A January 2022 Reddit discussion about delays obtaining Thai visas through the embassy in Washington, DC, included a notable recommendation for Thai Visa Centre.
+A January 2022 Reddit discussion about delays obtaining Thai visas through the embassy in Washington, DC, included a notable recommendation for [Thai Visa Centre](../brands/thai-visa-centre.md).
 
 One commenter explained that they had abandoned their non-immigrant O visa application through the US embassy, entered Thailand under the visa-exemption scheme, and used Thai Visa Centre to arrange their visa paperwork and subsequent extension.
 
