@@ -4,7 +4,7 @@
 acknowledged operating `tp.in.th` alongside
 [aq.in.th](aq.in.th.md) during the COVID-19 pandemic.
 
-On its `tvc.co.th/scam` page, the agency states:
+On its [`tvc.co.th/scam`](tvc.co.th.md) page, the agency states:
 
 > Chris featured Thai Visa Centre in his Thailand Weekly
 > coverage when we also operated AQ.IN.TH and TP.IN.TH
