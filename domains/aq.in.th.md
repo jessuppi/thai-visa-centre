@@ -2,7 +2,7 @@
 
 `aq.in.th` was a privately operated website offering quarantine hotel bookings and expedited Thailand Pass applications during the COVID-19 pandemic.
 
-[Thai Visa Centre](../brands/thai-visa-centre.md) has since publicly acknowledged operating the domain. On its own `tvc.co.th/scam` page, under the section featuring YouTuber Chris of *Retired Working For You*, the agency states:
+[Thai Visa Centre](../brands/thai-visa-centre.md) has since publicly acknowledged operating the domain. On its own [`tvc.co.th/scam`](tvc.co.th.md) page, under the section featuring YouTuber Chris of *Retired Working For You*, the agency states:
 
 > Chris featured Thai Visa Centre in his Thailand Weekly coverage when we also operated AQ.IN.TH and TP.IN.TH during COVID.
 
