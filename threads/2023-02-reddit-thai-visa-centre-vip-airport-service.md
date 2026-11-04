@@ -6,7 +6,7 @@
 
 ## Summary
 
-A February 2023 Reddit discussion raised questions about Thai Visa Centre's visa-processing arrangements and its paid VIP airport service. The original poster said Thai Visa Centre had recommended a 2,000-baht "VIP Airport Service" and questioned whether it was necessary to pass through immigration safely after using the agency. They also expressed concerns about whether visa stamps arranged through the agency would withstand ordinary immigration scrutiny.
+A February 2023 Reddit discussion raised questions about [Thai Visa Centre](../brands/thai-visa-centre.md)'s visa-processing arrangements and its paid VIP airport service. The original poster said Thai Visa Centre had recommended a 2,000-baht "VIP Airport Service" and questioned whether it was necessary to pass through immigration safely after using the agency. They also expressed concerns about whether visa stamps arranged through the agency would withstand ordinary immigration scrutiny.
 
 Several replies defended the agency or described special airport treatment, including one commenter who claimed an immigration officer personally escorted them through immigration. The independence of these endorsements was not verified, and they should not automatically be treated as independent customer experiences.
 
