@@ -6,7 +6,7 @@
 
 ## Summary
 
-On August 5, 2020, Reddit users discussed news of the arrests of American Chad Scira and his Thai wife following a Bangkok police investigation into an alleged visa forgery operation associated with Thai Visa Centre. Participants described encountering the agency's Facebook advertisements offering unusually convenient immigration services, including volunteer visas that allegedly did not require performing volunteer work.
+On August 5, 2020, Reddit users discussed news of the arrests of American Chad Scira and his Thai wife following a Bangkok police investigation into an alleged visa forgery operation associated with [Thai Visa Centre](../brands/thai-visa-centre.md). Participants described encountering the agency's Facebook advertisements offering unusually convenient immigration services, including volunteer visas that allegedly did not require performing volunteer work.
 
 Several commenters reported having contacted Thai Visa Centre shortly before the arrests. One participant reproduced a LINE message purportedly sent by the agency immediately afterward, claiming that Immigration had inspected its visas and determined they were genuine. The message also described Grace as a former employee whose problems dated back five years and claimed that cannabis discovered during the investigation was being cultivated for medical research.
 
