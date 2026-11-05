@@ -62,6 +62,12 @@ On December 17, 2024, while Atthaphon headed Chainat Provincial Immigration, he 
 
 Police arrested the driver on suspicion of facilitating unlawful entry into Thailand and detained the eight migrants for further proceedings. Although the report identifies Atthaphon among the participating officers, it does not specify his individual role in the initial stop or subsequent arrests.[^16]
 
+## August 2024: Chainat Immigration Transparency Assessment Results
+
+On August 16, 2024, Thailand's National Anti-Corruption Commission (NACC) announced the results of its fiscal 2024 Integrity and Transparency Assessment (ITA). Chainat Provincial Immigration, headed by Atthaphon Sirilatthayakorn, received a score of 99.27 out of 100, ranking third nationally among provincial immigration offices and immigration checkpoints. The office received the assessment's highest rating, *Excellent Pass* (ผ่านดีเยี่ยม).[^33]
+
+Uthai Thani Immigration ranked first with 99.41 points, followed by Samut Sakhon Immigration with 99.33 points. Chainat's result exceeded the Immigration Bureau's overall score of 95.88 points. The assessment was conducted during Atthaphon's tenure as provincial immigration inspector, approximately five months before his departure from Chainat in early 2025.[^33]
+
 ## December 2024–January 2025: Transparency Oversight
 
 On December 12, 2024, Atthaphon chaired a meeting at Chainat Provincial Immigration to prepare for the office's fiscal 2025 Integrity and Transparency Assessment (ITA). The office issued Order No. 31/2567 establishing a working group to oversee the assessment.[^23]
@@ -160,3 +166,5 @@ The plan called for supervisory checks, anti-bribery briefings, public complaint
 [^31]: https://hris.parliament.go.th/ss_th.php/ss_detail.php?lang=th&sapa_id=&ssp_id=34262
 
 [^32]: https://data.creden.co/company/general/0245558000234
+
+[^33]: https://www.nacc.go.th/files/article/attachments/2741056567c2193d784f8a92928ad566be1eefd.pdf
