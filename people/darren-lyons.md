@@ -8,6 +8,14 @@ Before becoming CEO of The Thaiger, Darren Lyons worked in foreign-exchange tech
 
 The biography also identifies Lyons as managing director of RE Marketing, a digital marketing agency serving businesses across Southeast Asia. He took over its management from founder Michael Kenner and was listed as an adviser to several other online businesses, including FazWaz, BoatCrowd, and YonderTours.[^4]
 
+## Digital Broker Ventures and related businesses
+
+[Digital Broker Ventures](../brands/digital-broker-ventures.md) identifies Darren Lyons as its chief marketing officer, alongside CEO Michael Kenner and co-founder Paul Trayman. The venture builder's portfolio includes [The Thaiger](../brands/the-thaiger.md), MyMediTravel, RE Marketing, and FazWaz, establishing a network of overlapping business interests rather than unrelated ventures.[^5]
+
+Digital Broker Ventures states that it helped transform the Phuket Gazette's publishing operation into The Thaiger's digital platform. The Thaiger's own company history identifies Digital Broker Ventures as the new owners behind the newspaper's transition in 2018.[^5][^6]
+
+The relationships extend beyond publishing. Digital Broker Ventures identifies Lyons as the owner of MyMediTravel, while RE Marketing's company biography identifies him as its managing director. Michael Kenner, who founded RE Marketing, is also listed as CEO of Digital Broker Ventures, connecting the two businesses through shared leadership.[^4][^5]
+
 ## Khaosod English copyright complaint
 
 On September 16, 2020, Khaosod English filed a police complaint against The Thaiger's management at Prachachuen Police Station in Bangkok, alleging repeated copyright infringement. The newspaper identified at least 20 instances in which its articles and photographs were allegedly reproduced without permission, with The Thaiger's staff credited as the authors. Khaosod English also accused the website of monetizing the copied material.[^1]
@@ -32,3 +40,5 @@ The announcement stated that ASEAN NOW's existing staff and moderators would be 
 [^2]: https://www.theverge.com/24065145/ai-obituary-spam-generative-clickbait
 [^3]: `https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand`
 [^4]: https://www.remarketz.com/meet-the-team/
+[^5]: https://dbventures.io/
+[^6]: `https://thethaiger.com/about-us-2`
