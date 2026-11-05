@@ -16,6 +16,14 @@ Digital Broker Ventures states that it helped transform the Phuket Gazette's pub
 
 The relationships extend beyond publishing. Digital Broker Ventures identifies Lyons as the owner of MyMediTravel, while RE Marketing's company biography identifies him as its managing director. Michael Kenner, who founded RE Marketing, is also listed as CEO of Digital Broker Ventures, connecting the two businesses through shared leadership.[^4][^5]
 
+## The Thaiger ownership change and FazWaz connections
+
+In 2026, The Thaiger stated that its Singapore-registered publisher, [The Thaiger Pte. Ltd.](../companies/the-thaiger-pte-ltd.md), had become wholly owned by Dot Property Pte. Ltd., part of the Lifull Connect group. The announcement did not identify Darren Lyons as a buyer, seller, or shareholder in the transaction.[^6]
+
+The ownership change is notable because Dot Property already had documented connections to FazWaz, another business associated with the [Digital Broker Ventures](../brands/digital-broker-ventures.md) network. A February 2023 disclosure by Japanese company LIFULL confirmed Dot Property's acquisition of FazWaz Thailand Co., Ltd. It also identified Michael Kenner, Paul Trayman, and Brennan Campbell as collectively holding 73% of FazWaz Pte. Ltd. at that time.[^7]
+
+The ownership structure changed again in 2025. Law firm DFDL reported that the FazWaz founders obtained all voting rights in Connect Next, the joint venture holding Lifull Connect, despite holding a 45% ownership stake. Taken together, these records document overlapping business relationships between The Thaiger's new ownership group and figures previously associated with Digital Broker Ventures. They do not establish that Lyons personally held shares or participated in those transactions.[^8]
+
 ## Khaosod English copyright complaint
 
 On September 16, 2020, Khaosod English filed a police complaint against The Thaiger's management at Prachachuen Police Station in Bangkok, alleging repeated copyright infringement. The newspaper identified at least 20 instances in which its articles and photographs were allegedly reproduced without permission, with The Thaiger's staff credited as the authors. Khaosod English also accused the website of monetizing the copied material.[^1]
@@ -42,3 +50,5 @@ The announcement stated that ASEAN NOW's existing staff and moderators would be 
 [^4]: `https://www.remarketz.com/meet-the-team/`
 [^5]: `https://dbventures.io/`
 [^6]: `https://thethaiger.com/about-us-2`
+[^7]: https://lifull.com/doc/2023/02/en_release_20230213_FazWaz.pdf
+[^8]: https://www.dfdl.com/insights/news/dfdl-advises-fazwaz-on-strategic-acquisition-of-lifull-connect-in-vietnam
