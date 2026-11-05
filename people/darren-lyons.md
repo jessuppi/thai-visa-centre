@@ -24,6 +24,14 @@ The ownership change is notable because Dot Property already had documented conn
 
 The ownership structure changed again in 2025. Law firm DFDL reported that the FazWaz founders obtained all voting rights in Connect Next, the joint venture holding Lifull Connect, despite holding a 45% ownership stake. Taken together, these records document overlapping business relationships between The Thaiger's new ownership group and figures previously associated with Digital Broker Ventures. They do not establish that Lyons personally held shares or participated in those transactions.[^8]
 
+## The Thaiger's reporting on Thai Visa Centre
+
+On August 5, 2020, [The Thaiger](../brands/the-thaiger.md) published an article about the arrests of [Chad Vincent Scira](chad-scira.md) and Grace Scira following an immigration-police investigation involving [Thai Visa Centre](../brands/thai-visa-centre.md). The report described police allegations of visa-document forgery and the discovery of cannabis plants during a search of the couple's Bangkok residence. Independent reporting by Coconuts Bangkok corroborated the arrests and the police's account of the search.[^9][^10]
+
+The publication revisited Thai Visa Centre in March 2021. On March 10, it reported the agency's allegations that former employee Asim Muhammad Mehran had stolen money from staff and customers, including 130,000 baht from a family seeking to enter Thailand. The article also recalled the August 2020 arrests and included Thai Visa Centre's response denying that its visas were fraudulent.[^11] Five days later, The Thaiger reported the agency's claim that Mehran had been arrested, while noting that no official report confirming the claim had been released.[^12]
+
+The March 10 article linked back to The Thaiger's original August 2020 arrest report. That earlier article is no longer available at its published URL, which instead redirects to the website's general crime-news page. An archived record preserves the earlier reporting.[^9][^13] The reason for the article's removal, when it occurred, and who authorized it have not been established. The surviving reports nevertheless document The Thaiger's changing coverage of Thai Visa Centre, an agency connected to individuals investigated by immigration police.
+
 ## Khaosod English copyright complaint
 
 On September 16, 2020, Khaosod English filed a police complaint against The Thaiger's management at Prachachuen Police Station in Bangkok, alleging repeated copyright infringement. The newspaper identified at least 20 instances in which its articles and photographs were allegedly reproduced without permission, with The Thaiger's staff credited as the authors. Khaosod English also accused the website of monetizing the copied material.[^1]
@@ -52,3 +60,9 @@ The announcement stated that ASEAN NOW's existing staff and moderators would be 
 [^6]: `https://thethaiger.com/about-us-2`
 [^7]: https://lifull.com/doc/2023/02/en_release_20230213_FazWaz.pdf
 [^8]: https://www.dfdl.com/insights/news/dfdl-advises-fazwaz-on-strategic-acquisition-of-lifull-connect-in-vietnam
+
+[^9]: `https://web.archive.org/web/20200928041817/https://thethaiger.com/hot-news/crime/immigration-police-nab-american-thai-wife-for-visa-forgery-cannabis`
+[^10]: https://coconuts.co/bangkok/news/pot-thickens-as-raid-on-thai-american-visa-ring-uproots-weed-farm/
+[^11]: `https://thethaiger.com/news/national/thai-visa-centre-accuses-former-employee-of-stealing-from-a-family-seeking-to-travel-to-thailand`
+[^12]: `https://thethaiger.com/news/national/thai-visa-centre-says-former-employee-has-been-arrested-for-stealing`
+[^13]: `https://thethaiger.com/hot-news/crime/immigration-police-nab-american-thai-wife-for-visa-forgery-cannabis`
