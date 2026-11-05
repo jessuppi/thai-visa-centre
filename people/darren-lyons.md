@@ -6,4 +6,4 @@ Darren Lyons is a British media executive and CEO of [The Thaiger](../brands/the
 
 - https://www.khaosodenglish.com/news/2020/09/17/khaosod-english-files-police-complaint-against-the-thaiger-website/
 - https://www.theverge.com/24065145/ai-obituary-spam-generative-clickbait
-- https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand
+- `https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand`
