@@ -39,6 +39,6 @@ The announcement stated that ASEAN NOW's existing staff and moderators would be 
 [^1]: https://www.khaosodenglish.com/news/2020/09/17/khaosod-english-files-police-complaint-against-the-thaiger-website/
 [^2]: https://www.theverge.com/24065145/ai-obituary-spam-generative-clickbait
 [^3]: `https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand`
-[^4]: https://www.remarketz.com/meet-the-team/
-[^5]: https://dbventures.io/
+[^4]: `https://www.remarketz.com/meet-the-team/`
+[^5]: `https://dbventures.io/`
 [^6]: `https://thethaiger.com/about-us-2`
