@@ -52,6 +52,16 @@ By March 6, 2025, Chatphum was heading Chainat Provincial Immigration and chairi
 
 Atthaphon's next documented posting was the Bangkok Port Immigration Checkpoint. On May 27, 2025, the Duang Prateep Foundation identified him as an immigration inspector stationed at Bangkok Port when he and fellow officers visited the foundation to donate rice and adult diapers.[^15] This is the latest independently documented posting located for Atthaphon; no subsequent transfer or appointment has been established from publicly available records reviewed through November 2026.
 
+## Police Rank Progression (2017–2025)
+
+Royal Thai Police personnel records document Atthaphon Sirilatthayakorn's advancement from police captain to police lieutenant colonel over approximately eight years. On July 21, 2017, Royal Thai Police Order No. 409/2560 identified him as a police captain serving as a staff officer attached to the commander of Immigration Division 2. The order reassigned him as a deputy inspector at Pathum Thani Provincial Immigration.[^8]
+
+On November 30, 2021, Immigration Bureau Order No. 291/2564 continued to identify Atthaphon as a police captain, this time serving as a deputy inspector at Nakhon Pathom Provincial Immigration. The order transferred him to an inspector position in the Investigation and Suppression Division of Immigration Division 2.[^6]
+
+By January 31, 2023, Immigration Bureau Order No. 27/2566 identified him as an acting police major (ว่าที่ พ.ต.ต.) when he was transferred to head Chainat Provincial Immigration. Chainat Immigration records subsequently identified him as an acting police lieutenant colonel (ว่าที่ พ.ต.ท.) in December 2024 and January 2025.[^1][^2][^23]
+
+On May 27, 2025, the Duang Prateep Foundation identified Atthaphon as a police lieutenant colonel serving at the Bangkok Port Immigration Checkpoint. Together, these records establish his progression from captain in 2017–2021 to major by 2023 and lieutenant colonel by 2025.[^15]
+
 ## Academic Research and Publications
 
 In addition to his immigration-police career, Atthaphon Sirilatthayakorn has contributed to academic research in public administration. In July 2020, the *Research Community and Social Development Journal* published a study he co-authored examining how Thai organizations could become learning organizations within the country's cultural context. The journal identified him as affiliated with Rattana Bundit University.[^21]
