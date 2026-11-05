@@ -2,8 +2,6 @@
 
 - **Date:** February 19, 2025 (archived snapshot)
 - **Platform:** Quora
-- **Source:** https://www.quora.com/How-did-Thai-Visa-Centre-acquire-my-email-address
-- **Archive:** https://archive.ph/XU7Ic
 - **Status:** Original Quora page subsequently deleted
 
 ## Summary
@@ -20,4 +18,8 @@ These comments document public concerns about unsolicited marketing and personal
 
 The original Quora page was subsequently deleted, but a snapshot preserved on February 19, 2025, remains available through Archive.today.
 
-[PoliSciRumors thread](https://www.poliscirumors.com/topic/how-did-thai-visa-centre-acquire-my-email-address)
+## References
+
+- https://www.quora.com/How-did-Thai-Visa-Centre-acquire-my-email-address
+- https://archive.ph/XU7Ic
+- https://www.poliscirumors.com/topic/how-did-thai-visa-centre-acquire-my-email-address
