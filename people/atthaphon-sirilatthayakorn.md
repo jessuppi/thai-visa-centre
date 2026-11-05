@@ -20,6 +20,14 @@ On July 22, 2025, Itthi was appointed director of the Kla Tham Party under Party
 
 Atthaphon's brother, Atthakorn Sirilatthayakorn, also continued his political career, becoming Minister of Tourism and Sports in September 2025 after previously serving in agricultural ministerial positions. He remained in the tourism portfolio until March 2026. On April 3, 2026, the Ministry of Tourism and Sports published an account of his March 26 farewell ceremony, confirming his departure. Atthakorn subsequently continued serving as a member of Parliament for Chachoengsao Constituency 2, representing the Kla Tham Party.[^30][^31]
 
+## Atthasiri Company: Updated Financial Filings (2024–2025)
+
+Corporate-data provider Creden identifies Atthasiri Co., Ltd. (บริษัทอรรถศิริ จำกัด), registration number 0245558000234, as an active real estate company incorporated on January 26, 2015. Its updated listing identifies financial statement submissions for 2024 and 2025, registered capital of 1 million baht, and shareholders' equity of 854,690 baht, equivalent to approximately 85.47% of registered capital.[^32]
+
+These filings extend beyond the financial statements examined by Isra News in January 2025. That investigation found that Atthasiri had reported no revenue from 2015 through 2023, while carrying approximately 19.2 million baht in interest-free loans from a company director and a real estate development project valued at approximately 20.08 million baht. Atthaphon Sirilatthayakorn was identified as a 15% shareholder in the family business.[^20]
+
+The newer financial statements could clarify whether the company subsequently generated revenue, repaid any of its outstanding loans, or changed its ownership structure. Creden's publicly accessible summary confirms the additional filing years but does not disclose those detailed financial figures.[^32]
+
 ## Immigration Career and Departure from Chainat
 
 An earlier Royal Thai Police personnel order dated July 21, 2017, identifies Atthaphon as a staff officer attached to the commander of Immigration Division 2. The order transferred him to Pathum Thani Provincial Immigration as a deputy inspector under Immigration Division 3, establishing another documented posting before his subsequent assignments to Nakhon Pathom and Chainat.[^8]
@@ -150,3 +158,5 @@ The plan called for supervisory checks, anti-bribery briefings, public complaint
 [^30]: https://www.mots.go.th/news/1003360
 
 [^31]: https://hris.parliament.go.th/ss_th.php/ss_detail.php?lang=th&sapa_id=&ssp_id=34262
+
+[^32]: https://data.creden.co/company/general/0245558000234
