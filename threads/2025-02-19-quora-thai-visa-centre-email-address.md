@@ -19,3 +19,5 @@ Other participants expressed distrust of the agency and advised recipients to bl
 These comments document public concerns about unsolicited marketing and personal-data handling. However, the discussion does not independently establish where Thai Visa Centre obtained its mailing lists or substantiate allegations of database theft, bribery, or unauthorized access to government records.
 
 The original Quora page was subsequently deleted, but a snapshot preserved on February 19, 2025, remains available through Archive.today.
+
+[PoliSciRumors thread](https://www.poliscirumors.com/topic/how-did-thai-visa-centre-acquire-my-email-address)
