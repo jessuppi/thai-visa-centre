@@ -12,6 +12,14 @@ Isra News also obtained a loan agreement dated July 10, 2015, documenting a 19-m
 
 On January 27, 2025, Isra News published a further investigation into Atthasiri Co., Ltd.'s financial statements filed with Thailand's Department of Business Development. The outlet reported that the company had recorded no revenue from 2015 through 2023, with a net loss of 14,630 baht in 2023. Its latest accounts also listed 19.2 million baht in interest-free short-term loans from a company director and a real estate development project valued at approximately 20.08 million baht. The report did not establish that Atthaphon personally provided any of those loans.[^20]
 
+## Sirilatthayakorn Family Business History in Phanom Sarakham (1979–2025)
+
+The Sirilatthayakorn family's business interests in Chachoengsao Province extend back several generations. In an August 2025 interview with *Epigram*, Suphattra Sirilatthayakorn (สุพัฒตรา ศิริลัทธยากร), wife of Atthaphon's father, Itthi Sirilatthayakorn, described how Itthi's father had operated a sawmill before developing a commercial district in Phanom Sarakham. The project, built around 1979–1981, included the Siriphanom Shopping Center (ตลาดศูนย์การค้าศิริพนม), a fresh market, hotel, commercial buildings, residential properties, and the Siriphanom Rama Cinema (โรงหนังศิริพนมรามา).[^48]
+
+Suphattra, whom the publication identified as the shopping center's owner, recalled the cinema's operation and its importance to the surrounding community. Besides screening films, the venue hosted concerts and other events. It continued operating for more than three decades before closing around 2015. According to Suphattra, declining attendance and the expense of converting to digital projection contributed to the decision to close. The cinema building remained standing when *Epigram* visited in 2025, although it no longer screened films.[^48]
+
+This history provides additional context for the family's substantial property holdings. Itthi's September 2024 asset declaration included a hotel, cinema, market, and numerous commercial and residential structures among his 157 reported buildings. Separately, Atthaphon and two of his brothers held shares in Atthasiri Co., Ltd., a real estate company established in January 2015. Together, these records document the family's longstanding involvement in property development and commercial real estate in Chachoengsao, alongside its political activities.[^3][^48]
+
 ## Family Political Positions and Financial Disclosures (1992–2026)
 
 ### Father's Early Political Career and Five-Year Disqualification (1992–2024)
@@ -232,3 +240,5 @@ The plan called for supervisory checks, anti-bribery briefings, public complaint
 [^46]: https://www.pptvhd36.com/news/การเมือง/231951
 
 [^47]: https://www.thansettakij.com/business/trade-agriculture/605795
+
+[^48]: https://epigramnews.co/localry/siriphanomrama-local-theater-phanomsarakham/
