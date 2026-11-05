@@ -12,19 +12,25 @@ Isra News also obtained a loan agreement dated July 10, 2015, documenting a 19-m
 
 On January 27, 2025, Isra News published a further investigation into Atthasiri Co., Ltd.'s financial statements filed with Thailand's Department of Business Development. The outlet reported that the company had recorded no revenue from 2015 through 2023, with a net loss of 14,630 baht in 2023. Its latest accounts also listed 19.2 million baht in interest-free short-term loans from a company director and a real estate development project valued at approximately 20.08 million baht. The report did not establish that Atthaphon personally provided any of those loans.[^20]
 
-## Family Political Positions and Financial Disclosures (2024–2026)
+## Family Political Positions and Financial Disclosures (2011–2026)
 
 In January 2025, investigative outlet Isra News examined an asset declaration submitted by Atthaphon's father, Itthi Sirilatthayakorn, following his appointment as deputy minister of agriculture and cooperatives on September 6, 2024. Itthi and his wife declared combined assets of 225,894,914 baht and liabilities of 16,266,106 baht. Itthi's reported assets included 92 land plots in Chonburi and Chachoengsao provinces valued at approximately 165.16 million baht, along with 157 buildings and structures, including a hotel, cinema, market, and convenience store. The declaration also included the previously documented 19-million-baht loan to Atthasiri Co., Ltd., in which Atthaphon held a 15% ownership stake.[^3][^28]
 
+Atthaphon's brother, Atthakorn Sirilatthayakorn (อรรถกร ศิริลัทธยากร), began his parliamentary career in 2011, winning election as a Pheu Thai Party-list candidate ranked 57th. Before entering politics, he studied communication arts at Bangkok University and marketing management at Middlesex University in the United Kingdom and worked in private business. In the 2019 general election, he switched to the Palang Pracharath Party, winning another parliamentary seat as its 18th-ranked party-list candidate.[^4]
+
+Atthakorn subsequently became an assistant secretary to the government's parliamentary coordination committee and served on parliamentary budget committees. In June 2021, he joined Palang Pracharath's executive committee and became the party's spokesperson. In the 2023 general election, he won Chachoengsao Constituency 2, transitioning from party-list representation to a directly elected constituency seat.[^4][^31]
+
+His first ministerial appointment came in April 2024, when he became deputy minister of agriculture and cooperatives under Prime Minister Srettha Thavisin. Following a cabinet reshuffle later that year, his father, Itthi Sirilatthayakorn, assumed the deputy minister position in September 2024. This placed both father and son in the same ministerial portfolio at different stages of the government's tenure.[^4][^28]
+
+On July 1, 2025, another cabinet reshuffle removed Itthi from his deputy minister position while appointing Atthakorn as the new minister of agriculture and cooperatives under Prime Minister Paetongtarn Shinawatra. Atthakorn therefore returned to the ministry in a more senior position previously occupied by other political figures, including Thammanat Prompao. During a July 4 policy briefing, Atthakorn publicly credited Thammanat's support for his return and described his agricultural program as continuing policies developed during Thammanat's earlier leadership.[^40][^41]
+
 On July 22, 2025, Itthi was appointed director of the Kla Tham Party under Party Order No. 11/2568, signed by party leader Narumon Pinyosinwat. Itthi had previously represented Chachoengsao in Parliament for five terms between 1992 and 2007 and served as deputy minister of transport before returning to government as deputy minister of agriculture and cooperatives in 2024. His appointment to the party leadership established his continued involvement in national politics after leaving his ministerial position.[^29]
 
-Atthaphon's brother, Atthakorn Sirilatthayakorn, also continued his political career, becoming Minister of Tourism and Sports in September 2025 after previously serving in agricultural ministerial positions. He remained in the tourism portfolio until March 2026. On April 3, 2026, the Ministry of Tourism and Sports published an account of his March 26 farewell ceremony, confirming his departure. Atthakorn subsequently continued serving as a member of Parliament for Chachoengsao Constituency 2, representing the Kla Tham Party.[^30][^31]
+Despite leaving the cabinet, Itthi continued participating in the ministry's activities during his son's tenure. An official Department of Agriculture report dated September 3, 2025, identified Itthi as chairman of the advisory committee to the minister of agriculture and cooperatives. The report concerned agricultural-export policies being pursued under Minister Atthakorn and confirms that the father held an advisory role while his son headed the ministry.[^42]
+
+Atthakorn subsequently became minister of tourism and sports in September 2025 under Prime Minister Anutin Charnvirakul, remaining in that portfolio until March 2026. After leaving the cabinet, he continued as a Chachoengsao parliamentarian. On April 28, 2026, Kla Tham Party leader Thammanat Prompao appointed him party spokesperson under Order No. 4/2569, a position he continued holding in October 2026.[^30][^31][^38][^39]
 
 The Sirilatthayakorn family's involvement in the Kla Tham Party continued into 2026. Following a party leadership reorganization on April 28, 2026, Thailand's Election Commission listed Atthaphon's father, Itthi Sirilatthayakorn, as a serving member of the party's executive committee. An October 2, 2026 report in *Ban Muang* additionally identified Itthi as a deputy leader of the party.[^36][^37]
-
-Atthaphon's brother, Atthakorn Sirilatthayakorn, received a new political appointment on April 28, 2026, when party leader Thammanat Prompao signed Party Order No. 4/2569 naming him spokesperson of the Kla Tham Party. His responsibilities included communicating the party's political activities, parliamentary-election operations, and other matters assigned by its leader.[^38]
-
-Atthakorn remained a member of Parliament for Chachoengsao and was still serving as party spokesperson in October 2026. On October 22, Thai PBS reported his comments on the party's parliamentary strategy, opposition status, and possible participation in a future governing coalition.[^39]
 
 The father and son also appeared together in public political activities. On October 2, 2026, *Ban Muang* reported that Itthi and Atthakorn visited flood-affected communities in Chachoengsao Province, helping organize relief supplies and temporary assistance facilities. The report identified Itthi as deputy party leader and Atthakorn as a Kla Tham parliamentarian.[^37]
 
@@ -200,3 +206,9 @@ The plan called for supervisory checks, anti-bribery briefings, public complaint
 [^38]: https://www.banmuang.co.th/news/politic/474235
 
 [^39]: https://www.thaipbs.or.th/news/content/571495
+
+[^40]: https://www.pptvhd36.com/news/การเมือง/251725
+
+[^41]: https://www.thairath.co.th/news/politic/2868511
+
+[^42]: https://www.doa.go.th/th/news_board/98256/
