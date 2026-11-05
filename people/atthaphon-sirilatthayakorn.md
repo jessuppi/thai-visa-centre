@@ -52,6 +52,14 @@ The Sirilatthayakorn family's involvement in the Kla Tham Party continued into 2
 
 The father and son also appeared together in public political activities. On October 2, 2026, *Ban Muang* reported that Itthi and Atthakorn visited flood-affected communities in Chachoengsao Province, helping organize relief supplies and temporary assistance facilities. The report identified Itthi as deputy party leader and Atthakorn as a Kla Tham parliamentarian.[^37]
 
+### Brother's Role in Thai Immigration Policy (2025–2026)
+
+On October 22, 2025, Atthaphon's brother, Atthakorn Sirilatthayakorn, chaired an interagency meeting concerning Thailand's visa-exemption policy while serving as minister of tourism and sports. Representatives from the Immigration Bureau, Ministry of Foreign Affairs, Ministry of Interior, and National Security Council attended. The meeting examined whether the existing 60-day visa-exempt stay should be shortened to discourage unauthorized business activities by foreign visitors while maintaining Thailand's attractiveness to tourists.[^49]
+
+Atthakorn revisited the issue on April 9, 2026, during a parliamentary debate on Prime Minister Anutin Charnvirakul's government policy statement. By then serving as a Kla Tham Party parliamentarian for Chachoengsao, he stated that he had previously been directed to urgently review visa-exemption rules. He questioned whether allowing eligible visitors to remain for 60 days, with a possible 30-day extension, was necessary when short-haul tourists typically stayed 6–10 days and long-haul visitors averaged fewer than 22 days, according to figures he cited.[^50]
+
+Atthakorn argued that lengthy visa-exempt stays could facilitate unauthorized employment and other activities beyond tourism. He urged the Ministry of Foreign Affairs to continue reviewing the policy. His involvement placed a member of the Sirilatthayakorn family directly in national discussions about immigration and foreign visitors during the same period that Atthaphon was serving in the Immigration Bureau.[^49][^50]
+
 ## Atthasiri Company: Updated Financial Filings (2024–2025)
 
 Corporate-data provider Creden identifies Atthasiri Co., Ltd. (บริษัทอรรถศิริ จำกัด), registration number 0245558000234, as an active real estate company incorporated on January 26, 2015. Its updated listing identifies financial statement submissions for 2024 and 2025, registered capital of 1 million baht, and shareholders' equity of 854,690 baht, equivalent to approximately 85.47% of registered capital.[^32]
@@ -242,3 +250,7 @@ The plan called for supervisory checks, anti-bribery briefings, public complaint
 [^47]: https://www.thansettakij.com/business/trade-agriculture/605795
 
 [^48]: https://epigramnews.co/localry/siriphanomrama-local-theater-phanomsarakham/
+
+[^49]: https://www.matichon.co.th/economy/news_5425649
+
+[^50]: https://www.thaipost.net/politics-news/977612/
