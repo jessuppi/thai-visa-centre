@@ -20,6 +20,14 @@ On July 22, 2025, Itthi was appointed director of the Kla Tham Party under Party
 
 Atthaphon's brother, Atthakorn Sirilatthayakorn, also continued his political career, becoming Minister of Tourism and Sports in September 2025 after previously serving in agricultural ministerial positions. He remained in the tourism portfolio until March 2026. On April 3, 2026, the Ministry of Tourism and Sports published an account of his March 26 farewell ceremony, confirming his departure. Atthakorn subsequently continued serving as a member of Parliament for Chachoengsao Constituency 2, representing the Kla Tham Party.[^30][^31]
 
+The Sirilatthayakorn family's involvement in the Kla Tham Party continued into 2026. Following a party leadership reorganization on April 28, 2026, Thailand's Election Commission listed Atthaphon's father, Itthi Sirilatthayakorn, as a serving member of the party's executive committee. An October 2, 2026 report in *Ban Muang* additionally identified Itthi as a deputy leader of the party.[^36][^37]
+
+Atthaphon's brother, Atthakorn Sirilatthayakorn, received a new political appointment on April 28, 2026, when party leader Thammanat Prompao signed Party Order No. 4/2569 naming him spokesperson of the Kla Tham Party. His responsibilities included communicating the party's political activities, parliamentary-election operations, and other matters assigned by its leader.[^38]
+
+Atthakorn remained a member of Parliament for Chachoengsao and was still serving as party spokesperson in October 2026. On October 22, Thai PBS reported his comments on the party's parliamentary strategy, opposition status, and possible participation in a future governing coalition.[^39]
+
+The father and son also appeared together in public political activities. On October 2, 2026, *Ban Muang* reported that Itthi and Atthakorn visited flood-affected communities in Chachoengsao Province, helping organize relief supplies and temporary assistance facilities. The report identified Itthi as deputy party leader and Atthakorn as a Kla Tham parliamentarian.[^37]
+
 ## Atthasiri Company: Updated Financial Filings (2024–2025)
 
 Corporate-data provider Creden identifies Atthasiri Co., Ltd. (บริษัทอรรถศิริ จำกัด), registration number 0245558000234, as an active real estate company incorporated on January 26, 2015. Its updated listing identifies financial statement submissions for 2024 and 2025, registered capital of 1 million baht, and shareholders' equity of 854,690 baht, equivalent to approximately 85.47% of registered capital.[^32]
@@ -38,9 +46,11 @@ A November 30, 2021 Immigration Bureau personnel order identifies Atthaphon as a
 
 A Chainat Immigration expenditure plan for the first two quarters of fiscal 2024, reporting data through March 31, 2024, identifies him as the provincial immigration inspector in its verification section.[^13]
 
-Although Atthaphon was still heading Chainat Immigration on January 9, 2025, official records identify Police Lieutenant Colonel Chanaiyaporn Chatphum (ชไนยพร ฉัตรภูมิ) as the office's inspector on March 6, 2025. This establishes that a leadership change occurred between those dates, although the exact date of the change remains unclear.[^2][^7]
+Official Chainat Immigration records identify Atthaphon Sirilatthayakorn as the provincial immigration inspector on January 9, 2025, when he chaired a meeting concerning the office's annual Integrity and Transparency Assessment.[^2] His successor was Police Lieutenant Colonel Chanaiyaporn Chatphum (ชไนยพร ฉัตรภูมิ), who had previously served as an inspector at Surat Thani Provincial Immigration. An official Surat Thani Immigration report identifies Chatphum in that position as late as January 29, 2025, when she participated in an immigration enforcement operation.[^34]
 
-By May 27, 2025, Atthaphon had been identified as an inspector at the Bangkok Port Immigration Checkpoint. The Duang Prateep Foundation reported that he and colleagues visited the foundation to donate rice and adult diapers. This confirms that he had moved to another immigration posting following his tenure in Chainat, although the exact date of his transfer remains unclear.[^15][^18][^19]
+By March 6, 2025, Chatphum was heading Chainat Provincial Immigration and chairing its transparency-assessment meetings.[^7] She continued in that position throughout 2025 and remained the provincial immigration inspector in April 2026, according to Chainat Immigration's subsequent announcements and published leadership roster.[^35] These records narrow the leadership transition to early 2025 and establish that Chatphum was Atthaphon's replacement.
+
+Atthaphon's next documented posting was the Bangkok Port Immigration Checkpoint. On May 27, 2025, the Duang Prateep Foundation identified him as an immigration inspector stationed at Bangkok Port when he and fellow officers visited the foundation to donate rice and adult diapers.[^15] This is the latest independently documented posting located for Atthaphon; no subsequent transfer or appointment has been established from publicly available records reviewed through November 2026.
 
 ## Academic Research and Publications
 
@@ -168,3 +178,15 @@ The plan called for supervisory checks, anti-bribery briefings, public complaint
 [^32]: https://data.creden.co/company/general/0245558000234
 
 [^33]: https://www.nacc.go.th/files/article/attachments/2741056567c2193d784f8a92928ad566be1eefd.pdf
+
+[^34]: https://suratthani.imm.police.go.th/report-investigation/73/
+
+[^35]: https://chainat.imm.police.go.th/?page_id=224 and https://chainat.imm.police.go.th/?p=3127
+
+[^36]: https://party.ect.go.th/party-info/121
+
+[^37]: https://www.banmuang.co.th/news/politic/492882
+
+[^38]: https://www.banmuang.co.th/news/politic/474235
+
+[^39]: https://www.thaipbs.or.th/news/content/571495
