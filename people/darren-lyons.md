@@ -14,6 +14,12 @@ In February 2024, The Verge investigated The Thaiger's publication of obituary-s
 
 The investigation also identified several staff profiles featuring apparently AI-generated photographs, including visible inconsistencies in clothing and accessories. Neither The Thaiger nor CEO Darren Lyons responded to The Verge's requests for comment. After reporters questioned the photographs, the publication removed the affected author profiles and their article archives from its website.
 
+## Acquisition of ASEAN NOW
+
+On April 19, 2024, The Thaiger announced its acquisition of [ASEAN NOW](../brands/asean-now.md), the expatriate news and discussion community formerly known as ThaiVisa.com, from [Choice Group Asia Co., Ltd.](../companies/choice-group-asia-co-ltd.md). As CEO, Darren Lyons publicly presented the acquisition as part of a strategy to expand The Thaiger's English-language digital publishing reach in Thailand.
+
+The announcement stated that ASEAN NOW's existing staff and moderators would be retained, with plans to upgrade its technical infrastructure and expand its content offerings. The Thaiger also claimed that the combined properties would reach approximately five million monthly users, although this figure was presented by the acquiring company rather than independently verified.
+
 ## References
 
 - https://www.khaosodenglish.com/news/2020/09/17/khaosod-english-files-police-complaint-against-the-thaiger-website/
