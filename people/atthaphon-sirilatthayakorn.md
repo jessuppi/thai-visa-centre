@@ -12,6 +12,14 @@ Isra News also obtained a loan agreement dated July 10, 2015, documenting a 19-m
 
 On January 27, 2025, Isra News published a further investigation into Atthasiri Co., Ltd.'s financial statements filed with Thailand's Department of Business Development. The outlet reported that the company had recorded no revenue from 2015 through 2023, with a net loss of 14,630 baht in 2023. Its latest accounts also listed 19.2 million baht in interest-free short-term loans from a company director and a real estate development project valued at approximately 20.08 million baht. The report did not establish that Atthaphon personally provided any of those loans.[^20]
 
+## Family Political Positions and Financial Disclosures (2024–2026)
+
+In January 2025, investigative outlet Isra News examined an asset declaration submitted by Atthaphon's father, Itthi Sirilatthayakorn, following his appointment as deputy minister of agriculture and cooperatives on September 6, 2024. Itthi and his wife declared combined assets of 225,894,914 baht and liabilities of 16,266,106 baht. Itthi's reported assets included 92 land plots in Chonburi and Chachoengsao provinces valued at approximately 165.16 million baht, along with 157 buildings and structures, including a hotel, cinema, market, and convenience store. The declaration also included the previously documented 19-million-baht loan to Atthasiri Co., Ltd., in which Atthaphon held a 15% ownership stake.[^3][^28]
+
+On July 22, 2025, Itthi was appointed director of the Kla Tham Party under Party Order No. 11/2568, signed by party leader Narumon Pinyosinwat. Itthi had previously represented Chachoengsao in Parliament for five terms between 1992 and 2007 and served as deputy minister of transport before returning to government as deputy minister of agriculture and cooperatives in 2024. His appointment to the party leadership established his continued involvement in national politics after leaving his ministerial position.[^29]
+
+Atthaphon's brother, Atthakorn Sirilatthayakorn, also continued his political career, becoming Minister of Tourism and Sports in September 2025 after previously serving in agricultural ministerial positions. He remained in the tourism portfolio until March 2026. On April 3, 2026, the Ministry of Tourism and Sports published an account of his March 26 farewell ceremony, confirming his departure. Atthakorn subsequently continued serving as a member of Parliament for Chachoengsao Constituency 2, representing the Kla Tham Party.[^30][^31]
+
 ## Immigration Career and Departure from Chainat
 
 An earlier Royal Thai Police personnel order dated July 21, 2017, identifies Atthaphon as a staff officer attached to the commander of Immigration Division 2. The order transferred him to Pathum Thani Provincial Immigration as a deputy inspector under Immigration Division 3, establishing another documented posting before his subsequent assignments to Nakhon Pathom and Chainat.[^8]
@@ -134,3 +142,11 @@ The plan called for supervisory checks, anti-bribery briefings, public complaint
 [^26]: https://so10.tci-thaijo.org/index.php/paatj/article/view/683
 
 [^27]: https://so03.tci-thaijo.org/index.php/jssr/article/view/257764
+
+[^28]: https://www.isranews.org/article/isranews/135076-isranewssyu.html
+
+[^29]: https://www.amarintv.com/news/politic/520390
+
+[^30]: https://www.mots.go.th/news/1003360
+
+[^31]: https://hris.parliament.go.th/ss_th.php/ss_detail.php?lang=th&sapa_id=&ssp_id=34262
