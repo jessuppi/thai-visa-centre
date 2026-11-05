@@ -12,7 +12,17 @@ Isra News also obtained a loan agreement dated July 10, 2015, documenting a 19-m
 
 On January 27, 2025, Isra News published a further investigation into Atthasiri Co., Ltd.'s financial statements filed with Thailand's Department of Business Development. The outlet reported that the company had recorded no revenue from 2015 through 2023, with a net loss of 14,630 baht in 2023. Its latest accounts also listed 19.2 million baht in interest-free short-term loans from a company director and a real estate development project valued at approximately 20.08 million baht. The report did not establish that Atthaphon personally provided any of those loans.[^20]
 
-## Family Political Positions and Financial Disclosures (2011–2026)
+## Family Political Positions and Financial Disclosures (1992–2026)
+
+### Father's Early Political Career and Five-Year Disqualification (1992–2024)
+
+Atthaphon's father, Itthi Sirilatthayakorn (อิทธิ ศิริลัทธยากร), began his parliamentary career in Chachoengsao Province in 1992. He holds a bachelor's degree in political science from Chulalongkorn University. An archived Thai Parliament biography records his election to Parliament in September 1992, 1995, 1996, 2001, and 2005, and identifies him as a member of Parliament for Chachoengsao Constituency 1 representing the People Power Party following the 2007 election. His earlier government appointments included deputy minister of transport under Prime Minister Chuan Leekpai between 1999 and 2001 and adviser to the minister of transport.[^43][^44]
+
+During the 1990s, Itthi was associated with Group 16 (กลุ่ม 16), an influential parliamentary faction formed in November 1992. Its members included politicians from several parties, among them Suchart Tancharoen and Newin Chidchob. The group became prominent through parliamentary maneuvering and no-confidence debates. A historical account published by *Bangkok Biz News* identifies Itthi as a later member of the faction while representing the Chart Pattana Party.[^45]
+
+Itthi's subsequent political affiliations included the Chart Pattana Party, Thai Rak Thai Party, and People Power Party. In December 2008, he received a five-year political disqualification following the Constitutional Court's dissolution of the People Power Party, of which he had been an executive committee member. During his disqualification, he remained involved in political activities, including participation in a March 26, 2010 gathering associated with the United Front for Democracy Against Dictatorship (UDD), commonly known as the Red Shirt movement.[^46]
+
+Itthi later became associated with the Palang Pracharath Party between 2018 and 2024 and supported his son Atthakorn's parliamentary career. Following the breakdown of Palang Pracharath's participation in the governing coalition in 2024, the political faction associated with Thammanat Prompao backed Itthi's appointment as deputy minister of agriculture and cooperatives, replacing Atthakorn in the ministry. Itthi formally entered the government in September 2024, marking his return to a ministerial position more than two decades after his earlier service in the transport ministry.[^47]
 
 In January 2025, investigative outlet Isra News examined an asset declaration submitted by Atthaphon's father, Itthi Sirilatthayakorn, following his appointment as deputy minister of agriculture and cooperatives on September 6, 2024. Itthi and his wife declared combined assets of 225,894,914 baht and liabilities of 16,266,106 baht. Itthi's reported assets included 92 land plots in Chonburi and Chachoengsao provinces valued at approximately 165.16 million baht, along with 157 buildings and structures, including a hotel, cinema, market, and convenience store. The declaration also included the previously documented 19-million-baht loan to Atthasiri Co., Ltd., in which Atthaphon held a 15% ownership stake.[^3][^28]
 
@@ -24,7 +34,7 @@ His first ministerial appointment came in April 2024, when he became deputy mini
 
 On July 1, 2025, another cabinet reshuffle removed Itthi from his deputy minister position while appointing Atthakorn as the new minister of agriculture and cooperatives under Prime Minister Paetongtarn Shinawatra. Atthakorn therefore returned to the ministry in a more senior position previously occupied by other political figures, including Thammanat Prompao. During a July 4 policy briefing, Atthakorn publicly credited Thammanat's support for his return and described his agricultural program as continuing policies developed during Thammanat's earlier leadership.[^40][^41]
 
-On July 22, 2025, Itthi was appointed director of the Kla Tham Party under Party Order No. 11/2568, signed by party leader Narumon Pinyosinwat. Itthi had previously represented Chachoengsao in Parliament for five terms between 1992 and 2007 and served as deputy minister of transport before returning to government as deputy minister of agriculture and cooperatives in 2024. His appointment to the party leadership established his continued involvement in national politics after leaving his ministerial position.[^29]
+On July 22, 2025, Itthi was appointed director of the Kla Tham Party under Party Order No. 11/2568, signed by party leader Narumon Pinyosinwat. His appointment to the party leadership established his continued involvement in national politics after leaving his ministerial position earlier that month.[^29]
 
 Despite leaving the cabinet, Itthi continued participating in the ministry's activities during his son's tenure. An official Department of Agriculture report dated September 3, 2025, identified Itthi as chairman of the advisory committee to the minister of agriculture and cooperatives. The report concerned agricultural-export policies being pursued under Minister Atthakorn and confirms that the father held an advisory role while his son headed the ministry.[^42]
 
@@ -212,3 +222,13 @@ The plan called for supervisory checks, anti-bribery briefings, public complaint
 [^41]: https://www.thairath.co.th/news/politic/2868511
 
 [^42]: https://www.doa.go.th/th/news_board/98256/
+
+[^43]: https://old.parliament.go.th/ewtadmin/ewt/parliament_parcy/ewt_news.php?filename=index&nid=1294
+
+[^44]: https://www.matichon.co.th/weekly/featured/article_798245
+
+[^45]: https://www.bangkokbiznews.com/politics/987978
+
+[^46]: https://www.pptvhd36.com/news/การเมือง/231951
+
+[^47]: https://www.thansettakij.com/business/trade-agriculture/605795
