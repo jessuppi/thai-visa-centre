@@ -15,4 +15,4 @@ Four other Tripadvisor members subsequently reported flagging the listing for re
 
 - https://www.tripadvisor.com/ShowTopic-g1-i12105-k15580387-Og_th_marijuana_scam_site_listed_on_Tripadvisor_attractions-Tripadvisor_Support.html
 - https://web.archive.org/web/20260916134237/https://www.tripadvisor.com/ShowTopic-g1-i12105-k15580387-Og_th_marijuana_scam_site_listed_on_Tripadvisor_attractions-Tripadvisor_Support.html
-- https://www.tripadvisor.com/Attraction_Review-g293916-d28395546-Reviews-Og_th_Bangkok_Weed_Delivery-Bangkok.html
+- `https://www.tripadvisor.com/Attraction_Review-g293916-d28395546-Reviews-Og_th_Bangkok_Weed_Delivery-Bangkok.html`
