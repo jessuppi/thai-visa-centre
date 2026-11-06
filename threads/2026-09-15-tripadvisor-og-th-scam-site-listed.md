@@ -9,7 +9,7 @@ On September 15, 2026, Tripadvisor member John V reported that [og.th](../domain
 
 John V linked to the Tripadvisor attraction page titled “Og th Bangkok Weed Delivery,” arguing that the business operated online and had no physical tourist attraction. In a follow-up reply, he said he had attempted to report the listing several days earlier but received no response from Tripadvisor.
 
-Four other Tripadvisor members subsequently reported flagging the listing for removal. On September 16, one participant said Tripadvisor appeared to have removed the listing's photographs while leaving the listing itself online.
+Four Tripadvisor members—MBA60302, bk_t1, NYU62, and HeatSeekerWrexham_UK—said they reported the listing, several using Tripadvisor's “Improve this listing” feature. Member bk_t1 also recommended contacting Tripadvisor's Content Integrity team if those reports failed. On September 16, bk_t1 observed that the listing's photographs appeared to have been removed, although the attraction listing itself remained online.
 
 ## References
 
