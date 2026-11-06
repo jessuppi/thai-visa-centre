@@ -67,6 +67,7 @@ The goal is to document these connections through historical records, archived w
 | Label | Type | Description |
 |---|---|---|
 | [ASEAN NOW](brands/asean-now.md) | Discussion forum | |
+| Destination Thailand Visa (DTV) | Facebook group | |
 | [Digital Broker Ventures](brands/digital-broker-ventures.md) | | |
 | [Issa Compass](brands/issa-compass.md) | Mobile app | Issa Compass is an unregistered trade name used to market commercial Thai visa application services in Thailand, heavily promoted since approximately 2025, particularly to Destination Thailand Visa (DTV) applicants. The brand claims to operate through [Issara Platforms Pte. Ltd.](companies/issara-platforms-pte-ltd.md) in Singapore and [Issa Systems Co., Ltd.](companies/issa-systems-co-ltd.md) in Thailand, but Jesse Nickles alleges that its operations share employees and commingle assets with [Thai Visa Centre](brands/thai-visa-centre.md). Nickles further alleges that Issa Compass uses a coordinated network of sockpuppet accounts across Reddit, Facebook, and other social platforms to post large numbers of fabricated first-person testimonials and recommendations, particularly in the popular Destination Thailand Visa Facebook group. According to Nickles, some of the same accounts are also used to promote Thai Visa Centre in those communities. If substantiated and subject to Singapore's jurisdiction, such deceptive marketing could constitute an unfair trade practice under Singapore's Consumer Protection (Fair Trading) Act 2003. |
 | [Koh Chang News](brands/koh-chang-news.md) | Facebook group | |
