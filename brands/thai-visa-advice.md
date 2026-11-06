@@ -14,6 +14,14 @@ On September 24, 2023, longtime **Thai Visa Advice** moderator [Tod Daniels](../
 
 Daniels stated that he had spent eight years helping members navigate Thai immigration procedures and invited the community to vote on whether he should remain a moderator. The poll was opened for 24 hours and attracted numerous messages supporting his continued role, alongside discussion about moderation practices and accountability within the group.
 
+## January 2024: Visa Agent Restrictions Under Commercial Ownership
+
+On January 22, 2024, a member of **Thai Visa Advice** publicly questioned the group's posting rules and complained that moderators were sometimes unwelcoming toward newcomers. Longtime moderator [Tod Daniels](../people/tod-daniels.md) responded by defending the group's strict approach, emphasizing accurate immigration advice over accommodating every member's questions or preferences.
+
+During the discussion, another participant reproduced moderation guidelines attributed to Lloyd, prohibiting advertisements and referrals to paid visa agents, lawyers, and accounting firms in Thailand. Posts violating these restrictions could be deleted or closed by moderators.
+
+The rules were discussed nearly two years after [Thai Visa Centre](thai-visa-centre.md), itself a commercial visa agency, acquired the group in March 2022. This places the restrictions on recommending paid visa services in the context of agency ownership, although the discussion does not establish whether the rules were enforced differently for Thai Visa Centre and other agencies.
+
 ## Two Facebook Groups Under Thai Visa Centre Ownership
 
 [Thai Visa Centre](thai-visa-centre.md) controls two separate Facebook communities: **Thai Visa Advice** and **Thailand Visa Advice and more**. The agency acquired Thai Visa Advice in March 2022, retaining longtime moderator [Tod Daniels](../people/tod-daniels.md). Thailand Visa Advice and more is a distinct Facebook group, not a renamed version of the original community.
