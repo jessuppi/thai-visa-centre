@@ -80,6 +80,8 @@ The goal is to document these connections through historical records, archived w
 
 ## Domains
 
+This table catalogs domains appearing in the documented records, with ownership details and relevant background where available.
+
 | Domain | Owner | Description |
 |---|---|---|
 | [90day.in.th](domains/90day.in.th.md) | [Agents Co., Ltd.](companies/agents-co-ltd.md) | Designed to resemble an official Thai immigration portal for 90-day reporting while obscuring its private ownership, raising government impersonation and fraud concerns in light of Thailand's 2025 Emergency Decree on Measures for the Prevention and Suppression of Technological Crime (No. 2). |
