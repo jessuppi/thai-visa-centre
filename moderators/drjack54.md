@@ -74,6 +74,10 @@ On September 4, DrJack54 announced that posts discussing the legality of visa ag
 
 The exchange documents DrJack54 removing questions about agent legality from a discussion that subsequently became an opportunity for Thai Visa Centre to advertise its services. The deleted posts are unavailable, so their precise contents cannot be independently verified.
 
+## October 2025: Exception During His Own Retirement Extension
+
+On October 9, 2025, DrJack54 reported obtaining a retirement extension at Bangkok's Chaeng Watthana immigration office despite his bank balance having briefly fallen from the required 800,000 baht to 798,000 baht. He said immigration officials rejected his attempt to compensate with a second bank account, but a senior officer nevertheless approved the extension. DrJack54 described the outcome as a lucky break.[^26]
+
 ## October 2025: Closing a Discussion About Thai Visa Centre
 
 On October 23, 2025, ASEAN NOW member AcuDoc started a discussion asking whether anyone had personal experience with [Thai Visa Centre](../brands/thai-visa-centre.md) in Bangkok. Global Moderator DrJack54 responded by describing the agency as the "Most well known agent in Bangkok" and advising the user to contact it directly through Line or other channels. He then declared, "OP, has answer. Thread closed."[^4]
@@ -170,3 +174,4 @@ Other participants pointed out that Thailand's immigration application form prov
 [^23]: `https://aseannow.com/topic/1402687-passport-need/`
 [^24]: `https://aseannow.com/topic/1248076-covid-visa-extension-denied/`
 [^25]: `https://aseannow.com/topic/1248076-covid-visa-extension-denied/page/3/`
+[^26]: `https://aseannow.com/topic/1375440-extension-retirement-cw-report/`
