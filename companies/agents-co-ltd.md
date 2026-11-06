@@ -14,6 +14,8 @@ During the discussion, the agency also described a paid early-submission service
 
 A THNIC WHOIS record dated October 2, 2026 identifies AGENTS CO., LTD. as the registered domain-holder organization for [90day.in.th](../domains/90day.in.th.md).[^3]
 
+A THNIC WHOIS record dated October 24, 2026 also identifies AGENTS CO., LTD. as the registered domain-holder organization for [thim.in.th](../domains/thim.in.th.md), which was registered on May 29, 2026.[^5]
+
 The company's website describes 90day.in.th as an immigration reporting service and identifies [asq.in.th](../domains/asq.in.th.md) as its Ask Thailand community platform.[^4]
 
 ## References
@@ -22,3 +24,4 @@ The company's website describes 90day.in.th as an immigration reporting service 
 [^2]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
 [^3]: https://www.whoxy.com/90day.in.th
 [^4]: `https://agents.co.th/`
+[^5]: https://www.whoxy.com/thim.in.th
