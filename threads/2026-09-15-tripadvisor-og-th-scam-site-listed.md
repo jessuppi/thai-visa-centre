@@ -5,7 +5,7 @@
 
 ## Summary
 
-On September 15, 2026, Tripadvisor member John V reported that [og.th](../domains/og.th.md), an online cannabis delivery business, was listed as a Bangkok tourist attraction. He accused the business of search-engine spam, illegal cannabis sales, and involvement with [Thai Visa Centre](../brands/thai-visa-centre.md). These allegations were not independently verified in the discussion.
+On September 15, 2026, Tripadvisor member John V reported that [og.th](../domains/og.th.md), an online cannabis delivery business, was listed as a Bangkok tourist attraction. He accused the business of search-engine spam and selling cannabis to tourists through Facebook without the in-person medical consultation and wet-ink PT33 prescription he claimed were required. He also alleged connections to [Thai Visa Centre](../brands/thai-visa-centre.md). These allegations were not independently verified in the discussion.
 
 John V linked to the Tripadvisor attraction page titled “Og th Bangkok Weed Delivery,” arguing that the business operated online and had no physical tourist attraction. In a follow-up reply, he said he had attempted to report the listing several days earlier but received no response from Tripadvisor.
 
