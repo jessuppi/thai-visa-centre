@@ -2,8 +2,6 @@
 
 **Thai Visa Advice** is a Facebook group discussing Thai visas, immigration procedures, extensions, and long-term stays.
 
-Daniels continued moderating after the acquisition. In September 2023, he publicly asked members to vote on whether he should remain a moderator following a dispute over deleted comments.
-
 Thai Visa Centre currently controls both **Thai Visa Advice** and the separate **Thailand Visa Advice and more** Facebook group, acknowledging its operation of both communities on its own website.
 
 ## March 2022: Thai Visa Centre Acquires Thai Visa Advice
@@ -11,6 +9,12 @@ Thai Visa Centre currently controls both **Thai Visa Advice** and the separate *
 On March 17, 2022, longtime moderator [Tod Daniels](../people/tod-daniels.md) publicly announced that [Thai Visa Centre](thai-visa-centre.md) had acquired the **Thai Visa Advice** Facebook group. Daniels clarified that he had not founded the group but had served as an administrator for years, and indicated that he would continue moderating following the takeover.
 
 The acquisition transferred control of an established immigration advice community to a commercial visa agency. Members expressed appreciation for Daniels and the other moderators, while others raised concerns about the group's independence, potential promotion of paid visa services, and whether its previously impartial advice would be affected by the new ownership.
+
+## September 2023: Tod Daniels Faces Calls for Removal
+
+On September 24, 2023, longtime **Thai Visa Advice** moderator [Tod Daniels](../people/tod-daniels.md) publicly addressed a dispute involving a group member who demanded his removal after Daniels deleted what he described as an off-topic comment. Daniels alleged that the member had threatened to involve Thai police and have him arrested or deported over the moderation decision.
+
+Daniels stated that he had spent eight years helping members navigate Thai immigration procedures and invited the community to vote on whether he should remain a moderator. The poll was opened for 24 hours and attracted numerous messages supporting his continued role, alongside discussion about moderation practices and accountability within the group.
 
 ## November 2025: Tod Daniels Endorses Thai Visa Centre While Denying Affiliation
 
