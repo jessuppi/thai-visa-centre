@@ -53,7 +53,7 @@ The goal is to document these connections through historical records, archived w
 
 | Label | Country | Description |
 |---|---|---|
-| [Agents Co., Ltd.](companies/agents-co-ltd.md) | Thailand | |
+| [Agents Co., Ltd.](companies/agents-co-ltd.md) | Thailand | Thai company registered on December 12, 2019. Public corporate records list visa and work-permit brokerage among its business activities, alongside web programming and online hotel reservation services. [Thai Visa Centre](brands/thai-visa-centre.md) publicly identified the company as the operator of [tdac.in.th](domains/tdac.in.th.md) and [tdac.agents.co.th](domains/tdac.agents.co.th.md) in May 2025. |
 | [Atthasiri Co., Ltd.](companies/atthasiri-co-ltd.md) | Thailand | Thai real estate company associated with the Sirilatthayakorn family. Investigative reporting identified immigration officer [Atthaphon Sirilatthayakorn](people/atthaphon-sirilatthayakorn.md) as a 15% shareholder and reported that the company received a 19-million-baht loan from his father in 2015, despite recording no revenue between 2015 and 2023. |
 | [Choice Group Asia Co., Ltd.](companies/choice-group-asia-co-ltd.md) | Thailand | Former owner of [ASEAN NOW](brands/asean-now.md) (previously ThaiVisa.com), whose digital assets, including its discussion forums, were acquired by [The Thaiger](brands/the-thaiger.md) in April 2024. |
 | [Digital Identity Co., Ltd.](companies/digital-identity-co-ltd.md) | Thailand | |
