@@ -2,8 +2,6 @@
 
 **Thai Visa Advice** is a Facebook group discussing Thai visas, immigration procedures, extensions, and long-term stays.
 
-Thai Visa Centre currently controls both **Thai Visa Advice** and the separate **Thailand Visa Advice and more** Facebook group, acknowledging its operation of both communities on its own website.
-
 ## March 2022: Thai Visa Centre Acquires Thai Visa Advice
 
 On March 17, 2022, longtime moderator [Tod Daniels](../people/tod-daniels.md) publicly announced that [Thai Visa Centre](thai-visa-centre.md) had acquired the **Thai Visa Advice** Facebook group. Daniels clarified that he had not founded the group but had served as an administrator for years, and indicated that he would continue moderating following the takeover.
@@ -15,6 +13,12 @@ The acquisition transferred control of an established immigration advice communi
 On September 24, 2023, longtime **Thai Visa Advice** moderator [Tod Daniels](../people/tod-daniels.md) publicly addressed a dispute involving a group member who demanded his removal after Daniels deleted what he described as an off-topic comment. Daniels alleged that the member had threatened to involve Thai police and have him arrested or deported over the moderation decision.
 
 Daniels stated that he had spent eight years helping members navigate Thai immigration procedures and invited the community to vote on whether he should remain a moderator. The poll was opened for 24 hours and attracted numerous messages supporting his continued role, alongside discussion about moderation practices and accountability within the group.
+
+## Two Facebook Groups Under Thai Visa Centre Ownership
+
+[Thai Visa Centre](thai-visa-centre.md) controls two separate Facebook communities: **Thai Visa Advice** and **Thailand Visa Advice and more**. The agency acquired Thai Visa Advice in March 2022, retaining longtime moderator [Tod Daniels](../people/tod-daniels.md). Thailand Visa Advice and more is a distinct Facebook group, not a renamed version of the original community.
+
+Both groups provide discussions about Thai visas, immigration procedures, and residency requirements. By controlling these communities, Thai Visa Centre can influence moderation decisions, remove posts, and determine which recommendations or competing visa services remain visible to members. This creates a potential conflict of interest between providing impartial immigration advice and promoting the commercial interests of the agency that owns the groups.
 
 ## November 2025: Tod Daniels Endorses Thai Visa Centre While Denying Affiliation
 
