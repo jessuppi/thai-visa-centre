@@ -36,6 +36,18 @@ These restrictions were consistent with rules published in June 2018, before Tha
 
 As of November 6, 2026, the **Thai Visa Advice** Facebook group's About page lists both [Chad Scira](../people/chad-scira.md) and [Thai Visa Centre](thai-visa-centre.md) as administrators. Their listed administrative roles are separate from the unresolved question of who paid for the group's acquisition.[^11]
 
+The same About page lists seven moderators as of November 6, 2026:[^11]
+
+| Username |
+| --- |
+| Garrett Greenwald |
+| Tod Daniels |
+| Ellie Takei |
+| James Miller |
+| Stuart Cumming |
+| John Stanners |
+| Brandon Thurkettle |
+
 Both groups provide discussions about Thai visas, immigration procedures, and residency requirements. By controlling these communities, Thai Visa Centre can influence moderation decisions, remove posts, and determine which recommendations or competing visa services remain visible to members. This creates a potential conflict of interest between providing impartial immigration advice and promoting the commercial interests of the agency that owns the groups.[^2][^3][^11]
 
 ## Original Group Owners and Transfer History
