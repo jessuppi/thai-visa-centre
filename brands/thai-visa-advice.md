@@ -50,6 +50,12 @@ Although [Thai Visa Centre](thai-visa-centre.md) has acknowledged controlling bo
 
 Jesse Nickles believes [Chad Scira](../people/chad-scira.md) may have personally paid the groups' previous owners to transfer control. This remains an unverified allegation, as no purchase agreements, payment records, or corresponding corporate disclosures have been made public. If personal funds were used to acquire communities subsequently controlled by a commercial visa agency, the arrangement could raise questions about beneficial ownership, accounting treatment, potential commingling of personal and business assets, and compliance with applicable Thai corporate and tax regulations.
 
+## 2025: Moderator Denies Agency Affiliation and Reaffirms DIY Policy
+
+In a March 2025 discussion, a participant identified as **James**, who described himself as a moderator of **Thai Visa Advice**, denied operating a visa agency or having any affiliation with [Thai Visa Centre](thai-visa-centre.md). However, he explicitly acknowledged that Thai Visa Centre owned the Facebook group he moderated.
+
+James also described the group as a community intended for members handling their own visa applications, stating that discussions about using visa agents were prohibited. His remarks reinforced the group's longstanding restrictions on paid visa services, although they did not establish how consistently those rules were enforced following the commercial takeover.
+
 ## November 2025: Tod Daniels Endorses Thai Visa Centre While Denying Affiliation
 
 On November 11, 2025, longtime Thai Visa Advice moderator [Tod Daniels](../people/tod-daniels.md) publicly endorsed [Thai Visa Centre](thai-visa-centre.md) in an ASEAN NOW discussion. He described the agency as the "best marketed, most well managed visa agency in Thailand," praising its nationwide operations, reliability, pricing, and customer service.
@@ -70,3 +76,4 @@ His denial of affiliation is difficult to reconcile with his ongoing role modera
 - `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/page/2/`
 - `https://asq.in.th/question/what-are-the-implications-of-thai-visa-centre-buying-the-thai-visa-advice-facebook-group-1`
 - `https://ask.in.th/question/what-are-the-official-rules-for-posting-in-the-thai-visa-advice-facebook-group`
+- `https://asq.in.th/question/do-i-need-to-stay-in-the-country-where-i-applied-for-a-thailand-visa-until-it-is-approved`
