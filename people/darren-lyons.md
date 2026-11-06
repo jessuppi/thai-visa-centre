@@ -34,13 +34,15 @@ The March 10 article linked back to The Thaiger's original August 2020 arrest re
 
 ## Unofficial TDAC promotion across The Thaiger and ASEAN NOW
 
-On September 24, 2025, [The Thaiger](../brands/the-thaiger.md) published a sponsored article promoting an unofficial Thailand Digital Arrival Card (TDAC) submission service operated by Agents Co., Ltd. The article directed readers to the company's privately operated application website and promoted additional services, including travel insurance, eSIMs, and airport assistance. It emphasized the ability to submit TDAC applications early, while stating that submissions through the service were free within 72 hours of arrival.[^14]
+[Thai Visa Centre](../brands/thai-visa-centre.md) publicly identifies [Agents Co., Ltd.](../companies/agents-co-ltd.md) as its digital division, responsible for its TDAC, e-visa, and 90-day reporting systems. The agency identifies the company under Thai registration number **0115562031107**, which is also listed in an independent Thai business directory. Agents Co. was registered on December 12, 2019.[^14][^15]
 
-The unofficial TDAC service was also promoted on [ASEAN NOW](../brands/asean-now.md), the forum acquired by The Thaiger in April 2024. An account named ThaiVisaCentre, designated as a *Forum Sponsor*, promoted the service and linked to its associated websites.[^15] In a July 23, 2025 discussion, BrandonJT, an ASEAN NOW global moderator, recommended Thai Visa Centre for airport-entry assistance and directed readers to its TDAC application form, where additional paid services could be selected.[^16]
+On June 13, 2025, [The Thaiger](../brands/the-thaiger.md) published a press release promoting Agents Co.'s unofficial Thailand Digital Arrival Card (TDAC) service. The article advertised free submissions within 72 hours of arrival and optional early-submission fees ranging from US$0.50 to $8.[^16] On September 24, The Thaiger published another promotional article, explicitly labeled *Sponsored*, directing readers to the same company's TDAC platform and advertising additional services, including travel insurance, eSIMs, and airport assistance.[^17]
 
-These promotions continued after Thailand's Immigration Bureau issued a warning on June 18, 2025, advising travelers to register through the official government website, `tdac.immigration.go.th`. Authorities emphasized that TDAC registration was entirely free and cautioned against unofficial websites requesting payments or personal information.[^17]
+The unofficial TDAC service was also promoted on [ASEAN NOW](../brands/asean-now.md), the forum acquired by The Thaiger in April 2024. An account named ThaiVisaCentre, designated as a *Forum Sponsor*, promoted the service and linked to its associated websites.[^18] In a July 23, 2025 discussion, **BrandonJT, an ASEAN NOW global moderator**, recommended Thai Visa Centre for airport-entry assistance and directed readers to its TDAC application form, where additional paid services could be selected.[^19]
 
-The sponsored article and forum activity document how The Thaiger and ASEAN NOW promoted an unofficial TDAC service associated with Thai Visa Centre, despite the availability of free government registration.
+These promotions continued after Thailand's Immigration Bureau issued a warning on June 18, 2025, advising travelers to register through the official government website, `tdac.immigration.go.th`. Authorities emphasized that TDAC registration was entirely free and cautioned against unofficial websites requesting payments or personal information.[^20]
+
+The Thaiger and ASEAN NOW therefore carried repeated promotions of an unofficial TDAC service operated by Thai Visa Centre's self-described digital division, despite the availability of free government registration.
 
 ## Khaosod English copyright complaint
 
@@ -77,7 +79,10 @@ The announcement stated that ASEAN NOW's existing staff and moderators would be 
 [^12]: `https://thethaiger.com/news/national/thai-visa-centre-says-former-employee-has-been-arrested-for-stealing`
 [^13]: `https://thethaiger.com/hot-news/crime/immigration-police-nab-american-thai-wife-for-visa-forgery-cannabis`
 
-[^14]: `https://thethaiger.com/travel/thailand-travel/early-thailand-tdac-applications-enhanced-by-insurance-and-esim-partnerships`
-[^15]: `https://aseannow.com/topic/1361664-apply-for-your-tdac-early-here/`
-[^16]: `https://aseannow.com/topic/1367646-cant-apply-for-dtv-yet-what-are-my-best-options-to-stay-here/`
-[^17]: https://www.touristpolice.go.th/post/tpbnews2025061801
+[^14]: `https://tvc.co.th/scam`
+[^15]: https://www.dataforthai.com/company/0115562031107/
+[^16]: `https://thethaiger.com/travel/thailand-travel/apply-for-your-tdac-early-today-with-agents`
+[^17]: `https://thethaiger.com/travel/thailand-travel/early-thailand-tdac-applications-enhanced-by-insurance-and-esim-partnerships`
+[^18]: `https://aseannow.com/topic/1361664-apply-for-your-tdac-early-here/`
+[^19]: `https://aseannow.com/topic/1367646-cant-apply-for-dtv-yet-what-are-my-best-options-to-stay-here/`
+[^20]: https://www.touristpolice.go.th/post/tpbnews2025061801
