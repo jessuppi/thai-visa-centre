@@ -116,6 +116,8 @@ The goal is to document these connections through historical records, archived w
 
 ## Threads
 
+The following table indexes public discussions about Thai Visa Centre and related entities, summarizing the main claims, responses, and subsequent developments.
+
 | Date | Platform | Thread | Summary |
 |---|---|---|---|
 | 2019-11 | Udon Map | [Warning, visa agency accessing immigration database](threads/2019-11-udon-map-visa-agency-immigration-database.md) | Discussion questioning how Thai Visa Centre obtained expatriates' email addresses and immigration details, including a reproduced promotional email from Grace. Following the agency's May 2024 removal request, the administrator replaced the 35-post discussion with a notice. The entire thread was subsequently deleted. |
