@@ -18,6 +18,8 @@ The relationships extend beyond publishing. Digital Broker Ventures identifies L
 
 ## Thaiger AI and commercial ties
 
+In November 2023, Darren Lyons announced the expansion of The Thaiger's digital marketing operations, explaining that services previously handled through sister company RE Marketing were being brought under The Thaiger brand.[^24] Thaiger AI's company biography also identifies Lyons as its product manager and states that he has served as The Thaiger's CEO since 2022. The same team page lists Michael Kenner and Paul Trayman, both associated with Digital Broker Ventures, as Thaiger AI board members.[^25]
+
 [The Thaiger](../brands/the-thaiger.md) also operates Thaiger AI, which describes itself as the publication's AI and automation division and says it began serving clients in 2023. Its published case studies identify a 2024 automated voice-calling project for FazWaz and a 2025 WhatsApp lead-generation project for Dot Property. The website also features a testimonial from MyMediTravel's chief operating officer describing its customer-service chatbot work.[^21]
 
 These companies have existing connections to Darren Lyons's business network. Lyons founded MyMediTravel, FazWaz was part of the [Digital Broker Ventures](../brands/digital-broker-ventures.md) portfolio, and Dot Property became the owner of The Thaiger's publishing company in 2026. Thaiger AI's published projects document commercial relationships extending across businesses associated with the publication's former investors and subsequent ownership.[^4][^5][^6][^21]
@@ -97,3 +99,5 @@ The announcement stated that ASEAN NOW's existing staff and moderators would be 
 [^21]: `https://www.thaiger.ai/`
 [^22]: `https://thethaiger.com/news/business/become-an-investor-in-the-thaiger`
 [^23]: `https://thethaiger.com/news/other-news/who-is-the-thaiger`
+[^24]: `https://thethaiger.com/hot-news/the-thaiger-offers-a-solution-to-upgrade-your-brand-with-the-thaiger-marketing`
+[^25]: `https://www.thaiger.ai/about-us`
