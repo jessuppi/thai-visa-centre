@@ -22,11 +22,11 @@ Both groups provide discussions about Thai visas, immigration procedures, and re
 
 ## Original Group Owners and Transfer History
 
-The original ownership of **Thai Visa Advice** remains unclear. In his March 17, 2022 acquisition announcement, longtime moderator [Tod Daniels](../people/tod-daniels.md) claimed that he had not founded the group, despite having administered the community for years. Some members nevertheless described him as its creator in subsequent discussions, and the original founder has not been independently identified.
+The original ownership of **Thai Visa Advice** is partly documented. In his March 17, 2022 acquisition announcement, longtime moderator [Tod Daniels](../people/tod-daniels.md) claimed that he had not founded the group. In a subsequent reply, Daniels identified **Lloyd Turner** as its previous owner before the acquisition by [Thai Visa Centre](thai-visa-centre.md).
 
-In November 2025, Daniels again acknowledged that [Thai Visa Centre](thai-visa-centre.md) had purchased the group from its previous owner, but did not identify that individual or entity.
+Some members nevertheless described Daniels as the group's creator in later discussions. While Turner has been identified as the previous owner, it remains unclear whether he originally founded the community or acquired it from someone else.
 
-The ownership history of the separate **Thailand Visa Advice and more** Facebook group is even less transparent. Its original founder, previous administrators, and the circumstances under which Thai Visa Centre obtained control have not been publicly established, leaving the ownership histories of both communities incomplete.
+The ownership history of the separate **Thailand Visa Advice and more** Facebook group is less transparent. Its original founder, previous administrators, and the circumstances under which Thai Visa Centre obtained control have not been publicly established.
 
 ## Undisclosed Acquisition Payments and Ownership
 
@@ -50,3 +50,5 @@ His denial of affiliation is difficult to reconcile with his ongoing role modera
 - `https://asq.in.th/question/should-tod-daniels-stay-as-a-moderator-in-the-thai-visa-advice-group`
 - `https://tvc.co.th/scam`
 - `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/page/2/`
+- `https://asq.in.th/question/what-are-the-implications-of-thai-visa-centre-buying-the-thai-visa-advice-facebook-group-1`
+- `https://ask.in.th/question/what-are-the-official-rules-for-posting-in-the-thai-visa-advice-facebook-group`
