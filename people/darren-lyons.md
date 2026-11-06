@@ -24,6 +24,8 @@ These companies have existing connections to Darren Lyons's business network. Ly
 
 ## The Thaiger ownership change and FazWaz connections
 
+In August 2021, [The Thaiger](../brands/the-thaiger.md) invited readers to become shareholders in The Thaiger Pte. Ltd. through a pre-Series A fundraising round, offering three investment options. By October, the company reported raising nearly **US$500,000** from its audience. According to The Thaiger, the funds were intended to support expansion beyond news publishing into e-commerce, daily deals, and media production.[^22][^23]
+
 In 2026, The Thaiger stated that its Singapore-registered publisher, [The Thaiger Pte. Ltd.](../companies/the-thaiger-pte-ltd.md), had become wholly owned by Dot Property Pte. Ltd., part of the Lifull Connect group. The announcement did not identify Darren Lyons as a buyer, seller, or shareholder in the transaction.[^6]
 
 The ownership change is notable because Dot Property already had documented connections to FazWaz, another business associated with the [Digital Broker Ventures](../brands/digital-broker-ventures.md) network. A February 2023 disclosure by Japanese company LIFULL confirmed Dot Property's acquisition of FazWaz Thailand Co., Ltd. It also identified Michael Kenner, Paul Trayman, and Brennan Campbell as collectively holding 73% of FazWaz Pte. Ltd. at that time.[^7]
@@ -93,3 +95,5 @@ The announcement stated that ASEAN NOW's existing staff and moderators would be 
 [^19]: `https://aseannow.com/topic/1367646-cant-apply-for-dtv-yet-what-are-my-best-options-to-stay-here/`
 [^20]: https://www.touristpolice.go.th/post/tpbnews2025061801
 [^21]: `https://www.thaiger.ai/`
+[^22]: `https://thethaiger.com/news/business/become-an-investor-in-the-thaiger`
+[^23]: `https://thethaiger.com/news/other-news/who-is-the-thaiger`
