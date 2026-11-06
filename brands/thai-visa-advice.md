@@ -1,10 +1,16 @@
 # Thai Visa Advice
 
-**Thai Visa Advice** is a Facebook group discussing Thai visas, immigration procedures, extensions, and long-term stays. On March 17, 2022, longtime moderator [Tod Daniels](../people/tod-daniels.md) announced that the group had been acquired by [Thai Visa Centre](thai-visa-centre.md).
+**Thai Visa Advice** is a Facebook group discussing Thai visas, immigration procedures, extensions, and long-term stays.
 
 Daniels continued moderating after the acquisition. In September 2023, he publicly asked members to vote on whether he should remain a moderator following a dispute over deleted comments.
 
 Thai Visa Centre currently controls both **Thai Visa Advice** and the separate **Thailand Visa Advice and more** Facebook group, acknowledging its operation of both communities on its own website.
+
+## March 2022: Thai Visa Centre Acquires Thai Visa Advice
+
+On March 17, 2022, longtime moderator [Tod Daniels](../people/tod-daniels.md) publicly announced that [Thai Visa Centre](thai-visa-centre.md) had acquired the **Thai Visa Advice** Facebook group. Daniels clarified that he had not founded the group but had served as an administrator for years, and indicated that he would continue moderating following the takeover.
+
+The acquisition transferred control of an established immigration advice community to a commercial visa agency. Members expressed appreciation for Daniels and the other moderators, while others raised concerns about the group's independence, potential promotion of paid visa services, and whether its previously impartial advice would be affected by the new ownership.
 
 ## November 2025: Tod Daniels Endorses Thai Visa Centre While Denying Affiliation
 
