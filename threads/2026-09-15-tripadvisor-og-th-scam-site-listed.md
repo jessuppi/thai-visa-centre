@@ -7,9 +7,12 @@
 
 On September 15, 2026, Tripadvisor member John V reported that [og.th](../domains/og.th.md), an online cannabis delivery business, was listed as a Bangkok tourist attraction. He accused the business of search-engine spam, illegal cannabis sales, and involvement with [Thai Visa Centre](../brands/thai-visa-centre.md). These allegations were not independently verified in the discussion.
 
+John V linked to the Tripadvisor attraction page titled “Og th Bangkok Weed Delivery,” arguing that the business operated online and had no physical tourist attraction. In a follow-up reply, he said he had attempted to report the listing several days earlier but received no response from Tripadvisor.
+
 Four other Tripadvisor members subsequently reported flagging the listing for removal. On September 16, one participant said Tripadvisor appeared to have removed the listing's photographs while leaving the listing itself online.
 
 ## References
 
 - https://www.tripadvisor.com/ShowTopic-g1-i12105-k15580387-Og_th_marijuana_scam_site_listed_on_Tripadvisor_attractions-Tripadvisor_Support.html
 - https://web.archive.org/web/20260916134237/https://www.tripadvisor.com/ShowTopic-g1-i12105-k15580387-Og_th_marijuana_scam_site_listed_on_Tripadvisor_attractions-Tripadvisor_Support.html
+- https://www.tripadvisor.com/Attraction_Review-g293916-d28395546-Reviews-Og_th_Bangkok_Weed_Delivery-Bangkok.html
