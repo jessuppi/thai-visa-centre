@@ -24,6 +24,12 @@ In November 2023, Darren Lyons announced the expansion of The Thaiger's digital 
 
 These companies have existing connections to Darren Lyons's business network. Lyons founded MyMediTravel, FazWaz was part of the [Digital Broker Ventures](../brands/digital-broker-ventures.md) portfolio, and Dot Property became the owner of The Thaiger's publishing company in 2026. Thaiger AI's published projects document commercial relationships extending across businesses associated with the publication's former investors and subsequent ownership.[^4][^5][^6][^21]
 
+## Advertising and cross-platform promotion
+
+An advertising brochure hosted on The Thaiger's website under a March 2021 URL identified Darren Lyons as its contact for commercial inquiries. The brochure offered sponsored articles and advertorials starting at **39,500 baht**, including homepage placement, backlinks, republication, and Facebook promotion. A premium package costing **82,000 baht** included additional backlinks and video production. It also promoted RE Marketing's services, citing work with FazWaz, MyMediTravel, and Mordee.[^27]
+
+Following The Thaiger's acquisition of ASEAN NOW on April 19, 2024, the company announced joint advertising packages on **May 24, 2024**, starting at **30,000 baht**. Advertisers were offered promotional articles on both platforms, pinned ASEAN NOW forum topics, newsletter placements, website backlinks, and social media promotion. These packages established a commercial channel for distributing paid promotional content across the news publication and its acquired discussion forum.[^3][^28]
+
 ## The Thaiger ownership change and FazWaz connections
 
 In August 2021, [The Thaiger](../brands/the-thaiger.md) invited readers to become shareholders in The Thaiger Pte. Ltd. through a pre-Series A fundraising round, offering three investment options. By October, the company reported raising nearly **US$500,000** from its audience. According to The Thaiger, the funds were intended to support expansion beyond news publishing into e-commerce, daily deals, and media production.[^22][^23]
@@ -108,3 +114,5 @@ The announcement stated that ASEAN NOW's existing staff and moderators would be 
 [^24]: `https://thethaiger.com/hot-news/the-thaiger-offers-a-solution-to-upgrade-your-brand-with-the-thaiger-marketing`
 [^25]: `https://www.thaiger.ai/about-us`
 [^26]: `https://thethaiger.com/editorial-standards`
+[^27]: `https://thethaiger.com/wp-content/uploads/2021/03/Advertise-with-Thaiger.pdf`
+[^28]: `https://thethaiger.com/hot-news/advertise-on-aseannow-and-the-thaiger-to-dominate-the-thai-market`
