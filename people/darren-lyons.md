@@ -66,6 +66,12 @@ In February 2024, The Verge investigated The Thaiger's publication of obituary-s
 
 The investigation also identified several staff profiles featuring apparently AI-generated photographs, including visible inconsistencies in clothing and accessories. Neither The Thaiger nor CEO Darren Lyons responded to The Verge's requests for comment. After reporters questioned the photographs, the publication removed the affected author profiles and their article archives from its website.[^2]
 
+## The Thaiger's stated editorial standards
+
+The Thaiger's editorial standards, last reviewed in September 2026, state that every news article must have an identifiable journalist and undergo editorial review. The publication acknowledges using AI for research, translation, and drafting but says AI cannot be credited as an author. Its policies also require attribution to original news sources, public correction notices, disclosure of relevant commercial relationships, and clear labeling of sponsored content.[^26]
+
+These policies provide a later account of The Thaiger's editorial practices following the 2020 Khaosod English copyright complaint and The Verge's 2024 investigation into apparently AI-generated obituaries.[^1][^2]
+
 ## Acquisition of ASEAN NOW
 
 On April 19, 2024, The Thaiger announced its acquisition of [ASEAN NOW](../brands/asean-now.md), the expatriate news and discussion community formerly known as ThaiVisa.com, from [Choice Group Asia Co., Ltd.](../companies/choice-group-asia-co-ltd.md). As CEO, Darren Lyons publicly presented the acquisition as part of a strategy to expand The Thaiger's English-language digital publishing reach in Thailand.[^3]
@@ -101,3 +107,4 @@ The announcement stated that ASEAN NOW's existing staff and moderators would be 
 [^23]: `https://thethaiger.com/news/other-news/who-is-the-thaiger`
 [^24]: `https://thethaiger.com/hot-news/the-thaiger-offers-a-solution-to-upgrade-your-brand-with-the-thaiger-marketing`
 [^25]: `https://www.thaiger.ai/about-us`
+[^26]: `https://thethaiger.com/editorial-standards`
