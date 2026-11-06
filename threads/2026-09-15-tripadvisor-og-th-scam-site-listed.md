@@ -11,6 +11,12 @@ John V linked to the Tripadvisor attraction page titled “Og th Bangkok Weed De
 
 Four Tripadvisor members—MBA60302, bk_t1, NYU62, and HeatSeekerWrexham_UK—said they reported the listing, several using Tripadvisor's “Improve this listing” feature. Member bk_t1 also recommended contacting Tripadvisor's Content Integrity team if those reports failed. On September 16, bk_t1 observed that the listing's photographs appeared to have been removed, although the attraction listing itself remained online.
 
+## Later developments
+
+Subsequent replies reported that Tripadvisor had finally removed the “Og th Bangkok Weed Delivery” attraction listing. Participants also criticized Tripadvisor's increasing reliance on AI-based moderation, arguing that it made legitimate spam reports difficult to resolve while leaving the platform vulnerable to abuse.
+
+According to Jesse Nickles, accounts he believed were Thai Visa Centre sockpuppets coordinated mass spam reports against the forum discussion, allegedly causing the thread to be automatically deleted. This accusation has not been independently verified.
+
 ## References
 
 - https://www.tripadvisor.com/ShowTopic-g1-i12105-k15580387-Og_th_marijuana_scam_site_listed_on_Tripadvisor_attractions-Tripadvisor_Support.html
