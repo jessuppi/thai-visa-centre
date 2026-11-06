@@ -18,7 +18,7 @@ The company's website describes 90day.in.th as an immigration reporting service 
 
 ## References
 
-[^1]: [DataForThai — AGENTS CO., LTD.](https://www.dataforthai.com/company/0115562031107/)
-[^2]: [ASEAN NOW — Fake TDAC website emerges as new system debuts in Thailand](https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/)
-[^3]: [Whoxy — 90day.in.th WHOIS](https://www.whoxy.com/90day.in.th)
-[^4]: [AGENTS CO., LTD. website](https://agents.co.th/)
+[^1]: https://www.dataforthai.com/company/0115562031107/
+[^2]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
+[^3]: https://www.whoxy.com/90day.in.th
+[^4]: `https://agents.co.th/`
