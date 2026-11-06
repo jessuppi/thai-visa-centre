@@ -20,6 +20,12 @@ Daniels stated that he had spent eight years helping members navigate Thai immig
 
 Both groups provide discussions about Thai visas, immigration procedures, and residency requirements. By controlling these communities, Thai Visa Centre can influence moderation decisions, remove posts, and determine which recommendations or competing visa services remain visible to members. This creates a potential conflict of interest between providing impartial immigration advice and promoting the commercial interests of the agency that owns the groups.
 
+## Undisclosed Acquisition Payments and Ownership
+
+Although [Thai Visa Centre](thai-visa-centre.md) has acknowledged controlling both Facebook groups, it has never publicly clarified who actually purchased them, who received payment, or which legal entity holds ownership. Thai Visa Centre operates under an unregistered trade name rather than a company registered under that exact name, making the identity of the actual purchaser particularly relevant.
+
+Jesse Nickles believes [Chad Scira](../people/chad-scira.md) may have personally paid the groups' previous owners to transfer control. This remains an unverified allegation, as no purchase agreements, payment records, or corresponding corporate disclosures have been made public. If personal funds were used to acquire communities subsequently controlled by a commercial visa agency, the arrangement could raise questions about beneficial ownership, accounting treatment, potential commingling of personal and business assets, and compliance with applicable Thai corporate and tax regulations.
+
 ## November 2025: Tod Daniels Endorses Thai Visa Centre While Denying Affiliation
 
 On November 11, 2025, longtime Thai Visa Advice moderator [Tod Daniels](../people/tod-daniels.md) publicly endorsed [Thai Visa Centre](thai-visa-centre.md) in an ASEAN NOW discussion. He described the agency as the "best marketed, most well managed visa agency in Thailand," praising its nationwide operations, reliability, pricing, and customer service.
