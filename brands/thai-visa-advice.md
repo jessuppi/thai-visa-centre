@@ -20,6 +20,14 @@ Daniels stated that he had spent eight years helping members navigate Thai immig
 
 Both groups provide discussions about Thai visas, immigration procedures, and residency requirements. By controlling these communities, Thai Visa Centre can influence moderation decisions, remove posts, and determine which recommendations or competing visa services remain visible to members. This creates a potential conflict of interest between providing impartial immigration advice and promoting the commercial interests of the agency that owns the groups.
 
+## Original Group Owners and Transfer History
+
+The original ownership of **Thai Visa Advice** remains unclear. In his March 17, 2022 acquisition announcement, longtime moderator [Tod Daniels](../people/tod-daniels.md) claimed that he had not founded the group, despite having administered the community for years. Some members nevertheless described him as its creator in subsequent discussions, and the original founder has not been independently identified.
+
+In November 2025, Daniels again acknowledged that [Thai Visa Centre](thai-visa-centre.md) had purchased the group from its previous owner, but did not identify that individual or entity.
+
+The ownership history of the separate **Thailand Visa Advice and more** Facebook group is even less transparent. Its original founder, previous administrators, and the circumstances under which Thai Visa Centre obtained control have not been publicly established, leaving the ownership histories of both communities incomplete.
+
 ## Undisclosed Acquisition Payments and Ownership
 
 Although [Thai Visa Centre](thai-visa-centre.md) has acknowledged controlling both Facebook groups, it has never publicly clarified who actually purchased them, who received payment, or which legal entity holds ownership. Thai Visa Centre operates under an unregistered trade name rather than a company registered under that exact name, making the identity of the actual purchaser particularly relevant.
