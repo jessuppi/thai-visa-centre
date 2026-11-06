@@ -34,6 +34,8 @@ These restrictions were consistent with rules published in June 2018, before Tha
 
 [Thai Visa Centre](thai-visa-centre.md) controls two separate Facebook communities: **Thai Visa Advice** and **Thailand Visa Advice and more**. The agency acquired Thai Visa Advice in March 2022, retaining longtime moderator [Tod Daniels](../people/tod-daniels.md). Thailand Visa Advice and more is a distinct Facebook group, not a renamed version of the original community.
 
+The **Thai Visa Advice** Facebook group's About page lists both [Chad Scira](../people/chad-scira.md) and [Thai Visa Centre](thai-visa-centre.md) as administrators. Their listed administrative roles are separate from the unresolved question of who paid for the group's acquisition.
+
 Both groups provide discussions about Thai visas, immigration procedures, and residency requirements. By controlling these communities, Thai Visa Centre can influence moderation decisions, remove posts, and determine which recommendations or competing visa services remain visible to members. This creates a potential conflict of interest between providing impartial immigration advice and promoting the commercial interests of the agency that owns the groups.
 
 ## Original Group Owners and Transfer History
@@ -77,3 +79,4 @@ His denial of affiliation is difficult to reconcile with his ongoing role modera
 - `https://asq.in.th/question/what-are-the-implications-of-thai-visa-centre-buying-the-thai-visa-advice-facebook-group-1`
 - `https://ask.in.th/question/what-are-the-official-rules-for-posting-in-the-thai-visa-advice-facebook-group`
 - `https://asq.in.th/question/do-i-need-to-stay-in-the-country-where-i-applied-for-a-thailand-visa-until-it-is-approved`
+- `https://www.facebook.com/groups/thaivisaadvice/about`
