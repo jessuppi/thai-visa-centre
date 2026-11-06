@@ -2,6 +2,14 @@
 
 **Thai Visa Advice** is a Facebook group discussing Thai visas, immigration procedures, extensions, and long-term stays.
 
+## June 2018: Original Group Rules
+
+On June 13, 2018, **Lloyd Turner**, later identified by [Tod Daniels](../people/tod-daniels.md) as the previous owner of **Thai Visa Advice**, published the group's membership and posting rules. New members were required to explain why they wanted to join and whether they were currently in Thailand.
+
+The guidelines prohibited advertisements and referrals to paid visa agents, lawyers, and accounting firms in Thailand. They also restricted discussions to Thai visa matters, discouraged off-topic comments, and emphasized respectful, accurate advice.
+
+These restrictions were documented nearly four years before [Thai Visa Centre](thai-visa-centre.md) acquired the group in March 2022, establishing that the prohibition on promoting paid visa services originated under the previous ownership.
+
 ## March 2022: Thai Visa Centre Acquires Thai Visa Advice
 
 On March 17, 2022, longtime moderator [Tod Daniels](../people/tod-daniels.md) publicly announced that [Thai Visa Centre](thai-visa-centre.md) had acquired the **Thai Visa Advice** Facebook group. Daniels clarified that he had not founded the group but had served as an administrator for years, and indicated that he would continue moderating following the takeover.
@@ -14,13 +22,13 @@ On September 24, 2023, longtime **Thai Visa Advice** moderator [Tod Daniels](../
 
 Daniels stated that he had spent eight years helping members navigate Thai immigration procedures and invited the community to vote on whether he should remain a moderator. The poll was opened for 24 hours and attracted numerous messages supporting his continued role, alongside discussion about moderation practices and accountability within the group.
 
-## January 2024: Visa Agent Restrictions Under Commercial Ownership
+## January 2024: Existing Posting Rules Revisited
 
 On January 22, 2024, a member of **Thai Visa Advice** publicly questioned the group's posting rules and complained that moderators were sometimes unwelcoming toward newcomers. Longtime moderator [Tod Daniels](../people/tod-daniels.md) responded by defending the group's strict approach, emphasizing accurate immigration advice over accommodating every member's questions or preferences.
 
 During the discussion, another participant reproduced moderation guidelines attributed to Lloyd, prohibiting advertisements and referrals to paid visa agents, lawyers, and accounting firms in Thailand. The guidelines stated that such advertisements or referrals could be deleted, while unrelated discussions could be closed or removed.
 
-These restrictions were described in January 2024, nearly two years after [Thai Visa Centre](thai-visa-centre.md), itself a commercial visa agency, acquired the group. The discussion did not clarify whether the restrictions also applied to Thai Visa Centre or how moderators enforced them.
+These restrictions were consistent with rules published in June 2018, before Thai Visa Centre acquired the group. However, the January 2024 discussion did not clarify whether the restrictions applied equally to the group's commercial owner or how moderators enforced them following the acquisition.
 
 ## Two Facebook Groups Under Thai Visa Centre Ownership
 
@@ -51,6 +59,8 @@ Despite this enthusiastic endorsement, Daniels denied having any personal affili
 His denial of affiliation is difficult to reconcile with his ongoing role moderating a Facebook community owned by the very agency he was promoting. The financial arrangements surrounding the group's acquisition, including whether Daniels received payment or other benefits, were not disclosed.
 
 ## References
+
+- `https://asq.in.th/question/what-are-the-rules-for-joining-the-thai-visa-advice-group-1`
 
 - `https://www.facebook.com/groups/thaivisaadvice/`
 - `https://www.facebook.com/groups/thailandvisaadvice/`
