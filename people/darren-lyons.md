@@ -16,6 +16,12 @@ Digital Broker Ventures states that it helped transform the Phuket Gazette's pub
 
 The relationships extend beyond publishing. Digital Broker Ventures identifies Lyons as the owner of MyMediTravel, while RE Marketing's company biography identifies him as its managing director. Michael Kenner, who founded RE Marketing, is also listed as CEO of Digital Broker Ventures, connecting the two businesses through shared leadership.[^4][^5]
 
+## Thaiger AI and commercial ties
+
+[The Thaiger](../brands/the-thaiger.md) also operates Thaiger AI, which describes itself as the publication's AI and automation division and says it began serving clients in 2023. Its published case studies identify a 2024 automated voice-calling project for FazWaz and a 2025 WhatsApp lead-generation project for Dot Property. The website also features a testimonial from MyMediTravel's chief operating officer describing its customer-service chatbot work.[^21]
+
+These companies have existing connections to Darren Lyons's business network. Lyons founded MyMediTravel, FazWaz was part of the [Digital Broker Ventures](../brands/digital-broker-ventures.md) portfolio, and Dot Property became the owner of The Thaiger's publishing company in 2026. Thaiger AI's published projects document commercial relationships extending across businesses associated with the publication's former investors and subsequent ownership.[^4][^5][^6][^21]
+
 ## The Thaiger ownership change and FazWaz connections
 
 In 2026, The Thaiger stated that its Singapore-registered publisher, [The Thaiger Pte. Ltd.](../companies/the-thaiger-pte-ltd.md), had become wholly owned by Dot Property Pte. Ltd., part of the Lifull Connect group. The announcement did not identify Darren Lyons as a buyer, seller, or shareholder in the transaction.[^6]
@@ -86,3 +92,4 @@ The announcement stated that ASEAN NOW's existing staff and moderators would be 
 [^18]: `https://aseannow.com/topic/1361664-apply-for-your-tdac-early-here/`
 [^19]: `https://aseannow.com/topic/1367646-cant-apply-for-dtv-yet-what-are-my-best-options-to-stay-here/`
 [^20]: https://www.touristpolice.go.th/post/tpbnews2025061801
+[^21]: `https://www.thaiger.ai/`
