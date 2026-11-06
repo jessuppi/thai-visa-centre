@@ -112,6 +112,10 @@ DrJack54 initially suggested obtaining a retirement extension through an agent. 
 
 Thai Visa Centre responded through its account designated "Forum Sponsor," announcing that it had privately sent the member a personal telephone number. The exchange documents a direct referral from an ASEAN NOW moderator to the forum's commercial sponsor, despite the member having repeatedly explained his financial difficulties.[^9]
 
+## December 2025: Dispute in a Thai Visa Centre-Related Facebook Group
+
+On December 29, 2025, DrJack54 acknowledged participating in a heated Facebook discussion about immigration reporting. He identified the group as "Thailand Visa Advice and more," said he believed it was connected to Thai Visa Centre, and described receiving hostile reactions despite providing supporting information.[^28]
+
 ## January 2026: Promoting Thai Visa Centre’s Airport Fast-Track Service
 
 On January 29, 2026, DrJack54 recommended another service offered by Thai Visa Centre during an ASEAN NOW discussion about travelers concerned that Thai immigration might refuse entry after repeated visa-exempt visits. When a member expressed interest in airport assistance, DrJack54 tagged the forum sponsor, writing, “@ThaiVisaCentre also has this, service.”
@@ -178,3 +182,4 @@ Other participants pointed out that Thailand's immigration application form prov
 [^25]: `https://aseannow.com/topic/1248076-covid-visa-extension-denied/page/3/`
 [^26]: `https://aseannow.com/topic/1375440-extension-retirement-cw-report/`
 [^27]: `https://aseannow.com/topic/1383006-switch-from-non-o-marriage-visa-to-retirement-visa/`
+[^28]: `https://aseannow.com/topic/1383091-first-90-day-report/`
