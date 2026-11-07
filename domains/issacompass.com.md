@@ -9,6 +9,8 @@ On November 7, 2026, **Jesse Nickles** examined the websites' publicly accessibl
 ## References
 
 - `https://www.issacompass.com/`
+- [BuiltWith technology profile for issacompass.com](https://builtwith.com/issacompass.com)
+- [W3Techs site information for issacompass.com](https://w3techs.com/sites/info/issacompass.com)
 - `https://tvc.co.th/`
 - `https://agents.co.th/`
 - `https://90day.in.th/`
