@@ -6,6 +6,8 @@ A February 2, 2025 discussion on RaiYai also identified Sawadee (888) Co., Ltd. 
 
 As of November 7, 2026, `thaivisacenter.com` instead identifies [Sawadee (2497) Co., Ltd.](sawadee-2497-co-ltd.md) in its footer and contact information. Both company names have appeared in connection with the same business location, suggesting a historical relationship that warrants further investigation.
 
+The websites `sawadeevisa.com` and `thaivisacenter.com` also publish the same two landline numbers but identify them in reverse roles. The telephone number listed by one agency appears as the fax number of the other, and vice versa. Combined with their shared business location, this provides further evidence of overlapping operations between the two visa agencies.
+
 Thai corporate records identify a similarly named company, **Sawadeevisa (888) Co., Ltd.**, incorporated on May 2, 2016, originally as **Kindex Co., Ltd.** The company adopted its current name on December 16, 2021, remains registered as active, and lists visa and work-permit consulting among its business activities.[^2]
 
 The name differs from **Sawadee (888) Co., Ltd.**, which appears in the copyright footer of `sawadeevisa.com` alongside a 2014 copyright date. The precise corporate relationship between these names has not yet been established.
