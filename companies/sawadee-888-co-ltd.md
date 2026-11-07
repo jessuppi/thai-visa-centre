@@ -26,7 +26,7 @@ The three companies have distinct registration numbers and reported corporate st
 | Sawadeevisa (888) Co., Ltd. (formerly Kindex) | `0105559069387` | May 2, 2016 | Active | ฿1 million |
 | Sawadee (2497) Co., Ltd. | `0105568186315` | September 19, 2025 | Active | ฿1 million |
 
-Although `thaivisacenter.com` advertises a customer-facing office in Bangkok's Wang Thonglang district, corporate records place Sawadee (2497)'s registered office in Suan Luang.[^3] Separate registered and operating offices could account for the difference. The records do not establish whether Sawadee (2497) acquired or succeeded either of the earlier companies.
+Corporate records place Sawadee (2497)'s registered office in Bangkok's Wang Thonglang district. The `thaivisacenter.com` website advertises a different street address within the same district.[^3] The records do not establish whether Sawadee (2497) acquired or succeeded either of the earlier companies.
 
 ## Website similarities
 
