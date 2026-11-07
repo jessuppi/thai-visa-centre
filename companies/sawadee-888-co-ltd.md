@@ -2,15 +2,25 @@
 
 **Sawadee (888) Co., Ltd.** is a Thai company name historically associated with visa and work permit services in Bangkok. The website `sawadeevisa.com` identifies the company in its footer and advertises visa extensions, work permits, immigration assistance, and company registration services.
 
-Thai corporate records identify **Sawadee (888) Company Limited**, incorporated on November 20, 2014. Its reported business activities included visa consulting alongside CCTV and vehicle-camera sales. The company was marked *ร้าง* (abandoned) on October 2, 2020.[^5][^6]
+## Corporate records
 
-A February 2, 2025 discussion on RaiYai also identified Sawadee (888) Co., Ltd. as the operator of `thaivisacenter.com`, which uses the **Thai Visa Center** name with American spelling.[^1]
+Thai corporate records identify **Sawadee (888) Company Limited**, incorporated on November 20, 2014. Its reported business activities included visa consulting alongside CCTV and vehicle-camera sales. Creden lists financial statement years of 2014 and 2015 for this company, which was marked *ร้าง* (abandoned) on October 2, 2020.[^5][^6]
 
-As of November 7, 2026, `thaivisacenter.com` instead identifies [Sawadee (2497) Co., Ltd.](sawadee-2497-co-ltd.md) in its footer and contact information. Both company names have appeared in connection with the same business location, suggesting a historical relationship that warrants further investigation.
+A separately registered company, **Sawadeevisa (888) Co., Ltd.**, was incorporated on May 2, 2016, originally as **Kindex Co., Ltd.** It adopted its current name on December 16, 2021, remains listed as active, and identifies visa and work-permit consulting among its business activities.[^2]
 
-Public corporate records list Sawadee (2497) Co., Ltd. as a separately registered company incorporated on September 19, 2025, with visa and work-permit consulting among its business activities.[^3] These records do not establish whether it acquired or succeeded Sawadee (888).
+The latter company's most recently reported financial-statement business category, however, is wholesale of other food products rather than visa services.[^2] This category does not establish what services the company currently provides or whether it took over another company's operations.
 
-The websites `sawadeevisa.com` and `thaivisacenter.com` also publish the same two landline numbers but identify them in reverse roles. The telephone number listed by one agency appears as the fax number of the other, and vice versa. Combined with their shared business location, this provides further evidence of overlapping operations between the two visa agencies.
+A Thai business-directory listing also associates Sawadeevisa (888) Co., Ltd. with visa, work-permit, and company-registration services at the same Bangkok business location associated with `sawadeevisa.com`.[^4] The original Sawadee (888) and the later Sawadeevisa (888) have distinct corporate registrations. The similarity of their names, services, and location suggests a connection but does not establish common ownership or a transfer of operations.
+
+A February 2, 2025 discussion on RaiYai identified Sawadee (888) Co., Ltd. as the operator of `thaivisacenter.com`, which uses the **Thai Visa Center** name with American spelling.[^1]
+
+A third company, **[Sawadee (2497) Co., Ltd.](sawadee-2497-co-ltd.md)**, was separately incorporated on September 19, 2025, with visa and work-permit consulting among its registered activities.[^3] As of November 7, 2026, `thaivisacenter.com` identifies Sawadee (2497) in its footer and contact information instead of Sawadee (888).
+
+Although `thaivisacenter.com` advertises a customer-facing office in Bangkok's Wang Thonglang district, corporate records place Sawadee (2497)'s registered office in Suan Luang.[^3] Separate registered and operating offices could account for the difference. The records do not establish whether Sawadee (2497) acquired or succeeded either of the earlier companies.
+
+## Website similarities
+
+The websites `sawadeevisa.com` and `thaivisacenter.com` publish the same two landline numbers but identify them in reverse roles. The telephone number listed by one agency appears as the fax number of the other, and vice versa. Both also advertise the same business location.
 
 As reviewed on November 7, 2026, the **Our Clients** page on `sawadeevisa.com` and the **Our Pride** page on `thaivisacenter.com` each displayed lists of 50 companies. Of those entries, 48 contained matching company names in exactly the same order and positions.
 
@@ -21,13 +31,7 @@ Both lists include companies such as Jaymart, Body Glove (Thailand), Impact Exhi
 
 The pages also contain closely matching Thai-language introductions, English promotional statements, and descriptions of visa, work-permit, and company-registration services.
 
-The extensive duplication suggests that the websites share content or have a historical operational connection. Combined with their overlapping business location and contact information, this provides further evidence of a relationship between the agencies. However, the published lists do not independently establish that the named companies were customers, nor do they prove common legal ownership or a transfer of business operations.
-
-Thai corporate records identify a similarly named company, **Sawadeevisa (888) Co., Ltd.**, incorporated on May 2, 2016, originally as **Kindex Co., Ltd.** The company adopted its current name on December 16, 2021, remains registered as active, and lists visa and work-permit consulting among its business activities.[^2]
-
-A Thai business-directory listing also identifies Sawadeevisa (888) Co., Ltd. as a provider of visa, work-permit, and company-registration services at the same Bangkok business location associated with `sawadeevisa.com`.[^4] This supports a connection between the names but does not conclusively establish their legal relationship.
-
-Sawadee (888) Company Limited and Sawadeevisa (888) Co., Ltd. have separate corporate registrations. The former was incorporated in 2014, while the latter was established under the name Kindex in 2016 and renamed in 2021. Their shared business location and similar services suggest a connection, but the available records do not establish whether ownership or operations were transferred between them.
+The duplicated content, shared location, and reversed telephone/fax roles indicate overlapping website information and suggest a historical operational connection. They do not independently establish that the listed companies were customers, common legal ownership, or a transfer of business operations among the three registered companies.
 
 ## References
 
