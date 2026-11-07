@@ -60,6 +60,7 @@ The goal is to document these connections through historical records, archived w
 | [FazWaz Co., Ltd.](companies/fazwaz-co-ltd.md) | Thailand | |
 | [Issa Systems Co., Ltd.](companies/issa-systems-co-ltd.md) | Thailand | |
 | [Issara Platforms Pte. Ltd.](companies/issara-platforms-pte-ltd.md) | Singapore | |
+| [Kindex Co., Ltd.](companies/kindex-co-ltd.md) | Thailand | |
 | [OG Thai Co., Ltd.](companies/og-thai-co-ltd.md) | Thailand | Operator of og.th, an online cannabis retailer offering products and delivery services in Thailand. According to Jesse Nickles, the business is associated with Chad Scira, and og.th was prominently advertised on thai.news, a website Nickles alleges is personally owned by Scira. |
 | [Sawadee (2497) Co., Ltd.](companies/sawadee-2497-co-ltd.md) | Thailand | |
 | [Sawadee (888) Co., Ltd.](companies/sawadee-888-co-ltd.md) | Thailand | |
