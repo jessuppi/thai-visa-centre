@@ -6,6 +6,32 @@ On November 7, 2026, **Jesse Nickles** examined the websites' publicly accessibl
 
 **This level of technical sophistication is unusual for the visa agency industry**, where businesses commonly operate relatively simple websites built with WordPress, Wix, or other off-the-shelf content management systems and website builders. Maintaining custom React and Next.js applications requires substantially more development expertise and infrastructure than a typical visa agency website. The presence of closely related technology stacks across these otherwise separate visa-service websites is therefore a noteworthy technical similarity.
 
+## Technical fingerprints
+
+The November 7, 2026 examination compared three types of publicly accessible technical evidence:
+
+- **HTML markup:** Framework and routing indicators embedded in the websites' rendered pages.
+- **JavaScript assets:** Next.js bundle structures and build-system characteristics.
+- **HTTP response headers:** Information identifying the hosting platform and content delivery infrastructure.
+
+The examination identified React and Next.js Pages Router on `issacompass.com`, with deployment through Vercel. The four comparison websites used Next.js builds associated with Turbopack and were delivered through Cloudflare.
+
+These findings establish similarities in the underlying application frameworks, alongside differences in their build architectures and deployment infrastructure.
+
+## Technical comparison
+
+| Website | Framework | Architecture | Hosting / CDN |
+|---|---|---|---|
+| `issacompass.com` | React / Next.js | Pages Router | Vercel |
+| [`tvc.co.th`](tvc.co.th.md) | Next.js | Turbopack-based | Cloudflare |
+| [`agents.co.th`](agents.co.th.md) | Next.js | Turbopack-based | Cloudflare |
+| [`90day.in.th`](90day.in.th.md) | Next.js | Turbopack-based | Cloudflare |
+| [`tdac.agents.co.th`](tdac.agents.co.th.md) | Next.js | Turbopack-based | Cloudflare |
+
+All five websites were identified as using Next.js, although `issacompass.com` differed from the others in its routing architecture and deployment platform.
+
+The comparison provides a baseline for examining more distinctive technical evidence, including shared JavaScript assets, analytics identifiers, API endpoints, and other implementation details that could reveal connections between the websites.
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
