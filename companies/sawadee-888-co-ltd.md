@@ -8,4 +8,4 @@ As of November 7, 2026, `thaivisacenter.com` instead identifies [Sawadee (2497) 
 
 ## References
 
-1. [RaiYai forum discussion](https://www.raiyai.com/forum/topic/difference-between-thai-visa-center-and-thai-visa-centre/)
+- [1] https://www.raiyai.com/forum/topic/difference-between-thai-visa-center-and-thai-visa-centre/
