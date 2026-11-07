@@ -23,10 +23,10 @@ These findings establish similarities in the underlying application frameworks, 
 | Website | Framework | Architecture | Hosting / CDN |
 |---|---|---|---|
 | `issacompass.com` | React / Next.js | Pages Router | Vercel |
-| [`tvc.co.th`](tvc.co.th.md) | Next.js | Turbopack-based | Cloudflare |
-| [`agents.co.th`](agents.co.th.md) | Next.js | Turbopack-based | Cloudflare |
-| [`90day.in.th`](90day.in.th.md) | Next.js | Turbopack-based | Cloudflare |
-| [`tdac.agents.co.th`](tdac.agents.co.th.md) | Next.js | Turbopack-based | Cloudflare |
+| [`tvc.co.th`](tvc.co.th.md) | React / Next.js | Turbopack-based | Cloudflare |
+| [`agents.co.th`](agents.co.th.md) | React / Next.js | Turbopack-based | Cloudflare |
+| [`90day.in.th`](90day.in.th.md) | React / Next.js | Turbopack-based | Cloudflare |
+| [`tdac.agents.co.th`](tdac.agents.co.th.md) | React / Next.js | Turbopack-based | Cloudflare |
 
 All five websites were identified as using Next.js, although `issacompass.com` differed from the others in its routing architecture and deployment platform.
 
