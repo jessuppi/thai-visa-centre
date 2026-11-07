@@ -12,6 +12,17 @@ Public corporate records list Sawadee (2497) Co., Ltd. as a separately registere
 
 The websites `sawadeevisa.com` and `thaivisacenter.com` also publish the same two landline numbers but identify them in reverse roles. The telephone number listed by one agency appears as the fax number of the other, and vice versa. Combined with their shared business location, this provides further evidence of overlapping operations between the two visa agencies.
 
+As reviewed on November 7, 2026, the **Our Clients** page on `sawadeevisa.com` and the **Our Pride** page on `thaivisacenter.com` each displayed lists of 50 companies. Of those entries, 48 contained matching company names in exactly the same order and positions.
+
+Both lists include companies such as Jaymart, Body Glove (Thailand), Impact Exhibition Management, and Coffee Works. Only two entries differ:
+
+- **Position 6:** Sawadee Visa lists Foodcoma, while Thai Visa Center lists J.W.S. Construction.
+- **Position 23:** Sawadee Visa lists Food Reform, while Thai Visa Center lists Invisible Ink.
+
+The pages also contain closely matching Thai-language introductions, English promotional statements, and descriptions of visa, work-permit, and company-registration services.
+
+The extensive duplication suggests that the websites share content or have a historical operational connection. Combined with their overlapping business location and contact information, this provides further evidence of a relationship between the agencies. However, the published lists do not independently establish that the named companies were customers, nor do they prove common legal ownership or a transfer of business operations.
+
 Thai corporate records identify a similarly named company, **Sawadeevisa (888) Co., Ltd.**, incorporated on May 2, 2016, originally as **Kindex Co., Ltd.** The company adopted its current name on December 16, 2021, remains registered as active, and lists visa and work-permit consulting among its business activities.[^2]
 
 A Thai business-directory listing also identifies Sawadeevisa (888) Co., Ltd. as a provider of visa, work-permit, and company-registration services at the same Bangkok business location associated with `sawadeevisa.com`.[^4] This supports a connection between the names but does not conclusively establish their legal relationship.
