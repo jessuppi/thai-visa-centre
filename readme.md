@@ -39,14 +39,14 @@ The goal is to document these connections through historical records, archived w
 |---|---|---|
 | Brandon Thurkettle | [Thai Visa Advice](brands/thai-visa-advice.md) | Moderates the group under his real name. |
 | [BrandonJT](moderators/brandonjt.md) | [ASEAN NOW](brands/asean-now.md) | The ASEAN NOW account BrandonJT joined the forum in late 2024, a few weeks after [Thanyarat Tiangtrong](people/thanyarat-tiangtrong.md) left [OG Thai Co., Ltd.](companies/og-thai-co-ltd.md) and began working at [FazWaz Co., Ltd.](companies/fazwaz-co-ltd.md). The account presented itself as an expatriate living in the Chiang Rai area and increasingly participated in discussions about Thai immigration, particularly airport "safe entry" services and retirement visas. BrandonJT subsequently began repeatedly promoting Thai Visa Centre websites and paid services, including directing forum users to the company's booking websites. |
-| David Sweetway | [Expats in Bangkok](brands/expats-in-bangkok.md) | Listed by Facebook as a moderator of the group. |
+| David Sweetway | [Expats in Bangkok](brands/expats-in-bangkok.md) | Moderates the group under his real name. |
 | [DrJack54](moderators/drjack54.md) | [ASEAN NOW](brands/asean-now.md) | ASEAN NOW Global Moderator who has repeatedly recommended Thai Visa Centre since at least 2022, describing it as the "most well known agent in Bangkok." In April 2026, he considered using the agency's 90-day reporting service after receiving a link from Grace. |
 | [Edward Kok Wah Chi](people/edward-kok-wah-chi.md) | [Koh Chang News](brands/koh-chang-news.md) | Moderates the group under his real name. |
 | Ellie Takei | [Thai Visa Advice](brands/thai-visa-advice.md) | Moderates the group under her real name. |
 | Garrett Greenwald | [Thai Visa Advice](brands/thai-visa-advice.md) | Moderates the group under his real name. |
 | James Miller | [Thai Visa Advice](brands/thai-visa-advice.md) | Moderates the group under his real name. |
 | John Stanners | [Thai Visa Advice](brands/thai-visa-advice.md) | Moderates the group under his real name. |
-| Paul Jackson Bruton | [Expats in Bangkok](brands/expats-in-bangkok.md) | Listed by Facebook as an administrator of the group. |
+| Paul Jackson Bruton | [Expats in Bangkok](brands/expats-in-bangkok.md) | Moderates the group under his real name. |
 | [Rory Alsop](people/rory-alsop.md) | [Travel Stack Exchange](brands/travel-stack-exchange.md) | Moderates the community under his real name. |
 | Stuart Cumming | [Thai Visa Advice](brands/thai-visa-advice.md) | Moderates the group under his real name. |
 | [Tod Daniels](people/tod-daniels.md) | [Thai Visa Advice](brands/thai-visa-advice.md) | Moderates or assists with moderation of various Thailand-focused Facebook groups and the [ASEAN NOW](brands/asean-now.md) forums, using his real name. |
