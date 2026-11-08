@@ -2,7 +2,7 @@
 
 - **Date:** August 23, 2025
 - **Platform:** Facebook (Expats in Bangkok - Forum)
-- **Source:** https://www.facebook.com/groups/1206669499358683/posts/32024901500442079/
+- **Source:** `https://www.facebook.com/groups/1206669499358683/posts/32024901500442079/`
 
 ## Summary
 
