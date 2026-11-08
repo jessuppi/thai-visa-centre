@@ -6,7 +6,7 @@
 
 ## Summary
 
-On August 23, 2025, a Facebook account displaying the name “Gary Alan Moberg” posted a question in the Expats in Bangkok - Forum group asking whether [Thai Visa Centre](../brands/thai-visa-centre.md) was a legitimate company. [^1] Jesse Nickles suspects the supposedly independent question was staged to promote the agency, followed by favorable endorsements from suspected sockpuppet accounts. These allegations remain unverified.
+On August 23, 2025, a Facebook account displaying the name “Gary Alan Moberg” posted a question in the [Expats in Bangkok](../brands/expats-in-bangkok.md) Facebook group asking whether [Thai Visa Centre](../brands/thai-visa-centre.md) was a legitimate company. [^1] Jesse Nickles suspects the supposedly independent question was staged to promote the agency, followed by favorable endorsements from suspected sockpuppet accounts. These allegations remain unverified.
 
 An account displaying the name **“Phil Beer”** wrote, “Yes Gary Alan Moberg THAI VISA CENTRE - visa agent is legit with shopfront”. Another account named **“Heneage Mitchell”** wrote, “Been using them for several years, no issues at all”. Another account named **“David”** said he had spoken with the agency but never used it. Profiles using the names **“Paul Wallis,” “Asokā Yudrön,”** and **“Lucio Ma”** offered brief affirmative responses without describing personal experiences. [^1] Nickles suspects that several endorsements originated from fake Facebook profiles or coordinated sockpuppet accounts promoting Thai Visa Centre, although the identities of the commenters and their alleged connections to the agency remain unverified.
 
