@@ -1,14 +1,12 @@
 # Is the Thai Visa Centre a legitimate company in Bangkok?
 
-- **Date:** 2025 (exact date unverified)
+- **Date:** August 23, 2025
 - **Platform:** Facebook (Expats in Bangkok - Forum)
 - **Source:** https://www.facebook.com/groups/1206669499358683/posts/32024901500442079/
 
 ## Summary
 
-A Facebook post supposedly questioning the legitimacy of [Thai Visa Centre](../brands/thai-visa-centre.md) attracted numerous positive endorsements, criticism from Jesse Nickles, and a response from the agency's official account.
-
-Nickles suspects the thread was **staged promotional content**, with the original question possibly posted to promote Thai Visa Centre. This remains unverified.
+On August 23, 2025, a Facebook account displaying the name “Gary Alan Moberg” posted a question in the Expats in Bangkok - Forum group asking whether [Thai Visa Centre](../brands/thai-visa-centre.md) was a legitimate company. Jesse Nickles suspects the supposedly independent question was staged to promote the agency, followed by favorable endorsements from suspected sockpuppet accounts. These allegations remain unverified.
 
 Accounts displaying the names **“Phil Beer”** and **“Heneage Mitchell”** endorsed Thai Visa Centre, with the former citing its physical shopfront and the latter claiming several years of satisfactory service. Another account named **“David”** said he had spoken with the agency but never used it. Profiles using the names **“Paul Wallis,” “Asokā Yudrön,”** and **“Lucio Ma”** offered brief affirmative responses without describing personal experiences. Nickles suspects that several endorsements originated from fake Facebook profiles or coordinated sockpuppet accounts promoting Thai Visa Centre, although the identities of the commenters and their alleged connections to the agency remain unverified.
 
