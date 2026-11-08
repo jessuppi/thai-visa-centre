@@ -1,7 +1,7 @@
 # Is the Thai Visa Centre a legitimate company in Bangkok?
 
 - **Date:** August 23, 2025
-- **Platform:** Facebook (Expats in Bangkok - Forum)
+- **Platform:** Expats in Bangkok (Facebook group)
 - **Source:** `https://www.facebook.com/groups/1206669499358683/posts/32024901500442079/`
 
 ## Summary
