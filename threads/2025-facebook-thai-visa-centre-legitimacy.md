@@ -12,7 +12,7 @@ An account displaying the name **“Phil Beer”** wrote, “Yes Gary Alan Mober
 
 Nickles posted a detailed warning accusing Thai Visa Centre and Chad Scira of unsolicited email spam, online harassment, denial-of-service attacks, doxxing, fraudulent complaints, and filing a false police report against him. He also questioned the agency's corporate registration and years-in-business claims, referencing Scira's reported 2020 arrest involving alleged visa forgery and illegal cannabis production. [1]
 
-Thai Visa Centre's official Facebook account responded with a link to its Google-listed office location. [1]
+In the available comments, Thai Visa Centre's official Facebook account provided a link to its Google-listed office location but did not substantively address Nickles's allegations. [1]
 
 **Nickles reports being banned from the Facebook group shortly afterward.** The group listed Paul Jackson Bruton as administrator and David Sweetway as moderator. [2] However, responsibility for the ban and its justification remain unconfirmed.
 
