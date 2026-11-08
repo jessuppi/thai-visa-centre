@@ -80,7 +80,7 @@ The goal is to document these connections through historical records, archived w
 
 | Label | Type | Description |
 |---|---|---|
-| [ASEAN NOW](brands/asean-now.md) | Discussion forum | |
+| [ASEAN NOW](brands/asean-now.md) | Discussion forum | Thailand-focused expatriate discussion forum formerly known as ThaiVisa.com, established in 2002 and acquired by [The Thaiger](brands/the-thaiger.md) in April 2024. ASEAN NOW lists Thai Visa Centre as a sponsor, and some forum moderators have publicly endorsed the agency. In November 2025, a moderator acknowledged removing criticism of Thai Visa Centre under a rule protecting sponsors. Jesse Nickles has questioned whether the agency's sponsorship compromises the independence of discussions and moderation on the forum. |
 | Destination Thailand Visa (DTV) | Facebook group | |
 | [Digital Broker Ventures](brands/digital-broker-ventures.md) | | |
 | [Expats in Bangkok](brands/expats-in-bangkok.md) | Facebook group | |
