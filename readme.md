@@ -48,7 +48,7 @@ The goal is to document these connections through historical records, archived w
 | Garrett Greenwald | [Thai Visa Advice](brands/thai-visa-advice.md) | Moderates the group under his real name. |
 | James Miller | [Thai Visa Advice](brands/thai-visa-advice.md) | Moderates the group under his real name. |
 | John Stanners | [Thai Visa Advice](brands/thai-visa-advice.md) | Moderates the group under his real name. |
-| Paul Jackson Bruton | [Expats in Bangkok](brands/expats-in-bangkok.md) | Moderates the group under his real name. |
+| Paul Jackson Bruton | [Expats in Bangkok](brands/expats-in-bangkok.md) | Serves as administrator of the group under his real name. Jesse Nickles reports being banned after criticizing Thai Visa Centre in an August 2025 discussion, although Bruton's involvement in the ban has not been established. |
 | [Rory Alsop](people/rory-alsop.md) | [Travel Stack Exchange](brands/travel-stack-exchange.md) | Moderates the community under his real name. |
 | Stuart Cumming | [Thai Visa Advice](brands/thai-visa-advice.md) | Moderates the group under his real name. |
 | [Tod Daniels](people/tod-daniels.md) | [Thai Visa Advice](brands/thai-visa-advice.md) | Moderates or assists with moderation of various Thailand-focused Facebook groups and the [ASEAN NOW](brands/asean-now.md) forums, using his real name. |
