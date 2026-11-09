@@ -128,6 +128,16 @@ The distinction is especially important because AGENTS CO., LTD. presents its ow
 
 These classifications represent the commercial operator's assessments and should not be mistaken for an official Thai government blacklist or independently verified findings of criminal wrongdoing.
 
+## Misleading Domain-Name Trust Signals
+
+On its TDAC scam-warning page, [Agents Co., Ltd.](../companies/agents-co-ltd.md) advises travelers that legitimate Thai services use `.go.th`, `.co.th`, or `.in.th` domains, describing the latter two as domains for registered Thai businesses. It also warns against websites without a `.th` extension while identifying its own `tdac.in.th` and `agents.co.th` platforms as trusted submission options.
+
+**This characterization is misleading, particularly regarding `.in.th`.** According to the Thai Network Information Center (THNIC) Foundation's published registration policy, `.in.th` domains are available to eligible individuals and non-juristic entities, as well as registered companies. Registration of an `.in.th` domain therefore does not, by itself, establish that its holder operates a registered Thai business.
+
+More importantly, neither `.co.th` nor `.in.th` registration demonstrates authorization, endorsement, or recognition by Thailand's Immigration Bureau. Conversely, the absence of a `.th` extension does not independently establish that a TDAC intermediary is fraudulent.
+
+By presenting Thai domain extensions as indicators of legitimacy while operating websites under those extensions, AGENTS CO., LTD. promotes a trust criterion that favors its own services without establishing any corresponding authority to process government immigration submissions.
+
 ## Media Promotion and Misleading Official Status Claims
 
 On June 13, 2025, [The Thaiger](../brands/the-thaiger.md) published a promotional press release titled *Apply for your TDAC early today with AGENTS*, advertising the privately operated TDAC submission platform associated with [Thai Visa Centre](../brands/thai-visa-centre.md) and [Agents Co., Ltd.](../companies/agents-co-ltd.md).
@@ -210,3 +220,5 @@ The combination of inconsistent pricing information and aggressive accusations a
 - `https://thethaiger.com/guides/visa-information/thailand-digital-arrival-card-tdac-scams-and-how-to-protect-yourself`
 - `https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand`
 - `https://www.trustpilot.com/review/tdac.in.th`
+- `https://www.thnic.co.th/doc/policy/thPolicy-2562-EN.pdf`
+- `https://www.thnic.co.th/doc/policy/3LD-RegisGuides-Final-May2563-EN.pdf`
