@@ -252,7 +252,7 @@ In that discussion, ASEAN NOW global moderator **BrandonJT** defended the commer
 
 Such statements are particularly troubling in a discussion promoting a private TDAC intermediary. They introduce fear about the free government service while presenting the commercial alternative as trustworthy.
 
-### Continued Sponsored Promotion
+### September 2025 Sponsored Article
 
 On September 24, 2025, The Thaiger published another article, explicitly labeled *Sponsored*, promoting AGENTS CO., LTD.'s TDAC platform alongside additional commercial offerings, including travel insurance, eSIMs, and airport assistance.
 
