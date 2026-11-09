@@ -92,7 +92,9 @@ The company's documentation does not clearly explain how the different age thres
 
 These inconsistencies do not establish unlawful collection of children's information. They do, however, raise legitimate questions about the clarity and reliability of the company's published privacy protections for families using its immigration-related services.
 
-## Payment and Identity Verification
+## Payment Terms and Customer Protections
+
+### Payment and Identity Verification
 
 The terms and conditions linked from `tdac.in.th` state that [Agents Co., Ltd.](../companies/agents-co-ltd.md) may require additional identity and financial documentation when processing payments. If the company classifies a purchase as a high-risk transaction, its terms require customers to provide a copy of valid government-issued photo identification and potentially a recent bank statement associated with the payment card. The terms do not disclose the criteria used to classify transactions as high-risk.
 
@@ -100,7 +102,7 @@ The company also reserves the right to change prices, refuse orders, and cancel 
 
 Consequently, travelers using the paid intermediary could face requests for additional identity and financial documents beyond the information required for official TDAC registration. Such payment-verification demands originate from the commercial operator's terms, not from Thailand's Immigration Bureau.
 
-## Misleading Refund Policy and Visa Terminology
+### Misleading Refund Policy and Visa Terminology
 
 The refund policy linked from `tdac.in.th` describes the company's TDAC Early Submission Service as allowing customers to submit their "visa applications" well before their travel dates. **This description is factually incorrect.** Thailand's Immigration Bureau explicitly states that the Thailand Digital Arrival Card is not a visa. It is a mandatory arrival declaration, and completing it does not constitute applying for or obtaining permission to enter Thailand.
 
@@ -110,7 +112,7 @@ The same refund policy promises a full service-fee refund if a traveler cancels 
 
 These omissions leave important questions unanswered about the protections available to travelers paying a private intermediary for a government form that can otherwise be submitted free of charge.
 
-## Liability Limits and Early TDAC Submissions
+### Liability Limits and Early TDAC Submissions
 
 The Terms & Conditions published by [Agents Co., Ltd.](../companies/agents-co-ltd.md) place substantial limitations on the company's financial responsibility to customers. They exclude numerous categories of indirect and consequential damages and limit the company's aggregate liability to whichever is greater: **US$1 or the amount the customer paid during the preceding one-month period**.
 
