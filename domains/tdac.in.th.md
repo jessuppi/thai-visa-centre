@@ -34,6 +34,18 @@ Thai Visa Centre's own mailing-list policy acknowledges operating `tdac.in.th` a
 
 These disclosures are significant because travelers using `tdac.in.th` to complete a government-required arrival card are providing personal information to a private commercial operator without a clear identification of the affiliated businesses that may benefit from its marketing and data-sharing arrangements.
 
+## Data-Deletion Assurances and Unidentified Affiliates
+
+In a September 24, 2025 sponsored article, [The Thaiger](../brands/the-thaiger.md) promoted [Agents Co., Ltd.](../companies/agents-co-ltd.md)'s Thailand Digital Arrival Card (TDAC) platform while assuring travelers that they could request immediate removal of their personal information after approval. The [Thai Visa Centre](../brands/thai-visa-centre.md) account, posting as a *Forum Sponsor* on [ASEAN NOW](../brands/asean-now.md), similarly told travelers that they could delete all their personal information using a button on the application status page.
+
+However, AGENTS CO., LTD.'s published privacy policy authorizes sharing customer information with subsidiaries, affiliates, joint venture partners, contractors, and service providers. It also expressly permits sharing personal information with sister companies under common ownership or control for marketing purposes. **The policy does not identify these sister companies or the businesses that may receive customers' information.**
+
+The same privacy policy promises that using its *Data Removal* function permanently deletes personal information and account details from the company's systems, retaining only payment transaction identifiers required for regulatory compliance. It does not explain whether this deletion extends to copies of information previously disclosed to sister companies, marketing partners, or other third-party recipients.
+
+This distinction matters because travelers may reasonably interpret promises of immediate or complete data removal as covering all personal information collected through the TDAC service. The published documents leave unanswered whether affiliated businesses must also delete information they previously received.
+
+These omissions do not establish that AGENTS CO., LTD. has failed to honor a deletion request. They do, however, expose a significant transparency gap between its public assurances of complete data removal and its broad permissions for sharing personal information across an unidentified network of affiliated businesses.
+
 ## Payment and Identity Verification
 
 The terms and conditions linked from `tdac.in.th` state that [Agents Co., Ltd.](../companies/agents-co-ltd.md) may require additional identity and financial documentation when processing payments. If the company classifies a purchase as a high-risk transaction, its terms require customers to provide a copy of valid government-issued photo identification and potentially a recent bank statement associated with the payment card. The terms do not disclose the criteria used to classify transactions as high-risk.
