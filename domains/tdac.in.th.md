@@ -52,6 +52,30 @@ The same refund policy promises a full service-fee refund if a traveler cancels 
 
 These omissions leave important questions unanswered about the protections available to travelers paying a private intermediary for a government form that can otherwise be submitted free of charge.
 
+## Media Promotion and Misleading Official Status Claims
+
+On June 13, 2025, [The Thaiger](../brands/the-thaiger.md) published a promotional press release titled *Apply for your TDAC early today with AGENTS*, advertising the privately operated TDAC submission platform associated with [Thai Visa Centre](../brands/thai-visa-centre.md) and [Agents Co., Ltd.](../companies/agents-co-ltd.md).
+
+**The article explicitly labeled `tdac.in.th` the "Official TDAC information page by AGENTS" and described `agents.co.th` as the "Official TDAC form by AGENTS".** Although it separately acknowledged Thailand's government portal at `tdac.immigration.go.th`, applying the term *official* to the company's commercial websites created a misleading impression of authority around privately operated TDAC services.
+
+The article also advised travelers to look for `.co.th` or `.in.th` domains when assessing third-party TDAC providers, presenting these extensions as indicators of legitimate Thai business registration. However, neither domain extension establishes authorization, endorsement, or recognition by Thailand's Immigration Bureau.
+
+### Promotion Through ASEAN NOW
+
+The same commercial TDAC service was promoted on [ASEAN NOW](../brands/asean-now.md), the expatriate forum acquired by The Thaiger in April 2024 under CEO [Darren Lyons](../people/darren-lyons.md). A May 24, 2025 forum discussion promoted advance TDAC submissions through AGENTS CO., LTD., while the ThaiVisaCentre account participated as a designated *Forum Sponsor*.
+
+In that discussion, ASEAN NOW global moderator **BrandonJT** defended the commercial submission option and, on July 9, 2025, claimed that travelers entering information into Thailand's official government TDAC system faced a **50% chance of having their data stolen by hackers**. The moderator provided no supporting evidence for this extraordinary numerical claim.
+
+Such statements are particularly troubling in a discussion promoting a private TDAC intermediary. They introduce fear about the free government service while presenting the commercial alternative as trustworthy.
+
+### Continued Sponsored Promotion
+
+On September 24, 2025, The Thaiger published another article, explicitly labeled *Sponsored*, promoting AGENTS CO., LTD.'s TDAC platform alongside additional commercial offerings, including travel insurance, eSIMs, and airport assistance.
+
+That article also directed readers toward the operator's own TDAC scam-warning material, which identifies competing websites as fraudulent or untrusted while promoting AGENTS CO., LTD.'s services.
+
+Taken together, these publications document coordinated exposure across The Thaiger's commercial publishing channels and ASEAN NOW's sponsored forum environment. They demonstrate how a privately operated TDAC platform received repeated promotion, including misleading *official* terminology and unsupported criticism of the government system, even after Thai immigration authorities warned travelers to use the free official portal.
+
 ## References
 
 - `https://agents.co.th/`
@@ -67,3 +91,7 @@ These omissions leave important questions unanswered about the protections avail
 - `https://www.scam-detector.com/validator/tdac-in-th-review/`
 - `https://agents.co.th/tdac-apply/policy/refund/`
 - `https://tdac.immigration.go.th/manual/en/index.html`
+- `https://thethaiger.com/travel/thailand-travel/apply-for-your-tdac-early-today-with-agents`
+- `https://aseannow.com/topic/1361664-apply-for-your-tdac-early-here/`
+- `https://thethaiger.com/travel/thailand-travel/early-thailand-tdac-applications-enhanced-by-insurance-and-esim-partnerships`
+- `https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand`
