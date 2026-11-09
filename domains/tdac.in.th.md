@@ -90,6 +90,8 @@ The same privacy policy promises that using its *Data Removal* function permanen
 
 This distinction matters because travelers may reasonably interpret promises of immediate or complete data removal as covering all personal information collected through the TDAC service. The published documents leave unanswered whether affiliated businesses must also delete information they previously received.
 
+A further ambiguity appears in AGENTS CO., LTD.'s separately published *Disclaimer*. Under *Content and postings*, the company grants itself an **unlimited, perpetual right to distribute, publish, reproduce, and reuse information** uploaded or otherwise made available by users. Because this provision appears alongside rules concerning posts and comments, it may be intended only for publicly submitted content rather than private TDAC applications. However, the Disclaimer does not expressly establish that distinction or explain whether exercising the company's *Data Removal* function affects any previously granted reuse rights. This leaves the relationship between its promises of permanent data deletion and its broadly worded content-reuse permissions unclear.
+
 These omissions do not establish that AGENTS CO., LTD. has failed to honor a deletion request. They do, however, expose a significant transparency gap between its public assurances of complete data removal and its broad permissions for sharing personal information across an unidentified network of affiliated businesses.
 
 ## Payment and Identity Verification
@@ -271,6 +273,7 @@ The combination of inconsistent pricing information and aggressive accusations a
 - `https://agents.co.th/tdac-apply/policy/privacy/`
 - `https://www.mdes.go.th/law/detail/1909-Personal-Data-Protection-Act--B-E--2562--2019-`
 - `https://agents.co.th/tdac-apply/policy/terms-and-conditions/`
+- `https://agents.co.th/tdac-apply/policy/disclaimer/`
 - `https://tvc.co.th/thai-visa-centre-spam`
 - `https://www.trustpilot.com/review/tvc.co.th`
 - `https://www.scamadviser.com/check-website/tdac.in.th`
