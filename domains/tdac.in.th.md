@@ -222,6 +222,8 @@ More importantly, neither `.co.th` nor `.in.th` registration demonstrates author
 
 By presenting Thai domain extensions as indicators of legitimacy while operating websites under those extensions, AGENTS CO., LTD. promotes a trust criterion that favors its own services without establishing any corresponding authority to process government immigration submissions.
 
+The claimed Trustpilot business profile for `tdac.in.th` lists **United States** under its *Contact info*, despite the operator's own TDAC scam-comparison page identifying **AGENTS CO., LTD.** as a registered business in Samut Prakan, Thailand. This discrepancy is noteworthy because the company promotes Thai registration and domain extensions as indicators of legitimacy while warning travelers against competing TDAC websites described as foreign entities. Trustpilot does not disclose whether the displayed country was supplied by the operator or determined through another process, so the listing does not independently establish where the company operates. Nevertheless, the U.S. designation conflicts with the Thai location emphasized in the operator's public marketing.
+
 ### Incorrect Thai-Language TDAC Deadline Instructions
 
 The Thai-language TDAC scam-warning page operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md) repeatedly tells travelers that official TDAC submissions are free **“ภายใน 72 ชั่วโมงหลังจากการมาถึง”**, meaning *within 72 hours after arrival*. This wording appears in the page's explanation of legitimate services, its scam-prevention checklist, and its closing promotion of the company's own platform.
