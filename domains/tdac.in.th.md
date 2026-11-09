@@ -42,6 +42,16 @@ The company also reserves the right to change prices, refuse orders, and cancel 
 
 Consequently, travelers using the paid intermediary could face requests for additional identity and financial documents beyond the information required for official TDAC registration. Such payment-verification demands originate from the commercial operator's terms, not from Thailand's Immigration Bureau.
 
+## Misleading Refund Policy and Visa Terminology
+
+The refund policy linked from `tdac.in.th` describes the company's TDAC Early Submission Service as allowing customers to submit their "visa applications" well before their travel dates. **This description is factually incorrect.** Thailand's Immigration Bureau explicitly states that the Thailand Digital Arrival Card is not a visa. It is a mandatory arrival declaration, and completing it does not constitute applying for or obtaining permission to enter Thailand.
+
+The error is particularly concerning because [Agents Co., Ltd.](../companies/agents-co-ltd.md) markets itself as a professional immigration and travel-services provider while charging customers $8 for early TDAC submissions. Confusing an arrival card with a visa application in the service's published refund policy raises legitimate questions about the accuracy and reliability of the company's customer-facing documentation.
+
+The same refund policy promises a full service-fee refund if a traveler cancels their trip entirely or cancels the service more than seven days before arrival. However, it does not explain whether customers are entitled to refunds when a TDAC submission is delayed, processed incorrectly, or otherwise fails to deliver the promised service. The policy was last updated on May 15, 2025, after the TDAC system became mandatory.
+
+These omissions leave important questions unanswered about the protections available to travelers paying a private intermediary for a government form that can otherwise be submitted free of charge.
+
 ## References
 
 - `https://agents.co.th/`
@@ -55,3 +65,5 @@ Consequently, travelers using the paid intermediary could face requests for addi
 - `https://www.trustpilot.com/review/tvc.co.th`
 - `https://www.scamadviser.com/check-website/tdac.in.th`
 - `https://www.scam-detector.com/validator/tdac-in-th-review/`
+- `https://agents.co.th/tdac-apply/policy/refund/`
+- `https://tdac.immigration.go.th/manual/en/index.html`
