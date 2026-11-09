@@ -58,6 +58,18 @@ This ambiguity is particularly relevant to travelers submitting passport details
 
 The inconsistent wording does not establish that customer information has been disclosed unlawfully. It does, however, raise questions about the clarity and reliability of the privacy assurances presented to travelers.
 
+### Data-Deletion Assurances
+
+In a September 24, 2025 sponsored article, [The Thaiger](../brands/the-thaiger.md) promoted [Agents Co., Ltd.](../companies/agents-co-ltd.md)'s Thailand Digital Arrival Card (TDAC) platform while assuring travelers that they could request immediate removal of their personal information after approval. The [Thai Visa Centre](../brands/thai-visa-centre.md) account, posting as a *Forum Sponsor* on [ASEAN NOW](../brands/asean-now.md), similarly told travelers that they could delete all their personal information using a button on the application status page.
+
+The same privacy policy promises that using its *Data Removal* function permanently deletes personal information and account details from the company's systems, retaining only payment transaction identifiers required for regulatory compliance. It does not explain whether this deletion extends to copies of information previously disclosed to sister companies, marketing partners, or other third-party recipients.
+
+This distinction matters because travelers may reasonably interpret promises of immediate or complete data removal as covering all personal information collected through the TDAC service. The published documents leave unanswered whether affiliated businesses must also delete information they previously received.
+
+A further ambiguity appears in AGENTS CO., LTD.'s separately published *Disclaimer*. Under *Content and postings*, the company grants itself an **unlimited, perpetual right to distribute, publish, reproduce, and reuse information** uploaded or otherwise made available by users. Because this provision appears alongside rules concerning posts and comments, it may be intended only for publicly submitted content rather than private TDAC applications. However, the Disclaimer does not expressly establish that distinction or explain whether exercising the company's *Data Removal* function affects any previously granted reuse rights. This leaves the relationship between its promises of permanent data deletion and its broadly worded content-reuse permissions unclear.
+
+These unanswered questions do not establish that AGENTS CO., LTD. has failed to honor a deletion request. They do, however, expose a transparency gap between its public assurances of complete data removal and its permissions for sharing personal information with affiliated businesses.
+
 ### Unclear Data-Controller and Processor Responsibilities
 
 The Privacy Policy published by [Agents Co., Ltd.](../companies/agents-co-ltd.md) provides potentially confusing explanations of the company's responsibilities for customers' personal information. It states that AGENTS CO., LTD. acts as a *data controller* when requesting personal information, but also claims to act as a *data processor* when users submit information through its services. In the latter situation, the policy identifies the user submitting the information as the data controller and states that the company does not make decisions about that information.
@@ -79,20 +91,6 @@ The Privacy Policy acknowledges that parents may submit information concerning t
 The company's documentation does not clearly explain how the different age thresholds apply to its TDAC service, or distinguish between minors submitting their own information and parents submitting information on their behalf.
 
 These inconsistencies do not establish unlawful collection of children's information. They do, however, raise legitimate questions about the clarity and reliability of the company's published privacy protections for families using its immigration-related services.
-
-## Data-Deletion Assurances and Unidentified Affiliates
-
-In a September 24, 2025 sponsored article, [The Thaiger](../brands/the-thaiger.md) promoted [Agents Co., Ltd.](../companies/agents-co-ltd.md)'s Thailand Digital Arrival Card (TDAC) platform while assuring travelers that they could request immediate removal of their personal information after approval. The [Thai Visa Centre](../brands/thai-visa-centre.md) account, posting as a *Forum Sponsor* on [ASEAN NOW](../brands/asean-now.md), similarly told travelers that they could delete all their personal information using a button on the application status page.
-
-However, AGENTS CO., LTD.'s published privacy policy authorizes sharing customer information with subsidiaries, affiliates, joint venture partners, contractors, and service providers. It also expressly permits sharing personal information with sister companies under common ownership or control for marketing purposes. **The policy does not identify these sister companies or the businesses that may receive customers' information.**
-
-The same privacy policy promises that using its *Data Removal* function permanently deletes personal information and account details from the company's systems, retaining only payment transaction identifiers required for regulatory compliance. It does not explain whether this deletion extends to copies of information previously disclosed to sister companies, marketing partners, or other third-party recipients.
-
-This distinction matters because travelers may reasonably interpret promises of immediate or complete data removal as covering all personal information collected through the TDAC service. The published documents leave unanswered whether affiliated businesses must also delete information they previously received.
-
-A further ambiguity appears in AGENTS CO., LTD.'s separately published *Disclaimer*. Under *Content and postings*, the company grants itself an **unlimited, perpetual right to distribute, publish, reproduce, and reuse information** uploaded or otherwise made available by users. Because this provision appears alongside rules concerning posts and comments, it may be intended only for publicly submitted content rather than private TDAC applications. However, the Disclaimer does not expressly establish that distinction or explain whether exercising the company's *Data Removal* function affects any previously granted reuse rights. This leaves the relationship between its promises of permanent data deletion and its broadly worded content-reuse permissions unclear.
-
-These omissions do not establish that AGENTS CO., LTD. has failed to honor a deletion request. They do, however, expose a significant transparency gap between its public assurances of complete data removal and its broad permissions for sharing personal information across an unidentified network of affiliated businesses.
 
 ## Payment and Identity Verification
 
