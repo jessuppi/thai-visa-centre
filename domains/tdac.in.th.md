@@ -282,7 +282,7 @@ The claimed Trustpilot profile for `tdac.in.th` contains several negative review
 
 On October 17, 2026, the operator posted substantially identical responses to multiple negative reviews, alleging that the complaints were part of a coordinated harassment campaign involving fabricated accounts. These responses invoked a purported criminal case, **BKK-443/2567**, and claimed that the individual responsible was subject to an arrest warrant and was evading authorities. The responses provided no review-specific evidence connecting the individual reviewers to those allegations.
 
-The company's handling of one complaint was particularly revealing. After a reviewer challenged the accusations and insisted that their criticism reflected a genuine experience, the operator subsequently acknowledged that the review might have been mistakenly classified as fraudulent and apologized. This admission raises serious questions about the practice of publicly associating negative reviewers with alleged criminal harassment without establishing their individual involvement.
+After a reviewer challenged the accusations and stated that their criticism reflected a genuine experience, the operator acknowledged that the review might have been mistakenly classified as fraudulent and apologized. That reversal is significant because the operator had publicly associated negative reviews with alleged criminal harassment without providing evidence connecting those specific reviewers to the allegations.
 
 ### Conflicting Published Prices
 
