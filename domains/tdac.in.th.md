@@ -274,7 +274,9 @@ The publication illustrates how The Thaiger's ostensibly informational TDAC cove
 
 These publications document repeated promotion of the privately operated TDAC platform through The Thaiger's commercial publishing channels and ASEAN NOW's sponsored forum environment. That coverage included misleading *official* terminology and unsupported criticism of the government system, even after Thai immigration authorities warned travelers to use the free official portal.
 
-## Contradictory Pricing and Attacks on Negative Reviewers
+## Trustpilot Review Responses
+
+### Accusations Against Negative Reviewers
 
 The claimed Trustpilot profile for `tdac.in.th` contains several negative reviews describing the website as misleading, criticizing its charges for Thailand's free Digital Arrival Card, and warning travelers about submitting personal information to unofficial intermediaries.
 
