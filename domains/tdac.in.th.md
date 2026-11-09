@@ -318,12 +318,12 @@ The combination of inconsistent pricing information and aggressive accusations a
 [^18]: `https://agents.co.th/tdac-apply/policy/terms-and-conditions/`
 [^19]: `https://tvc.co.th/thai-visa-centre-spam`
 [^20]: https://www.trustpilot.com/review/tvc.co.th
-[^21]: https://thethaiger.com/travel/thailand-travel/early-thailand-tdac-applications-enhanced-by-insurance-and-esim-partnerships
+[^21]: `https://thethaiger.com/travel/thailand-travel/early-thailand-tdac-applications-enhanced-by-insurance-and-esim-partnerships`
 [^22]: `https://agents.co.th/tdac-apply/policy/disclaimer/`
 [^23]: https://www.mdes.go.th/law/detail/1909-Personal-Data-Protection-Act--B-E--2562--2019-
 [^24]: `https://agents.co.th/tdac-apply/policy/refund/`
 [^25]: https://tdac.immigration.go.th/manual/en/index.html
-[^26]: https://thethaiger.com/guides/visa-information/thailand-digital-arrival-card-tdac-scams-and-how-to-protect-yourself
+[^26]: `https://thethaiger.com/guides/visa-information/thailand-digital-arrival-card-tdac-scams-and-how-to-protect-yourself`
 [^27]: https://ltr.boi.go.th/page/visa-issuance-info.html
 [^28]: https://www.thnic.co.th/doc/policy/thPolicy-2562-EN.pdf
 [^29]: https://www.thnic.co.th/doc/policy/3LD-RegisGuides-Final-May2563-EN.pdf
@@ -331,5 +331,5 @@ The combination of inconsistent pricing information and aggressive accusations a
 [^31]: `https://tdac.in.th/th/scam`
 [^32]: https://www.thailand.go.th/issue-focus-detail/thailand-digital-arrival-card--tdac---2-2?hl=th
 [^33]: https://abudhabi.thaiembassy.org/en/content/tdac1may2025
-[^34]: https://thethaiger.com/travel/thailand-travel/apply-for-your-tdac-early-today-with-agents
-[^35]: https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand
+[^34]: `https://thethaiger.com/travel/thailand-travel/apply-for-your-tdac-early-today-with-agents`
+[^35]: `https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand`
