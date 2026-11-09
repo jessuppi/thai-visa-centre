@@ -88,6 +88,18 @@ The terminology is particularly inconsistent with a November 11, 2025 article pu
 
 Although the comparison table applies the same terminology to the government portal, describing TDAC confirmation as “approval” risks confusing routine arrival-card registration with an immigration authorization process. The discrepancy illustrates a lack of precision in the company's marketing and its criticism of competing services.
 
+## Deferred Government Submission and Data Retention
+
+The $8 early-submission service promoted through `tdac.in.th` does not allow travelers to register their Thailand Digital Arrival Card (TDAC) with the Immigration Bureau before the government's permitted submission window. According to [Agents Co., Ltd.](../companies/agents-co-ltd.md)'s own website, applications received more than 72 hours before arrival remain pending until the company automatically submits them when the official registration window opens.
+
+**Consequently, customers paying for early submission are purchasing a scheduling service, not earlier government processing or authorization.** The company collects their application information in advance, retains it in its private system, and subsequently attempts submission on their behalf.
+
+This arrangement also has implications for personal-data handling. TDAC applications contain passport information, travel itineraries, accommodation details, and health declarations. Travelers submitting weeks or months in advance entrust those details to a commercial intermediary for a substantially longer period than would be necessary when registering directly through the official government portal.
+
+The company's website advertises saved application drafts that do not expire unless deleted. Its privacy policy permits retaining personal information for purposes including legal compliance, contractual obligations, and dispute resolution, but does not establish a specific default retention period for pending TDAC applications.
+
+Although AGENTS CO., LTD. offers automatic submission attempts and a data-removal function, these features do not eliminate the distinction between submitting information to a private intermediary and registering with Thailand's Immigration Bureau. The service's actual scheduling mechanism and associated data-retention arrangements are important considerations for travelers deciding whether advance submission justifies the additional fee and disclosure of sensitive personal information.
+
 ## Media Promotion and Misleading Official Status Claims
 
 On June 13, 2025, [The Thaiger](../brands/the-thaiger.md) published a promotional press release titled *Apply for your TDAC early today with AGENTS*, advertising the privately operated TDAC submission platform associated with [Thai Visa Centre](../brands/thai-visa-centre.md) and [Agents Co., Ltd.](../companies/agents-co-ltd.md).
@@ -160,6 +172,8 @@ The combination of inconsistent pricing information and aggressive accusations a
 - `https://www.scam-detector.com/validator/tdac-in-th-review/`
 - `https://agents.co.th/tdac-apply/policy/refund/`
 - `https://tdac.immigration.go.th/manual/en/index.html`
+- `https://tdac.immigration.go.th/manual/en/faq.html`
+- `https://tdac.agents.co.th/`
 - `https://thailand.prd.go.th/en/content/category/detail/id/43/cid/52/iid/385061`
 - `https://abudhabi.thaiembassy.org/en/content/tdac1may2025`
 - `https://thethaiger.com/travel/thailand-travel/apply-for-your-tdac-early-today-with-agents`
