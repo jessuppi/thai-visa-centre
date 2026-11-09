@@ -76,6 +76,22 @@ That article also directed readers toward the operator's own TDAC scam-warning m
 
 Taken together, these publications document coordinated exposure across The Thaiger's commercial publishing channels and ASEAN NOW's sponsored forum environment. They demonstrate how a privately operated TDAC platform received repeated promotion, including misleading *official* terminology and unsupported criticism of the government system, even after Thai immigration authorities warned travelers to use the free official portal.
 
+## Contradictory Pricing and Attacks on Negative Reviewers
+
+The claimed Trustpilot profile for `tdac.in.th` contains several negative reviews describing the website as misleading, criticizing its charges for Thailand's free Digital Arrival Card, and warning travelers about submitting personal information to unofficial intermediaries.
+
+On October 17, 2026, the operator posted substantially identical responses to multiple negative reviews, alleging that the complaints were part of a coordinated harassment campaign involving fabricated accounts. These responses invoked a purported criminal case, **BKK-443/2567**, and claimed that the individual responsible was subject to an arrest warrant and was evading authorities. The responses provided no review-specific evidence connecting the individual reviewers to those allegations.
+
+The company's handling of one complaint was particularly revealing. After a reviewer challenged the accusations and insisted that their criticism reflected a genuine experience, the operator subsequently acknowledged that the review might have been mistakenly classified as fraudulent and apologized. This admission raises serious questions about the practice of publicly associating negative reviewers with alleged criminal harassment without establishing their individual involvement.
+
+### Conflicting Published Prices
+
+In its October 2026 response to the same reviewer, the operator stated that its maximum early-submission charge was **US$7**. However, the company's own `tdac.in.th/scam` page advertised early submissions at **US$8 (270 THB)**, and its corporate website also listed the $8 price.
+
+These contradictory statements concern the same commercial TDAC service and undermine the operator's repeated claims of transparent pricing.
+
+The combination of inconsistent pricing information and aggressive accusations against critical reviewers is especially concerning for a private service that collects travelers' sensitive immigration information while promoting itself as a trusted alternative to the free government system.
+
 ## References
 
 - `https://agents.co.th/`
@@ -95,3 +111,4 @@ Taken together, these publications document coordinated exposure across The Thai
 - `https://aseannow.com/topic/1361664-apply-for-your-tdac-early-here/`
 - `https://thethaiger.com/travel/thailand-travel/early-thailand-tdac-applications-enhanced-by-insurance-and-esim-partnerships`
 - `https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand`
+- `https://www.trustpilot.com/review/tdac.in.th`
