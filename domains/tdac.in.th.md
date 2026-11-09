@@ -114,6 +114,18 @@ The company's comparison does not explain whether *Resubmission Functionality* r
 
 This is particularly relevant because the comparison promotes AGENTS CO., LTD.'s additional features as reasons to use its privately operated platform instead of submitting directly to Thailand's Immigration Bureau.
 
+### Unsupported Claims About Government TDAC Email Support
+
+On its *About our TDAC services* page, [Agents Co., Ltd.](../companies/agents-co-ltd.md) compares its commercial platform with Thailand's official Immigration Bureau website. The comparison labels the government's email support **“Unresponsive”** while describing the company's own email support as *Available*.
+
+However, the company provides no supporting evidence for this assessment, such as documented inquiries, response times, testing dates, or independently verified customer-service comparisons.
+
+Thailand's Immigration Bureau publishes an official TDAC support email address in its FAQ and directs travelers to its user guide and immigration personnel for assistance. Although the existence of these support channels does not establish how quickly inquiries are answered, it demonstrates that the government provides assistance options.
+
+**Describing government email support as unresponsive is a claim about service performance, not an objective feature comparison.** Without supporting evidence or a disclosed testing methodology, readers cannot determine whether the assessment reflects representative experience, isolated incidents, or the commercial operator's own judgment.
+
+The unsupported characterization is particularly relevant because AGENTS CO., LTD. uses the comparison to promote its privately operated TDAC submission service over the free government alternative.
+
 ## Competitor Blacklist and Unsupported Fraud Classifications
 
 The scam-warning page operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md) publishes a blacklist of 29 competing Thailand Digital Arrival Card (TDAC) websites, categorizing them as scams or untrusted operators. Several entries are explicitly labeled *CONFIRMED SCAM*, while others carry warnings such as *FOREIGN ENTITY AVOID* or accusations involving fake advertisements and misleading fees.
@@ -236,3 +248,4 @@ The combination of inconsistent pricing information and aggressive accusations a
 - `https://www.thnic.co.th/doc/policy/3LD-RegisGuides-Final-May2563-EN.pdf`
 - `https://tdac.in.th/th/scam`
 - `https://www.thailand.go.th/issue-focus-detail/thailand-digital-arrival-card--tdac---2-2?hl=th`
+- `https://agents.co.th/tdac-apply/about/`
