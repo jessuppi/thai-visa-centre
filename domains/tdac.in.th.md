@@ -290,6 +290,8 @@ After a reviewer challenged the accusations and stated that their criticism refl
 
 In its October 2026 response to the same reviewer, the operator stated that its maximum early-submission charge was **US$7**. However, the company's own `tdac.in.th/scam` page advertised early submissions at **US$8 (270 THB)**, and its corporate website also listed the $8 price.
 
+This was not a newly advertised $8 rate: a June 13, 2025 press release published by The Thaiger had already stated that AGENTS CO., LTD.'s early-submission pricing reached US$8 per applicant.
+
 These contradictory statements concern the same commercial TDAC service and undermine the operator's repeated claims of transparent pricing.
 
 The combination of inconsistent pricing information and aggressive accusations against critical reviewers is especially concerning for a private service that collects travelers' sensitive immigration information while promoting itself as a trusted alternative to the free government system.
