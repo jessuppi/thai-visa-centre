@@ -182,6 +182,18 @@ AGENTS CO., LTD.'s marketing therefore connects a legitimate immigration documen
 
 This does not establish that separately generated TDAC documents lack practical value. It does, however, raise questions about whether the company's comparison accurately distinguishes government requirements from features offered by its commercial platform.
 
+## Misleading Comparison of Group Submission Limits
+
+On its *About our TDAC services* page, [Agents Co., Ltd.](../companies/agents-co-ltd.md) compares the official Thai government TDAC portal's traveler limit of **10** with its own platform's supposedly *Unlimited* capacity. The company promotes unlimited group submissions as a particular advantage for travel agents and tour operators, including an example of processing 30 travelers three weeks before arrival for $16.
+
+**However, Thailand's Immigration Bureau specifies a maximum of ten travelers per application, not a maximum of ten travelers per group, tour operator, or entire trip.** Its official guidance also confirms that travel agents and tour leaders may submit TDAC applications on behalf of their clients.
+
+Consequently, larger groups are not inherently excluded from using the free government portal. They can be divided into separate submissions of up to ten travelers each during the permitted registration window. The company's comparison does not clearly distinguish this per-application limit from an overall restriction on group size.
+
+AGENTS CO., LTD. may offer genuine administrative conveniences by handling larger groups through a single interface and accepting information before the government's submission window opens. However, **those conveniences should not be confused with an exclusive ability to register groups exceeding ten travelers**.
+
+The published comparison risks exaggerating a limitation of the official government system while promoting the commercial platform as a necessary alternative for larger groups.
+
 ## Competitor Blacklist and Unsupported Fraud Classifications
 
 The scam-warning page operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md) publishes a blacklist of 29 competing Thailand Digital Arrival Card (TDAC) websites, categorizing them as scams or untrusted operators. Several entries are explicitly labeled *CONFIRMED SCAM*, while others carry warnings such as *FOREIGN ENTITY AVOID* or accusations involving fake advertisements and misleading fees.
