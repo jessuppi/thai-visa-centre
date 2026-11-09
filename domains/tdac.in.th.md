@@ -110,6 +110,16 @@ The same refund policy promises a full service-fee refund if a traveler cancels 
 
 These omissions leave important questions unanswered about the protections available to travelers paying a private intermediary for a government form that can otherwise be submitted free of charge.
 
+## Liability Limits and Early TDAC Submissions
+
+The Terms & Conditions published by [Agents Co., Ltd.](../companies/agents-co-ltd.md) place substantial limitations on the company's financial responsibility to customers. They exclude numerous categories of indirect and consequential damages and limit the company's aggregate liability to whichever is greater: **US$1 or the amount the customer paid during the preceding one-month period**.
+
+This limitation is particularly relevant to the company's paid TDAC Early Submission Service. Customers may submit applications weeks or months before arriving in Thailand, while AGENTS CO., LTD. postpones submission to the Immigration Bureau until the official registration window opens. Consequently, **a customer who paid $8 several months earlier could encounter a submission failure after that payment falls outside the contractual one-month calculation**. Under the company's stated formula, the applicable liability cap could then be only $1.
+
+The Terms & Conditions also require customers to indemnify AGENTS CO., LTD. and its affiliates against certain third-party claims, losses, and legal expenses arising from their use of the services. These provisions place additional contractual obligations on travelers purchasing an intermediary service for a government arrival declaration that is otherwise available free of charge.
+
+The existence of these clauses does not establish that the company has enforced them against customers or that every limitation would be legally enforceable. Nevertheless, the combination of advance payments, deferred government submission, broad liability exclusions, and a potentially minimal compensation limit raises legitimate questions about the protections available when the service fails to perform as expected.
+
 ## Misleading TDAC Approval-Time Claims
 
 The scam-comparison page published by [Agents Co., Ltd.](../companies/agents-co-ltd.md), which identifies `tdac.in.th` as one of its services, advertises an **“Approval Time” of “0–5min”** for both its own service and the official Thai government TDAC portal. However, the same page explicitly states that TDAC submissions are issued instantly, require no review, and cannot receive priority approval.
