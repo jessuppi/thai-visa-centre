@@ -204,6 +204,8 @@ The inconsistency is particularly notable because another paragraph on AGENTS CO
 
 AGENTS CO., LTD. advertises support for 76 languages and identifies poor translations as a warning sign associated with fraudulent TDAC websites. Yet its own Thai-language consumer-protection guidance contains a substantive translation error concerning when travelers must submit their arrival cards.
 
+AGENTS CO., LTD.'s published Terms & Conditions introduce an additional concern. Under *Accuracy of information*, the company acknowledges that its website may contain errors or omissions and reserves the right to correct them. However, it also states that it has no general obligation to update, amend, or clarify published information except where required by law. **This reservation is particularly noteworthy alongside demonstrably incorrect immigration instructions on a page that promotes the company's reliability while criticizing competing TDAC websites for providing inaccurate information.**
+
 The mistake does not establish deliberate deception or demonstrate that any traveler actually missed the deadline. Nevertheless, providing incorrect timing instructions on a website marketed as a reliable TDAC information resource raises legitimate concerns about the accuracy of its multilingual guidance.
 
 ## Media Promotion and Misleading Official Status Claims
