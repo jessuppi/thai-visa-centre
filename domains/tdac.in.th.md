@@ -58,6 +58,16 @@ This ambiguity is particularly relevant to travelers submitting passport details
 
 The inconsistent wording does not establish that customer information has been disclosed unlawfully. It does, however, raise questions about the clarity and reliability of the privacy assurances presented to travelers.
 
+### Unclear Data-Controller and Processor Responsibilities
+
+The Privacy Policy published by [Agents Co., Ltd.](../companies/agents-co-ltd.md) provides potentially confusing explanations of the company's responsibilities for customers' personal information. It states that AGENTS CO., LTD. acts as a *data controller* when requesting personal information, but also claims to act as a *data processor* when users submit information through its services. In the latter situation, the policy identifies the user submitting the information as the data controller and states that the company does not make decisions about that information.
+
+**This distinction is not clearly explained for individual travelers completing their own TDAC applications.** These customers provide passport details and travel information to a commercial service whose operator establishes its own policies for data retention, marketing, and disclosure to affiliated businesses. The Privacy Policy does not explain how an individual applicant would exercise the decision-making authority attributed to them.
+
+Thailand's Personal Data Protection Act distinguishes between a data controller, which determines how personal information is collected, used, or disclosed, and a data processor, which handles that information under a controller's instructions. The company's published wording leaves unclear how those roles apply to ordinary TDAC customers and which party is responsible for decisions concerning their personal information.
+
+The language does not establish that AGENTS CO., LTD. has violated data-protection law. However, it raises questions about whether the company's general-purpose Privacy Policy adequately explains its responsibilities when collecting sensitive information from individual travelers.
+
 ### Conflicting Age Rules and Children's TDAC Data
 
 The Terms & Conditions published by [Agents Co., Ltd.](../companies/agents-co-ltd.md) establish a minimum age of **16** for using its website and services. However, the Privacy Policy instructs anyone under **20** not to submit personal information through those same services.
@@ -249,6 +259,7 @@ The combination of inconsistent pricing information and aggressive accusations a
 - `https://www.antifakenewscenter.com/นโยบายรัฐบาล-ข่าวสาร/ตม-เปิดเว็บไซต์-tdac-สำรอง-รองรับการลงทะเบียนเข้าประเทศ/`
 - `https://www.antifakenewscenter.com/?p=81970`
 - `https://agents.co.th/tdac-apply/policy/privacy/`
+- `https://www.mdes.go.th/law/detail/1909-Personal-Data-Protection-Act--B-E--2562--2019-`
 - `https://agents.co.th/tdac-apply/policy/terms-and-conditions/`
 - `https://tvc.co.th/thai-visa-centre-spam`
 - `https://www.trustpilot.com/review/tvc.co.th`
