@@ -138,6 +138,18 @@ More importantly, neither `.co.th` nor `.in.th` registration demonstrates author
 
 By presenting Thai domain extensions as indicators of legitimacy while operating websites under those extensions, AGENTS CO., LTD. promotes a trust criterion that favors its own services without establishing any corresponding authority to process government immigration submissions.
 
+## Incorrect Thai-Language TDAC Deadline Instructions
+
+The Thai-language TDAC scam-warning page operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md) repeatedly tells travelers that official TDAC submissions are free **“ภายใน 72 ชั่วโมงหลังจากการมาถึง”**, meaning *within 72 hours after arrival*. This wording appears in the page's explanation of legitimate services, its scam-prevention checklist, and its closing promotion of the company's own platform.
+
+**The instruction reverses the actual submission deadline.** Thailand's Immigration Bureau requires travelers to complete their TDAC before entering Thailand, within three days before arrival, including the arrival date. Official Thai government guidance similarly specifies the 72-hour period *before* travel, not afterward.
+
+The inconsistency is particularly notable because another paragraph on AGENTS CO., LTD.'s same Thai-language page correctly refers to submissions within 72 hours *before* arrival. The website therefore presents contradictory instructions about a basic immigration requirement.
+
+AGENTS CO., LTD. advertises support for 76 languages and identifies poor translations as a warning sign associated with fraudulent TDAC websites. Yet its own Thai-language consumer-protection guidance contains a substantive translation error concerning when travelers must submit their arrival cards.
+
+The mistake does not establish deliberate deception or demonstrate that any traveler actually missed the deadline. Nevertheless, providing incorrect timing instructions on a website marketed as a reliable TDAC information resource raises legitimate concerns about the accuracy of its multilingual guidance.
+
 ## Media Promotion and Misleading Official Status Claims
 
 On June 13, 2025, [The Thaiger](../brands/the-thaiger.md) published a promotional press release titled *Apply for your TDAC early today with AGENTS*, advertising the privately operated TDAC submission platform associated with [Thai Visa Centre](../brands/thai-visa-centre.md) and [Agents Co., Ltd.](../companies/agents-co-ltd.md).
@@ -222,3 +234,5 @@ The combination of inconsistent pricing information and aggressive accusations a
 - `https://www.trustpilot.com/review/tdac.in.th`
 - `https://www.thnic.co.th/doc/policy/thPolicy-2562-EN.pdf`
 - `https://www.thnic.co.th/doc/policy/3LD-RegisGuides-Final-May2563-EN.pdf`
+- `https://tdac.in.th/th/scam`
+- `https://www.thailand.go.th/issue-focus-detail/thailand-digital-arrival-card--tdac---2-2?hl=th`
