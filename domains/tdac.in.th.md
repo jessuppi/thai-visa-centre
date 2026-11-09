@@ -28,6 +28,14 @@ Thai Visa Centre's own mailing-list policy acknowledges operating `tdac.in.th` a
 
 These disclosures are significant because travelers using `tdac.in.th` to complete a government-required arrival card are providing personal information to a private commercial operator without a clear identification of the affiliated businesses that may benefit from its marketing and data-sharing arrangements.
 
+## Payment and Identity Verification
+
+The terms and conditions linked from `tdac.in.th` state that [Agents Co., Ltd.](../companies/agents-co-ltd.md) may require additional identity and financial documentation when processing payments. If the company classifies a purchase as a high-risk transaction, its terms require customers to provide a copy of valid government-issued photo identification and potentially a recent bank statement associated with the payment card. The terms do not disclose the criteria used to classify transactions as high-risk.
+
+The company also reserves the right to change prices, refuse orders, and cancel purchases at its discretion. These provisions apply to a private TDAC submission service advertising an $8 early-application fee, despite the underlying government registration being free.
+
+Consequently, travelers using the paid intermediary could face requests for additional identity and financial documents beyond the information required for official TDAC registration. Such payment-verification demands originate from the commercial operator's terms, not from Thailand's Immigration Bureau.
+
 ## References
 
 - `https://agents.co.th/`
