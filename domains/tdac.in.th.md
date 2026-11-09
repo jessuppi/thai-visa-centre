@@ -18,6 +18,16 @@ On November 24, 2025, the Royal Thai Embassy in Canberra issued another warning 
 
 These government warnings contrast sharply with the commercial practices of [Agents Co., Ltd.](../companies/agents-co-ltd.md), which operates `tdac.in.th` and promotes an $8 early-submission service. The company's website goes further by characterizing its own early-submission offering as the only legitimate paid TDAC service, despite Thai immigration authorities directing travelers to use the free government portal. This claimed legitimacy for paid intermediary submissions comes from the commercial operator itself, not from the Thai government.
 
+## Personal Data Collection and Marketing
+
+The privacy policy linked from the `tdac.in.th` submission service states that [Agents Co., Ltd.](../companies/agents-co-ltd.md) collects visitor information including IP addresses, browsing activity, and personal information submitted through online forms. The policy also permits obtaining personal information from external sources, including public databases and joint marketing partners.
+
+The policy explicitly allows using personal information to market products and services belonging to AGENTS CO., LTD. and its sister companies. Its terms and conditions further authorize sharing customer information with companies under common ownership or control for marketing purposes. However, **neither document identifies these sister companies, their associated websites, or which businesses may receive information collected through the TDAC service**.
+
+Thai Visa Centre's own mailing-list policy acknowledges operating `tdac.in.th` as an informational website offering email subscriptions, while claiming that subscriber addresses are collected through explicit consent and are not shared. This creates questions about how those assurances relate to the broader cross-company marketing permissions published by AGENTS CO., LTD., particularly given the history of public complaints alleging unsolicited promotional emails from Thai Visa Centre.
+
+These disclosures are significant because travelers using `tdac.in.th` to complete a government-required arrival card are providing personal information to a private commercial operator without a clear identification of the affiliated businesses that may benefit from its marketing and data-sharing arrangements.
+
 ## References
 
 - `https://agents.co.th/`
@@ -25,3 +35,7 @@ These government warnings contrast sharply with the commercial practices of [Age
 - `https://tdac.in.th/scam`
 - `https://www.touristpolice.go.th/post/tpbnews2025061801`
 - `https://canberra.thaiembassy.org/en/content/beware-of-thailand-digital-arrival-card-scam-websi`
+- `https://agents.co.th/tdac-apply/policy/privacy/`
+- `https://agents.co.th/tdac-apply/policy/terms-and-conditions/`
+- `https://tvc.co.th/thai-visa-centre-spam`
+- `https://www.trustpilot.com/review/tvc.co.th`
