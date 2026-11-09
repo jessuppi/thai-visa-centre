@@ -10,6 +10,12 @@ These statements document the agency's publicly claimed operations and pricing, 
 
 As of November 2026, `tdac.in.th` redirects to `tdac.agents.co.th`. On its `tdac.in.th/scam` page, the operator identifies AGENTS CO., LTD., registration number 0115562031107, and publishes a list of 29 competing TDAC websites characterized as scams or untrusted operators. The same website promotes its own $8 (270 THB) early-submission service while acknowledging that the official Thai government TDAC portal is free and that its platform is privately operated. This practice is particularly notable given Thai Visa Centre's May 2025 ASEAN NOW statements, in which the agency criticized another commercial TDAC provider as misleading and potentially unlawful, initially described its own website as purely informational, and subsequently announced paid submissions. The company therefore uses public scam warnings to discredit competing intermediaries while promoting its own paid alternative.
 
+## Registration and Launch Timeline
+
+Public WHOIS records date the registration of `tdac.in.th` to March 27, 2025, approximately five weeks before Thailand's Digital Arrival Card (TDAC) requirement took effect on May 1, 2025. On its corporate website, [Agents Co., Ltd.](../companies/agents-co-ltd.md) states that its TDAC Information Portal launched on April 2, 2025, followed by its TDAC Agents Portal on May 1, 2025.
+
+This timeline establishes that the company registered a domain using the name of Thailand's forthcoming mandatory immigration form and launched its information website nearly a month before the official system became operational. During the subsequent rollout, [Thai Visa Centre](../brands/thai-visa-centre.md) initially characterized `tdac.in.th` as an informational resource without paid services, before publicly announcing an $8 early-submission service. The sequence documents how the domain evolved from a pre-launch information website into an entry point for the company's commercial TDAC services.
+
 ## Official Government Warnings
 
 On June 18, 2025, Thailand's Immigration Bureau issued a public warning, published by the Tourist Police Bureau, urging foreign travelers to register their Thailand Digital Arrival Card exclusively through the official government portal at `tdac.immigration.go.th`. The announcement warned against fraudulent websites seeking payments or personal information and emphasized that TDAC registration was entirely free, with no money transfers required.
@@ -47,3 +53,5 @@ Consequently, travelers using the paid intermediary could face requests for addi
 - `https://agents.co.th/tdac-apply/policy/terms-and-conditions/`
 - `https://tvc.co.th/thai-visa-centre-spam`
 - `https://www.trustpilot.com/review/tvc.co.th`
+- `https://www.scamadviser.com/check-website/tdac.in.th`
+- `https://www.scam-detector.com/validator/tdac-in-th-review/`
