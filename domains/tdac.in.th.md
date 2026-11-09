@@ -14,7 +14,7 @@ As of November 2026, `tdac.in.th` redirects to `tdac.agents.co.th`. On its `tdac
 
 Public WHOIS records date the registration of `tdac.in.th` to March 27, 2025, approximately five weeks before Thailand's Digital Arrival Card (TDAC) requirement took effect on May 1, 2025. On its corporate website, [Agents Co., Ltd.](../companies/agents-co-ltd.md) states that its TDAC Information Portal launched on April 2, 2025, followed by its TDAC Agents Portal on May 1, 2025.
 
-This timeline establishes that the company registered a domain using the name of Thailand's forthcoming mandatory immigration form and launched its information website nearly a month before the official system became operational. During the subsequent rollout, [Thai Visa Centre](../brands/thai-visa-centre.md) initially characterized `tdac.in.th` as an informational resource without paid services, before publicly announcing an $8 early-submission service. The sequence documents how the domain evolved from a pre-launch information website into an entry point for the company's commercial TDAC services.
+This timeline shows that the company registered a domain using the name of Thailand's forthcoming mandatory immigration form and, according to its own published launch date, opened its information website on April 2, 2025, nearly four weeks before the official government portal began accepting TDAC submissions on April 28. During the subsequent rollout, [Thai Visa Centre](../brands/thai-visa-centre.md) initially characterized `tdac.in.th` as an informational resource without paid services, before publicly announcing an $8 early-submission service. The sequence documents how the domain evolved from a pre-launch information website into an entry point for the company's commercial TDAC services.
 
 ## Official Government Warnings
 
@@ -317,6 +317,7 @@ The combination of inconsistent pricing information and aggressive accusations a
 - `https://tdac.agents.co.th/`
 - `https://thailand.prd.go.th/en/content/category/detail/id/43/cid/52/iid/385061`
 - `https://abudhabi.thaiembassy.org/en/content/tdac1may2025`
+- `https://hongkong.thaiembassy.org/en/page/entry-regulation`
 - `https://thethaiger.com/travel/thailand-travel/apply-for-your-tdac-early-today-with-agents`
 - `https://aseannow.com/topic/1361664-apply-for-your-tdac-early-here/`
 - `https://thethaiger.com/travel/thailand-travel/early-thailand-tdac-applications-enhanced-by-insurance-and-esim-partnerships`
