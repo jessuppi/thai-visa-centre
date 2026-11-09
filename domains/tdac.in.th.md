@@ -272,7 +272,7 @@ Notably, the same case number subsequently appeared in AGENTS CO., LTD.'s Octobe
 
 The publication illustrates how The Thaiger's ostensibly informational TDAC coverage combined commercial promotion, criticism of competing intermediaries, and personal allegations against a named critic. Its presentation as a travel guide raises questions about whether readers could clearly distinguish independently verified reporting from material advancing the interests of AGENTS CO., LTD.
 
-Taken together, these publications document coordinated exposure across The Thaiger's commercial publishing channels and ASEAN NOW's sponsored forum environment. They demonstrate how a privately operated TDAC platform received repeated promotion, including misleading *official* terminology and unsupported criticism of the government system, even after Thai immigration authorities warned travelers to use the free official portal.
+Taken together, these publications document repeated promotion through The Thaiger's commercial publishing channels and ASEAN NOW's sponsored forum environment. They demonstrate how a privately operated TDAC platform received repeated promotion, including misleading *official* terminology and unsupported criticism of the government system, even after Thai immigration authorities warned travelers to use the free official portal.
 
 ## Contradictory Pricing and Attacks on Negative Reviewers
 
