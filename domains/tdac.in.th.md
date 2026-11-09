@@ -48,6 +48,16 @@ Thai Visa Centre's own mailing-list policy acknowledges operating `tdac.in.th` a
 
 These disclosures are significant because travelers using `tdac.in.th` to complete a government-required arrival card are providing personal information to a private commercial operator without a clear identification of the affiliated businesses that may benefit from its marketing and data-sharing arrangements.
 
+### Contradictory Third-Party Data-Sharing Assurances
+
+The Privacy Policy published by [Agents Co., Ltd.](../companies/agents-co-ltd.md) contains apparently conflicting assurances about disclosure of customers' personal information. Its *Disclosure of Information* section states that the company will not share personally identifiable information with third parties. However, the surrounding provisions explicitly authorize sharing information with subsidiaries, joint venture partners, affiliates, contracted companies, service providers, and sister companies for marketing purposes.
+
+The policy separately identifies payment processors as third parties that may collect customers' contact and financial information. Although the company may intend its no-sharing assurance to exclude authorized service providers and affiliated businesses, **it does not clearly explain that distinction or reconcile the assurance with its stated sharing practices**.
+
+This ambiguity is particularly relevant to travelers submitting passport details, contact information, and travel itineraries through the commercial TDAC service. The policy leaves readers uncertain about which recipients qualify as third parties and which disclosures are permitted despite the broad no-sharing statement.
+
+The inconsistent wording does not establish that customer information has been disclosed unlawfully. It does, however, raise questions about the clarity and reliability of the privacy assurances presented to travelers.
+
 ### Conflicting Age Rules and Children's TDAC Data
 
 The Terms & Conditions published by [Agents Co., Ltd.](../companies/agents-co-ltd.md) establish a minimum age of **16** for using its website and services. However, the Privacy Policy instructs anyone under **20** not to submit personal information through those same services.
