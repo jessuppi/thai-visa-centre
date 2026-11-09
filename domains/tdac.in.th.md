@@ -12,7 +12,7 @@ As of November 2026, `tdac.in.th` redirects to `tdac.agents.co.th`. On its `tdac
 
 ## Registration and Launch Timeline
 
-Public WHOIS records date the registration of `tdac.in.th` to March 27, 2025, approximately five weeks before Thailand's Digital Arrival Card (TDAC) requirement took effect on May 1, 2025. On its corporate website, [Agents Co., Ltd.](../companies/agents-co-ltd.md) states that its TDAC Information Portal launched on April 2, 2025, followed by its TDAC Agents Portal on May 1, 2025.
+Public WHOIS records date the registration of `tdac.in.th` to March 27, 2025, approximately five weeks before Thailand's Digital Arrival Card (TDAC) requirement took effect on May 1, 2025. On its corporate website, Agents Co., Ltd. states that its TDAC Information Portal launched on April 2, 2025, followed by its TDAC Agents Portal on May 1, 2025.
 
 This timeline shows that the company registered a domain using the name of Thailand's forthcoming mandatory immigration form and, according to its own published launch date, opened its information website on April 2, 2025, nearly four weeks before the official government portal began accepting TDAC submissions on April 28. During the subsequent rollout, [Thai Visa Centre](../brands/thai-visa-centre.md) initially characterized `tdac.in.th` as an informational resource without paid services, before publicly announcing an $8 early-submission service. The sequence documents how the domain evolved from a pre-launch information website into an entry point for the company's commercial TDAC services.
 
@@ -22,7 +22,7 @@ On June 18, 2025, Thailand's Immigration Bureau issued a public warning, publish
 
 On November 24, 2025, the Royal Thai Embassy in Canberra issued another warning about fraudulent TDAC websites, reiterating that `tdac.immigration.go.th` was the only official registration website and that submitting the arrival card was free of charge.
 
-These government warnings contrast sharply with the commercial practices of [Agents Co., Ltd.](../companies/agents-co-ltd.md), which operates `tdac.in.th` and promotes an $8 early-submission service. The company's website goes further by characterizing its own early-submission offering as the only legitimate paid TDAC service, despite Thai immigration authorities directing travelers to use the free government portal. This claimed legitimacy for paid intermediary submissions comes from the commercial operator itself, not from the Thai government.
+These government warnings contrast sharply with the commercial practices of Agents Co., Ltd., which operates `tdac.in.th` and promotes an $8 early-submission service. The company's website goes further by characterizing its own early-submission offering as the only legitimate paid TDAC service, despite Thai immigration authorities directing travelers to use the free government portal. This claimed legitimacy for paid intermediary submissions comes from the commercial operator itself, not from the Thai government.
 
 ### Government Fact-Checks of Commercial TDAC Websites
 
@@ -34,13 +34,13 @@ On **May 9, 2025**, another fact-check addressed a purported backup TDAC registr
 
 On **January 17, 2026**, the Anti-Fake News Center published a further warning concerning claims that the Immigration Bureau had introduced a new TDAC registration website charging service fees. The bureau again confirmed that `tdac.immigration.go.th` was its only official portal, that registration was free, and that other websites offering equivalent services were unaffiliated with the bureau and considered fake.
 
-These repeated official statements contrast with the marketing of `tdac.in.th` and the commercial TDAC platform operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md). The company's own scam-comparison page describes its paid early-submission offering as the only legitimate paid TDAC service, despite the Immigration Bureau consistently directing travelers to use its free government website.
+These repeated official statements contrast with the marketing of `tdac.in.th` and the commercial TDAC platform operated by Agents Co., Ltd.. The company's own scam-comparison page describes its paid early-submission offering as the only legitimate paid TDAC service, despite the Immigration Bureau consistently directing travelers to use its free government website.
 
 The government fact-checks do not specifically identify `tdac.in.th` by name or independently establish that AGENTS CO., LTD. committed fraud. They do, however, demonstrate that the company's claims about the legitimacy of commercial TDAC submissions are not endorsements from the Immigration Bureau and must be distinguished from official government authorization.
 
 ## Deferred Government Submission and Data Retention
 
-The $8 early-submission service promoted through `tdac.in.th` does not allow travelers to register their Thailand Digital Arrival Card (TDAC) with the Immigration Bureau before the government's permitted submission window. According to [Agents Co., Ltd.](../companies/agents-co-ltd.md)'s own website, applications received more than 72 hours before arrival remain pending until the company automatically submits them when the official registration window opens.
+The $8 early-submission service promoted through `tdac.in.th` does not allow travelers to register their Thailand Digital Arrival Card (TDAC) with the Immigration Bureau before the government's permitted submission window. According to Agents Co., Ltd.'s own website, applications received more than 72 hours before arrival remain pending until the company automatically submits them when the official registration window opens.
 
 **Consequently, customers paying for early submission are purchasing a scheduling service, not earlier government processing or authorization.** The company collects their application information in advance, retains it in its private system, and subsequently attempts submission on their behalf.
 
@@ -52,7 +52,7 @@ Although AGENTS CO., LTD. offers automatic submission attempts and a data-remova
 
 ## Personal Data Collection and Marketing
 
-The privacy policy linked from the `tdac.in.th` submission service states that [Agents Co., Ltd.](../companies/agents-co-ltd.md) collects visitor information including IP addresses, browsing activity, and personal information submitted through online forms. The policy also permits obtaining personal information from external sources, including public databases and joint marketing partners.
+The privacy policy linked from the `tdac.in.th` submission service states that Agents Co., Ltd. collects visitor information including IP addresses, browsing activity, and personal information submitted through online forms. The policy also permits obtaining personal information from external sources, including public databases and joint marketing partners.
 
 The policy explicitly allows using personal information to market products and services belonging to AGENTS CO., LTD. and its sister companies. Its terms and conditions further authorize sharing customer information with companies under common ownership or control for marketing purposes. However, **neither document identifies these sister companies, their associated websites, or which businesses may receive information collected through the TDAC service**.
 
@@ -62,7 +62,7 @@ These disclosures are significant because travelers using `tdac.in.th` to comple
 
 ### Contradictory Third-Party Data-Sharing Assurances
 
-The Privacy Policy published by [Agents Co., Ltd.](../companies/agents-co-ltd.md) contains apparently conflicting assurances about disclosure of customers' personal information. Its *Disclosure of Information* section states that the company will not share personally identifiable information with third parties. However, the surrounding provisions explicitly authorize sharing information with subsidiaries, joint venture partners, affiliates, contracted companies, service providers, and sister companies for marketing purposes.
+The Privacy Policy published by Agents Co., Ltd. contains apparently conflicting assurances about disclosure of customers' personal information. Its *Disclosure of Information* section states that the company will not share personally identifiable information with third parties. However, the surrounding provisions explicitly authorize sharing information with subsidiaries, joint venture partners, affiliates, contracted companies, service providers, and sister companies for marketing purposes.
 
 The policy separately identifies payment processors as third parties that may collect customers' contact and financial information. Although the company may intend its no-sharing assurance to exclude authorized service providers and affiliated businesses, **it does not clearly explain that distinction or reconcile the assurance with its stated sharing practices**.
 
@@ -72,7 +72,7 @@ The inconsistent wording does not establish that customer information has been d
 
 ### Data-Deletion Assurances
 
-In a September 24, 2025 sponsored article, [The Thaiger](../brands/the-thaiger.md) promoted [Agents Co., Ltd.](../companies/agents-co-ltd.md)'s Thailand Digital Arrival Card (TDAC) platform while assuring travelers that they could request immediate removal of their personal information after approval. The [Thai Visa Centre](../brands/thai-visa-centre.md) account, posting as a *Forum Sponsor* on [ASEAN NOW](../brands/asean-now.md), similarly told travelers that they could delete all their personal information using a button on the application status page.
+In a September 24, 2025 sponsored article, [The Thaiger](../brands/the-thaiger.md) promoted Agents Co., Ltd.'s Thailand Digital Arrival Card (TDAC) platform while assuring travelers that they could request immediate removal of their personal information after approval. The [Thai Visa Centre](../brands/thai-visa-centre.md) account, posting as a *Forum Sponsor* on [ASEAN NOW](../brands/asean-now.md), similarly told travelers that they could delete all their personal information using a button on the application status page.
 
 The same privacy policy promises that using its *Data Removal* function permanently deletes personal information and account details from the company's systems, retaining only payment transaction identifiers required for regulatory compliance. It does not explain whether this deletion extends to copies of information previously disclosed to sister companies, marketing partners, or other third-party recipients.
 
@@ -84,7 +84,7 @@ These unanswered questions do not establish that AGENTS CO., LTD. has failed to 
 
 ### Unclear Data-Controller and Processor Responsibilities
 
-The Privacy Policy published by [Agents Co., Ltd.](../companies/agents-co-ltd.md) provides potentially confusing explanations of the company's responsibilities for customers' personal information. It states that AGENTS CO., LTD. acts as a *data controller* when requesting personal information, but also claims to act as a *data processor* when users submit information through its services. In the latter situation, the policy identifies the user submitting the information as the data controller and states that the company does not make decisions about that information.
+The Privacy Policy published by Agents Co., Ltd. provides potentially confusing explanations of the company's responsibilities for customers' personal information. It states that AGENTS CO., LTD. acts as a *data controller* when requesting personal information, but also claims to act as a *data processor* when users submit information through its services. In the latter situation, the policy identifies the user submitting the information as the data controller and states that the company does not make decisions about that information.
 
 **This distinction is not clearly explained for individual travelers completing their own TDAC applications.** These customers provide passport details and travel information to a commercial service whose operator establishes its own policies for data retention, marketing, and disclosure to affiliated businesses. The Privacy Policy does not explain how an individual applicant would exercise the decision-making authority attributed to them.
 
@@ -94,7 +94,7 @@ The language does not establish that AGENTS CO., LTD. has violated data-protecti
 
 ### Conflicting Age Rules and Children's TDAC Data
 
-The Terms & Conditions published by [Agents Co., Ltd.](../companies/agents-co-ltd.md) establish a minimum age of **16** for using its website and services. However, the Privacy Policy instructs anyone under **20** not to submit personal information through those same services.
+The Terms & Conditions published by Agents Co., Ltd. establish a minimum age of **16** for using its website and services. However, the Privacy Policy instructs anyone under **20** not to submit personal information through those same services.
 
 **These provisions create an unexplained inconsistency for travelers aged 16–19.** Although the Terms & Conditions permit them to use the platform, the Privacy Policy effectively discourages them from providing the personal information required to complete a TDAC submission.
 
@@ -108,7 +108,7 @@ These inconsistencies do not establish unlawful collection of children's informa
 
 ### Payment and Identity Verification
 
-The terms and conditions linked from `tdac.in.th` state that [Agents Co., Ltd.](../companies/agents-co-ltd.md) may require additional identity and financial documentation when processing payments. If the company classifies a purchase as a high-risk transaction, its terms require customers to provide a copy of valid government-issued photo identification and potentially a recent bank statement associated with the payment card. The terms do not disclose the criteria used to classify transactions as high-risk.
+The terms and conditions linked from `tdac.in.th` state that Agents Co., Ltd. may require additional identity and financial documentation when processing payments. If the company classifies a purchase as a high-risk transaction, its terms require customers to provide a copy of valid government-issued photo identification and potentially a recent bank statement associated with the payment card. The terms do not disclose the criteria used to classify transactions as high-risk.
 
 The company also reserves the right to change prices, refuse orders, and cancel purchases at its discretion. These provisions apply to a private TDAC submission service advertising an $8 early-application fee, despite the underlying government registration being free.
 
@@ -118,7 +118,7 @@ Consequently, travelers using the paid intermediary could face requests for addi
 
 The refund policy linked from `tdac.in.th` describes the company's TDAC Early Submission Service as allowing customers to submit their "visa applications" well before their travel dates. **This description is factually incorrect.** Thailand's Immigration Bureau explicitly states that the Thailand Digital Arrival Card is not a visa. It is a mandatory arrival declaration, and completing it does not constitute applying for or obtaining permission to enter Thailand.
 
-The error is particularly concerning because [Agents Co., Ltd.](../companies/agents-co-ltd.md) markets itself as a professional immigration and travel-services provider while charging customers $8 for early TDAC submissions. Confusing an arrival card with a visa application in the service's published refund policy raises legitimate questions about the accuracy and reliability of the company's customer-facing documentation.
+The error is particularly concerning because Agents Co., Ltd. markets itself as a professional immigration and travel-services provider while charging customers $8 for early TDAC submissions. Confusing an arrival card with a visa application in the service's published refund policy raises legitimate questions about the accuracy and reliability of the company's customer-facing documentation.
 
 The same refund policy promises a full service-fee refund if a traveler cancels their trip entirely or cancels the service more than seven days before arrival. However, it does not explain whether customers are entitled to refunds when a TDAC submission is delayed, processed incorrectly, or otherwise fails to deliver the promised service. The policy was last updated on May 15, 2025, after the TDAC system became mandatory.
 
@@ -126,7 +126,7 @@ These omissions leave important questions unanswered about the protections avail
 
 ### Liability Limits and Early TDAC Submissions
 
-The Terms & Conditions published by [Agents Co., Ltd.](../companies/agents-co-ltd.md) place substantial limitations on the company's financial responsibility to customers. They exclude numerous categories of indirect and consequential damages and limit the company's aggregate liability to whichever is greater: **US$1 or the amount the customer paid during the preceding one-month period**.
+The Terms & Conditions published by Agents Co., Ltd. place substantial limitations on the company's financial responsibility to customers. They exclude numerous categories of indirect and consequential damages and limit the company's aggregate liability to whichever is greater: **US$1 or the amount the customer paid during the preceding one-month period**.
 
 This limitation is particularly relevant to the company's paid TDAC Early Submission Service. Customers may submit applications weeks or months before arriving in Thailand, while AGENTS CO., LTD. postpones submission to the Immigration Bureau until the official registration window opens. Consequently, **a customer who paid $8 several months earlier could encounter a submission failure after that payment falls outside the contractual one-month calculation**. Under the company's stated formula, the applicable liability cap could then be only $1.
 
@@ -138,7 +138,7 @@ The existence of these clauses does not establish that the company has enforced 
 
 ### Approval-Time Terminology
 
-The scam-comparison page published by [Agents Co., Ltd.](../companies/agents-co-ltd.md), which identifies `tdac.in.th` as one of its services, advertises an **“Approval Time” of “0–5min”** for both its own service and the official Thai government TDAC portal. However, the same page explicitly states that TDAC submissions are issued instantly, require no review, and cannot receive priority approval.
+The scam-comparison page published by Agents Co., Ltd., which identifies `tdac.in.th` as one of its services, advertises an **“Approval Time” of “0–5min”** for both its own service and the official Thai government TDAC portal. However, the same page explicitly states that TDAC submissions are issued instantly, require no review, and cannot receive priority approval.
 
 Thailand's Immigration Bureau identifies the TDAC as an arrival card, not a visa. Official government guidance describes the result of submission as a confirmation or acknowledgment email that travelers present to immigration officers upon arrival. Receiving that confirmation does not constitute immigration approval or guarantee permission to enter Thailand.
 
@@ -148,7 +148,7 @@ Although the comparison table applies the same terminology to the government por
 
 ### Editing and Resubmission
 
-The scam-comparison page operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md) presents its TDAC platform as offering superior editing and resubmission capabilities compared with Thailand's official government website.
+The scam-comparison page operated by Agents Co., Ltd. presents its TDAC platform as offering superior editing and resubmission capabilities compared with Thailand's official government website.
 
 The comparison marks *Resubmission Functionality* as unavailable on `tdac.immigration.go.th`, while presenting it as supported by the company's own platform. It also describes the government portal's editing capabilities as *Partial Support*, compared with *Full Support* through AGENTS CO., LTD.
 
@@ -162,7 +162,7 @@ This is particularly relevant because the comparison promotes AGENTS CO., LTD.'s
 
 ### Government Email Support
 
-On its *About our TDAC services* page, [Agents Co., Ltd.](../companies/agents-co-ltd.md) compares its commercial platform with Thailand's official Immigration Bureau website. The comparison labels the government's email support **“Unresponsive”** while describing the company's own email support as *Available*.
+On its *About our TDAC services* page, Agents Co., Ltd. compares its commercial platform with Thailand's official Immigration Bureau website. The comparison labels the government's email support **“Unresponsive”** while describing the company's own email support as *Available*.
 
 However, the company provides no supporting evidence for this assessment, such as documented inquiries, response times, testing dates, or independently verified customer-service comparisons.
 
@@ -174,7 +174,7 @@ The unsupported characterization is particularly relevant because AGENTS CO., LT
 
 ### LTR Visa Documents
 
-On its *About our TDAC services* page, [Agents Co., Ltd.](../companies/agents-co-ltd.md) promotes the individual TDAC documents generated by its commercial platform as an advantage over Thailand's official government system. The company describes individual documents as crucial for Long-Term Resident (LTR) visa applications, specifically claiming that Thailand's Board of Investment (BOI) requires them.
+On its *About our TDAC services* page, Agents Co., Ltd. promotes the individual TDAC documents generated by its commercial platform as an advantage over Thailand's official government system. The company describes individual documents as crucial for Long-Term Resident (LTR) visa applications, specifically claiming that Thailand's Board of Investment (BOI) requires them.
 
 The BOI's official guidance does identify the Thailand Digital Arrival Card as a relevant document for certain LTR visa issuance procedures. Applicants who entered Thailand after May 1, 2025, may need to provide their TDAC information when completing visa issuance in Thailand. The BOI also instructs applicants to enter their TDAC number in the field previously used for the TM.6 arrival card.
 
@@ -186,7 +186,7 @@ This does not establish that separately generated TDAC documents lack practical 
 
 ### Group Submission Limits
 
-On its *About our TDAC services* page, [Agents Co., Ltd.](../companies/agents-co-ltd.md) compares the official Thai government TDAC portal's traveler limit of **10** with its own platform's supposedly *Unlimited* capacity. The company promotes unlimited group submissions as a particular advantage for travel agents and tour operators, including an example of processing 30 travelers three weeks before arrival for $16.
+On its *About our TDAC services* page, Agents Co., Ltd. compares the official Thai government TDAC portal's traveler limit of **10** with its own platform's supposedly *Unlimited* capacity. The company promotes unlimited group submissions as a particular advantage for travel agents and tour operators, including an example of processing 30 travelers three weeks before arrival for $16.
 
 **However, Thailand's Immigration Bureau specifies a maximum of ten travelers per application, not a maximum of ten travelers per group, tour operator, or entire trip.** Its official guidance also confirms that travel agents and tour leaders may submit TDAC applications on behalf of their clients.
 
@@ -200,7 +200,7 @@ The published comparison risks exaggerating a limitation of the official governm
 
 ### Competitor Blacklist and Unsupported Fraud Classifications
 
-The scam-warning page operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md) publishes a blacklist of 29 competing Thailand Digital Arrival Card (TDAC) websites, categorizing them as scams or untrusted operators. Several entries are explicitly labeled *CONFIRMED SCAM*, while others carry warnings such as *FOREIGN ENTITY AVOID* or accusations involving fake advertisements and misleading fees.
+The scam-warning page operated by Agents Co., Ltd. publishes a blacklist of 29 competing Thailand Digital Arrival Card (TDAC) websites, categorizing them as scams or untrusted operators. Several entries are explicitly labeled *CONFIRMED SCAM*, while others carry warnings such as *FOREIGN ENTITY AVOID* or accusations involving fake advertisements and misleading fees.
 
 Although the page includes selected advertising records and links to external reports, it does not establish a consistent methodology for distinguishing confirmed fraud from expensive, unreliable, or otherwise undesirable commercial services. Nor does it identify official findings supporting every fraud classification.
 
@@ -214,7 +214,7 @@ These classifications represent the commercial operator's assessments and should
 
 ### Misleading Domain-Name Trust Signals
 
-On its TDAC scam-warning page, [Agents Co., Ltd.](../companies/agents-co-ltd.md) advises travelers that legitimate Thai services use `.go.th`, `.co.th`, or `.in.th` domains, describing the latter two as domains for registered Thai businesses. It also warns against websites without a `.th` extension while identifying its own `tdac.in.th` and `agents.co.th` platforms as trusted submission options.
+On its TDAC scam-warning page, Agents Co., Ltd. advises travelers that legitimate Thai services use `.go.th`, `.co.th`, or `.in.th` domains, describing the latter two as domains for registered Thai businesses. It also warns against websites without a `.th` extension while identifying its own `tdac.in.th` and `agents.co.th` platforms as trusted submission options.
 
 **This characterization is misleading, particularly regarding `.in.th`.** According to the Thai Network Information Center (THNIC) Foundation's published registration policy, `.in.th` domains are available to eligible individuals and non-juristic entities, as well as registered companies. Registration of an `.in.th` domain therefore does not, by itself, establish that its holder operates a registered Thai business.
 
@@ -226,7 +226,7 @@ The claimed Trustpilot business profile for `tdac.in.th` lists **United States**
 
 ### Incorrect Thai-Language TDAC Deadline Instructions
 
-The Thai-language TDAC scam-warning page operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md) repeatedly tells travelers that official TDAC submissions are free **“ภายใน 72 ชั่วโมงหลังจากการมาถึง”**, meaning *within 72 hours after arrival*. This wording appears in the page's explanation of legitimate services, its scam-prevention checklist, and its closing promotion of the company's own platform.
+The Thai-language TDAC scam-warning page operated by Agents Co., Ltd. repeatedly tells travelers that official TDAC submissions are free **“ภายใน 72 ชั่วโมงหลังจากการมาถึง”**, meaning *within 72 hours after arrival*. This wording appears in the page's explanation of legitimate services, its scam-prevention checklist, and its closing promotion of the company's own platform.
 
 **The instruction reverses the actual submission deadline.** Thailand's Immigration Bureau requires travelers to complete their TDAC before entering Thailand, within three days before arrival, including the arrival date. Official Thai government guidance similarly specifies the 72-hour period *before* travel, not afterward.
 
@@ -240,7 +240,7 @@ The mistake does not establish deliberate deception or demonstrate that any trav
 
 ## Media Promotion and Misleading Official Status Claims
 
-On June 13, 2025, [The Thaiger](../brands/the-thaiger.md) published a promotional press release titled *Apply for your TDAC early today with AGENTS*, advertising the privately operated TDAC submission platform associated with [Thai Visa Centre](../brands/thai-visa-centre.md) and [Agents Co., Ltd.](../companies/agents-co-ltd.md).
+On June 13, 2025, [The Thaiger](../brands/the-thaiger.md) published a promotional press release titled *Apply for your TDAC early today with AGENTS*, advertising the privately operated TDAC submission platform associated with [Thai Visa Centre](../brands/thai-visa-centre.md) and Agents Co., Ltd..
 
 **The article explicitly labeled `tdac.in.th` the "Official TDAC information page by AGENTS" and described `agents.co.th` as the "Official TDAC form by AGENTS".** Although it separately acknowledged Thailand's government portal at `tdac.immigration.go.th`, applying the term *official* to the company's commercial websites created a misleading impression of authority around privately operated TDAC services.
 
@@ -262,7 +262,7 @@ That article also directed readers toward the operator's own TDAC scam-warning m
 
 ### November 2025 Press Release and Attacks on Critics
 
-On November 11, 2025, [The Thaiger](../brands/the-thaiger.md) published an article titled *Thailand Digital Arrival Card (TDAC) scams and how to protect yourself* under its *Guides → Visa Information* category. Although presented as a consumer-protection guide, the article was identified as a *Press Release* and extensively promoted the TDAC submission platform operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md).
+On November 11, 2025, [The Thaiger](../brands/the-thaiger.md) published an article titled *Thailand Digital Arrival Card (TDAC) scams and how to protect yourself* under its *Guides → Visa Information* category. Although presented as a consumer-protection guide, the article was identified as a *Press Release* and extensively promoted the TDAC submission platform operated by Agents Co., Ltd..
 
 The article directed readers to AGENTS CO., LTD.'s own TDAC scam-comparison page, characterized the company's service as a legitimate alternative to the free government portal, and argued that government warnings about paid TDAC websites concerned other operators.
 
