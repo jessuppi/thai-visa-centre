@@ -120,16 +120,6 @@ The Terms & Conditions also require customers to indemnify AGENTS CO., LTD. and 
 
 The existence of these clauses does not establish that the company has enforced them against customers or that every limitation would be legally enforceable. Nevertheless, the combination of advance payments, deferred government submission, broad liability exclusions, and a potentially minimal compensation limit raises legitimate questions about the protections available when the service fails to perform as expected.
 
-## Misleading TDAC Approval-Time Claims
-
-The scam-comparison page published by [Agents Co., Ltd.](../companies/agents-co-ltd.md), which identifies `tdac.in.th` as one of its services, advertises an **“Approval Time” of “0–5min”** for both its own service and the official Thai government TDAC portal. However, the same page explicitly states that TDAC submissions are issued instantly, require no review, and cannot receive priority approval.
-
-Thailand's Immigration Bureau identifies the TDAC as an arrival card, not a visa. Official government guidance describes the result of submission as a confirmation or acknowledgment email that travelers present to immigration officers upon arrival. Receiving that confirmation does not constitute immigration approval or guarantee permission to enter Thailand.
-
-The terminology is particularly inconsistent with a November 11, 2025 article published by [The Thaiger](../brands/the-thaiger.md) promoting AGENTS CO., LTD. That article identifies “fast approval” messaging as a warning sign associated with misleading TDAC websites, while the company's own comparison table uses approval time as a selling point.
-
-Although the comparison table applies the same terminology to the government portal, describing TDAC confirmation as “approval” risks confusing routine arrival-card registration with an immigration authorization process. The discrepancy illustrates a lack of precision in the company's marketing and its criticism of competing services.
-
 ## Deferred Government Submission and Data Retention
 
 The $8 early-submission service promoted through `tdac.in.th` does not allow travelers to register their Thailand Digital Arrival Card (TDAC) with the Immigration Bureau before the government's permitted submission window. According to [Agents Co., Ltd.](../companies/agents-co-ltd.md)'s own website, applications received more than 72 hours before arrival remain pending until the company automatically submits them when the official registration window opens.
@@ -142,7 +132,19 @@ The company's website advertises saved application drafts that do not expire unl
 
 Although AGENTS CO., LTD. offers automatic submission attempts and a data-removal function, these features do not eliminate the distinction between submitting information to a private intermediary and registering with Thailand's Immigration Bureau. The service's actual scheduling mechanism and associated data-retention arrangements are important considerations for travelers deciding whether advance submission justifies the additional fee and disclosure of sensitive personal information.
 
-## Misleading Comparison of Official TDAC Editing Options
+## Comparison Claims About the Official TDAC Portal
+
+### Approval-Time Terminology
+
+The scam-comparison page published by [Agents Co., Ltd.](../companies/agents-co-ltd.md), which identifies `tdac.in.th` as one of its services, advertises an **“Approval Time” of “0–5min”** for both its own service and the official Thai government TDAC portal. However, the same page explicitly states that TDAC submissions are issued instantly, require no review, and cannot receive priority approval.
+
+Thailand's Immigration Bureau identifies the TDAC as an arrival card, not a visa. Official government guidance describes the result of submission as a confirmation or acknowledgment email that travelers present to immigration officers upon arrival. Receiving that confirmation does not constitute immigration approval or guarantee permission to enter Thailand.
+
+The terminology is particularly inconsistent with a November 11, 2025 article published by [The Thaiger](../brands/the-thaiger.md) promoting AGENTS CO., LTD. That article identifies “fast approval” messaging as a warning sign associated with misleading TDAC websites, while the company's own comparison table uses approval time as a selling point.
+
+Although the comparison table applies the same terminology to the government portal, describing TDAC confirmation as “approval” risks confusing routine arrival-card registration with an immigration authorization process. The discrepancy illustrates a lack of precision in the company's marketing and its criticism of competing services.
+
+### Editing and Resubmission
 
 The scam-comparison page operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md) presents its TDAC platform as offering superior editing and resubmission capabilities compared with Thailand's official government website.
 
@@ -156,7 +158,7 @@ The company's comparison does not explain whether *Resubmission Functionality* r
 
 This is particularly relevant because the comparison promotes AGENTS CO., LTD.'s additional features as reasons to use its privately operated platform instead of submitting directly to Thailand's Immigration Bureau.
 
-### Unsupported Claims About Government TDAC Email Support
+### Government Email Support
 
 On its *About our TDAC services* page, [Agents Co., Ltd.](../companies/agents-co-ltd.md) compares its commercial platform with Thailand's official Immigration Bureau website. The comparison labels the government's email support **“Unresponsive”** while describing the company's own email support as *Available*.
 
@@ -168,7 +170,7 @@ Thailand's Immigration Bureau publishes an official TDAC support email address i
 
 The unsupported characterization is particularly relevant because AGENTS CO., LTD. uses the comparison to promote its privately operated TDAC submission service over the free government alternative.
 
-## LTR Visa Claims and Individual TDAC Documents
+### LTR Visa Documents
 
 On its *About our TDAC services* page, [Agents Co., Ltd.](../companies/agents-co-ltd.md) promotes the individual TDAC documents generated by its commercial platform as an advantage over Thailand's official government system. The company describes individual documents as crucial for Long-Term Resident (LTR) visa applications, specifically claiming that Thailand's Board of Investment (BOI) requires them.
 
@@ -180,7 +182,7 @@ AGENTS CO., LTD.'s marketing therefore connects a legitimate immigration documen
 
 This does not establish that separately generated TDAC documents lack practical value. It does, however, raise questions about whether the company's comparison accurately distinguishes government requirements from features offered by its commercial platform.
 
-## Misleading Comparison of Group Submission Limits
+### Group Submission Limits
 
 On its *About our TDAC services* page, [Agents Co., Ltd.](../companies/agents-co-ltd.md) compares the official Thai government TDAC portal's traveler limit of **10** with its own platform's supposedly *Unlimited* capacity. The company promotes unlimited group submissions as a particular advantage for travel agents and tour operators, including an example of processing 30 travelers three weeks before arrival for $16.
 
