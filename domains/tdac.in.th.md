@@ -24,6 +24,20 @@ On November 24, 2025, the Royal Thai Embassy in Canberra issued another warning 
 
 These government warnings contrast sharply with the commercial practices of [Agents Co., Ltd.](../companies/agents-co-ltd.md), which operates `tdac.in.th` and promotes an $8 early-submission service. The company's website goes further by characterizing its own early-submission offering as the only legitimate paid TDAC service, despite Thai immigration authorities directing travelers to use the free government portal. This claimed legitimacy for paid intermediary submissions comes from the commercial operator itself, not from the Thai government.
 
+### Government Fact-Checks of Commercial TDAC Websites
+
+Thailand's Anti-Fake News Center published several fact-checks, verified with the Immigration Bureau, addressing unauthorized websites claiming to provide Thailand Digital Arrival Card (TDAC) registration services.
+
+On **May 2, 2025**, the center rejected claims that the Immigration Bureau had launched a fee-charging arrival-card registration website for VIP travelers. The Immigration Bureau confirmed that the website featured in the claim was not affiliated with the agency and reiterated that its official TDAC registration service was free.
+
+On **May 9, 2025**, another fact-check addressed a purported backup TDAC registration website. The Immigration Bureau identified the website shown in that claim as fake, warned travelers against entering personal information, and emphasized that it operated only one official TDAC registration website.
+
+On **January 17, 2026**, the Anti-Fake News Center published a further warning concerning claims that the Immigration Bureau had introduced a new TDAC registration website charging service fees. The bureau again confirmed that `tdac.immigration.go.th` was its only official portal, that registration was free, and that other websites offering equivalent services were unaffiliated with the bureau and considered fake.
+
+These repeated official statements contrast with the marketing of `tdac.in.th` and the commercial TDAC platform operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md). The company's own scam-comparison page describes its paid early-submission offering as the only legitimate paid TDAC service, despite the Immigration Bureau consistently directing travelers to use its free government website.
+
+The government fact-checks do not specifically identify `tdac.in.th` by name or independently establish that AGENTS CO., LTD. committed fraud. They do, however, demonstrate that the company's claims about the legitimacy of commercial TDAC submissions are not endorsements from the Immigration Bureau and must be distinguished from official government authorization.
+
 ## Personal Data Collection and Marketing
 
 The privacy policy linked from the `tdac.in.th` submission service states that [Agents Co., Ltd.](../companies/agents-co-ltd.md) collects visitor information including IP addresses, browsing activity, and personal information submitted through online forms. The policy also permits obtaining personal information from external sources, including public databases and joint marketing partners.
@@ -125,6 +139,9 @@ The combination of inconsistent pricing information and aggressive accusations a
 - `https://tdac.in.th/scam`
 - `https://www.touristpolice.go.th/post/tpbnews2025061801`
 - `https://canberra.thaiembassy.org/en/content/beware-of-thailand-digital-arrival-card-scam-websi`
+- `https://www.antifakenewscenter.com/นโยบายรัฐบาล-ข่าวสาร/ตม-เปิดเว็บไซต์ลงทะเบียนบัตรขาเข้าประเทศแบบเก็บค่าธรรมเนียม-รองรับนักท่องเที่ยว-vip/`
+- `https://www.antifakenewscenter.com/นโยบายรัฐบาล-ข่าวสาร/ตม-เปิดเว็บไซต์-tdac-สำรอง-รองรับการลงทะเบียนเข้าประเทศ/`
+- `https://www.antifakenewscenter.com/?p=81970`
 - `https://agents.co.th/tdac-apply/policy/privacy/`
 - `https://agents.co.th/tdac-apply/policy/terms-and-conditions/`
 - `https://tvc.co.th/thai-visa-centre-spam`
