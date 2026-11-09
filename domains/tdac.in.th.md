@@ -48,6 +48,18 @@ Thai Visa Centre's own mailing-list policy acknowledges operating `tdac.in.th` a
 
 These disclosures are significant because travelers using `tdac.in.th` to complete a government-required arrival card are providing personal information to a private commercial operator without a clear identification of the affiliated businesses that may benefit from its marketing and data-sharing arrangements.
 
+### Conflicting Age Rules and Children's TDAC Data
+
+The Terms & Conditions published by [Agents Co., Ltd.](../companies/agents-co-ltd.md) establish a minimum age of **16** for using its website and services. However, the Privacy Policy instructs anyone under **20** not to submit personal information through those same services.
+
+**These provisions create an unexplained inconsistency for travelers aged 16–19.** Although the Terms & Conditions permit them to use the platform, the Privacy Policy effectively discourages them from providing the personal information required to complete a TDAC submission.
+
+The Privacy Policy acknowledges that parents may submit information concerning their children, but describes this possibility in the context of a *visa application*. Thailand's Digital Arrival Card is not a visa, and the Immigration Bureau confirms that children, including infants, must have their own TDAC submissions.
+
+The company's documentation does not clearly explain how the different age thresholds apply to its TDAC service, or distinguish between minors submitting their own information and parents submitting information on their behalf.
+
+These inconsistencies do not establish unlawful collection of children's information. They do, however, raise legitimate questions about the clarity and reliability of the company's published privacy protections for families using its immigration-related services.
+
 ## Data-Deletion Assurances and Unidentified Affiliates
 
 In a September 24, 2025 sponsored article, [The Thaiger](../brands/the-thaiger.md) promoted [Agents Co., Ltd.](../companies/agents-co-ltd.md)'s Thailand Digital Arrival Card (TDAC) platform while assuring travelers that they could request immediate removal of their personal information after approval. The [Thai Visa Centre](../brands/thai-visa-centre.md) account, posting as a *Forum Sponsor* on [ASEAN NOW](../brands/asean-now.md), similarly told travelers that they could delete all their personal information using a button on the application status page.
