@@ -196,7 +196,9 @@ AGENTS CO., LTD. may offer genuine administrative conveniences by handling large
 
 The published comparison risks exaggerating a limitation of the official government system while promoting the commercial platform as a necessary alternative for larger groups.
 
-## Competitor Blacklist and Unsupported Fraud Classifications
+## Claims and Inaccuracies on the TDAC Scam-Warning Page
+
+### Competitor Blacklist and Unsupported Fraud Classifications
 
 The scam-warning page operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md) publishes a blacklist of 29 competing Thailand Digital Arrival Card (TDAC) websites, categorizing them as scams or untrusted operators. Several entries are explicitly labeled *CONFIRMED SCAM*, while others carry warnings such as *FOREIGN ENTITY AVOID* or accusations involving fake advertisements and misleading fees.
 
@@ -210,7 +212,7 @@ The distinction is especially important because AGENTS CO., LTD. presents its ow
 
 These classifications represent the commercial operator's assessments and should not be mistaken for an official Thai government blacklist or independently verified findings of criminal wrongdoing.
 
-## Misleading Domain-Name Trust Signals
+### Misleading Domain-Name Trust Signals
 
 On its TDAC scam-warning page, [Agents Co., Ltd.](../companies/agents-co-ltd.md) advises travelers that legitimate Thai services use `.go.th`, `.co.th`, or `.in.th` domains, describing the latter two as domains for registered Thai businesses. It also warns against websites without a `.th` extension while identifying its own `tdac.in.th` and `agents.co.th` platforms as trusted submission options.
 
@@ -220,7 +222,7 @@ More importantly, neither `.co.th` nor `.in.th` registration demonstrates author
 
 By presenting Thai domain extensions as indicators of legitimacy while operating websites under those extensions, AGENTS CO., LTD. promotes a trust criterion that favors its own services without establishing any corresponding authority to process government immigration submissions.
 
-## Incorrect Thai-Language TDAC Deadline Instructions
+### Incorrect Thai-Language TDAC Deadline Instructions
 
 The Thai-language TDAC scam-warning page operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md) repeatedly tells travelers that official TDAC submissions are free **“ภายใน 72 ชั่วโมงหลังจากการมาถึง”**, meaning *within 72 hours after arrival*. This wording appears in the page's explanation of legitimate services, its scam-prevention checklist, and its closing promotion of the company's own platform.
 
