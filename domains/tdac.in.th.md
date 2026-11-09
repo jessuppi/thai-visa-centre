@@ -114,6 +114,20 @@ The company's comparison does not explain whether *Resubmission Functionality* r
 
 This is particularly relevant because the comparison promotes AGENTS CO., LTD.'s additional features as reasons to use its privately operated platform instead of submitting directly to Thailand's Immigration Bureau.
 
+## Competitor Blacklist and Unsupported Fraud Classifications
+
+The scam-warning page operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md) publishes a blacklist of 29 competing Thailand Digital Arrival Card (TDAC) websites, categorizing them as scams or untrusted operators. Several entries are explicitly labeled *CONFIRMED SCAM*, while others carry warnings such as *FOREIGN ENTITY AVOID* or accusations involving fake advertisements and misleading fees.
+
+Although the page includes selected advertising records and links to external reports, it does not establish a consistent methodology for distinguishing confirmed fraud from expensive, unreliable, or otherwise undesirable commercial services. Nor does it identify official findings supporting every fraud classification.
+
+**The company's own pricing claims also contain a demonstrable contradiction.** Its warning states that all untrusted operators charge between 900 and 4,000 THB for services available free through official channels. However, the same comparison table lists `tdac.asia` as an untrusted foreign operator charging just $10 (340 THB) for TDAC submissions.
+
+Charging substantial fees for a free government form can legitimately raise consumer-protection concerns, particularly where pricing or government affiliation is misrepresented. Nevertheless, operating from another country, advertising on Google, or charging a service fee does not independently establish fraud.
+
+The distinction is especially important because AGENTS CO., LTD. presents its own commercial platform alongside Thailand's government portal as a trusted submission option while categorizing competing intermediaries negatively.
+
+These classifications represent the commercial operator's assessments and should not be mistaken for an official Thai government blacklist or independently verified findings of criminal wrongdoing.
+
 ## Media Promotion and Misleading Official Status Claims
 
 On June 13, 2025, [The Thaiger](../brands/the-thaiger.md) published a promotional press release titled *Apply for your TDAC early today with AGENTS*, advertising the privately operated TDAC submission platform associated with [Thai Visa Centre](../brands/thai-visa-centre.md) and [Agents Co., Ltd.](../companies/agents-co-ltd.md).
