@@ -86,6 +86,20 @@ On September 24, 2025, The Thaiger published another article, explicitly labeled
 
 That article also directed readers toward the operator's own TDAC scam-warning material, which identifies competing websites as fraudulent or untrusted while promoting AGENTS CO., LTD.'s services.
 
+### November 2025 Press Release and Attacks on Critics
+
+On November 11, 2025, [The Thaiger](../brands/the-thaiger.md) published an article titled *Thailand Digital Arrival Card (TDAC) scams and how to protect yourself* under its *Guides → Visa Information* category. Although presented as a consumer-protection guide, the article was identified as a *Press Release* and extensively promoted the TDAC submission platform operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md).
+
+The article directed readers to AGENTS CO., LTD.'s own TDAC scam-comparison page, characterized the company's service as a legitimate alternative to the free government portal, and argued that government warnings about paid TDAC websites concerned other operators.
+
+**Its explanation of the company's fees also conflicted with AGENTS CO., LTD.'s own published descriptions.** The article asserted that the approximately 280 THB (US$8) charge was not for TDAC submission itself, but for broader travel planning and coordination services. However, the company's refund policy expressly identifies its paid offering as the *TDAC Early Submission Service*, while its scam-comparison page describes early TDAC submission outside the government's 72-hour window as the only legitimate paid service.
+
+The article additionally included a section titled *Legal notice regarding defamation activity*, which named **Jesse Nickles**, accused him of using numerous anonymous accounts to criticize AGENTS CO., LTD., and asserted that a criminal defamation case and arrest warrant existed against him. It cited case number **443/2567**, but did not provide a linked court order or independently verifiable documentation establishing the claimed warrant.
+
+Notably, the same case number subsequently appeared in AGENTS CO., LTD.'s October 2026 Trustpilot responses accusing negative reviewers of participating in a coordinated harassment campaign. This repetition connects the allegations published by The Thaiger with the operator's later responses to consumer criticism, although it does not independently establish who authored the article or substantiate the criminal allegations.
+
+The publication illustrates how The Thaiger's ostensibly informational TDAC coverage combined commercial promotion, criticism of competing intermediaries, and personal allegations against a named critic. Its presentation as a travel guide raises questions about whether readers could clearly distinguish independently verified reporting from material advancing the interests of AGENTS CO., LTD.
+
 Taken together, these publications document coordinated exposure across The Thaiger's commercial publishing channels and ASEAN NOW's sponsored forum environment. They demonstrate how a privately operated TDAC platform received repeated promotion, including misleading *official* terminology and unsupported criticism of the government system, even after Thai immigration authorities warned travelers to use the free official portal.
 
 ## Contradictory Pricing and Attacks on Negative Reviewers
@@ -122,5 +136,6 @@ The combination of inconsistent pricing information and aggressive accusations a
 - `https://thethaiger.com/travel/thailand-travel/apply-for-your-tdac-early-today-with-agents`
 - `https://aseannow.com/topic/1361664-apply-for-your-tdac-early-here/`
 - `https://thethaiger.com/travel/thailand-travel/early-thailand-tdac-applications-enhanced-by-insurance-and-esim-partnerships`
+- `https://thethaiger.com/guides/visa-information/thailand-digital-arrival-card-tdac-scams-and-how-to-protect-yourself`
 - `https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand`
 - `https://www.trustpilot.com/review/tdac.in.th`
