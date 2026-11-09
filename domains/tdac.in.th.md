@@ -100,6 +100,20 @@ The company's website advertises saved application drafts that do not expire unl
 
 Although AGENTS CO., LTD. offers automatic submission attempts and a data-removal function, these features do not eliminate the distinction between submitting information to a private intermediary and registering with Thailand's Immigration Bureau. The service's actual scheduling mechanism and associated data-retention arrangements are important considerations for travelers deciding whether advance submission justifies the additional fee and disclosure of sensitive personal information.
 
+## Misleading Comparison of Official TDAC Editing Options
+
+The scam-comparison page operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md) presents its TDAC platform as offering superior editing and resubmission capabilities compared with Thailand's official government website.
+
+The comparison marks *Resubmission Functionality* as unavailable on `tdac.immigration.go.th`, while presenting it as supported by the company's own platform. It also describes the government portal's editing capabilities as *Partial Support*, compared with *Full Support* through AGENTS CO., LTD.
+
+**However, Thailand's Immigration Bureau explicitly confirms that travelers can submit a TDAC multiple times and that the most recent valid submission takes precedence.** Its official guidance also explains that travelers can update information such as flight and accommodation details. If certain personal information cannot be edited, including passport numbers or names, travelers can submit a replacement application containing the correct information.
+
+The government's system does have limitations, including restrictions on editing certain fields and the inability to resume an unfinished application. However, these limitations should not be confused with an inability to submit corrected or replacement TDAC forms.
+
+The company's comparison does not explain whether *Resubmission Functionality* refers specifically to reusing previously entered information or to the ability to submit another application. Without that distinction, its negative assessment of the government portal risks misleading travelers about capabilities already available through the free official service.
+
+This is particularly relevant because the comparison promotes AGENTS CO., LTD.'s additional features as reasons to use its privately operated platform instead of submitting directly to Thailand's Immigration Bureau.
+
 ## Media Promotion and Misleading Official Status Claims
 
 On June 13, 2025, [The Thaiger](../brands/the-thaiger.md) published a promotional press release titled *Apply for your TDAC early today with AGENTS*, advertising the privately operated TDAC submission platform associated with [Thai Visa Centre](../brands/thai-visa-centre.md) and [Agents Co., Ltd.](../companies/agents-co-ltd.md).
