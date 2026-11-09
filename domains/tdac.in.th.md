@@ -78,6 +78,16 @@ The same refund policy promises a full service-fee refund if a traveler cancels 
 
 These omissions leave important questions unanswered about the protections available to travelers paying a private intermediary for a government form that can otherwise be submitted free of charge.
 
+## Misleading TDAC Approval-Time Claims
+
+The scam-comparison page published by [Agents Co., Ltd.](../companies/agents-co-ltd.md), which identifies `tdac.in.th` as one of its services, advertises an **“Approval Time” of “0–5min”** for both its own service and the official Thai government TDAC portal. However, the same page explicitly states that TDAC submissions are issued instantly, require no review, and cannot receive priority approval.
+
+Thailand's Immigration Bureau identifies the TDAC as an arrival card, not a visa. Official government guidance describes the result of submission as a confirmation or acknowledgment email that travelers present to immigration officers upon arrival. Receiving that confirmation does not constitute immigration approval or guarantee permission to enter Thailand.
+
+The terminology is particularly inconsistent with a November 11, 2025 article published by [The Thaiger](../brands/the-thaiger.md) promoting AGENTS CO., LTD. That article identifies “fast approval” messaging as a warning sign associated with misleading TDAC websites, while the company's own comparison table uses approval time as a selling point.
+
+Although the comparison table applies the same terminology to the government portal, describing TDAC confirmation as “approval” risks confusing routine arrival-card registration with an immigration authorization process. The discrepancy illustrates a lack of precision in the company's marketing and its criticism of competing services.
+
 ## Media Promotion and Misleading Official Status Claims
 
 On June 13, 2025, [The Thaiger](../brands/the-thaiger.md) published a promotional press release titled *Apply for your TDAC early today with AGENTS*, advertising the privately operated TDAC submission platform associated with [Thai Visa Centre](../brands/thai-visa-centre.md) and [Agents Co., Ltd.](../companies/agents-co-ltd.md).
@@ -150,6 +160,8 @@ The combination of inconsistent pricing information and aggressive accusations a
 - `https://www.scam-detector.com/validator/tdac-in-th-review/`
 - `https://agents.co.th/tdac-apply/policy/refund/`
 - `https://tdac.immigration.go.th/manual/en/index.html`
+- `https://thailand.prd.go.th/en/content/category/detail/id/43/cid/52/iid/385061`
+- `https://abudhabi.thaiembassy.org/en/content/tdac1may2025`
 - `https://thethaiger.com/travel/thailand-travel/apply-for-your-tdac-early-today-with-agents`
 - `https://aseannow.com/topic/1361664-apply-for-your-tdac-early-here/`
 - `https://thethaiger.com/travel/thailand-travel/early-thailand-tdac-applications-enhanced-by-insurance-and-esim-partnerships`
