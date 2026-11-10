@@ -12,6 +12,9 @@ Despite its widespread branding, I have never seen any evidence of a Thai corpor
 
 The goal is to document these connections through historical records, archived websites, corporate filings, credible reporting, and firsthand evidence, while distinguishing verified facts from allegations as the investigation develops.
 
+> [!NOTE]
+> In November 2026, I submitted a [formal complaint to Singapore's Competition and Consumer Commission](https://www.scribd.com/document/1095353640/Thai-Visa-Centre-Thaiger-ASEAN-NOW-Consumer-Complaint) concerning The Thaiger, ASEAN NOW, and their promotion of Thai Visa Centre. The complaint raises concerns about misleading commercial promotion, censorship of criticism, and unofficial TDAC services. These are allegations submitted for regulatory review, not findings by the Commission.
+
 ## People
 
 | Label | Nationality | Description |
