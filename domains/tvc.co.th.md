@@ -12,4 +12,4 @@ On its own `/scam` page, the agency states that it also operated [aq.in.th](aq.i
 
 ## References
 
-- https://tvc.co.th/scam
+- `https://tvc.co.th/scam`
