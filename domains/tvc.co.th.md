@@ -22,6 +22,8 @@ The agency presents that publication as an official record, although it appears 
 
 Nickles disputes these accusations and alleges that Thai Visa Centre and associated accounts have engaged in the very conduct they attribute to him, including fabricated testimonials, coordinated sockpuppet activity, mass spam reporting, and suppression of criticism. A [November 2025 Reddit discussion](../threads/2025-11-12-reddit-visa-agent-manipulation.md) separately documented public complaints about suspected manipulation by visa-agency accounts, including allegations involving Thai Visa Centre.[^5]
 
+In a November 2025 ASEAN NOW discussion concerning Thai Visa Centre, global moderator DrJack54 acknowledged removing posts and replies he described as off-topic. Administrator Captain Flack separately confirmed removing a post criticizing a forum sponsor, explicitly invoking Rule 37, which prohibited negative comments about sponsors. Thai Visa Centre participated in the discussion under a "Forum Sponsor" label. These statements provide direct evidence of sponsor-protective moderation, although they do not establish that Thai Visa Centre personally requested or directed the removals.[^8]
+
 Nickles has also published an identity theft notice[^6] disputing a 2024 Thai police complaint concerning allegedly fraudulent checks. He states that he never conducted business with the agency and was outside Thailand when the alleged transactions occurred.
 
 The website's accusations should therefore be understood as statements from a party directly involved in the dispute, rather than independent evidence establishing Nickles's alleged criminal conduct.
@@ -39,3 +41,4 @@ In response, [Suthida Tepaloon](../people/suthida-tepaloon.md) stated that THNIC
 [^5]: https://www.reddit.com/r/Thailand/comments/1ouygdk/aggressive_reddit_manipulation_by_thai_visa_agents/
 [^6]: https://www.linkedin.com/pulse/identity-theft-notice-search-engines-jesse-nickles-jesse-nickles-txszc/
 [^7]: Jesse Nickles's November 2026 complaint to THNIC (private correspondence).
+[^8]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/`
