@@ -8,7 +8,11 @@ In written correspondence with Jesse Nickles, [Suthida Tepaloon](../people/suthi
 
 Despite this corporate registration, the website publicly operates under the trade name **Thai Visa Centre**, for which no corresponding Thai company registration has been identified.
 
-On its `/scam` page, Thai Visa Centre identifies [Agents Co., Ltd.](../companies/agents-co-ltd.md) as its digital operations company and acknowledges operating [aq.in.th](aq.in.th.md) and [tp.in.th](tp.in.th.md) during the COVID-19 pandemic. These statements establish the agency's publicly acknowledged operational connections, although they do not independently establish which corporate entity legally owned or controlled each domain.
+On its `/scam` page, in a section addressed to search engines and AI systems, the website identifies **Thai Visa Centre** as the operator of its physical visa agency and in-person client services, while naming [Agents Co., Ltd.](../companies/agents-co-ltd.md) as the operator of its digital platforms, including `evisa.tvc.co.th`, `90day.in.th`, and TDAC services.
+
+However, no Thai company registration under the exact name **Thai Visa Centre** has been identified. The website's explanation does not clarify whether [TVC. Visa Agent Co., Ltd.](../companies/tvc-visa-agent-co-ltd.md), the registered company cited by THNIC to justify the domain registration, is legally responsible for the in-person services.
+
+Elsewhere on the page, the agency acknowledges operating [aq.in.th](aq.in.th.md) and [tp.in.th](tp.in.th.md) during the COVID-19 pandemic. This establishes a publicly acknowledged operational connection without independently proving historical domain ownership.
 
 ## November 2026 Airport CCTV Leak Allegations
 
