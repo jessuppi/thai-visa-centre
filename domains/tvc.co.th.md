@@ -32,7 +32,7 @@ The scandal expanded significantly in September 2026, when whistleblower Atchari
 
 By November 2026, parliamentary investigators had identified **529 foreign detainees missing from immigration custody records**, including 325 Chinese nationals. Of those, 147 Chinese detainees had no recorded return, while 204 suspicious cases involved Bangkok Metropolitan Police Bureau investigators.[^13]
 
-These revelations raise serious concerns about the misuse of police reports, fabricated evidence, and forged arrest warrants **within Bangkok's police and judicial system**. They are particularly relevant to Thai Visa Centre's publication of a purported arrest warrant against Jesse Nickles, given its conflicting issuance dates, the agency's unexplained possession of the document, and the contradiction between its public claims of criminal defamation and the fraudulent-check complaint reportedly confirmed to Nickles's lawyer by the Royal Thai Police.
+These revelations raise serious concerns about the misuse of police reports, fabricated evidence, and forged arrest warrants **involving Bangkok police and court warrants**. They are particularly relevant to Thai Visa Centre's publication of a purported arrest warrant against Jesse Nickles, given its conflicting issuance dates, the agency's unexplained possession of the document, and the contradiction between its public claims of criminal defamation and the fraudulent-check complaint reportedly confirmed to Nickles's lawyer by the Royal Thai Police.
 
 ## November 2026 Airport CCTV Leak Allegations
 
