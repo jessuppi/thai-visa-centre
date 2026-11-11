@@ -6,6 +6,8 @@ The directories list initial registered capital of **6,000,000 baht**, still rep
 
 The company's registered address, as reported in the business directories, matches the office address published for [Agents Co., Ltd.](agents-co-ltd.md), a separately registered company, on the [90day.in.th](../domains/90day.in.th.md) contact page.
 
+In written correspondence with Jesse Nickles, [Suthida Tepaloon](../people/suthida-tepaloon.md) of [THNIC](../brands/thnic.md) stated that [tvc.co.th](../domains/tvc.co.th.md) complied with its domain registration policy because it matched the legally registered company name **TVC Visa Agent Co., Ltd.** However, the domain uses only the abbreviation "TVC," which THNIC's policies permit, rather than the company's full registered name. In practice, the website operates under the trade name **Thai Visa Centre**, for which no corresponding Thai company registration has been identified, a distinction that THNIC's response did not address.
+
 The shared address establishes a documented location connection but does not independently prove common ownership, corporate control, or responsibility for the [Thai Visa Centre](../brands/thai-visa-centre.md) brand.
 
 ## References
