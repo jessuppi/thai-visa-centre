@@ -76,7 +76,7 @@ The goal is to document these connections through historical records, archived w
 | [T.H.NIC Co., Ltd.](companies/t-h-nic-co-ltd.md) | Thailand | |
 | [The Thaiger Pte. Ltd.](companies/the-thaiger-pte-ltd.md) | Singapore | |
 | [TVC Co., Ltd.](companies/tvc-co-ltd.md) | Thailand | |
-| [TVC. Visa Agent Co., Ltd.](companies/tvc-visa-agent-co-ltd.md) | Thailand | |
+| [TVC. Visa Agent Co., Ltd.](companies/tvc-visa-agent-co-ltd.md) | Thailand | Thai company registered in August 2020, shortly after the widely reported police raid involving Thai Visa Centre. Its registered business activities include brokerage, advertising, and document services. Its registered address matches the office address published for [Agents Co., Ltd.](companies/agents-co-ltd.md) on [90day.in.th](domains/90day.in.th.md). |
 | [WEED.TH Co., Ltd.](companies/weed-th-co-ltd.md) | Thailand | |
 
 ## Brands
