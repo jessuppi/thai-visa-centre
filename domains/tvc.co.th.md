@@ -8,7 +8,7 @@ In written correspondence with Jesse Nickles, [Suthida Tepaloon](../people/suthi
 
 Despite this corporate registration, the website publicly operates under the trade name **Thai Visa Centre**, for which no corresponding Thai company registration has been identified.
 
-On its own `/scam` page, the agency states that it also operated [aq.in.th](aq.in.th.md) and [tp.in.th](tp.in.th.md) during the COVID-19 pandemic. This is a public acknowledgment by the agency, not independent verification of the domains' historical registrants or legal ownership.
+On its `/scam` page, Thai Visa Centre identifies [Agents Co., Ltd.](../companies/agents-co-ltd.md) as its digital operations company and acknowledges operating [aq.in.th](aq.in.th.md) and [tp.in.th](tp.in.th.md) during the COVID-19 pandemic. These statements establish the agency's publicly acknowledged operational connections, although they do not independently establish which corporate entity legally owned or controlled each domain.
 
 ## November 2026 Airport CCTV Leak Allegations
 
