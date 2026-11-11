@@ -18,15 +18,17 @@ Elsewhere on the page, the agency acknowledges operating [aq.in.th](aq.in.th.md)
 
 On its `/scam` page and related publications, Thai Visa Centre repeatedly attacks Jesse Nickles, accusing him of operating sockpuppet networks, posting fraudulent reviews, manipulating online discussions, and coordinating harassment.[^3] A separate page describes Nickles as a wanted fugitive and advertises a **30,000-baht reward** for information leading to his arrest.[^4]
 
-The agency presents that publication as an official record, although it appears on its own commercial website. The page also gives conflicting dates for its purported 2024 arrest warrant, identifying May 27 in one passage and May 18 in another.[^4]
+Thai Visa Centre presents its publication as an "Official Record," displays reference number `BKK-443/2567`, and reproduces what it claims is an official arrest warrant against Jesse Nickles for **criminal defamation**. Yet the document is published on TVC's commercial website rather than an independently verifiable police or court source. Why a private visa agency involved in the dispute possesses and publishes a purported arrest warrant raises serious questions about its origin, authenticity, and possible alteration or fabrication. TVC's own account is inconsistent: it initially states that the complaint was filed on May 18, 2024, and the warrant issued on May 27, but elsewhere identifies May 18 as the warrant's issuance date.[^4]
+
+More importantly, **TVC's claim that the warrant concerns criminal defamation conflicts with information Nickles says his lawyer obtained directly from the Royal Thai Police**. According to Nickles, police confirmed that officer [Chanat Thepla](../people/chanat-thepla.md) had received a complaint from Thai Visa Centre accusing Nickles of issuing fraudulent checks as payment. Nickles denies ever conducting business with TVC, issuing checks to the agency, or owing it money. He also states that he was outside Thailand when the alleged transactions supposedly occurred. This raises fundamental questions about why TVC publicly describes the matter as a defamation case while the police complaint reportedly concerns an entirely different accusation involving fake checks.[^6][^9]
+
+The possibility of document forgery is especially concerning given TVC's history. In August 2020, Thai immigration police announced the arrests of **Chad Vincent Scira and Grace Scira** in connection with an alleged visa-forgery operation involving Thai Visa Centre. Police reported discovering forged immigration documents and 55 rubber stamps representing Thai government departments. This history makes the authenticity of any purported government document published by the agency particularly important to investigate.[^10]
+
+Further concerns arise from a January 2026 Royal Thai Police investigation exposing corruption involving five Metropolitan Police Bureau investigators and the improper removal of **131 Chinese detainees** from immigration custody. Investigators found that officers used fraud complaints and court warrants to obtain custody of detainees who were subsequently not returned to immigration authorities. The investigation also examined suspected fabrication of evidence and the involvement of lawyers, brokers, and individuals posing as victims. Against this background, TVC's unexplained possession of a purported arrest warrant, its contradictory dates, and the conflicting accounts of the underlying criminal complaint warrant independent scrutiny of the document and the circumstances surrounding its creation.[^11]
 
 Nickles disputes these accusations and alleges that Thai Visa Centre and associated accounts have engaged in the very conduct they attribute to him, including fabricated testimonials, coordinated sockpuppet activity, mass spam reporting, and suppression of criticism. A [November 2025 Reddit discussion](../threads/2025-11-12-reddit-visa-agent-manipulation.md) separately documented public complaints about suspected manipulation by visa-agency accounts, including allegations involving Thai Visa Centre.[^5]
 
 In a November 2025 ASEAN NOW discussion concerning Thai Visa Centre, global moderator DrJack54 acknowledged removing posts and replies he described as off-topic. Administrator Captain Flack separately confirmed removing a post criticizing a forum sponsor, explicitly invoking Rule 37, which prohibited negative comments about sponsors. Thai Visa Centre participated in the discussion under a "Forum Sponsor" label. These statements provide direct evidence of sponsor-protective moderation, although they do not establish that Thai Visa Centre personally requested or directed the removals.[^8]
-
-Nickles has also published an identity theft notice[^6] disputing a 2024 Thai police complaint concerning allegedly fraudulent checks. He states that he never conducted business with the agency and was outside Thailand when the alleged transactions occurred.
-
-The website's accusations should therefore be understood as statements from a party directly involved in the dispute, rather than independent evidence establishing Nickles's alleged criminal conduct.
 
 ## November 2026 Airport CCTV Leak Allegations
 
@@ -42,3 +44,6 @@ In response, [Suthida Tepaloon](../people/suthida-tepaloon.md) stated that THNIC
 [^6]: https://www.linkedin.com/pulse/identity-theft-notice-search-engines-jesse-nickles-jesse-nickles-txszc/
 [^7]: Jesse Nickles's November 2026 complaint to THNIC (private correspondence).
 [^8]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/`
+[^9]: https://x.com/jessuppi/status/1984891930774577167
+[^10]: https://www.nationthailand.com/in-focus/30392449
+[^11]: https://en.thairath.co.th/news/crime/2908232
