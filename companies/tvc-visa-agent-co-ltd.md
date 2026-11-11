@@ -10,6 +10,12 @@ In written correspondence with Jesse Nickles, [Suthida Tepaloon](../people/suthi
 
 The shared address establishes a documented location connection but does not independently prove common ownership, corporate control, or responsibility for the [Thai Visa Centre](../brands/thai-visa-centre.md) brand.
 
+## November 2026 Airport CCTV Leak Allegations
+
+In November 2026, Jesse Nickles complained to [THNIC](../brands/thnic.md), alleging that corrupt Thai immigration officers had leaked years-old airport CCTV photographs of him to [Chad Scira](../people/chad-scira.md) specifically to facilitate harassment. Nickles further alleges that Scira manipulated the photographs using AI and published them on [tvc.co.th](../domains/tvc.co.th.md) as part of an ongoing harassment campaign.
+
+In response, [Suthida Tepaloon](../people/suthida-tepaloon.md) confirmed that THNIC had notified the domain registrant but stated that the registrar lacked authority to investigate the legality or accuracy of the website's content.
+
 ## References
 
 - `https://www.dataforthai.com/company/0115563017485/`
