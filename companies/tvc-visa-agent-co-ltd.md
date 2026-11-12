@@ -10,7 +10,7 @@ In written correspondence with Jesse Nickles, [Suthida Tepaloon](../people/suthi
 
 The shared address establishes a documented location connection but does not independently prove common ownership, corporate control, or responsibility for the [Thai Visa Centre](../brands/thai-visa-centre.md) brand.
 
-In November 2026, Jesse Nickles complained to THNIC that photographs allegedly leaked by corrupt Thai immigration officers and manipulated using AI by [Chad Scira](../people/chad-scira.md) were being published on `tvc.co.th`. [Suthida Tepaloon](../people/suthida-tepaloon.md) stated that THNIC had notified the domain registrant but lacked authority to investigate the website's content. The allegations and correspondence are documented further in the [domain profile](../domains/tvc.co.th.md#november-2026-airport-cctv-leak-allegations).
+In October–November 2026, Jesse Nickles complained to [THNIC](../brands/thnic.md) that photographs allegedly leaked unlawfully from Thai airport surveillance systems by corrupt immigration officers had been manipulated using AI by [Chad Scira](../people/chad-scira.md) and published on `tvc.co.th`. On October 29, THNIC confirmed that it had asked the domain registrant to review and update the disputed content. On November 10, THNIC maintained that the domain was properly registered but did not identify the registrant or establish whether TVC. Visa Agent Co., Ltd. was responsible for the publication. The complaint and subsequent correspondence are documented in the [domain profile](../domains/tvc.co.th.md).
 
 ## References
 
