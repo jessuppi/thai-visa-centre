@@ -10,6 +10,8 @@ As of November 2026, `eta.in.th` displays notices denying any affiliation with t
 
 The website also contains visitor comments asking where to obtain an ETA application, illustrating how the outdated information could confuse travelers. These concerns about the accuracy of its current content are separate from the allegations concerning its earlier presentation.[^5]
 
+The website also retains an **“Official Thailand ETA Links”** section directing visitors to older government publications for information about applying for an ETA, despite there being no implemented ETA application system. Its homepage continues inviting visitors to subscribe for ETA notifications. These features extend the outdated information beyond the requirements section, potentially giving travelers the impression that an ETA application process still exists or is forthcoming.[^5][^6]
+
 ## THNIC Abuse Complaints
 
 On February 27, 2025, **Jesse Nickles** submitted a formal abuse complaint to [THNIC](../brands/thnic.md) concerning `eta.in.th`, [dtv.in.th](dtv.in.th.md), and [asq.in.th](asq.in.th.md). Nickles alleged that `eta.in.th` misleadingly presented itself as an official Thai government ETA website. His complaint also raised concerns about unsolicited visa marketing, the identities of the businesses operating these websites, and their domain-registration arrangements. He requested that THNIC investigate the reported websites and consider suspending their domains.[^1]
