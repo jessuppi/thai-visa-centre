@@ -36,6 +36,16 @@ THNIC representative [Suthida Tepaloon](../people/suthida-tepaloon.md) initially
 
 On November 10, Tepaloon stated that the domain's registration complied with THNIC's policies because it matched the registered company name [TVC. Visa Agent Co., Ltd.](../companies/tvc-visa-agent-co-ltd.md). She maintained that THNIC lacked authority to adjudicate website content disputes and would not suspend the domain without an explicit court or competent government order. Nickles challenged this interpretation, citing Sections 12.4, 12.5, 14.1.4.2, and 14.2 of THNIC's Domain Name Registration Policy, which address investigations and action concerning bad-faith domain use. As of November 12, THNIC had not provided a substantive response explaining why those provisions were inapplicable or confirming whether the registrant had complied with its earlier request.[^4][^5]
 
+## Formal Multi-Domain Registration Review Request (November 2026)
+
+On November 12, 2026, Jesse Nickles submitted a formal complaint requesting that [THNIC](thnic.md) investigate the registration and use of seven immigration-related `.th` domains: `eta.in.th`, `dtv.in.th`, `tdac.in.th`, `90day.in.th`, `ltr.in.th`, `thim.in.th`, and `asq.in.th`. The complaint invoked Section 10.3 of THNIC's Domain Name Registration Policy, requesting examination of whether multiple related registrations involved circumstances potentially constituting bad faith or policy violations.[^9]
+
+Nickles noted that the domains closely resembled the names of Thai government immigration programs, requirements, or services. He also acknowledged that some websites subsequently introduced disclaimers denying government affiliation, while arguing that THNIC should examine their original presentations, registration histories, and changes following earlier abuse reports rather than considering only their current appearance.[^9]
+
+The complaint requested verification of the actual registered holders, identification of any common holders or authorized representatives, examination of whether Section 10.3 applied, and assessment of the good-faith domain-use obligations under Section 12.11. Nickles explicitly stated that **common ownership alone did not establish wrongdoing** and that he was requesting an investigation into whether the documented registrations satisfied the policy's specific criteria.[^9]
+
+Nickles requested a separate case reference and a written determination identifying which domains had been examined. The complaint expanded his earlier individual domain-abuse reports into a formal request for THNIC to investigate the registration pattern across the wider group of immigration-related websites.[^9]
+
 ## Enforcement Powers and Unanswered Policy Questions
 
 THNIC's November 10, 2026 response raises questions about how it interprets and applies its own Domain Name Registration Policy. Although THNIC stated that it could not suspend `tvc.co.th` without an explicit court or competent government order, Sections 12.4 and 12.5 expressly authorize the registrar to investigate complaints concerning domain use and, in specified circumstances, suspend services. Section 12.11 requires domain holders to act in good faith, while Sections 14.1.4.2 and 14.2 provide additional authority concerning domains used in bad faith.[^4][^5]
@@ -60,3 +70,4 @@ Despite the eighteen-month interval and involvement of different representatives
 [^6]: Email correspondence with THNIC, April 15–17, 2025, including Nickles's April 17 complaint to TCSD copied to Pimracha Tukjak (private correspondence; case QWK-ZGJNX-001). Disputed URL: `https://tvc.co.th/seo-fugitive-jesse-nickles-criminal-charges`.
 [^7]: Email from Jesse Nickles to THNIC, ThaiCERT, and TCSD, May 1, 2025, subject *Re: new phishing websites tdac.in.th from Thai Visa Centre* (private correspondence; case VRK-ZLCQS-392).
 [^8]: Email from Jesse Nickles to `info@thnic.or.th` and `abuse@thnic.co.th`, February 27, 2025, subject *eta.in.th and dtv.in.th and asq.in.th abuse* (private correspondence).
+[^9]: Email from Jesse Nickles to `abuse@thnic.co.th`, November 12, 2026, subject *Formal Policy Complaint – Multiple Immigration-Related .th Domains – Section 10.3 Review* (private correspondence).
