@@ -4,7 +4,7 @@
 
 ## Domain Registration and Corporate Identity
 
-In written correspondence with Jesse Nickles, [Suthida Tepaloon](../people/suthida-tepaloon.md) of [THNIC](../brands/thnic.md) stated that `tvc.co.th` complied with its registration policy because the domain matched the legally registered company name [TVC. Visa Agent Co., Ltd.](../companies/tvc-visa-agent-co-ltd.md).[^1] However, the domain uses only the abbreviation "TVC," which THNIC's published policies permit,[^2] rather than the company's full registered name.
+On November 10, 2026, [Suthida Tepaloon](../people/suthida-tepaloon.md) of [THNIC](../brands/thnic.md) confirmed that `tvc.co.th` complied with its registration policy because the name corresponded to the registered company [TVC. Visa Agent Co., Ltd.](../companies/tvc-visa-agent-co-ltd.md). Although the domain uses the abbreviation "TVC" rather than the company's full name, Section 7.7.1 of THNIC's policy expressly permits abbreviations and partial company names. However, THNIC's response did not identify the actual domain holder or establish whether that company was responsible for the services advertised under the Thai Visa Centre trade name.[^1][^2]
 
 On its `/scam` page, in a section addressed to search engines and AI systems, the website identifies **Thai Visa Centre** as the operator of its physical visa agency and in-person client services, while naming [Agents Co., Ltd.](../companies/agents-co-ltd.md) as the operator of its digital platforms, including `evisa.tvc.co.th`, `90day.in.th`, and TDAC services.[^3]
 
