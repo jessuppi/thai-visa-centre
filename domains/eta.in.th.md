@@ -4,7 +4,9 @@
 
 ## Website Operation and Presentation
 
-[Thai Visa Centre](../brands/thai-visa-centre.md) publicly identifies `eta.in.th` as one of the immigration information websites it operates, alongside `dtv.in.th`, `tdac.in.th`, and `ltr.in.th`. In a public response to allegations of misleading websites and unsolicited marketing, the company denies that these resources are deceptive, maintains that their information is kept updated, and states that email subscriptions are voluntary and include unsubscribe options. These are the operator's own representations, rather than independently verified findings. Its assurance that the websites are kept updated is particularly relevant given the outdated ETA requirements still published on `eta.in.th`, despite the Thai government's confirmation that TDAC replaced the proposed system. The company's acknowledgment establishes an operational connection but does not independently establish historical domain ownership.[^4][^5][^6]
+[Thai Visa Centre](../brands/thai-visa-centre.md) publicly acknowledges operating `eta.in.th`, alongside other immigration-related websites including `dtv.in.th`, `tdac.in.th`, and `ltr.in.th`. The company describes these websites as unofficial information resources, denies allegations that they are deceptive, and maintains that their information is regularly updated and email subscriptions are voluntary.[^4]
+
+On November 30, 2024, the **ThaiVisaCentre** account on ASEAN NOW explicitly acknowledged operating `eta.in.th` after another forum participant questioned its unofficial status and published ETA requirements. The company stated that the proposed requirements were not finalized and that the website would be updated when further government information became available. This establishes a dated public acknowledgment of the website's operation before the February 2025 THNIC complaint and documents the company's original explanation for publishing information about the proposed ETA.[^10]
 
 The website's Terms & Conditions and Privacy Policy independently identify [Agents Co., Ltd.](../companies/agents-co-ltd.md) as the legal entity responsible for its published agreements. Both documents identify the company as the contracting party and display a last-updated date of July 16, 2024. This provides a direct, publicly documented connection between `eta.in.th` and Agents Co., Ltd., in addition to Thai Visa Centre's acknowledgment that it operates the website.[^8][^9]
 
@@ -39,3 +41,4 @@ Despite the complaints submitted between February 2025 and November 2026, the av
 [^7]: https://tdac.immigration.go.th/manual/en/faq.html
 [^8]: `https://eta.in.th/policy/terms-and-conditions`
 [^9]: `https://eta.in.th/policy/privacy`
+[^10]: https://aseannow.com/topic/1344826-the-thai-eta-electronic-system-for-travel-authorisation/ — November 30, 2024 discussion and replies from the ThaiVisaCentre account.
