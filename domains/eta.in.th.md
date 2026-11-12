@@ -6,6 +6,10 @@
 
 [Thai Visa Centre](../brands/thai-visa-centre.md) publicly identifies `eta.in.th` as one of the immigration information websites it operates, alongside `dtv.in.th`, `tdac.in.th`, and `ltr.in.th`. The company states that these websites are unofficial information resources and that visitors can voluntarily subscribe to immigration updates. This acknowledgement establishes a publicly claimed operational connection, although it does not independently identify the domains' historical registered holders.[^4]
 
+The website's Terms & Conditions and Privacy Policy independently identify [Agents Co., Ltd.](../companies/agents-co-ltd.md) as the legal entity responsible for its published agreements. Both documents identify the company as the contracting party and display a last-updated date of July 16, 2024. This provides a direct, publicly documented connection between `eta.in.th` and Agents Co., Ltd., in addition to Thai Visa Centre's acknowledgment that it operates the website.[^8][^9]
+
+The Privacy Policy describes the collection of visitor information, including email addresses and other contact details, and permits certain uses for service updates and marketing-related activities. These published terms help identify the business entity behind the website's subscription services, although they do not independently establish its historical domain registration records or prove how information was handled in practice.[^9]
+
 As of November 2026, `eta.in.th` displays notices denying any affiliation with the Thai government and directs travelers to the official Thai e-Visa website. However, its ETA requirements section, marked as last updated on February 23, 2025, still describes mandatory ETA registration, anticipated approval times, and application procedures. **This contradicts the Thai government's confirmation that the Thailand Digital Arrival Card (TDAC) replaced the proposed ETA system effective May 1, 2025.**[^5][^6]
 
 The website also contains visitor comments asking where to obtain an ETA application, illustrating how the outdated information could confuse travelers. These concerns about the accuracy of its current content are separate from the allegations concerning its earlier presentation.[^5]
@@ -33,3 +37,5 @@ Despite the complaints submitted between February 2025 and November 2026, the av
 [^5]: `https://eta.in.th/`
 [^6]: https://thailand.prd.go.th/en/content/page/index/id/475598
 [^7]: https://tdac.immigration.go.th/manual/en/faq.html
+[^8]: `https://eta.in.th/policy/terms-and-conditions`
+[^9]: `https://eta.in.th/policy/privacy`
