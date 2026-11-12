@@ -18,6 +18,14 @@ On May 1, 2025, Nickles sent another warning to THNIC, ThaiCERT, and TCSD, provi
 
 **These follow-ups demonstrate that THNIC received additional allegations and supporting references after its initial April 2025 responses.** Nickles had also followed its recommendation to approach Thai law enforcement directly, while continuing to request action concerning the reported domains. The available THNIC correspondence contains no substantive response to the May 1 warning or explanation of whether the additional information prompted an investigation or enforcement decision.[^6][^7]
 
+### Unanswered Domain Registration and Identity Questions
+
+Nickles's April–May 2025 complaints raised concerns extending beyond website content. He alleged that `tdac.in.th` and related immigration-themed websites used personal WHOIS registration details while conducting commercial activities under inadequately identified business names and presenting themselves as official Thai government resources. His May 1 follow-up specifically challenged THNIC's continued registration of these domains despite the reported conduct.[^2][^7]
+
+THNIC's Domain Name Registration Policy distinguishes between the registered domain holder and the person authorized to manage a domain. Although Section 5.3.2.2 permits eligible individuals to register `.in.th` domains, **Section 16 expressly authorizes suspension or revocation when false registration information is discovered and verified**. Section 18.3 additionally requires registration information to be accurate and treats false information as a violation of the registration agreement.[^5]
+
+Despite receiving complaints concerning the identity and representations of the businesses behind these websites, **THNIC provided no documented explanation of whether it verified the domain holders, examined the accuracy of their registration information, or considered the relevant policy provisions**. Its response also did not address the distinction between eligibility to register an `.in.th` domain and the subsequent use of that domain to suggest affiliation with Thai government immigration services.[^2][^5][^7]
+
 ## October–November 2026 Domain Abuse Complaint
 
 On October 21, 2026, Jesse Nickles submitted another complaint concerning [tvc.co.th](../domains/tvc.co.th.md), alleging the unauthorized publication of private photographs and defamatory material. In subsequent correspondence, he alleged that corrupt Thai immigration officers had unlawfully leaked photographs from restricted airport CCTV surveillance systems to [Chad Scira](../people/chad-scira.md), who manipulated them using AI and published them to harass and defame him.[^3]
