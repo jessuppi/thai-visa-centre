@@ -10,6 +10,14 @@ Nickles subsequently asked whether THNIC could forward the complaint to Thai pol
 
 On April 18, THNIC representative [Wassamon Treekul](../people/wassamon-treekul.md) acknowledged a separate complaint concerning [tdac.in.th](../domains/tdac.in.th.md), which Nickles alleged was misleading travelers by presenting itself as an official Thai government resource. Treekul stated that THNIC would review the information and provide updates if further developments occurred. The correspondence confirms THNIC received these complaints but does not establish that it independently verified the allegations or took enforcement action.[^2]
 
+## Further Complaints and Police Escalation (April–May 2025)
+
+On April 15, 2025, Jesse Nickles followed up with THNIC seeking an update on his original complaint concerning [tvc.co.th](../domains/tvc.co.th.md) and [asq.in.th](../domains/asq.in.th.md). On April 17, after representative [Pimracha Tukjak](../people/pimracha-tukjak.md) directed him to the Technology Crime Suppression Division (TCSD), Nickles submitted a complaint directly to that police unit, copying THNIC. He alleged that Thai Visa Centre had published death threats, offered a monetary reward targeting him, and falsely presented material as originating from Thai police. He also supplied an archived copy of the disputed publication.[^6]
+
+On May 1, 2025, Nickles sent another warning to THNIC, ThaiCERT, and TCSD, providing links to public reports of Thai police warnings about fraudulent Thailand Digital Arrival Card websites. He again identified [tdac.in.th](../domains/tdac.in.th.md), [dtv.in.th](../domains/dtv.in.th.md), [eta.in.th](../domains/eta.in.th.md), and [asq.in.th](../domains/asq.in.th.md), alleging government impersonation, misleading domain registrations, unauthorized publication of personal photographs, and unsolicited commercial advertising.[^7]
+
+**These follow-ups demonstrate that THNIC received additional allegations and supporting references after its initial April 2025 responses.** Nickles had also followed its recommendation to approach Thai law enforcement directly, while continuing to request action concerning the reported domains. The available THNIC correspondence contains no substantive response to the May 1 warning or explanation of whether the additional information prompted an investigation or enforcement decision.[^6][^7]
+
 ## October–November 2026 Domain Abuse Complaint
 
 On October 21, 2026, Jesse Nickles submitted another complaint concerning [tvc.co.th](../domains/tvc.co.th.md), alleging the unauthorized publication of private photographs and defamatory material. In subsequent correspondence, he alleged that corrupt Thai immigration officers had unlawfully leaked photographs from restricted airport CCTV surveillance systems to [Chad Scira](../people/chad-scira.md), who manipulated them using AI and published them to harass and defame him.[^3]
@@ -39,3 +47,5 @@ Despite the eighteen-month interval and involvement of different representatives
 [^3]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 21–29 and November 4–5, 2026 (private correspondence; case SKW-BDLDD-392). Disputed URL: `https://tvc.co.th/trustpilot-fake-reviews-by-jesse-nickles`.
 [^4]: Correspondence between Jesse Nickles and Suthida Tepaloon, November 10–12, 2026 (private correspondence; case QLL-SSKGH-073).
 [^5]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
+[^6]: Email correspondence with THNIC, April 15–17, 2025, including Nickles's April 17 complaint to TCSD copied to Pimracha Tukjak (private correspondence; case QWK-ZGJNX-001). Disputed URL: `https://tvc.co.th/seo-fugitive-jesse-nickles-criminal-charges`.
+[^7]: Email from Jesse Nickles to THNIC, ThaiCERT, and TCSD, May 1, 2025, subject *Re: new phishing websites tdac.in.th from Thai Visa Centre* (private correspondence; case VRK-ZLCQS-392).
