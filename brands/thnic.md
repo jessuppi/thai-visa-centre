@@ -46,6 +46,18 @@ The complaint requested verification of the actual registered holders, identific
 
 Nickles requested a separate case reference and a written determination identifying which domains had been examined. The complaint expanded his earlier individual domain-abuse reports into a formal request for THNIC to investigate the registration pattern across the wider group of immigration-related websites.[^9]
 
+## Additional Formal Complaints and Foundation Escalation (November 2026)
+
+On November 12, 2026, Jesse Nickles submitted three additional domain-specific complaints to THNIC, alongside his request for a broader Section 10.3 registration review:
+
+- **[tdac.in.th](../domains/tdac.in.th.md):** A supplemental complaint under Section 17 requesting a determination concerning the unresolved April 2025 phishing allegations, including an examination of the website's archived presentation.[^10]
+- **[agents.co.th](../domains/agents.co.th.md) and [tdac.agents.co.th](../domains/tdac.agents.co.th.md):** A complaint under Section 12.11 requesting verification of the registered holder's responsibility for a commercial TDAC submission service collecting travelers' personal information.[^11]
+- **[90day.in.th](../domains/90day.in.th.md):** A separate complaint requesting investigation of allegedly bad-faith domain use involving disputed criminal allegations published about Nickles.[^12]
+
+On the same date, Nickles separately submitted a formal complaint to the [THNIC Foundation](thnic-foundation.md), requesting an independent review of T.H.NIC Co., Ltd.'s handling of complaints dating back to February 2025. The Foundation complaint challenged the registrar's interpretation of its enforcement powers and requested a written explanation of its oversight procedures and findings.[^13]
+
+**Together, these five submissions sought individual domain assessments, examination of potentially related registrations, and independent oversight of the registrar's complaint-handling practices.** The requests were distinct: they did not assume that every reported domain violated THNIC's policies, but sought documented determinations applying the relevant provisions.
+
 ## Enforcement Powers and Unanswered Policy Questions
 
 THNIC's November 10, 2026 response raises questions about how it interprets and applies its own Domain Name Registration Policy. Although THNIC stated that it could not suspend `tvc.co.th` without an explicit court or competent government order, Sections 12.4 and 12.5 expressly authorize the registrar to investigate complaints concerning domain use and, in specified circumstances, suspend services. Section 12.11 requires domain holders to act in good faith, while Sections 14.1.4.2 and 14.2 provide additional authority concerning domains used in bad faith.[^4][^5]
@@ -71,3 +83,7 @@ Despite the eighteen-month interval and involvement of different representatives
 [^7]: Email from Jesse Nickles to THNIC, ThaiCERT, and TCSD, May 1, 2025, subject *Re: new phishing websites tdac.in.th from Thai Visa Centre* (private correspondence; case VRK-ZLCQS-392).
 [^8]: Email from Jesse Nickles to `info@thnic.or.th` and `abuse@thnic.co.th`, February 27, 2025, subject *eta.in.th and dtv.in.th and asq.in.th abuse* (private correspondence).
 [^9]: Email from Jesse Nickles to `abuse@thnic.co.th`, November 12, 2026, subject *Formal Policy Complaint – Multiple Immigration-Related .th Domains – Section 10.3 Review* (private correspondence).
+[^10]: Email to THNIC, November 12, 2026, *Formal Supplemental Abuse Complaint – tdac.in.th – Section 17 and Unresolved April 2025 Report*.
+[^11]: Email to THNIC, November 12, 2026, *Formal Domain Abuse Complaint – agents.co.th and tdac.agents.co.th – Section 12.11*.
+[^12]: Email to THNIC, November 12, 2026, *Formal Abuse Complaint – 90day.in.th – Publication of Disputed Criminal Allegations and Bad-Faith Domain Use*.
+[^13]: Email to THNIC Foundation, November 12, 2026, *Formal Complaint – Request for Independent Review of T.H.NIC Registrar Policy Enforcement*.
