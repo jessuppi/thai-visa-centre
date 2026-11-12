@@ -34,19 +34,19 @@ By November 2026, parliamentary investigators had identified **529 foreign detai
 
 These revelations raise serious concerns about the misuse of police reports, fabricated evidence, and forged arrest warrants **involving Bangkok police and court warrants**. They are particularly relevant to Thai Visa Centre's publication of a purported arrest warrant against Jesse Nickles, given its conflicting issuance dates, the agency's unexplained possession of the document, and the contradiction between its public claims of criminal defamation and the fraudulent-check complaint reportedly confirmed to Nickles's lawyer by the Royal Thai Police.
 
-## November 2026 Airport CCTV Leak Allegations
+## October–November 2026 Airport CCTV Leak Allegations
 
-In November 2026, Jesse Nickles complained to [THNIC](../brands/thnic.md), alleging that corrupt Thai immigration officers had leaked years-old airport CCTV photographs of him to [Chad Scira](../people/chad-scira.md) specifically to facilitate harassment. Nickles alleges that Scira subsequently manipulated the photographs using AI and published them on `tvc.co.th` as part of an ongoing harassment campaign.[^7]
+On October 21, 2026, Jesse Nickles complained to [THNIC](../brands/thnic.md) about photographs and allegedly defamatory material published on `tvc.co.th`. In subsequent correspondence, Nickles alleged that corrupt Thai immigration officers had unlawfully leaked years-old photographs from restricted airport CCTV surveillance systems to [Chad Scira](../people/chad-scira.md), who manipulated them using AI and published them as part of an ongoing harassment campaign.[^7]
 
-In response, [Suthida Tepaloon](../people/suthida-tepaloon.md) stated that THNIC had notified the domain registrant but that the registrar lacked authority to investigate the legality or accuracy of the website's content.[^1]
+On October 29, THNIC representative [Suthida Tepaloon](../people/suthida-tepaloon.md) confirmed that the complaint had been forwarded to the domain registrant with a request to review and update the disputed webpage. On November 5, she confirmed that THNIC's executive management and Legal Team were reviewing the matter. On November 10, she stated that THNIC would maintain the domain's operation unless presented with an explicit court order or official order from a competent Thai government authority directing its suspension. As of November 12, THNIC had not confirmed whether the registrant had responded or removed the disputed content.[^1]
 
-[^1]: Written correspondence from Suthida Tepaloon of THNIC to Jesse Nickles (2026; private correspondence).
+[^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
 [^4]: `https://tvc.co.th/seo-fugitive-jesse-nickles-criminal-charges`
 [^5]: https://www.reddit.com/r/Thailand/comments/1ouygdk/aggressive_reddit_manipulation_by_thai_visa_agents/
 [^6]: https://www.linkedin.com/pulse/identity-theft-notice-search-engines-jesse-nickles-jesse-nickles-txszc/
-[^7]: Jesse Nickles's November 2026 complaint to THNIC (private correspondence).
+[^7]: Jesse Nickles's complaint and subsequent correspondence with THNIC, October 21–November 10, 2026 (private correspondence). Disputed URL: `https://tvc.co.th/trustpilot-fake-reviews-by-jesse-nickles`.
 [^8]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/`
 [^9]: https://x.com/jessuppi/status/1984891930774577167
 [^10]: https://www.nationthailand.com/in-focus/30392449
