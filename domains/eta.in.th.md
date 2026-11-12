@@ -1,6 +1,6 @@
 # eta.in.th
 
-`eta.in.th` is a Thailand immigration-related website using terminology associated with the country's Electronic Travel Authorization (ETA) system. The website has been reported to [THNIC](../brands/thnic.md) over concerns that its presentation could mislead travelers into believing it was an official Thai government immigration resource.[^1]
+`eta.in.th` is an unofficial Thailand Electronic Travel Authorization (ETA) information website operated by [Thai Visa Centre](../brands/thai-visa-centre.md), with [Agents Co., Ltd.](../companies/agents-co-ltd.md) identified in its published legal policies. The website continues describing ETA application requirements despite the Thai government's confirmation that the Thailand Digital Arrival Card (TDAC) replaced the proposed system. The domain has also been the subject of multiple abuse complaints submitted to [THNIC](../brands/thnic.md).[^1][^4][^5][^6][^8]
 
 ## Website Operation and Presentation
 
