@@ -16,6 +16,16 @@ Public WHOIS records date the registration of `tdac.in.th` to March 27, 2025, ap
 
 This timeline shows that the company registered a domain using the name of Thailand's forthcoming mandatory immigration form and, according to its own published launch date, opened its information website on April 2, 2025, nearly four weeks before the official government portal began accepting TDAC submissions on April 28.[^8][^9] During the subsequent rollout, [Thai Visa Centre](../brands/thai-visa-centre.md) initially characterized `tdac.in.th` as an informational resource without paid services, before publicly announcing an $8 early-submission service. The sequence documents how the domain evolved from a pre-launch information website into an entry point for the company's commercial TDAC services.
 
+## April 2025 THNIC Phishing Complaint
+
+On April 17–18, 2025, Jesse Nickles reported `tdac.in.th` to [THNIC](../brands/thnic.md), alleging that the website misleadingly presented itself as an official Thai government immigration service while soliciting travelers' passport details and other personal information. His complaint also identified [asq.in.th](asq.in.th.md), [eta.in.th](eta.in.th.md), and [dtv.in.th](dtv.in.th.md) as examples of allegedly misleading websites associated with [Thai Visa Centre](../brands/thai-visa-centre.md).[^36]
+
+On April 18, THNIC representative [Wassamon Treekul](../people/wassamon-treekul.md) acknowledged the complaint, stated that THNIC would examine the reported information, and promised to provide an update if further developments occurred. The available correspondence contains no subsequent investigation findings, explanation of THNIC's assessment, or notification of enforcement action.[^36]
+
+**Section 17 of THNIC's Domain Name Registration Policy explicitly addresses phishing and other information-security threats**, granting the registrar authority to suspend or revoke domain services where such misuse is established. Despite receiving a complaint alleging government impersonation and the collection of sensitive traveler information, THNIC did not explain whether it evaluated `tdac.in.th` under Section 17 or what conclusions it reached.[^36][^37]
+
+**As of November 12, 2026, more than eighteen months after the complaint, THNIC's documented response remained limited to acknowledging the allegations and promising a review.** No investigation outcome, policy determination, or explanation of the registrar's decision had been identified in the available correspondence. This leaves a significant accountability gap concerning THNIC's enforcement of its own published anti-phishing provisions.
+
 ## Official Government Warnings
 
 On June 18, 2025, Thailand's Immigration Bureau issued a public warning, published by the Tourist Police Bureau, urging foreign travelers to register their Thailand Digital Arrival Card exclusively through the official government portal at `tdac.immigration.go.th`. The announcement warned against fraudulent websites seeking payments or personal information and emphasized that TDAC registration was entirely free, with no money transfers required.[^10]
@@ -333,3 +343,6 @@ The combination of inconsistent pricing information and aggressive accusations a
 [^33]: https://abudhabi.thaiembassy.org/en/content/tdac1may2025
 [^34]: `https://thethaiger.com/travel/thailand-travel/apply-for-your-tdac-early-today-with-agents`
 [^35]: `https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand`
+
+[^36]: Email correspondence between Jesse Nickles and Wassamon Treekul, April 17–18, 2025 (private correspondence; case VRK-ZLCQS-392).
+[^37]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
