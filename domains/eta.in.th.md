@@ -12,6 +12,8 @@ The website also contains visitor comments asking where to obtain an ETA applica
 
 The website also retains an **“Official Thailand ETA Links”** section directing visitors to older government publications for information about applying for an ETA, despite there being no implemented ETA application system. Its homepage continues inviting visitors to subscribe for ETA notifications. These features extend the outdated information beyond the requirements section, potentially giving travelers the impression that an ETA application process still exists or is forthcoming.[^5][^6]
 
+Although `eta.in.th` acknowledges that the Thailand Digital Arrival Card (TDAC) is now required, its prominent **“TDAC Information”** links direct visitors to [tdac.in.th](tdac.in.th.md), another privately operated immigration-related website, rather than directly to the Thai Immigration Bureau's official TDAC portal at `tdac.immigration.go.th`. While these links are presented as information resources rather than official application links, they direct travelers seeking current entry requirements to another website that has been the subject of complaints to THNIC.[^2][^5][^7]
+
 ## THNIC Abuse Complaints
 
 On February 27, 2025, **Jesse Nickles** submitted a formal abuse complaint to [THNIC](../brands/thnic.md) concerning `eta.in.th`, [dtv.in.th](dtv.in.th.md), and [asq.in.th](asq.in.th.md). Nickles alleged that `eta.in.th` misleadingly presented itself as an official Thai government ETA website. His complaint also raised concerns about unsolicited visa marketing, the identities of the businesses operating these websites, and their domain-registration arrangements. He requested that THNIC investigate the reported websites and consider suspending their domains.[^1]
@@ -30,3 +32,4 @@ The complaints establish a documented history of concerns raised by Nickles with
 [^4]: `https://tvc.co.th/thai-visa-centre-spam`
 [^5]: `https://eta.in.th/`
 [^6]: https://thailand.prd.go.th/en/content/page/index/id/475598
+[^7]: https://tdac.immigration.go.th/manual/en/faq.html
