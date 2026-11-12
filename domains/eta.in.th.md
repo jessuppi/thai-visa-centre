@@ -27,6 +27,6 @@ These complaints document concerns raised with THNIC, rather than established fi
 [^1]: Email to THNIC, February 27, 2025, subject *eta.in.th and dtv.in.th and asq.in.th abuse* (private correspondence).
 [^2]: Email to THNIC, ThaiCERT, and TCSD, May 1, 2025, subject *Re: new phishing websites tdac.in.th from Thai Visa Centre* (private correspondence).
 [^3]: Email to THNIC, November 12, 2026, subject *Formal Policy Complaint – Multiple Immigration-Related .th Domains – Section 10.3 Review* (private correspondence).
-[^4]: https://tvc.co.th/thai-visa-centre-spam
-[^5]: https://eta.in.th/
+[^4]: `https://tvc.co.th/thai-visa-centre-spam`
+[^5]: `https://eta.in.th/`
 [^6]: https://thailand.prd.go.th/en/content/page/index/id/475598
