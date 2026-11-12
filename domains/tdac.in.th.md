@@ -26,6 +26,16 @@ On April 18, THNIC representative [Wassamon Treekul](../people/wassamon-treekul.
 
 **As of November 12, 2026, more than eighteen months after the complaint, THNIC's documented response remained limited to acknowledging the allegations and promising a review.** No investigation outcome, policy determination, or explanation of the registrar's decision had been identified in the available correspondence. This leaves a significant accountability gap concerning THNIC's enforcement of its own published anti-phishing provisions.
 
+### Formal Supplemental Complaint (November 2026)
+
+On November 12, 2026, Jesse Nickles submitted a formal supplemental abuse complaint to [THNIC](../brands/thnic.md), referencing the unresolved April 2025 case VRK-ZLCQS-392. More than eighteen months after representative [Wassamon Treekul](../people/wassamon-treekul.md) promised to examine his original report, Nickles had received no substantive findings or policy determination.[^36][^38]
+
+The supplemental complaint identified developments since April 2025, including the public identification of [Agents Co., Ltd.](../companies/agents-co-ltd.md) as the website operator, the redirection of `tdac.in.th` to `tdac.agents.co.th`, and the introduction of an $8 early-submission service. Nickles also cited the January 17, 2026 Immigration Bureau warning confirming that `tdac.immigration.go.th` is the only official government TDAC registration portal.[^14][^38]
+
+**Crucially, Nickles requested that THNIC examine the archived April 17, 2025 version of `tdac.in.th`, rather than relying exclusively on the website's subsequent changes and disclaimers.** He asked THNIC to identify the evidence reviewed, confirm whether Section 17 had been applied, disclose any investigation findings, assess the current redirect and commercial service, and explain whether further enforcement or referral was warranted.[^38]
+
+The complaint formally challenged THNIC to account for its handling of the original allegations, regardless of subsequent modifications to the website. Nickles requested a substantive written determination linked to the existing case, rather than another acknowledgment of receipt.[^38]
+
 ## Official Government Warnings
 
 On June 18, 2025, Thailand's Immigration Bureau issued a public warning, published by the Tourist Police Bureau, urging foreign travelers to register their Thailand Digital Arrival Card exclusively through the official government portal at `tdac.immigration.go.th`. The announcement warned against fraudulent websites seeking payments or personal information and emphasized that TDAC registration was entirely free, with no money transfers required.[^10]
@@ -346,3 +356,4 @@ The combination of inconsistent pricing information and aggressive accusations a
 
 [^36]: Email correspondence between Jesse Nickles and Wassamon Treekul, April 17–18, 2025 (private correspondence; case VRK-ZLCQS-392).
 [^37]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
+[^38]: Email from Jesse Nickles to `abuse@thnic.co.th`, November 12, 2026, subject *Formal Supplemental Abuse Complaint – tdac.in.th – Section 17 and Unresolved April 2025 Report* (private correspondence; original case VRK-ZLCQS-392). Archived website: `https://web.archive.org/web/20250417185034/https://tdac.in.th/`.
