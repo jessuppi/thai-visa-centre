@@ -18,7 +18,7 @@ The website also contains visitor comments asking where to obtain an ETA applica
 
 The website also retains an **“Official Thailand ETA Links”** section directing visitors to older government publications for information about applying for an ETA, despite there being no implemented ETA application system. Its homepage continues inviting visitors to subscribe for ETA notifications. These features extend the outdated information beyond the requirements section, potentially giving travelers the impression that an ETA application process still exists or is forthcoming.[^5][^6]
 
-Although `eta.in.th` acknowledges that the Thailand Digital Arrival Card (TDAC) is now required, its prominent **“TDAC Information”** links direct visitors to [tdac.in.th](tdac.in.th.md), another privately operated immigration-related website, rather than directly to the Thai Immigration Bureau's official TDAC portal at `tdac.immigration.go.th`. While these links are presented as information resources rather than official application links, they direct travelers seeking current entry requirements to another website that has been the subject of complaints to THNIC.[^2][^5][^7]
+Although `eta.in.th` acknowledges that the Thailand Digital Arrival Card (TDAC) replaced the proposed ETA system, its prominent **“TDAC Information”** links direct visitors to [tdac.in.th](tdac.in.th.md), another privately operated immigration website, rather than directly to the Thai Immigration Bureau's official TDAC portal. The website also links to `thim.in.th`, an unofficial immigration guide that directs visitors to a third-party TDAC submission service at `agents.co.th`. These links document how visitors to `eta.in.th` are directed toward related private immigration websites and services.[^5][^7][^11][^12]
 
 ## THNIC Abuse Complaints
 
@@ -42,3 +42,5 @@ Despite the complaints submitted between February 2025 and November 2026, the av
 [^8]: `https://eta.in.th/policy/terms-and-conditions`
 [^9]: `https://eta.in.th/policy/privacy`
 [^10]: `https://aseannow.com/topic/1344826-the-thai-eta-electronic-system-for-travel-authorisation/` — November 30, 2024 discussion and replies from the ThaiVisaCentre account.
+[^11]: `https://thim.in.th/`
+[^12]: `https://agents.co.th/`
