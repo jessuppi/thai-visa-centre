@@ -22,7 +22,7 @@ On May 1, 2025, Nickles again identified `eta.in.th` in correspondence addressed
 
 On November 12, 2026, Nickles included `eta.in.th` among seven domains in a formal complaint requesting an investigation under **Section 10.3 of THNIC's Domain Name Registration Policy**. He requested verification of registered holders, examination of registration histories and earlier website presentations, and a written determination addressing whether potentially related registrations involved bad faith or other policy violations.[^3]
 
-The complaints establish a documented history of concerns raised by Nickles with THNIC, rather than independent findings of wrongdoing. The available correspondence does not establish the domain's historical registered holder or a final THNIC enforcement determination.
+Despite the complaints submitted between February 2025 and November 2026, the available correspondence contains no documented response specifically addressing the original `eta.in.th` allegations, no confirmation that THNIC independently investigated the domain, and no final enforcement determination. This does not establish that no internal review occurred, but leaves the registrar's handling of the reported concerns unclear.[^1][^2][^3]
 
 ## References
 
