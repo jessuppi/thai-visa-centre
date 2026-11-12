@@ -6,11 +6,9 @@
 
 [Thai Visa Centre](../brands/thai-visa-centre.md) publicly identifies `eta.in.th` as one of the immigration information websites it operates, alongside `dtv.in.th`, `tdac.in.th`, and `ltr.in.th`. The company states that these websites are unofficial information resources and that visitors can voluntarily subscribe to immigration updates. This acknowledgement establishes a publicly claimed operational connection, although it does not independently identify the domains' historical registered holders.[^4]
 
-As of November 2026, `eta.in.th` displays notices stating that it is not affiliated with the Thai government and directs travelers to the official Thai e-Visa website. However, other sections still describe the ETA as a forthcoming mandatory requirement, **despite the Thai government's confirmation that the Thailand Digital Arrival Card (TDAC) replaced the proposed ETA system effective May 1, 2025**.[^5][^6]
+As of November 2026, `eta.in.th` displays notices denying any affiliation with the Thai government and directs travelers to the official Thai e-Visa website. However, its ETA requirements section, marked as last updated on February 23, 2025, still describes mandatory ETA registration, anticipated approval times, and application procedures. **This contradicts the Thai government's confirmation that the Thailand Digital Arrival Card (TDAC) replaced the proposed ETA system effective May 1, 2025.**[^5][^6]
 
-The outdated information extends beyond the introductory description. The website's ETA requirements section, marked as last updated on February 23, 2025, continues to describe mandatory ETA registration, anticipated approval times, and application procedures for a system that was never implemented. Its published comments include travelers asking where to obtain an ETA application, illustrating the potential for confusion. These details remain publicly accessible despite the Thai government's subsequent confirmation that TDAC replaced the proposed ETA.[^5][^6]
-
-The continued publication of outdated ETA requirements raises concerns about the accuracy of information presented to travelers, separate from the allegations concerning the website's earlier presentation.
+The website also contains visitor comments asking where to obtain an ETA application, illustrating how the outdated information could confuse travelers. These concerns about the accuracy of its current content are separate from the allegations concerning its earlier presentation.[^5]
 
 ## THNIC Abuse Complaints
 
