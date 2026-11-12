@@ -14,13 +14,13 @@ The continued publication of outdated ETA requirements raises concerns about the
 
 ## THNIC Abuse Complaints
 
-On February 27, 2025, THNIC received an abuse complaint concerning `eta.in.th`, [dtv.in.th](dtv.in.th.md), and [asq.in.th](asq.in.th.md). The complaint alleged that `eta.in.th` presented itself as an official ETA website and raised broader concerns about misleading immigration services, unsolicited visa marketing, and domain-registration arrangements. THNIC was asked to investigate the reported websites and consider suspending their domains.[^1]
+On February 27, 2025, **Jesse Nickles** submitted a formal abuse complaint to [THNIC](../brands/thnic.md) concerning `eta.in.th`, [dtv.in.th](dtv.in.th.md), and [asq.in.th](asq.in.th.md). Nickles alleged that `eta.in.th` misleadingly presented itself as an official Thai government ETA website. His complaint also raised concerns about unsolicited visa marketing, the identities of the businesses operating these websites, and their domain-registration arrangements. He requested that THNIC investigate the reported websites and consider suspending their domains.[^1]
 
-The domain was identified again in correspondence sent to THNIC, ThaiCERT, and Thailand's Technology Crime Suppression Division on May 1, 2025, concerning allegedly misleading immigration websites and their registration practices.[^2]
+On May 1, 2025, Nickles again identified `eta.in.th` in correspondence addressed to THNIC, ThaiCERT, and Thailand's Technology Crime Suppression Division. He reiterated concerns about alleged government impersonation, misleading domain registrations, and commercial activities conducted through immigration-related websites.[^2]
 
-On November 12, 2026, `eta.in.th` was included among seven immigration-related domains in a formal request for review under **Section 10.3 of THNIC's Domain Name Registration Policy**. The complaint requested verification of domain ownership, examination of registration histories and earlier website presentations, and an assessment of whether potentially related registrations involved bad faith or policy violations.[^3]
+On November 12, 2026, Nickles included `eta.in.th` among seven domains in a formal complaint requesting an investigation under **Section 10.3 of THNIC's Domain Name Registration Policy**. He requested verification of registered holders, examination of registration histories and earlier website presentations, and a written determination addressing whether potentially related registrations involved bad faith or other policy violations.[^3]
 
-These complaints document concerns raised with THNIC, rather than established findings of wrongdoing. The cited correspondence does not establish the domain's historical registered holder or a final enforcement determination.
+The complaints establish a documented history of concerns raised by Nickles with THNIC, rather than independent findings of wrongdoing. The available correspondence does not establish the domain's historical registered holder or a final THNIC enforcement determination.
 
 ## References
 
