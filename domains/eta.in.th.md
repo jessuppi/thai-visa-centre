@@ -41,4 +41,4 @@ Despite the complaints submitted between February 2025 and November 2026, the av
 [^7]: https://tdac.immigration.go.th/manual/en/faq.html
 [^8]: `https://eta.in.th/policy/terms-and-conditions`
 [^9]: `https://eta.in.th/policy/privacy`
-[^10]: https://aseannow.com/topic/1344826-the-thai-eta-electronic-system-for-travel-authorisation/ — November 30, 2024 discussion and replies from the ThaiVisaCentre account.
+[^10]: `https://aseannow.com/topic/1344826-the-thai-eta-electronic-system-for-travel-authorisation/` — November 30, 2024 discussion and replies from the ThaiVisaCentre account.
