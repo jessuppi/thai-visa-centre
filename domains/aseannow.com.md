@@ -266,6 +266,34 @@ The exchange documents overlapping activity between ASEAN NOW moderators and Fac
 
 However, the discussion does not establish whether the deleted comments concerned Thai Visa Centre, whether the moderators received compensation or instructions from the agency, or the circumstances under which BrandonJT obtained his Facebook moderation privileges.
 
+## Tod Daniels Describes Agent-Arranged Visa Extensions as "Under the Table"
+
+On May 16, 2023, ASEAN NOW member **djayz** described obtaining a retirement visa and extension through a Bangkok-based agent. According to the poster, the agency arranged the immigration paperwork through an office in **Trang**, despite the applicant living in another province. The member claimed not to have known this until after the documents were issued.[^55]
+
+The arrangement subsequently created concerns about obtaining a certificate of residence and transferring immigration records to the province where the member actually lived. The poster asked whether future extensions could be processed locally or whether they would remain dependent on the original immigration office.
+
+On May 17, [Tod Daniels](../people/tod-daniels.md), whose ASEAN NOW account carried the special **"Thai Visas Forum Expert"** designation, responded by explaining that immigration officers could recognize agent-arranged extensions issued outside an applicant's province of residence.
+
+Daniels characterized these arrangements as:
+
+> back door, under the table, year extension[^55]
+
+He explained that the resulting immigration stamps were genuine, but suggested that officers at other immigration offices could object because the applicant had obtained an extension through unofficial arrangements elsewhere.
+
+Daniels also claimed that many customers using out-of-province agents did not even know which residential address had been registered in the immigration system.
+
+Another participant, **zzzzz**, explicitly asked whether the agency involved was Thai Visa Centre. However, the original poster did not confirm the company's identity, and the discussion does not establish that Thai Visa Centre handled this particular application.[^55]
+
+Other members described potential difficulties with subsequent 90-day reporting, address registration, and future retirement extensions, particularly where applicants could not demonstrate that they had maintained the required funds in their bank accounts.
+
+The discussion is significant because Daniels was openly acknowledging questionable practices and practical risks associated with agent-arranged retirement extensions as early as 2023.
+
+Yet in November 2025, he enthusiastically endorsed Thai Visa Centre's nationwide services under his special ASEAN NOW expert designation. In August 2026, Global Moderator [BrandonJT](../moderators/brandonjt.md) similarly promoted Thai Visa Centre's ability to arrange extensions through immigration offices outside applicants' provinces of residence.[^26]
+
+These later recommendations offered prospective customers little explanation of the complications Daniels had previously identified, including discrepancies in immigration address records and potential difficulties obtaining subsequent services from local immigration offices.
+
+The contrast raises questions about the completeness of immigration advice provided by ASEAN NOW's expert-labeled contributors and moderators, particularly when discussing commercial services offered by a forum sponsor.
+
 ## The Thaiger Publishes Tod Daniels' Airport-Entry Advice as Expert Guidance
 
 On June 22, 2024, approximately two months after acquiring ASEAN NOW, [The Thaiger](../brands/the-thaiger.md) published an article titled *I've Been Denied Entry to Thailand – Now What?* under the banner **"THE THAIGER / ASEAN NOW EXCLUSIVE."** The article carried a byline from George Anderssen, founder of the original ThaiVisa.com forum, and introduced [Tod Daniels](../people/tod-daniels.md) as a visa expert.[^52]
@@ -576,3 +604,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^52]: https://thethaiger.com/news/national/ive-been-denied-entry-to-thailand-now-what
 [^53]: `https://aseannow.com/topic/1330417-ive-been-denied-entry-to-thailand-now-what/`
 [^54]: `https://aseannow.com/topic/1330417-ive-been-denied-entry-to-thailand-now-what/page/2/`
+[^55]: `https://aseannow.com/topic/1295041-retirement-visa-change-of-address/`
