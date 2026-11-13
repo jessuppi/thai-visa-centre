@@ -84,6 +84,18 @@ In the same discussion, Thai Visa Centre's official **Forum Sponsor** account cr
 
 The combination of favorable website assurances and direct commercial promotion by a forum sponsor raises questions about ASEAN NOW's separation of independent travel information from advertiser interests.
 
+## Unsubstantiated Security Claims About the Official TDAC Website
+
+On May 24, 2025, ASEAN NOW Core Administrator **CharlieH** published a promotional discussion advertising [Agents Co., Ltd.](../companies/agents-co-ltd.md)'s commercial Thailand Digital Arrival Card (TDAC) submission service, including paid early applications.[^12]
+
+On July 9, Global Moderator [BrandonJT](../moderators/brandonjt.md) responded to a member concerned about personal-data security by claiming that information submitted through Thailand's official government TDAC website had a **"50% chance of being stolen by hackers"**, attributing the alleged risk to previous government data breaches.[^12]
+
+The account provided no supporting statistics or evidence for this extraordinary claim. On August 9, BrandonJT subsequently defended the commercial platform's optional $8 early-submission fee, arguing that travelers might prefer paying for convenience rather than using the government's free service.[^12]
+
+These statements contrast with the Thai Immigration Bureau's June 2025 public warning encouraging travelers to register exclusively through `tdac.immigration.go.th` to protect their personal information. The bureau emphasized that official TDAC registration was free and warned against unofficial websites requesting payments or personal information.[^13]
+
+The discussion documents an ASEAN NOW administrator promoting a commercial TDAC service while a Global Moderator made an unsupported allegation about the security of the official government alternative. It raises further questions about the reliability and independence of immigration advice published alongside commercial sponsorships.
+
 ## References
 
 [^1]: `https://aseannow.com/forum_rules/`
@@ -97,3 +109,5 @@ The combination of favorable website assurances and direct commercial promotion 
 [^9]: https://www.nationthailand.com/news/30392449
 [^10]: `https://aseannow.com/topic/1367646-cant-apply-for-dtv-yet-what-are-my-best-options-to-stay-here/`
 [^11]: https://www.nationthailand.com/news/general/40067752
+[^12]: `https://aseannow.com/topic/1361664-apply-for-your-tdac-early-here/`
+[^13]: https://cgchicago.thaiembassy.org/en/content/press-release-the-immigration-bureau-would-like-t?menu=62134944bb835d1888475343
