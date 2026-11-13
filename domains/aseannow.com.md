@@ -120,6 +120,36 @@ On November 5, 2025, ASEAN NOW administrator **Captain Flack** publicly confirme
 
 The discussion also featured favorable recommendations from forum moderators and promotional replies from Thai Visa Centre's official sponsor account. The incident raises questions about whether ASEAN NOW's commercial sponsorship arrangements compromise the independence of discussions concerning immigration services. The removed comment is no longer publicly visible, preventing independent assessment of its contents.
 
+## DrJack54 Promotes Thai Visa Centre While Other Visa-Agent Links Disappear
+
+On April 25, 2026, an ASEAN NOW account named **cubism001** opened a discussion requesting recommendations for visa agents in Bangkok and Pattaya. The poster claimed to have lost a previous list of agencies and mentioned several Pattaya businesses, including Maneerat, Key, and Mots.[^59]
+
+Global Moderator [DrJack54](../moderators/drjack54.md) responded by discussing banking difficulties affecting Pattaya visa agents before singling out [Thai Visa Centre](../brands/thai-visa-centre.md) as one of Bangkok's most experienced providers. He directly tagged the agency's commercial **Forum Sponsor** account.[^59]
+
+On April 27, [Tod Daniels](../people/tod-daniels.md), whose account carried ASEAN NOW's special **"Thai Visas Forum Expert"** designation, questioned why an earlier contribution containing links to Bangkok and Pattaya visa agencies was no longer visible.
+
+Daniels explained that he had attempted to provide the businesses' Facebook pages and websites. DrJack54 initially suggested that Facebook videos had been deleted, but Daniels clarified that his original contribution had contained links rather than videos.
+
+Unable to restore the original recommendations, Daniels republished the names of several Pattaya agents without clickable links, including Maneerat Travel, Farang Thai Visa Pattaya, Annie Visa Pattaya, M Thai Visa, One Stop Visa, and other providers.
+
+DrJack54 subsequently acknowledged:
+
+> I have had several FB links posted and later removed.[^59]
+
+The exchange is particularly noteworthy because a Global Moderator's direct recommendation of Thai Visa Centre remained visible while links to several alternative providers had apparently disappeared.
+
+Other participants continued recommending Pattaya agencies, including One Stop Visa. Some external business links also remained visible in the discussion, indicating that the forum was not simply blocking every link to a commercial visa provider.
+
+The available discussion does not establish who removed Daniels' links, whether automated filtering was involved, or whether the removals were connected to ASEAN NOW's commercial sponsorship arrangements.
+
+Nevertheless, the incident raises questions about the consistency of how commercial recommendations were presented to readers.
+
+**ASEAN NOW's published rules explicitly permit forum sponsors to promote their businesses while restricting certain criticism of those sponsors.** In this instance, the moderator's endorsement of Thai Visa Centre was readily accessible, whereas an expert-labeled contributor had to republish competing agencies' names after his earlier links disappeared.
+
+Such differences in visibility matter because readers seeking immigration assistance may interpret prominent moderator recommendations as independent guidance, without appreciating how forum moderation and commercial sponsorship can affect which businesses receive attention.
+
+The episode adds another example of the potential overlap between moderator authority, commercial promotion, and the presentation of competing immigration-service providers on ASEAN NOW.
+
 ## Forum Discussion Closed After Moderator Endorsement
 
 On October 23, 2025, ASEAN NOW member **AcuDoc** opened a discussion asking whether anyone had firsthand experience with [Thai Visa Centre](../brands/thai-visa-centre.md) in Bangkok. The member provided the agency's website address to clarify which business they were asking about.[^33]
@@ -710,3 +740,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^56]: `https://aseannow.com/topic/1388105-safe-entry/`
 [^57]: `https://aseannow.com/topic/1345519-safe-entry-services-bkk-airport/`
 [^58]: `https://aseannow.com/topic/1377140-visa-agency-suggestion-reirement/`
+[^59]: `https://aseannow.com/topic/1393103-visa-agents-in-bkkpattaya-by-name/`
