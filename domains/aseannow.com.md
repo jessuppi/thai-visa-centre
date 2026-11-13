@@ -668,35 +668,41 @@ The circumstances do not establish that the discussion was coordinated or that t
 
 ## BrandonJT Claims Immigration Officers Can Waive Retirement Visa Financial Requirements
 
-On May 13, 2026, an ASEAN NOW account named **BillyBobzTeeth** opened a discussion claiming to lack the required 800,000-baht bank balance for a retirement extension and expressing interest in using [Thai Visa Centre](../brands/thai-visa-centre.md).[^20]
+On May 13, 2026, an ASEAN NOW account named **BillyBobzTeeth** requested advice about obtaining a retirement extension without the required 800,000-baht bank balance, expressing interest in [Thai Visa Centre](../brands/thai-visa-centre.md).[^20]
 
-Global Moderator [DrJack54](../moderators/drjack54.md) promptly recommended contacting Thai Visa Centre directly, tagging the agency's forum account and mentioning an estimated extension fee of 16,000 baht.
+Global Moderator [DrJack54](../moderators/drjack54.md) immediately recommended contacting Thai Visa Centre, directly tagging the agency's forum account and mentioning an estimated fee of **16,000 baht**.
 
-Thai Visa Centre subsequently participated through its official **Forum Sponsor** account, advertising annual retirement extensions for approximately 16,000 baht and mentioning a previous 14,000-baht promotion.
+Thai Visa Centre subsequently entered the discussion through its official **Forum Sponsor** account, advertising retirement extensions for approximately 16,000 baht and referencing an earlier 14,000-baht promotion.[^20]
 
-The exchange created an opportunity for the commercial sponsor to advertise services to applicants who might not satisfy Thailand's financial requirements. The independence of the original account and the circumstances behind the discussion were not established.
+### Moderators Defend Extensions Without Financial Evidence
 
-Other participants questioned whether the advertised services could accommodate applicants who lacked the necessary funds.
+Other participants questioned whether an agency could legitimately arrange retirement extensions for applicants who failed to meet Thailand's financial requirements.
 
-On May 17, an account named **JimGant** challenged the distinction between legitimate administrative assistance and obtaining immigration approval without satisfying the financial requirements. DrJack54 acknowledged that some people used agents specifically to avoid those requirements but repeatedly discouraged further discussion of legality.
+On May 17, member **JimGant** challenged the distinction between ordinary administrative assistance and obtaining immigration approval without satisfying eligibility conditions.
 
-Fellow Global Moderator [BrandonJT](../moderators/brandonjt.md) then intervened, asserting that Thai immigration officers possessed:
+DrJack54 acknowledged that some applicants used agents specifically to avoid financial requirements but repeatedly discouraged further discussion of legality.
+
+Fellow Global Moderator [BrandonJT](../moderators/brandonjt.md) then claimed that immigration officers possessed:
 
 > full discretion and leeway[^20]
 
-According to BrandonJT, officers could determine that an applicant qualified for an extension even without the normally required financial evidence. He claimed that officers possessed the authority to approve such applications.
+He argued that officers could approve retirement extensions even when applicants lacked the normally required financial evidence.
 
-Another participant, **JerryM**, challenged this interpretation, arguing that the governing Royal Thai Police order did not grant immigration officers unlimited discretion to disregard eligibility requirements.
+Another participant, **JerryM**, disputed this interpretation, arguing that the governing Royal Thai Police order did not authorize officers to disregard eligibility requirements.
 
-Thailand's published government guidance specifies that retirement-extension applicants relying on bank deposits must maintain at least 800,000 baht for two months before applying and three months after approval, followed by a minimum balance of 400,000 baht during the remaining period.[^25]
+Thailand's published guidance requires applicants using the bank-deposit method to maintain **800,000 baht for two months before applying and three months after approval**, followed by a minimum balance of **400,000 baht** for the remaining period.[^25]
 
-BrandonJT did not identify a specific legal provision authorizing the broad exemption he described.
+BrandonJT did not identify a legal provision establishing the broad exemption he described.
 
-The sequence is noteworthy: an account introduced a scenario involving insufficient retirement funds, a Global Moderator recommended Thai Visa Centre, the agency advertised its services, and another Global Moderator defended an expansive interpretation of immigration officers' authority while questions about legality were discouraged.
+### Commercial Promotion and Questionable Immigration Advice
 
-Rather than treating the thread as an independent consumer inquiry, its structure warrants scrutiny as a potentially promotional discussion in which moderator interventions helped legitimize the commercial services being advertised.
+The discussion followed a notable sequence: an account introduced an application involving insufficient retirement funds, DrJack54 recommended Thai Visa Centre, the sponsor advertised its services, and BrandonJT defended an expansive interpretation of immigration discretion.
 
-The exchange does not establish that participating accounts were coordinated or acting on behalf of Thai Visa Centre. Nevertheless, it demonstrates how ASEAN NOW's moderation practices and commercial sponsorship arrangements could influence readers' perceptions of services that appear inconsistent with published immigration requirements.
+**The moderator's assurances could encourage readers to believe that paid agents can legitimately arrange retirement extensions without the published financial evidence.**
+
+The discussion does not establish that the original account was fabricated, that participants coordinated with Thai Visa Centre, or that the agency actually obtained extensions through improper means.
+
+Nevertheless, the combination of commercial advertising, unsupported claims about immigration discretion, and discouragement of questions about legality raises concerns about the reliability and independence of advice provided on ASEAN NOW.
 
 ## Moderators Claim Thai Visa Centre Can Arrange Bangkok Extensions Without Financial Proof
 
