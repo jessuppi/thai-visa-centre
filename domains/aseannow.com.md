@@ -44,6 +44,52 @@ He encouraged readers to consult the agency's favorable online reviews, comparin
 
 These exchanges document a Global Moderator repeatedly dismissing concerns about Thai Visa Centre's reported police investigation while recommending its commercial services. His statements did not establish the investigation's outcome or provide independent evidence resolving the original allegations.
 
+## Moderator Endorses Volunteer Visas Without Volunteering (2021)
+
+On August 4, 2020, Thai immigration police announced arrests connected to an alleged visa-document forgery operation involving [Thai Visa Centre](../brands/thai-visa-centre.md). Officers reported recovering forged documents and 55 government rubber stamps during the raid.[^9]
+
+In a Reddit discussion published the following day, several participants described Thai Visa Centre advertising volunteer visas that did not require applicants to perform volunteer work. One commenter, who claimed to have contacted the agency directly, reproduced its offer of a:
+
+> volunteer visa - no need to volunteer[^41]
+
+The commenter subsequently clarified that the quoted price was 60,000 baht for 15 months, or 25,000 baht for three months. Other participants questioned how the agency could arrange the necessary sponsorship documents for applicants who would not actually volunteer.
+
+On March 27, 2021, ASEAN NOW member **Gman1992** asked whether another visa agent's offer of a one-year volunteer visa for 38,000 baht was legitimate. The member explicitly stated that the arrangement required no actual volunteer work and would allow them to continue living in Bangkok while working remotely.[^39]
+
+Global Moderator [DrJack54](../moderators/drjack54.md) responded:
+
+> It's 100% legit. Your stamps are all in order.[^39]
+
+DrJack54 advised the member to use an established visa agent with favorable reviews and dismissed objections from other participants. After learning that the member had entered Thailand on a tourist visa, he explained that an agent could arrange Non-O volunteer status and a subsequent 12-month extension. He added that he would personally use an agent in the same circumstances.
+
+Several participants challenged these assurances, distinguishing between genuine immigration stamps and the legitimacy of the underlying application. They questioned whether a volunteer visa could lawfully be obtained without performing volunteer work and warned that applicants might face consequences if false information was submitted.
+
+DrJack54 continued defending agent-assisted arrangements, comparing the proposed volunteer visa to education visas obtained by people who did not attend classes. He also challenged critics to identify cases where foreigners had been punished for improperly obtained extensions.[^39]
+
+On March 28, forum member **Tanoshi** described an alleged earlier immigration investigation in Roi Et involving dismissed immigration officers, a visa agent, and foreigners reportedly deported after obtaining extensions through questionable applications.
+
+DrJack54 said he could not locate corroborating reports of the incident and then directly tagged Thai Visa Centre, asking the agency for its opinion.[^40]
+
+### Google Maps Review Alleging Immigration Problems
+
+A Google Maps review subsequently reproduced in an October 2024 RaiYai forum discussion described the alleged consequences of obtaining a visa extension through Thai Visa Centre. The review had also been linked in a February 2023 Reddit discussion about the agency.[^42][^43]
+
+The reviewer claimed to have paid Thai Visa Centre **25,000 baht for a three-month extension**, after being assured that the agency worked with immigration authorities and that the arrangement was legitimate.
+
+According to the account, the reviewer later visited an immigration office independently and was questioned about the stamp in their passport. An officer allegedly explained that the volunteer organization used for the application did not exist:
+
+> there's no such volunteer organization where they registered me[^42]
+
+The reviewer claimed that immigration officers warned of possible difficulties obtaining future long-term visas and suggested replacing the passport before returning to Thailand.
+
+Approximately two years later, according to the same account, the reviewer attempted to reenter Thailand and was questioned extensively at the airport because of the earlier visa stamp. The reviewer described officers consulting supervisors, examining the passport, taking photographs, and initially indicating that entry would be refused.
+
+The reviewer said they were eventually admitted after explaining the circumstances and presenting evidence of onward travel to Cambodia. They described the experience as traumatic and warned others that using an agent could create immigration problems long after the original service had been completed.[^42]
+
+The original Google Maps review is not independently available for verification, but its contents were reproduced publicly and referenced in discussions about Thai Visa Centre.
+
+These accounts directly challenge DrJack54's assertion that genuine immigration stamps were sufficient proof of legitimacy. They illustrate the distinction between an extension appearing in official immigration records and the accuracy of the supporting documents used to obtain it.
+
 ## Moderator Refers Rejected Visa Applicant to Thai Visa Centre (2022)
 
 On January 26, 2022, ASEAN NOW member **freesudani** reported that Thai immigration officials had refused another COVID-related visa extension after examining the applicant's previous extensions. The member, who said they had originally entered Thailand on an education visa, claimed to have been given only seven days to leave the country.[^37]
@@ -346,3 +392,8 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^36]: https://tvc.co.th/scam
 [^37]: `https://aseannow.com/topic/1248076-covid-visa-extension-denied/`
 [^38]: `https://aseannow.com/topic/1248076-covid-visa-extension-denied/page/3/`
+[^39]: `https://aseannow.com/topic/1211624-thai-visa-agent-legit/`
+[^40]: `https://aseannow.com/topic/1211624-thai-visa-agent-legit/page/2/`
+[^41]: https://www.reddit.com/r/Thailand/comments/i3yac5/
+[^42]: https://www.raiyai.com/forum/topic/be-careful-using-thai-visa-centre-agency/
+[^43]: https://www.reddit.com/r/Thailand/comments/114we6a/comment/jgle27a/
