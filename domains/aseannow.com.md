@@ -168,6 +168,22 @@ Thailand's Immigration Bureau public handbook specifies that retirement-extensio
 
 The exchange documents forum moderators recommending a commercial sponsor while discussing arrangements that appear inconsistent with the published residence-based application procedure. However, BrandonJT did not explain how out-of-province processing would satisfy the applicable requirements, and the discussion does not establish that Thai Visa Centre actually arranged such an extension for this applicant.
 
+## Forum Member Questions Legitimacy of Out-of-Province Visa Stamps
+
+On August 4, 2026, ASEAN NOW member **TonBrow**, who claimed to be an existing [Thai Visa Centre](../brands/thai-visa-centre.md) customer, asked whether retirement extensions arranged through the agency would be accepted when dealing directly with immigration authorities, including applications for residence certificates or other services.[^34]
+
+The following day, TonBrow claimed that Thai Visa Centre had been arranging their extensions since the COVID-19 pandemic and sending their passport to immigration offices in Thailand's northeastern Isan region. The poster expressed concern about whether the resulting stamps were legitimate and whether presenting them at a local immigration office might expose irregularities.
+
+Another forum member, **zzzzz**, strongly defended the agency, claiming that Thai Visa Centre included TM30 address registrations and initial 90-day reports without additional charges. TonBrow disputed this description:
+
+> They've never sent me a tm 30 and always charge 500 baht to make a 90 day report.[^34]
+
+Global Moderator [DrJack54](../moderators/drjack54.md) questioned which immigration office issued the extension, where the poster resided, and where their 90-day reports were processed. Other participants warned that extensions issued outside an applicant's province of residence could attract additional scrutiny, particularly where address records or financial arrangements appeared inconsistent.
+
+Thai Visa Centre participated through its official **Forum Sponsor** account, stating that obtaining a residence certificate should not be problematic if the required documents were in order. The agency also advertised its ability to arrange certificates using digital passport copies without requiring customers to submit their physical passports.[^34]
+
+The discussion documents concerns raised by a forum member claiming firsthand experience with Thai Visa Centre, alongside conflicting accounts of the agency's services and fees. Neither the poster's claimed customer relationship nor the independence of other participating accounts was established. No evidence was presented demonstrating that the visa stamps were forged or improperly obtained.
+
 ## Claims of Guaranteed Airport Entry Services
 
 On July 23, 2025, ASEAN NOW Global Moderator [BrandonJT](../moderators/brandonjt.md) publicly described paid airport "safe entry" services as **"100% reliable"**, claiming that agents could arrange guaranteed admission to Thailand through contacts with immigration officers.[^10]
@@ -285,3 +301,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^31]: `https://aseannow.com/topic/1406166-are-safe-entry-service-still-available/`
 [^32]: `https://aseannow.com/topic/1358135-thailand-digital-arrival-card-tdac/page/10/`
 [^33]: `https://aseannow.com/topic/1376876-thai-visa-centre-in-bangkok/`
+[^34]: `https://aseannow.com/topic/1401947-thai-visa-centre-immigration/`
