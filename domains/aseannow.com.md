@@ -132,33 +132,39 @@ The discussion also featured favorable recommendations from forum moderators and
 
 ## DrJack54 Promotes Thai Visa Centre While Other Visa-Agent Links Disappear
 
-On April 25, 2026, an ASEAN NOW account named **cubism001** opened a discussion requesting recommendations for visa agents in Bangkok and Pattaya. The poster claimed to have lost a previous list of agencies and mentioned several Pattaya businesses, including Maneerat, Key, and Mots.[^59]
+On April 25, 2026, an ASEAN NOW account named **cubism001** requested recommendations for visa agents in Bangkok and Pattaya, mentioning businesses including Maneerat, Key, and Mots.[^59]
 
-Global Moderator [DrJack54](../moderators/drjack54.md) responded by discussing banking difficulties affecting Pattaya visa agents before singling out [Thai Visa Centre](../brands/thai-visa-centre.md) as one of Bangkok's most experienced providers. He directly tagged the agency's commercial **Forum Sponsor** account.[^59]
+Global Moderator [DrJack54](../moderators/drjack54.md) responded by discussing banking difficulties affecting Pattaya agents before recommending [Thai Visa Centre](../brands/thai-visa-centre.md) as one of Bangkok's most experienced providers.
 
-On April 27, [Tod Daniels](../people/tod-daniels.md), whose account carried ASEAN NOW's special **"Thai Visas Forum Expert"** designation, questioned why an earlier contribution containing links to Bangkok and Pattaya visa agencies was no longer visible.
+He also directly tagged the agency's commercial **Forum Sponsor** account.[^59]
 
-Daniels explained that he had attempted to provide the businesses' Facebook pages and websites. DrJack54 initially suggested that Facebook videos had been deleted, but Daniels clarified that his original contribution had contained links rather than videos.
+### Competing Visa-Agent Links Disappear
 
-Unable to restore the original recommendations, Daniels republished the names of several Pattaya agents without clickable links, including Maneerat Travel, Farang Thai Visa Pattaya, Annie Visa Pattaya, M Thai Visa, One Stop Visa, and other providers.
+On April 27, [Tod Daniels](../people/tod-daniels.md), whose ASEAN NOW account carried the special **"Thai Visas Forum Expert"** designation, questioned why his earlier contribution containing links to Bangkok and Pattaya visa agencies was no longer visible.
 
-DrJack54 subsequently acknowledged:
+Daniels explained that he had provided the businesses' websites and Facebook pages.
+
+DrJack54 initially suggested that Facebook videos had been deleted, but Daniels clarified that his contribution had contained links rather than videos.
+
+Unable to restore the original post, Daniels republished the names of several Pattaya agencies without clickable links, including Maneerat Travel, Farang Thai Visa Pattaya, Annie Visa Pattaya, M Thai Visa, and One Stop Visa.
+
+DrJack54 subsequently acknowledged experiencing similar removals:
 
 > I have had several FB links posted and later removed.[^59]
 
-The exchange is particularly noteworthy because a Global Moderator's direct recommendation of Thai Visa Centre remained visible while links to several alternative providers had apparently disappeared.
+**The contrast is noteworthy: DrJack54's direct recommendation of Thai Visa Centre remained visible, while another expert-labeled contributor had to republish competing agencies' names after his links disappeared.**
 
-Other participants continued recommending Pattaya agencies, including One Stop Visa. Some external business links also remained visible in the discussion, indicating that the forum was not simply blocking every link to a commercial visa provider.
+### Questions About Preferential Visibility
 
-The available discussion does not establish who removed Daniels' links, whether automated filtering was involved, or whether the removals were connected to ASEAN NOW's commercial sponsorship arrangements.
+Other participants continued recommending Pattaya agencies, and some external business links remained visible. The forum was therefore not uniformly blocking references to competing visa providers.
 
-Nevertheless, the incident raises questions about the consistency of how commercial recommendations were presented to readers.
+The discussion does not establish who removed Daniels' links, whether automated filtering was involved, or whether the removals were connected to commercial sponsorship.
 
-**ASEAN NOW's published rules explicitly permit forum sponsors to promote their businesses while restricting certain criticism of those sponsors.** In this instance, the moderator's endorsement of Thai Visa Centre was readily accessible, whereas an expert-labeled contributor had to republish competing agencies' names after his earlier links disappeared.
+Nevertheless, ASEAN NOW's published rules permit sponsors to promote their businesses while restricting certain criticism of those sponsors.
 
-Such differences in visibility matter because readers seeking immigration assistance may interpret prominent moderator recommendations as independent guidance, without appreciating how forum moderation and commercial sponsorship can affect which businesses receive attention.
+**The incident raises questions about the consistency of commercial visibility on ASEAN NOW**, where moderator endorsements of a paying sponsor may receive prominent exposure while recommendations for competitors encounter apparent posting or moderation difficulties.
 
-The episode adds another example of the potential overlap between moderator authority, commercial promotion, and the presentation of competing immigration-service providers on ASEAN NOW.
+Although deliberate suppression is unproven, such differences could influence readers' perceptions of available immigration-service providers.
 
 ## Thai Visa Centre Promoted Despite Member Repeatedly Requesting Competitors
 
