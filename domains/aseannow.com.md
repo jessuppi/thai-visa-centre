@@ -194,6 +194,28 @@ On April 22, 2026, BrandonJT recommended Thai Visa Centre's `90day.in.th` immigr
 
 These exchanges document moderators actively recommending a commercial sponsor, directly inviting the agency into discussions, and providing prospective customers with information about its paid services. The available evidence does not establish whether these recommendations were independently motivated, coordinated, or compensated, or whether the advertised airport arrangements operated as described.
 
+## Moderator Acknowledges Private Contact with Thai Visa Centre
+
+On April 22, 2026, ASEAN NOW Global Moderator [DrJack54](../moderators/drjack54.md) opened a discussion requesting recommendations for an agent to complete his upcoming 90-day immigration report in Bangkok. He claimed that he could not attend immigration in person or submit the report by mail, while online reporting was unavailable following his return from overseas.[^45]
+
+Fellow Global Moderator [BrandonJT](../moderators/brandonjt.md) responded by recommending [Thai Visa Centre](../brands/thai-visa-centre.md)'s commercial reporting service at [90day.in.th](../domains/90day.in.th.md). He provided details about its pricing, explaining that the service had launched approximately six months earlier at 375 baht and included delivery of the completed immigration-reporting confirmation.
+
+DrJack54 subsequently acknowledged that **Grace from Thai Visa Centre had already contacted him privately with the service link**:
+
+> Grace via, message posted the Link[^45]
+
+He estimated the price at approximately 400 baht, explained that applicants would upload their passport information page, and said he had merely been seeking confirmation from other forum members.
+
+Another participant, using the account name **Upnotover**, also praised the service and claimed to have used it previously. When DrJack54 suggested that the reporting would take place at Bangkok's Chaeng Watthana Immigration office, Upnotover replied:
+
+> I used them last November and the report was done in Roi Et.[^45]
+
+The account's claimed experience was not independently verified. Its statement nevertheless introduced another example of immigration paperwork allegedly being processed outside the applicant's local immigration jurisdiction.
+
+The sequence is noteworthy: one Global Moderator publicly solicited recommendations despite already possessing a commercial service link supplied privately by the agency, another Global Moderator promoted that same service with specific pricing details, and a third account claiming to be a customer offered a favorable endorsement.
+
+Rather than an independently initiated discussion of immigration-reporting options, the exchange has characteristics of promotional seeding, with multiple participants directing attention toward the forum's commercial sponsor. Whether the discussion was coordinated or any participating accounts were acting on behalf of Thai Visa Centre has not been established.
+
 ## Moderator Refers Financially Struggling Pensioner to Thai Visa Centre
 
 On December 18, 2025, ASEAN NOW member **cliveshep** described difficulties renewing his marriage-based retirement-age visa extension after Bangkok Bank reportedly restricted access to funds needed for immigration requirements. The member, who was approaching his 80th birthday and used a wheelchair, explained that he depended on a modest UK pension and was concerned about his ability to remain in Thailand.[^44]
@@ -426,3 +448,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^42]: https://www.raiyai.com/forum/topic/be-careful-using-thai-visa-centre-agency/
 [^43]: https://www.reddit.com/r/Thailand/comments/114we6a/comment/jgle27a/
 [^44]: `https://aseannow.com/topic/1382159-am-i-paranoic-here/`
+[^45]: `https://aseannow.com/topic/1392852-unable-to-login-for-online-90-days-reporting/`
