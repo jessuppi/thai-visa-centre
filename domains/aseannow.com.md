@@ -412,6 +412,36 @@ Particularly noteworthy is that Daniels initially defended paid airport-entry ar
 
 The sequence raises questions about whether ASEAN NOW's immigration-expert designations, moderator recommendations, and commercial sponsor participation encourage readers to purchase services that may offer little practical benefit in their particular circumstances.
 
+## Tod Daniels and DrJack54 Redirect Airport-Service Inquiry to Thai Visa Centre
+
+On February 23, 2026, an ASEAN NOW account named **Hyggefyren** opened a discussion asking whether a company called **SR Services** was still operating. The poster explained that the company had previously been highly recommended but could no longer be located online.[^56]
+
+The question was particularly relevant to earlier recommendations by [Tod Daniels](../people/tod-daniels.md), whose ASEAN NOW account carried the special **"Thai Visas Forum Expert"** designation.
+
+In December 2024, Daniels had enthusiastically endorsed SR Services, describing it as a major operator behind commercial airport "safe entry" arrangements. He claimed that other agencies frequently referred customers to SR Services without informing them, and asserted that the company could arrange admission even following a previous refusal at the same airport.[^57]
+
+When Hyggefyren questioned SR Services' apparent absence in February 2026, Global Moderator [DrJack54](../moderators/drjack54.md) immediately suggested Friendly Thai Visa and also tagged [Thai Visa Centre](../brands/thai-visa-centre.md), informing the poster that the agency offered the same service.[^56]
+
+Daniels subsequently joined the discussion, identifying three companies he described as major providers of airport-entry assistance:
+
+- Thai Visa Service (SWD Transport)
+- Thai Visa Centre
+- Friendly Thai Visa
+
+He supplied the companies' website addresses, including `tvc.co.th`, and encouraged the poster to compare their prices.[^56]
+
+DrJack54 then posted another reply tagging Thai Visa Centre's forum account and reiterating that the agency offered airport-entry assistance.
+
+Neither Daniels nor DrJack54 established whether SR Services had ceased operating or explained what had happened to the company Daniels had previously endorsed.
+
+The sequence is noteworthy because an inquiry about a previously recommended provider became another opportunity for influential ASEAN NOW contributors to direct readers toward a commercial forum sponsor.
+
+Daniels also made this recommendation without mentioning his acknowledged role moderating a Facebook immigration-advice group owned by Thai Visa Centre. His special immigration-expert designation could lend additional credibility to the recommendation among readers unfamiliar with those commercial relationships.
+
+Although neither contributor recommended Thai Visa Centre exclusively, the discussion illustrates how forum moderators and expert-labeled accounts repeatedly introduced the agency into immigration-service recommendations, even when the original question concerned an entirely different business.
+
+The circumstances do not establish that the discussion was coordinated or that the original account was acting on behalf of an advertiser. However, the exchange is another example of how seemingly independent consumer inquiries on ASEAN NOW could generate favorable exposure for its commercial sponsor.
+
 ## BrandonJT Claims Immigration Officers Can Waive Retirement Visa Financial Requirements
 
 On May 13, 2026, an ASEAN NOW account named **BillyBobzTeeth** opened a discussion claiming to lack the required 800,000-baht bank balance for a retirement extension and expressing interest in using [Thai Visa Centre](../brands/thai-visa-centre.md).[^20]
@@ -637,3 +667,5 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^53]: `https://aseannow.com/topic/1330417-ive-been-denied-entry-to-thailand-now-what/`
 [^54]: `https://aseannow.com/topic/1330417-ive-been-denied-entry-to-thailand-now-what/page/2/`
 [^55]: `https://aseannow.com/topic/1295041-retirement-visa-change-of-address/`
+[^56]: `https://aseannow.com/topic/1388105-safe-entry/`
+[^57]: `https://aseannow.com/topic/1345519-safe-entry-services-bkk-airport/`
