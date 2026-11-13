@@ -682,67 +682,59 @@ The exchange does not establish that participating accounts were coordinated or 
 
 ## Moderators Claim Thai Visa Centre Can Arrange Bangkok Extensions Without Financial Proof
 
-On August 5, 2026, an ASEAN NOW account named **rw100** opened a discussion requesting recommendations for a visa agent in Hua Hin. The poster claimed to be assisting a friend who needed help obtaining a retirement visa, opening a bank account, and satisfying residency requirements.[^60]
+On August 5, 2026, an ASEAN NOW account named **rw100** requested visa-agent recommendations for Hua Hin, claiming to be helping a friend obtain a retirement visa and open a Thai bank account.[^60]
 
-Several participants suggested obtaining a Non-O visa through Thailand's official e-Visa system rather than paying a commercial agent. [Tod Daniels](../people/tod-daniels.md), whose account carried the special **"Thai Visas Forum Expert"** designation, recommended a Hua Hin agency named Anna Visa.
+Several participants recommended Thailand's official e-Visa system, while [Tod Daniels](../people/tod-daniels.md), whose account carried the special **"Thai Visas Forum Expert"** designation, suggested a Hua Hin agency named Anna Visa.
 
-On October 10, another account, **watthong**, revived the discussion by asking whether a well-known Pattaya visa agent could also handle applications in Bangkok.
+On October 10, another account, **watthong**, revived the discussion by asking whether a Pattaya visa agent could handle immigration applications in Bangkok.
 
-Global Moderator [BrandonJT](../moderators/brandonjt.md) responded by claiming that most Pattaya agencies handled applications only in Pattaya. He explained that processing extensions through Bangkok's Chaeng Watthana Immigration office was more expensive and specifically recommended [Thai Visa Centre](../brands/thai-visa-centre.md), tagging its commercial **Forum Sponsor** account.[^60]
+Global Moderator [BrandonJT](../moderators/brandonjt.md) claimed that most Pattaya agents operated only in Pattaya and that processing extensions through Bangkok's Chaeng Watthana Immigration office was more expensive.
 
-**The comparison portrayed Pattaya-based visa agents as having limited capabilities while positioning Thai Visa Centre as a more suitable alternative for Bangkok applicants.** BrandonJT provided no supporting evidence establishing that the competing Pattaya agencies were unable to offer equivalent services.
+He instead recommended [Thai Visa Centre](../brands/thai-visa-centre.md), directly tagging its commercial **Forum Sponsor** account.[^60]
 
-Fellow Global Moderator [DrJack54](../moderators/drjack54.md) immediately reinforced the recommendation, instructing the poster to contact Thai Visa Centre through LINE.
+**The comparison portrayed Pattaya-based agencies as having limited capabilities while positioning Thai Visa Centre as the preferred alternative.** No evidence was provided establishing that competing Pattaya agents could not offer equivalent services.
 
-Another participant, **garygooner**, questioned whether Thai Visa Centre could arrange extensions through Chaeng Watthana for applicants who lacked the usual financial documentation.
+Fellow Global Moderator [DrJack54](../moderators/drjack54.md) reinforced the recommendation, instructing the poster to contact Thai Visa Centre through LINE.
 
-DrJack54 responded:
+Another participant, **garygooner**, then questioned whether the agency could arrange Chaeng Watthana extensions for applicants lacking the usual financial documentation.
+
+DrJack54 replied:
 
 > Both. You need to attend immigration.[^60]
 
-The answer was particularly significant because it appeared to confirm that Thai Visa Centre could arrange Bangkok retirement extensions regardless of whether applicants satisfied the normal financial requirements.
+His response appeared to confirm that Thai Visa Centre could arrange extensions both with and without the normal financial evidence, although no official authorization for such an exemption was identified.
 
-BrandonJT subsequently clarified that he knew Thai Visa Centre offered the Chaeng Watthana option at a higher price, but advised readers to contact the agency directly for details.
+### Thai Visa Centre Advertises Packages Up to 55,000 Baht
 
-### Thai Visa Centre Advertises Packages Costing Up to 55,000 Baht
+Later that day, Thai Visa Centre entered the discussion through its official **Forum Sponsor** account.
 
-Later that day, Thai Visa Centre participated through its official **Forum Sponsor** account, advertising a complete visa and bank-account assistance package for **45,000 baht**.
+The agency advertised a **45,000-baht package** covering visa and bank-account assistance. It explained that Hua Hin customers could travel to Bangkok for banking procedures and receive their passports by mail approximately two to three weeks later.
 
-The agency explained that customers living in Hua Hin could travel to Bangkok for bank-account opening, return home, and have their passports mailed back after approximately two to three weeks of processing.
+Thai Visa Centre also advertised a **55,000-baht same-day package**, claiming that banking and visa processing could be completed within approximately six to seven hours.[^60]
 
-Thai Visa Centre also advertised a **55,000-baht same-day package**, claiming that the bank-account opening and visa process could be completed in approximately six to seven hours.[^60]
+On October 20, rw100 claimed to have received a separate quotation of approximately **35,000 baht** from the agency. DrJack54 again tagged Thai Visa Centre and encouraged direct contact.[^61]
 
-The advertisement did not explicitly confirm DrJack54's claim that the agency could arrange Chaeng Watthana extensions without the usual financial documentation. Nor did it explain how any such arrangement would satisfy Thailand's published retirement-extension requirements.
+The discussion did not establish that any package was purchased or that Thai Visa Centre could legitimately obtain extensions without the usual financial documentation.
 
-On October 20, the original account, rw100, returned to the discussion and claimed to have received a separate quotation of approximately **35,000 baht** from Thai Visa Centre for banking and visa assistance. DrJack54 again tagged the agency and encouraged the poster to proceed with contacting it.[^61]
+### Another Unfavorable Comparison With Pattaya Competitors
 
-The account did not report completing a purchase, and the advertised packages and subsequent quotation were not independently verified.
+The exchange resembles an October 2025 discussion in which an account named **PointCleaner** made unverified allegations about problematic immigration paperwork arranged through a Pattaya visa agent.[^58]
 
-### Another Discussion Casting Pattaya Visa Agents as Inferior
+In that earlier discussion, DrJack54 directed attention toward Thai Visa Centre, which subsequently advertised its commercial services.
 
-The exchange resembles an earlier October 2025 ASEAN NOW discussion in which an account named **PointCleaner** made unverified allegations about problematic immigration paperwork arranged through a Pattaya visa agent.[^58]
+The October 2026 exchange followed a comparable pattern: Pattaya agencies were portrayed as having disadvantages, moderators recommended Thai Visa Centre, and the sponsor appeared with commercial offers.
 
-In that discussion, DrJack54 directed attention toward Thai Visa Centre, which subsequently advertised its commercial 90-day reporting service.
+**Together, these incidents suggest a recurring pattern of unfavorable comparisons involving Pattaya visa agents alongside favorable promotion of Thai Visa Centre.**
 
-The October 2026 discussion followed a comparable pattern: a participant introduced Pattaya-based visa agents as potential service providers, BrandonJT emphasized their supposed geographical limitations, and both moderators redirected attention toward Thai Visa Centre before the sponsor advertised its services.
+The claimed limitations of Pattaya agencies were not independently substantiated, and there is no evidence establishing that participating accounts or moderators coordinated their recommendations with the sponsor.
 
-**Together, these discussions appear to reflect a recurring pattern of unfavorable portrayals of Pattaya visa agents accompanying favorable promotion of Thai Visa Centre.** Whether intentional or not, such comparisons could discourage readers from considering competing agencies and encourage them to purchase services from ASEAN NOW's commercial sponsor.
+Separately, DrJack54's answer about financial documentation raises concerns about the accuracy of immigration advice.
 
-The claimed limitations of Pattaya agents were not independently substantiated in this discussion. Nor was there evidence establishing that the participating accounts or moderators coordinated their recommendations with Thai Visa Centre.
+Thailand's published retirement-extension requirements generally specify minimum income or bank deposits, including holding periods for applicants relying on the 800,000-baht deposit method.[^25]
 
-Nevertheless, the repeated combination of negative competitor comparisons, moderator endorsements, and sponsor advertising raises questions about whether ASEAN NOW's immigration discussions provide an impartial environment for consumers evaluating competing visa agencies.
+Neither moderator identified a legal provision authorizing the broad exemption apparently suggested in the discussion, and Thai Visa Centre's advertisements did not establish that such an exemption was available.
 
-### Unsubstantiated Claims About Financial Requirements
-
-The discussion also raises separate concerns about the accuracy of the immigration advice provided.
-
-DrJack54's categorical answer could lead prospective customers to believe that Thai Visa Centre can legitimately arrange Bangkok retirement extensions without the normally required financial evidence.
-
-Thailand's published retirement-extension requirements generally specify minimum income or bank-deposit conditions, including mandatory holding periods for applicants relying on the 800,000-baht deposit method.[^25]
-
-Neither moderator identified a legal provision authorizing the broad exemption implied in the discussion, and Thai Visa Centre's subsequent advertisement did not establish that such an exemption was available.
-
-The overall sequence illustrates how apparently independent immigration inquiries can develop into commercial sales opportunities for a forum sponsor, with moderator recommendations simultaneously influencing perceptions of competing businesses and the legitimacy of the services being advertised.
+The incident illustrates how **unsupported competitor comparisons and questionable claims about immigration requirements can accompany commercial promotion**, potentially influencing consumers' perceptions of both competing agencies and the services offered by ASEAN NOW's sponsor.
 
 ## Moderator Claims About Immigration Payments and Temporary Bank Deposits
 
