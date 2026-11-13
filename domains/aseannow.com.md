@@ -466,6 +466,74 @@ The same article also promoted confidence in paid intermediaries purportedly cap
 
 The incident illustrates how ASEAN NOW's special **"Thai Visas Forum Expert"** designation and The Thaiger's editorial platform could amplify an individual contributor's immigration claims, giving potentially unreliable advice the appearance of authoritative guidance while encouraging confidence in commercial airport-entry services.
 
+## ASEAN NOW Moderators Push Paid Airport Entry Instead of an Official Tourist Visa
+
+On October 3, 2025, an ASEAN NOW account named **anotherfarangishere** opened a discussion about applying for a tourist e-Visa through the Thai Embassy in Vientiane, Laos. The poster explained that they had spent approximately nine months in Thailand using a combination of tourist visas, visa-exempt entries, and extensions.[^64]
+
+The proposed plan was to obtain an official tourist visa before returning through the Nong Khai land border, rather than attempting another visa-exempt entry.
+
+However, several influential forum contributors discouraged this approach and instead recommended paying commercial immigration intermediaries.
+
+Global Moderator [DrJack54](../moderators/drjack54.md) initially acknowledged that the tourist-visa plan might work but suggested flying out and returning through an airport using a paid "safe entry" service costing approximately 4,000 baht.
+
+Fellow Global Moderator [BrandonJT](../moderators/brandonjt.md) argued that obtaining a tourist visa would not overcome the applicant's extensive travel history. He claimed the traveler needed either a commercial border-run agency or an airport "safe entry" provider to guarantee admission.[^64]
+
+[Tod Daniels](../people/tod-daniels.md), whose ASEAN NOW account carried the special **"Thai Visas Forum Expert"** designation, reinforced these recommendations.
+
+Daniels repeatedly warned that the traveler risked refusal even with a valid tourist visa. He argued that hiring a paid intermediary would be more effective than applying through the official Thai e-Visa system.
+
+On October 4, Daniels went further, claiming there was no reason to obtain a tourist visa if the traveler purchased airport-entry assistance. He advised flying out of Thailand and immediately returning through an agent, asserting that another 60-day visa-exempt entry would be obtained without difficulty.[^64]
+
+The recommendation effectively presented a privately arranged commercial service as more reliable than obtaining a visa through an official Thai diplomatic mission.
+
+### Traveler Challenges the Recommendations
+
+The original poster repeatedly questioned the advice, explaining that a tourist visa would at least establish an approved basis for the intended visit.
+
+They also challenged Daniels' understanding of their immigration history and asked whether he could provide actual evidence of travelers being refused entry at Nong Khai despite holding valid tourist visas.
+
+Daniels maintained his position, emphasizing his claimed professional knowledge of immigration procedures and his regular interactions with visa agents, border-run companies, and immigration officers.
+
+He continued recommending paid entry assistance while warning that the traveler could face serious difficulties attempting to enter independently.
+
+The exchange illustrates how a discussion about an official immigration procedure became dominated by recommendations for commercial services, despite the original poster's repeated requests for evidence supporting those recommendations.
+
+### Tod Daniels Claims Nearly 7,000 Travelers Were Refused Entry
+
+On October 5, Daniels introduced another alarming claim, stating that he believed nearly **7,000 people had been refused entry at Thailand's international airports during the preceding week**.[^64]
+
+He suggested that many of those refusals involved foreigners who had repeatedly used visa-exempt entries.
+
+Daniels provided no official immigration statistics or other evidence supporting the figure.
+
+Another forum participant, **ivorsmile**, questioned how Daniels could know such a specific number without access to government immigration records.
+
+Rather than identifying a source, Daniels responded:
+
+> I said "I believe"[^64]
+
+The exchange is significant because an account carrying a special immigration-expert designation introduced an apparently substantial refusal figure while repeatedly recommending commercial services intended to prevent precisely that outcome.
+
+Unsupported figures of this kind could increase anxiety among prospective travelers and influence their decisions about purchasing paid airport-entry assistance.
+
+### Criticism of Commercial Entry Services Dismissed
+
+On October 6, another account, **hovercraft**, criticized paid airport "safe entry" arrangements, describing them as potentially corrupt and questioning the involvement of private intermediaries in immigration decisions.[^65]
+
+Daniels dismissed the criticism and again defended commercial entry services, claiming that thousands of customers used such arrangements successfully.
+
+DrJack54 also rejected the criticism, describing the allegations as nonsense.
+
+Neither contributor supplied official evidence establishing that commercial providers were authorized to guarantee admission through arrangements with immigration officers.
+
+The discussion is particularly noteworthy because **three influential ASEAN NOW contributors repeatedly promoted paid entry assistance while challenging the value of an official tourist visa**.
+
+Daniels and the moderators did not specifically recommend Thai Visa Centre in this thread. However, all three had separately participated in discussions promoting or referring readers to services offered by that agency, which held commercial sponsorship status on ASEAN NOW.
+
+The incident therefore provides additional context for the wider pattern documented throughout this article: influential forum accounts presenting ordinary immigration procedures as unreliable while expressing considerable confidence in privately arranged commercial alternatives.
+
+There is no evidence that the original discussion was coordinated with Thai Visa Centre or that its participants received compensation for these recommendations. Nevertheless, the repeated emphasis on paid intermediaries, unsupported refusal statistics, and dismissive responses to criticism raise concerns about the reliability and independence of immigration guidance presented to consumers.
+
 ## Tod Daniels Endorses Thai Visa Centre While Moderating Its Facebook Group
 
 On November 10, 2025, an ASEAN NOW discussion about [Thai Visa Centre](../brands/thai-visa-centre.md) turned to how visa agents arrange retirement extensions for applicants who lack the required 800,000-baht bank balance.[^46]
@@ -917,3 +985,5 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^61]: `https://aseannow.com/topic/1402094-hua-hin-visa-agent/page/2/`
 [^62]: `https://aseannow.com/topic/1355069-can-i-change-the-visa-extemption-to-non-o-based-on-marriage/`
 [^63]: `https://aseannow.com/topic/1372382-visa-agents-in-bangkok/`
+[^64]: `https://aseannow.com/topic/1374954-vientiane-e-visa-after-9-months-in-thailand/`
+[^65]: `https://aseannow.com/topic/1374954-vientiane-e-visa-after-9-months-in-thailand/page/2/`
