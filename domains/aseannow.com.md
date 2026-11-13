@@ -14,7 +14,19 @@ On November 5, 2025, ASEAN NOW administrator **Captain Flack** publicly confirme
 
 The discussion also featured favorable recommendations from forum moderators and promotional replies from Thai Visa Centre's official sponsor account. The incident raises questions about whether ASEAN NOW's commercial sponsorship arrangements compromise the independence of discussions concerning immigration services. The removed comment is no longer publicly visible, preventing independent assessment of its contents.
 
+## Moderator Accounts Promoting Thai Visa Centre
+
+The ASEAN NOW account [BrandonJT](../moderators/brandonjt.md), designated as a Global Moderator, has repeatedly promoted services offered by forum sponsor [Thai Visa Centre](../brands/thai-visa-centre.md), including airport entry assistance, visa extensions, and immigration reporting.
+
+On May 4, 2025, BrandonJT directed forum users to Thai Visa Centre's airport "safe entry" service at `asq.in.th/thailand-fasttrack`, acknowledging that the agency had previously supplied the account with its booking link.[^3]
+
+On April 22, 2026, the account recommended Thai Visa Centre's `90day.in.th` immigration reporting service to another Global Moderator, DrJack54, providing pricing information and details about the service.[^4]
+
+These exchanges document repeated commercial recommendations by an account holding moderator privileges, including direct communication with the advertised business. The available evidence does not establish who controls the account or whether these promotions were independently motivated, coordinated, or compensated.
+
 ## References
 
 [^1]: `https://aseannow.com/forum_rules/`
 [^2]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/`
+[^3]: `https://aseannow.com/topic/1359107-almost-refused-entry-at-chiang-mai-airport-be-warned-2nd-visa-exemption/page/8/`
+[^4]: `https://aseannow.com/topic/1392852-unable-to-login-for-online-90-days-reporting/`
