@@ -150,6 +150,54 @@ Such differences in visibility matter because readers seeking immigration assist
 
 The episode adds another example of the potential overlap between moderator authority, commercial promotion, and the presentation of competing immigration-service providers on ASEAN NOW.
 
+## Moderators Blame Pattaya Visa Agents for Banking Problems While Promoting Thai Visa Centre
+
+On March 18, 2025, an ASEAN NOW account named **deliric** opened a discussion about converting a visa-exempt entry into a Non-O marriage visa. The poster claimed to be returning to Thailand with his family and was concerned about opening a Thai bank account before obtaining a long-term visa.[^62]
+
+Global Moderator [DrJack54](../moderators/drjack54.md) repeatedly warned that opening a bank account while holding visa-exempt status could be difficult. On March 20, he recommended using a Bangkok visa agent and specifically suggested [Thai Visa Centre](../brands/thai-visa-centre.md).
+
+Fellow Global Moderator [BrandonJT](../moderators/brandonjt.md) subsequently provided detailed information about Thai Visa Centre's banking services, explaining that the agency generally assisted with bank-account opening only when customers were also purchasing a visa or extension package.
+
+BrandonJT then contrasted the Bangkok-based agency with competing providers in Pattaya, claiming that Pattaya agents offered standalone banking assistance but had contributed to recent problems through excessive account openings.
+
+He attributed the situation to Pattaya agents:
+
+> they were doing so many that it created an anomaly.[^62]
+
+The claim suggested that Pattaya-based agencies were responsible for attracting unwanted attention to visa-agent banking arrangements. BrandonJT provided no specific figures, banking notices, or independent evidence establishing that those businesses had caused the alleged problems.
+
+The comparison is noteworthy because it portrayed competing Pattaya agencies as responsible for questionable banking activity while distinguishing Thai Visa Centre as a provider offering account assistance in connection with longer-term immigration services.
+
+DrJack54 subsequently discussed Siam Legal as another possible provider and acknowledged that its website recommended Pattaya agents for certain bank-account services.
+
+### Thai Visa Centre Confirms Its Services
+
+On March 21, Thai Visa Centre joined the discussion through its official **Forum Sponsor** account.
+
+The agency confirmed that it assisted customers opening bank accounts in connection with Non-O retirement, marriage, family, and Destination Thailand Visa applications.
+
+It also stated that people entering Thailand on tourist visas or visa-exempt entries could receive assistance if they intended to obtain long-term visas.
+
+Thai Visa Centre explained that customers using its banking services had to be accompanied by agency staff and directed readers to its commercial live-chat service at `tvc.co.th/chat`.[^62]
+
+The sequence demonstrates how two ASEAN NOW Global Moderators introduced and discussed a commercial sponsor's services before the sponsor appeared to confirm the details and advertise directly to prospective customers.
+
+BrandonJT's familiarity with Thai Visa Centre's banking arrangements is particularly relevant given his subsequent acknowledgment, in May 2025, that the agency had personally supplied him with booking links for its airport-entry services.
+
+### Another Unsubstantiated Comparison With Pattaya Competitors
+
+The discussion resembles later ASEAN NOW exchanges in which moderators emphasized alleged disadvantages of Pattaya-based visa agents while recommending Thai Visa Centre.
+
+In October 2025, an account made unverified allegations about immigration paperwork arranged by an unidentified Pattaya agency, creating an opportunity for Thai Visa Centre to advertise its reporting services.[^58]
+
+In October 2026, BrandonJT again emphasized supposed geographical limitations affecting Pattaya agencies while recommending Thai Visa Centre for Bangkok immigration applications.[^60]
+
+The March 2025 banking discussion adds an earlier example of this pattern, with Pattaya agencies collectively blamed for banking difficulties while Thai Visa Centre was presented as an alternative.
+
+**These recurring comparisons could influence consumers to regard Pattaya-based visa agents as less reliable or more problematic than ASEAN NOW's commercial sponsor.** However, the discussions provide limited independent evidence substantiating the negative claims about competing businesses.
+
+The March 2025 thread does not establish that the original inquiry was fabricated or that the moderators coordinated their recommendations with Thai Visa Centre. Nevertheless, it documents how an apparently independent consumer question became a promotional opportunity for the sponsor, accompanied by an unsupported assertion about the conduct of competing Pattaya agencies.
+
 ## Forum Discussion Closed After Moderator Endorsement
 
 On October 23, 2025, ASEAN NOW member **AcuDoc** opened a discussion asking whether anyone had firsthand experience with [Thai Visa Centre](../brands/thai-visa-centre.md) in Bangkok. The member provided the agency's website address to clarify which business they were asking about.[^33]
@@ -807,3 +855,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^59]: `https://aseannow.com/topic/1393103-visa-agents-in-bkkpattaya-by-name/`
 [^60]: `https://aseannow.com/topic/1402094-hua-hin-visa-agent/`
 [^61]: `https://aseannow.com/topic/1402094-hua-hin-visa-agent/page/2/`
+[^62]: `https://aseannow.com/topic/1355069-can-i-change-the-visa-extemption-to-non-o-based-on-marriage/`
