@@ -210,13 +210,21 @@ The combination of favorable website assurances and direct commercial promotion 
 
 On May 24, 2025, ASEAN NOW Core Administrator **CharlieH** published a promotional discussion advertising [Agents Co., Ltd.](../companies/agents-co-ltd.md)'s commercial Thailand Digital Arrival Card (TDAC) submission service, including paid early applications.[^12]
 
-On July 9, Global Moderator [BrandonJT](../moderators/brandonjt.md) responded to a member concerned about personal-data security by claiming that information submitted through Thailand's official government TDAC website had a **"50% chance of being stolen by hackers"**, attributing the alleged risk to previous government data breaches.[^12]
+On May 26, an ASEAN NOW member reported receiving another traveler's passport information after submitting a TDAC application through Thailand's official government website. According to the member, the downloadable PDF contained a Chinese traveler's name, passport number, date of birth, and accommodation details, even though the member's confirmation email and online application records displayed the correct information.[^32]
 
-The account provided no supporting statistics or evidence for this extraordinary claim. On August 9, BrandonJT subsequently defended the commercial platform's optional $8 early-submission fee, arguing that travelers might prefer paying for convenience rather than using the government's free service.[^12]
+Global Moderator [BrandonJT](../moderators/brandonjt.md) responded by claiming that he had heard about similar problems from the company operating `tdac.agents.co.th`, stating:
+
+> They were getting this about 1 in 500 entries.[^32]
+
+BrandonJT reassured the member that the correct email confirmation should remain usable and attributed the problem to Thailand's government IT systems. However, he provided no independent evidence supporting the reported error rate or establishing how the commercial service obtained those figures.
+
+On July 9, BrandonJT responded to another member concerned about personal-data security by claiming that information submitted through Thailand's official government TDAC website had a **"50% chance of being stolen by hackers"**, attributing the alleged risk to previous government data breaches.[^12]
+
+The account provided no supporting statistics or evidence for this claim. On August 9, BrandonJT subsequently defended the commercial platform's optional $8 early-submission fee, arguing that travelers might prefer paying for convenience rather than using the government's free service.[^12]
 
 These statements contrast with the Thai Immigration Bureau's June 2025 public warning encouraging travelers to register exclusively through `tdac.immigration.go.th` to protect their personal information. The bureau emphasized that official TDAC registration was free and warned against unofficial websites requesting payments or personal information.[^13]
 
-The discussion documents an ASEAN NOW administrator promoting a commercial TDAC service while a Global Moderator made an unsupported allegation about the security of the official government alternative. It raises further questions about the reliability and independence of immigration advice published alongside commercial sponsorships.
+The exchanges document a Global Moderator repeatedly criticizing the security of Thailand's official TDAC system while defending a commercial alternative and citing information allegedly obtained from its operator. The reported PDF mix-up has not been independently verified, and neither the alleged error rate nor the claimed 50% hacking risk was substantiated.
 
 ## Formal Consumer Complaint to Singapore Authorities (2026)
 
@@ -261,3 +269,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^29]: https://asq.in.th/policy/terms-and-conditions
 [^30]: `https://aseannow.com/topic/1397370-guaranteed-entry-under-some-official-scrutiny/`
 [^31]: `https://aseannow.com/topic/1406166-are-safe-entry-service-still-available/`
+[^32]: `https://aseannow.com/topic/1358135-thailand-digital-arrival-card-tdac/page/10/`
