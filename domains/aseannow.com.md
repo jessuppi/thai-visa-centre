@@ -316,6 +316,40 @@ The sequence is significant: an ASEAN NOW contributor carrying a special immigra
 
 This illustrates how immigration warnings, apparently authoritative forum recommendations, and unverified customer testimonials can reinforce one another, potentially influencing readers to purchase commercial services whose necessity and claimed advantages are difficult to independently assess.
 
+## Tod Daniels Defends Paid Airport Entry Before Conceding It May Be Unnecessary
+
+In September 2025, ASEAN NOW member **NitJune** sought advice about returning to Thailand after an overstay dating back more than two decades. The poster expressed concerns about potentially being blacklisted and considered paying a commercial visa agency to check their immigration history before traveling.[^49]
+
+On September 6, [Tod Daniels](../people/tod-daniels.md), whose ASEAN NOW account carried the special **"Thai Visas Forum Expert"** designation, recommended Thai Visa Service, also known as SWD Transport, claiming the company could check the traveler's immigration records and determine whether entry assistance was necessary.
+
+During the same discussion, Global Moderator [BrandonJT](../moderators/brandonjt.md) confirmed that [Thai Visa Centre](../brands/thai-visa-centre.md) offered similar assistance. He directed the poster to `agents.co.th/tdac-apply`, explaining that the agency's paid airport-entry service could be purchased as an add-on during the TDAC application process.[^49]
+
+On September 10, NitJune claimed to have contacted Thai Visa Centre through LINE and described being told that the agency could arrange immigration-history checks involving officers at Bangkok's international airport. The poster also mentioned a separate quotation of approximately 10,000 baht for entry assistance.[^50]
+
+Other forum members challenged the necessity of paying an agent for an overstay dating back to 2000, pointing out that Thailand's modern overstay-related reentry bans had been introduced years later.
+
+Daniels rejected the criticism, insisting:
+
+> Safe entry does exactly what it says, it guarantees you get in[^50]
+
+However, in the same response, Daniels acknowledged that the poster probably did not need paid entry assistance. He nevertheless defended the expense as providing peace of mind.
+
+After another member accused him of unnecessarily alarming the traveler, Daniels reversed his position:
+
+> I stand corrected.[^50]
+
+He agreed that someone whose only issue was an overstay more than 20 years earlier should be able to return without purchasing airport-entry assistance.
+
+Despite this concession, Thai Visa Centre subsequently participated through its official **Forum Sponsor** account, advertising airport fast-track services costing **2,000–6,000 baht** for most cases. The agency directed the poster to its commercial TDAC application system and offered to waive the usual 270-baht early-submission fee when purchasing the additional service.[^51]
+
+The poster continued expressing interest in the agency's assistance, claiming that spending money for peace of mind was worthwhile. Thai Visa Centre also explained that customers could submit temporary flight information and modify their arrival details later.
+
+The exchange illustrates how immigration concerns can develop into extended commercial sales discussions on ASEAN NOW, even when other contributors question whether the advertised services are necessary.
+
+Particularly noteworthy is that Daniels initially defended paid airport-entry arrangements in categorical terms before acknowledging that the traveler probably did not need them. Nevertheless, Thai Visa Centre continued advertising its services within the same discussion.
+
+The sequence raises questions about whether ASEAN NOW's immigration-expert designations, moderator recommendations, and commercial sponsor participation encourage readers to purchase services that may offer little practical benefit in their particular circumstances.
+
 ## Moderator Claims About Immigration Payments and Temporary Bank Deposits
 
 On November 8, 2025, ASEAN NOW Global Moderator [BrandonJT](../moderators/brandonjt.md) described how some visa agents allegedly arrange retirement extensions for applicants who cannot meet Thailand's financial requirements.
@@ -502,3 +536,6 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^46]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/page/2/`
 [^47]: `https://asq.in.th/question/what-does-the-acquisition-of-the-thai-visa-advice-group-by-thai-visa-centre-mean-for-its-members-1`
 [^48]: `https://aseannow.com/topic/1378770-new-rules-issued-for-visa-extensions-and-visa-exempt-entries/page/15/`
+[^49]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/3/`
+[^50]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/4/`
+[^51]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/5/`
