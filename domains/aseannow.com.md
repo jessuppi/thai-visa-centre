@@ -438,37 +438,41 @@ The contrast raises questions about the completeness of immigration advice provi
 
 ## The Thaiger Publishes Tod Daniels' Airport-Entry Advice as Expert Guidance
 
-On June 22, 2024, approximately two months after acquiring ASEAN NOW, [The Thaiger](../brands/the-thaiger.md) published an article titled *I've Been Denied Entry to Thailand – Now What?* under the banner **"THE THAIGER / ASEAN NOW EXCLUSIVE."** The article carried a byline from George Anderssen, founder of the original ThaiVisa.com forum, and introduced [Tod Daniels](../people/tod-daniels.md) as a visa expert.[^52]
+On June 22, 2024, approximately two months after acquiring ASEAN NOW, [The Thaiger](../brands/the-thaiger.md) published *I've Been Denied Entry to Thailand – Now What?* under its **"THE THAIGER / ASEAN NOW EXCLUSIVE"** branding.
 
-The article reproduced Daniels' immigration advice from an ASEAN NOW discussion, presenting his recommendations as practical guidance for foreigners refused entry to Thailand.[^53]
+The article carried a byline from George Anderssen, founder of the original ThaiVisa.com forum, and presented [Tod Daniels](../people/tod-daniels.md) as a visa expert, reproducing his advice from an ASEAN NOW discussion.[^52][^53]
 
-Among his instructions, Daniels advised travelers facing refusal at Thai airports:
+Among his recommendations for travelers refused entry at Thai airports, Daniels instructed:
 
 > DO NOT SIGN the denial of entry forms[^52]
 
-He claimed that refusing to sign would prevent immigration officers from placing a denial-of-entry stamp in the traveler's passport, although the refusal would still appear in the government's immigration database.
+He claimed that refusing to sign would prevent immigration officers from placing a denial-of-entry stamp in the traveler's passport, although the refusal would remain recorded in the immigration database.
 
-Daniels also described paid arrangements through which foreigners refused entry at land borders could allegedly pay intermediaries to secure admission the following day. He claimed these arrangements worked and cited acquaintances who had successfully entered after paying.
+Daniels also described commercial arrangements through which travelers refused entry at land borders could allegedly pay intermediaries to secure admission the following day.
 
-For airport refusals, he similarly asserted that travelers could arrange commercial "safe entry" assistance and return through the same airport the following day, even after immigration officers had already denied them entry.[^52]
+He similarly claimed that travelers refused entry at airports could purchase **"safe entry" assistance** and return through the same airport the next day, citing anecdotal successes rather than official authorization.[^52]
 
-These recommendations were published under The Thaiger's editorial branding rather than appearing solely as informal advice exchanged between forum members.
+**These claims appeared under The Thaiger's editorial branding, giving informal forum advice the appearance of published expert guidance.**
 
 ### Forum Member Contradicts the Published Advice
 
-On June 25, 2024, ASEAN NOW member **anotherfarangishere** challenged Daniels' categorical claim about refusal stamps, describing their own experience of being refused entry at Don Mueang Airport:
+On June 25, 2024, ASEAN NOW member **anotherfarangishere** challenged Daniels' claim about refusal stamps, describing an experience at Don Mueang Airport:
 
 > I didn't sign it and still got a huge stamp on the last page of my passport.[^54]
 
-Daniels initially responded by assuming the incident had occurred at a land border, suggesting that such refusals were handled differently.
+Daniels initially assumed the refusal had occurred at a land border, suggesting different procedures applied.
 
-Another member pointed out that the poster had already identified Don Mueang as the location. The original poster subsequently confirmed that the incident occurred at the airport, directly contradicting Daniels' explanation.[^54]
+Another participant pointed out that the poster had already identified Don Mueang Airport. The original poster confirmed the location, directly challenging Daniels' explanation.[^54]
 
-The exchange is noteworthy because The Thaiger had presented Daniels' advice as expert immigration guidance, including a specific instruction that a reader's reported experience demonstrated was not universally reliable.
+Although one traveler's account cannot establish how every immigration refusal is handled, it undermines Daniels' categorical assertion that refusing to sign prevents a passport stamp.
 
-The same article also promoted confidence in paid intermediaries purportedly capable of securing admission following an official immigration refusal, without providing independent evidence that these arrangements were authorized or consistently effective.
+### Questions About Published Expert Guidance
 
-The incident illustrates how ASEAN NOW's special **"Thai Visas Forum Expert"** designation and The Thaiger's editorial platform could amplify an individual contributor's immigration claims, giving potentially unreliable advice the appearance of authoritative guidance while encouraging confidence in commercial airport-entry services.
+The contradiction is significant because **The Thaiger had presented Daniels' advice as authoritative immigration guidance rather than an unverified forum opinion**.
+
+The article also promoted confidence in commercial intermediaries allegedly capable of arranging entry after an official immigration refusal, without independently establishing that such services were authorized or consistently effective.
+
+The episode illustrates how ASEAN NOW's **"Thai Visas Forum Expert"** designation and The Thaiger's editorial platform could amplify potentially unreliable immigration claims while encouraging confidence in paid airport-entry arrangements.
 
 ## ASEAN NOW Moderators Push Paid Airport Entry Instead of an Official Tourist Visa
 
