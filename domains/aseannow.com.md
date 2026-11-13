@@ -116,6 +116,26 @@ On April 22, 2026, BrandonJT recommended Thai Visa Centre's `90day.in.th` immigr
 
 These exchanges document moderators actively recommending a commercial sponsor, directly inviting the agency into discussions, and providing prospective customers with information about its paid services. The available evidence does not establish whether these recommendations were independently motivated, coordinated, or compensated, or whether the advertised airport arrangements operated as described.
 
+## Moderator Claims About Immigration Payments and Temporary Bank Deposits
+
+On November 8, 2025, ASEAN NOW Global Moderator [BrandonJT](../moderators/brandonjt.md) described how some visa agents allegedly arrange retirement extensions for applicants who cannot meet Thailand's financial requirements.
+
+According to BrandonJT, agents accompany customers to a bank, temporarily deposit 800,000 baht into their accounts, obtain bank letters and updated passbooks, and subsequently withdraw the money. He further alleged:
+
+> Part of the fee you pay the agent is passed on to the immigration office[^23]
+
+He claimed these payments enabled applicants to obtain extensions despite failing to maintain the required bank balance. Fellow Global Moderator [DrJack54](../moderators/drjack54.md) subsequently acknowledged BrandonJT's explanation of how agents covered financial requirements.
+
+On October 1, 2026, BrandonJT again described temporary agent-funded deposits, explaining that customers returned the 800,000 baht after the necessary bank documents were obtained. When another participant questioned how this arrangement satisfied the mandatory deposit-holding periods, BrandonJT claimed:
+
+> Senior immigration officers can waive this requirement.[^24]
+
+Thailand's published immigration guidance generally requires applicants using the bank-deposit method to maintain 800,000 baht for two months before applying and three months after approval, followed by a minimum balance of 400,000 baht during the remaining period.[^25]
+
+These exchanges document a Global Moderator publicly describing arrangements that appear inconsistent with published immigration requirements, including an explicit allegation that visa-agent fees are passed to immigration offices. However, the statements provide no independent evidence establishing that such payments occurred or that immigration officers exercised the claimed authority.
+
+Although BrandonJT has repeatedly recommended [Thai Visa Centre](../brands/thai-visa-centre.md) elsewhere on ASEAN NOW, neither discussion identifies the agency as participating in the alleged payments or temporary-deposit arrangements.
+
 ## Claims of Guaranteed Airport Entry Services
 
 On July 23, 2025, ASEAN NOW Global Moderator [BrandonJT](../moderators/brandonjt.md) publicly described paid airport "safe entry" services as **"100% reliable"**, claiming that agents could arrange guaranteed admission to Thailand through contacts with immigration officers.[^10]
@@ -186,3 +206,6 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^20]: `https://aseannow.com/topic/1394428-looking-for-a-retirement-visa-vis-agent/`
 [^21]: `https://aseannow.com/topic/1336926-setv-metv-still-around-now-that-visa-exempts-are-now-60-days/`
 [^22]: `https://aseannow.com/topic/1336926-setv-metv-still-around-now-that-visa-exempts-are-now-60-days/page/2/`
+[^23]: `https://aseannow.com/topic/1377086-easiest-initial-visa-to-then-convert-to-non-imm-o/page/2/`
+[^24]: `https://aseannow.com/topic/1406324-using-an-agent-for-annual-retirement-extension/`
+[^25]: https://www.thailand.go.th/guide-book-detail/001_01_134
