@@ -382,7 +382,7 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^26]: `https://aseannow.com/topic/1402687-passport-need/`
 [^27]: https://tak.immigration.go.th/wp-content/uploads/2025/03/08-List-of-Public-Handbook-English.pdf
 [^28]: `https://aseannow.com/topic/1359952-visa-run-to-laos-always-fine-no-problem-with-tdac/page/2/`
-[^29]: https://asq.in.th/policy/terms-and-conditions
+[^29]: `https://asq.in.th/policy/terms-and-conditions`
 [^30]: `https://aseannow.com/topic/1397370-guaranteed-entry-under-some-official-scrutiny/`
 [^31]: `https://aseannow.com/topic/1406166-are-safe-entry-service-still-available/`
 [^32]: `https://aseannow.com/topic/1358135-thailand-digital-arrival-card-tdac/page/10/`
