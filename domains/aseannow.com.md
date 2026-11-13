@@ -412,6 +412,38 @@ Particularly noteworthy is that Daniels initially defended paid airport-entry ar
 
 The sequence raises questions about whether ASEAN NOW's immigration-expert designations, moderator recommendations, and commercial sponsor participation encourage readers to purchase services that may offer little practical benefit in their particular circumstances.
 
+## BrandonJT Claims Immigration Officers Can Waive Retirement Visa Financial Requirements
+
+On May 13, 2026, an ASEAN NOW account named **BillyBobzTeeth** opened a discussion claiming to lack the required 800,000-baht bank balance for a retirement extension and expressing interest in using [Thai Visa Centre](../brands/thai-visa-centre.md).[^20]
+
+Global Moderator [DrJack54](../moderators/drjack54.md) promptly recommended contacting Thai Visa Centre directly, tagging the agency's forum account and mentioning an estimated extension fee of 16,000 baht.
+
+Thai Visa Centre subsequently participated through its official **Forum Sponsor** account, advertising annual retirement extensions for approximately 16,000 baht and mentioning a previous 14,000-baht promotion.
+
+The exchange created an opportunity for the commercial sponsor to advertise services to applicants who might not satisfy Thailand's financial requirements. The independence of the original account and the circumstances behind the discussion were not established.
+
+Other participants questioned whether the advertised services could accommodate applicants who lacked the necessary funds.
+
+On May 17, an account named **JimGant** challenged the distinction between legitimate administrative assistance and obtaining immigration approval without satisfying the financial requirements. DrJack54 acknowledged that some people used agents specifically to avoid those requirements but repeatedly discouraged further discussion of legality.
+
+Fellow Global Moderator [BrandonJT](../moderators/brandonjt.md) then intervened, asserting that Thai immigration officers possessed:
+
+> full discretion and leeway[^20]
+
+According to BrandonJT, officers could determine that an applicant qualified for an extension even without the normally required financial evidence. He claimed that officers possessed the authority to approve such applications.
+
+Another participant, **JerryM**, challenged this interpretation, arguing that the governing Royal Thai Police order did not grant immigration officers unlimited discretion to disregard eligibility requirements.
+
+Thailand's published government guidance specifies that retirement-extension applicants relying on bank deposits must maintain at least 800,000 baht for two months before applying and three months after approval, followed by a minimum balance of 400,000 baht during the remaining period.[^25]
+
+BrandonJT did not identify a specific legal provision authorizing the broad exemption he described.
+
+The sequence is noteworthy: an account introduced a scenario involving insufficient retirement funds, a Global Moderator recommended Thai Visa Centre, the agency advertised its services, and another Global Moderator defended an expansive interpretation of immigration officers' authority while questions about legality were discouraged.
+
+Rather than treating the thread as an independent consumer inquiry, its structure warrants scrutiny as a potentially promotional discussion in which moderator interventions helped legitimize the commercial services being advertised.
+
+The exchange does not establish that participating accounts were coordinated or acting on behalf of Thai Visa Centre. Nevertheless, it demonstrates how ASEAN NOW's moderation practices and commercial sponsorship arrangements could influence readers' perceptions of services that appear inconsistent with published immigration requirements.
+
 ## Moderator Claims About Immigration Payments and Temporary Bank Deposits
 
 On November 8, 2025, ASEAN NOW Global Moderator [BrandonJT](../moderators/brandonjt.md) described how some visa agents allegedly arrange retirement extensions for applicants who cannot meet Thailand's financial requirements.
