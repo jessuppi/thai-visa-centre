@@ -112,6 +112,16 @@ These statements contrast with the Thai Immigration Bureau's June 2025 public wa
 
 The discussion documents an ASEAN NOW administrator promoting a commercial TDAC service while a Global Moderator made an unsupported allegation about the security of the official government alternative. It raises further questions about the reliability and independence of immigration advice published alongside commercial sponsorships.
 
+## Formal Consumer Complaint to Singapore Authorities (2026)
+
+In November 2026, **Jesse Nickles** reported submitting a formal complaint to the Competition and Consumer Commission of Singapore (CCCS) concerning [The Thaiger](../brands/the-thaiger.md), ASEAN NOW, and their commercial relationship with [Thai Visa Centre](../brands/thai-visa-centre.md). The complaint was subsequently made publicly available.[^16]
+
+The complaint alleged that ASEAN NOW's sponsorship arrangements and moderation practices could mislead consumers seeking independent immigration advice. It cited the suppression of criticism concerning commercial sponsors, favorable recommendations by forum moderators, and the promotion of unofficial Thailand Digital Arrival Card (TDAC) services.
+
+Nickles requested regulatory scrutiny of these practices, raising concerns about whether commercial sponsorship was being adequately distinguished from independent forum discussions and consumer recommendations.
+
+The complaint represents a formal escalation of the concerns documented in this article. Its allegations remain disputed or unverified, and no regulatory findings or enforcement decision have been established from the available information.
+
 ## References
 
 [^1]: `https://aseannow.com/forum_rules/`
@@ -129,3 +139,4 @@ The discussion documents an ASEAN NOW administrator promoting a commercial TDAC 
 [^13]: https://cgchicago.thaiembassy.org/en/content/press-release-the-immigration-bureau-would-like-t?menu=62134944bb835d1888475343
 [^14]: `https://aseannow.com/topic/1193131-first-time-retirement-visa-use-thai-visa-centre-agent-or-a-legal-firm-in-bangkok/`
 [^15]: `https://aseannow.com/topic/1249268-agent-recommendations-in-bangkok/`
+[^16]: https://www.scribd.com/document/1095353640/Thai-Visa-Centre-Thaiger-ASEAN-NOW-Consumer-Complaint
