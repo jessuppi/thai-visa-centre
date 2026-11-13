@@ -14,6 +14,16 @@ On November 5, 2025, ASEAN NOW administrator **Captain Flack** publicly confirme
 
 The discussion also featured favorable recommendations from forum moderators and promotional replies from Thai Visa Centre's official sponsor account. The incident raises questions about whether ASEAN NOW's commercial sponsorship arrangements compromise the independence of discussions concerning immigration services. The removed comment is no longer publicly visible, preventing independent assessment of its contents.
 
+## Censorship of Visa-Agent Legality Discussions
+
+On December 4, 2025, an ASEAN NOW member published a positive testimonial about [Thai Visa Centre](../brands/thai-visa-centre.md), praising the agency's handling of a retirement extension. When other members questioned the financial arrangements involved, Global Moderator [DrJack54](../moderators/drjack54.md) intervened, announcing:
+
+> Posts re legality or otherwise of agents removed.[^6]
+
+The original poster challenged the moderation decision, noting that he was sharing firsthand experience with a forum sponsor. The following day, he disclosed that his retirement extension had been issued through **Chai Nat province despite residing in Bangkok**, and confirmed that the agency offered financial assistance.
+
+The incident documents the removal of discussion about the legality of visa-agent arrangements while favorable testimonials remained published. Although the deleted posts cannot be independently reviewed, the moderator's own statement confirms that questions concerning legality were among the subjects removed.
+
 ## Moderator Accounts Promoting Thai Visa Centre
 
 The ASEAN NOW account [BrandonJT](../moderators/brandonjt.md), designated as a Global Moderator, has repeatedly promoted services offered by forum sponsor [Thai Visa Centre](../brands/thai-visa-centre.md), including airport entry assistance, visa extensions, and immigration reporting.
@@ -43,3 +53,4 @@ The combination of favorable website assurances and direct commercial promotion 
 [^3]: `https://aseannow.com/topic/1359107-almost-refused-entry-at-chiang-mai-airport-be-warned-2nd-visa-exemption/page/8/`
 [^4]: `https://aseannow.com/topic/1392852-unable-to-login-for-online-90-days-reporting/`
 [^5]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
+[^6]: `https://aseannow.com/topic/1380748-thai-visa-centre-bangna-grace/`
