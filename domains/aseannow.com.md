@@ -16,5 +16,5 @@ The discussion also featured favorable recommendations from forum moderators and
 
 ## References
 
-[^1]: https://aseannow.com/forum_rules/
-[^2]: https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/
+[^1]: `https://aseannow.com/forum_rules/`
+[^2]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/`
