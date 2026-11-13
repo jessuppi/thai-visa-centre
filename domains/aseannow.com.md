@@ -16,6 +16,18 @@ Tanoshi stated that they had never contacted Thai Visa Centre or requested infor
 
 The discussion documents early public concerns about the agency's advertised financial arrangements and unsolicited marketing, years before the forum's later sponsorship and moderation controversies. The authenticity of the reproduced email and the legality of the described services were not independently established.
 
+## Thai Visa Centre's Response to the 2020 Police Raid
+
+On August 12, 2020, ThaiVisa.com members reported receiving promotional emails from [Thai Visa Centre](../brands/thai-visa-centre.md), just eight days after Thai immigration police publicly announced arrests connected to an alleged visa-forgery operation involving the agency. Police reported discovering forged documents and 55 government-agency rubber stamps during the investigation.[^8][^9]
+
+One forum member reproduced an email dated August 10, attributed to Grace at Thai Visa Centre, reassuring customers that the agency remained operational. The message claimed:
+
+> Immigration has already verified that we are a legitimate visa agent, which is why we are still open.[^8]
+
+Forum participants questioned this assurance, noting the recent police allegations and asking whether the investigation had actually been resolved. Others raised concerns about unsolicited marketing emails and conflicting statements concerning Grace's continued involvement with the agency.
+
+The discussion documents Thai Visa Centre's efforts to reassure potential customers and continue advertising its services immediately following the arrests. However, the reproduced email provided no independent evidence that Thai immigration authorities had formally cleared the agency of wrongdoing, and the discussion did not establish the eventual outcome of the investigation.
+
 ## Sponsorship and Censorship of Criticism
 
 ASEAN NOW's published forum rules provide special protections for commercial sponsors. **Rule 37** states:
@@ -69,3 +81,5 @@ The combination of favorable website assurances and direct commercial promotion 
 [^5]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
 [^6]: `https://aseannow.com/topic/1380748-thai-visa-centre-bangna-grace/`
 [^7]: `https://aseannow.com/topic/1048018-retirement-visa-agency/`
+[^8]: `https://aseannow.com/topic/1177344-grace-thai-visa-centre-back/`
+[^9]: https://www.nationthailand.com/news/30392449
