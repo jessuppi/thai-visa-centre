@@ -58,13 +58,25 @@ The discussion also featured favorable recommendations from forum moderators and
 
 ## Censorship of Visa-Agent Legality Discussions
 
-On December 4, 2025, an ASEAN NOW member published a positive testimonial about [Thai Visa Centre](../brands/thai-visa-centre.md), praising the agency's handling of a retirement extension. When other members questioned the financial arrangements involved, Global Moderator [DrJack54](../moderators/drjack54.md) intervened, announcing:
+On September 4, 2025, ASEAN NOW Global Moderator [DrJack54](../moderators/drjack54.md) announced the removal of posts questioning the legality of visa-agent arrangements during a discussion about obtaining retirement extensions without meeting the usual 800,000-baht bank deposit requirement:
+
+> Off topic posts regarding legality or otherwise of agents removed along with reply. Off topic[^18]
+
+During the same discussion, DrJack54 recommended [Thai Visa Centre](../brands/thai-visa-centre.md). On September 5, the agency's official **Forum Sponsor** account advertised retirement visa packages costing 60,000 baht for bank-account opening, a Non-O visa, and an annual extension, or 37,000 baht without bank-account opening. The agency also advertised expedited processing and invited customers to contact it directly.[^19]
+
+On December 4, 2025, another member published a positive testimonial about Thai Visa Centre, praising the agency's handling of a retirement extension. When other members questioned the financial arrangements involved, DrJack54 again intervened:
 
 > Posts re legality or otherwise of agents removed.[^6]
 
 The original poster challenged the moderation decision, noting that he was sharing firsthand experience with a forum sponsor. The following day, he disclosed that his retirement extension had been issued through **Chai Nat province despite residing in Bangkok**, and confirmed that the agency offered financial assistance.
 
-The incident documents the removal of discussion about the legality of visa-agent arrangements while favorable testimonials remained published. Although the deleted posts cannot be independently reviewed, the moderator's own statement confirms that questions concerning legality were among the subjects removed.
+The pattern continued in May 2026, when another member sought Thai Visa Centre's assistance because he lacked the required 800,000-baht bank balance. DrJack54 referred him to the agency, whose sponsor account subsequently advertised annual extensions starting at approximately 16,000 baht. When participants questioned the legality of obtaining extensions without meeting the financial requirements, DrJack54 stated:
+
+> Thread is not about legality or otherwise of use of agent.[^20]
+
+He also confirmed removing off-topic posts and repeatedly discouraged further debate about the legality of such arrangements.
+
+These incidents document repeated restrictions on discussions about visa-agent legality while favorable testimonials, commercial recommendations, and Thai Visa Centre's advertisements remained published. Although the deleted posts cannot be independently reviewed, the moderator's own statements confirm that questions concerning legality were among the subjects removed.
 
 ## Public Complaints on Trustpilot
 
@@ -159,3 +171,6 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^15]: `https://aseannow.com/topic/1249268-agent-recommendations-in-bangkok/`
 [^16]: https://www.scribd.com/document/1095353640/Thai-Visa-Centre-Thaiger-ASEAN-NOW-Consumer-Complaint
 [^17]: https://www.trustpilot.com/review/aseannow.com
+[^18]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/`
+[^19]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/2/`
+[^20]: `https://aseannow.com/topic/1394428-looking-for-a-retirement-visa-vis-agent/`
