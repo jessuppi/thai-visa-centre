@@ -526,31 +526,47 @@ Nevertheless, the combination of unsupported refusal statistics, repeated promot
 
 ## Tod Daniels Endorses Thai Visa Centre While Moderating Its Facebook Group
 
-On November 10, 2025, an ASEAN NOW discussion about [Thai Visa Centre](../brands/thai-visa-centre.md) turned to how visa agents arrange retirement extensions for applicants who lack the required 800,000-baht bank balance.[^46]
+On November 10, 2025, an ASEAN NOW discussion about [Thai Visa Centre](../brands/thai-visa-centre.md) turned to how visa agents arrange retirement extensions for applicants lacking the required 800,000-baht bank balance.[^46]
 
-Global Moderator [DrJack54](../moderators/drjack54.md) claimed that agents temporarily deposit 800,000 baht into applicants' bank accounts, obtain bank letters confirming the required balance, and immediately withdraw the funds afterward.
+Global Moderator [DrJack54](../moderators/drjack54.md) claimed that agents temporarily deposited the required money into applicants' accounts, obtained bank confirmation letters, and immediately withdrew the funds afterward.
 
-DrJack54 subsequently announced that several posts had been removed for trolling. Another forum member, **zzzzz**, challenged his sweeping description of agent practices, claiming that their personal experience with multiple agents contradicted it.
+Another member, **zzzzz**, challenged this characterization, stating that their experience with multiple visa agents contradicted it. DrJack54 subsequently announced that several posts had been removed for trolling.
 
-On November 11, [Tod Daniels](../people/tod-daniels.md) joined the discussion and enthusiastically endorsed Thai Visa Centre. **His ASEAN NOW account carried the special designation "Thai Visas Forum Expert," presenting him to readers as a knowledgeable authority on Thai immigration matters.** This designation gave his recommendations additional apparent credibility, particularly for readers unfamiliar with Thailand's visa system.[^46]
+### Immigration Expert Endorses Agency He Helps Moderate
 
-Daniels described Thai Visa Centre as Thailand's best-marketed and best-managed visa agency, praising its nationwide services, pricing, reliability, and customer support.
+On November 11, [Tod Daniels](../people/tod-daniels.md), whose ASEAN NOW account carried the special **"Thai Visas Forum Expert"** designation, enthusiastically endorsed Thai Visa Centre.
 
-He attributed his recommendation to feedback from people who claimed to have used the agency. He also included a disclaimer denying personal affiliation while acknowledging:
+He praised the agency's nationwide services, pricing, reliability, and customer support, describing it as Thailand's best-marketed and best-managed visa agency.[^46]
+
+Daniels attributed his favorable assessment to feedback from agency customers and denied having a personal affiliation with the business.
+
+However, he acknowledged:
 
 > True, they own the fb group I mod[^46]
 
-This relationship dated back to at least March 17, 2022, when Daniels publicly announced that Thai Visa Centre had acquired the **Thai Visa Advice** Facebook group. He confirmed that he was already an administrator and expected to remain part of its moderation team.[^47]
+The relationship was not new.
 
-The acquisition announcement attracted concerns from Facebook group members about whether an independent immigration-advice community would become a commercial promotional channel. Some questioned whether recommendations would remain impartial once the group was owned by a visa agency.[^47]
+On March 17, 2022, Daniels had publicly announced Thai Visa Centre's acquisition of the **Thai Visa Advice** Facebook group, confirming that he was already an administrator and expected to remain on its moderation team.[^47]
 
-Returning to the November 2025 ASEAN NOW discussion, other participants continued questioning how visa agents handled financial requirements. One member declined to discuss specific banking arrangements publicly and recommended asking the agency directly.
+The acquisition prompted concerns from group members about whether a previously independent immigration-advice community would become a commercial promotional channel.
 
-DrJack54 agreed and subsequently closed the discussion, declaring that the original poster's question had been answered.[^46]
+**Daniels' acknowledgment therefore established a direct moderation relationship with a community owned by the same visa agency he was recommending.**
 
-**The combination of Daniels' special "Thai Visas Forum Expert" designation, his enthusiastic endorsement, and his moderation role in a Facebook group owned by Thai Visa Centre is particularly significant.** Readers seeking immigration advice could reasonably interpret his recommendations as independent expert guidance rather than promotion from someone involved in managing a community owned by the recommended business.
+### Questions About Independence and Moderation
 
-The exchange also places that endorsement alongside a Global Moderator's descriptions of temporary bank deposits, removal of forum comments, and eventual closure of the discussion. Together, these circumstances raise questions about how ASEAN NOW's expert designations, moderator authority, and commercial sponsorship arrangements may influence consumers seeking visa and immigration services.
+Returning to the November 2025 discussion, participants continued questioning how agents handled immigration financial requirements.
+
+One member declined to discuss particular banking arrangements publicly and recommended contacting the agency directly.
+
+DrJack54 agreed and subsequently closed the discussion, stating that the original question had been answered.[^46]
+
+The combination of Daniels' **special immigration-expert designation**, enthusiastic commercial endorsement, and acknowledged role moderating an agency-owned Facebook group raises questions about the independence of his recommendations.
+
+His disclosed moderation role does not establish that he received payment from Thai Visa Centre or coordinated promotional activity with the company.
+
+Nevertheless, readers could reasonably interpret his advice as independent expert guidance without appreciating his involvement in managing a community owned by the recommended business.
+
+The surrounding discussion also illustrates how claims about questionable immigration financial arrangements, removal of critical posts, and moderator authority intersected with favorable promotion of ASEAN NOW's commercial sponsor.
 
 ## Tod Daniels Recommends Paid Airport Entry Before Reported 4,500-Baht Purchase
 
