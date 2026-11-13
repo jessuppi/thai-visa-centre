@@ -68,15 +68,21 @@ The incident documents the removal of discussion about the legality of visa-agen
 
 ## Public Complaints on Trustpilot
 
-As of November 2026, ASEAN NOW's Trustpilot profile displayed a **2.2 out of 5 TrustScore**, based on nine reviews, eight of which awarded one star. Several reviewers complained about censorship, forum bans, commercial advertising, and the reliability of published content.[^17]
+As of November 2026, ASEAN NOW's Trustpilot profile displayed a **2.2 out of 5 TrustScore**, based on nine reviews, eight of which awarded one star. Reviewers raised complaints about censorship, forum bans, allegedly fake accounts, commercial advertising, and the reliability of published content.[^17]
 
 On November 6, 2025, a reviewer identified as **Clive** reported being banned without warning after several years of participation. According to the review, the ban followed a question asking how forum sponsor [Thai Visa Centre](../brands/thai-visa-centre.md) obtained people's email addresses. The reviewer claimed that moderators treated the question as a negative attack against a sponsor.
 
 The complaint appeared one day after ASEAN NOW administrator Captain Flack publicly acknowledged removing criticism of Thai Visa Centre under Rule 37. Although the timing and subject matter closely correspond, the available evidence does not establish whether the Trustpilot reviewer was involved in that particular forum incident.
 
-Other reviews described similar dissatisfaction with moderation. In July 2025, a reviewer using the name **spud** alleged that a temporary ban referencing a four-year-old post became permanent after requesting an explanation. Earlier reviews from May 2024 and October 2025 also criticized censorship and heavy-handed moderation.
+Other reviews described similar dissatisfaction with moderation. In August 2025, a reviewer using the name **spud** alleged that a temporary ban referencing a four-year-old post became permanent after requesting an explanation. The reviewer also accused moderators of censoring private messages and criticized the forum's extensive advertising, sponsored articles, and advertorial-style content. Reviews published in May 2024 and October 2025 likewise complained about censorship and heavy-handed moderation.
 
-These reviews provide additional public accounts of dissatisfaction with ASEAN NOW's moderation practices, including complaints specifically involving commercial sponsors. However, Trustpilot reviews are individual submissions whose allegations have not been independently verified. The small number of reviews also limits their usefulness as a measure of overall member satisfaction.
+On March 29, 2025, a reviewer identified as **Robbie** described ASEAN NOW as being populated by fake accounts, raising concerns about the authenticity of forum participation. The review did not identify specific accounts or provide evidence establishing coordinated activity.
+
+On November 27, 2025, another reviewer, **Kristian**, alleged that ASEAN NOW relied on scraped and AI-generated material taken from other media outlets, alongside internally produced promotional articles. The reviewer argued that this approach resulted in incomplete or inaccurate reporting and blurred the distinction between journalism and advertising.
+
+A February 2026 review by **Hon** separately alleged plagiarism and manipulated forum discussions, reinforcing earlier complaints about the authenticity and reliability of the website's content.
+
+Taken together, these reviews document recurring public dissatisfaction with ASEAN NOW's moderation, advertising practices, editorial quality, and forum authenticity. Some allegations overlap with the sponsor-related moderation incidents independently documented in this article. However, claims concerning fake accounts, plagiarism, manipulated discussions, and AI-generated content remain unverified. The small number of Trustpilot reviews also limits their usefulness as a measure of overall member satisfaction.
 
 ## Moderator Accounts Promoting Thai Visa Centre
 
