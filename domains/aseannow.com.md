@@ -166,6 +166,24 @@ On June 23, 2026, Thailand's Immigration Division 2 announced an investigation i
 
 The investigation concerned alleged broker activities and did not publicly identify Thai Visa Centre or BrandonJT as subjects. Nevertheless, the forum's earlier promotion of purportedly guaranteed entry services is noteworthy given the subsequent official scrutiny of similar arrangements. The claims about cooperation with immigration officers remain unverified.
 
+## Passport Data Collection and Airport Screening Claims
+
+On May 7, 2025, ASEAN NOW Global Moderator [BrandonJT](../moderators/brandonjt.md) recommended [Thai Visa Centre](../brands/thai-visa-centre.md)'s airport "safe entry" service, directing a forum member to `asq.in.th/thailand-fasttrack`.[^28]
+
+The member questioned the unfamiliar website, noting that it requested an upload of their passport information page without first providing a clear explanation of the service. They also asked whether the website actually belonged to Thai Visa Centre.
+
+Rather than addressing the passport-data concerns, fellow Global Moderator [DrJack54](../moderators/drjack54.md) reproduced a Facebook testimonial from a traveler claiming to have been admitted into Thailand in approximately **20 seconds after using the airport entry service**, despite a history of numerous visa-exempt entries. DrJack54 then encouraged the member to contact the agent directly. The testimonial was not independently verified.[^28]
+
+BrandonJT subsequently explained that the passport information was necessary because the agency needed to check the traveler's immigration history with contacts at the airport. According to the account, those contacts would identify potential problems affecting the price of the service.[^28]
+
+The published terms and conditions for `asq.in.th`, dated July 16, 2024, identify [Agents Co., Ltd.](../companies/agents-co-ltd.md) as the contracting company. The terms also list `contact@aq.in.th` as the contact address.[^29]
+
+On May 9, Thai Visa Centre's official **Forum Sponsor** account joined the same discussion and promoted `tdac.agents.co.th` as an alternative way to order its services, including optional paid early TDAC submissions.[^28]
+
+The exchange raises questions about the transparency of commercial airport-entry services promoted by ASEAN NOW moderators, particularly the collection of sensitive passport information and claims of access to immigration records through airport contacts.
+
+However, the forum discussion does not independently establish whether such airport screening arrangements existed, how submitted passport information was handled, or whether any customer data was improperly accessed or disclosed.
+
 ## Forum Promotion of Unofficial TDAC Websites
 
 In May 2025, ASEAN NOW published a discussion warning travelers about unofficial Thailand Digital Arrival Card (TDAC) websites charging fees for a government service that was available free of charge. However, an **“Admin note”** added to the opening post explicitly described `tdac.in.th` and `tdac.agents.co.th` as:
@@ -229,3 +247,5 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^25]: https://www.thailand.go.th/guide-book-detail/001_01_134
 [^26]: `https://aseannow.com/topic/1402687-passport-need/`
 [^27]: https://tak.immigration.go.th/wp-content/uploads/2025/03/08-List-of-Public-Handbook-English.pdf
+[^28]: `https://aseannow.com/topic/1359952-visa-run-to-laos-always-fine-no-problem-with-tdac/page/2/`
+[^29]: https://asq.in.th/policy/terms-and-conditions
