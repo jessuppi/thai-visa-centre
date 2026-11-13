@@ -528,6 +528,46 @@ Thai Visa Centre participated through its official **Forum Sponsor** account, st
 
 The discussion documents concerns raised by a forum member claiming firsthand experience with Thai Visa Centre, alongside conflicting accounts of the agency's services and fees. Neither the poster's claimed customer relationship nor the independence of other participating accounts was established. No evidence was presented demonstrating that the visa stamps were forged or improperly obtained.
 
+## Thai Visa Centre Promoted After Allegations Against Pattaya Visa Agent
+
+On October 27, 2025, an ASEAN NOW account named **PointCleaner** opened a discussion claiming to have obtained a retirement extension through a visa agent in Pattaya despite living near Bangkok.[^58]
+
+The account alleged that previous 90-day immigration reports had been processed successfully, but problems emerged after renewing the passport. According to the poster, their local immigration office directed them to Chonburi province and suggested that the existing visa extension might not be valid.
+
+The allegations portrayed the unidentified Pattaya agent as having potentially arranged questionable immigration paperwork. However, the original account's claimed experience was not independently verified, and no documentation establishing that the extension was invalid was presented.
+
+PointCleaner subsequently asked whether an agency near Bangkok could help resolve the situation.
+
+Global Moderator [DrJack54](../moderators/drjack54.md) responded by tagging [Thai Visa Centre](../brands/thai-visa-centre.md), introducing the forum's commercial sponsor as a possible alternative. He also suggested that the original Pattaya agent had probably arranged immigration stamps through Jomtien Immigration rather than the office responsible for the applicant's actual residence.[^58]
+
+On October 29, Thai Visa Centre joined the discussion through its official **Forum Sponsor** account. Rather than establishing whether the alleged problems with the original visa extension were genuine, the agency advertised its paid 90-day reporting service:
+
+> Our in-person 90-day reporting service is available for as little as 375 THB[^58]
+
+The agency directed readers to `90day.in.th`, promoting online applications, downloadable confirmation documents, tracking facilities, and EMS delivery.
+
+The sequence raises an obvious question about the discussion's independence. An account introduced an alarming story about a supposedly problematic Pattaya visa agent, a Global Moderator directed the conversation toward Thai Visa Centre, and the commercial sponsor subsequently advertised its own services.
+
+**This structure is consistent with a possible astroturfing or competitor-disparagement scenario**, in which an apparently independent consumer complaint creates negative perceptions of competing visa agencies while generating favorable exposure for a sponsoring business.
+
+The original Pattaya agency was not identified by name. Nevertheless, the discussion could influence readers to view Pattaya-based visa agents more broadly as unreliable or potentially involved in improper immigration arrangements, while presenting Thai Visa Centre as an alternative.
+
+Other participants challenged the circumstances described in the thread. An account named **proton** criticized questionable visa-agent arrangements and argued that the applicant should resolve the problem through official immigration procedures, including passport transfers, address registration, and subsequent online reporting.
+
+[Tod Daniels](../people/tod-daniels.md), whose ASEAN NOW account carried the special **"Thai Visas Forum Expert"** designation, also participated.
+
+Daniels explained that extensions issued through Pattaya could create complications when applicants subsequently dealt with immigration offices elsewhere. He recommended contacting the original agent, transferring the appropriate immigration stamps, updating the TM30 address registration, and completing an initial 90-day report in person before returning to online reporting.[^58]
+
+He also discussed alternative Bangkok-based visa agencies, noting that arranging extensions through Bangkok's Chaeng Watthana Immigration office was generally more expensive than using agents operating through Pattaya.
+
+On November 2, DrJack54 announced that an off-topic post had been removed. The deleted content cannot be independently reviewed.
+
+The discussion is particularly noteworthy because its original allegations were never substantiated, yet they provided the context for a commercial sponsor to promote services to readers concerned about the reliability of competing agencies.
+
+If the thread was organically initiated, it illustrates the practical complications that can arise from out-of-province immigration processing. **If it was deliberately seeded, it would represent a potentially misleading form of advertising: using an unverified complaint about a Pattaya agent to undermine confidence in competitors and redirect prospective customers toward Thai Visa Centre.**
+
+The available evidence does not establish that PointCleaner was a fabricated account, that the complaint was invented, or that Thai Visa Centre coordinated the discussion. However, the combination of an unverified negative account, moderator intervention, and subsequent sponsor advertising warrants scrutiny rather than treating the discussion as an independently verified consumer experience.
+
 ## Claims of Guaranteed Airport Entry Services
 
 On July 23, 2025, ASEAN NOW Global Moderator [BrandonJT](../moderators/brandonjt.md) publicly described paid airport "safe entry" services as **"100% reliable"**, claiming that agents could arrange guaranteed admission to Thailand through contacts with immigration officers.[^10]
@@ -669,3 +709,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^55]: `https://aseannow.com/topic/1295041-retirement-visa-change-of-address/`
 [^56]: `https://aseannow.com/topic/1388105-safe-entry/`
 [^57]: `https://aseannow.com/topic/1345519-safe-entry-services-bkk-airport/`
+[^58]: `https://aseannow.com/topic/1377140-visa-agency-suggestion-reirement/`
