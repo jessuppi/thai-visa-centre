@@ -294,6 +294,28 @@ DrJack54 agreed and subsequently closed the discussion, declaring that the origi
 
 The exchange also places that endorsement alongside a Global Moderator's descriptions of temporary bank deposits, removal of forum comments, and eventual closure of the discussion. Together, these circumstances raise questions about how ASEAN NOW's expert designations, moderator authority, and commercial sponsorship arrangements may influence consumers seeking visa and immigration services.
 
+## Tod Daniels Recommends Paid Airport Entry Before Reported 4,500-Baht Purchase
+
+On January 5, 2026, ASEAN NOW member **thaiasia** asked whether they risked being refused entry to Thailand after spending approximately 270 days in the country during 2025 using visa-exempt entries. The member claimed to be staying in Vietnam and was considering paying for airport-entry assistance before returning to Bangkok.[^48]
+
+On January 6, [Tod Daniels](../people/tod-daniels.md), whose ASEAN NOW account carried the special designation **"Thai Visas Forum Expert,"** responded with a warning that the traveler belonged to precisely the category of foreigners immigration authorities were targeting for refusal of entry.
+
+Daniels strongly recommended considering a commercial "safe entry" service and listed three companies he described as major providers: **Thai Visa Service, [Thai Visa Centre](../brands/thai-visa-centre.md), and Friendly Thai Visa**. He supplied their website addresses, directing the traveler toward paid immigration assistance.[^48]
+
+Notably, Daniels did not mention that he moderated a Facebook immigration-advice group owned by Thai Visa Centre, a relationship he had publicly acknowledged in another ASEAN NOW discussion two months earlier. His recommendation appeared under the forum's special expert designation without explaining that existing commercial connection.
+
+On January 13, the same account, **thaiasia**, returned to the discussion and quoted Daniels' earlier recommendation. The poster claimed to have successfully entered Thailand using a paid airport-entry service, reporting that immigration officers had admitted them without asking questions.
+
+When another participant asked how much the service cost, thaiasia responded:
+
+> I paid 4,500 baht.[^48]
+
+The claimed purchase was not independently verified, and the account did not identify which of the recommended agencies supplied the service.
+
+The sequence is significant: an ASEAN NOW contributor carrying a special immigration-expert designation warned a traveler about the risk of refusal, supplied links to commercial service providers including Thai Visa Centre, and subsequently received a favorable testimonial from an account claiming to have purchased precisely the type of assistance he recommended.
+
+This illustrates how immigration warnings, apparently authoritative forum recommendations, and unverified customer testimonials can reinforce one another, potentially influencing readers to purchase commercial services whose necessity and claimed advantages are difficult to independently assess.
+
 ## Moderator Claims About Immigration Payments and Temporary Bank Deposits
 
 On November 8, 2025, ASEAN NOW Global Moderator [BrandonJT](../moderators/brandonjt.md) described how some visa agents allegedly arrange retirement extensions for applicants who cannot meet Thailand's financial requirements.
@@ -479,3 +501,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^45]: `https://aseannow.com/topic/1392852-unable-to-login-for-online-90-days-reporting/`
 [^46]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/page/2/`
 [^47]: `https://asq.in.th/question/what-does-the-acquisition-of-the-thai-visa-advice-group-by-thai-visa-centre-mean-for-its-members-1`
+[^48]: `https://aseannow.com/topic/1378770-new-rules-issued-for-visa-extensions-and-visa-exempt-entries/page/15/`
