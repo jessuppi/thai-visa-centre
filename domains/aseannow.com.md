@@ -266,6 +266,40 @@ The exchange documents overlapping activity between ASEAN NOW moderators and Fac
 
 However, the discussion does not establish whether the deleted comments concerned Thai Visa Centre, whether the moderators received compensation or instructions from the agency, or the circumstances under which BrandonJT obtained his Facebook moderation privileges.
 
+## The Thaiger Publishes Tod Daniels' Airport-Entry Advice as Expert Guidance
+
+On June 22, 2024, approximately two months after acquiring ASEAN NOW, [The Thaiger](../brands/the-thaiger.md) published an article titled *I've Been Denied Entry to Thailand – Now What?* under the banner **"THE THAIGER / ASEAN NOW EXCLUSIVE."** The article carried a byline from George Anderssen, founder of the original ThaiVisa.com forum, and introduced [Tod Daniels](../people/tod-daniels.md) as a visa expert.[^52]
+
+The article reproduced Daniels' immigration advice from an ASEAN NOW discussion, presenting his recommendations as practical guidance for foreigners refused entry to Thailand.[^53]
+
+Among his instructions, Daniels advised travelers facing refusal at Thai airports:
+
+> DO NOT SIGN the denial of entry forms[^52]
+
+He claimed that refusing to sign would prevent immigration officers from placing a denial-of-entry stamp in the traveler's passport, although the refusal would still appear in the government's immigration database.
+
+Daniels also described paid arrangements through which foreigners refused entry at land borders could allegedly pay intermediaries to secure admission the following day. He claimed these arrangements worked and cited acquaintances who had successfully entered after paying.
+
+For airport refusals, he similarly asserted that travelers could arrange commercial "safe entry" assistance and return through the same airport the following day, even after immigration officers had already denied them entry.[^52]
+
+These recommendations were published under The Thaiger's editorial branding rather than appearing solely as informal advice exchanged between forum members.
+
+### Forum Member Contradicts the Published Advice
+
+On June 25, 2024, ASEAN NOW member **anotherfarangishere** challenged Daniels' categorical claim about refusal stamps, describing their own experience of being refused entry at Don Mueang Airport:
+
+> I didn't sign it and still got a huge stamp on the last page of my passport.[^54]
+
+Daniels initially responded by assuming the incident had occurred at a land border, suggesting that such refusals were handled differently.
+
+Another member pointed out that the poster had already identified Don Mueang as the location. The original poster subsequently confirmed that the incident occurred at the airport, directly contradicting Daniels' explanation.[^54]
+
+The exchange is noteworthy because The Thaiger had presented Daniels' advice as expert immigration guidance, including a specific instruction that a reader's reported experience demonstrated was not universally reliable.
+
+The same article also promoted confidence in paid intermediaries purportedly capable of securing admission following an official immigration refusal, without providing independent evidence that these arrangements were authorized or consistently effective.
+
+The incident illustrates how ASEAN NOW's special **"Thai Visas Forum Expert"** designation and The Thaiger's editorial platform could amplify an individual contributor's immigration claims, giving potentially unreliable advice the appearance of authoritative guidance while encouraging confidence in commercial airport-entry services.
+
 ## Tod Daniels Endorses Thai Visa Centre While Moderating Its Facebook Group
 
 On November 10, 2025, an ASEAN NOW discussion about [Thai Visa Centre](../brands/thai-visa-centre.md) turned to how visa agents arrange retirement extensions for applicants who lack the required 800,000-baht bank balance.[^46]
@@ -539,3 +573,6 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^49]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/3/`
 [^50]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/4/`
 [^51]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/5/`
+[^52]: https://thethaiger.com/news/national/ive-been-denied-entry-to-thailand-now-what
+[^53]: `https://aseannow.com/topic/1330417-ive-been-denied-entry-to-thailand-now-what/`
+[^54]: `https://aseannow.com/topic/1330417-ive-been-denied-entry-to-thailand-now-what/page/2/`
