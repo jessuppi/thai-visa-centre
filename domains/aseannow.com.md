@@ -1027,85 +1027,59 @@ The exchanges document a Global Moderator repeatedly criticizing the security of
 
 ## Thai Visa Centre Promotes Private TDAC Service Despite Request for Official Government Website
 
-On May 24, 2025, ASEAN NOW Core Administrator **CharlieH** published a promotional discussion introducing a commercial Thailand Digital Arrival Card (TDAC) submission platform operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md). The platform offered free submissions within the standard 72-hour registration window and optional paid early submissions.[^12]
+On May 24, 2025, ASEAN NOW Core Administrator **CharlieH** published a promotional discussion introducing a Thailand Digital Arrival Card (TDAC) submission platform operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md). The privately operated service offered free submissions within the standard 72-hour registration window and optional paid early submissions.[^12]
 
-The discussion remained active throughout 2025 and 2026, attracting questions from travelers about whether the privately operated service was necessary, trustworthy, or officially affiliated with Thailand's immigration authorities.
+The discussion subsequently attracted questions about the platform's legitimacy, data security, and relationship with Thailand's official immigration system.
 
-### Thai Visa Centre Claims Airlines Rely on Its Private TDAC Form
+### Unverified Airline and Data-Security Claims
 
 On August 8, 2025, an ASEAN NOW member named **Felt 35** reported encountering a TDAC form while completing an airline booking.
 
-The member asked whether the form could be trusted simply because it appeared during the booking process.
-
-Global Moderator **Maestro** responded by warning that advertisements appearing on airline websites were not necessarily selected or endorsed by the airlines themselves. He explained that such advertisements could be delivered through third-party advertising networks.[^12]
+Global Moderator **Maestro** cautioned that advertisements appearing on airline websites were not necessarily endorsed by the airlines themselves.
 
 On August 19, [Thai Visa Centre](../brands/thai-visa-centre.md) responded through its official **Forum Sponsor** account, claiming:
 
 > Some airlines rely on our form[^12]
 
-The agency suggested that its platform was useful for travelers whose countries or languages were not adequately supported by the official government TDAC system.
+The agency suggested that its platform supported travelers whose countries or languages were inadequately accommodated by the official system.
 
-Thai Visa Centre did not identify which airlines supposedly relied on its service, provide examples of airline partnerships, or establish whether the form encountered by Felt 35 had appeared through an official airline arrangement rather than advertising.
+However, Thai Visa Centre did not identify the airlines involved or provide evidence of any official partnerships. The discussion therefore did not establish whether the form encountered during the booking process was an airline-endorsed service or simply an advertisement.
 
-**The distinction matters because travelers may interpret a TDAC form appearing during an airline booking as evidence of official endorsement or authorization.**
+Thai Visa Centre also claimed full compliance with Thailand's Personal Data Protection Act (PDPA), stating that users could delete their information after approval and prepare applications up to one year in advance.[^12]
 
-Without identifying the airlines involved, Thai Visa Centre's claim could not be independently verified from the discussion.
+These assurances were not independently verified.
 
-### Claims About Personal-Data Security
+On June 9, 2025, Thailand's Immigration Bureau had warned travelers to register through the official, free government website, `tdac.immigration.go.th`, to protect their personal information.[^13]
 
-In the same August 19 response, Thai Visa Centre asserted that its platform complied fully with Thailand's Personal Data Protection Act (PDPA).
+The warning did not establish that Thai Visa Centre's platform was fraudulent, but it highlighted the difference between official government registration and privately operated alternatives.
 
-The agency stated that travelers could delete their personal information after their TDAC applications had been approved. It also confirmed that applications could be prepared up to one year before arrival, with an optional paid service for submissions arranged in advance.[^12]
+### Traveler Explicitly Rejects Commercial Services
 
-These statements were made by the commercial provider itself. The discussion did not include an independent assessment of its security practices, data retention, or claimed regulatory compliance.
+On September 1, 2026, Felt 35 returned to the discussion requesting the genuine government TDAC website.
 
-The assurances are particularly relevant because TDAC applications require travelers to submit identifying information, including passport and travel details.
-
-On June 9, 2025, Thailand's Immigration Bureau had already issued a public warning encouraging foreign travelers to register through the official government website, `tdac.immigration.go.th`, to protect their personal information.
-
-The bureau emphasized that official registration was free and warned travelers about third-party websites requesting payments or personal information.[^13]
-
-That warning does not establish that Thai Visa Centre's platform was fraudulent or unlawfully operated. However, it demonstrates that the government's recommended approach differed from the privately operated service promoted by ASEAN NOW's sponsor.
-
-### Traveler Explicitly Rejects Commercial TDAC Services
-
-On September 1, 2026, Felt 35 returned to the same discussion and requested a direct link to the genuine government TDAC website.
-
-The member made their preference unmistakable:
+The member explicitly stated:
 
 > Not interested in doing it early or use any agency.[^67]
 
-Rather than encouraging the traveler to use a paid intermediary, another forum participant, **treetops**, supplied the official government URL.
+Another participant, **treetops**, supplied the official government URL.
 
-The member's request was straightforward: they wanted to complete the required government registration independently, without using a commercial provider.
+Nevertheless, Thai Visa Centre subsequently promoted its own platform through its **Forum Sponsor** account.
 
-Nevertheless, Thai Visa Centre entered the discussion again through its **Forum Sponsor** account.
+The agency advertised AI-assisted form completion, claimed to have processed more than **250,000 TDAC submissions**, and supplied its commercial link at `tvc.co.th/tdac`.[^67]
 
-Instead of directing the traveler to the government website they had requested, the agency promoted its own TDAC platform.
+The claimed submission volume was not independently verified.
 
-Thai Visa Centre claimed that its form included AI assistance for interpreting application fields and requirements. It further asserted that its service had processed more than **250,000 TDAC submissions** and presented the platform as a trusted option.
+**The significant issue is that Thai Visa Centre continued advertising its private service after the traveler explicitly requested the official government website and rejected agency assistance.**
 
-The sponsor provided another commercial link, `tvc.co.th/tdac`, together with its recurring live-chat and TDAC promotional links.[^67]
+### Another Example of Unwanted Sponsor Promotion
 
-The claimed submission volume and reliability were not independently verified.
+The exchange resembles a September 2025 ASEAN NOW discussion in which a member repeatedly requested recommendations for visa agents other than Thai Visa Centre. Despite those requests, the sponsor eventually entered that discussion to advertise its services.[^63]
 
-### Another Example of Unwanted Commercial Promotion
+Both incidents demonstrate how independent-looking consumer discussions can become opportunities for commercial promotion even when participants expressly reject the advertised service.
 
-The exchange resembles an earlier September 2025 ASEAN NOW discussion in which a member repeatedly requested recommendations for visa agents other than Thai Visa Centre.
+The record does not establish that airlines maintained undisclosed relationships with Thai Visa Centre, that its platform mishandled personal information, or that the original inquiry was fabricated.
 
-In that case, a moderator continued highlighting the sponsor before Thai Visa Centre entered the discussion to advertise its immigration services.[^63]
-
-The TDAC discussion followed a comparable pattern. A traveler explicitly rejected commercial intermediaries, yet the sponsor continued promoting its own service as an alternative to the requested official government portal.
-
-**The significant issue is not simply that Thai Visa Centre advertised its services, but that the advertising continued after the traveler clearly indicated they did not want an agency.**
-
-This illustrates how an apparently informational discussion can function as an ongoing commercial marketing channel, even when participants attempt to obtain independent government information.
-
-It also raises questions about whether ASEAN NOW's sponsorship arrangements give paying advertisers disproportionate opportunities to influence discussions about government services.
-
-The record does not establish that Felt 35's original airline-booking experience was fabricated, that any airline had an undisclosed financial relationship with Thai Visa Centre, or that the sponsor's platform mishandled travelers' information.
-
-Nevertheless, the unverified airline-use claim, self-reported data-security assurances, and subsequent advertising directed at someone explicitly requesting the official government website provide another documented example of **commercial messaging taking precedence over a forum member's stated information needs**.
+Nevertheless, **the unverified airline-use claim, self-reported security assurances, and continued advertising despite a clear request for government information raise questions about the influence of commercial sponsorship on ASEAN NOW's consumer discussions**.
 
 ## Formal Consumer Complaint to Singapore Authorities (2026)
 
