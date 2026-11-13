@@ -130,6 +130,28 @@ On April 22, 2026, BrandonJT recommended Thai Visa Centre's `90day.in.th` immigr
 
 These exchanges document moderators actively recommending a commercial sponsor, directly inviting the agency into discussions, and providing prospective customers with information about its paid services. The available evidence does not establish whether these recommendations were independently motivated, coordinated, or compensated, or whether the advertised airport arrangements operated as described.
 
+## ASEAN NOW Moderators and Thai Visa Centre's Facebook Groups
+
+On December 29, 2025, ASEAN NOW Global Moderator [DrJack54](../moderators/drjack54.md) described participating in a heated Facebook discussion concerning Thailand's 90-day immigration reporting requirements. He identified the group as "Thailand Visa Advice and more" and said he believed it was connected to [Thai Visa Centre](../brands/thai-visa-centre.md).[^35]
+
+During the discussion, ASEAN NOW immigration contributor [Tod Daniels](../people/tod-daniels.md) claimed that Thai Visa Centre had acquired two Facebook visa-advice groups, including one he moderated. He stated:
+
+> TVC bought both groups[^35]
+
+Tod Daniels also said he was not permitted to participate in the other Facebook group. BrandonJT attributed the restriction to a personal grudge held by that group's original founder, although neither participant established when the restriction began.
+
+Fellow Global Moderator [BrandonJT](../moderators/brandonjt.md) subsequently acknowledged removing comments from the Facebook discussion. Responding to DrJack54's observation that some participants had removed their posts, BrandonJT clarified:
+
+> Nah, I deleted some of the comments.[^35]
+
+He explained that he selectively removed comments he considered particularly objectionable, suggesting that he possessed moderation privileges within the Facebook community.
+
+Thai Visa Centre's own website separately confirms that it operates two Facebook communities, identified as **"Thailand Visa Advice"** and **"Thai Visa Advice"**. The agency describes both communities as directly managed by its team.[^36]
+
+The exchange documents overlapping activity between ASEAN NOW moderators and Facebook immigration-advice communities associated with a commercial sponsor. It is particularly noteworthy that BrandonJT acknowledged removing Facebook comments while also publicly recommending Thai Visa Centre's paid services on ASEAN NOW.
+
+However, the discussion does not establish whether the deleted comments concerned Thai Visa Centre, whether the moderators received compensation or instructions from the agency, or the circumstances under which BrandonJT obtained his Facebook moderation privileges.
+
 ## Moderator Claims About Immigration Payments and Temporary Bank Deposits
 
 On November 8, 2025, ASEAN NOW Global Moderator [BrandonJT](../moderators/brandonjt.md) described how some visa agents allegedly arrange retirement extensions for applicants who cannot meet Thailand's financial requirements.
@@ -302,3 +324,5 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^32]: `https://aseannow.com/topic/1358135-thailand-digital-arrival-card-tdac/page/10/`
 [^33]: `https://aseannow.com/topic/1376876-thai-visa-centre-in-bangkok/`
 [^34]: `https://aseannow.com/topic/1401947-thai-visa-centre-immigration/`
+[^35]: `https://aseannow.com/topic/1383091-first-90-day-report/`
+[^36]: https://tvc.co.th/scam
