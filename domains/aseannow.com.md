@@ -2,6 +2,20 @@
 
 `aseannow.com` hosts [ASEAN NOW](../brands/asean-now.md), a Thailand-focused English-language expatriate news and discussion forum formerly known as ThaiVisa.com, acquired by [The Thaiger](../brands/the-thaiger.md) in April 2024. The forum lists [Thai Visa Centre](../brands/thai-visa-centre.md) as a commercial sponsor. Jesse Nickles has raised concerns about alleged promotional astroturfing, fabricated positive testimonials, and censorship of criticism targeting Thai Visa Centre and its related services. These allegations have not been independently established.
 
+## Early Reports of Thai Visa Centre Marketing (2018)
+
+On July 12, 2018, a discussion on ASEAN NOW's predecessor, ThaiVisa.com, questioned whether [Thai Visa Centre](../brands/thai-visa-centre.md) could legitimately arrange retirement extensions for applicants who lacked the required 800,000-baht bank balance.[^7]
+
+Forum member **Tanoshi** reproduced an unsolicited promotional email attributed to the agency, advertising retirement extensions for 16,000 baht without requiring applicants to demonstrate bank deposits or pension income. The message claimed:
+
+> We SPONSOR all your requirements[^7]
+
+The email also described passport collection services and arrangements involving immigration officers allegedly working with the agency.
+
+Tanoshi stated that they had never contacted Thai Visa Centre or requested information from a visa agency. They questioned how the business obtained their email address, noting that they had recently provided contact information to a document translation service. However, the source of the mailing list and any potential sharing of personal information were not established.
+
+The discussion documents early public concerns about the agency's advertised financial arrangements and unsolicited marketing, years before the forum's later sponsorship and moderation controversies. The authenticity of the reproduced email and the legality of the described services were not independently established.
+
 ## Sponsorship and Censorship of Criticism
 
 ASEAN NOW's published forum rules provide special protections for commercial sponsors. **Rule 37** states:
@@ -54,3 +68,4 @@ The combination of favorable website assurances and direct commercial promotion 
 [^4]: `https://aseannow.com/topic/1392852-unable-to-login-for-online-90-days-reporting/`
 [^5]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
 [^6]: `https://aseannow.com/topic/1380748-thai-visa-centre-bangna-grace/`
+[^7]: `https://aseannow.com/topic/1048018-retirement-visa-agency/`
