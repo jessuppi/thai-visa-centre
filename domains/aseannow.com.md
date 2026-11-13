@@ -60,6 +60,18 @@ On April 22, 2026, the account recommended Thai Visa Centre's `90day.in.th` immi
 
 These exchanges document repeated commercial recommendations by an account holding moderator privileges, including direct communication with the advertised business. The available evidence does not establish who controls the account or whether these promotions were independently motivated, coordinated, or compensated.
 
+## Claims of Guaranteed Airport Entry Services
+
+On July 23, 2025, ASEAN NOW Global Moderator [BrandonJT](../moderators/brandonjt.md) publicly described paid airport "safe entry" services as **"100% reliable"**, claiming that agents could arrange guaranteed admission to Thailand through contacts with immigration officers.[^10]
+
+The account described a process in which travelers submitted copies of every passport page for screening by airport contacts. According to BrandonJT, customers would also provide a photograph of their clothing before boarding so an immigration officer could identify them upon arrival, escort them to a counter, and personally facilitate their entry.
+
+BrandonJT then directed readers to [Thai Visa Centre](../brands/thai-visa-centre.md), explaining how to purchase its VIP/Fast Track entry service through `tdac.agents.co.th`. Another forum participant questioned the legitimacy of the arrangement.[^10]
+
+On June 23, 2026, Thailand's Immigration Division 2 announced an investigation into brokers allegedly charging foreigners 4,500–12,000 baht for guaranteed airport entry. Authorities established a fact-finding committee to examine possible misconduct involving immigration officers and warned of criminal and disciplinary consequences if wrongdoing was established.[^11]
+
+The investigation concerned alleged broker activities and did not publicly identify Thai Visa Centre or BrandonJT as subjects. Nevertheless, the forum's earlier promotion of purportedly guaranteed entry services is noteworthy given the subsequent official scrutiny of similar arrangements. The claims about cooperation with immigration officers remain unverified.
+
 ## Forum Promotion of Unofficial TDAC Websites
 
 In May 2025, ASEAN NOW published a discussion warning travelers about unofficial Thailand Digital Arrival Card (TDAC) websites charging fees for a government service that was available free of charge. However, an **“Admin note”** added to the opening post explicitly described `tdac.in.th` and `tdac.agents.co.th` as:
@@ -83,3 +95,5 @@ The combination of favorable website assurances and direct commercial promotion 
 [^7]: `https://aseannow.com/topic/1048018-retirement-visa-agency/`
 [^8]: `https://aseannow.com/topic/1177344-grace-thai-visa-centre-back/`
 [^9]: https://www.nationthailand.com/news/30392449
+[^10]: `https://aseannow.com/topic/1367646-cant-apply-for-dtv-yet-what-are-my-best-options-to-stay-here/`
+[^11]: https://www.nationthailand.com/news/general/40067752
