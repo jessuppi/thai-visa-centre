@@ -28,6 +28,22 @@ Forum participants questioned this assurance, noting the recent police allegatio
 
 The discussion documents Thai Visa Centre's efforts to reassure potential customers and continue advertising its services immediately following the arrests. However, the reproduced email provided no independent evidence that Thai immigration authorities had formally cleared the agency of wrongdoing, and the discussion did not establish the eventual outcome of the investigation.
 
+## Forum Moderator Dismissal of the 2020 Police Investigation
+
+On November 21, 2020, a ThaiVisa.com member considering [Thai Visa Centre](../brands/thai-visa-centre.md) asked whether using a law firm would provide greater protection following the agency's reported legal troubles earlier that year. Global Moderator [DrJack54](../moderators/drjack54.md) dismissed those concerns, stating:
+
+> Nothing resulted from unrelated police visit to TVC earlier this year.[^14]
+
+He further claimed that immigration stamps and receipts obtained through agents were legitimate and dismissed critics of visa agents as uninformed. His assurances came approximately three months after Thai immigration police publicly announced arrests and allegations involving forged immigration documents.
+
+On February 6, 2022, DrJack54 again recommended Thai Visa Centre to a member seeking a Bangkok visa agent. When another participant expressed surprise at the recommendation following the earlier controversy, DrJack54 replied:
+
+> Wasn't a scandal.[^15]
+
+He encouraged readers to consult the agency's favorable online reviews, comparing negative reports to ordinary customer complaints about other businesses.
+
+These exchanges document a Global Moderator repeatedly dismissing concerns about Thai Visa Centre's reported police investigation while recommending its commercial services. His statements did not establish the investigation's outcome or provide independent evidence resolving the original allegations.
+
 ## Sponsorship and Censorship of Criticism
 
 ASEAN NOW's published forum rules provide special protections for commercial sponsors. **Rule 37** states:
@@ -111,3 +127,5 @@ The discussion documents an ASEAN NOW administrator promoting a commercial TDAC 
 [^11]: https://www.nationthailand.com/news/general/40067752
 [^12]: `https://aseannow.com/topic/1361664-apply-for-your-tdac-early-here/`
 [^13]: https://cgchicago.thaiembassy.org/en/content/press-release-the-immigration-bureau-would-like-t?menu=62134944bb835d1888475343
+[^14]: `https://aseannow.com/topic/1193131-first-time-retirement-visa-use-thai-visa-centre-agent-or-a-legal-firm-in-bangkok/`
+[^15]: `https://aseannow.com/topic/1249268-agent-recommendations-in-bangkok/`
