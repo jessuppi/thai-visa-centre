@@ -150,6 +150,66 @@ Such differences in visibility matter because readers seeking immigration assist
 
 The episode adds another example of the potential overlap between moderator authority, commercial promotion, and the presentation of competing immigration-service providers on ASEAN NOW.
 
+## Thai Visa Centre Promoted Despite Member Repeatedly Requesting Competitors
+
+On September 7, 2025, an ASEAN NOW account named **genobkk** opened a discussion requesting recommendations for visa agents in Bangkok. The poster specifically mentioned an unfamiliar business called **SS Thai Visa Consultant**, explaining that they already knew about Thai Visa Centre but wanted to investigate other agencies before obtaining a Non-O retirement visa.[^63]
+
+Global Moderator [DrJack54](../moderators/drjack54.md) responded by correcting the poster's spelling of Thai Visa Centre, distinguishing it from another business called Thai Visa Center, and directly tagging the forum sponsor's account.
+
+After the poster clarified that they were interested in other Bangkok agents, DrJack54 linked to a separate ASEAN NOW discussion containing visa-agent recommendations and pricing information.
+
+The original poster again explained that they had already researched Pattaya agencies and Thai Visa Centre but wanted to investigate lesser-known Bangkok providers.
+
+DrJack54 suggested conducting a Google search and discussed obtaining a Non-O visa independently. However, the following day, he returned to promoting Thai Visa Centre, highlighting its thousands of favorable online reviews and providing a direct Google review link.[^63]
+
+The poster responded that they were specifically seeking alternatives and had nothing against the agency.
+
+### Member Repeatedly Objects to Unwanted Recommendations
+
+Another account, **luicks**, subsequently entered the discussion and endorsed Thai Visa Centre, claiming to have used its services successfully for years.
+
+The account also emphasized that Thai Visa Centre and Thai Visa Center were separate businesses, repeating the distinction previously raised by DrJack54.
+
+By this point, the original poster had repeatedly explained that they already knew about Thai Visa Centre and were seeking recommendations for competitors.
+
+Frustrated by the continuing emphasis on the same agency, genobkk replied:
+
+> Yes I understand that. I am looking for other agent recommendations as I have said multiple times[^63]
+
+The response makes the unusual nature of the discussion particularly clear. Rather than receiving the requested comparisons between alternative agencies, the poster repeatedly encountered recommendations and endorsements for the very business they had already said they knew about.
+
+### Thai Visa Centre Enters the Discussion With a Commercial Offer
+
+On September 8, Thai Visa Centre participated through its official **Forum Sponsor** account, responding directly to the member's statement that they wanted other agency recommendations.
+
+The agency advertised a complete immigration package consisting of:
+
+- **22,000 baht** for an initial three-month Non-O visa.
+- **15,000 baht** for a subsequent annual retirement extension.
+- **37,000 baht** total, with processing allegedly completed within approximately 72 hours.
+
+Thai Visa Centre also promoted its free Bangkok courier service and provided a direct link to its commercial live-chat platform at `tvc.co.th/chat`.[^63]
+
+The agency acknowledged that Bangkok had numerous visa agents but encouraged the poster to focus on finding one reliable provider.
+
+The sequence is noteworthy because Thai Visa Centre's advertisement appeared **after the original poster had repeatedly stated that they wanted recommendations for other businesses**.
+
+The discussion therefore became an opportunity for the commercial sponsor to advertise its own packages despite the poster's clearly expressed interest in comparing competitors.
+
+### Questions About Promotional Independence
+
+The exchange illustrates how ASEAN NOW's sponsorship arrangements and moderator participation can influence the direction of ostensibly independent consumer discussions.
+
+A member requested information about competing agencies, a Global Moderator repeatedly highlighted Thai Visa Centre, another account contributed a favorable testimonial, and the sponsor eventually appeared with a detailed commercial offer.
+
+The independence of the favorable testimonial was not established, and the discussion provides no evidence that the participating accounts coordinated their recommendations.
+
+Nevertheless, the repeated promotion of Thai Visa Centre despite the poster's explicit objections raises questions about whether ordinary forum discussions offer consumers a genuinely impartial opportunity to compare competing immigration services.
+
+**Unlike threads where the original inquiry itself may have served a promotional purpose, this exchange documents a member actively resisting the repeated recommendations.** That distinction makes the moderator's continued promotion and the sponsor's subsequent advertisement particularly revealing.
+
+The incident also reinforces concerns about the preferential visibility enjoyed by ASEAN NOW's commercial sponsors compared with businesses whose recommendations depend on ordinary forum participants.
+
 ## Moderators Blame Pattaya Visa Agents for Banking Problems While Promoting Thai Visa Centre
 
 On March 18, 2025, an ASEAN NOW account named **deliric** opened a discussion about converting a visa-exempt entry into a Non-O marriage visa. The poster claimed to be returning to Thailand with his family and was concerned about opening a Thai bank account before obtaining a long-term visa.[^62]
@@ -856,3 +916,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^60]: `https://aseannow.com/topic/1402094-hua-hin-visa-agent/`
 [^61]: `https://aseannow.com/topic/1402094-hua-hin-visa-agent/page/2/`
 [^62]: `https://aseannow.com/topic/1355069-can-i-change-the-visa-extemption-to-non-o-based-on-marriage/`
+[^63]: `https://aseannow.com/topic/1372382-visa-agents-in-bangkok/`
