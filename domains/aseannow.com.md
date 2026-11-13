@@ -98,13 +98,23 @@ Taken together, these reviews document recurring public dissatisfaction with ASE
 
 ## Moderator Accounts Promoting Thai Visa Centre
 
-The ASEAN NOW account [BrandonJT](../moderators/brandonjt.md), designated as a Global Moderator, has repeatedly promoted services offered by forum sponsor [Thai Visa Centre](../brands/thai-visa-centre.md), including airport entry assistance, visa extensions, and immigration reporting.
+Multiple ASEAN NOW Global Moderators have publicly recommended services offered by forum sponsor [Thai Visa Centre](../brands/thai-visa-centre.md), including retirement visa extensions, airport entry assistance, and immigration reporting.
+
+On August 31, 2024, [DrJack54](../moderators/drjack54.md) participated in a discussion concerning repeated visa-exempt entries and paid airport assistance. After fellow Global Moderator [BrandonJT](../moderators/brandonjt.md) identified Thai Visa Centre as a provider, DrJack54 directly invited the agency to explain its services:
+
+> @ThaiVisaCentre can you advise.[^21]
+
+On September 4, Thai Visa Centre responded through its official **Forum Sponsor** account, advertising airport fast-track and prescreening services costing approximately 2,000–8,000 baht, depending on the traveler's immigration history. The agency encouraged readers to contact it through LINE for individual quotations.[^21]
+
+On September 10, DrJack54 acknowledged that repeated visa-exempt entries could result in questioning or refusal by immigration officers. Referring to the services discussed in the thread, he stated:
+
+> Yes there are agents that can grease the wheels.[^22]
 
 On May 4, 2025, BrandonJT directed forum users to Thai Visa Centre's airport "safe entry" service at `asq.in.th/thailand-fasttrack`, acknowledging that the agency had previously supplied the account with its booking link.[^3]
 
-On April 22, 2026, the account recommended Thai Visa Centre's `90day.in.th` immigration reporting service to another Global Moderator, DrJack54, providing pricing information and details about the service.[^4]
+On April 22, 2026, BrandonJT recommended Thai Visa Centre's `90day.in.th` immigration reporting service to DrJack54, providing pricing information and details about the service.[^4]
 
-These exchanges document repeated commercial recommendations by an account holding moderator privileges, including direct communication with the advertised business. The available evidence does not establish who controls the account or whether these promotions were independently motivated, coordinated, or compensated.
+These exchanges document moderators actively recommending a commercial sponsor, directly inviting the agency into discussions, and providing prospective customers with information about its paid services. The available evidence does not establish whether these recommendations were independently motivated, coordinated, or compensated, or whether the advertised airport arrangements operated as described.
 
 ## Claims of Guaranteed Airport Entry Services
 
@@ -174,3 +184,5 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^18]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/`
 [^19]: `https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/2/`
 [^20]: `https://aseannow.com/topic/1394428-looking-for-a-retirement-visa-vis-agent/`
+[^21]: `https://aseannow.com/topic/1336926-setv-metv-still-around-now-that-visa-exempts-are-now-60-days/`
+[^22]: `https://aseannow.com/topic/1336926-setv-metv-still-around-now-that-visa-exempts-are-now-60-days/page/2/`
