@@ -136,6 +136,24 @@ These exchanges document a Global Moderator publicly describing arrangements tha
 
 Although BrandonJT has repeatedly recommended [Thai Visa Centre](../brands/thai-visa-centre.md) elsewhere on ASEAN NOW, neither discussion identifies the agency as participating in the alleged payments or temporary-deposit arrangements.
 
+## Out-of-Province Visa Extensions Promoted by Forum Moderators
+
+On August 13, 2026, an elderly ASEAN NOW member living in Korat sought advice about obtaining retirement extensions without personally attending immigration due to mobility difficulties. Global Moderator [DrJack54](../moderators/drjack54.md) directly tagged [Thai Visa Centre](../brands/thai-visa-centre.md), inviting the agency to assist.[^26]
+
+The member subsequently explained that he had already contacted Thai Visa Centre but had been told the agency did not handle applications through Korat Immigration.
+
+Fellow Global Moderator [BrandonJT](../moderators/brandonjt.md) disputed the apparent limitation, claiming:
+
+> TVC can get you an extension anywhere in Thailand.[^26]
+
+BrandonJT explained that when Thai Visa Centre did not work with an applicant's local immigration office, the agency could instead arrange an extension through an office in another province. He suggested that the applicant decide whether such an arrangement was acceptable.
+
+DrJack54 separately suggested approaching Korat Immigration directly to explore alternatives, stating that this might require an arrangement to "grease the wheels." Other participants pointed out that assistance with immigration applications might be available without hiring a commercial agent.[^26]
+
+Thailand's Immigration Bureau public handbook specifies that retirement-extension applicants should contact the immigration checkpoint responsible for the area where they reside.[^27]
+
+The exchange documents forum moderators recommending a commercial sponsor while discussing arrangements that appear inconsistent with the published residence-based application procedure. However, BrandonJT did not explain how out-of-province processing would satisfy the applicable requirements, and the discussion does not establish that Thai Visa Centre actually arranged such an extension for this applicant.
+
 ## Claims of Guaranteed Airport Entry Services
 
 On July 23, 2025, ASEAN NOW Global Moderator [BrandonJT](../moderators/brandonjt.md) publicly described paid airport "safe entry" services as **"100% reliable"**, claiming that agents could arrange guaranteed admission to Thailand through contacts with immigration officers.[^10]
@@ -209,3 +227,5 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^23]: `https://aseannow.com/topic/1377086-easiest-initial-visa-to-then-convert-to-non-imm-o/page/2/`
 [^24]: `https://aseannow.com/topic/1406324-using-an-agent-for-annual-retirement-extension/`
 [^25]: https://www.thailand.go.th/guide-book-detail/001_01_134
+[^26]: `https://aseannow.com/topic/1402687-passport-need/`
+[^27]: https://tak.immigration.go.th/wp-content/uploads/2025/03/08-List-of-Public-Handbook-English.pdf
