@@ -24,9 +24,22 @@ On April 22, 2026, the account recommended Thai Visa Centre's `90day.in.th` immi
 
 These exchanges document repeated commercial recommendations by an account holding moderator privileges, including direct communication with the advertised business. The available evidence does not establish who controls the account or whether these promotions were independently motivated, coordinated, or compensated.
 
+## Forum Promotion of Unofficial TDAC Websites
+
+In May 2025, ASEAN NOW published a discussion warning travelers about unofficial Thailand Digital Arrival Card (TDAC) websites charging fees for a government service that was available free of charge. However, an **“Admin note”** added to the opening post explicitly described `tdac.in.th` and `tdac.agents.co.th` as:
+
+> legitimate websites operated by AGENTS CO., LTD.[^5]
+
+The note acknowledged that Thailand's official TDAC portal was `tdac.immigration.go.th`, while providing favorable assurances about the privately operated alternatives.
+
+In the same discussion, Thai Visa Centre's official **Forum Sponsor** account criticized a competing commercial TDAC website for misleading travelers and inadequate business disclosures. The agency acknowledged operating `tdac.in.th`, initially described it as an informational website without paid services, and subsequently edited its post to advertise an $8 early-submission service.[^5]
+
+The combination of favorable website assurances and direct commercial promotion by a forum sponsor raises questions about ASEAN NOW's separation of independent travel information from advertiser interests.
+
 ## References
 
 [^1]: `https://aseannow.com/forum_rules/`
 [^2]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/`
 [^3]: `https://aseannow.com/topic/1359107-almost-refused-entry-at-chiang-mai-airport-be-warned-2nd-visa-exemption/page/8/`
 [^4]: `https://aseannow.com/topic/1392852-unable-to-login-for-online-90-days-reporting/`
+[^5]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
