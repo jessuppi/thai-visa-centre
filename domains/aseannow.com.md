@@ -389,7 +389,7 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^33]: `https://aseannow.com/topic/1376876-thai-visa-centre-in-bangkok/`
 [^34]: `https://aseannow.com/topic/1401947-thai-visa-centre-immigration/`
 [^35]: `https://aseannow.com/topic/1383091-first-90-day-report/`
-[^36]: https://tvc.co.th/scam
+[^36]: `https://tvc.co.th/scam`
 [^37]: `https://aseannow.com/topic/1248076-covid-visa-extension-denied/`
 [^38]: `https://aseannow.com/topic/1248076-covid-visa-extension-denied/page/3/`
 [^39]: `https://aseannow.com/topic/1211624-thai-visa-agent-legit/`
