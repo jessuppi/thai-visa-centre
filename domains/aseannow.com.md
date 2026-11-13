@@ -780,43 +780,59 @@ The discussion documents concerns raised by a forum member claiming firsthand ex
 
 ## Thai Visa Centre Promoted After Allegations Against Pattaya Visa Agent
 
-On October 27, 2025, an ASEAN NOW account named **PointCleaner** opened a discussion claiming to have obtained a retirement extension through a visa agent in Pattaya despite living near Bangkok.[^58]
+On October 27, 2025, an ASEAN NOW account named **PointCleaner** opened a discussion claiming to have encountered immigration problems after obtaining a retirement extension through an unidentified Pattaya visa agent, despite living near Bangkok.[^58]
 
-The account alleged that previous 90-day immigration reports had been processed successfully, but problems emerged after renewing the passport. According to the poster, their local immigration office directed them to Chonburi province and suggested that the existing visa extension might not be valid.
+According to the poster, previous 90-day immigration reports had been processed successfully, but difficulties emerged after renewing their passport. The local immigration office allegedly directed them to Chonburi province and questioned the validity of their existing extension.
 
-The allegations portrayed the unidentified Pattaya agent as having potentially arranged questionable immigration paperwork. However, the original account's claimed experience was not independently verified, and no documentation establishing that the extension was invalid was presented.
+The account provided no independent documentation establishing that the extension was invalid or that the Pattaya agent had acted improperly.
 
-PointCleaner subsequently asked whether an agency near Bangkok could help resolve the situation.
+PointCleaner subsequently requested recommendations for an agency near Bangkok that could resolve the situation.
 
-Global Moderator [DrJack54](../moderators/drjack54.md) responded by tagging [Thai Visa Centre](../brands/thai-visa-centre.md), introducing the forum's commercial sponsor as a possible alternative. He also suggested that the original Pattaya agent had probably arranged immigration stamps through Jomtien Immigration rather than the office responsible for the applicant's actual residence.[^58]
+Global Moderator [DrJack54](../moderators/drjack54.md) responded by tagging [Thai Visa Centre](../brands/thai-visa-centre.md), introducing ASEAN NOW's commercial sponsor as a possible alternative.
 
-On October 29, Thai Visa Centre joined the discussion through its official **Forum Sponsor** account. Rather than establishing whether the alleged problems with the original visa extension were genuine, the agency advertised its paid 90-day reporting service:
+He also suggested that the Pattaya agent had probably obtained the extension through Jomtien Immigration rather than the office responsible for the applicant's actual residence.[^58]
+
+### Thai Visa Centre Advertises After the Allegations
+
+On October 29, Thai Visa Centre joined the discussion through its official **Forum Sponsor** account.
+
+Rather than verifying the original allegations, the agency advertised its commercial 90-day immigration reporting service:
 
 > Our in-person 90-day reporting service is available for as little as 375 THB[^58]
 
-The agency directed readers to `90day.in.th`, promoting online applications, downloadable confirmation documents, tracking facilities, and EMS delivery.
+The agency directed readers to `90day.in.th`, promoting online applications, downloadable confirmations, tracking facilities, and EMS delivery.
 
-The sequence raises an obvious question about the discussion's independence. An account introduced an alarming story about a supposedly problematic Pattaya visa agent, a Global Moderator directed the conversation toward Thai Visa Centre, and the commercial sponsor subsequently advertised its own services.
+**The sequence is noteworthy: an apparently independent account introduced a negative experience involving a Pattaya competitor, a Global Moderator recommended Thai Visa Centre, and the sponsor subsequently advertised its own services.**
 
-**This structure is consistent with a possible astroturfing or competitor-disparagement scenario**, in which an apparently independent consumer complaint creates negative perceptions of competing visa agencies while generating favorable exposure for a sponsoring business.
+This resembles a potential promotional-seeding or competitor-disparagement pattern, although the discussion does not establish that the original complaint was fabricated or coordinated with Thai Visa Centre.
 
-The original Pattaya agency was not identified by name. Nevertheless, the discussion could influence readers to view Pattaya-based visa agents more broadly as unreliable or potentially involved in improper immigration arrangements, while presenting Thai Visa Centre as an alternative.
+### Other Participants Question the Arrangement
 
-Other participants challenged the circumstances described in the thread. An account named **proton** criticized questionable visa-agent arrangements and argued that the applicant should resolve the problem through official immigration procedures, including passport transfers, address registration, and subsequent online reporting.
+Another participant, **proton**, criticized questionable agent-assisted immigration arrangements and suggested resolving the problems through official procedures.
 
-[Tod Daniels](../people/tod-daniels.md), whose ASEAN NOW account carried the special **"Thai Visas Forum Expert"** designation, also participated.
+[Tod Daniels](../people/tod-daniels.md), whose ASEAN NOW account carried the special **"Thai Visas Forum Expert"** designation, explained that extensions issued through Pattaya could cause complications when applicants subsequently dealt with immigration offices elsewhere.
 
-Daniels explained that extensions issued through Pattaya could create complications when applicants subsequently dealt with immigration offices elsewhere. He recommended contacting the original agent, transferring the appropriate immigration stamps, updating the TM30 address registration, and completing an initial 90-day report in person before returning to online reporting.[^58]
+Daniels recommended contacting the original agent, transferring immigration stamps, updating TM30 address information, and completing an initial 90-day report in person before resuming online reporting.[^58]
 
-He also discussed alternative Bangkok-based visa agencies, noting that arranging extensions through Bangkok's Chaeng Watthana Immigration office was generally more expensive than using agents operating through Pattaya.
+He also discussed other Bangkok visa agencies, noting that processing extensions through Chaeng Watthana Immigration was generally more expensive than using Pattaya-based agents.
 
-On November 2, DrJack54 announced that an off-topic post had been removed. The deleted content cannot be independently reviewed.
+On November 2, DrJack54 announced the removal of an off-topic post. Its contents are no longer available for independent review.
 
-The discussion is particularly noteworthy because its original allegations were never substantiated, yet they provided the context for a commercial sponsor to promote services to readers concerned about the reliability of competing agencies.
+### Possible Astroturfing and Competitor Disparagement
 
-If the thread was organically initiated, it illustrates the practical complications that can arise from out-of-province immigration processing. **If it was deliberately seeded, it would represent a potentially misleading form of advertising: using an unverified complaint about a Pattaya agent to undermine confidence in competitors and redirect prospective customers toward Thai Visa Centre.**
+The original Pattaya agency was never identified, and the allegations concerning its immigration paperwork remained unverified.
 
-The available evidence does not establish that PointCleaner was a fabricated account, that the complaint was invented, or that Thai Visa Centre coordinated the discussion. However, the combination of an unverified negative account, moderator intervention, and subsequent sponsor advertising warrants scrutiny rather than treating the discussion as an independently verified consumer experience.
+Nevertheless, **the discussion potentially undermined confidence in Pattaya-based visa agents while generating favorable exposure for Thai Visa Centre**, a paying forum sponsor.
+
+If PointCleaner's account was genuine, the discussion illustrates possible complications arising from out-of-province immigration processing.
+
+If it was deliberately seeded for promotional purposes, it would represent a more concerning scenario: using an apparently independent complaint to discourage consumers from considering competing agencies.
+
+There is no evidence establishing that PointCleaner was a fabricated account, that Thai Visa Centre coordinated the discussion, or that its moderators knowingly participated in commercial astroturfing.
+
+What the public record does establish is **an unverified negative account about a competitor, followed by moderator promotion of Thai Visa Centre and the sponsor's own advertising**.
+
+That sequence warrants attention when assessing the broader pattern of commercial promotion and potential astroturfing documented on ASEAN NOW.
 
 ## Claims of Guaranteed Airport Entry Services
 
