@@ -880,101 +880,59 @@ However, the forum discussion does not independently establish whether such airp
 
 ## Possible Astroturfing in Thai Visa Centre Passport-Mailing Discussion
 
-On March 17, 2025, an ASEAN NOW account named **DanBlack** opened a discussion titled "Retirement Visa," asking whether a Bangkok-based agency could arrange a retirement extension by mail for someone living in Phuket.[^66]
+On March 17, 2025, an ASEAN NOW account named **DanBlack** asked whether [Thai Visa Centre](../brands/thai-visa-centre.md) could arrange a retirement extension by mail for someone living in Phuket.[^66]
 
-Although the question appeared to be an ordinary request for immigration advice, the poster specifically named [Thai Visa Centre](../brands/thai-visa-centre.md) and introduced a favorable price comparison:
+Although the poster questioned whether immigration rules permitted remote processing, they introduced the agency with a favorable price comparison:
 
 > I have been shopping around, and they are the cheapest[^66]
 
-The account simultaneously raised doubts about the agency's proposed procedure, explaining that the poster had heard immigration extensions required applicants to attend in person.
+The framing is noteworthy because an apparently independent consumer inquiry simultaneously introduced Thai Visa Centre as an inexpensive option and invited other participants to reassure readers about its legitimacy.
 
-**The framing is noteworthy because it introduced Thai Visa Centre as an attractive, low-cost option while creating an opportunity for other participants to publicly reassure prospective customers about its legitimacy.**
+### Moderators and Another Account Endorse the Agency
 
-Such a format can resemble promotional seeding or astroturfing, in which apparently independent consumer questions generate favorable recommendations for a particular business. However, the original post alone does not establish that DanBlack was acting on behalf of Thai Visa Centre.
-
-### Moderators Defend the Agency Against Passport-Mailing Concerns
-
-Global Moderator [DrJack54](../moderators/drjack54.md) initially asked which visa category the poster held and clarified the distinction between visas and extensions.
-
-Another forum member, **Ben Zioner**, raised concerns about mailing passports and money to an unfamiliar business. He warned that the arrangement could be a scam, although he supplied no evidence that Thai Visa Centre itself was fraudulent.
-
-DrJack54 quickly dismissed the practical concern:
+When forum member **Ben Zioner** warned against mailing passports or money to an unfamiliar agent, Global Moderator [DrJack54](../moderators/drjack54.md) responded:
 
 > It's common practice if using agent.[^66]
 
-Another participant, **scubascuba3**, questioned this reassurance, observing that customers commonly delivered their passports to visa agents personally rather than mailing them.
+Another participant, **scubascuba3**, questioned this reassurance, noting that customers commonly delivered passports to visa agents personally rather than mailing them.
 
-On March 18, fellow Global Moderator [BrandonJT](../moderators/brandonjt.md) entered the discussion and explicitly endorsed Thai Visa Centre.
-
-He explained that the agency served customers throughout Thailand, that customers outside Bangkok generally needed to mail their passports, and that readers could consult its online reviews.
-
-BrandonJT stated:
+On March 18, fellow Global Moderator [BrandonJT](../moderators/brandonjt.md) explicitly endorsed Thai Visa Centre:
 
 > They're a legit agent[^66]
 
-He also emphasized the distinction between Thai Visa Centre and another business called Thai Visa Center, directing attention toward the sponsor's precise commercial identity.
+He explained that the agency served customers throughout Thailand and that customers outside Bangkok generally mailed their passports. He also directed readers toward its online reviews.
 
-The exchange effectively transformed the original poster's uncertainty into an opportunity for two Global Moderators to reassure readers about Thai Visa Centre's services.
-
-### Another Account Supplies a Favorable Customer Testimonial
-
-Shortly after BrandonJT's endorsement, an account named **zzzzz** entered the discussion and claimed to have personally used Thai Visa Centre.
-
-The account confirmed that the agency could handle the proposed extension and repeated the favorable price comparison:
+Another account, **zzzzz**, subsequently claimed firsthand experience with Thai Visa Centre and repeated the original poster's favorable price comparison:
 
 > yes they are the cheapest unless you travel to Pattaya[^66]
 
-This response reinforced two elements of the original post: Thai Visa Centre's supposed affordability and its ability to handle immigration paperwork remotely.
+The apparent progression was therefore an independent-looking question introducing Thai Visa Centre, reassurance from two Global Moderators, and a favorable testimonial from another account.
 
-The apparent progression was therefore:
+This pattern could resemble promotional seeding or astroturfing, although the discussion does not establish that the original question or testimonial was coordinated with the agency.
 
-1. **DanBlack:** Introduces Thai Visa Centre as the cheapest available agency while requesting reassurance about postal processing.
-2. **DrJack54:** Normalizes handing passports to agents despite objections.
-3. **BrandonJT:** Explicitly endorses Thai Visa Centre as legitimate and explains its nationwide service.
-4. **zzzzz:** Claims firsthand experience and repeats the assertion that Thai Visa Centre offers exceptionally low prices.
-5. **Thai Visa Centre:** Subsequently enters the discussion to defend its business practices and promote its commercial services.
+### Thai Visa Centre Enters With Commercial Assurances
 
-This sequence is consistent with a pattern sometimes associated with promotional seeding: an apparently independent question introduces a brand, other accounts supply endorsements, and the business ultimately benefits from increased visibility.
+On March 27, Thai Visa Centre participated through its official **Forum Sponsor** account, responding directly to concerns about sending passports and payments to the agency.
 
-**It is not proof of coordinated astroturfing.** The thread provides no evidence that DanBlack or zzzzz were paid, controlled by the agency, or instructed to post favorable comments.
+The company claimed that passports were accepted through secure postal delivery requiring signatures, that payments were treated as refundable deposits, and that customers received written documentation confirming these arrangements.[^66]
 
-Nevertheless, the repeated emphasis on Thai Visa Centre's affordability, legitimacy, and convenience makes the discussion relevant when evaluating the wider pattern of promotional activity involving ASEAN NOW's commercial sponsor.
+It also asserted that refunds were consistently provided when applications were canceled or could not be completed, and that customer documents were processed without unnecessary delays.
 
-### Thai Visa Centre Appears With Refund and Security Assurances
+These were assurances made by Thai Visa Centre itself. The discussion provided no independent verification of its refund practices, document handling, or processing times.
 
-On March 27, approximately ten days after the original question, Thai Visa Centre joined the discussion through its official **Forum Sponsor** account.
+The sponsor concluded by promoting its commercial services through `tvc.co.th/chat` and `tdac.in.th`.
 
-Rather than simply answering the original poster's procedural question, the agency responded extensively to concerns raised by skeptical members.
+### Possible Astroturfing and Repeated Recommendations
 
-Thai Visa Centre confirmed that it accepted original passports through secure postal delivery requiring signatures upon receipt.
+The sequence illustrates how an apparently ordinary customer inquiry can develop into a favorable promotional discussion: a brand is introduced with a positive price claim, influential forum accounts provide reassurance, another participant contributes a testimonial, and the business eventually advertises directly.
 
-It also claimed that customer payments were treated as refundable deposits, supported by written documentation, and that refunds were consistently issued whenever customers canceled or applications could not be completed.[^66]
+**The involvement of zzzzz is particularly relevant because DrJack54 later publicly challenged the same account for repeatedly posting similar Thai Visa Centre recommendations in other discussions.** The account acknowledged that repetition.[^18]
 
-The agency further claimed that it submitted cases promptly, did not unnecessarily retain customer documents, and maintained reliable processing times.
+Nevertheless, repeated recommendations do not establish that DanBlack or zzzzz were fabricated accounts, compensated promoters, or acting under instructions from Thai Visa Centre.
 
-These assurances were made by the agency itself. The forum discussion provided no independent evidence verifying its refund history, internal document-handling procedures, or turnaround times.
+The original discussion also contained genuine skepticism about mailing passports, and there is no evidence that the agency mishandled the poster's documents.
 
-Thai Visa Centre concluded its response with commercial links, including its live-chat service at `tvc.co.th/chat` and an advertisement for early Thailand Digital Arrival Card submissions through `tdac.in.th`.
-
-Consequently, a discussion originally framed as a consumer question had developed into a public endorsement and marketing opportunity for ASEAN NOW's sponsor.
-
-### Why the Discussion Raises Astroturfing Concerns
-
-Several characteristics distinguish this thread from a straightforward request for independent advice.
-
-The original poster volunteered Thai Visa Centre's name and a favorable price claim before receiving any recommendations. Two Global Moderators then defended the agency's legitimacy or practices. A separate account supplied a positive customer testimonial and repeated the pricing claim. Finally, Thai Visa Centre itself joined the discussion with detailed business assurances and advertising links.
-
-The resulting thread could be particularly persuasive to readers arriving through search engines because the favorable recommendations appear within an ordinary public discussion rather than on the agency's own website.
-
-**This is precisely the credibility advantage that makes astroturfing effective: commercial promotion presented within what appears to be independent consumer conversation.**
-
-The discussion also contains genuine skepticism. Ben Zioner and scubascuba3 questioned the passport-mailing arrangement, demonstrating that the thread was not uniformly favorable to Thai Visa Centre.
-
-Nor is there evidence establishing that the original poster was fabricated, that the favorable testimonial was purchased, or that the sponsor coordinated the timing of the discussion.
-
-Nevertheless, the combination of favorable framing, repeated moderator reassurance, an unverified customer endorsement, and the sponsor's eventual promotional response makes this a noteworthy example of **possible organic-looking commercial promotion**.
-
-The incident reinforces broader concerns about ASEAN NOW's commercial sponsorship arrangements, particularly when Global Moderators repeatedly endorse a paying sponsor in discussions where readers may reasonably expect independent advice.
+What the exchange does document is **a potentially promotional pattern involving a commercial sponsor, favorable customer claims, and moderator endorsements**—all presented within an apparently independent consumer-advice discussion.
 
 ## Global Moderator Calls Out Repeated Thai Visa Centre Promotion by Forum Account
 
