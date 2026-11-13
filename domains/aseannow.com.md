@@ -164,7 +164,17 @@ BrandonJT then directed readers to [Thai Visa Centre](../brands/thai-visa-centre
 
 On June 23, 2026, Thailand's Immigration Division 2 announced an investigation into brokers allegedly charging foreigners 4,500–12,000 baht for guaranteed airport entry. Authorities established a fact-finding committee to examine possible misconduct involving immigration officers and warned of criminal and disciplinary consequences if wrongdoing was established.[^11]
 
-The investigation concerned alleged broker activities and did not publicly identify Thai Visa Centre or BrandonJT as subjects. Nevertheless, the forum's earlier promotion of purportedly guaranteed entry services is noteworthy given the subsequent official scrutiny of similar arrangements. The claims about cooperation with immigration officers remain unverified.
+The following day, BrandonJT responded to an ASEAN NOW discussion about the investigation by predicting that paid entry services would return to normal once public attention moved elsewhere. On June 25, he further mocked the prospect of effective enforcement:
+
+> We've investigated ourselves and found no wrongdoing[^30]
+
+On July 19, after other forum members reported that airport "safe entry" services had been suspended or restricted, BrandonJT claimed that they remained available at Don Mueang, Chiang Mai, and Phuket airports. He also mentioned an unconfirmed rumor that services had resumed at Suvarnabhumi.[^30]
+
+By October 2026, however, BrandonJT offered a more restrictive assessment. Responding to a traveler who had previously been denied entry and used paid airport assistance, he stated that his latest information indicated **Krabi was the only airport where such services remained available**. Other participants discussed possible limited operations by different agencies at Suvarnabhumi.[^31]
+
+These exchanges document a Global Moderator continuing to discuss and defend the availability of paid airport-entry arrangements following an official investigation into similar services. The changing availability claims suggest disruption to the broader market, although the extent of any restrictions was not independently established.
+
+The official investigation did not publicly identify BrandonJT or Thai Visa Centre as subjects of the inquiry, and the forum discussion does not establish whether either was involved in the activities under investigation.
 
 ## Passport Data Collection and Airport Screening Claims
 
@@ -249,3 +259,5 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^27]: https://tak.immigration.go.th/wp-content/uploads/2025/03/08-List-of-Public-Handbook-English.pdf
 [^28]: `https://aseannow.com/topic/1359952-visa-run-to-laos-always-fine-no-problem-with-tdac/page/2/`
 [^29]: https://asq.in.th/policy/terms-and-conditions
+[^30]: `https://aseannow.com/topic/1397370-guaranteed-entry-under-some-official-scrutiny/`
+[^31]: `https://aseannow.com/topic/1406166-are-safe-entry-service-still-available/`
