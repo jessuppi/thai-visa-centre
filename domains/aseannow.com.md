@@ -66,6 +66,18 @@ The original poster challenged the moderation decision, noting that he was shari
 
 The incident documents the removal of discussion about the legality of visa-agent arrangements while favorable testimonials remained published. Although the deleted posts cannot be independently reviewed, the moderator's own statement confirms that questions concerning legality were among the subjects removed.
 
+## Public Complaints on Trustpilot
+
+As of November 2026, ASEAN NOW's Trustpilot profile displayed a **2.2 out of 5 TrustScore**, based on nine reviews, eight of which awarded one star. Several reviewers complained about censorship, forum bans, commercial advertising, and the reliability of published content.[^17]
+
+On November 6, 2025, a reviewer identified as **Clive** reported being banned without warning after several years of participation. According to the review, the ban followed a question asking how forum sponsor [Thai Visa Centre](../brands/thai-visa-centre.md) obtained people's email addresses. The reviewer claimed that moderators treated the question as a negative attack against a sponsor.
+
+The complaint appeared one day after ASEAN NOW administrator Captain Flack publicly acknowledged removing criticism of Thai Visa Centre under Rule 37. Although the timing and subject matter closely correspond, the available evidence does not establish whether the Trustpilot reviewer was involved in that particular forum incident.
+
+Other reviews described similar dissatisfaction with moderation. In July 2025, a reviewer using the name **spud** alleged that a temporary ban referencing a four-year-old post became permanent after requesting an explanation. Earlier reviews from May 2024 and October 2025 also criticized censorship and heavy-handed moderation.
+
+These reviews provide additional public accounts of dissatisfaction with ASEAN NOW's moderation practices, including complaints specifically involving commercial sponsors. However, Trustpilot reviews are individual submissions whose allegations have not been independently verified. The small number of reviews also limits their usefulness as a measure of overall member satisfaction.
+
 ## Moderator Accounts Promoting Thai Visa Centre
 
 The ASEAN NOW account [BrandonJT](../moderators/brandonjt.md), designated as a Global Moderator, has repeatedly promoted services offered by forum sponsor [Thai Visa Centre](../brands/thai-visa-centre.md), including airport entry assistance, visa extensions, and immigration reporting.
@@ -140,3 +152,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^14]: `https://aseannow.com/topic/1193131-first-time-retirement-visa-use-thai-visa-centre-agent-or-a-legal-firm-in-bangkok/`
 [^15]: `https://aseannow.com/topic/1249268-agent-recommendations-in-bangkok/`
 [^16]: https://www.scribd.com/document/1095353640/Thai-Visa-Centre-Thaiger-ASEAN-NOW-Consumer-Complaint
+[^17]: https://www.trustpilot.com/review/aseannow.com
