@@ -878,6 +878,104 @@ The exchange raises questions about the transparency of commercial airport-entry
 
 However, the forum discussion does not independently establish whether such airport screening arrangements existed, how submitted passport information was handled, or whether any customer data was improperly accessed or disclosed.
 
+## Possible Astroturfing in Thai Visa Centre Passport-Mailing Discussion
+
+On March 17, 2025, an ASEAN NOW account named **DanBlack** opened a discussion titled "Retirement Visa," asking whether a Bangkok-based agency could arrange a retirement extension by mail for someone living in Phuket.[^66]
+
+Although the question appeared to be an ordinary request for immigration advice, the poster specifically named [Thai Visa Centre](../brands/thai-visa-centre.md) and introduced a favorable price comparison:
+
+> I have been shopping around, and they are the cheapest[^66]
+
+The account simultaneously raised doubts about the agency's proposed procedure, explaining that the poster had heard immigration extensions required applicants to attend in person.
+
+**The framing is noteworthy because it introduced Thai Visa Centre as an attractive, low-cost option while creating an opportunity for other participants to publicly reassure prospective customers about its legitimacy.**
+
+Such a format can resemble promotional seeding or astroturfing, in which apparently independent consumer questions generate favorable recommendations for a particular business. However, the original post alone does not establish that DanBlack was acting on behalf of Thai Visa Centre.
+
+### Moderators Defend the Agency Against Passport-Mailing Concerns
+
+Global Moderator [DrJack54](../moderators/drjack54.md) initially asked which visa category the poster held and clarified the distinction between visas and extensions.
+
+Another forum member, **Ben Zioner**, raised concerns about mailing passports and money to an unfamiliar business. He warned that the arrangement could be a scam, although he supplied no evidence that Thai Visa Centre itself was fraudulent.
+
+DrJack54 quickly dismissed the practical concern:
+
+> It's common practice if using agent.[^66]
+
+Another participant, **scubascuba3**, questioned this reassurance, observing that customers commonly delivered their passports to visa agents personally rather than mailing them.
+
+On March 18, fellow Global Moderator [BrandonJT](../moderators/brandonjt.md) entered the discussion and explicitly endorsed Thai Visa Centre.
+
+He explained that the agency served customers throughout Thailand, that customers outside Bangkok generally needed to mail their passports, and that readers could consult its online reviews.
+
+BrandonJT stated:
+
+> They're a legit agent[^66]
+
+He also emphasized the distinction between Thai Visa Centre and another business called Thai Visa Center, directing attention toward the sponsor's precise commercial identity.
+
+The exchange effectively transformed the original poster's uncertainty into an opportunity for two Global Moderators to reassure readers about Thai Visa Centre's services.
+
+### Another Account Supplies a Favorable Customer Testimonial
+
+Shortly after BrandonJT's endorsement, an account named **zzzzz** entered the discussion and claimed to have personally used Thai Visa Centre.
+
+The account confirmed that the agency could handle the proposed extension and repeated the favorable price comparison:
+
+> yes they are the cheapest unless you travel to Pattaya[^66]
+
+This response reinforced two elements of the original post: Thai Visa Centre's supposed affordability and its ability to handle immigration paperwork remotely.
+
+The apparent progression was therefore:
+
+1. **DanBlack:** Introduces Thai Visa Centre as the cheapest available agency while requesting reassurance about postal processing.
+2. **DrJack54:** Normalizes handing passports to agents despite objections.
+3. **BrandonJT:** Explicitly endorses Thai Visa Centre as legitimate and explains its nationwide service.
+4. **zzzzz:** Claims firsthand experience and repeats the assertion that Thai Visa Centre offers exceptionally low prices.
+5. **Thai Visa Centre:** Subsequently enters the discussion to defend its business practices and promote its commercial services.
+
+This sequence is consistent with a pattern sometimes associated with promotional seeding: an apparently independent question introduces a brand, other accounts supply endorsements, and the business ultimately benefits from increased visibility.
+
+**It is not proof of coordinated astroturfing.** The thread provides no evidence that DanBlack or zzzzz were paid, controlled by the agency, or instructed to post favorable comments.
+
+Nevertheless, the repeated emphasis on Thai Visa Centre's affordability, legitimacy, and convenience makes the discussion relevant when evaluating the wider pattern of promotional activity involving ASEAN NOW's commercial sponsor.
+
+### Thai Visa Centre Appears With Refund and Security Assurances
+
+On March 27, approximately ten days after the original question, Thai Visa Centre joined the discussion through its official **Forum Sponsor** account.
+
+Rather than simply answering the original poster's procedural question, the agency responded extensively to concerns raised by skeptical members.
+
+Thai Visa Centre confirmed that it accepted original passports through secure postal delivery requiring signatures upon receipt.
+
+It also claimed that customer payments were treated as refundable deposits, supported by written documentation, and that refunds were consistently issued whenever customers canceled or applications could not be completed.[^66]
+
+The agency further claimed that it submitted cases promptly, did not unnecessarily retain customer documents, and maintained reliable processing times.
+
+These assurances were made by the agency itself. The forum discussion provided no independent evidence verifying its refund history, internal document-handling procedures, or turnaround times.
+
+Thai Visa Centre concluded its response with commercial links, including its live-chat service at `tvc.co.th/chat` and an advertisement for early Thailand Digital Arrival Card submissions through `tdac.in.th`.
+
+Consequently, a discussion originally framed as a consumer question had developed into a public endorsement and marketing opportunity for ASEAN NOW's sponsor.
+
+### Why the Discussion Raises Astroturfing Concerns
+
+Several characteristics distinguish this thread from a straightforward request for independent advice.
+
+The original poster volunteered Thai Visa Centre's name and a favorable price claim before receiving any recommendations. Two Global Moderators then defended the agency's legitimacy or practices. A separate account supplied a positive customer testimonial and repeated the pricing claim. Finally, Thai Visa Centre itself joined the discussion with detailed business assurances and advertising links.
+
+The resulting thread could be particularly persuasive to readers arriving through search engines because the favorable recommendations appear within an ordinary public discussion rather than on the agency's own website.
+
+**This is precisely the credibility advantage that makes astroturfing effective: commercial promotion presented within what appears to be independent consumer conversation.**
+
+The discussion also contains genuine skepticism. Ben Zioner and scubascuba3 questioned the passport-mailing arrangement, demonstrating that the thread was not uniformly favorable to Thai Visa Centre.
+
+Nor is there evidence establishing that the original poster was fabricated, that the favorable testimonial was purchased, or that the sponsor coordinated the timing of the discussion.
+
+Nevertheless, the combination of favorable framing, repeated moderator reassurance, an unverified customer endorsement, and the sponsor's eventual promotional response makes this a noteworthy example of **possible organic-looking commercial promotion**.
+
+The incident reinforces broader concerns about ASEAN NOW's commercial sponsorship arrangements, particularly when Global Moderators repeatedly endorse a paying sponsor in discussions where readers may reasonably expect independent advice.
+
 ## Forum Promotion of Unofficial TDAC Websites
 
 In May 2025, ASEAN NOW published a discussion warning travelers about unofficial Thailand Digital Arrival Card (TDAC) websites charging fees for a government service that was available free of charge. However, an **“Admin note”** added to the opening post explicitly described `tdac.in.th` and `tdac.agents.co.th` as:
@@ -987,3 +1085,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^63]: `https://aseannow.com/topic/1372382-visa-agents-in-bangkok/`
 [^64]: `https://aseannow.com/topic/1374954-vientiane-e-visa-after-9-months-in-thailand/`
 [^65]: `https://aseannow.com/topic/1374954-vientiane-e-visa-after-9-months-in-thailand/page/2/`
+[^66]: `https://aseannow.com/topic/1354958-retirement-visa/`
