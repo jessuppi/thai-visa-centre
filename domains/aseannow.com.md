@@ -576,37 +576,45 @@ This illustrates how immigration warnings, apparently authoritative forum recomm
 
 ## Tod Daniels Defends Paid Airport Entry Before Conceding It May Be Unnecessary
 
-In September 2025, ASEAN NOW member **NitJune** sought advice about returning to Thailand after an overstay dating back more than two decades. The poster expressed concerns about potentially being blacklisted and considered paying a commercial visa agency to check their immigration history before traveling.[^49]
+In September 2025, ASEAN NOW member **NitJune** sought advice about returning to Thailand following an overstay dating back more than 20 years. Concerned about a possible immigration blacklist, the poster considered paying an agency to check their records before traveling.[^49]
 
-On September 6, [Tod Daniels](../people/tod-daniels.md), whose ASEAN NOW account carried the special **"Thai Visas Forum Expert"** designation, recommended Thai Visa Service, also known as SWD Transport, claiming the company could check the traveler's immigration records and determine whether entry assistance was necessary.
+On September 6, [Tod Daniels](../people/tod-daniels.md), whose account carried the special **"Thai Visas Forum Expert"** designation, recommended Thai Visa Service (SWD Transport) to investigate the traveler's immigration history.
 
-During the same discussion, Global Moderator [BrandonJT](../moderators/brandonjt.md) confirmed that [Thai Visa Centre](../brands/thai-visa-centre.md) offered similar assistance. He directed the poster to `agents.co.th/tdac-apply`, explaining that the agency's paid airport-entry service could be purchased as an add-on during the TDAC application process.[^49]
+Global Moderator [BrandonJT](../moderators/brandonjt.md) also recommended commercial assistance, confirming that [Thai Visa Centre](../brands/thai-visa-centre.md) offered airport-entry services. He directed the poster to `agents.co.th/tdac-apply`, explaining that paid entry assistance could be purchased alongside a TDAC application.[^49]
 
-On September 10, NitJune claimed to have contacted Thai Visa Centre through LINE and described being told that the agency could arrange immigration-history checks involving officers at Bangkok's international airport. The poster also mentioned a separate quotation of approximately 10,000 baht for entry assistance.[^50]
+On September 10, NitJune claimed to have contacted Thai Visa Centre through LINE and been told that the agency could arrange immigration-history checks involving officers at Bangkok's international airport. The poster also mentioned a separate quotation of approximately **10,000 baht** for entry assistance.[^50]
 
-Other forum members challenged the necessity of paying an agent for an overstay dating back to 2000, pointing out that Thailand's modern overstay-related reentry bans had been introduced years later.
+### Daniels Defends Guaranteed Entry, Then Reverses Position
 
-Daniels rejected the criticism, insisting:
+Other participants questioned whether commercial assistance was necessary for an overstay dating back to 2000, noting that Thailand's modern overstay-related reentry bans were introduced considerably later.
+
+Daniels initially rejected their criticism, insisting:
 
 > Safe entry does exactly what it says, it guarantees you get in[^50]
 
-However, in the same response, Daniels acknowledged that the poster probably did not need paid entry assistance. He nevertheless defended the expense as providing peace of mind.
+However, he simultaneously acknowledged that the traveler probably did not need paid assistance, defending the expense primarily as providing peace of mind.
 
-After another member accused him of unnecessarily alarming the traveler, Daniels reversed his position:
+After another participant challenged his advice, Daniels conceded:
 
 > I stand corrected.[^50]
 
-He agreed that someone whose only issue was an overstay more than 20 years earlier should be able to return without purchasing airport-entry assistance.
+He agreed that someone whose only immigration issue was an overstay more than two decades earlier should generally be able to return without purchasing airport-entry assistance.
 
-Despite this concession, Thai Visa Centre subsequently participated through its official **Forum Sponsor** account, advertising airport fast-track services costing **2,000–6,000 baht** for most cases. The agency directed the poster to its commercial TDAC application system and offered to waive the usual 270-baht early-submission fee when purchasing the additional service.[^51]
+**The reversal is significant because an account bearing a special immigration-expert designation initially defended a supposedly guaranteed commercial service before acknowledging that it was probably unnecessary for this traveler.**
 
-The poster continued expressing interest in the agency's assistance, claiming that spending money for peace of mind was worthwhile. Thai Visa Centre also explained that customers could submit temporary flight information and modify their arrival details later.
+### Thai Visa Centre Continues Advertising
 
-The exchange illustrates how immigration concerns can develop into extended commercial sales discussions on ASEAN NOW, even when other contributors question whether the advertised services are necessary.
+Despite that concession, Thai Visa Centre entered the discussion through its official **Forum Sponsor** account and advertised airport fast-track services costing **2,000–6,000 baht** for most cases.
 
-Particularly noteworthy is that Daniels initially defended paid airport-entry arrangements in categorical terms before acknowledging that the traveler probably did not need them. Nevertheless, Thai Visa Centre continued advertising its services within the same discussion.
+The agency directed readers to its commercial TDAC platform and offered to waive the usual **270-baht early-submission fee** when customers purchased the additional service.[^51]
 
-The sequence raises questions about whether ASEAN NOW's immigration-expert designations, moderator recommendations, and commercial sponsor participation encourage readers to purchase services that may offer little practical benefit in their particular circumstances.
+NitJune continued expressing interest in paying for assistance for peace of mind. The agency also explained that customers could initially submit temporary flight details and update them later.
+
+The discussion does not independently establish that commercial providers could guarantee immigration admission.
+
+Nevertheless, **the sequence illustrates how a traveler's concerns developed into a commercial sales opportunity even after a designated forum expert acknowledged that paid assistance was probably unnecessary**.
+
+It also raises questions about the reliability of categorical immigration advice offered alongside recommendations for commercial services.
 
 ## Tod Daniels and DrJack54 Redirect Airport-Service Inquiry to Thai Visa Centre
 
