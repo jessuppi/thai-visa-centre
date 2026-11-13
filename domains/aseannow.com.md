@@ -56,6 +56,20 @@ On November 5, 2025, ASEAN NOW administrator **Captain Flack** publicly confirme
 
 The discussion also featured favorable recommendations from forum moderators and promotional replies from Thai Visa Centre's official sponsor account. The incident raises questions about whether ASEAN NOW's commercial sponsorship arrangements compromise the independence of discussions concerning immigration services. The removed comment is no longer publicly visible, preventing independent assessment of its contents.
 
+## Forum Discussion Closed After Moderator Endorsement
+
+On October 23, 2025, ASEAN NOW member **AcuDoc** opened a discussion asking whether anyone had firsthand experience with [Thai Visa Centre](../brands/thai-visa-centre.md) in Bangkok. The member provided the agency's website address to clarify which business they were asking about.[^33]
+
+Global Moderator [DrJack54](../moderators/drjack54.md) responded by describing Thai Visa Centre as the "most well known agent in Bangkok" and advising the member to contact the agency directly through LINE or other channels. He then announced:
+
+> OP, has answer. Thread closed.[^33]
+
+The forum confirms that the discussion was closed to further replies. No other members had been given an opportunity to share their personal experiences with Thai Visa Centre before the thread was closed.
+
+The incident is noteworthy because the original question specifically requested independent customer experiences, rather than a recommendation to contact the business itself. By closing the discussion immediately after his own endorsement, DrJack54 prevented members from providing additional testimonials, including potentially unfavorable experiences.
+
+The exchange documents another instance in which an ASEAN NOW moderator's intervention limited public discussion concerning a commercial sponsor. The available evidence establishes the closure and its timing, but does not establish the moderator's underlying motive.
+
 ## Censorship of Visa-Agent Legality Discussions
 
 On September 4, 2025, ASEAN NOW Global Moderator [DrJack54](../moderators/drjack54.md) announced the removal of posts questioning the legality of visa-agent arrangements during a discussion about obtaining retirement extensions without meeting the usual 800,000-baht bank deposit requirement:
@@ -270,3 +284,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^30]: `https://aseannow.com/topic/1397370-guaranteed-entry-under-some-official-scrutiny/`
 [^31]: `https://aseannow.com/topic/1406166-are-safe-entry-service-still-available/`
 [^32]: `https://aseannow.com/topic/1358135-thailand-digital-arrival-card-tdac/page/10/`
+[^33]: `https://aseannow.com/topic/1376876-thai-visa-centre-in-bangkok/`
