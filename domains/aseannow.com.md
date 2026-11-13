@@ -194,6 +194,34 @@ On April 22, 2026, BrandonJT recommended Thai Visa Centre's `90day.in.th` immigr
 
 These exchanges document moderators actively recommending a commercial sponsor, directly inviting the agency into discussions, and providing prospective customers with information about its paid services. The available evidence does not establish whether these recommendations were independently motivated, coordinated, or compensated, or whether the advertised airport arrangements operated as described.
 
+## Moderator Refers Financially Struggling Pensioner to Thai Visa Centre
+
+On December 18, 2025, ASEAN NOW member **cliveshep** described difficulties renewing his marriage-based retirement-age visa extension after Bangkok Bank reportedly restricted access to funds needed for immigration requirements. The member, who was approaching his 80th birthday and used a wheelchair, explained that he depended on a modest UK pension and was concerned about his ability to remain in Thailand.[^44]
+
+Global Moderator [DrJack54](../moderators/drjack54.md) initially recommended obtaining a retirement extension through a visa agent, suggesting that this would be easier given the member's mobility difficulties.
+
+Cliveshep responded that paying for an agent was not financially possible, explaining that rising expenses, exchange-rate changes, and his limited pension income had placed considerable pressure on his household finances.[^44]
+
+Despite this explanation, DrJack54 continued presenting paid agency assistance as one of the member's principal options:
+
+> Meet the financials + BBL freeze account OR
+>
+> use an agent OR
+>
+> Go home.[^44]
+
+DrJack54 then directly tagged [Thai Visa Centre](../brands/thai-visa-centre.md), asking the commercial forum sponsor to advise the member.
+
+Thai Visa Centre responded through its official **Forum Sponsor** account, expressing concern for the member's situation and announcing that it had privately sent a personal telephone number. The response also included links promoting the agency's commercial services, including `tdac.in.th` and `tvc.co.th/chat`.[^44]
+
+Cliveshep subsequently thanked participants but reiterated that he and his wife had developed their own approach to managing the situation. He also confirmed that he had responded privately to Thai Visa Centre.
+
+Later in the discussion, DrJack54 acknowledged that leaving Thailand would be a poor option and suggested that an agent operating outside the member's province might be able to assist.
+
+The exchange illustrates how ASEAN NOW's immigration discussions can channel members toward commercial sponsors even when those members have explicitly stated that they cannot afford paid assistance.
+
+It also provides another documented example of a Global Moderator directly introducing Thai Visa Centre into a discussion involving an individual seeking immigration advice, followed by the agency contacting that individual privately and advertising its services.
+
 ## ASEAN NOW Moderators and Thai Visa Centre's Facebook Groups
 
 On December 29, 2025, ASEAN NOW Global Moderator [DrJack54](../moderators/drjack54.md) described participating in a heated Facebook discussion concerning Thailand's 90-day immigration reporting requirements. He identified the group as "Thailand Visa Advice and more" and said he believed it was connected to [Thai Visa Centre](../brands/thai-visa-centre.md).[^35]
@@ -397,3 +425,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^41]: https://www.reddit.com/r/Thailand/comments/i3yac5/
 [^42]: https://www.raiyai.com/forum/topic/be-careful-using-thai-visa-centre-agency/
 [^43]: https://www.reddit.com/r/Thailand/comments/114we6a/comment/jgle27a/
+[^44]: `https://aseannow.com/topic/1382159-am-i-paranoic-here/`
