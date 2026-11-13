@@ -976,6 +976,103 @@ Nevertheless, the combination of favorable framing, repeated moderator reassuran
 
 The incident reinforces broader concerns about ASEAN NOW's commercial sponsorship arrangements, particularly when Global Moderators repeatedly endorse a paying sponsor in discussions where readers may reasonably expect independent advice.
 
+## Global Moderator Calls Out Repeated Thai Visa Centre Promotion by Forum Account
+
+On September 4, 2025, an ASEAN NOW discussion about a possible historic immigration ban and retirement visa arrangements developed into another opportunity for [Thai Visa Centre](../brands/thai-visa-centre.md) to receive commercial recommendations.[^18]
+
+The original poster, an account named **NitJune**, claimed to have overstayed in Thailand around the year 2000 and expressed concerns about whether that incident would affect future immigration applications.
+
+Global Moderator [DrJack54](../moderators/drjack54.md) recommended contacting Thai Visa Centre, despite the poster's intended residence being in Surat Thani rather than Bangkok.
+
+Another account, **zzzzz**, subsequently entered the discussion and recommended contacting Grace at Thai Visa Centre directly, supplying the agency's commercial website and suggesting that the poster seek its advice instead of relying on other forum participants.
+
+DrJack54 responded with an unusually revealing observation:
+
+> You have posted exact same in other threads.[^18]
+
+The moderator explained that Thai Visa Centre had already been recommended and questioned why the member was repeatedly encouraging readers to contact the agency rather than seek advice from ASEAN NOW.
+
+The account did not deny the repeated recommendations, responding:
+
+> Yes i have, so?[^18]
+
+The member then continued praising Thai Visa Centre, describing the agency as dependable, reliable, and inexpensive.
+
+**This exchange is noteworthy because a Global Moderator explicitly identified repetitive promotion of the forum's commercial sponsor by an account presenting itself as an ordinary community member.**
+
+### Repeated Recommendations Across Multiple Discussions
+
+The September 2025 exchange was not an isolated example.
+
+On December 3, 2024, an ASEAN NOW member sought recommendations for visa agents serving southern Thailand, particularly the Khanom area.
+
+The original poster wanted assistance obtaining retirement extensions without maintaining the usual 800,000-baht bank deposit.
+
+The account zzzzz immediately recommended Thai Visa Centre and Grace, despite the inquiry concerning a location outside Bangkok.[^68]
+
+On July 2, 2025, another forum member, **simon43**, requested advice about renewing a retirement extension without the required bank balance.
+
+The same account again promoted Thai Visa Centre, writing:
+
+> told you many times
+> Thai visa centre, Grace!!![^69]
+
+Simon43 acknowledged that the recommendation had already been made repeatedly and confirmed that he had contacted the agency.
+
+However, he explained that his concerns extended beyond obtaining an immediate extension to whether he could continue living in Thailand as he grew older.
+
+The exchange therefore provides a further example of the account repeatedly directing another member toward Thai Visa Centre, even after the member had already contacted the business.
+
+### Promotion Continues Into 2026
+
+On July 22, 2026, the account zzzzz participated in another ASEAN NOW discussion about international bank-transfer codes used for marriage and retirement extensions.
+
+Rather than focusing solely on banking documentation, the account again recommended contacting Grace at Thai Visa Centre.
+
+It described the agency as among the most reliable and affordable providers for customers outside Pattaya.[^70]
+
+This continued a recurring pattern documented across several years: the account introduced or recommended Thai Visa Centre in discussions involving immigration paperwork, financial requirements, banking arrangements, and concerns about competing visa agents.
+
+The same account also appeared in a March 2025 discussion about mailing passports to Thai Visa Centre. In that thread, it claimed firsthand experience with the agency and repeated the original poster's assertion that Thai Visa Centre was exceptionally inexpensive.[^66]
+
+Taken together, these appearances demonstrate sustained promotion of a particular commercial sponsor by an account publicly presented as an ordinary forum participant.
+
+### Possible Promotional Seeding or Astroturfing
+
+The repeated recommendations warrant attention because online astroturfing can involve apparently independent accounts introducing commercial recommendations into relevant community discussions.
+
+In this instance, the account repeatedly emphasized Thai Visa Centre's affordability, reliability, and ability to handle immigration matters throughout Thailand.
+
+Its recommendations appeared in discussions initiated by different members, often involving circumstances where the agency could potentially sell immigration services.
+
+Most significantly, DrJack54 publicly acknowledged that the account had made substantially similar recommendations in other threads.
+
+**The moderator's own observation provides direct evidence that the repetition was noticeable enough to attract criticism within ASEAN NOW itself.**
+
+However, repeated recommendations do not by themselves establish paid promotion, fabricated testimonials, or coordination with Thai Visa Centre.
+
+The account claimed to be a genuine customer, and the available discussions do not establish otherwise.
+
+DrJack54's decision to challenge the repeated recommendations also demonstrates that his moderation was not uniformly favorable toward every individual promoting the sponsor.
+
+Nevertheless, the exchange raises questions about how ASEAN NOW distinguishes genuine customer advocacy from persistent commercial promotion, particularly when the business being recommended is also a paying forum sponsor.
+
+### Thai Visa Centre Advertises While Questions About Legality Are Removed
+
+The broader September 2025 discussion is particularly relevant because Thai Visa Centre subsequently participated through its official **Forum Sponsor** account.
+
+The agency advertised retirement visa packages costing **60,000 baht** with bank-account opening assistance or **37,000 baht** for a Non-O visa and annual extension without account opening.[^19]
+
+During the same discussion, DrJack54 announced that posts questioning the legality of visa-agent arrangements had been removed as off-topic.
+
+This created a noteworthy contrast: repeated favorable recommendations and the sponsor's commercial advertisements remained publicly visible while some criticism concerning visa-agent legality was removed.
+
+The record does not establish that the account zzzzz coordinated its recommendations with Thai Visa Centre or that the moderator removed posts to benefit the business.
+
+Nevertheless, **the combination of sustained recommendations from an apparently independent account, direct advertising by the sponsor, and restrictions on discussions about legality illustrates how commercial messaging can become disproportionately prominent in a consumer-advice forum**.
+
+The incident offers particularly relevant context for evaluating other ASEAN NOW discussions in which ordinary-looking accounts repeatedly recommend Thai Visa Centre while presenting their statements as personal experiences.
+
 ## Forum Promotion of Unofficial TDAC Websites
 
 In May 2025, ASEAN NOW published a discussion warning travelers about unofficial Thailand Digital Arrival Card (TDAC) websites charging fees for a government service that was available free of charge. However, an **“Admin note”** added to the opening post explicitly described `tdac.in.th` and `tdac.agents.co.th` as:
@@ -1169,3 +1266,6 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^65]: `https://aseannow.com/topic/1374954-vientiane-e-visa-after-9-months-in-thailand/page/2/`
 [^66]: `https://aseannow.com/topic/1354958-retirement-visa/`
 [^67]: `https://aseannow.com/topic/1361664-apply-for-your-tdac-early-here/page/2/`
+[^68]: `https://aseannow.com/topic/1345135-visa-agent-needed/`
+[^69]: `https://aseannow.com/topic/1365362-what-visa-agent-can-help-o-retirement-renewal-no-800k-baht/`
+[^70]: `https://aseannow.com/topic/1400827-international-transfer-codes-for-marriage-retirement-extension/`
