@@ -1160,6 +1160,20 @@ On October 1, Thai Visa Centre reported that more than 70% of the listed hotels 
 
 The discussion documents Thai Visa Centre using its commercial sponsorship of ASEAN NOW to promote travel-related services beyond visa processing. The domain is particularly relevant because `asq.in.th` later appeared in forum recommendations for paid airport-entry assistance. Its published terms and conditions, dated July 16, 2024, identify [Agents Co., Ltd.](../companies/agents-co-ltd.md) as the contracting company.[^29]
 
+## ASQ.in.th Customers Report Unsolicited Thai Visa Centre Marketing (2021)
+
+On November 19, 2021, ASEAN NOW member **soi3eddie** reported receiving unsolicited marketing emails from [Thai Visa Centre](../brands/thai-visa-centre.md) after using the quarantine-hotel booking website `asq.in.th`.[^87]
+
+The member reproduced an email dated October 26, 2021, sent by **Grace from Thai Visa Centre**. Its subject referenced the recipient's upcoming November 4 arrival in Thailand and British passport, while the message addressed the traveler by their full name, including middle names.
+
+Although the customer had used `asq.in.th` for hotel arrangements, the email promoted Thai Visa Centre's retirement visa services, VIP airport assistance, and Certificate of Entry/Thailand Pass application services. It included separate LINE contacts for Thai Visa Centre and `asq.in.th`.
+
+Another forum member, **NanLaew**, confirmed receiving the same promotional email. The member stated that they had deleted it and received no further messages.
+
+Soi3eddie questioned why information submitted for hotel arrangements was subsequently being used to advertise unrelated visa services. The member complained that `asq.in.th` did not clearly disclose its relationship with Thai Visa Centre or provide an opportunity to opt out of this marketing.
+
+The exchange documents customers reporting the use of travel-booking information for Thai Visa Centre's commercial marketing. The reproduced email provides a particularly direct connection between `asq.in.th`, the agency's visa services, and the personal information travelers submitted when arranging entry to Thailand.[^87]
+
 ## Thai Visa Centre Advertises Guaranteed Thailand Pass Approvals (2022)
 
 On February 3, 2022, [Thai Visa Centre](../brands/thai-visa-centre.md)'s official **Forum Sponsor** account promoted its paid Thailand Pass application service during an ASEAN NOW discussion about problems with the government's registration system.[^83]
@@ -1366,3 +1380,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^84]: `https://jeddah.thaiembassy.org/en/page/visitthailandtestandgo?menu=61e7f9a7cf067c65cb3eae83`
 [^85]: `https://aseannow.com/topic/1233360-aq-hotels-7-10-day-pricing-updated-regularly-by-the-hotels/`
 [^86]: `https://aseannow.com/topic/1255500-agent-for-residence-certificate-bangkok/`
+[^87]: `https://aseannow.com/topic/1240046-best-website-to-book-a-testgo-hotel/`
