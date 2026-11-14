@@ -78,6 +78,20 @@ The exchange occurred less than four months after Thai immigration police public
 
 The discussion documents Thai Visa Centre presenting itself as a source of consumer-protection guidance while its own recent police controversy remained unresolved in the available public reporting.
 
+## Thai Visa Centre Describes Customer Profiling and Passport-Document Requirements (2021)
+
+In April 2021, ASEAN NOW members challenged [Thai Visa Centre](../brands/thai-visa-centre.md) over its automated customer-intake system and requests for personal information before providing immigration-service quotations.[^77]
+
+On April 22, member **Kiujunn** complained that the agency's advertised telephone number led to an automated message and that its LINE chatbot asked intrusive questions. Thai Visa Centre responded that it had disabled ordinary telephone calls in favor of a callback system and used automated messaging to collect initial customer information.
+
+On April 28, the agency explained that its system collected customers' passport countries, ages, and email addresses. It described maintaining comprehensive customer profiles and using email addresses to link communications across different platforms, including Facebook and LINE.
+
+The following day, member **edwardandtubs** complained that a simple request for visa pricing had resulted in demands for a photograph of their passport information page, entry stamp, and most recent visa.
+
+Thai Visa Centre confirmed that photographs of entry stamps and recent visa stamps were required for certain quotations, explaining that customers frequently misunderstood their own immigration status. It clarified that a passport identification-page photograph was not necessary for general advice but was required before the agency would accept a case.
+
+The exchange provides a firsthand explanation of Thai Visa Centre's customer-profiling system, cross-platform contact matching, and collection of immigration documents. These practices are relevant to later concerns raised by ASEAN NOW members about unsolicited marketing following travel bookings through the agency's associated services.[^87]
+
 ## Moderator Endorses Volunteer Visas Without Volunteering (2021)
 
 On August 4, 2020, Thai immigration police announced arrests connected to an alleged visa-document forgery operation involving [Thai Visa Centre](../brands/thai-visa-centre.md). Officers reported recovering forged documents and 55 government rubber stamps.[^9]
