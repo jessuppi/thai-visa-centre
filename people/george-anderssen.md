@@ -28,6 +28,14 @@ Daniels advised travelers refused entry to Thailand not to sign immigration refu
 
 The article demonstrates how Anderssen's editorial contributions helped bring immigration advice from ASEAN NOW contributors to The Thaiger's wider readership.
 
+## Retrospective Interview (2026)
+
+On February 2, 2026, Anderssen appeared on the *Hua Hin Today Podcast* in a 52-minute interview titled *George Anderssen: How ThaiVisa Became the #1 Expat Site in Thailand*.[^7]
+
+The discussion revisited ThaiVisa.com's beginnings as a single webpage in 2002 and its subsequent growth into a major expatriate forum. Topics included early monetization through **Google AdSense**, reliance on volunteer moderators, management of trolls and viral discussions, and the forum's role during the 2004 Indian Ocean tsunami.
+
+The interview provides a retrospective account of how Anderssen developed ThaiVisa.com's advertising business and moderation structure, both of which remained important aspects of ASEAN NOW following its ownership changes.
+
 ## References
 
 [^1]: https://www.thephuketnews.com/choice-group-asia-acquires-thaivisa-media-group-53902.php
@@ -36,3 +44,4 @@ The article demonstrates how Anderssen's editorial contributions helped bring im
 [^4]: `https://thethaiger.com/news/national/ive-been-denied-entry-to-thailand-now-what`
 [^5]: `https://aseannow.com/topic/1319374-annoying-screen-popups-on-asean-now/`
 [^6]: https://www.linkedin.com/posts/georgebkk_aseannow-thaivisa-sales-activity-7028512778038493184-iEVh
+[^7]: https://open.spotify.com/episode/6O7JdQdwFAd4PYoHlTUsLy
