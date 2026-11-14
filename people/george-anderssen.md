@@ -40,6 +40,10 @@ Applicants were instructed to contact an email address at Choice Group Asia, whi
 
 ## Editorial Involvement
 
+On October 2, 2009, Anderssen's **george** account published an announcement explaining that the *Bangkok Post* had instructed ThaiVisa.com to stop republishing its articles outside an approved RSS-feed arrangement. The newspaper's publisher, Post Publishing PCL, had adopted a policy restricting how other websites could reproduce its reporting.[^11]
+
+ThaiVisa.com responded by prohibiting members from posting or quoting Bangkok Post articles, warning that offending posts would be deleted and members could receive moderation warnings. The announcement also criticized the newspaper's declining web traffic while emphasizing ThaiVisa.com's continuing relationships with *The Nation* and *The Phuket Gazette*.[^11]
+
 On June 22, 2024, [The Thaiger](../brands/the-thaiger.md) published *I've Been Denied Entry to Thailand – Now What?* under Anderssen's byline, branded as a **The Thaiger / ASEAN NOW Exclusive**. The article featured advice from [Tod Daniels](tod-daniels.md), whom the publication described as a visa expert.[^4]
 
 Daniels advised travelers refused entry to Thailand not to sign immigration refusal forms, claiming this could prevent denial stamps in their passports. He also described paid intermediaries who could allegedly arrange entry after a refusal, including commercial **"safe entry" services** at airports.
@@ -66,3 +70,4 @@ The interview provides a retrospective account of how Anderssen developed ThaiVi
 [^8]: `https://aseannow.com/topic/1312306-forum-back-online-after-cyber-attack/`
 [^9]: `https://aseannow.com/topic/1312594-what-happened/`
 [^10]: `https://aseannow.com/topic/4922-the-bear-pit-and-new-forum-rules/`
+[^11]: `https://aseannow.com/topic/303104-bangkok-post-bans-thaivisa-from-using-its-content/`
