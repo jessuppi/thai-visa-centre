@@ -194,6 +194,17 @@ This exchange adds an important development to Daniels's history of promoting co
 
 The discussion does not establish that Thai Visa Centre itself had suspended or restricted operations, and Daniels did not specifically recommend that company in this exchange.
 
+
+## November 2026: Expanded Moderation Role Across Thai Visa Centre's Facebook Groups
+
+On November 7, 2026, a discussion in the Thai Visa Advice Facebook community revealed changes to the moderation of two visa-advice groups associated with Thai Visa Centre. The group's administrator announced that Tod Daniels had been promoted to moderator of the second community, "Thailand Visa Advice | DTV | Retirement & More," confirming that Daniels now held moderation privileges across both groups.[^24]
+
+The administrator also confirmed that moderators were being shared between the communities. One group would primarily serve people seeking to handle immigration procedures themselves, while the other permitted broader discussions, including paid visa-assistance services.
+
+The changes prompted criticism from members concerned about Thai Visa Centre's growing influence over the formerly independent advice community. One participant specifically complained that the agency's original sponsorship arrangement had expanded into a more active management role.
+
+The announcement is significant in light of Daniels' November 2025 endorsement of Thai Visa Centre, when he denied having any personal affiliation with the company while acknowledging that it owned the Facebook group he moderated. His subsequent appointment to moderate a second agency-associated community further documents his continuing involvement in Thai Visa Centre's immigration-advice network.[^1][^24]
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/page/2/`
@@ -220,3 +231,4 @@ The discussion does not establish that Thai Visa Centre itself had suspended or 
 [^21]: `https://aseannow.com/topic/1401332-laos-visa-exempt-vs-tourist-visa-and-re-entry/`
 [^22]: `https://aseannow.com/topic/1406166-are-safe-entry-service-still-available/`
 [^23]: `https://aseannow.com/topic/1295041-retirement-visa-change-of-address/`
+[^24]: `https://asq.in.th/question/what-are-the-recent-changes-to-the-thailand-visa-related-group-and-what-are-the-communitys-reactions`
