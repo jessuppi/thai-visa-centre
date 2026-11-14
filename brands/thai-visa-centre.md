@@ -20,6 +20,12 @@ On August 4, 2020, Immigration Bureau chief **Pol. Lt. Gen. Sompong Chingduang**
 
 On August 10, 2020, just six days after the arrests, Thai Visa Centre circulated a promotional email attributed to Grace Scira announcing that she would continue working with the agency. The email claimed that Thai Immigration had already verified the business as a legitimate visa agent and that operations remained open. When the email was reproduced on ASEAN NOW on August 12, members questioned the rapid resumption of business, the agency's continued unsolicited marketing, and earlier statements suggesting Grace was no longer employed there.[^7]
 
+## May 2022 AQ.in.th Customer Data and Visa Marketing
+
+On May 4, 2022, a traveler reported receiving an unsolicited email from `thaivisacentre.com` advertising visa-extension services. The message specifically referenced an earlier Test & Go booking the traveler had made through [aq.in.th](../domains/aq.in.th.md), despite the traveler not having requested visa assistance from Thai Visa Centre.[^14]
+
+The traveler questioned whether the agency was legitimate before supplying additional personal information, including passport photographs, visa details, and their TM6 arrival card. The incident documents **cross-service marketing using information from an earlier travel booking**, raising questions about how Thai Visa Centre shared and used customer information between its websites.[^14]
+
 ## February 2023 Immigration Contact and Visa Scrutiny
 
 In February 2023, a former Thai Visa Centre customer reported that immigration officers questioned why their previous marriage-visa extensions had been issued in a province where they had never lived. The customer said that when they contacted Thai Visa Centre for assistance, the agency explained that its **immigration contact had retired** and could no longer help. The customer subsequently signed a statement and underwent additional scrutiny before resolving the matter.[^10]
@@ -69,3 +75,4 @@ The advertisement offered three packages: **45,000 baht** with processing in 2â€
 [^11]: https://www.facebook.com/commerce/listing/4083941391740596/
 [^12]: https://archive.ph/4ZdgW
 [^13]: https://archive.ph/baqQQ
+[^14]: https://www.reddit.com/r/ThailandTourism/comments/ui8lrq/extending_visa_via_thai_visa_centre/
