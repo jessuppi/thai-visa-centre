@@ -10,6 +10,14 @@ Choice Group Asia appointed **Dan Cheeseman** as managing director of the acquir
 
 ## Forum Management
 
+On January 4, 2004, ThaiVisa.com administrators published proposed forum rules that explicitly protected commercial advertisers from public criticism. The first rule stated:
+
+> Our contracts with our advertisers prohibit comments regarding advertisements which appear on our forums.
+
+The rule further specified that such comments would be removed. In the same discussion, an administrator posting as **IT Manager** stated that he had spent six hours working with Anderssen and another administrator to develop the rules.[^10]
+
+The exchange establishes that Anderssen participated in shaping ThaiVisa.com's moderation policies during its earliest years, when restrictions on criticism of paying advertisers were already being introduced. These restrictions foreshadowed ASEAN NOW's later **Rule 37**, which protects forum sponsors from negative commentary.
+
 On April 19, 2024, Anderssen responded to ASEAN NOW members questioning how The Thaiger's acquisition would affect the forum. Posting under the username **george**, he confirmed that the existing team would remain and that improvements to moderation and content were planned.[^3]
 
 He also described plans to reorganize the forum, improve navigation and the homepage, and upgrade its cloud hosting infrastructure. Anderssen indicated that further announcements would follow in May 2024.
@@ -57,3 +65,4 @@ The interview provides a retrospective account of how Anderssen developed ThaiVi
 [^7]: https://open.spotify.com/episode/6O7JdQdwFAd4PYoHlTUsLy
 [^8]: `https://aseannow.com/topic/1312306-forum-back-online-after-cyber-attack/`
 [^9]: `https://aseannow.com/topic/1312594-what-happened/`
+[^10]: `https://aseannow.com/topic/4922-the-bear-pit-and-new-forum-rules/`
