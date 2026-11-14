@@ -1134,6 +1134,16 @@ The result was a discussion where repeated endorsements and the sponsor's commer
 
 The available evidence does not establish coordination between zzzzz, Thai Visa Centre, or the moderators. It does, however, document a sustained pattern of favorable recommendations that even a Global Moderator considered repetitive enough to challenge publicly.
 
+## Thai Visa Centre Promotes Quarantine Hotel Services Through ASQ.in.th (2021)
+
+On September 28, 2021, [Thai Visa Centre](../brands/thai-visa-centre.md)'s official **Forum Sponsor** account opened an ASEAN NOW discussion promoting Alternative Quarantine (AQ/ASQ) hotel packages through `asq.in.th`.[^85]
+
+The agency stated that it was working directly with quarantine hotels to update their accommodation packages following changes to Thailand's COVID-19 entry requirements. It provided links to seven-day and ten-day hotel listings and explained that participating properties were submitting updated prices, family packages, and discounts for Thai citizens.
+
+On October 1, Thai Visa Centre reported that more than 70% of the listed hotels had supplied updated pricing. The agency continued responding to questions about hotel availability, government quarantine requirements, and accommodation rates, directing readers to `asq.in.th`.[^85]
+
+The discussion documents Thai Visa Centre using its commercial sponsorship of ASEAN NOW to promote travel-related services beyond visa processing. The domain is particularly relevant because `asq.in.th` later appeared in forum recommendations for paid airport-entry assistance. Its published terms and conditions, dated July 16, 2024, identify [Agents Co., Ltd.](../companies/agents-co-ltd.md) as the contracting company.[^29]
+
 ## Thai Visa Centre Advertises Guaranteed Thailand Pass Approvals (2022)
 
 On February 3, 2022, [Thai Visa Centre](../brands/thai-visa-centre.md)'s official **Forum Sponsor** account promoted its paid Thailand Pass application service during an ASEAN NOW discussion about problems with the government's registration system.[^83]
@@ -1338,3 +1348,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^82]: `https://aseannow.com/topic/1314467-thai-visa-centre-visa-agent-unreliable/page/2/`
 [^83]: `https://aseannow.com/topic/1248848-thailand-pass-system-issue-checking-status/`
 [^84]: `https://jeddah.thaiembassy.org/en/page/visitthailandtestandgo?menu=61e7f9a7cf067c65cb3eae83`
+[^85]: `https://aseannow.com/topic/1233360-aq-hotels-7-10-day-pricing-updated-regularly-by-the-hotels/`
