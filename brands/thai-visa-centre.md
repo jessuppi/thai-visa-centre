@@ -86,7 +86,7 @@ On October 10, 2026, ASEAN NOW moderator BrandonJT stated that Thai Visa Centre 
 
 In the same discussion, Thai Visa Centre's official forum account advertised a **45,000-baht retirement visa package** involving bank-account opening and processing over 2–3 weeks, alongside a **55,000-baht same-day package** promising completion within approximately 6–7 hours. In a separate November 2026 Ask Thailand discussion, an account promoting the agency's packages explicitly identified **Chaeng Watthana Immigration** as the location for its same-day service, offering airport transfers and staff accompaniment throughout the process.[^17][^18]
 
-An [August 15, 2026 promotional announcement](https://asq.in.th/question/what-are-the-application-options-and-costs-for-non-o-visas-and-extensions-in-thailand) published by Thai Visa Centre explicitly described its **55,000-baht same-day package** as including a three-month Non-O visa, a 12-month retirement extension, and Thai bank-account-opening assistance, with the entire process advertised as taking approximately **6–7 hours**.[^19]
+An August 15, 2026 promotional announcement published by Thai Visa Centre explicitly described its **55,000-baht same-day package** as including a three-month Non-O visa, a 12-month retirement extension, and Thai bank-account-opening assistance, with the entire process advertised as taking approximately **6–7 hours**.[^19]
 
 Under Thailand's published immigration requirements, retirement extensions ordinarily require evidence of **at least 800,000 baht maintained in a Thai bank account for two months before applying**, or qualifying monthly income of at least **65,000 baht**. Combined with the October 2026 claim that Thai Visa Centre can process applications at Chaeng Watthana **without financial documentation**, the same-day package raises a specific question about how the agency satisfies these requirements when applicants are only opening their Thai bank accounts that day.[^17][^20]
 
@@ -111,6 +111,6 @@ These statements link Thai Visa Centre's expedited retirement-visa services to C
 [^15]: `https://www.reddit.com/r/ThailandVisaAdvice/comments/1uqqi6i/welcome_to_rthailandvisaadvice/`
 [^16]: https://www.reddit.com/r/digitalnomad/comments/1rzlppi/thai_visa_centre_reviews_anyone_here_used_this/
 [^17]: `https://aseannow.com/topic/1402094-hua-hin-visa-agent/`
-[^18]: https://asq.in.th/question/can-a-person-on-a-tourist-visa-in-thailand-apply-for-a-retirement-visa-if-they-are-over-50
-[^19]: https://asq.in.th/question/what-are-the-application-options-and-costs-for-non-o-visas-and-extensions-in-thailand
+[^18]: `https://asq.in.th/question/can-a-person-on-a-tourist-visa-in-thailand-apply-for-a-retirement-visa-if-they-are-over-50`
+[^19]: `https://asq.in.th/question/what-are-the-application-options-and-costs-for-non-o-visas-and-extensions-in-thailand`
 [^20]: https://www.thailawonline.com/glossary/financial-requirement/
