@@ -130,6 +130,18 @@ ASEAN NOW's published forum rules provide special protections for commercial spo
 
 Rule 24 separately exempts forum sponsors from the general prohibition on commercial promotion, allowing paying advertisers to promote businesses in ways ordinary members cannot.[^1]
 
+On September 24, 2021, ASEAN NOW Global Moderator [DrJack54](../moderators/drjack54.md) recommended Thai Visa Centre to a member seeking immigration assistance in Bangkok, directly tagging the agency's account.[^76]
+
+Another member, **problemfarang**, criticized Thai Visa Centre's pricing, claiming the agency had quoted approximately 30,000 baht for a visa extension. The member also complained that its LINE account automatically requested passport, visa, and TM6 photographs from prospective customers. Questioning the agency's prominent advertising presence on ASEAN NOW, the member explicitly asked moderators not to delete his criticism.
+
+Thai Visa Centre responded through its **Forum Sponsor** account, confirming that its document requests were automated and explaining that they placed prospective customers into a prioritized queue. The agency also acknowledged its commercial relationship with the forum:
+
+> As a long term sponsor we have a good relationship with this forum[^76]
+
+Despite denying that it was directly promoting services in the discussion, Thai Visa Centre encouraged the original poster to contact its team through LINE and provided links to its services.
+
+The exchange provides an unusually direct acknowledgement of the agency's longstanding relationship with ASEAN NOW, alongside an early example of a member expressing concern that criticism of the sponsor might be removed.
+
 On November 5, 2025, ASEAN NOW administrator **Captain Flack** publicly confirmed removing a post criticizing [Thai Visa Centre](../brands/thai-visa-centre.md), describing it as an off-topic attack against a forum sponsor. He invoked Rule 37 and warned the member against posting negative comments about sponsors, an interpretation broader than the published rule's wording.[^2]
 
 The discussion also featured favorable recommendations from forum moderators and promotional replies from Thai Visa Centre's official sponsor account. The incident raises questions about whether ASEAN NOW's commercial sponsorship arrangements compromise the independence of discussions concerning immigration services. The removed comment is no longer publicly visible, preventing independent assessment of its contents.
@@ -1233,3 +1245,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^73]: https://tdac.immigration.go.th/manual/en/faq.html
 [^74]: https://thethaiger.com/guides/visa-information/thai-visa-centre-accuses-former-employee-of-stealing-from-a-family-seeking-to-travel-to-thailand
 [^75]: `https://aseannow.com/topic/1285744-ais-sim-central-bkk-300mbps-rubbish/`
+[^76]: `https://aseannow.com/topic/1232852-recommendation-for-visa-agent-in-bangkok/`
