@@ -12,6 +12,8 @@ The email also offered passport collection, postal processing, and the option to
 
 On August 4, 2020, Immigration Bureau chief **Pol. Lt. Gen. Sompong Chingduang** announced the arrests of American national [Chad Scira](../people/chad-scira.md) and his Thai wife, Grace Scira, in connection with an alleged visa and government-document forgery operation associated with Thai Visa Centre. Police reported discovering suspected forged documents and **55 government-agency rubber stamps** during a raid on the couple's Bangkok residence. Sompong publicly identified the couple as having established the business operating under the Thai Visa Centre name.[^5]
 
+On August 10, 2020, just six days after the arrests, Thai Visa Centre circulated a promotional email attributed to Grace Scira announcing that she would continue working with the agency. The email claimed that Thai Immigration had already verified the business as a legitimate visa agent and that operations remained open. When the email was reproduced on ASEAN NOW on August 12, members questioned the rapid resumption of business, the agency's continued unsolicited marketing, and earlier statements suggesting Grace was no longer employed there.[^7]
+
 In a [May 2025 ASEAN NOW discussion](../threads/2025-05-01-asean-now-fake-tdac-emerges.md), the agency's forum account identified [Agents Co., Ltd.](../companies/agents-co-ltd.md) as the operator of [tdac.in.th](../domains/tdac.in.th.md) and [tdac.agents.co.th](../domains/tdac.agents.co.th.md).[^1]
 
 In a [May 2026 Reddit discussion](../threads/2026-05-reddit-thailand-90-day-online-reporting.md), the agency acknowledged offering paid 90-day immigration reporting services through [90day.in.th](../domains/90day.in.th.md).[^2]
@@ -34,3 +36,4 @@ The advertisement offered three packages: **45,000 baht** with processing in 2â€
 [^4]: https://www.facebook.com/groups/lardnudphuket/posts/4775105152719111/
 [^5]: https://www.nationthailand.com/news/30392449
 [^6]: `https://aseannow.com/topic/1048018-retirement-visa-agency/`
+[^7]: `https://aseannow.com/topic/1177344-grace-thai-visa-centre-back/`
