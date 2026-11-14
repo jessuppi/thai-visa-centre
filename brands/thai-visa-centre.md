@@ -10,8 +10,16 @@ On its own [`tvc.co.th/scam`](../domains/tvc.co.th.md) page, the agency also sta
 
 These statements document the agency's publicly claimed operational connections. They do not independently establish the legal ownership of the domains or the complete relationships between the corporate entities involved.
 
+## September 2026 Facebook Advertising Complaint
+
+On September 25, 2026, a member of the **Phuket Market** Facebook group shared a Thai Visa Centre advertisement with a large red **"Scam"** label and the warning **"SCAM MAIL FROM BANGKOK CARE FULL."** The original Thai Visa Centre promotion, dated August 12, advertised a first-time 15-month retirement visa package with bank-account-opening assistance.[^1]
+
+The advertisement offered three packages: **45,000 baht** with processing in 2–3 weeks, **50,000 baht** within 3–4 days, and **55,000 baht** for same-day processing. The public complaint raised concerns about the agency's marketing, although the post did not include the underlying email or explain how the recipient obtained it.[^1]
+
 ## References
 
 - `https://tvc.co.th/scam`
 - `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
 - https://www.reddit.com/r/expatsinbangkok/comments/1tdqdc8/thailand_90_day_online_reporting/
+
+[^1]: https://www.facebook.com/groups/lardnudphuket/posts/4775105152719111/
