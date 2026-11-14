@@ -46,6 +46,12 @@ In November 2025, an [ASEAN NOW discussion](../threads/2025-11-04-asean-now-thai
 
 The incident documented ASEAN NOW moderators actively suppressing criticism of Thai Visa Centre in a discussion where prospective customers were seeking independent opinions about the agency.[^8]
 
+## July 2026 Reddit and Facebook Community Operations
+
+On July 8, 2026, a welcome announcement in [r/ThailandVisaAdvice](../threads/2026-07-08-reddit-thailand-visa-advice.md) explicitly identified **Thai Visa Centre as the creator of the subreddit**. The community was presented as a forum for discussing Thai visas, immigration procedures, extensions, border runs, and 90-day reporting.[^15]
+
+The agency also claimed to manage some of Thailand's largest visa-related Facebook communities, with **hundreds of thousands of members** across its groups. These statements establish Thai Visa Centre's publicly acknowledged role in operating immigration-advice communities that may appear to visitors to be independent discussion forums.[^15]
+
 ## August 2026 Out-of-Province Retirement Extensions
 
 On August 5, 2026, ASEAN NOW member TonBrow, who reported using Thai Visa Centre for retirement extensions since the COVID-19 period, stated that the agency sent passports to immigration offices in Thailand's northeastern **Isan region** for processing. He questioned whether the resulting extension stamps would withstand scrutiny at his local immigration office, particularly when applying for a Certificate of Residence.[^9]
@@ -76,3 +82,4 @@ The advertisement offered three packages: **45,000 baht** with processing in 2â€
 [^12]: https://archive.ph/4ZdgW
 [^13]: https://archive.ph/baqQQ
 [^14]: https://www.reddit.com/r/ThailandTourism/comments/ui8lrq/extending_visa_via_thai_visa_centre/
+[^15]: `https://www.reddit.com/r/ThailandVisaAdvice/comments/1uqqi6i/welcome_to_rthailandvisaadvice/`
