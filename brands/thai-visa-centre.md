@@ -2,6 +2,12 @@
 
 Thai Visa Centre is an unregistered trade name used to advertise Thai visa and immigration-assistance services. According to the Thai corporate records examined for this investigation, no company has ever been registered in Thailand under the exact legal name "Thai Visa Centre." The brand has instead been associated with separately registered corporate entities.
 
+## 2018 Retirement Visa Marketing and Unsolicited Emails
+
+On July 12, 2018, an ASEAN NOW (then ThaiVisa.com) discussion raised questions about Thai Visa Centre after a prospective customer reported being offered a retirement extension despite lacking the required **800,000-baht Thai bank balance**. Another member, Tanoshi, reproduced an unsolicited promotional email attributed to the agency advertising retirement extensions for **16,000 baht**, without bank-balance or pension documentation. The message claimed the agency would sponsor applicants' financial requirements and complete processing within 3â€“7 business days.[^6]
+
+The email also offered passport collection, postal processing, and the option to hand a passport directly to an immigration officer allegedly working with the agency. Tanoshi stated that he had never contacted Thai Visa Centre and questioned how the company obtained his email address, raising concerns about the possible sharing of customer information by unrelated businesses.[^6]
+
 ## August 2020 Police Raid
 
 On August 4, 2020, Immigration Bureau chief **Pol. Lt. Gen. Sompong Chingduang** announced the arrests of American national [Chad Scira](../people/chad-scira.md) and his Thai wife, Grace Scira, in connection with an alleged visa and government-document forgery operation associated with Thai Visa Centre. Police reported discovering suspected forged documents and **55 government-agency rubber stamps** during a raid on the couple's Bangkok residence. Sompong publicly identified the couple as having established the business operating under the Thai Visa Centre name.[^5]
@@ -27,3 +33,4 @@ The advertisement offered three packages: **45,000 baht** with processing in 2â€
 [^3]: `https://tvc.co.th/scam`
 [^4]: https://www.facebook.com/groups/lardnudphuket/posts/4775105152719111/
 [^5]: https://www.nationthailand.com/news/30392449
+[^6]: `https://aseannow.com/topic/1048018-retirement-visa-agency/`
