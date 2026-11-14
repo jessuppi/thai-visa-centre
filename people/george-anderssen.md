@@ -46,6 +46,10 @@ On June 16, 2006, Anderssen advertised two positions at ThaiVisa.com: a **conten
 
 The sales position focused on recruiting sponsors and selling advertising throughout Thailand, with commission or revenue-sharing arrangements offered. Anderssen also invited companies to provide the services on an outsourced basis, demonstrating ThaiVisa.com's efforts to expand its commercial operations.[^13]
 
+On October 23, 2006, Anderssen announced that ThaiVisa.com had **abandoned plans to charge new members subscription fees** for additional services. The proposed paid package would have included features such as unlimited international SMS messaging.[^17]
+
+Instead, Anderssen said the planned services would be offered free of charge and **financed through advertising revenue**. Members welcomed the decision, with one arguing that charging users who contributed content could undermine the forum's appeal. The announcement illustrates ThaiVisa.com's early decision to prioritize advertising-supported growth over membership subscriptions.[^17]
+
 In February 2023, Anderssen publicly advertised a sales position at [ASEAN NOW](../brands/asean-now.md) through his personal LinkedIn account. The recruitment post sought candidates to sell the forum's advertising packages to businesses throughout Thailand, emphasizing its large expatriate audience, social media presence, and daily email newsletter.[^6]
 
 Applicants were instructed to contact an email address at Choice Group Asia, which owned ASEAN NOW at the time. The recruitment provides direct evidence of Anderssen's involvement in the forum's commercial advertising operations before its acquisition by The Thaiger.
@@ -98,3 +102,4 @@ Anderssen said the new project would experiment with local contributors, short n
 [^14]: `https://aseannow.com/topic/238867-the-nation-and-thaivisacom-sign-internet-forum-deal/`
 [^15]: `https://aseannow.com/topic/165173-test-post-pls-ignore-will-delete-shortly/`
 [^16]: https://www.linkedin.com/in/georgebkk/
+[^17]: `https://aseannow.com/topic/89523-thaivisa-forum-will-remain-a-free-service/`
