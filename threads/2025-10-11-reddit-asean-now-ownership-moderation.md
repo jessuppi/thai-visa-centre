@@ -23,5 +23,5 @@ The thread documents longstanding community dissatisfaction with ASEAN NOW's mod
 ## References
 
 1. https://www.reddit.com/r/Thailand/comments/1o3pzqq/who_actually_owns_asean_now_does_anyone_even_use/
-2. https://aseannow.com/topic/1325285-aseannow-is-joining-the-thaiger/
-3. https://aseannow.com/forum_rules/
+2. `https://aseannow.com/topic/1325285-aseannow-is-joining-the-thaiger/`
+3. `https://aseannow.com/forum_rules/`
