@@ -191,6 +191,20 @@ Thai Visa Centre corrected the promotional code and continued defending the offe
 The exchange documents Thai Visa Centre using its commercial sponsor account to promote a branded offer outside immigration-related discussions, even after members explicitly objected to the unsolicited promotion.
 
 
+## Customer Complaint Over Thai Visa Centre Promotion Followed by Thread Closure (2023)
+
+On December 16, 2023, ASEAN NOW member **trax33** opened a discussion titled "Thai Visa Centre (visa agent) Unreliable?" after claiming that [Thai Visa Centre](../brands/thai-visa-centre.md) had discontinued a previously advertised discount for 90-day immigration reporting.[^81]
+
+The member reproduced a promotional offer advertising reporting for **100 baht instead of 500 baht per submission**, with the discounted rate supposedly remaining available "until your next visa renewal." After paying 100 baht for the first report, the customer was allegedly told that the promotion had ended and a second report would cost 500 baht.
+
+Several participants dismissed the complaint as an ordinary expired promotion. However, ASEAN NOW Global Moderator **Maestro** pointed out that the advertised expiration was tied to the customer's next visa renewal, rather than an unspecified promotional period. He explained that if the customer had not renewed their visa between the two reporting dates, the advertised discount should still have applied.
+
+The customer maintained that withdrawing the offer after only one reporting cycle was inconsistent with the original terms and criticized the agency's handling of the matter.
+
+Later that day, Maestro closed the discussion, citing numerous off-topic and abusive replies.[^82]
+
+The exchange documents a customer publicly challenging Thai Visa Centre's promotional pricing, a Global Moderator questioning the agency's apparent departure from its advertised terms, and the subsequent closure of the discussion.
+
 ## DrJack54 Promotes Thai Visa Centre While Other Visa-Agent Links Disappear
 
 On April 25, 2026, an ASEAN NOW account named **cubism001** requested recommendations for visa agents in Bangkok and Pattaya, mentioning businesses including Maneerat, Key, and Mots.[^59]
@@ -1304,3 +1318,5 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^78]: `https://aseannow.com/topic/1402765-visa-agents/`
 [^79]: `https://aseannow.com/topic/1194094-fake-visa-agency-who-protect-us/`
 [^80]: `https://aseannow.com/topic/1182571-thai-visa-centre-visa-agent/`
+[^81]: `https://aseannow.com/topic/1314467-thai-visa-centre-visa-agent-unreliable/`
+[^82]: `https://aseannow.com/topic/1314467-thai-visa-centre-visa-agent-unreliable/page/2/`
