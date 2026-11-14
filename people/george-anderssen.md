@@ -10,8 +10,17 @@ On April 19, 2024, Anderssen responded to ASEAN NOW members questioning how The 
 
 He also described plans to reorganize the forum, improve navigation and the homepage, and upgrade its cloud hosting infrastructure. Anderssen indicated that further announcements would follow in May 2024.
 
+## Editorial Involvement
+
+On June 22, 2024, [The Thaiger](../brands/the-thaiger.md) published *I've Been Denied Entry to Thailand – Now What?* under Anderssen's byline, branded as a **The Thaiger / ASEAN NOW Exclusive**. The article featured advice from [Tod Daniels](tod-daniels.md), whom the publication described as a visa expert.[^4]
+
+Daniels advised travelers refused entry to Thailand not to sign immigration refusal forms, claiming this could prevent denial stamps in their passports. He also described paid intermediaries who could allegedly arrange entry after a refusal, including commercial **"safe entry" services** at airports.
+
+The article demonstrates how Anderssen's editorial contributions helped bring immigration advice from ASEAN NOW contributors to The Thaiger's wider readership.
+
 ## References
 
 [^1]: https://www.thephuketnews.com/choice-group-asia-acquires-thaivisa-media-group-53902.php
 [^2]: `https://aseannow.com/topic/1325285-aseannow-is-joining-the-thaiger/`
 [^3]: `https://aseannow.com/topic/1325354-george-anderssen-interview-about-the-the-thaiger-asean-now-merger/`
+[^4]: https://thethaiger.com/news/national/ive-been-denied-entry-to-thailand-now-what
