@@ -873,6 +873,22 @@ These exchanges document a Global Moderator publicly describing arrangements tha
 
 Although BrandonJT has repeatedly recommended [Thai Visa Centre](../brands/thai-visa-centre.md) elsewhere on ASEAN NOW, neither discussion identifies the agency as participating in the alleged payments or temporary-deposit arrangements.
 
+## DrJack54 Challenges Thai Visa Centre Over Residence-Certificate Services (2022)
+
+On April 2, 2022, ASEAN NOW member **Oxx** requested recommendations for an agent capable of obtaining residence certificates in Bangkok. Global Moderator [DrJack54](../moderators/drjack54.md) explained that applications were normally handled at Mueang Thong Thani (MTT) Immigration and directly tagged [Thai Visa Centre](../brands/thai-visa-centre.md) to ask whether an agent could provide the service.[^86]
+
+Thai Visa Centre responded through its **Forum Sponsor** account, confirming that it offered residence-certificate assistance, but only to existing visa customers and not through MTT Immigration.
+
+DrJack54 sharply criticized the response:
+
+> Rubbish reply.[^86]
+
+He told the original poster that the agency's answer effectively meant it could not provide the requested service. Another participant, **BKKTRAVELER**, suggested that Thai Visa Centre's restriction reflected its practice of obtaining immigration extensions through offices outside Bangkok.
+
+The following day, Thai Visa Centre clarified that it could not assist customers who had not previously obtained their visas through the agency.
+
+The exchange documents an unusually direct disagreement between DrJack54 and the forum's commercial sponsor. It also establishes that Thai Visa Centre restricted certain immigration services to its existing visa customers, with participants explicitly connecting those services to the agency's out-of-province processing arrangements.
+
 ## Senior Forum Contributor Describes Thai Visa Centre's Out-of-Province Extensions (2021)
 
 On August 30, 2021, prominent ASEAN NOW immigration contributor **ubonjoe** responded to a member asking whether [Thai Visa Centre](../brands/thai-visa-centre.md) remained a forum sponsor and whether it handled retirement extensions at Bangkok's Chaeng Watthana Immigration office.[^77]
@@ -1349,3 +1365,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^83]: `https://aseannow.com/topic/1248848-thailand-pass-system-issue-checking-status/`
 [^84]: `https://jeddah.thaiembassy.org/en/page/visitthailandtestandgo?menu=61e7f9a7cf067c65cb3eae83`
 [^85]: `https://aseannow.com/topic/1233360-aq-hotels-7-10-day-pricing-updated-regularly-by-the-hotels/`
+[^86]: `https://aseannow.com/topic/1255500-agent-for-residence-certificate-bangkok/`
