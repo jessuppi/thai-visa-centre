@@ -878,6 +878,10 @@ That sequence warrants attention when assessing the broader pattern of commercia
 
 ## Claims of Guaranteed Airport Entry Services
 
+Thai immigration police had previously warned against commercial offers of paid fast-track immigration access. On March 28, 2024, police spokesman Maj Gen Cherngron Rimpadee stated that immigration fast-track lanes at Bangkok's airports were reserved for eligible priority travelers and warned against online advertisements offering access for a fee.[^71]
+
+The warning concerned a separate business, not Thai Visa Centre, and did not specifically address the agency's later "safe entry" claims. Nevertheless, it provides relevant official context for evaluating commercial promises involving preferential immigration processing.
+
 On July 23, 2025, ASEAN NOW Global Moderator [BrandonJT](../moderators/brandonjt.md) publicly described paid airport "safe entry" services as **"100% reliable"**, claiming that agents could arrange guaranteed admission to Thailand through contacts with immigration officers.[^10]
 
 The account described a process in which travelers submitted copies of every passport page for screening by airport contacts. According to BrandonJT, customers would also provide a photograph of their clothing before boarding so an immigration officer could identify them upon arrival, escort them to a counter, and personally facilitate their entry.
@@ -1201,3 +1205,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^68]: `https://aseannow.com/topic/1345135-visa-agent-needed/`
 [^69]: `https://aseannow.com/topic/1365362-what-visa-agent-can-help-o-retirement-renewal-no-800k-baht/`
 [^70]: `https://aseannow.com/topic/1400827-international-transfer-codes-for-marriage-retirement-extension/`
+[^71]: https://www.nationthailand.com/thailand/general/40036784
