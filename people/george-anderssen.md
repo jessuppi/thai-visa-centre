@@ -6,6 +6,10 @@ On November 19, 2004, Anderssen published a second-anniversary retrospective exp
 
 By November 2004, ThaiVisa.com had expanded into classifieds, blogs, chat rooms, photo galleries, and a news service. Anderssen also reported that the website sponsored **Radio Bangkok**, demonstrating how the original forum had developed into a broader expatriate media operation.[^12]
 
+On April 10, 2012, ThaiVisa.com announced an expansion into **Myanmar and Cambodia**, launching a Myanmar discussion forum and outlining plans for a Cambodian counterpart. The company reported more than **45,000 daily unique visitors** and **six million monthly page views** at the time.[^20]
+
+Responding to members, Anderssen identified `myanmar.thaivisa.com` and `cambodia.thaivisa.com` as proposed web addresses. He also stated that ThaiVisa.com was recruiting moderators familiar with Cambodia and **planning to establish an office in Phnom Penh**. A possible Laos forum was also under consideration, although no launch date had been scheduled.[^20]
+
 Anderssen remained involved following the website's acquisition by Choice Group Asia in 2015. When [The Thaiger](../brands/the-thaiger.md) acquired ASEAN NOW in April 2024, he was publicly identified as its Chief Operating Officer (COO).
 
 In September 2015, [Choice Group Asia Co., Ltd.](../companies/choice-group-asia-co-ltd.md) acquired ThaiVisa.com from Thaivisa Expat Group Co., Ltd. By then, the website founded by Anderssen had grown to more than **1.5 million monthly visitors** and over **300,000 email newsletter subscribers**, expanding well beyond its original discussion forum into a major English-language news and media platform for expatriates in Thailand.[^1]
@@ -109,3 +113,4 @@ Anderssen said the new project would experiment with local contributors, short n
 [^17]: `https://aseannow.com/topic/89523-thaivisa-forum-will-remain-a-free-service/`
 [^18]: `https://aseannow.com/topic/139171-thaivisa-approved-by-thai-govt-to-provide-insurance-services/`
 [^19]: `https://aseannow.com/topic/493351-thaivisa-insurance/`
+[^20]: `https://aseannow.com/topic/547048-thaivisa-expands-services-to-myanmar-and-cambodia/`
