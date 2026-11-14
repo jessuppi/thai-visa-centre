@@ -1134,6 +1134,22 @@ The result was a discussion where repeated endorsements and the sponsor's commer
 
 The available evidence does not establish coordination between zzzzz, Thai Visa Centre, or the moderators. It does, however, document a sustained pattern of favorable recommendations that even a Global Moderator considered repetitive enough to challenge publicly.
 
+## Thai Visa Centre Advertises Guaranteed Thailand Pass Approvals (2022)
+
+On February 3, 2022, [Thai Visa Centre](../brands/thai-visa-centre.md)'s official **Forum Sponsor** account promoted its paid Thailand Pass application service during an ASEAN NOW discussion about problems with the government's registration system.[^83]
+
+The agency claimed that it handled numerous Thailand Pass applications through `TP.in.th` and could resubmit applications when government processing errors occurred.
+
+When another member asked about pricing, Thai Visa Centre responded:
+
+> Our standard rate is 3,000 THB if 7+ days before arrival (approval guaranteed).[^83]
+
+The agency warned that applications submitted closer to arrival would cost substantially more, explaining that urgent cases required additional work and priority handling. It also promoted hundreds of favorable Facebook and Google reviews.
+
+Thailand Pass registration was available free of charge through the official government website at `tp.consular.go.th`. Thai government guidance confirmed that applicants could register directly without paying a fee.[^84]
+
+The exchange documents Thai Visa Centre advertising paid processing and guaranteed approval of a free government travel-registration service. It also establishes an earlier example of the agency monetizing official arrival procedures, preceding its later promotion of paid Thailand Digital Arrival Card (TDAC) submissions through ASEAN NOW.
+
 ## Forum Promotion of Unofficial TDAC Websites
 
 In May 2025, ASEAN NOW published a discussion warning travelers about unofficial Thailand Digital Arrival Card (TDAC) websites charging fees for a government service that was available free of charge. However, an **“Admin note”** added to the opening post explicitly described `tdac.in.th` and `tdac.agents.co.th` as:
@@ -1320,3 +1336,5 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^80]: `https://aseannow.com/topic/1182571-thai-visa-centre-visa-agent/`
 [^81]: `https://aseannow.com/topic/1314467-thai-visa-centre-visa-agent-unreliable/`
 [^82]: `https://aseannow.com/topic/1314467-thai-visa-centre-visa-agent-unreliable/page/2/`
+[^83]: `https://aseannow.com/topic/1248848-thailand-pass-system-issue-checking-status/`
+[^84]: `https://jeddah.thaiembassy.org/en/page/visitthailandtestandgo?menu=61e7f9a7cf067c65cb3eae83`
