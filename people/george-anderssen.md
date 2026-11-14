@@ -27,5 +27,5 @@ The article demonstrates how Anderssen's editorial contributions helped bring im
 [^1]: https://www.thephuketnews.com/choice-group-asia-acquires-thaivisa-media-group-53902.php
 [^2]: `https://aseannow.com/topic/1325285-aseannow-is-joining-the-thaiger/`
 [^3]: `https://aseannow.com/topic/1325354-george-anderssen-interview-about-the-the-thaiger-asean-now-merger/`
-[^4]: https://thethaiger.com/news/national/ive-been-denied-entry-to-thailand-now-what
+[^4]: `https://thethaiger.com/news/national/ive-been-denied-entry-to-thailand-now-what`
 [^5]: `https://aseannow.com/topic/1319374-annoying-screen-popups-on-asean-now/`
