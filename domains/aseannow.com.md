@@ -1045,6 +1045,10 @@ The note acknowledged that Thailand's official TDAC portal was `tdac.immigration
 
 In the same discussion, Thai Visa Centre's official **Forum Sponsor** account criticized a competing commercial TDAC website for misleading travelers and inadequate business disclosures. The agency acknowledged operating `tdac.in.th`, initially described it as an informational website without paid services, and subsequently edited its post to advertise an $8 early-submission service.[^5]
 
+On October 17, 2025, Thailand's Ministry of Tourism and Sports warned travelers against unofficial TDAC websites requesting payment, reiterating that registration through the government's official portal is free.[^72]
+
+The Immigration Bureau's official FAQ separately allows travel agencies to submit TDAC applications on behalf of clients.[^73] This distinction is relevant to ASEAN NOW's promotion of Thai Visa Centre's privately operated platform, which offered paid early submissions for a government service otherwise available free of charge.
+
 The combination of favorable website assurances and direct commercial promotion by a forum sponsor raises questions about ASEAN NOW's separation of independent travel information from advertiser interests.
 
 ## Unsubstantiated Security Claims About the Official TDAC Website
@@ -1206,3 +1210,5 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^69]: `https://aseannow.com/topic/1365362-what-visa-agent-can-help-o-retirement-renewal-no-800k-baht/`
 [^70]: `https://aseannow.com/topic/1400827-international-transfer-codes-for-marriage-retirement-extension/`
 [^71]: https://www.nationthailand.com/thailand/general/40036784
+[^72]: https://www.mots.go.th/mots_en/news/3764
+[^73]: https://tdac.immigration.go.th/manual/en/faq.html
