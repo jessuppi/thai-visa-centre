@@ -817,6 +817,18 @@ These exchanges document a Global Moderator publicly describing arrangements tha
 
 Although BrandonJT has repeatedly recommended [Thai Visa Centre](../brands/thai-visa-centre.md) elsewhere on ASEAN NOW, neither discussion identifies the agency as participating in the alleged payments or temporary-deposit arrangements.
 
+## Senior Forum Contributor Describes Thai Visa Centre's Out-of-Province Extensions (2021)
+
+On August 30, 2021, prominent ASEAN NOW immigration contributor **ubonjoe** responded to a member asking whether [Thai Visa Centre](../brands/thai-visa-centre.md) remained a forum sponsor and whether it handled retirement extensions at Bangkok's Chaeng Watthana Immigration office.[^77]
+
+Ubonjoe confirmed the sponsorship and stated that the agency did not process those extensions at Chaeng Watthana. Instead, he explained that its services were intended for customers needing assistance with financial proof and that the extensions were processed outside Bangkok.
+
+He initially estimated the agency's fees at 20,000–25,000 baht or more, but subsequently edited his response on August 31 after receiving updated pricing information:
+
+> Thai Visa Centre has advised me that it is 14k baht at this time.[^77]
+
+The exchange documents an established forum immigration contributor discussing Thai Visa Centre's out-of-province retirement-extension arrangements and receiving pricing information directly from the agency as early as 2021. It predates later moderator claims that Thai Visa Centre could arrange extensions through immigration offices outside applicants' provinces of residence.[^26]
+
 ## Out-of-Province Visa Extensions Promoted by Forum Moderators
 
 On August 13, 2026, an elderly ASEAN NOW member living in Korat sought advice about obtaining retirement extensions without personally attending immigration due to mobility difficulties. Global Moderator [DrJack54](../moderators/drjack54.md) directly tagged [Thai Visa Centre](../brands/thai-visa-centre.md), inviting the agency to assist.[^26]
@@ -1246,3 +1258,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^74]: https://thethaiger.com/guides/visa-information/thai-visa-centre-accuses-former-employee-of-stealing-from-a-family-seeking-to-travel-to-thailand
 [^75]: `https://aseannow.com/topic/1285744-ais-sim-central-bkk-300mbps-rubbish/`
 [^76]: `https://aseannow.com/topic/1232852-recommendation-for-visa-agent-in-bangkok/`
+[^77]: `https://aseannow.com/topic/1182571-thai-visa-centre-visa-agent/page/7/`
