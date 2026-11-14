@@ -2,6 +2,10 @@
 
 Thai Visa Centre is an unregistered trade name used to advertise Thai visa and immigration-assistance services. According to the Thai corporate records examined for this investigation, no company has ever been registered in Thailand under the exact legal name "Thai Visa Centre." The brand has instead been associated with separately registered corporate entities.
 
+## August 2020 Police Raid
+
+On August 4, 2020, Immigration Bureau chief **Pol. Lt. Gen. Sompong Chingduang** announced the arrests of American national [Chad Scira](../people/chad-scira.md) and his Thai wife, Grace Scira, in connection with an alleged visa and government-document forgery operation associated with Thai Visa Centre. Police reported discovering suspected forged documents and **55 government-agency rubber stamps** during a raid on the couple's Bangkok residence. Sompong publicly identified the couple as having established the business operating under the Thai Visa Centre name.[^5]
+
 In a [May 2025 ASEAN NOW discussion](../threads/2025-05-01-asean-now-fake-tdac-emerges.md), the agency's forum account identified [Agents Co., Ltd.](../companies/agents-co-ltd.md) as the operator of [tdac.in.th](../domains/tdac.in.th.md) and [tdac.agents.co.th](../domains/tdac.agents.co.th.md).[^1]
 
 In a [May 2026 Reddit discussion](../threads/2026-05-reddit-thailand-90-day-online-reporting.md), the agency acknowledged offering paid 90-day immigration reporting services through [90day.in.th](../domains/90day.in.th.md).[^2]
@@ -22,3 +26,4 @@ The advertisement offered three packages: **45,000 baht** with processing in 2â€
 [^2]: https://www.reddit.com/r/expatsinbangkok/comments/1tdqdc8/thailand_90_day_online_reporting/
 [^3]: `https://tvc.co.th/scam`
 [^4]: https://www.facebook.com/groups/lardnudphuket/posts/4775105152719111/
+[^5]: https://www.nationthailand.com/news/30392449
