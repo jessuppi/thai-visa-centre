@@ -28,6 +28,12 @@ In November 2025, an [ASEAN NOW discussion](../threads/2025-11-04-asean-now-thai
 
 The incident documented ASEAN NOW moderators actively suppressing criticism of Thai Visa Centre in a discussion where prospective customers were seeking independent opinions about the agency.[^8]
 
+## August 2026 Out-of-Province Retirement Extensions
+
+On August 5, 2026, ASEAN NOW member TonBrow, who reported using Thai Visa Centre for retirement extensions since the COVID-19 period, stated that the agency sent passports to immigration offices in Thailand's northeastern **Isan region** for processing. He questioned whether the resulting extension stamps would withstand scrutiny at his local immigration office, particularly when applying for a Certificate of Residence.[^9]
+
+TonBrow also stated that Thai Visa Centre charged him **500 baht per 90-day report** and had not supplied him with TM30 documentation. The agency's official forum account responded by advertising its ability to obtain residence certificates using digital passport copies. The discussion did not identify the specific provincial immigration offices involved.[^9]
+
 ## September 2026 Facebook Advertising Complaint
 
 On September 25, 2026, a member of the **Phuket Market** Facebook group shared a Thai Visa Centre advertisement with a large red **"Scam"** label and the warning **"SCAM MAIL FROM BANGKOK CARE FULL."** The original Thai Visa Centre promotion, dated August 12, advertised a first-time 15-month retirement visa package with bank-account-opening assistance.[^4]
@@ -44,3 +50,4 @@ The advertisement offered three packages: **45,000 baht** with processing in 2â€
 [^6]: `https://aseannow.com/topic/1048018-retirement-visa-agency/`
 [^7]: `https://aseannow.com/topic/1177344-grace-thai-visa-centre-back/`
 [^8]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/`
+[^9]: `https://aseannow.com/topic/1401947-thai-visa-centre-immigration/`
