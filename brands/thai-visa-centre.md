@@ -44,6 +44,8 @@ TonBrow also stated that Thai Visa Centre charged him **500 baht per 90-day repo
 
 On September 25, 2026, a member of the **Phuket Market** Facebook group shared a Thai Visa Centre advertisement with a large red **"Scam"** label and the warning **"SCAM MAIL FROM BANGKOK CARE FULL."** The original Thai Visa Centre promotion, dated August 12, advertised a first-time 15-month retirement visa package with bank-account-opening assistance.[^4]
 
+The same advertisement also appeared as a Facebook Marketplace listing.[^11]
+
 The advertisement offered three packages: **45,000 baht** with processing in 2–3 weeks, **50,000 baht** within 3–4 days, and **55,000 baht** for same-day processing. The public complaint raised concerns about the agency's marketing, although the post did not include the underlying email or explain how the recipient obtained it.[^4]
 
 ## References
@@ -58,3 +60,4 @@ The advertisement offered three packages: **45,000 baht** with processing in 2�
 [^8]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/`
 [^9]: `https://aseannow.com/topic/1401947-thai-visa-centre-immigration/`
 [^10]: https://www.reddit.com/r/Thailand/comments/114we6a
+[^11]: https://www.facebook.com/commerce/listing/4083941391740596/
