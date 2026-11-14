@@ -48,6 +48,22 @@ On March 10, 2021, [The Thaiger](../brands/the-thaiger.md), which later acquired
 
 The Thaiger's own reporting contrasts with DrJack54's characterization of the incident as an unrelated police visit and his subsequent dismissal of the controversy.
 
+## Thai Visa Centre Offers Anti-Fraud Advice Following 2020 Police Investigation
+
+On November 26, 2020, an ASEAN NOW predecessor forum member named **ecosouq** complained that an unidentified visa agency had collected a 5,000-baht advance payment before becoming unresponsive to telephone calls, LINE messages, and emails. The member asked where consumers could report potentially fraudulent visa agents.[^79]
+
+On November 27, [Thai Visa Centre](../brands/thai-visa-centre.md)'s official **Forum Sponsor** account entered the discussion, advising prospective customers to verify agencies through independent reviews, website and Facebook registration dates, physical office addresses, and written agreements before paying deposits.
+
+The agency specifically recommended checking:
+
+> Public reviews (not ones on their website)[^79]
+
+It also warned consumers to exercise particular caution with businesses established less than a year earlier or lacking a verifiable address. The forum post included the agency's own website and LINE contact information in its signature.
+
+The exchange occurred less than four months after Thai immigration police publicly announced arrests and allegations concerning Thai Visa Centre's founders, including the discovery of allegedly forged immigration documents and government rubber stamps.[^9]
+
+The discussion documents Thai Visa Centre presenting itself as a source of consumer-protection guidance while its own recent police controversy remained unresolved in the available public reporting.
+
 ## Moderator Endorses Volunteer Visas Without Volunteering (2021)
 
 On August 4, 2020, Thai immigration police announced arrests connected to an alleged visa-document forgery operation involving [Thai Visa Centre](../brands/thai-visa-centre.md). Officers reported recovering forged documents and 55 government rubber stamps.[^9]
@@ -1272,3 +1288,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^76]: `https://aseannow.com/topic/1232852-recommendation-for-visa-agent-in-bangkok/`
 [^77]: `https://aseannow.com/topic/1182571-thai-visa-centre-visa-agent/page/7/`
 [^78]: `https://aseannow.com/topic/1402765-visa-agents/`
+[^79]: `https://aseannow.com/topic/1194094-fake-visa-agency-who-protect-us/`
