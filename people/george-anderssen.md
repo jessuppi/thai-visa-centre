@@ -2,6 +2,10 @@
 
 George Anderssen founded [ThaiVisa.com](../domains/thaivisa.com.md) in 2002, establishing one of Thailand's largest English-language expatriate discussion forums. The platform was later rebranded as [ASEAN NOW](../brands/asean-now.md).
 
+On November 19, 2004, Anderssen published a second-anniversary retrospective explaining that ThaiVisa.com's forum had launched on November 20, 2002, using Ikonboard software, with just two initial members: himself and **dr_pat_pong**. Within two years, the community had grown to more than **14,000 members** and over **30,000 newsletter subscribers**.[^12]
+
+By November 2004, ThaiVisa.com had expanded into classifieds, blogs, chat rooms, photo galleries, and a news service. Anderssen also reported that the website sponsored **Radio Bangkok**, demonstrating how the original forum had developed into a broader expatriate media operation.[^12]
+
 Anderssen remained involved following the website's acquisition by Choice Group Asia in 2015. When [The Thaiger](../brands/the-thaiger.md) acquired ASEAN NOW in April 2024, he was publicly identified as its Chief Operating Officer (COO).
 
 In September 2015, [Choice Group Asia Co., Ltd.](../companies/choice-group-asia-co-ltd.md) acquired ThaiVisa.com from Thaivisa Expat Group Co., Ltd. By then, the website founded by Anderssen had grown to more than **1.5 million monthly visitors** and over **300,000 email newsletter subscribers**, expanding well beyond its original discussion forum into a major English-language news and media platform for expatriates in Thailand.[^1]
@@ -71,3 +75,4 @@ The interview provides a retrospective account of how Anderssen developed ThaiVi
 [^9]: `https://aseannow.com/topic/1312594-what-happened/`
 [^10]: `https://aseannow.com/topic/4922-the-bear-pit-and-new-forum-rules/`
 [^11]: `https://aseannow.com/topic/303104-bangkok-post-bans-thaivisa-from-using-its-content/`
+[^12]: `https://aseannow.com/topic/20933-thaivisacom-forum-2-year-anniversary/`
