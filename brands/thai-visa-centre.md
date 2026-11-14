@@ -46,6 +46,12 @@ In November 2025, an [ASEAN NOW discussion](../threads/2025-11-04-asean-now-thai
 
 The incident documented ASEAN NOW moderators actively suppressing criticism of Thai Visa Centre in a discussion where prospective customers were seeking independent opinions about the agency.[^8]
 
+## March 2026 Reddit Review Manipulation Allegations
+
+On March 22, 2026, a discussion on Reddit's r/digitalnomad questioned Thai Visa Centre's reputation and online marketing practices. Commenters accused the agency of publishing fabricated five-star reviews on **Google Maps and Trustpilot**, manipulating Reddit votes, and suppressing negative feedback. The official `ThaiVisaCentre` account, identified as a **Brand Affiliate**, participated extensively, denying the accusations and claiming the company was itself being targeted by coordinated harassment and spam campaigns.[^16]
+
+In another exchange, a commenter accused the agency of blocking them on LINE after questions about its Thailand Privilege Visa services. Thai Visa Centre disputed the complaint and warned that the accusations could constitute defamation. A separate commenter alleged that the agency had publicly disclosed their real name in a reply subsequently removed by Reddit moderators.[^16]
+
 ## July 2026 Reddit and Facebook Community Operations
 
 On July 8, 2026, a welcome announcement in [r/ThailandVisaAdvice](../threads/2026-07-08-reddit-thailand-visa-advice.md) explicitly identified **Thai Visa Centre as the creator of the subreddit**. The community was presented as a forum for discussing Thai visas, immigration procedures, extensions, border runs, and 90-day reporting.[^15]
@@ -83,3 +89,4 @@ The advertisement offered three packages: **45,000 baht** with processing in 2â€
 [^13]: https://archive.ph/baqQQ
 [^14]: https://www.reddit.com/r/ThailandTourism/comments/ui8lrq/extending_visa_via_thai_visa_centre/
 [^15]: `https://www.reddit.com/r/ThailandVisaAdvice/comments/1uqqi6i/welcome_to_rthailandvisaadvice/`
+[^16]: https://www.reddit.com/r/digitalnomad/comments/1rzlppi/thai_visa_centre_reviews_anyone_here_used_this/
