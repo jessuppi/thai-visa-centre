@@ -18,6 +18,12 @@ On February 8–9, 2024, ASEAN NOW members complained that intrusive full-screen
 
 During the same discussion, Global Moderator **metisdead** confirmed removing a post under **Rule 22**, which prohibited discussion of methods for blocking or bypassing advertisements. The exchange documented both the forum's commercial advertising priorities and its enforcement of restrictions on discussing ways to avoid those advertisements.[^5]
 
+In November 2023, ASEAN NOW experienced approximately six days of downtime. On November 22, Anderssen attributed the outage to a cyberattack affecting a US datacenter hosting parts of the forum. He announced that the website had migrated to another datacenter, stated that no user data or content had been compromised, and acknowledged continuing performance problems following the migration.[^8]
+
+On November 26, members questioned the explanation, with one suggesting the outage might have resulted from a problematic server migration rather than an attack. Anderssen responded that the datacenter had experienced problems and that the forum's software vendor was upgrading its templates. He also rejected speculation about an internal power struggle and **personally closed the discussion**, describing it as defamatory.[^9]
+
+The incident documents Anderssen's direct involvement in ASEAN NOW's technical operations and his willingness to shut down public discussion challenging the platform's management.
+
 ## Advertising Sales
 
 In February 2023, Anderssen publicly advertised a sales position at [ASEAN NOW](../brands/asean-now.md) through his personal LinkedIn account. The recruitment post sought candidates to sell the forum's advertising packages to businesses throughout Thailand, emphasizing its large expatriate audience, social media presence, and daily email newsletter.[^6]
@@ -49,3 +55,5 @@ The interview provides a retrospective account of how Anderssen developed ThaiVi
 [^5]: `https://aseannow.com/topic/1319374-annoying-screen-popups-on-asean-now/`
 [^6]: https://www.linkedin.com/posts/georgebkk_aseannow-thaivisa-sales-activity-7028512778038493184-iEVh
 [^7]: https://open.spotify.com/episode/6O7JdQdwFAd4PYoHlTUsLy
+[^8]: `https://aseannow.com/topic/1312306-forum-back-online-after-cyber-attack/`
+[^9]: `https://aseannow.com/topic/1312594-what-happened/`
