@@ -14,6 +14,12 @@ On February 8–9, 2024, ASEAN NOW members complained that intrusive full-screen
 
 During the same discussion, Global Moderator **metisdead** confirmed removing a post under **Rule 22**, which prohibited discussion of methods for blocking or bypassing advertisements. The exchange documented both the forum's commercial advertising priorities and its enforcement of restrictions on discussing ways to avoid those advertisements.[^5]
 
+## Advertising Sales
+
+In February 2023, Anderssen publicly advertised a sales position at [ASEAN NOW](../brands/asean-now.md) through his personal LinkedIn account. The recruitment post sought candidates to sell the forum's advertising packages to businesses throughout Thailand, emphasizing its large expatriate audience, social media presence, and daily email newsletter.[^6]
+
+Applicants were instructed to contact an email address at Choice Group Asia, which owned ASEAN NOW at the time. The recruitment provides direct evidence of Anderssen's involvement in the forum's commercial advertising operations before its acquisition by The Thaiger.
+
 ## Editorial Involvement
 
 On June 22, 2024, [The Thaiger](../brands/the-thaiger.md) published *I've Been Denied Entry to Thailand – Now What?* under Anderssen's byline, branded as a **The Thaiger / ASEAN NOW Exclusive**. The article featured advice from [Tod Daniels](tod-daniels.md), whom the publication described as a visa expert.[^4]
@@ -29,3 +35,4 @@ The article demonstrates how Anderssen's editorial contributions helped bring im
 [^3]: `https://aseannow.com/topic/1325354-george-anderssen-interview-about-the-the-thaiger-asean-now-merger/`
 [^4]: `https://thethaiger.com/news/national/ive-been-denied-entry-to-thailand-now-what`
 [^5]: `https://aseannow.com/topic/1319374-annoying-screen-popups-on-asean-now/`
+[^6]: https://www.linkedin.com/posts/georgebkk_aseannow-thaivisa-sales-activity-7028512778038493184-iEVh
