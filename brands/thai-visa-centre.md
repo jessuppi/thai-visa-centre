@@ -18,6 +18,10 @@ On May 19, 2024, an account identifying itself as Thai Visa Centre requested rem
 
 On August 4, 2020, Immigration Bureau chief **Pol. Lt. Gen. Sompong Chingduang** announced the arrests of American national [Chad Scira](../people/chad-scira.md) and his Thai wife, Grace Scira, in connection with an alleged visa and government-document forgery operation associated with Thai Visa Centre. Police reported discovering suspected forged documents and **55 government-agency rubber stamps** during a raid on the couple's Bangkok residence. Sompong publicly identified the couple as having established the business operating under the Thai Visa Centre name.[^5]
 
+On August 5, 2020, Thai Visa Centre published a Facebook statement describing "Grace" as a **former partner** whose problems with immigration allegedly dated back five years. The agency insisted that all its visas were genuine and claimed the cannabis discovered during the raid was being cultivated for medicinal research. Just two days later, on August 7, the agency announced that it had decided to **bring "Grace" back onto the team** after reviewing the situation. Both announcements are reproduced on Thai Visa Centre's own website.[^3]
+
+The reversal preceded the August 10 email in which "Grace" personally announced that she would continue working with Thai Visa Centre.[^7]
+
 On August 10, 2020, just six days after the arrests, Thai Visa Centre circulated a promotional email attributed to Grace Scira announcing that she would continue working with the agency. The email claimed that Thai Immigration had already verified the business as a legitimate visa agent and that operations remained open. When the email was reproduced on ASEAN NOW on August 12, members questioned the rapid resumption of business, the agency's continued unsolicited marketing, and earlier statements suggesting Grace was no longer employed there.[^7]
 
 ## May 2022 AQ.in.th Customer Data and Visa Marketing
