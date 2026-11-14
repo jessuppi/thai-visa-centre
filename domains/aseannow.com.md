@@ -134,6 +134,21 @@ On November 5, 2025, ASEAN NOW administrator **Captain Flack** publicly confirme
 
 The discussion also featured favorable recommendations from forum moderators and promotional replies from Thai Visa Centre's official sponsor account. The incident raises questions about whether ASEAN NOW's commercial sponsorship arrangements compromise the independence of discussions concerning immigration services. The removed comment is no longer publicly visible, preventing independent assessment of its contents.
 
+## Thai Visa Centre Promotes Commercial eSIM Offer Despite Member Objections (2023)
+
+On February 7, 2023, [Thai Visa Centre](../brands/thai-visa-centre.md)'s official **Forum Sponsor** account entered an ASEAN NOW discussion about mobile-network performance in Bangkok and promoted an eSIM offer through `esimcard.in.th`.[^75]
+
+The agency advertised a DTAC eSIM for 180 baht using the promotional code `THAIVISACENTRE`, claiming to have a special arrangement allowing customers to receive a 100-baht discount.
+
+Several participants objected. Member **isaanistical** complained that the advertised discount initially did not work and asked the agency to stop posting inaccurate advertisements. The original poster, **SuperSilverHaze**, subsequently stated:
+
+> Please stop posting your advertising here.[^75]
+
+Thai Visa Centre corrected the promotional code and continued defending the offer. The agency claimed that it actually lost money on each discounted sale and characterized the promotion as a helpful suggestion rather than advertising.
+
+The exchange documents Thai Visa Centre using its commercial sponsor account to promote a branded offer outside immigration-related discussions, even after members explicitly objected to the unsolicited promotion.
+
+
 ## DrJack54 Promotes Thai Visa Centre While Other Visa-Agent Links Disappear
 
 On April 25, 2026, an ASEAN NOW account named **cubism001** requested recommendations for visa agents in Bangkok and Pattaya, mentioning businesses including Maneerat, Key, and Mots.[^59]
@@ -1217,3 +1232,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^72]: https://www.mots.go.th/mots_en/news/3764
 [^73]: https://tdac.immigration.go.th/manual/en/faq.html
 [^74]: https://thethaiger.com/guides/visa-information/thai-visa-centre-accuses-former-employee-of-stealing-from-a-family-seeking-to-travel-to-thailand
+[^75]: `https://aseannow.com/topic/1285744-ais-sim-central-bkk-300mbps-rubbish/`
