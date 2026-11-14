@@ -14,6 +14,12 @@ On August 4, 2020, Immigration Bureau chief **Pol. Lt. Gen. Sompong Chingduang**
 
 On August 10, 2020, just six days after the arrests, Thai Visa Centre circulated a promotional email attributed to Grace Scira announcing that she would continue working with the agency. The email claimed that Thai Immigration had already verified the business as a legitimate visa agent and that operations remained open. When the email was reproduced on ASEAN NOW on August 12, members questioned the rapid resumption of business, the agency's continued unsolicited marketing, and earlier statements suggesting Grace was no longer employed there.[^7]
 
+## February 2023 Immigration Contact and Visa Scrutiny
+
+In February 2023, a former Thai Visa Centre customer reported that immigration officers questioned why their previous marriage-visa extensions had been issued in a province where they had never lived. The customer said that when they contacted Thai Visa Centre for assistance, the agency explained that its **immigration contact had retired** and could no longer help. The customer subsequently signed a statement and underwent additional scrutiny before resolving the matter.[^10]
+
+The account raises questions about Thai Visa Centre's reliance on particular immigration contacts and its practice of arranging extensions outside customers' provinces of residence. The customer did not identify the immigration office or retired officer involved.[^10]
+
 In a [May 2025 ASEAN NOW discussion](../threads/2025-05-01-asean-now-fake-tdac-emerges.md), the agency's forum account identified [Agents Co., Ltd.](../companies/agents-co-ltd.md) as the operator of [tdac.in.th](../domains/tdac.in.th.md) and [tdac.agents.co.th](../domains/tdac.agents.co.th.md).[^1]
 
 In a [May 2026 Reddit discussion](../threads/2026-05-reddit-thailand-90-day-online-reporting.md), the agency acknowledged offering paid 90-day immigration reporting services through [90day.in.th](../domains/90day.in.th.md).[^2]
@@ -51,3 +57,4 @@ The advertisement offered three packages: **45,000 baht** with processing in 2â€
 [^7]: `https://aseannow.com/topic/1177344-grace-thai-visa-centre-back/`
 [^8]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/`
 [^9]: `https://aseannow.com/topic/1401947-thai-visa-centre-immigration/`
+[^10]: https://www.reddit.com/r/Thailand/comments/114we6a
