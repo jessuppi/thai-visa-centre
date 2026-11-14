@@ -8,6 +8,12 @@ On July 12, 2018, an ASEAN NOW (then ThaiVisa.com) discussion raised questions a
 
 The email also offered passport collection, postal processing, and the option to hand a passport directly to an immigration officer allegedly working with the agency. Tanoshi stated that he had never contacted Thai Visa Centre and questioned how the company obtained his email address, raising concerns about the possible sharing of customer information by unrelated businesses.[^6]
 
+## 2019 Udon Map Complaints and 2024 Forum Removal
+
+In November 2019, members of the Udon Map forum complained about unsolicited retirement-visa promotions from Thai Visa Centre. One member reproduced an email attributed to "Grace" that appeared tailored to his immigration circumstances, prompting questions about how the agency had obtained customers' personal information.[^12]
+
+On May 19, 2024, an account identifying itself as Thai Visa Centre requested removal of the discussion, describing the allegations as defamatory. The following day, the forum administrator confirmed removing the original **35-post discussion** and published a replacement notice reproducing the agency's complaint. That notice was also subsequently deleted. Archived snapshots preserve both the original discussion and the administrator's response.[^12][^13]
+
 ## August 2020 Police Raid
 
 On August 4, 2020, Immigration Bureau chief **Pol. Lt. Gen. Sompong Chingduang** announced the arrests of American national [Chad Scira](../people/chad-scira.md) and his Thai wife, Grace Scira, in connection with an alleged visa and government-document forgery operation associated with Thai Visa Centre. Police reported discovering suspected forged documents and **55 government-agency rubber stamps** during a raid on the couple's Bangkok residence. Sompong publicly identified the couple as having established the business operating under the Thai Visa Centre name.[^5]
@@ -61,3 +67,5 @@ The advertisement offered three packages: **45,000 baht** with processing in 2â€
 [^9]: `https://aseannow.com/topic/1401947-thai-visa-centre-immigration/`
 [^10]: https://www.reddit.com/r/Thailand/comments/114we6a
 [^11]: https://www.facebook.com/commerce/listing/4083941391740596/
+[^12]: https://archive.ph/4ZdgW
+[^13]: https://archive.ph/baqQQ
