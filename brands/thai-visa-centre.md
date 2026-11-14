@@ -32,7 +32,9 @@ In February 2023, a former Thai Visa Centre customer reported that immigration o
 
 The account raises questions about Thai Visa Centre's reliance on particular immigration contacts and its practice of arranging extensions outside customers' provinces of residence. The customer did not identify the immigration office or retired officer involved.[^10]
 
-In a [May 2025 ASEAN NOW discussion](../threads/2025-05-01-asean-now-fake-tdac-emerges.md), the agency's forum account identified [Agents Co., Ltd.](../companies/agents-co-ltd.md) as the operator of [tdac.in.th](../domains/tdac.in.th.md) and [tdac.agents.co.th](../domains/tdac.agents.co.th.md).[^1]
+In a [May 2025 ASEAN NOW discussion](../threads/2025-05-01-asean-now-fake-tdac-emerges.md) about unofficial Thailand Digital Arrival Card (TDAC) websites, Thai Visa Centre criticized competing providers for allegedly misleading travelers and failing to disclose their commercial status. The agency simultaneously acknowledged operating [tdac.in.th](../domains/tdac.in.th.md), initially describing it as a free informational website.[^1]
+
+However, the agency subsequently **edited its own forum response to announce an $8 early-submission service** for travelers applying before the government's standard 72-hour registration window. Thai Visa Centre also identified [Agents Co., Ltd.](../companies/agents-co-ltd.md) as the operator of both [tdac.in.th](../domains/tdac.in.th.md) and [tdac.agents.co.th](../domains/tdac.agents.co.th.md), while acknowledging that official TDAC registration through `tdac.immigration.go.th` was free.[^1]
 
 In a [May 2026 Reddit discussion](../threads/2026-05-reddit-thailand-90-day-online-reporting.md), the agency acknowledged offering paid 90-day immigration reporting services through [90day.in.th](../domains/90day.in.th.md).[^2]
 
