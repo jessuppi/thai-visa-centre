@@ -38,6 +38,10 @@ The incident documents Anderssen's direct involvement in ASEAN NOW's technical o
 
 ## Advertising Sales
 
+On June 16, 2006, Anderssen advertised two positions at ThaiVisa.com: a **content manager/webmaster/PHP programmer** and an **advertising sales assistant**. The technical role involved managing the website's TYPO3 content management system, developing new content, redesigning travel websites, and improving search-engine optimization.[^13]
+
+The sales position focused on recruiting sponsors and selling advertising throughout Thailand, with commission or revenue-sharing arrangements offered. Anderssen also invited companies to provide the services on an outsourced basis, demonstrating ThaiVisa.com's efforts to expand its commercial operations.[^13]
+
 In February 2023, Anderssen publicly advertised a sales position at [ASEAN NOW](../brands/asean-now.md) through his personal LinkedIn account. The recruitment post sought candidates to sell the forum's advertising packages to businesses throughout Thailand, emphasizing its large expatriate audience, social media presence, and daily email newsletter.[^6]
 
 Applicants were instructed to contact an email address at Choice Group Asia, which owned ASEAN NOW at the time. The recruitment provides direct evidence of Anderssen's involvement in the forum's commercial advertising operations before its acquisition by The Thaiger.
@@ -76,3 +80,4 @@ The interview provides a retrospective account of how Anderssen developed ThaiVi
 [^10]: `https://aseannow.com/topic/4922-the-bear-pit-and-new-forum-rules/`
 [^11]: `https://aseannow.com/topic/303104-bangkok-post-bans-thaivisa-from-using-its-content/`
 [^12]: `https://aseannow.com/topic/20933-thaivisacom-forum-2-year-anniversary/`
+[^13]: `https://aseannow.com/topic/72962-thaivisa-is-hiring/`
