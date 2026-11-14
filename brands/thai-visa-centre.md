@@ -32,6 +32,8 @@ The traveler questioned whether the agency was legitimate before supplying addit
 
 ## February 2023 Immigration Contact and Visa Scrutiny
 
+The February 2023 discussion began with a traveler reporting that Thai Visa Centre had recommended its **2,000-baht "VIP Airport Service."** The traveler questioned whether special airport assistance was necessary after obtaining visas through the agency and expressed concerns about whether their immigration stamps would withstand ordinary inspection. Several commenters described preferential airport processing, including one account claiming that an immigration officer personally escorted a traveler through immigration.[^10]
+
 In February 2023, a former Thai Visa Centre customer reported that immigration officers questioned why their previous marriage-visa extensions had been issued in a province where they had never lived. The customer said that when they contacted Thai Visa Centre for assistance, the agency explained that its **immigration contact had retired** and could no longer help. The customer subsequently signed a statement and underwent additional scrutiny before resolving the matter.[^10]
 
 The account raises questions about Thai Visa Centre's reliance on particular immigration contacts and its practice of arranging extensions outside customers' provinces of residence. The customer did not identify the immigration office or retired officer involved.[^10]
