@@ -80,6 +80,14 @@ The same advertisement also appeared as a Facebook Marketplace listing.[^11]
 
 The advertisement offered three packages: **45,000 baht** with processing in 2–3 weeks, **50,000 baht** within 3–4 days, and **55,000 baht** for same-day processing. The public complaint raised concerns about the agency's marketing, although the post did not include the underlying email or explain how the recipient obtained it.[^4]
 
+## October–November 2026 Chaeng Watthana Retirement Visa Processing
+
+On October 10, 2026, ASEAN NOW moderator BrandonJT stated that Thai Visa Centre could arrange retirement extensions through **Chaeng Watthana Immigration in Bangkok**, although this option cost more than the agency's other processing arrangements. When another member asked whether the service was available **"with & without financials,"** moderator DrJack54 replied **"Both"**, adding that applicants must attend immigration in person.[^17]
+
+In the same discussion, Thai Visa Centre's official forum account advertised a **45,000-baht retirement visa package** involving bank-account opening and processing over 2–3 weeks, alongside a **55,000-baht same-day package** promising completion within approximately 6–7 hours. In a separate November 2026 Ask Thailand discussion, an account promoting the agency's packages explicitly identified **Chaeng Watthana Immigration** as the location for its same-day service, offering airport transfers and staff accompaniment throughout the process.[^17][^18]
+
+These statements link Thai Visa Centre's expedited retirement-visa services to Chaeng Watthana and include a moderator's claim that the agency can accommodate applicants without the usual financial documentation. The actual financial arrangements and immigration approvals remain undocumented.[^17][^18]
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
@@ -98,3 +106,5 @@ The advertisement offered three packages: **45,000 baht** with processing in 2�
 [^14]: https://www.reddit.com/r/ThailandTourism/comments/ui8lrq/extending_visa_via_thai_visa_centre/
 [^15]: `https://www.reddit.com/r/ThailandVisaAdvice/comments/1uqqi6i/welcome_to_rthailandvisaadvice/`
 [^16]: https://www.reddit.com/r/digitalnomad/comments/1rzlppi/thai_visa_centre_reviews_anyone_here_used_this/
+[^17]: `https://aseannow.com/topic/1402094-hua-hin-visa-agent/`
+[^18]: https://asq.in.th/question/can-a-person-on-a-tourist-visa-in-thailand-apply-for-a-retirement-visa-if-they-are-over-50
