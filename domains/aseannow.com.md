@@ -28,6 +28,20 @@ Forum participants questioned this assurance, noting the recent police allegatio
 
 The discussion documents Thai Visa Centre's efforts to reassure potential customers and continue advertising its services immediately following the arrests. However, the reproduced email provided no independent evidence that Thai immigration authorities had formally cleared the agency of wrongdoing, and the discussion did not establish the eventual outcome of the investigation.
 
+## Forum Publishes Thai Visa Centre Advertorial Following 2020 Police Raid
+
+On September 15, 2020, just six weeks after Thai immigration police announced arrests involving [Thai Visa Centre](../brands/thai-visa-centre.md)'s founders, ASEAN NOW's predecessor ThaiVisa.com published a commercial advertisement for the agency in its immigration discussion forum.[^80]
+
+The thread, titled "Thai Visa Centre - Visa Agent," was published by the forum's official sales account, now displayed as **ASEAN NOW Sales**, and explicitly labeled **Advertorial**. It promoted Thai Visa Centre as a trustworthy provider of long-term immigration services, supplying the agency's website, LINE contact, email address, telephone number, and office location.
+
+The advertisement included a disclaimer stating that ThaiVisa.com was not affiliated with the agency beyond the advertising arrangement.
+
+Thai Visa Centre subsequently participated through its **Forum Sponsor** account, answering immigration questions and directing prospective customers toward its services.
+
+On September 23, 2020, forum administrator **Rimmer** announced that a post and its replies had been removed, describing the deleted contribution as a troll post. The removed material is no longer visible.[^80]
+
+The dated advertorial establishes that ThaiVisa.com was actively selling promotional exposure to Thai Visa Centre shortly after the widely reported police investigation. The thread also provides an early documented example of administrator intervention within a discussion specifically established to advertise the agency.
+
 ## Forum Moderator Dismissal of the 2020 Police Investigation
 
 On November 21, 2020, a ThaiVisa.com member considering [Thai Visa Centre](../brands/thai-visa-centre.md) asked whether using a law firm would provide greater protection following the agency's reported legal troubles earlier that year. Global Moderator [DrJack54](../moderators/drjack54.md) dismissed those concerns, stating:
@@ -1289,3 +1303,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^77]: `https://aseannow.com/topic/1182571-thai-visa-centre-visa-agent/page/7/`
 [^78]: `https://aseannow.com/topic/1402765-visa-agents/`
 [^79]: `https://aseannow.com/topic/1194094-fake-visa-agency-who-protect-us/`
+[^80]: `https://aseannow.com/topic/1182571-thai-visa-centre-visa-agent/`
