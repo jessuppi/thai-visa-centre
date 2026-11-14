@@ -22,6 +22,12 @@ On its own [`tvc.co.th/scam`](../domains/tvc.co.th.md) page, the agency also sta
 
 These statements document the agency's publicly claimed operational connections. They do not independently establish the legal ownership of the domains or the complete relationships between the corporate entities involved.
 
+## November 2025 ASEAN NOW Sponsorship and Censorship
+
+In November 2025, an [ASEAN NOW discussion](../threads/2025-11-04-asean-now-thai-visa-centre-bangna.md) about Thai Visa Centre attracted favorable responses from forum moderators, while the agency's official account participated under the designation **"Forum Sponsor."** On November 5, administrator Captain Flack explicitly confirmed removing a post criticizing the sponsor, citing **Rule 37**, which prohibited negative comments about forum advertisers and sponsors.[^8]
+
+The incident documented ASEAN NOW moderators actively suppressing criticism of Thai Visa Centre in a discussion where prospective customers were seeking independent opinions about the agency.[^8]
+
 ## September 2026 Facebook Advertising Complaint
 
 On September 25, 2026, a member of the **Phuket Market** Facebook group shared a Thai Visa Centre advertisement with a large red **"Scam"** label and the warning **"SCAM MAIL FROM BANGKOK CARE FULL."** The original Thai Visa Centre promotion, dated August 12, advertised a first-time 15-month retirement visa package with bank-account-opening assistance.[^4]
@@ -37,3 +43,4 @@ The advertisement offered three packages: **45,000 baht** with processing in 2â€
 [^5]: https://www.nationthailand.com/news/30392449
 [^6]: `https://aseannow.com/topic/1048018-retirement-visa-agency/`
 [^7]: `https://aseannow.com/topic/1177344-grace-thai-visa-centre-back/`
+[^8]: `https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/`
