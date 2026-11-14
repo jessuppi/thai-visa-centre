@@ -50,6 +50,10 @@ On October 23, 2006, Anderssen announced that ThaiVisa.com had **abandoned plans
 
 Instead, Anderssen said the planned services would be offered free of charge and **financed through advertising revenue**. Members welcomed the decision, with one arguing that charging users who contributed content could undermine the forum's appeal. The announcement illustrates ThaiVisa.com's early decision to prioritize advertising-supported growth over membership subscriptions.[^17]
 
+On August 24, 2007, Anderssen announced that ThaiVisa.com had partnered with **AA Insurance** to offer insurance products to forum members. He stated that the arrangement had received approval from Thailand's Department of Insurance and promoted coverage including health, life, motor, property, and travel insurance. The service was advertised through `insurance.thaivisa.com`.[^18]
+
+In August 2011, members noticed that ThaiVisa.com was no longer associated with AA Insurance and questioned whether their existing policies were affected. Anderssen explained that **the marketing contract had not been renewed**, said the separation was unrelated to complaints about the insurer, and assured members that existing insurance packages would continue operating. AA Insurance would thereafter promote its products independently.[^19]
+
 In February 2023, Anderssen publicly advertised a sales position at [ASEAN NOW](../brands/asean-now.md) through his personal LinkedIn account. The recruitment post sought candidates to sell the forum's advertising packages to businesses throughout Thailand, emphasizing its large expatriate audience, social media presence, and daily email newsletter.[^6]
 
 Applicants were instructed to contact an email address at Choice Group Asia, which owned ASEAN NOW at the time. The recruitment provides direct evidence of Anderssen's involvement in the forum's commercial advertising operations before its acquisition by The Thaiger.
@@ -103,3 +107,5 @@ Anderssen said the new project would experiment with local contributors, short n
 [^15]: `https://aseannow.com/topic/165173-test-post-pls-ignore-will-delete-shortly/`
 [^16]: https://www.linkedin.com/in/georgebkk/
 [^17]: `https://aseannow.com/topic/89523-thaivisa-forum-will-remain-a-free-service/`
+[^18]: `https://aseannow.com/topic/139171-thaivisa-approved-by-thai-govt-to-provide-insurance-services/`
+[^19]: `https://aseannow.com/topic/493351-thaivisa-insurance/`
