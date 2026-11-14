@@ -22,6 +22,10 @@ The rule further specified that such comments would be removed. In the same disc
 
 The exchange establishes that Anderssen participated in shaping ThaiVisa.com's moderation policies during its earliest years, when restrictions on criticism of paying advertisers were already being introduced. These restrictions foreshadowed ASEAN NOW's later **Rule 37**, which protects forum sponsors from negative commentary.
 
+On January 21, 2008, Anderssen intervened in a forum discussion involving member **Chris Pirazzi**, who had included links to free Thai-language learning materials and other Thailand-related resources in his signature. Anderssen removed the URLs and cited ThaiVisa.com's rules prohibiting promotional links.[^15]
+
+When Pirazzi questioned why the restrictions applied to free, noncommercial resources, Anderssen reiterated the rules. After Pirazzi asked how he could share the materials with other members, Anderssen directed him to **ThaiVisa.com's advertising sales department** at `marketing.thaivisa.com`. The discussion was subsequently closed to further replies.[^15]
+
 On April 19, 2024, Anderssen responded to ASEAN NOW members questioning how The Thaiger's acquisition would affect the forum. Posting under the username **george**, he confirmed that the existing team would remain and that improvements to moderation and content were planned.[^3]
 
 He also described plans to reorganize the forum, improve navigation and the homepage, and upgrade its cloud hosting infrastructure. Anderssen indicated that further announcements would follow in May 2024.
@@ -86,3 +90,4 @@ The interview provides a retrospective account of how Anderssen developed ThaiVi
 [^12]: `https://aseannow.com/topic/20933-thaivisacom-forum-2-year-anniversary/`
 [^13]: `https://aseannow.com/topic/72962-thaivisa-is-hiring/`
 [^14]: `https://aseannow.com/topic/238867-the-nation-and-thaivisacom-sign-internet-forum-deal/`
+[^15]: `https://aseannow.com/topic/165173-test-post-pls-ignore-will-delete-shortly/`
