@@ -333,6 +333,18 @@ The pattern continued in May 2026, when another member sought Thai Visa Centre's
 
 He also confirmed removing off-topic posts and repeatedly discouraged further debate about the legality of such arrangements.
 
+On August 14, 2026, another ASEAN NOW discussion about retirement visa agents included a recommendation for Thai Visa Centre from member **Upnotover**, who directly tagged the agency's account. Another participant, **EVENKEEL**, claimed that Thai Visa Centre sent customers' passports to Udon for processing and reported receiving a quotation of approximately 18,000 baht. Global Moderator DrJack54 also discussed retirement extensions being processed outside applicants' local provinces.[^78]
+
+On August 18, participants questioned how agents handled the financial requirements for retirement extensions. When a member asked whether the required bank balance remained in the applicant's account throughout the year, Upnotover responded:
+
+> No. More like 5 minutes. (800,000)[^78]
+
+The discussion subsequently turned to immigration-officer discretion, temporary bank deposits, and allegations of unofficial payments. DrJack54 announced that several posts had been removed and warned:
+
+> Further posts re legality or otherwise of agents with be removed.[^78]
+
+The exchange provides another documented example of ASEAN NOW restricting discussion of visa-agent legality while recommendations for its commercial sponsor remained visible. The claim concerning a five-minute bank deposit referred to agent-assisted extensions generally, rather than an identified Thai Visa Centre transaction.
+
 These incidents document repeated restrictions on discussions about visa-agent legality while favorable testimonials, commercial recommendations, and Thai Visa Centre's advertisements remained published. Although the deleted posts cannot be independently reviewed, the moderator's own statements confirm that questions concerning legality were among the subjects removed.
 
 ## Public Complaints on Trustpilot
@@ -1259,3 +1271,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^75]: `https://aseannow.com/topic/1285744-ais-sim-central-bkk-300mbps-rubbish/`
 [^76]: `https://aseannow.com/topic/1232852-recommendation-for-visa-agent-in-bangkok/`
 [^77]: `https://aseannow.com/topic/1182571-thai-visa-centre-visa-agent/page/7/`
+[^78]: `https://aseannow.com/topic/1402765-visa-agents/`
