@@ -44,6 +44,10 @@ He encouraged readers to consult the agency's favorable online reviews, comparin
 
 These exchanges document a Global Moderator repeatedly dismissing concerns about Thai Visa Centre's reported police investigation while recommending its commercial services. His statements did not establish the investigation's outcome or provide independent evidence resolving the original allegations.
 
+On March 10, 2021, [The Thaiger](../brands/the-thaiger.md), which later acquired ASEAN NOW, reported that immigration police had raided the home of Thai Visa Centre's founders in August 2020 following complaints about forged documents. The publication confirmed that the couple had been arrested and included the agency's explanation that its visas were officially obtained through immigration.[^74]
+
+The Thaiger's own reporting contrasts with DrJack54's characterization of the incident as an unrelated police visit and his subsequent dismissal of the controversy.
+
 ## Moderator Endorses Volunteer Visas Without Volunteering (2021)
 
 On August 4, 2020, Thai immigration police announced arrests connected to an alleged visa-document forgery operation involving [Thai Visa Centre](../brands/thai-visa-centre.md). Officers reported recovering forged documents and 55 government rubber stamps.[^9]
@@ -1212,3 +1216,4 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^71]: https://www.nationthailand.com/thailand/general/40036784
 [^72]: https://www.mots.go.th/mots_en/news/3764
 [^73]: https://tdac.immigration.go.th/manual/en/faq.html
+[^74]: https://thethaiger.com/guides/visa-information/thai-visa-centre-accuses-former-employee-of-stealing-from-a-family-seeking-to-travel-to-thailand
