@@ -48,6 +48,10 @@ Applicants were instructed to contact an email address at Choice Group Asia, whi
 
 ## Editorial Involvement
 
+On January 29, 2009, Anderssen announced a partnership between ThaiVisa.com and **The Nation Multimedia Group** to expand their English-language online community presence. The announcement described ThaiVisa.com as having more than **70,000 registered members**, **20,000 daily unique visitors**, and over **four million monthly page views**.[^14]
+
+The partnership drew criticism from forum members concerned that The Nation's political leanings could influence ThaiVisa.com's editorial policies and moderation decisions. Anderssen defended the agreement as a **marketing and co-branding arrangement**, insisting that both organizations would retain separate management and that the forum's content and moderation policies would remain unchanged.[^14]
+
 On October 2, 2009, Anderssen's **george** account published an announcement explaining that the *Bangkok Post* had instructed ThaiVisa.com to stop republishing its articles outside an approved RSS-feed arrangement. The newspaper's publisher, Post Publishing PCL, had adopted a policy restricting how other websites could reproduce its reporting.[^11]
 
 ThaiVisa.com responded by prohibiting members from posting or quoting Bangkok Post articles, warning that offending posts would be deleted and members could receive moderation warnings. The announcement also criticized the newspaper's declining web traffic while emphasizing ThaiVisa.com's continuing relationships with *The Nation* and *The Phuket Gazette*.[^11]
@@ -81,3 +85,4 @@ The interview provides a retrospective account of how Anderssen developed ThaiVi
 [^11]: `https://aseannow.com/topic/303104-bangkok-post-bans-thaivisa-from-using-its-content/`
 [^12]: `https://aseannow.com/topic/20933-thaivisacom-forum-2-year-anniversary/`
 [^13]: `https://aseannow.com/topic/72962-thaivisa-is-hiring/`
+[^14]: `https://aseannow.com/topic/238867-the-nation-and-thaivisacom-sign-internet-forum-deal/`
