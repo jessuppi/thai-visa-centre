@@ -4,6 +4,10 @@ George Anderssen founded [ThaiVisa.com](../domains/thaivisa.com.md) in 2002, est
 
 Anderssen remained involved following the website's acquisition by Choice Group Asia in 2015. When [The Thaiger](../brands/the-thaiger.md) acquired ASEAN NOW in April 2024, he was publicly identified as its Chief Operating Officer (COO).
 
+In September 2015, [Choice Group Asia Co., Ltd.](../companies/choice-group-asia-co-ltd.md) acquired ThaiVisa.com from Thaivisa Expat Group Co., Ltd. By then, the website founded by Anderssen had grown to more than **1.5 million monthly visitors** and over **300,000 email newsletter subscribers**, expanding well beyond its original discussion forum into a major English-language news and media platform for expatriates in Thailand.[^1]
+
+Choice Group Asia appointed **Dan Cheeseman** as managing director of the acquired ThaiVisa Media Group, incorporating the business into its broader media portfolio alongside Pattaya Channel TV and Inspire Digital Media Group.[^1]
+
 ## Forum Management
 
 On April 19, 2024, Anderssen responded to ASEAN NOW members questioning how The Thaiger's acquisition would affect the forum. Posting under the username **george**, he confirmed that the existing team would remain and that improvements to moderation and content were planned.[^3]
