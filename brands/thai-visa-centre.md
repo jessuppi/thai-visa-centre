@@ -72,6 +72,16 @@ On its own [`tvc.co.th/scam`](../domains/tvc.co.th.md) page, the agency also sta
 
 These statements document the agency's publicly claimed operational connections. They do not independently establish the legal ownership of the domains or the complete relationships between the corporate entities involved.
 
+## September 2025 TDAC Data-Deletion Claims and Reuse Rights
+
+On September 24, 2025, The Thaiger published a sponsored article promoting the TDAC platform operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md), assuring travelers that their personal information could be removed immediately after approval. The company's own Privacy Policy similarly promises that its **"Data Removal" function permanently deletes customer information**, retaining only payment transaction identifiers required for financial compliance.[^34][^36]
+
+However, the same Privacy Policy explicitly permits sharing personal information with sister companies under common ownership or control for marketing purposes. **It does not explain whether permanent deletion extends to information previously distributed to affiliated companies, marketing partners, or other recipients.** Customers are therefore promised complete removal without a clear explanation of whether copies outside the original platform are also erased.[^34]
+
+AGENTS CO., LTD.'s separately published Disclaimer introduces another ambiguity. Under *Content and postings*, the company grants itself **unlimited, perpetual rights to distribute, publish, reproduce, and reuse information submitted by users**. Although this provision appears directed at uploaded content and comments, the wording does not expressly exclude private immigration submissions or explain how those reuse rights interact with subsequent deletion requests.[^37]
+
+These conflicting and incomplete disclosures raise questions about **how much control travelers actually retain over their passport information, contact details, and immigration records after submitting them to the privately operated TDAC platform**. The concerns are particularly relevant given Thai Visa Centre's documented history of unsolicited marketing complaints and its acknowledged use of customer information across affiliated immigration services.[^6][^14][^34]
+
 ## November 2025 ASEAN NOW Sponsorship and Censorship
 
 In November 2025, an [ASEAN NOW discussion](../threads/2025-11-04-asean-now-thai-visa-centre-bangna.md) about Thai Visa Centre attracted favorable responses from forum moderators, while the agency's official account participated under the designation **"Forum Sponsor."** On November 5, administrator Captain Flack explicitly confirmed removing a post criticizing the sponsor, citing **Rule 37**, which prohibited negative comments about forum advertisers and sponsors.[^8]
@@ -199,3 +209,5 @@ These 2025 advertisements were published while Police Major General Prasart Khem
 [^33]: https://tdac.in.th/scam
 [^34]: https://agents.co.th/tdac-apply/policy/privacy/
 [^35]: https://www.trustpilot.com/review/tdac.in.th
+[^36]: https://thethaiger.com/travel/thailand-travel/early-thailand-tdac-applications-enhanced-by-insurance-and-esim-partnerships
+[^37]: https://agents.co.th/tdac-apply/policy/disclaimer/
