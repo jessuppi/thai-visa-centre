@@ -8,7 +8,11 @@ On February 28, 2019, Royal Thai Police Order 122/2562 initially assigned Kongch
 
 Ban Dan Police Station's official historical records confirm that Kongchart assumed command on March 15, 2019, establishing that the revised Buriram appointment took effect rather than the original Bangkok posting.[^13]
 
-By March 2023, Kongchart was serving as Deputy Commander of Buriram Provincial Police. Official records identify him participating in police training and public-order operations, while subsequent reports confirm he remained in the position through July 2025.[^5][^6]
+Royal Thai Police Order 674/2562, dated November 27, 2019, promoted Kongchart from Superintendent of Ban Dan Police Station to Deputy Commander of Buriram Provincial Police, effective December 13, 2019. His appointment at Ban Dan therefore lasted approximately nine months.[^14]
+
+On November 2, 2020, Provincial Police Commander Rutthaphon Naowarat assigned Kongchart, who supervised narcotics enforcement, to investigate reports of a drug dealer using a nine-year-old child to deliver methamphetamine in Satuek District. Kongchart directed a coordinated police operation that resulted in an adult suspect's arrest and the seizure of 100 methamphetamine tablets. Investigators reported that the child had been paid to make deliveries.[^15]
+
+Kongchart remained Deputy Commander of Buriram Provincial Police through at least July 2025, according to subsequent official police records.[^5][^6]
 
 Kongchart subsequently transferred to the Narcotics Suppression Bureau, where he held a commander-level position before his October 1, 2026 appointment to lead Bangkok Immigration Division 1. The September 7, 2026 Royal Gazette appointment decree identifies his previous posting and confirms his transfer into the Immigration Bureau.[^1]
 
@@ -39,3 +43,5 @@ On December 17, 2024, Kongchart was identified alongside Provincial Police Comma
 [^11]: https://www.naewna.com/local/848115
 [^12]: https://www.matichon.co.th/wp-content/uploads/2019/03/คำสั่ง-ตร.ที่-140.2562.pdf
 [^13]: https://sites.google.com/view/bandanbru-police/ประวัติ-สภ-บ้านด่าน
+[^14]: https://www.rayongtouristpolice.com/wp-content/uploads/2019/11/คำสั่ง-ตร.ที่-674.2562.pdf
+[^15]: https://www.sanook.com/news/8288206/
