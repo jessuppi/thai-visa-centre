@@ -82,6 +82,16 @@ AGENTS CO., LTD.'s separately published Disclaimer introduces another ambiguity.
 
 These conflicting and incomplete disclosures raise questions about **how much control travelers actually retain over their passport information, contact details, and immigration records after submitting them to the privately operated TDAC platform**. The concerns are particularly relevant given Thai Visa Centre's documented history of unsolicited marketing complaints and its acknowledged use of customer information across affiliated immigration services.[^6][^14][^34]
 
+## 2025 TDAC Liability Limits and Refund Policy
+
+AGENTS CO., LTD., the company publicly identified by Thai Visa Centre as operating its commercial TDAC platform, includes unusually restrictive liability provisions in its published Terms & Conditions. The agreement attempts to limit the company's total financial liability to whichever is greater: **US$1 or the amount a customer paid during the preceding one-month period**. It also broadly excludes consequential damages arising from its services.[^38]
+
+This provision is particularly troubling given the company's **$8 early-submission service**, which accepts applications weeks or months before travel but postpones submission to Thailand's Immigration Bureau until the official registration window opens. If an application fails after the customer's original payment falls outside the contractual one-month calculation, the company's stated liability cap could potentially fall to **just $1**, even though the customer paid more for the service.[^32][^38]
+
+The company's Refund Policy introduces further concerns. It expressly offers refunds when customers cancel trips or cancel early, but **does not clearly guarantee refunds when the paid TDAC submission itself fails, is processed incorrectly, or is delayed**. By contrast, the same document explicitly promises refunds for certain failures involving its separate VIP arrival service. The policy also incorrectly describes TDAC submissions as **"visa applications"**, despite Thailand's Immigration Bureau confirming that the Digital Arrival Card is not a visa.[^32][^39]
+
+Together, these provisions raise serious questions about the protections available to travelers who pay a private intermediary to process a free government arrival declaration. **The company collects payment and sensitive immigration information in advance while attempting to restrict its financial responsibility if the promised service subsequently fails.**[^38][^39]
+
 ## November 2025 ASEAN NOW Sponsorship and Censorship
 
 In November 2025, an [ASEAN NOW discussion](../threads/2025-11-04-asean-now-thai-visa-centre-bangna.md) about Thai Visa Centre attracted favorable responses from forum moderators, while the agency's official account participated under the designation **"Forum Sponsor."** On November 5, administrator Captain Flack explicitly confirmed removing a post criticizing the sponsor, citing **Rule 37**, which prohibited negative comments about forum advertisers and sponsors.[^8]
@@ -211,3 +221,5 @@ These 2025 advertisements were published while Police Major General Prasart Khem
 [^35]: https://www.trustpilot.com/review/tdac.in.th
 [^36]: https://thethaiger.com/travel/thailand-travel/early-thailand-tdac-applications-enhanced-by-insurance-and-esim-partnerships
 [^37]: https://agents.co.th/tdac-apply/policy/disclaimer/
+[^38]: https://agents.co.th/tdac-apply/policy/terms-and-conditions/
+[^39]: https://agents.co.th/tdac-apply/policy/refund/
