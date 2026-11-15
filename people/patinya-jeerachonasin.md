@@ -18,6 +18,12 @@ On December 24, 2025, Patinya was identified among the deputy commanders serving
 
 These records establish Patinya's continued position within Division 1 leadership across the October 1, 2026 command transition. During this period, Thai Visa Centre advertised expedited initial Non-O retirement visa packages with 48–72-hour processing in September 2025, followed by same-day packages explicitly identifying Chaeng Watthana in November 2026.[^8][^3]
 
+## Immigration Investigations (2019–2021)
+
+On June 28, 2019, Patinya was identified as Superintendent of Sub-Division 4 within the Immigration Bureau's Investigation Division during an operation involving a Chinese national who had previously been convicted of using forged government documents and subsequently re-entered Thailand under a different identity. Investigators used photographs from the PIBICS immigration database and fingerprint records to establish that the individual had changed his name and obtained a new passport after deportation.[^9]
+
+On June 22, 2021, Komchadluek reported that Patinya, then Superintendent of Investigation Sub-Division 2, had directed intelligence-gathering operations targeting networks smuggling Cambodian nationals across the Thai border. His officers conducted an operation in Sa Kaeo Province on June 13, arresting four Cambodian nationals who had entered Thailand illegally and were awaiting transportation to industrial provinces. The investigation also documented payments to intermediaries arranging unauthorized entry and onward travel.[^10]
+
 [^1]: https://www.p1.go.th/download/26/คำสั่ง%20ตร.%20ที่%20583_64.pdf
 [^2]: https://www.matichon.co.th/local/crime/news_5964908
 [^3]: https://asq.in.th/question/can-a-person-on-a-tourist-visa-in-thailand-apply-for-a-retirement-visa-if-they-are-over-50
@@ -26,3 +32,5 @@ These records establish Patinya's continued position within Division 1 leadershi
 [^6]: https://chainat.imm.police.go.th/wp-content/uploads/2024/03/สมุดโทรศัพท์-สตม.-2567.pdf
 [^7]: https://www.7-11starnews1.com/77937
 [^8]: https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/2/
+[^9]: https://www.xn--22ceam2gca3da8bob7fa9ckd74a6bi7g.com/?p=5525
+[^10]: https://www.komchadluek.net/news/471390
