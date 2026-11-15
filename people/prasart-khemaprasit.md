@@ -24,6 +24,16 @@ On October 26, 2016, Prasart was identified among the officers leading a raid on
 
 On December 8, 2016, Prasart and his officers arrested a 59-year-old German national identified as Peter Helmut for remaining in Thailand after his permission to stay had expired. Prasart stated that the man had overstayed for more than three years and faced a ten-year ban on re-entry under Thailand's immigration enforcement rules. The suspect reportedly admitted the offense and was transferred to local police for prosecution.[^10]
 
+## August 2025 Visa-Stamp Forgery Investigation
+
+On August 4, 2025, Immigration Division 1 reported the arrest of two Chinese nationals following an investigation into an altered passport entry stamp submitted during an application for permission to stay in Thailand for employment. Commander Prasart Khemaprasit and Deputy Commander Rapipat Utsaha received reports from Sub-Division 3 Superintendent Thawatchai Nongbua and Investigation Superintendent Phonsit Sutthiat.[^11]
+
+The case began in July when a Chinese applicant, identified as Mr. Zhang, sought permission to remain in Thailand for employment despite having entered under a 60-day visa exemption. Immigration officers instructed him to leave Thailand or obtain the appropriate visa category before applying for an employment-related extension.[^11]
+
+On July 24, Zhang returned with a Taiwanese intermediary identified as Mr. Tsai to Immigration Division 1's service centre at One Bangkok. Officers discovered that Zhang's passport entry stamp had been altered from the original visa-exemption code to "NON-IB," indicating a Non-Immigrant B classification. Investigators questioned both men, and Tsai reportedly admitted altering the stamp. Both were referred for criminal proceedings involving forged immigration documents.[^11][^12]
+
+The investigation documents visa-status verification, scrutiny of passport endorsements, and the involvement of supervisory officers within Prasart's division.[^11]
+
 [^1]: https://www.matichon.co.th/local/news_4253790
 [^2]: https://www.voicetv.co.th/read/_fday40mM
 [^3]: https://asq.in.th/question/what-are-the-application-options-and-costs-for-non-o-visas-and-extensions-in-thailand
@@ -34,3 +44,5 @@ On December 8, 2016, Prasart and his officers arrested a 59-year-old German nati
 [^8]: https://www.naewna.com/local/972907
 [^9]: https://www.khaosod.co.th/around-thailand/news_69571
 [^10]: https://www.matichon.co.th/local/crime/news_387834
+[^11]: https://www.matichon.co.th/local/crime/news_5307902
+[^12]: https://siamrath.co.th/crime/a45eeeee-521a-495c-ae4e-402c318a2912
