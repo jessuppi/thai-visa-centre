@@ -10,9 +10,19 @@ On October 26, 2023, the Royal Thai Police appointments committee approved his p
 
 On November 9, 2023, Prasart was identified as Acting Commander of Immigration Division 1 during a coordinated operation involving Bangkok and airport immigration investigators. The operation resulted in the arrest of a Chinese fugitive wanted by authorities in China, documenting his assumption of command responsibilities shortly after the appointment decision.[^6]
 
+## June 2026 Retirement-Visa Revocation
+
+On June 24, 2026, Immigration Division 1 announced the arrest of a 69-year-old Chinese national known as "Mr. Feng," who had reportedly been hiding in Bangkok for years using a Thai retirement visa despite being wanted by Chinese authorities under an international arrest notice.[^7]
+
+According to contemporary police reporting, Prasart personally ordered the cancellation of Feng's permission to stay after receiving information from Chinese authorities. Immigration investigators subsequently detained Feng in Bangkok's Rama 9 area pending deportation proceedings.[^7][^8]
+
+Prasart publicly emphasized that immigration authorities maintained strict screening procedures for foreign nationals and would revoke permission to stay when individuals were identified as threats to public security. The case documents his direct exercise of retirement-related immigration enforcement authority during the same period that Thai Visa Centre was advertising increasingly expedited retirement visa services.[^7][^3]
+
 [^1]: https://www.matichon.co.th/local/news_4253790
 [^2]: https://www.voicetv.co.th/read/_fday40mM
 [^3]: https://asq.in.th/question/what-are-the-application-options-and-costs-for-non-o-visas-and-extensions-in-thailand
 [^4]: https://ratchakitcha.soc.go.th/documents/130059.pdf
 [^5]: https://www.matichon.co.th/region/news_590549
 [^6]: https://siamrath.co.th/crime/95629e82-2742-405f-a93b-93343ec82791
+[^7]: https://news.voicetv.co.th/read/owH2pKYJt
+[^8]: https://www.naewna.com/local/972907
