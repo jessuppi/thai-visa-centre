@@ -18,6 +18,12 @@ On November 6, 2026, Matichon identified Jiraprapha and Deputy Commander Patinya
 
 The report described a Chinese national wanted for fraud who was identified during document checks at a Sub-Division 1 service counter on November 5. Officers subsequently detained the suspect, while a separate operation involving Sub-Division 2 identified an Indian national wanted for fraud in Chonburi.[^3]
 
+## December 2019 Highway Police Investigation
+
+On December 3, 2019, Jiraprapha was identified as Superintendent of Highway Police Division 7 following a widely publicized confrontation between highway police officers and a pickup truck driver at a checkpoint in Rattaphum District, Songkhla Province. Video footage of the incident raised questions about the officers' conduct after the vehicle's tire burst during the confrontation.[^8]
+
+Jiraprapha ordered a formal investigation with findings to be reported within seven days and temporarily reassigned an officer involved in the incident to another highway police station. Police initially maintained that the tire had burst accidentally, while authorities stated that disciplinary proceedings would follow if the investigation established misconduct.[^8][^9]
+
 [^1]: https://chachoengsao.imm.police.go.th/wp-content/uploads/2025/04/การรายงานผลการดำเนินการมาตรการยกระดับคุณธรรมและความโปร่งใสภายในหน่วยงาน_compressed.pdf
 [^2]: https://sub3div1immigration.com/พันตำรวจเอก-ณรงค์เวทย์/
 [^3]: https://www.matichon.co.th/local/crime/news_5964908
@@ -25,3 +31,5 @@ The report described a Chinese national wanted for fraud who was identified duri
 [^5]: https://www.rayongtouristpolice.com/wp-content/uploads/2020/11/คำสั่ง-ตร.ที่-626.63.pdf
 [^6]: https://www.policehospital.org/ckfinder/userfiles/images_pghfiles/24_2566.pdf
 [^7]: https://rayongtouristpolice.com/wp-content/uploads/2025/03/สตม.-ที่-54-68.pdf
+[^8]: https://www.matichon.co.th/local/crime/news_1782122
+[^9]: https://www.pptvhd36.com/news/ประเด็นร้อน/115234
