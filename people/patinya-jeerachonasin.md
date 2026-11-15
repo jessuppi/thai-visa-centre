@@ -24,6 +24,14 @@ On June 28, 2019, Patinya was identified as Superintendent of Sub-Division 4 wit
 
 On June 22, 2021, Komchadluek reported that Patinya, then Superintendent of Investigation Sub-Division 2, had directed intelligence-gathering operations targeting networks smuggling Cambodian nationals across the Thai border. His officers conducted an operation in Sa Kaeo Province on June 13, arresting four Cambodian nationals who had entered Thailand illegally and were awaiting transportation to industrial provinces. The investigation also documented payments to intermediaries arranging unauthorized entry and onward travel.[^10]
 
+## Retirement Visa Oversight and Approval Chain (2025–2026)
+
+Immigration Bureau Order 15/2568, effective January 23, 2025, assigned Sub-Division 1 of Bangkok Immigration Division 1 responsibility for receiving initial visa applications and requests to change visa categories. The order reserved retirement-purpose approval decisions to the Division 1 Commander, while authorizing Sub-Division 1 officers holding the rank of inspector or higher to sign visa endorsements following approval.[^11]
+
+The Immigration Bureau's 2024 personnel directory identified Patinya as the Deputy Commander responsible for supervising Sub-Division 1. His position placed him above the unit's superintendent in the supervisory structure, while formal approval authority for retirement-purpose applications remained with Commander Prasart Khemaprasit until September 30, 2026, and Commander Kongchart Liengsomsap from October 1, 2026.[^6][^11]
+
+On November 6, 2026, Matichon identified Patinya alongside Sub-Division 1 Superintendent Jiraprapha Sutthapreeda during a coordinated visa-screening operation. Their documented positions establish the supervisory structure operating at Chaeng Watthana during the period when Thai Visa Centre advertised same-day initial Non-O retirement visa processing at that location.[^2][^3]
+
 [^1]: https://www.p1.go.th/download/26/คำสั่ง%20ตร.%20ที่%20583_64.pdf
 [^2]: https://www.matichon.co.th/local/crime/news_5964908
 [^3]: https://asq.in.th/question/can-a-person-on-a-tourist-visa-in-thailand-apply-for-a-retirement-visa-if-they-are-over-50
@@ -34,3 +42,4 @@ On June 22, 2021, Komchadluek reported that Patinya, then Superintendent of Inve
 [^8]: https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/2/
 [^9]: https://www.xn--22ceam2gca3da8bob7fa9ckd74a6bi7g.com/?p=5525
 [^10]: https://www.komchadluek.net/news/471390
+[^11]: https://phrae.immigration.go.th/wp-content/uploads/2025/04/imm15.68.pdf
