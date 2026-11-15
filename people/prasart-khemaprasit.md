@@ -18,6 +18,12 @@ According to contemporary police reporting, Prasart personally ordered the cance
 
 Prasart publicly emphasized that immigration authorities maintained strict screening procedures for foreign nationals and would revoke permission to stay when individuals were identified as threats to public security. The case documents his direct exercise of retirement-related immigration enforcement authority during the same period that Thai Visa Centre was advertising increasingly expedited retirement visa services.[^7][^3]
 
+## Kanchanaburi Immigration Enforcement (2016)
+
+On October 26, 2016, Prasart was identified among the officers leading a raid on the River Paradise massage establishment in Kanchanaburi. Immigration investigators detained a Thai manager and four foreign women from Myanmar and Laos following allegations that the establishment employed migrant workers without proper authorization.[^9]
+
+On December 8, 2016, Prasart and his officers arrested a 59-year-old German national identified as Peter Helmut for remaining in Thailand after his permission to stay had expired. Prasart stated that the man had overstayed for more than three years and faced a ten-year ban on re-entry under Thailand's immigration enforcement rules. The suspect reportedly admitted the offense and was transferred to local police for prosecution.[^10]
+
 [^1]: https://www.matichon.co.th/local/news_4253790
 [^2]: https://www.voicetv.co.th/read/_fday40mM
 [^3]: https://asq.in.th/question/what-are-the-application-options-and-costs-for-non-o-visas-and-extensions-in-thailand
@@ -26,3 +32,5 @@ Prasart publicly emphasized that immigration authorities maintained strict scree
 [^6]: https://siamrath.co.th/crime/95629e82-2742-405f-a93b-93343ec82791
 [^7]: https://news.voicetv.co.th/read/owH2pKYJt
 [^8]: https://www.naewna.com/local/972907
+[^9]: https://www.khaosod.co.th/around-thailand/news_69571
+[^10]: https://www.matichon.co.th/local/crime/news_387834
