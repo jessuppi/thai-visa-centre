@@ -94,6 +94,8 @@ For the subsequent 12-month retirement extension, Immigration Bureau Order 122/2
 
 Thai Visa Centre's August 2026 advertisement nevertheless offered initial Non-O issuance, a 12-month retirement extension, and bank-account-opening assistance together within approximately 6–7 hours for 55,000 baht. The agency also acknowledged that applicants could obtain an ordinary retirement extension themselves for the official government fee of 1,900 baht.[^19]
 
+Thailand's official government fees for these two immigration applications total just **3,900 baht**: 2,000 baht for initial Non-O visa issuance and 1,900 baht for the subsequent retirement extension. Thai Visa Centre's advertised **55,000-baht same-day package costs 51,100 baht more**, approximately fourteen times the combined government fees. Although the package includes bank-account-opening assistance and other services, the agency's published advertisement does not provide an itemized breakdown explaining the substantial difference.[^19][^23][^25]
+
 For applicants opening new Thai bank accounts as part of this same-day package, the advertisement raises a specific question about how the two-month deposit requirement could be satisfied for an immediate retirement extension. This is particularly relevant to the October 2026 claim that Thai Visa Centre could arrange Chaeng Watthana retirement extensions **"with & without financials."** The agency's published statements do not identify which qualifying financial arrangements or immigration approval procedures were used in these cases.[^17][^19][^24]
 
 ## May–September 2025 Expedited Retirement Visa Packages
@@ -132,3 +134,4 @@ These 2025 advertisements were published while Police Major General Prasart Khem
 [^22]: https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/2/
 [^23]: https://thailand.go.th/public/issue-focus-detail/001-01-044?hl=en
 [^24]: https://ratchakitcha.soc.go.th/documents/117219.pdf
+[^25]: https://www.thailand.go.th/public/index.php/issue-focus-detail/001-01-057
