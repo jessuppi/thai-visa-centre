@@ -28,6 +28,12 @@ On October 23, Kongchart directed another operation involving Deputy Commander K
 
 On November 6, Matichon reported that Kongchart had ordered coordinated visa-screening operations involving Sub-Divisions 1 and 2, including Deputy Commander Patinya Jeerachonasin and Sub-Division 1 Superintendent Jiraprapha Sutthapreeda. The operation resulted in the identification and detention of two foreign nationals wanted for fraud, including a Chinese applicant detected during document checks at a Chaeng Watthana immigration service counter.[^8]
 
+On November 12, 2026, Immigration Division 1 announced the detention of a 41-year-old Chinese national identified as Mr. Liu, who was wanted by Chinese authorities for operating an illegal online gambling enterprise. Following information received through the Chinese embassy and Royal Thai Police, Kongchart personally ordered the revocation of Liu's permission to stay in Thailand, according to contemporary reporting.[^18]
+
+Investigators under Deputy Commander Keeratisak Kongkiatsiri and Investigation Superintendent Phonsit Sutthiat tracked Liu for approximately five days before detaining him near a luxury condominium in Bangkok's Sukhumvit–Ekkamai area. Police reported that Liu had obtained a Thai visa through normal procedures despite being wanted in China.[^18][^19]
+
+According to investigators, Liu admitted operating the Huangguan Internet gambling platform, which reportedly had more than 4,000 user accounts and transaction volume exceeding 50 billion baht. He was transferred to immigration investigators for further legal proceedings.[^19]
+
 ## Buriram Drug Enforcement Operations (2023–2024)
 
 On December 21, 2023, Kongchart participated in a Buriram Provincial Police press conference announcing the dismantling of two major drug-trafficking networks. The operation resulted in seven arrests and the seizure of nearly 300,000 methamphetamine tablets, three firearms, ammunition, and vehicles. Investigators also reported discovering a previously unfamiliar form of methamphetamine tablet requiring further examination.[^9]
@@ -51,3 +57,5 @@ On December 17, 2024, Kongchart was identified alongside Provincial Police Comma
 [^15]: https://www.sanook.com/news/8288206/
 [^16]: https://www.thansettakij.com/politics/638047
 [^17]: https://www.dailynews.co.th/articles/5935735/
+[^18]: https://www.naewna.com/n/breaking/161105/
+[^19]: https://www.cops-magazine.com/topic/159471/
