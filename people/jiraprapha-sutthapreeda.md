@@ -24,6 +24,16 @@ On December 3, 2019, Jiraprapha was identified as Superintendent of Highway Poli
 
 Jiraprapha ordered a formal investigation with findings to be reported within seven days and temporarily reassigned an officer involved in the incident to another highway police station. Police initially maintained that the tire had burst accidentally, while authorities stated that disciplinary proceedings would follow if the investigation established misconduct.[^8][^9]
 
+## Retirement Visa Processing Responsibilities (2025–2026)
+
+Immigration Bureau Order 15/2568, issued January 23, 2025, assigned Sub-Division 1 of Bangkok Immigration Division 1 responsibility for receiving initial visa applications and requests to change visa categories. Retirement-purpose applications required approval from the Division 1 Commander, while officers holding the rank of inspector or higher within Sub-Division 1 were authorized to sign the resulting visa endorsements.[^10]
+
+Jiraprapha's appointment as Sub-Division 1 Superintendent by December 2025 placed him in charge of the unit responsible for processing these applications, under the approval authority of Commander Prasart Khemaprasit and, from October 1, 2026, Commander Kongchart Liengsomsap.[^2][^3][^10]
+
+The order required applicants to submit visa issuance or category-change requests at least 15 days before their existing permission to stay expired. Separately, a July 2025 retirement-visa checklist published by Pathum Thani Immigration specified a 15-day processing period, a 2,000-baht government fee, financial verification, and an initial permitted stay of no more than 90 days.[^10][^11]
+
+By November 2026, Thai Visa Centre was advertising same-day initial Non-O retirement visa issuance and a 12-month extension at Chaeng Watthana. The advertised turnaround was substantially shorter than the processing period published by Pathum Thani Immigration, although the latter was a provincial guideline rather than a confirmed Bangkok service standard.[^4][^11]
+
 [^1]: https://chachoengsao.imm.police.go.th/wp-content/uploads/2025/04/การรายงานผลการดำเนินการมาตรการยกระดับคุณธรรมและความโปร่งใสภายในหน่วยงาน_compressed.pdf
 [^2]: https://sub3div1immigration.com/พันตำรวจเอก-ณรงค์เวทย์/
 [^3]: https://www.matichon.co.th/local/crime/news_5964908
@@ -33,3 +43,5 @@ Jiraprapha ordered a formal investigation with findings to be reported within se
 [^7]: https://rayongtouristpolice.com/wp-content/uploads/2025/03/สตม.-ที่-54-68.pdf
 [^8]: https://www.matichon.co.th/local/crime/news_1782122
 [^9]: https://www.pptvhd36.com/news/ประเด็นร้อน/115234
+[^10]: https://phrae.immigration.go.th/wp-content/uploads/2025/04/imm15.68.pdf
+[^11]: https://pathumthani.imm.police.go.th/wp-content/uploads/2025/07/2.6-Change-Retirement.pdf
