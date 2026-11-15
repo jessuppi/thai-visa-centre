@@ -74,6 +74,14 @@ On November 10, 2025, an ASEAN NOW member openly acknowledged using Thai Visa Ce
 
 The exchange exposed a potential mechanism for circumventing retirement-extension financial requirements: temporarily placing funds in an applicant's account to obtain bank certification before removing the money. Particularly notable is that this explanation came from a forum moderator in the same discussion where moderators were actively deleting criticism of their paying sponsor, Thai Visa Centre. The moderator did not provide transaction records establishing whether the agency actually followed this procedure.[^8]
 
+## November 2025 The Thaiger Promotional Coverage and Criminal Allegations
+
+On November 11, 2025, The Thaiger published an article titled *Thailand Digital Arrival Card (TDAC) scams and how to protect yourself*, categorized under its visa-information guides but labeled **"Press Release."** The publication extensively promoted the TDAC platform operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md), a company publicly associated with Thai Visa Centre, while directing readers to its own comparison website branding **29 competing TDAC providers as scams or untrusted operators**.[^29][^30]
+
+More seriously, the article included a section targeting critic Jesse Nickles, accusing him of coordinated online harassment and claiming that a Thai court had issued an arrest warrant against him. It presented criminal-case reference **443/2567** without linking to an independently verifiable court record. These disputed accusations appeared within the same promotional publication defending Agents Co., Ltd. against criticism.[^29]
+
+The publication illustrates how **commercially interested material was distributed through an established news outlet**, combining promotion of a private immigration service, attacks against competitors, and serious criminal allegations against a critic. Its placement within The Thaiger's informational guides raises questions about editorial oversight and whether readers could distinguish independently verified journalism from promotional material advancing the company's interests.[^29][^30]
+
 ## March 2026 Reddit Review Manipulation Allegations
 
 On March 22, 2026, a discussion on Reddit's r/digitalnomad questioned Thai Visa Centre's reputation and online marketing practices. Commenters accused the agency of publishing fabricated five-star reviews on **Google Maps and Trustpilot**, manipulating Reddit votes, and suppressing negative feedback. The official `ThaiVisaCentre` account, identified as a **Brand Affiliate**, participated extensively, denying the accusations and claiming the company was itself being targeted by coordinated harassment and spam campaigns.[^16]
@@ -160,3 +168,5 @@ These 2025 advertisements were published while Police Major General Prasart Khem
 [^26]: https://tvc.co.th/thai-visa-centre-spam
 [^27]: https://www.dataforthai.com/company/0115563017485/
 [^28]: https://90day.in.th/contact
+[^29]: https://thethaiger.com/guides/visa-information/thailand-digital-arrival-card-tdac-scams-and-how-to-protect-yourself
+[^30]: https://tdac.in.th/scam
