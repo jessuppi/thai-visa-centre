@@ -74,6 +74,14 @@ On November 10, 2025, an ASEAN NOW member openly acknowledged using Thai Visa Ce
 
 The exchange exposed a potential mechanism for circumventing retirement-extension financial requirements: temporarily placing funds in an applicant's account to obtain bank certification before removing the money. Particularly notable is that this explanation came from a forum moderator in the same discussion where moderators were actively deleting criticism of their paying sponsor, Thai Visa Centre. The moderator did not provide transaction records establishing whether the agency actually followed this procedure.[^8]
 
+## November 2025 Paid Reporting and Customer Records
+
+On November 6, 2025, Thai Visa Centre used its sponsored ASEAN NOW forum account to promote paid 90-day immigration reporting through [90day.in.th](../domains/90day.in.th.md), charging **375–500 baht per submission**. Thailand's Immigration Bureau provides the same government reporting procedure **free of charge**, including online submission and authorized third-party reporting. The agency was therefore charging customers to handle an otherwise free immigration requirement.[^8][^31]
+
+The agency also advertised **2,000-baht residence certificates**, claiming that customers who had previously used its reporting service could obtain additional immigration documents without supplying their original paperwork. Thai Visa Centre explained that existing customer files could be reused to initiate further applications, highlighting its continuing reliance on previously collected passport, residence, and immigration information. The announcement did not explain what additional verification or authorization procedures applied to these subsequent requests.[^8]
+
+Notably, this commercial promotion appeared in the same ASEAN NOW discussion where moderators openly acknowledged **removing criticism of Thai Visa Centre under rules protecting paying sponsors**. While critical posts were being deleted, the agency was permitted to advertise paid immigration services directly to forum readers. The episode illustrates how sponsor-protective moderation created a favorable environment for monetizing routine government procedures while limiting public scrutiny of the business.[^8]
+
 ## November 2025 The Thaiger Promotional Coverage and Criminal Allegations
 
 On November 11, 2025, The Thaiger published an article titled *Thailand Digital Arrival Card (TDAC) scams and how to protect yourself*, categorized under its visa-information guides but labeled **"Press Release."** The publication extensively promoted the TDAC platform operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md), a company publicly associated with Thai Visa Centre, while directing readers to its own comparison website branding **29 competing TDAC providers as scams or untrusted operators**.[^29][^30]
@@ -170,3 +178,4 @@ These 2025 advertisements were published while Police Major General Prasart Khem
 [^28]: https://90day.in.th/contact
 [^29]: https://thethaiger.com/guides/visa-information/thailand-digital-arrival-card-tdac-scams-and-how-to-protect-yourself
 [^30]: https://tdac.in.th/scam
+[^31]: https://chachoengsao.imm.police.go.th/งานรับแจ้งอยู่ในราชอาณาจักร/
