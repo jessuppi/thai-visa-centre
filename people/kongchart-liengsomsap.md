@@ -18,6 +18,12 @@ On October 23, Kongchart directed another operation involving Deputy Commander K
 
 On November 6, Matichon reported that Kongchart had ordered coordinated visa-screening operations involving Sub-Divisions 1 and 2, including Deputy Commander Patinya Jeerachonasin and Sub-Division 1 Superintendent Jiraprapha Sutthapreeda. The operation resulted in the identification and detention of two foreign nationals wanted for fraud, including a Chinese applicant detected during document checks at a Chaeng Watthana immigration service counter.[^8]
 
+## Buriram Drug Enforcement Operations (2023–2024)
+
+On December 21, 2023, Kongchart participated in a Buriram Provincial Police press conference announcing the dismantling of two major drug-trafficking networks. The operation resulted in seven arrests and the seizure of nearly 300,000 methamphetamine tablets, three firearms, ammunition, and vehicles. Investigators also reported discovering a previously unfamiliar form of methamphetamine tablet requiring further examination.[^9]
+
+On December 17, 2024, Kongchart was identified alongside Provincial Police Commander Rutthaphon Naowarat during another major anti-narcotics operation. Following the discovery of 54,000 methamphetamine tablets connected to a motorcycle accident on December 12, Rutthaphon ordered Kongchart to urgently expand the investigation. Police subsequently reported arrests across three trafficking networks, with 17 suspects detained and 407,413 methamphetamine tablets seized.[^10][^11]
+
 [^1]: https://ratchakitcha.soc.go.th/documents/130059.pdf
 [^2]: https://www.matichon.co.th/local/news_5929042
 [^3]: https://asq.in.th/question/can-a-person-on-a-tourist-visa-in-thailand-apply-for-a-retirement-visa-if-they-are-over-50
@@ -26,3 +32,6 @@ On November 6, Matichon reported that Kongchart had ordered coordinated visa-scr
 [^6]: https://muang.buriram.police.go.th/category/workings/general/page/2/
 [^7]: https://www.matichon.co.th/local/crime/news_5944633
 [^8]: https://www.matichon.co.th/local/crime/news_5964908
+[^9]: https://www.khupandin.com/news/6987.html
+[^10]: https://www.thaich8.com/news_detail/139089
+[^11]: https://www.naewna.com/local/848115
