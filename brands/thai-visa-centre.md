@@ -102,6 +102,18 @@ The contradiction is particularly striking because **AGENTS CO., LTD. promotes i
 
 The error does not establish deliberate deception or prove that any traveler actually missed the deadline. Nevertheless, **a commercial immigration operator presenting itself as an authority on identifying fraudulent TDAC services is publishing misleading instructions about the very government procedure it charges customers to handle**.[^40][^41]
 
+## Misleading Comparisons With the Official TDAC Portal
+
+AGENTS CO., LTD., the company publicly associated with Thai Visa Centre's commercial TDAC services, publishes comparisons portraying Thailand's free government arrival-card system as substantially more restrictive than its own platform. Its scam-warning website explicitly marks **"Resubmission Functionality" as unavailable** on the official Immigration Bureau portal while presenting that capability as supported by its commercial service. It also describes government editing functionality as limited compared with its own platform.[^42]
+
+**The official Immigration Bureau guidance directly contradicts the claim about resubmissions.** Travelers may submit a TDAC multiple times, with the latest valid submission taking precedence. The government also provides an *Update Arrival Card* function for correcting travel information, including flight and accommodation details. Where personal information such as a passport number cannot be edited, applicants can submit a replacement form containing the correct details.[^32]
+
+The company's marketing also emphasizes **unlimited group submissions**, contrasting this with a supposed ten-traveler limit on the government portal. However, the Immigration Bureau specifies that the restriction applies to **ten travelers per application**, not ten travelers per entire group or tour. Authorized travel agents may submit TDAC applications on behalf of their customers, and larger groups can be handled through multiple free submissions.[^32][^43]
+
+The commercial comparison further labels the government's email support **"Unresponsive"**, without publishing supporting evidence such as testing dates, inquiry records, or response-time measurements. The Immigration Bureau's official guidance provides an email contact and other assistance options. While this does not establish the quality of government support, the company's negative characterization is not independently substantiated.[^32][^43]
+
+**These comparisons risk exaggerating the limitations of a free government service while promoting a commercial alternative that charges for advance scheduling and optional conveniences.** AGENTS CO., LTD. may provide additional administrative features, but its published marketing does not consistently distinguish those conveniences from functions already available through Thailand's official immigration system.[^32][^42][^43]
+
 ## November 2025 ASEAN NOW Sponsorship and Censorship
 
 In November 2025, an [ASEAN NOW discussion](../threads/2025-11-04-asean-now-thai-visa-centre-bangna.md) about Thai Visa Centre attracted favorable responses from forum moderators, while the agency's official account participated under the designation **"Forum Sponsor."** On November 5, administrator Captain Flack explicitly confirmed removing a post criticizing the sponsor, citing **Rule 37**, which prohibited negative comments about forum advertisers and sponsors.[^8]
@@ -235,3 +247,5 @@ These 2025 advertisements were published while Police Major General Prasart Khem
 [^39]: https://agents.co.th/tdac-apply/policy/refund/
 [^40]: https://tdac.in.th/th/scam
 [^41]: https://www.thailand.go.th/issue-focus-detail/thailand-digital-arrival-card--tdac---2-2?hl=th
+[^42]: https://tdac.agents.co.th/scam
+[^43]: https://agents.co.th/tdac-apply/about/
