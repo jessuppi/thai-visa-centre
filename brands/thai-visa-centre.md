@@ -124,6 +124,14 @@ The same advertisement also appeared as a Facebook Marketplace listing.[^11]
 
 The advertisement offered three packages: **45,000 baht** with processing in 2–3 weeks, **50,000 baht** within 3–4 days, and **55,000 baht** for same-day processing. The public complaint raised concerns about the agency's marketing, although the post did not include the underlying email or explain how the recipient obtained it.[^4]
 
+## October 2026 Trustpilot Review Intimidation and Retraction
+
+On October 17, 2026, the operator of [tdac.in.th](../domains/tdac.in.th.md), a commercial immigration website associated with Thai Visa Centre and [Agents Co., Ltd.](../companies/agents-co-ltd.md), published nearly identical responses to multiple negative Trustpilot reviews. Rather than addressing individual complaints, the responses accused reviewers of participating in a coordinated harassment campaign involving thousands of fraudulent accounts. They cited criminal-case reference **BKK-443/2567**, claimed that the alleged organizer was subject to an arrest warrant, and urged Trustpilot to treat the complaints as coordinated abuse rather than genuine consumer feedback.[^35]
+
+One reviewer challenged these accusations, explicitly denying any connection to the purported criminal case and objecting to being publicly associated with criminal harassment. On October 18, the operator softened its response, acknowledging that the review **"may have been mistakenly included"** among reviews it considered fraudulent and apologizing if it had been incorrectly flagged. This admission followed the company's earlier publication of serious accusations without review-specific evidence connecting the customer to criminal misconduct.[^35]
+
+The incident exposes a troubling approach to handling consumer criticism: **negative reviews were publicly linked to criminal allegations and an alleged arrest warrant before the operator acknowledged that at least one complaint might have been genuine**. The case reference also matches the **443/2567** identifier previously circulated in promotional material defending the same business network. Together with documented sponsor-protective moderation on ASEAN NOW, these responses raise further concerns about attempts to discredit or suppress unfavorable public feedback.[^8][^29][^35]
+
 ## October–November 2026 Chaeng Watthana Retirement Visa Processing
 
 On October 10, 2026, ASEAN NOW moderator BrandonJT stated that Thai Visa Centre could arrange retirement extensions through **Chaeng Watthana Immigration in Bangkok**, although this option cost more than the agency's other processing arrangements. When another member asked whether the service was available **"with & without financials,"** moderator DrJack54 replied **"Both"**, adding that applicants must attend immigration in person.[^17]
@@ -190,3 +198,4 @@ These 2025 advertisements were published while Police Major General Prasart Khem
 [^32]: https://tdac.immigration.go.th/manual/en/faq.html
 [^33]: https://tdac.in.th/scam
 [^34]: https://agents.co.th/tdac-apply/policy/privacy/
+[^35]: https://www.trustpilot.com/review/tdac.in.th
