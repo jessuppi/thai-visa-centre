@@ -10,6 +10,14 @@ On January 13, 2023, Police Order 24/2566 reassigned him from Ayutthaya to head 
 
 On February 28, 2025, Immigration Bureau Order 54/2568 transferred Jiraprapha from Sisaket to Chachoengsao Provincial Immigration. Official records confirm he was serving there on March 18, 2025, but by December 25 he had become Superintendent of Sub-Division 1 at Chaeng Watthana, placing his Chachoengsao assignment at less than ten months.[^1][^2][^7]
 
+## Sub-Division 1 Leadership and Visa Screening (2025–2026)
+
+On December 25, 2025, Jiraprapha was publicly identified as Superintendent of Sub-Division 1 during an official visit by a Shenzhen immigration delegation to Chaeng Watthana. He participated alongside Deputy Commander Narongwet Oonsungnoen and the superintendents of Sub-Divisions 2 and 3, confirming his position within Bangkok Immigration Division 1's leadership by the end of 2025.[^2]
+
+On November 6, 2026, Matichon identified Jiraprapha and Deputy Commander Patinya Jeerachonasin as the officers overseeing Sub-Division 1 during a coordinated immigration-screening operation ordered under Commander Kongchart Liengsomsap. The operation involved checking foreign applicants against criminal records and coordinating with immigration investigators.[^3]
+
+The report described a Chinese national wanted for fraud who was identified during document checks at a Sub-Division 1 service counter on November 5. Officers subsequently detained the suspect, while a separate operation involving Sub-Division 2 identified an Indian national wanted for fraud in Chonburi.[^3]
+
 [^1]: https://chachoengsao.imm.police.go.th/wp-content/uploads/2025/04/การรายงานผลการดำเนินการมาตรการยกระดับคุณธรรมและความโปร่งใสภายในหน่วยงาน_compressed.pdf
 [^2]: https://sub3div1immigration.com/พันตำรวจเอก-ณรงค์เวทย์/
 [^3]: https://www.matichon.co.th/local/crime/news_5964908
