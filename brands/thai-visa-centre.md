@@ -24,6 +24,14 @@ The reversal preceded the August 10 email in which "Grace" personally announced 
 
 On August 10, 2020, just six days after the arrests, Thai Visa Centre circulated a promotional email attributed to Grace Scira announcing that she would continue working with the agency. The email claimed that Thai Immigration had already verified the business as a legitimate visa agent and that operations remained open. When the email was reproduced on ASEAN NOW on August 12, members questioned the rapid resumption of business, the agency's continued unsolicited marketing, and earlier statements suggesting Grace was no longer employed there.[^7]
 
+## August 2020 Corporate Registration Following Police Raid
+
+On August 18, 2020, just **14 days after immigration police announced the Thai Visa Centre raid**, [TVC. Visa Agent Co., Ltd.](../companies/tvc-visa-agent-co-ltd.md) was formally incorporated in Thailand under registration number **0115563017485**, with registered capital of 6 million baht. The company was established years after the Thai Visa Centre brand had already begun advertising visa services and only two weeks after police publicly associated that operation with suspected immigration-document forgery.[^5][^27]
+
+Corporate records identify the company's registered office as **91/11 Moo 15, Bang Kaeo, Bang Phli, Samut Prakan**. This is the same address published by [Agents Co., Ltd.](../companies/agents-co-ltd.md), a separately registered company that Thai Visa Centre acknowledges operates its digital immigration platforms. The two companies have different registration numbers but share a documented business address.[^27][^28]
+
+Thai Visa Centre's own website describes its physical visa operations as being run by **"Thai Visa Centre"**, while identifying Agents Co., Ltd. as responsible for digital services. It does not clearly identify TVC. Visa Agent Co., Ltd. as the legal operator of its physical agency. The timing of the company's incorporation, its shared address, and the agency's ambiguous explanation of its corporate structure raise questions about **which registered entity assumed responsibility for the Thai Visa Centre operation following the August 2020 police raid**.[^3][^27][^28]
+
 ## May 2022 AQ.in.th Customer Data and Visa Marketing
 
 On May 4, 2022, a traveler reported receiving an unsolicited email from `thaivisacentre.com` advertising visa-extension services. The message specifically referenced an earlier Test & Go booking the traveler had made through [aq.in.th](../domains/aq.in.th.md), despite the traveler not having requested visa assistance from Thai Visa Centre.[^14]
@@ -150,3 +158,5 @@ These 2025 advertisements were published while Police Major General Prasart Khem
 [^24]: https://ratchakitcha.soc.go.th/documents/117219.pdf
 [^25]: https://www.thailand.go.th/public/index.php/issue-focus-detail/001-01-057
 [^26]: https://tvc.co.th/thai-visa-centre-spam
+[^27]: https://www.dataforthai.com/company/0115563017485/
+[^28]: https://90day.in.th/contact
