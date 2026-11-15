@@ -88,9 +88,13 @@ In the same discussion, Thai Visa Centre's official forum account advertised a *
 
 An August 15, 2026 promotional announcement published by Thai Visa Centre explicitly described its **55,000-baht same-day package** as including a three-month Non-O visa, a 12-month retirement extension, and Thai bank-account-opening assistance, with the entire process advertised as taking approximately **6–7 hours**.[^19]
 
-Under Thailand's published immigration requirements, retirement extensions ordinarily require evidence of **at least 800,000 baht maintained in a Thai bank account for two months before applying**, or qualifying monthly income of at least **65,000 baht**. Combined with the October 2026 claim that Thai Visa Centre can process applications at Chaeng Watthana **without financial documentation**, the same-day package raises a specific question about how the agency satisfies these requirements when applicants are only opening their Thai bank accounts that day.[^17][^20]
+Thailand's published immigration requirements distinguish initial retirement-purpose Non-O visa issuance from a subsequent 12-month retirement extension. Initial applicants must submit Form TM.86 or TM.87, provide qualifying financial documentation, appear in person, and pay a 2,000-baht government fee. Applications generally require more than 15 days remaining on the applicant's current permission to stay, and successful applicants receive permission for no more than 90 days.[^23]
 
-These statements link Thai Visa Centre's expedited retirement-visa services to Chaeng Watthana and include a moderator's claim that the agency can accommodate applicants without the usual financial documentation. The actual financial arrangements and immigration approvals remain undocumented.[^17][^18]
+For the subsequent 12-month retirement extension, Immigration Bureau Order 122/2569, effective May 28, 2026, requires applicants using the bank-deposit route to maintain at least 800,000 baht in a qualifying Thai bank account for two months before applying and three months after approval. The balance must subsequently remain at least 400,000 baht. Alternative eligibility routes include monthly income of at least 65,000 baht or qualifying combined income and deposits.[^24]
+
+Thai Visa Centre's August 2026 advertisement nevertheless offered initial Non-O issuance, a 12-month retirement extension, and bank-account-opening assistance together within approximately 6–7 hours for 55,000 baht. The agency also acknowledged that applicants could obtain an ordinary retirement extension themselves for the official government fee of 1,900 baht.[^19]
+
+For applicants opening new Thai bank accounts as part of this same-day package, the advertisement raises a specific question about how the two-month deposit requirement could be satisfied for an immediate retirement extension. This is particularly relevant to the October 2026 claim that Thai Visa Centre could arrange Chaeng Watthana retirement extensions **"with & without financials."** The agency's published statements do not identify which qualifying financial arrangements or immigration approval procedures were used in these cases.[^17][^19][^24]
 
 ## May–September 2025 Expedited Retirement Visa Packages
 
@@ -126,3 +130,5 @@ These 2025 advertisements were published while Police Major General Prasart Khem
 [^20]: https://www.thailawonline.com/glossary/financial-requirement/
 [^21]: https://asq.in.th/question/what-recent-changes-affect-bank-account-opening-for-visa-exempt-individuals-in-thailand
 [^22]: https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/2/
+[^23]: https://thailand.go.th/public/issue-focus-detail/001-01-044?hl=en
+[^24]: https://ratchakitcha.soc.go.th/documents/117219.pdf
