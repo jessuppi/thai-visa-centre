@@ -92,6 +92,16 @@ The company's Refund Policy introduces further concerns. It expressly offers ref
 
 Together, these provisions raise serious questions about the protections available to travelers who pay a private intermediary to process a free government arrival declaration. **The company collects payment and sensitive immigration information in advance while attempting to restrict its financial responsibility if the promised service subsequently fails.**[^38][^39]
 
+## Incorrect Thai-Language TDAC Deadline Instructions
+
+The Thai-language scam-warning page operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md), a company publicly associated with Thai Visa Centre, repeatedly provides **incorrect instructions about Thailand's mandatory Digital Arrival Card**. Its guidance states that travelers can submit their TDAC **"ภายใน 72 ชั่วโมงหลังจากการมาถึง"**, meaning *within 72 hours after arrival*. The error appears in the site's scam-prevention guidance, fee warnings, traveler checklist, and promotional material for its own submission service.[^40]
+
+**This reverses the actual immigration requirement.** Thailand's Immigration Bureau requires foreign travelers to submit their TDAC before entering the country, within the permitted three-day pre-arrival window. Official Thai government guidance expressly specifies registration within 72 hours **before travel**, not afterward. Following the company's incorrect instructions could leave travelers arriving at immigration without having completed a mandatory entry declaration.[^32][^41]
+
+The contradiction is particularly striking because **AGENTS CO., LTD. promotes its own platform as a trustworthy alternative while accusing competing TDAC websites of providing inaccurate information and poor translations**. Its scam-warning page advertises support for 76 languages, yet its own Thai-language guidance repeatedly misstates a fundamental immigration deadline. Another section of the same page correctly describes the requirement as applying before arrival, demonstrating inconsistent instructions within a single publication.[^40]
+
+The error does not establish deliberate deception or prove that any traveler actually missed the deadline. Nevertheless, **a commercial immigration operator presenting itself as an authority on identifying fraudulent TDAC services is publishing misleading instructions about the very government procedure it charges customers to handle**.[^40][^41]
+
 ## November 2025 ASEAN NOW Sponsorship and Censorship
 
 In November 2025, an [ASEAN NOW discussion](../threads/2025-11-04-asean-now-thai-visa-centre-bangna.md) about Thai Visa Centre attracted favorable responses from forum moderators, while the agency's official account participated under the designation **"Forum Sponsor."** On November 5, administrator Captain Flack explicitly confirmed removing a post criticizing the sponsor, citing **Rule 37**, which prohibited negative comments about forum advertisers and sponsors.[^8]
@@ -223,3 +233,5 @@ These 2025 advertisements were published while Police Major General Prasart Khem
 [^37]: https://agents.co.th/tdac-apply/policy/disclaimer/
 [^38]: https://agents.co.th/tdac-apply/policy/terms-and-conditions/
 [^39]: https://agents.co.th/tdac-apply/policy/refund/
+[^40]: https://tdac.in.th/th/scam
+[^41]: https://www.thailand.go.th/issue-focus-detail/thailand-digital-arrival-card--tdac---2-2?hl=th
