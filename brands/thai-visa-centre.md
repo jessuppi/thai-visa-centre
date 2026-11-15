@@ -30,6 +30,14 @@ On May 4, 2022, a traveler reported receiving an unsolicited email from `thaivis
 
 The traveler questioned whether the agency was legitimate before supplying additional personal information, including passport photographs, visa details, and their TM6 arrival card. The incident documents **cross-service marketing using information from an earlier travel booking**, raising questions about how Thai Visa Centre shared and used customer information between its websites.[^14]
 
+## Email Collection and Unsolicited Marketing
+
+Thai Visa Centre publicly claims to maintain a mailing list exceeding **375,000 subscribers**, while insisting that all addresses are obtained through voluntary opt-in. Its published spam policy acknowledges collecting email addresses through affiliated immigration websites, including `tdac.in.th`, `dtv.in.th`, `ltr.in.th`, and `eta.in.th`, while denying that subscriber information is sold or shared with third parties.[^3][^26]
+
+These assurances contrast with documented complaints dating back to 2018. An unsolicited promotional email attributed to Thai Visa Centre explicitly offered the explanation **"An agent requested us to send you details (we work with many agencies)."** The recipient denied ever contacting the business and questioned whether another company had supplied his personal information. Similar complaints emerged in 2019, while a 2022 traveler reported receiving visa advertising that referenced an earlier booking through the agency's affiliated `aq.in.th` service.[^6][^12][^14]
+
+The combination of a substantial cross-platform mailing list, acknowledged relationships with other agencies, and repeated complaints about unsolicited marketing raises serious questions about **how customer contact information was acquired, whether meaningful consent was obtained, and how information collected through one service was subsequently used to promote another**.[^6][^12][^14][^26]
+
 ## February 2023 Immigration Contact and Visa Scrutiny
 
 The February 2023 discussion began with a traveler reporting that Thai Visa Centre had recommended its **2,000-baht "VIP Airport Service."** The traveler questioned whether special airport assistance was necessary after obtaining visas through the agency and expressed concerns about whether their immigration stamps would withstand ordinary inspection. Several commenters described preferential airport processing, including one account claiming that an immigration officer personally escorted a traveler through immigration.[^10]
@@ -141,3 +149,4 @@ These 2025 advertisements were published while Police Major General Prasart Khem
 [^23]: https://thailand.go.th/public/issue-focus-detail/001-01-044?hl=en
 [^24]: https://ratchakitcha.soc.go.th/documents/117219.pdf
 [^25]: https://www.thailand.go.th/public/index.php/issue-focus-detail/001-01-057
+[^26]: https://tvc.co.th/thai-visa-centre-spam
