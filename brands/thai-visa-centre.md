@@ -92,6 +92,16 @@ Under Thailand's published immigration requirements, retirement extensions ordin
 
 These statements link Thai Visa Centre's expedited retirement-visa services to Chaeng Watthana and include a moderator's claim that the agency can accommodate applicants without the usual financial documentation. The actual financial arrangements and immigration approvals remain undocumented.[^17][^18]
 
+## May–September 2025 Expedited Retirement Visa Packages
+
+On May 30, 2025, Thai Visa Centre advertised a 55,000-baht retirement visa package in Bangkok for foreigners holding tourist visas or visa-exempt entry. The package included Thai bank-account-opening assistance, issuance of an initial three-month Non-O visa, and a subsequent 12-month retirement extension. The agency presented the offer as a response to increasing restrictions on foreigners opening Thai bank accounts.[^21]
+
+On September 5, 2025, Thai Visa Centre's official ASEAN NOW account, designated a Forum Sponsor, published three retirement-visa packages. The 60,000-baht package included bank-account opening, initial Non-O issuance, and a 12-month extension. A 37,000-baht package included the visa and extension without bank-account opening, while a third package covered retirement extensions alone.[^22]
+
+The agency explicitly advertised free expedited processing for all three packages, claiming that every stage could be completed within 48–72 hours. This establishes that Thai Visa Centre was marketing accelerated initial Non-O issuance and retirement extensions more than a year before its November 2026 advertising of same-day processing at Chaeng Watthana.[^22][^18]
+
+These 2025 advertisements were published while Police Major General Prasart Khemaprasit commanded Bangkok Immigration Division 1, the authority responsible for approving initial retirement-purpose visa applications under Immigration Bureau Order 15/2568.
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
@@ -114,3 +124,5 @@ These statements link Thai Visa Centre's expedited retirement-visa services to C
 [^18]: `https://asq.in.th/question/can-a-person-on-a-tourist-visa-in-thailand-apply-for-a-retirement-visa-if-they-are-over-50`
 [^19]: `https://asq.in.th/question/what-are-the-application-options-and-costs-for-non-o-visas-and-extensions-in-thailand`
 [^20]: https://www.thailawonline.com/glossary/financial-requirement/
+[^21]: https://asq.in.th/question/what-recent-changes-affect-bank-account-opening-for-visa-exempt-individuals-in-thailand
+[^22]: https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/2/
