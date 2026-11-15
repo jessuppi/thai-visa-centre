@@ -40,6 +40,16 @@ On December 21, 2023, Kongchart participated in a Buriram Provincial Police pres
 
 On December 17, 2024, Kongchart was identified alongside Provincial Police Commander Rutthaphon Naowarat during another major anti-narcotics operation. Following the discovery of 54,000 methamphetamine tablets connected to a motorcycle accident on December 12, Rutthaphon ordered Kongchart to urgently expand the investigation. Police subsequently reported arrests across three trafficking networks, with 17 suspects detained and 407,413 methamphetamine tablets seized.[^10][^11]
 
+## Retirement Visa Approval Authority (October 2026–Present)
+
+Immigration Bureau Order 15/2568, issued January 23, 2025, assigned Sub-Division 1 of Bangkok Immigration Division 1 responsibility for receiving applications for initial visa issuance and changes of visa category. Although ordinary applications could be approved by the Division 1 Commander or an authorized superintendent, applications based on retirement, education, and specified family relationships required a decision by the Division 1 Commander.[^20]
+
+Under this delegation of authority, Kongchart assumed responsibility for deciding initial retirement-purpose visa applications when he succeeded Prasart Khemaprasit as Commander of Immigration Division 1 on October 1, 2026.[^1][^20]
+
+The order separately authorized officers holding the rank of inspector or higher within Sub-Division 1 to sign visa endorsements following approval. This distinguished the commander's approval authority from the administrative processing and passport-endorsement responsibilities of subordinate officers.[^20]
+
+By November 2026, Thai Visa Centre was explicitly advertising expedited initial Non-O retirement visa processing at Chaeng Watthana, including packages offering initial visa issuance and a 12-month extension on the same day. These services were advertised during Kongchart's tenure as the commander responsible for initial retirement-purpose visa decisions.[^3][^20]
+
 [^1]: https://ratchakitcha.soc.go.th/documents/130059.pdf
 [^2]: https://www.matichon.co.th/local/news_5929042
 [^3]: https://asq.in.th/question/can-a-person-on-a-tourist-visa-in-thailand-apply-for-a-retirement-visa-if-they-are-over-50
@@ -59,3 +69,4 @@ On December 17, 2024, Kongchart was identified alongside Provincial Police Comma
 [^17]: https://www.dailynews.co.th/articles/5935735/
 [^18]: https://www.naewna.com/n/breaking/161105/
 [^19]: https://www.cops-magazine.com/topic/159471/
+[^20]: https://phrae.immigration.go.th/wp-content/uploads/2025/04/imm15.68.pdf
