@@ -14,7 +14,11 @@ On November 2, 2020, Provincial Police Commander Rutthaphon Naowarat assigned Ko
 
 Kongchart remained Deputy Commander of Buriram Provincial Police through at least July 2025, according to subsequent official police records.[^5][^6]
 
-Kongchart subsequently transferred to the Narcotics Suppression Bureau, where he held a commander-level position before his October 1, 2026 appointment to lead Bangkok Immigration Division 1. The September 7, 2026 Royal Gazette appointment decree identifies his previous posting and confirms his transfer into the Immigration Bureau.[^1]
+On September 5, 2025, Thansettakij reported that the Royal Gazette had announced Kongchart's promotion from Police Colonel to Police Major General as part of a nationwide round of senior police promotions.[^16]
+
+By June 11, 2026, Kongchart was serving as Commander attached to the Narcotics Suppression Bureau (ผู้บังคับการประจำ บช.ปส.), according to a contemporary Daily News police profile.[^17] This establishes his transfer from Buriram Provincial Police to the Narcotics Suppression Bureau by June 2026, although the exact transfer date remains undocumented.
+
+The September 7, 2026 Royal Gazette appointment decree subsequently identified his Narcotics Suppression Bureau posting and confirmed his appointment as Commander of Bangkok Immigration Division 1, effective October 1, 2026.[^1]
 
 ## Immigration Enforcement and Visa Screening (October–November 2026)
 
@@ -45,3 +49,5 @@ On December 17, 2024, Kongchart was identified alongside Provincial Police Comma
 [^13]: https://sites.google.com/view/bandanbru-police/ประวัติ-สภ-บ้านด่าน
 [^14]: https://www.rayongtouristpolice.com/wp-content/uploads/2019/11/คำสั่ง-ตร.ที่-674.2562.pdf
 [^15]: https://www.sanook.com/news/8288206/
+[^16]: https://www.thansettakij.com/politics/638047
+[^17]: https://www.dailynews.co.th/articles/5935735/
