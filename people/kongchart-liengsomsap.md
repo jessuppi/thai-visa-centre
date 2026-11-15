@@ -4,7 +4,9 @@ Police Major General Kongchart Liengsomsap (ก้องชาติ เลี�
 
 ## Police Career and Transfers (2019–2026)
 
-On February 28, 2019, Royal Thai Police Order 122/2562 transferred Kongchart from Superintendent of Chalong Krung Police Station to Superintendent of Bang Pho Police Station in Bangkok, effective March 8, 2019.[^4]
+On February 28, 2019, Royal Thai Police Order 122/2562 initially assigned Kongchart to transfer from Superintendent of Chalong Krung Police Station to Superintendent of Bang Pho Police Station in Bangkok.[^4] However, subsequent Order 140/2562 revised his appointment, assigning him instead as Superintendent of Ban Dan Police Station in Buriram Province.[^12]
+
+Ban Dan Police Station's official historical records confirm that Kongchart assumed command on March 15, 2019, establishing that the revised Buriram appointment took effect rather than the original Bangkok posting.[^13]
 
 By March 2023, Kongchart was serving as Deputy Commander of Buriram Provincial Police. Official records identify him participating in police training and public-order operations, while subsequent reports confirm he remained in the position through July 2025.[^5][^6]
 
@@ -35,3 +37,5 @@ On December 17, 2024, Kongchart was identified alongside Provincial Police Comma
 [^9]: https://www.khupandin.com/news/6987.html
 [^10]: https://www.thaich8.com/news_detail/139089
 [^11]: https://www.naewna.com/local/848115
+[^12]: https://www.matichon.co.th/wp-content/uploads/2019/03/คำสั่ง-ตร.ที่-140.2562.pdf
+[^13]: https://sites.google.com/view/bandanbru-police/ประวัติ-สภ-บ้านด่าน
