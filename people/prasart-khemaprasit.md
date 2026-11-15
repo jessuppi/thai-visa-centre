@@ -34,6 +34,14 @@ On July 24, Zhang returned with a Taiwanese intermediary identified as Mr. Tsai 
 
 The investigation documents visa-status verification, scrutiny of passport endorsements, and the involvement of supervisory officers within Prasart's division.[^11]
 
+## Retirement Visa Approval Authority (2025–2026)
+
+Immigration Bureau Order 15/2568, issued on January 23, 2025, assigned Sub-Division 1 of Bangkok Immigration Division 1 responsibility for receiving applications for initial visa issuance and changes of visa category. While ordinary applications could be decided by the Division 1 Commander or an authorized superintendent, the order specifically reserved decisions involving retirement, education, and certain family categories to the Division 1 Commander personally.[^13]
+
+The order separately authorized officers holding the rank of inspector or higher within Sub-Division 1 to sign the resulting visa endorsement after approval. This established a distinction between the commander responsible for approving retirement-purpose applications and the officers processing applications and signing passport endorsements.[^13]
+
+Prasart held the commander's position throughout 2025 and until September 30, 2026, including August 15, 2026, when Thai Visa Centre advertised a 55,000-baht package offering initial Non-O retirement visa issuance and a 12-month extension within approximately six to seven hours.[^3][^4]
+
 [^1]: https://www.matichon.co.th/local/news_4253790
 [^2]: https://www.voicetv.co.th/read/_fday40mM
 [^3]: https://asq.in.th/question/what-are-the-application-options-and-costs-for-non-o-visas-and-extensions-in-thailand
@@ -46,3 +54,4 @@ The investigation documents visa-status verification, scrutiny of passport endor
 [^10]: https://www.matichon.co.th/local/crime/news_387834
 [^11]: https://www.matichon.co.th/local/crime/news_5307902
 [^12]: https://siamrath.co.th/crime/a45eeeee-521a-495c-ae4e-402c318a2912
+[^13]: https://phrae.immigration.go.th/wp-content/uploads/2025/04/imm15.68.pdf
