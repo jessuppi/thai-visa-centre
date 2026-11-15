@@ -54,6 +54,10 @@ In November 2025, an [ASEAN NOW discussion](../threads/2025-11-04-asean-now-thai
 
 The incident documented ASEAN NOW moderators actively suppressing criticism of Thai Visa Centre in a discussion where prospective customers were seeking independent opinions about the agency.[^8]
 
+On November 10, 2025, an ASEAN NOW member openly acknowledged using Thai Visa Centre representative Grace because he lacked the required money in his Thai bank account. When another participant asked whether Thai Visa Centre actually deposited the required 800,000 baht on customers' behalf, global moderator DrJack54 responded: **"All agents deposit 800k. Obtain bank letter showing required balance. The funds then instantly withdrawn."** Another member challenged the moderator's sweeping assertion the following day.[^8]
+
+The exchange exposed a potential mechanism for circumventing retirement-extension financial requirements: temporarily placing funds in an applicant's account to obtain bank certification before removing the money. Particularly notable is that this explanation came from a forum moderator in the same discussion where moderators were actively deleting criticism of their paying sponsor, Thai Visa Centre. The moderator did not provide transaction records establishing whether the agency actually followed this procedure.[^8]
+
 ## March 2026 Reddit Review Manipulation Allegations
 
 On March 22, 2026, a discussion on Reddit's r/digitalnomad questioned Thai Visa Centre's reputation and online marketing practices. Commenters accused the agency of publishing fabricated five-star reviews on **Google Maps and Trustpilot**, manipulating Reddit votes, and suppressing negative feedback. The official `ThaiVisaCentre` account, identified as a **Brand Affiliate**, participated extensively, denying the accusations and claiming the company was itself being targeted by coordinated harassment and spam campaigns.[^16]
