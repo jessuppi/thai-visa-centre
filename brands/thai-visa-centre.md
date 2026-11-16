@@ -72,6 +72,18 @@ On its own [`tvc.co.th/scam`](../domains/tvc.co.th.md) page, the agency also sta
 
 These statements document the agency's publicly claimed operational connections. They do not independently establish the legal ownership of the domains or the complete relationships between the corporate entities involved.
 
+## July 2025 Forum Moderator's Unsupported TDAC Hacking Claim
+
+On May 24, 2025, ASEAN NOW administrator CharlieH published a discussion promoting the commercial Thailand Digital Arrival Card platform operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md), under the heading **"Apply for your TDAC early via our platform"**. The promotional post presented the company's privately operated submission service as a reliable alternative to Thailand's official government portal. Thai Visa Centre subsequently participated in the discussion under its designated *Forum Sponsor* account.[^44]
+
+On July 9, 2025, ASEAN NOW global moderator **BrandonJT** responded to a traveler concerned about data security by claiming that submitting information through Thailand's official government TDAC website carried a **"50% chance of being stolen by hackers"**. He attributed this extraordinary probability to previous government data breaches but provided no supporting evidence, security assessment, or documented basis for the figure.[^44]
+
+The moderator simultaneously defended the commercial submission service, explaining that travelers could pay to submit their information before the government's standard three-day registration window. On August 9, he again defended the company's approximately **$8 convenience fee** when another forum member questioned why anyone would pay for a free government procedure.[^44]
+
+**The combination of unsupported warnings about government data security and favorable explanations of the commercial alternative is particularly concerning in a sponsored discussion.** Travelers were presented with an alarming numerical claim about the official Immigration Bureau website while moderators promoted a privately operated service collecting the same sensitive passport and immigration information.[^32][^44]
+
+The posts do not independently establish that Thai Visa Centre directed the moderator's statements. They do, however, document forum administrators and moderators lending credibility to a paying sponsor's immigration platform while presenting an unsubstantiated security risk associated with the free government alternative. This conduct raises further questions about the independence of immigration advice published on ASEAN NOW, particularly given its subsequently documented removal of criticism of Thai Visa Centre under sponsor-protection rules.[^8][^44]
+
 ## September 2025 TDAC Data-Deletion Claims and Reuse Rights
 
 On September 24, 2025, The Thaiger published a sponsored article promoting the TDAC platform operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md), assuring travelers that their personal information could be removed immediately after approval. The company's own Privacy Policy similarly promises that its **"Data Removal" function permanently deletes customer information**, retaining only payment transaction identifiers required for financial compliance.[^34][^36]
@@ -249,3 +261,4 @@ These 2025 advertisements were published while Police Major General Prasart Khem
 [^41]: https://www.thailand.go.th/issue-focus-detail/thailand-digital-arrival-card--tdac---2-2?hl=th
 [^42]: https://tdac.agents.co.th/scam
 [^43]: https://agents.co.th/tdac-apply/about/
+[^44]: https://aseannow.com/topic/1361664-apply-for-your-tdac-early-here/
