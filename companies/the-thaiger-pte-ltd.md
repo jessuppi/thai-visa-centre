@@ -12,6 +12,18 @@ Following the acquisition, The Thaiger advertised joint promotional packages acr
 
 During 2025, both publications promoted immigration services associated with [Thai Visa Centre](../brands/thai-visa-centre.md). ASEAN NOW moderators also publicly acknowledged removing criticism of forum sponsors.
 
+## 2026 Ownership Transfer to Dot Property
+
+In 2026, [The Thaiger](../brands/the-thaiger.md) publicly disclosed that **The Thaiger Pte. Ltd. had become wholly owned by Dot Property Pte. Ltd.**, part of the LIFULL Connect group.[^6]
+
+Dot Property operates real estate advertising and property-listing platforms across Southeast Asia. LIFULL Connect acquired Dot Property in 2019, expanding its regional portfolio of property websites and digital advertising businesses.[^7]
+
+The ownership change also places [ASEAN NOW](../brands/asean-now.md), acquired by The Thaiger in April 2024, within this broader commercial media and property network.
+
+The Thaiger states that its newsroom maintains editorial independence from commercial operations. However, the publisher's existing visa-referral arrangements, sponsored immigration coverage, and ASEAN NOW's restrictions on criticism of advertisers make **corporate ownership and commercial influence relevant to assessing editorial independence**.[^6]
+
+The publisher has not disclosed the precise transfer date or financial terms of the 2026 ownership change.
+
 ## Visa Referrals and Customer Data
 
 The Thaiger's Terms of Use explicitly include **visa assistance** among its third-party referral services.[^2]
@@ -29,3 +41,5 @@ The published policies establish that visa referrals form part of the publisher'
 [^3]: `https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand`
 [^4]: `https://thethaiger.com/hot-news/advertise-on-aseannow-and-the-thaiger-to-dominate-the-thai-market`
 [^5]: `https://thethaiger.com/privacy`
+[^6]: `https://thethaiger.com/about-us-2`
+[^7]: `https://www.lifullconnect.com/brands/dotproperty/`
