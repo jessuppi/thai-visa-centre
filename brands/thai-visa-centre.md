@@ -186,6 +186,18 @@ These official warnings contrast with the commercial platform operated by [Agent
 
 **None of the cited government announcements specifically identifies `tdac.in.th` as fraudulent or establishes unlawful conduct by AGENTS CO., LTD.** Nevertheless, the contrast is significant: while Thai authorities repeatedly directed travelers away from paid intermediaries and toward the free government portal, the company continued promoting its own paid offering as trustworthy and distinguishing itself from competing providers it publicly labeled scams.[^33][^45][^46][^48]
 
+## January 2026 Guaranteed Airport Re-entry Claims
+
+On January 25, 2026, a traveler posting on Reddit reported that [Thai Visa Centre](thai-visa-centre.md) had offered a **100% guarantee of entry into Thailand** after the traveler and their companion were refused admission on January 19 and returned to Vietnam. The travelers stated that they had previously spent 171 days in Thailand using visa exemptions and border runs.[^60]
+
+Another participant claimed to have used Thai Visa Centre's airport-entry service successfully, describing being met at the airport and **escorted by a uniformed officer to a separate immigration counter**, where their passport was stamped without further questioning. The account was a customer testimonial and was not independently verified.[^60]
+
+The claims are significant because Thailand's Immigration Bureau retains authority to approve or refuse entry at the border. Official government guidance confirms that **even a valid visa does not guarantee admission**.[^61]
+
+The reported guarantee and alleged involvement of uniformed personnel raise questions about how Thai Visa Centre arranges preferential airport processing, represents its influence over immigration decisions, and communicates the risks of refusal to paying customers.
+
+The discussion does not establish improper payments or unauthorized cooperation by immigration officers, but provides a documented example of customers publicly describing exceptional entry guarantees and expedited immigration handling.
+
 ## March 2026 Reddit Review Manipulation Allegations
 
 On March 22, 2026, a discussion on Reddit's r/digitalnomad questioned Thai Visa Centre's reputation and online marketing practices. Commenters accused the agency of publishing fabricated five-star reviews on **Google Maps and Trustpilot**, manipulating Reddit votes, and suppressing negative feedback. The official `ThaiVisaCentre` account, identified as a **Brand Affiliate**, participated extensively, denying the accusations and claiming the company was itself being targeted by coordinated harassment and spam campaigns.[^16]
@@ -333,3 +345,5 @@ The inconsistency is particularly significant because TDAC submissions involve p
 [^57]: `https://thethaiger.com/guides/visa-information/thai-visa-centre-accuses-former-employee-of-stealing-from-a-family-seeking-to-travel-to-thailand`
 [^58]: `https://thethaiger.com/news/national/thai-visa-centre-says-former-employee-has-been-arrested-for-stealing`
 [^59]: `https://aseannow.com/topic/1209633-man-arrested-after-stealing-money-from-well-known-visa-agency-in-bangkok/`
+[^60]: https://www.reddit.com/r/thailandvisa/comments/1qm8ysd/thai_visa_centre_visa_agent/
+[^61]: https://www.thailand.go.th/public/visit-thailand-detail/001_01_210
