@@ -72,6 +72,18 @@ On its own [`tvc.co.th/scam`](../domains/tvc.co.th.md) page, the agency also sta
 
 These statements document the agency's publicly claimed operational connections. They do not independently establish the legal ownership of the domains or the complete relationships between the corporate entities involved.
 
+## June 2025 Misleading Official TDAC Branding in The Thaiger
+
+On June 13, 2025, The Thaiger published a promotional press release titled *Apply for your TDAC early today with AGENTS*, advertising the commercial Thailand Digital Arrival Card platform operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md), a company publicly associated with Thai Visa Centre. The article explicitly labeled the company's websites **"Official TDAC form"** and **"Official TDAC information page"**, directing travelers toward its privately operated services rather than Thailand's government registration portal.[^49]
+
+Although the article qualified these descriptions with *"by AGENTS"* and separately identified the government website, **applying official-status terminology to a commercial immigration intermediary risked confusing the company's own services with government-authorized registration**. Neither the article nor its promotional claims established that AGENTS CO., LTD. had received official recognition or endorsement from Thailand's Immigration Bureau.[^49]
+
+The press release also promoted TDAC **"approvals" within one to five minutes**, despite the fact that a TDAC submission produces an arrival-card acknowledgment rather than an immigration approval or authorization to enter Thailand. It advertised early-submission fees ranging from **US$0.50 to US$8 per applicant**, while presenting the company's platform as more reliable and capable than the free government website.[^32][^49]
+
+Just five days later, on June 18, Thailand's Immigration Bureau publicly instructed travelers to register their TDAC **only through its official government website**, specifically warning against websites collecting payments or personal information. The warning did not name AGENTS CO., LTD., but it directly contradicts any suggestion that a private commercial platform should be treated as an official alternative to the government's registration system.[^45]
+
+**The episode illustrates how commercially interested immigration advertising could acquire an appearance of official authority through promotional coverage in an established news publication.** The combination of official-sounding labels, approval terminology, paid submission services, and unfavorable comparisons with the government portal raises questions about whether travelers could readily distinguish a private intermediary from the actual immigration authority.[^45][^49]
+
 ## July 2025 Forum Moderator's Unsupported TDAC Hacking Claim
 
 On May 24, 2025, ASEAN NOW administrator CharlieH published a discussion promoting the commercial Thailand Digital Arrival Card platform operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md), under the heading **"Apply for your TDAC early via our platform"**. The promotional post presented the company's privately operated submission service as a reliable alternative to Thailand's official government portal. Thai Visa Centre subsequently participated in the discussion under its designated *Forum Sponsor* account.[^44]
@@ -278,3 +290,4 @@ These 2025 advertisements were published while Police Major General Prasart Khem
 [^46]: https://www.mots.go.th/mots_en/news/3764
 [^47]: https://canberra.thaiembassy.org/en/content/beware-of-thailand-digital-arrival-card-scam-websi
 [^48]: https://www.antifakenewscenter.com/?p=81970
+[^49]: https://thethaiger.com/travel/thailand-travel/apply-for-your-tdac-early-today-with-agents
