@@ -284,6 +284,44 @@ The inconsistency is particularly significant because TDAC submissions involve p
 
 **These contradictions raise questions about the reliability of the company's privacy disclosures for families and younger travelers.** The published language does not establish unlawful collection or misuse of children's information, but it fails to provide consistent instructions about who may submit personal data and how information concerning minors is handled through a commercial intermediary collecting sensitive immigration records.
 
+## Customer Reviews Describe Financial Assistance for Retirement Extensions
+
+Thai Visa Centre's own website publishes customer testimonials describing retirement-visa services that raise further questions about how the agency satisfies Thailand's immigration financial requirements.
+
+On August 4, 2025, a Google reviewer identified as **Dusty R.** described purchasing a retirement-extension package that included the agency's **"THB800K service."**[^62]
+
+The customer reported paying **14,000 baht for the retirement extension, including the 800,000-baht service**, plus another 4,000 baht for a multiple re-entry permit.
+
+According to the review, the customer submitted documents at Thai Visa Centre's Bangkok office on Tuesday, received an extension approved by an immigration office outside Bangkok on Wednesday, and had the passport returned on Friday.
+
+The reviewer also explained that a previous visa agent could no longer work with his Thai bank, whereas Thai Visa Centre could.[^62]
+
+### Retirement Visas Without Minimum Bank Balances
+
+On September 1, 2026, another customer, **Antoni Judek**, published a five-star review celebrating his seventh retirement visa obtained through Thai Visa Centre without maintaining a minimum bank balance.[^63]
+
+He described sending his passport by post, paying the agency through an ATM three days later, and receiving his passport containing the new visa two days afterward.
+
+Thai Visa Centre reproduces both testimonials on its own website, presenting them as verified endorsements of its immigration services.
+
+### Conflict With Published Immigration Requirements
+
+Thailand's published requirements for annual retirement extensions generally provide three financial qualification routes:
+
+- Monthly income of at least 65,000 baht.
+- A Thai bank deposit of at least 800,000 baht, maintained for two months before application and three months after approval, with at least 400,000 baht retained thereafter.
+- A qualifying combination of annual income and bank deposits.[^64]
+
+Neither testimonial independently establishes that its author failed to qualify through a lawful alternative, such as the income route.
+
+However, **the first review explicitly describes a paid 800,000-baht service**, while the second promotes repeated retirement approvals without maintaining a minimum bank balance.
+
+These statements reinforce concerns raised by Thai Visa Centre's advertised expedited retirement packages and an ASEAN NOW moderator's November 2025 description of agents arranging temporary bank deposits.
+
+The agency does not publicly explain precisely what its 800,000-baht service provides, whose money is used, or how the required deposit-maintenance periods are satisfied.
+
+**The significance is that Thai Visa Centre itself promotes these customer accounts as evidence of its services.** The financial arrangements described deserve scrutiny, particularly where rapid processing, bank assistance, and retirement extensions are advertised together.
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
@@ -347,3 +385,6 @@ The inconsistency is particularly significant because TDAC submissions involve p
 [^59]: `https://aseannow.com/topic/1209633-man-arrested-after-stealing-money-from-well-known-visa-agency-in-bangkok/`
 [^60]: https://www.reddit.com/r/thailandvisa/comments/1qm8ysd/thai_visa_centre_visa_agent/
 [^61]: https://www.thailand.go.th/public/visit-thailand-detail/001_01_210
+[^62]: `https://tvc.co.th/reviews/review/155416bc-282b-437e-96e2-983355b415bb`
+[^63]: `https://tvc.co.th/reviews/review/ec766956-d8d6-4504-b771-d80800e863b1`
+[^64]: https://www.thailand.go.th/public/visit-thailand-detail/001_01_134
