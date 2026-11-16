@@ -26,6 +26,18 @@ On August 9, BrandonJT again defended the commercial offering when another membe
 
 **The episode exposes a discrepancy between ASEAN NOW's stated misinformation standards and the conduct of individuals exercising moderation authority in commercially sponsored discussions.** A moderator made an unsupported claim suggesting that the free government immigration system presented an exceptionally high risk of data theft, while forum administrators and moderators promoted a commercial alternative collecting the same categories of personal information. The surviving discussion does not establish that Thai Visa Centre directed these statements or that the moderator had a financial interest in the service. It does, however, document how unsupported security allegations and favorable commercial messaging appeared together in a sponsored immigration discussion without comparable evidentiary scrutiny.[^2][^6]
 
+## November 2025 Moderator Claims About Retirement Visa Bank Deposits
+
+On November 10, 2025, an ASEAN NOW member using the name **Blueman1** acknowledged using [Thai Visa Centre](thai-visa-centre.md) for retirement extensions because he did not maintain the required money in his Thai bank account. Another participant directly asked whether the agency deposited the required 800,000 baht on customers' behalf. Global moderator **DrJack54** responded: **"All agents deposit 800k. Obtain bank letter showing required balance. The funds then instantly withdrawn."**[^8]
+
+The moderator's description conflicts with Thailand's published financial requirements for annual retirement extensions. Applicants relying on the 800,000-baht bank-deposit route must maintain the required balance for at least **two months before submitting an application and three months after approval**, with a minimum balance of 400,000 baht thereafter. Obtaining a bank certificate after a temporary deposit and immediately withdrawing the funds would not, by itself, satisfy these conditions.[^9]
+
+Other participants questioned the mechanics of the purported arrangement, including how an agent could withdraw money from a customer's personal bank account. The moderator did not supply bank statements, transaction records, immigration documentation, or other evidence establishing that Thai Visa Centre followed the procedure he described. His sweeping assertion that all agents used this method was similarly unsupported.[^8]
+
+The exchange occurred within the same discussion where **Thai Visa Centre participated as a paying Forum Sponsor** and ASEAN NOW administrators had already acknowledged removing criticism of the agency under sponsor-protection rules. Consequently, readers encountered an explanation of potentially noncompliant financial arrangements from a moderator exercising authority over the discussion, while criticism of the commercial sponsor was subject to removal.[^5][^8]
+
+**The incident raises questions about the reliability and independence of immigration advice provided by ASEAN NOW moderators.** The published statements do not establish that Thai Visa Centre actually arranged temporary deposits, that a particular visa was obtained unlawfully, or that the moderator participated in improper transactions. They do establish that a moderator publicly described a practice inconsistent with the financial conditions governing ordinary retirement extensions, without producing evidence or distinguishing it from legitimate immigration procedures.[^8][^9]
+
 ## References
 
 [^1]: https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand
@@ -35,3 +47,5 @@ On August 9, BrandonJT again defended the commercial offering when another membe
 [^5]: https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/
 [^6]: https://aseannow.com/topic/1361664-apply-for-your-tdac-early-here/
 [^7]: https://tdac.immigration.go.th/manual/en/faq.html
+[^8]: https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/page/2/
+[^9]: https://thailand.go.th/public/visit-thailand-detail/001_01_134
