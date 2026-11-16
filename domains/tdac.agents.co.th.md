@@ -16,8 +16,57 @@ Nickles requested that THNIC verify the registered holder's responsibility for t
 
 The complaint placed the responsibility of the domain holder and its lower-level domain under direct scrutiny, rather than limiting the investigation to the original `tdac.in.th` website. It also raised the question of how THNIC evaluates commercial services collecting sensitive traveler information under its published registration policies.[^3]
 
+## Soliciting Google Ads Complaints Against Competitors
+
+As of November 2026, the `tdac.agents.co.th` website operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md) publishes a directory identifying **29 competing TDAC websites as scams or untrusted operators**, while presenting its own commercial service alongside Thailand's official government portal as a trusted submission option.[^4]
+
+The website goes further than publishing consumer warnings.
+
+Its individual competitor profiles identify Google advertiser accounts, reproduce advertising headlines, and provide direct links to report the advertisements through Google's Ads Transparency Center.[^5]
+
+For example:
+
+- **`ivisa.com`:** 61 advertisements attributed to Document Advisor, Inc.
+- **`visasyst.com`:** Four advertisements attributed to U.S. Vital Documents.
+- **`travelsmarttravelfast.com`:** Three advertisements attributed to Travel Smart Travel Fast LLC.
+
+Each profile provides instructions telling visitors to select **"It promotes a restricted product or service"** when reporting an advertisement.
+
+The website also supplies a prepared complaint describing the advertiser's alleged violations of Google's policies concerning government documents and travel authorizations.[^5][^6][^7]
+
+### Commercial Interests Behind the Reporting Campaign
+
+AGENTS CO., LTD. operates a competing TDAC submission service through `tdac.agents.co.th` and `tdac.in.th`.
+
+Its published comparison advertises free submissions within 72 hours of arrival and an **$8 fee for earlier submissions**, while listing competing commercial providers as untrusted or fraudulent.[^4]
+
+The company's competitor profiles also invite operators to request reconsideration if they stop charging fees for services that AGENTS considers to provide insufficient value.
+
+**This creates an apparent commercial conflict of interest.** A company selling TDAC assistance is encouraging visitors to file advertising complaints against businesses offering competing assistance, while reserving for itself the ability to reconsider their negative classifications.
+
+Some identified competitors may genuinely publish misleading advertisements or charge excessive fees. However, the company's allegations and prepared complaints are not independent Google policy determinations.
+
+The available pages also do not establish that readers actually submitted the complaints or that Google removed the advertisements.
+
+### Google Advertising Rules and Government Authorization
+
+Google's government-documents advertising policy restricts direct advertising of specified government services and requires appropriate certification. Its October 2026 policy update also clarifies that ordinary business registrations and commercial licenses do not establish government authorization.[^8]
+
+AGENTS promotes its Thai corporate registration prominently when distinguishing itself from foreign competitors.
+
+However, **being a registered Thai company does not independently establish authorization from Thailand's Immigration Bureau** to provide an official TDAC service or satisfy Google's advertising-certification requirements.
+
+The website provides no independently verifiable government accreditation establishing a privileged regulatory position over competing private TDAC intermediaries.
+
+The concern is therefore not simply that AGENTS criticizes competitors. It is that the company **combines competitor blacklisting, prepared advertising complaints, and promotion of its own paid service**, without clearly separating independent consumer protection from its commercial interests.
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
 [^2]: `https://agents.co.th/`
 [^3]: Email from Jesse Nickles to `abuse@thnic.co.th`, November 12, 2026, subject *Formal Domain Abuse Complaint – agents.co.th and tdac.agents.co.th – Section 12.11* (private correspondence).
+[^4]: `https://tdac.agents.co.th/scam`
+[^5]: `https://tdac.agents.co.th/scam/AR14923896414449696769`
+[^6]: `https://tdac.agents.co.th/scam/AR03369521742019035137`
+[^7]: `https://tdac.agents.co.th/scam/AR09798246863894216705`
+[^8]: https://support.google.com/adspolicy/answer/13156083
