@@ -152,6 +152,18 @@ More seriously, the article included a section targeting critic Jesse Nickles, a
 
 The publication illustrates how **commercially interested material was distributed through an established news outlet**, combining promotion of a private immigration service, attacks against competitors, and serious criminal allegations against a critic. Its placement within The Thaiger's informational guides raises questions about editorial oversight and whether readers could distinguish independently verified journalism from promotional material advancing the company's interests.[^29][^30]
 
+## June 2025–January 2026 Government Warnings Against Paid TDAC Websites
+
+On June 18, 2025, Thailand's Immigration Bureau issued a public warning through the Tourist Police Bureau, instructing foreign travelers to register their Thailand Digital Arrival Card exclusively through the official government website. Authorities warned against fraudulent websites collecting payments or personal information and emphasized that **TDAC registration was entirely free, with no money transfers required**.[^45]
+
+On October 17, 2025, Thailand's Ministry of Tourism and Sports issued a stronger warning after identifying websites charging travelers for TDAC registration. The ministry described fee-charging websites impersonating official registration services as scams and explicitly advised tourists **not to trust websites or pages claiming to act as TDAC agents or requesting payment**. It encouraged the public to preserve evidence of suspicious websites and report them to the authorities.[^46]
+
+The Royal Thai Embassy in Canberra repeated the warning on November 24, 2025, identifying `tdac.immigration.go.th` as the **only official TDAC registration website**. On January 17, 2026, Thailand's Anti-Fake News Center published another clarification verified with the Immigration Bureau, rejecting claims that immigration authorities had introduced a separate fee-charging TDAC website.[^47][^48]
+
+These official warnings contrast with the commercial platform operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md), publicly associated with [Thai Visa Centre](../brands/thai-visa-centre.md). Its TDAC scam-warning website promotes its own **$8 early-submission service** and declares advance submission outside the government's standard registration window to be the **only legitimate paid TDAC service**. That characterization comes from the commercial operator itself, not from Thailand's immigration authorities.[^33][^46]
+
+**None of the cited government announcements specifically identifies `tdac.in.th` as fraudulent or establishes unlawful conduct by AGENTS CO., LTD.** Nevertheless, the contrast is significant: while Thai authorities repeatedly directed travelers away from paid intermediaries and toward the free government portal, the company continued promoting its own paid offering as trustworthy and distinguishing itself from competing providers it publicly labeled scams.[^33][^45][^46][^48]
+
 ## March 2026 Reddit Review Manipulation Allegations
 
 On March 22, 2026, a discussion on Reddit's r/digitalnomad questioned Thai Visa Centre's reputation and online marketing practices. Commenters accused the agency of publishing fabricated five-star reviews on **Google Maps and Trustpilot**, manipulating Reddit votes, and suppressing negative feedback. The official `ThaiVisaCentre` account, identified as a **Brand Affiliate**, participated extensively, denying the accusations and claiming the company was itself being targeted by coordinated harassment and spam campaigns.[^16]
@@ -262,3 +274,7 @@ These 2025 advertisements were published while Police Major General Prasart Khem
 [^42]: https://tdac.agents.co.th/scam
 [^43]: https://agents.co.th/tdac-apply/about/
 [^44]: https://aseannow.com/topic/1361664-apply-for-your-tdac-early-here/
+[^45]: https://www.touristpolice.go.th/post/tpbnews2025061801
+[^46]: https://www.mots.go.th/mots_en/news/3764
+[^47]: https://canberra.thaiembassy.org/en/content/beware-of-thailand-digital-arrival-card-scam-websi
+[^48]: https://www.antifakenewscenter.com/?p=81970
