@@ -182,11 +182,23 @@ On March 22, 2026, a discussion on Reddit's r/digitalnomad questioned Thai Visa 
 
 In another exchange, a commenter accused the agency of blocking them on LINE after questions about its Thailand Privilege Visa services. Thai Visa Centre disputed the complaint and warned that the accusations could constitute defamation. A separate commenter alleged that the agency had publicly disclosed their real name in a reply subsequently removed by Reddit moderators.[^16]
 
-## July 2026 Reddit and Facebook Community Operations
+## 2022–2026 Acquisition and Management of Visa Advice Communities
 
-On July 8, 2026, a welcome announcement in [r/ThailandVisaAdvice](../threads/2026-07-08-reddit-thailand-visa-advice.md) explicitly identified **Thai Visa Centre as the creator of the subreddit**. The community was presented as a forum for discussing Thai visas, immigration procedures, extensions, border runs, and 90-day reporting.[^15]
+On March 17, 2022, a former administrator of the established **Thai Visa Advice** Facebook group publicly announced that the community had been acquired by [Thai Visa Centre](thai-visa-centre.md). The administrator, Tod Daniels, explained that he had not founded the group and anticipated a transition under its new operator. A separate discussion published the same day described the group as having been sold to the commercial visa agency, raising concerns among participants about whether immigration advice would remain independent.[^53][^54]
 
-The agency also claimed to manage some of Thailand's largest visa-related Facebook communities, with **hundreds of thousands of members** across its groups. These statements establish Thai Visa Centre's publicly acknowledged role in operating immigration-advice communities that may appear to visitors to be independent discussion forums.[^15]
+The acquisition represented a significant expansion of Thai Visa Centre's influence beyond conventional advertising and customer referrals. Rather than building an entirely new audience, the agency reportedly obtained control of an existing community whose members had relied on volunteer administrators for immigration guidance. Participants questioned whether ownership by a business selling visa services could introduce commercial bias into discussions previously presented as independent advice.[^53][^54]
+
+One participant in the March 2022 discussions reported that Thai Visa Centre had promised to maintain the group's neutrality and continue prohibiting advertising by visa agents. These assurances were described by another community member rather than independently verified against the original announcement. The surviving records do not establish the financial terms of the acquisition, the identity of the seller, or precisely which moderation powers were transferred.[^54]
+
+By November 2026, Thai Visa Centre's own website explicitly identified the agency as the operator of both **Thailand Visa Advice** and **Thai Visa Advice**, claiming a combined audience exceeding **200,000 Facebook group members**. The company described these communities as places where travelers could obtain immigration information, share experiences, and examine public feedback about its services. This confirms its acknowledged management of substantial immigration-advice audiences, although the published membership figures remain company-reported.[^55]
+
+On July 8, 2026, a welcome announcement in [r/ThailandVisaAdvice](../threads/2026-07-08-reddit-thailand-visa-advice.md) separately identified **Thai Visa Centre as the creator of the subreddit**. The community was presented as a forum for discussing Thai visas, immigration procedures, extensions, border runs, and 90-day reporting. The agency therefore operated visa-advice communities across multiple platforms, extending its ability to participate in and manage discussions relevant to prospective customers.[^15]
+
+In November 2026, a Thai Visa Centre group announcement described changes intended to increase participation and visibility, including fewer locked discussions, relaxed posting approvals, and greater opportunities for members to edit contributions. The agency explained that declining engagement and Facebook's distribution algorithms had prompted the changes. Some participants welcomed broader discussion, while others warned that relaxing established moderation practices could reduce the accuracy and reliability of immigration advice. One participant explicitly questioned the expansion of the commercial sponsor's role in a community previously valued for independent, strictly factual guidance.[^56]
+
+**The central concern is the potential conflict between independent immigration advice and commercial control of the communities providing that advice.** A visa agency that acquires or operates discussion groups can influence moderation policies, permitted commercial participation, and the visibility of competing perspectives. The documented acquisition announcement, acknowledged group management, and subsequent moderation changes warrant scrutiny of how the agency's commercial interests may affect these communities.
+
+The available evidence does not establish that Thai Visa Centre purchased favorable testimonials, systematically deleted criticism within these Facebook groups, or directed moderators to mislead members. Nevertheless, its control of large immigration-advice communities is relevant when assessing the independence of recommendations, testimonials, and public discussions concerning the agency's own services.
 
 ## August 2026 Out-of-Province Retirement Extensions
 
@@ -304,3 +316,7 @@ The inconsistency is particularly significant because TDAC submissions involve p
 [^50]: `https://agents.co.th/tdac-apply/policy/terms-and-conditions/`
 [^51]: `https://agents.co.th/tdac-apply/policy/privacy/`
 [^52]: https://tdac.immigration.go.th/manual/en/faq.html
+[^53]: `https://asq.in.th/question/what-does-the-acquisition-of-the-thai-visa-advice-group-by-thai-visa-centre-mean-for-its-members-1`
+[^54]: `https://ask.in.th/question/what-are-the-implications-of-thai-visa-centre-buying-the-thai-visa-advice-facebook-group-1`
+[^55]: `https://tvc.co.th/scam`
+[^56]: `https://asq.in.th/question/what-changes-are-being-made-to-the-thai-visa-centre-group-and-how-will-they-affect-discussions-and-information-sharing`
