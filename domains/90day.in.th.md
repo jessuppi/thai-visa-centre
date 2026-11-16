@@ -42,6 +42,18 @@ This distinction is particularly important because the company's advertising doe
 
 **These discrepancies raise questions about whether customers receive accurate information concerning the limitations of paid immigration assistance.** A traveler who has genuinely exceeded the permitted reporting window may still be required to attend immigration personally and pay a fine, regardless of purchasing the company's service. The published material does not establish that AGENTS CO., LTD. has improperly processed overdue reports, but its broad advertising promises are not adequately reconciled with official reporting restrictions or its own contractual disclaimers.[^7][^8][^9]
 
+## Conflicting Data-Use Promises and Affiliated-Company Marketing
+
+[Agents Co., Ltd.](../companies/agents-co-ltd.md), the operator of `90day.in.th`, publishes a Data Protection Policy specifically addressing its 90-day immigration-reporting services. The document identifies the personal information collected as including **passport numbers, passport biographical pages, visa details, residential addresses, contact information, and passport photographs**. Crucially, its section on TM47 reporting states that this information is processed **solely for submitting customers' 90-day reports to Thai immigration authorities** under the limited Power of Attorney granted to the company.[^11]
+
+However, the same website's Privacy Policy expressly authorizes using personal information for **marketing the products and services of AGENTS CO., LTD. and its sister companies**. It additionally permits sharing information with businesses under common ownership or control, including for promotional purposes. The company's Terms & Conditions separately require customers to acknowledge that their information may be shared with these affiliated businesses for marketing.[^8][^12]
+
+Even the Data Protection Policy containing the specific TM47 processing restriction includes a broader provision permitting personal information to be shared with sister companies for marketing and promotional purposes. **Neither policy clearly explains whether passport and immigration information collected specifically for 90-day reporting is excluded from these wider permissions.** The documents also fail to identify the sister companies authorized to receive customer information or distinguish between information needed to complete an immigration filing and information available for subsequent commercial marketing.[^11][^12]
+
+These ambiguities are especially significant given the documented relationship between AGENTS CO., LTD. and [Thai Visa Centre](../brands/thai-visa-centre.md), whose associated services include visa applications, paid arrival-card submissions, and other immigration assistance. Customers purchasing a routine reporting service may not expect their information to be available for marketing unrelated services across an affiliated business network. The published policies do not establish that such transfers have occurred, but they provide conflicting explanations of the purposes for which reporting customers' personal information may be processed.[^11][^12]
+
+**The discrepancy raises questions about the company's representations concerning purpose limitation, informed consent, and personal-data handling.** A service-specific promise to process immigration records solely for government reporting is difficult to reconcile with broadly worded permissions for affiliated-company marketing unless the company clearly identifies which information is covered by each provision. The published policies leave that distinction unresolved.[^8][^11][^12]
+
 ## References
 
 [^1]: https://www.reddit.com/r/expatsinbangkok/comments/1tdqdc8/thailand_90_day_online_reporting/
@@ -54,3 +66,5 @@ This distinction is particularly important because the company's advertising doe
 [^8]: `https://90day.in.th/policy/terms-and-conditions`
 [^9]: https://samutsakhon.imm.police.go.th/document/guid_en12.pdf
 [^10]: https://www.thailand.go.th/public/index.php/useful-information-detail/001_01_084
+[^11]: `https://90day.in.th/policy/data-protection`
+[^12]: `https://90day.in.th/policy/privacy`
