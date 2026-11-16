@@ -73,6 +73,46 @@ The smaller profiles have too few reviews to provide reliable comparisons of ove
 
 **Thai Visa Centre promotes a combined 4.9-star reputation while providing no clear reconciliation of its separate Trustpilot profiles, historical Facebook ratings, or claimed review history dating to 2007.** Its advertised total is a company-compiled marketing figure, not a single independently verified rating covering every associated domain.
 
+## Misleading Retirement Visa Bank-Deposit Instructions
+
+Thai Visa Centre publishes an FAQ titled *Do Retirement Funds Have to Stay in the Bank Account?*, claiming customers can withdraw their 800,000-baht retirement deposit after immigration approves their extension and replenish the account before their next renewal.[^21]
+
+The guide advises customers to use the funds for living expenses or investments, emphasizing that immigration officers generally check balances around application and renewal dates.
+
+**This advice omits mandatory deposit-maintenance requirements under Thailand's immigration rules.**
+
+### Contradiction With Government Requirements
+
+Thailand's official retirement-extension requirements specify that applicants using the 800,000-baht deposit route must:
+
+- Maintain at least **800,000 baht for two months before applying**.
+- Keep at least **800,000 baht for three months after approval**.
+- Maintain a balance of at least **400,000 baht for the remainder of the period** before the next deposit-maintenance window.[^22]
+
+These requirements are also reflected in Immigration Bureau Order 12/2568, issued in January 2025.[^23]
+
+Thai Visa Centre's FAQ instead suggests that customers may spend or invest their savings after approval, provided they restore the required balance before renewing.
+
+Its comparison table explicitly permits withdrawals immediately after approval without mentioning the subsequent three-month restriction or 400,000-baht minimum.
+
+### Contradictory Guidance on the Same Website
+
+Elsewhere, Thai Visa Centre's main retirement-visa page correctly acknowledges that funds must remain in a Thai bank and describes additional deposit-maintenance requirements for renewals.[^24]
+
+However, it also omits the full three-month post-approval requirement and continuing 400,000-baht minimum from its financial checklist.
+
+These omissions matter because the agency advertises retirement extensions, bank-account assistance, and expedited visa processing as core services.
+
+A customer following its FAQ literally could withdraw too much money immediately after approval or allow the balance to fall below the legally required minimum, potentially jeopardizing future immigration compliance.
+
+### Relevance to the Agency's Financial Services
+
+The discrepancy is especially notable alongside Thai Visa Centre's published customer testimonials describing its paid **800,000-baht service** and retirement extensions obtained without maintaining substantial bank balances.
+
+The agency markets itself as an expert in navigating Thai immigration requirements, yet its own instructions incorrectly suggest that maintaining the required deposit is primarily a matter of having sufficient funds around renewal dates.
+
+**The published advice conflicts with the continuing financial obligations governing the very retirement-extension services Thai Visa Centre sells.**
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -93,3 +133,7 @@ The smaller profiles have too few reviews to provide reliable comparisons of ove
 [^18]: `https://www.trustpilot.com/review/tvc.in.th`
 [^19]: `https://www.trustpilot.com/review/tdac.in.th`
 [^20]: `https://www.trustpilot.com/review/dtv.in.th`
+[^21]: `https://tvc.co.th/faq/retirement-funds-must-stay-in-bank-account`
+[^22]: https://www.thailand.go.th/public/visit-thailand-detail/001_01_134
+[^23]: https://www.thailawonline.com/thailand-retirement-visa-requirements/
+[^24]: `https://tvc.co.th/visas/thailand-retirement-visa`
