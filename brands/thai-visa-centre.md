@@ -32,6 +32,16 @@ Corporate records identify the company's registered office as **91/11 Moo 15, Ba
 
 Thai Visa Centre's own website describes its physical visa operations as being run by **"Thai Visa Centre"**, while identifying Agents Co., Ltd. as responsible for digital services. It does not clearly identify TVC. Visa Agent Co., Ltd. as the legal operator of its physical agency. The timing of the company's incorporation, its shared address, and the agency's ambiguous explanation of its corporate structure raise questions about **which registered entity assumed responsibility for the Thai Visa Centre operation following the August 2020 police raid**.[^3][^27][^28]
 
+## March 2021 Employee Theft Allegations and Customer Payments
+
+On March 10, 2021, [The Thaiger](the-thaiger.md) reported that [Thai Visa Centre](thai-visa-centre.md) had publicly accused former employee **Asim Muhammad Mehran** of stealing money from customers and colleagues. The agency alleged that Mehran directed some customers to communicate with him privately rather than through its official LINE account or email address, and claimed that a family seeking to enter Thailand had lost **130,000 baht**.[^57]
+
+On March 15, The Thaiger reported that Thai Visa Centre had announced Mehran's arrest near Hat Yai while allegedly attempting to leave Thailand. The agency also published CCTV footage purportedly showing him concealing a customer's cash payment of **44,000 baht**. Thai Visa Centre stated that it had reimbursed an affected family and introduced additional security measures. The report noted that no independent official police documentation had been released confirming the agency's account.[^58]
+
+A separate March 2021 report published on ASEAN NOW described approximately **300,000 baht** in alleged thefts, including **200,000 baht from a family of five** and 100,000 baht from the agency's manager, Grace. These figures differ from the earlier reporting of 130,000 baht involving a family of four. The available accounts do not explain whether the discrepancies resulted from additional discoveries or inconsistent reporting.[^57][^59]
+
+The incident raises questions about Thai Visa Centre's historical handling of customer payments, employee access to client funds, and internal financial controls. The agency acknowledged the alleged losses, claimed to have compensated affected customers, and announced changes to its procedures. However, the available reporting does not independently establish the final criminal proceedings or the total amount of money recovered.[^58][^59]
+
 ## May 2022 AQ.in.th Customer Data and Visa Marketing
 
 On May 4, 2022, a traveler reported receiving an unsolicited email from `thaivisacentre.com` advertising visa-extension services. The message specifically referenced an earlier Test & Go booking the traveler had made through [aq.in.th](../domains/aq.in.th.md), despite the traveler not having requested visa assistance from Thai Visa Centre.[^14]
@@ -320,3 +330,6 @@ The inconsistency is particularly significant because TDAC submissions involve p
 [^54]: `https://ask.in.th/question/what-are-the-implications-of-thai-visa-centre-buying-the-thai-visa-advice-facebook-group-1`
 [^55]: `https://tvc.co.th/scam`
 [^56]: `https://asq.in.th/question/what-changes-are-being-made-to-the-thai-visa-centre-group-and-how-will-they-affect-discussions-and-information-sharing`
+[^57]: `https://thethaiger.com/guides/visa-information/thai-visa-centre-accuses-former-employee-of-stealing-from-a-family-seeking-to-travel-to-thailand`
+[^58]: `https://thethaiger.com/news/national/thai-visa-centre-says-former-employee-has-been-arrested-for-stealing`
+[^59]: `https://aseannow.com/topic/1209633-man-arrested-after-stealing-money-from-well-known-visa-agency-in-bangkok/`
