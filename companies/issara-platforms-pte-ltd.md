@@ -24,9 +24,33 @@ Its Privacy Policy promises account and file deletion upon closure, subject to e
 
 These disclosures are relevant to evaluating the protection of sensitive immigration documents handled across multiple jurisdictions.
 
+## Shifting Customer Figures and Promotional Claims
+
+On April 9, 2026, Issa Compass announced that it had surpassed **100,000 users**. The same press release described 100,000 consultations, claimed a **99% visa approval rate for pre-qualified applications**, and reported reaching $1 million in annualized revenue within five months.[^5]
+
+However, an October 9 press release described the platform as having served **more than 10,000 clients**. Less than a month later, on November 5, another promotional release claimed the company served **more than 100,000 clients**.[^6][^7]
+
+These statements use substantially different measures of the business's reach. The earlier 100,000 figure referred to users or consultations, while the later announcement explicitly described 100,000 clients. Neither release explains how clients are counted or reconciles the figures.
+
+Issa Compass's own About page further advertises having helped **100,000+ expatriates**, while elsewhere stating that its advisors have helped more than 1,000 expatriates.[^8]
+
+The figures could represent different categories of engagement, but the marketing does not clearly distinguish registrations, automated consultations, paying customers, and completed visa cases.
+
+### Unverified Approval Rate
+
+The company's repeatedly advertised **99% approval rate** is also difficult to assess independently.
+
+Issa Compass restricts the statistic to applications it has already pre-qualified, rather than all applicants seeking assistance. It does not publicly disclose the total number of applications included, the number rejected during pre-qualification, or an independently audited record of visa decisions.[^5]
+
+**The problem is not simply the size of these numbers, but how they are presented as evidence of credibility.** Issa Compass promotes impressive customer volumes and approval statistics without supplying the underlying records needed to establish what those figures actually represent.
+
 ## References
 
 [^1]: https://www.sgpbusiness.com/company/Issara-Platforms-Pte-Ltd
 [^2]: `https://www.issacompass.com/`
 [^3]: `https://www.issacompass.com/privacy`
 [^4]: `https://www.issacompass.com/security`
+[^5]: https://www.einpresswire.com/article/904516197/issa-compass-surpasses-100-000-users-scales-ai-powered-visa-platform-following-funding-round
+[^6]: `https://www.streetinsider.com/GetNews/Issa+Compass+Expands+Real-Time+Verification+to+All+Visas+in+94+Thai+Embassies+and+Consulates+Globally%2C+Including+DTV%2C+LTR+Visa+and+more/27168885.html`
+[^7]: `https://www.streetinsider.com/GetNews/Issa+Compass%2C+an+Online+Visa+Platform%2C+Hits+4.8+on+Google+and+4.6+on+Trustpilot/27301965.html`
+[^8]: `https://www.issacompass.com/about`
