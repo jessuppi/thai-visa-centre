@@ -40,6 +40,39 @@ On October 21, 2026, Jesse Nickles complained to [THNIC](../brands/thnic.md) abo
 
 On October 29, THNIC representative [Suthida Tepaloon](../people/suthida-tepaloon.md) confirmed that the complaint had been forwarded to the domain registrant with a request to review and update the disputed webpage. On November 5, she confirmed that THNIC's executive management and Legal Team were reviewing the matter. On November 10, she stated that THNIC would maintain the domain's operation unless presented with an explicit court order or official order from a competent Thai government authority directing its suspension. As of November 12, THNIC had not confirmed whether the registrant had responded or removed the disputed content.[^1]
 
+## Review Aggregation and Conflicting Reputation Claims
+
+Thai Visa Centre prominently advertises a **4.9-star rating based on 4,351 verified reviews**, claiming its review history extends back to **2007**.[^14]
+
+However, the company's own Google-review transparency report shows its earliest Google reviews appearing in **2018**, with no recorded activity from 2007 through early 2018. Its former primary domain, `thaivisacentre.com`, was registered on January 15, 2018, while [TVC. Visa Agent Co., Ltd.](../companies/tvc-visa-agent-co-ltd.md) was not incorporated until August 18, 2020.[^15][^16]
+
+The company does not explain which earlier business, Facebook page, or other review source accounts for its claimed history dating to 2007, or establish continuity between those older ratings and the current Thai Visa Centre operation.
+
+### Historical Facebook Ratings Counted as Verified Reviews
+
+The advertised total also includes **1,191 historical five-star Facebook ratings**, alongside 471 written Facebook reviews. Those historical ratings alone represent more than **27% of the company's advertised 4,351 reviews**.[^14]
+
+The headline presents all entries as verified customer reviews, although a historical star rating without written feedback provides considerably less information about the customer's identity, service purchased, or actual experience.
+
+### Separately Rated Trustpilot Profiles
+
+As of November 17, 2026, Trustpilot displayed substantially different ratings for domains associated with the same immigration-service network:
+
+| Domain | Trustpilot rating | Reviews |
+|---|---:|---:|
+| `tvc.co.th` | 4.9 | 568 |
+| `tvc.in.th` | 3.2 | 7 |
+| `tdac.in.th` | 2.3 | 7 |
+| `dtv.in.th` | 2.8 | 3 |
+
+The distinction between the first two is especially significant. **`tvc.in.th` redirects through `thaivisacentre.com` to `tvc.co.th`**, yet Trustpilot maintains a separate, considerably lower-rated profile under the alternative domain.[^17][^18]
+
+Trustpilot also discloses that the main `tvc.co.th` profile has already been merged with one or more other profiles, without identifying the origins of every transferred review.[^17]
+
+The smaller profiles have too few reviews to provide reliable comparisons of overall customer satisfaction. Nevertheless, they document criticism appearing under domains directly associated with Thai Visa Centre and its commercial services.
+
+**Thai Visa Centre promotes a combined 4.9-star reputation while providing no clear reconciliation of its separate Trustpilot profiles, historical Facebook ratings, or claimed review history dating to 2007.** Its advertised total is a company-compiled marketing figure, not a single independently verified rating covering every associated domain.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -53,3 +86,10 @@ On October 29, THNIC representative [Suthida Tepaloon](../people/suthida-tepaloo
 [^11]: https://en.thairath.co.th/news/crime/2908232
 [^12]: https://www.dailynews.co.th/news/6196927/
 [^13]: https://bak-gservice-next.nationtv.tv/general-news/751385
+[^14]: `https://tvc.co.th/`
+[^15]: `https://tvc.co.th/reviews/fake-reviews`
+[^16]: https://www.dataforthai.com/company/0115563017485/
+[^17]: `https://www.trustpilot.com/review/tvc.co.th`
+[^18]: `https://www.trustpilot.com/review/tvc.in.th`
+[^19]: `https://www.trustpilot.com/review/tdac.in.th`
+[^20]: `https://www.trustpilot.com/review/dtv.in.th`
