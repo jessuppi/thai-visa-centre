@@ -240,6 +240,16 @@ The agency explicitly advertised free expedited processing for all three package
 
 These 2025 advertisements were published while Police Major General Prasart Khemaprasit commanded Bangkok Immigration Division 1, the authority responsible for approving initial retirement-purpose visa applications under Immigration Bureau Order 15/2568.
 
+## Conflicting Age Restrictions and Children's TDAC Information
+
+AGENTS CO., LTD., the company Thai Visa Centre identifies as operating its commercial Thailand Digital Arrival Card (TDAC) platform, publishes contradictory age requirements for customers. Its Terms & Conditions explicitly permit people aged **16 and older** to use its website and services. However, its Privacy Policy instructs anyone **under 20 not to submit personal information** through those same services. These conflicting provisions leave travelers aged 16–19 permitted to use the platform under one policy but discouraged from providing the information necessary to complete an application under another.[^50][^51]
+
+The Privacy Policy acknowledges that parents may submit personal information concerning their children, but describes this exception in the context of a **visa application**. Thailand's TDAC is not a visa, and the Immigration Bureau explicitly requires children, including infants, to have their own arrival-card submissions. Government guidance also confirms that parents and other authorized individuals may submit applications on behalf of children and family members.[^51][^52]
+
+The inconsistency is particularly significant because TDAC submissions involve passport details, travel itineraries, accommodation information, and health declarations. AGENTS CO., LTD.'s Privacy Policy separately authorizes using personal information to market its own and sister companies' services. Yet its published policies do not clearly explain how the prohibition on submissions by people under 20 applies to TDAC applications, how parental authorization affects that restriction, or whether information submitted on behalf of children is excluded from the company's broader marketing permissions.[^51][^52]
+
+**These contradictions raise questions about the reliability of the company's privacy disclosures for families and younger travelers.** The published language does not establish unlawful collection or misuse of children's information, but it fails to provide consistent instructions about who may submit personal data and how information concerning minors is handled through a commercial intermediary collecting sensitive immigration records.
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
@@ -291,3 +301,6 @@ These 2025 advertisements were published while Police Major General Prasart Khem
 [^47]: https://canberra.thaiembassy.org/en/content/beware-of-thailand-digital-arrival-card-scam-websi
 [^48]: https://www.antifakenewscenter.com/?p=81970
 [^49]: https://thethaiger.com/travel/thailand-travel/apply-for-your-tdac-early-today-with-agents
+[^50]: `https://agents.co.th/tdac-apply/policy/terms-and-conditions/`
+[^51]: `https://agents.co.th/tdac-apply/policy/privacy/`
+[^52]: https://tdac.immigration.go.th/manual/en/faq.html
