@@ -30,6 +30,18 @@ The policy provides a concrete example: a customer purchasing four credits for *
 
 These conditions are significant because the company promotes advance purchases and unlimited credit validity as customer benefits while imposing a substantial financial penalty when customers discontinue partially used packages. Although the restrictions are disclosed in its Refund Policy, the prominent service descriptions emphasize pricing discounts and non-expiring credits without explaining the reduced refund value. **The arrangement raises questions about whether customers are adequately informed of the financial consequences of purchasing multiple reports in advance**, particularly when the underlying government reporting procedure is available free of charge.[^5][^6]
 
+## Late Reporting Promises and Contradictory Service Guarantees
+
+[Agents Co., Ltd.](../companies/agents-co-ltd.md) promotes its `90day.in.th` service as particularly useful for foreigners who have missed their 90-day immigration-reporting deadlines. Its About page claims that the company's representatives can handle late reports in person, avoiding technical rejections and unnecessary immigration-office visits. The same page advertises **"No Rejections"** as a service benefit and states that reports may be submitted to an alternative immigration office when the operator considers that approach appropriate.[^7]
+
+However, Thailand's Immigration Bureau distinguishes ordinary reporting through an authorized representative from reporting after the permitted deadline. Its official handbook allows reporting from **15 days before until seven days after the scheduled reporting date**, but specifies that foreigners whose reporting period has expired must **appear personally at immigration and pay a 2,000-baht fine**. Authorized representatives may handle routine reporting, but the handbook explicitly excludes overdue cases from that arrangement.[^9]
+
+This distinction is particularly important because the company's advertising does not clearly explain when an allegedly late report can still be handled by an agent and when the customer must appear personally. The operator also reserves the right to select an alternative immigration office, whereas Thailand's published government instructions generally direct foreigners to report to the office responsible for their area of residence. The company's documentation does not identify the circumstances under which an alternative office would have jurisdiction over a customer's reporting obligation.[^7][^9][^10]
+
+**The company's contractual terms also contradict the impression of guaranteed success conveyed by its advertising.** Although its promotional website promises to eliminate rejections, its Terms & Conditions expressly state that AGENTS CO., LTD. cannot guarantee particular outcomes from immigration authorities. Customers remain ultimately responsible for compliance with Thai immigration laws, while the company disclaims responsibility for immigration officials' decisions and limits its financial liability to the greater of **US$1 or payments received during the preceding month**.[^7][^8]
+
+**These discrepancies raise questions about whether customers receive accurate information concerning the limitations of paid immigration assistance.** A traveler who has genuinely exceeded the permitted reporting window may still be required to attend immigration personally and pay a fine, regardless of purchasing the company's service. The published material does not establish that AGENTS CO., LTD. has improperly processed overdue reports, but its broad advertising promises are not adequately reconciled with official reporting restrictions or its own contractual disclaimers.[^7][^8][^9]
+
 ## References
 
 [^1]: https://www.reddit.com/r/expatsinbangkok/comments/1tdqdc8/thailand_90_day_online_reporting/
@@ -38,3 +50,7 @@ These conditions are significant because the company promotes advance purchases 
 [^4]: Email from Jesse Nickles to `abuse@thnic.co.th`, November 12, 2026, subject *Formal Abuse Complaint – 90day.in.th – Publication of Disputed Criminal Allegations and Bad-Faith Domain Use* (private correspondence). Disputed URLs: `https://90day.in.th/scam` and `https://tvc.co.th/seo-fugitive-jesse-nickles-criminal-charges`.
 [^5]: `https://90day.in.th/about`
 [^6]: `https://90day.in.th/policy/refund`
+[^7]: `https://90day.in.th/about`
+[^8]: `https://90day.in.th/policy/terms-and-conditions`
+[^9]: https://samutsakhon.imm.police.go.th/document/guid_en12.pdf
+[^10]: https://www.thailand.go.th/public/index.php/useful-information-detail/001_01_084
