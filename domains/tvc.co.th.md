@@ -113,6 +113,42 @@ The agency markets itself as an expert in navigating Thai immigration requiremen
 
 **The published advice conflicts with the continuing financial obligations governing the very retirement-extension services Thai Visa Centre sells.**
 
+## Incorrect Multiple-Entry Visa and 90-Day Stay Guidance
+
+Thai Visa Centre's FAQ titled *Multiple-Entry 90-Day Non-Immigrant Visa: How It Works* repeatedly tells customers that a valid multiple-entry Non-Immigrant visa does not require leaving Thailand every 90 days.[^25]
+
+The advice is misleading because it fails to distinguish clearly between **the validity of a visa and the period of stay granted upon entry**.
+
+### Visa Validity Does Not Extend Permission to Stay
+
+Thailand's Ministry of Foreign Affairs confirms that multiple-entry Non-Immigrant visas may remain valid for one year, but ordinary holders are initially admitted for **no more than 90 days per entry**, unless immigration authorizes a different period.[^26]
+
+A traveler who wishes to remain beyond that admission period must obtain an appropriate extension or otherwise leave Thailand before their permitted stay expires.
+
+Thai Visa Centre's FAQ nevertheless answers the question of whether travelers must leave every 90 days with an emphatic **"No"**, explaining that they instead need 90-day address reporting and in-country extensions.[^25]
+
+Although obtaining an extension can allow continuous residence, **a multiple-entry visa alone does not authorize an uninterrupted one-year stay**.
+
+The FAQ acknowledges the 90-day admission limit elsewhere, making its repeated simplified answers especially confusing.
+
+### Incorrect Classification of Non-O-A Retirement Visas
+
+The same FAQ includes **Non-Immigrant O-A retirement visas** among categories supposedly granting 90-day stays per entry.[^25]
+
+However, the Ministry of Foreign Affairs expressly states that holders of Non-O-A long-stay visas may receive permission to remain in Thailand for **one year upon arrival**.[^27]
+
+Their obligation to report their address every 90 days is separate from the length of their permitted stay.
+
+By grouping Non-O-A visas with ordinary 90-day Non-Immigrant categories, the guide further obscures the distinction between visa validity, permitted residence, and immigration reporting.
+
+### Potential Consequences for Travelers
+
+Thai Visa Centre presents this guidance as practical advice from an experienced immigration agency and promotes its paid visa-extension services alongside the FAQ.
+
+A customer misunderstanding the difference between a one-year visa's validity and a 90-day entry stamp could inadvertently remain beyond their permitted stay.
+
+**The error concerns a fundamental immigration rule that customers reasonably expect a professional visa agency to explain accurately.**
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -137,3 +173,6 @@ The agency markets itself as an expert in navigating Thai immigration requiremen
 [^22]: https://www.thailand.go.th/public/visit-thailand-detail/001_01_134
 [^23]: https://www.thailawonline.com/thailand-retirement-visa-requirements/
 [^24]: `https://tvc.co.th/visas/thailand-retirement-visa`
+[^25]: `https://tvc.co.th/faq/multiple-entry-90-day-visa`
+[^26]: https://www.mfa.go.th/en/publicservice/issuance-of-visa
+[^27]: https://www.mfa.go.th/en/publicservice/non-immigrant-visa-o-a-long-stay
