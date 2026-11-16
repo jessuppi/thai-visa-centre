@@ -20,9 +20,21 @@ Nickles also requested that THNIC register the matter as a separate complaint fr
 
 The complaint extended the registrar's examination beyond `tvc.co.th` to a separately registered domain allegedly distributing the same disputed criminal narrative. It raised the question of whether THNIC would independently assess potentially abusive domain use across multiple websites associated with the same business network.[^4]
 
+## Non-Expiring Reporting Credits and Restrictive Refund Terms
+
+[Agents Co., Ltd.](../companies/agents-co-ltd.md), the operator of `90day.in.th`, markets prepaid immigration-reporting credits that **never expire** and can be transferred between customers. Its published pricing charges **500 baht per individual report**, reduced to **375 baht per report** when purchasing packages of four or more. The service handles Thailand's routine 90-day immigration reporting through in-person submissions and tracked delivery of the resulting documents.[^5][^6]
+
+However, the company's Refund Policy imposes substantial restrictions on recovering money from partially used credit packages. Customers who have not used any credits may request a full refund, but customers who have used even one credit are entitled to receive only **50% of the value of their remaining unused credits**. The company attributes this reduction to discounted pricing and administrative expenses.[^6]
+
+The policy provides a concrete example: a customer purchasing four credits for **1,500 baht** and using one would have three unused credits worth 1,125 baht. Instead of refunding their remaining value, the operator would return just **562.50 baht**, retaining the other 562.50 baht despite those three reporting services not having been performed. Separately, the policy states that individual reporting services become non-refundable once the company begins gathering information, preparing documents, or visiting immigration.[^6]
+
+These conditions are significant because the company promotes advance purchases and unlimited credit validity as customer benefits while imposing a substantial financial penalty when customers discontinue partially used packages. Although the restrictions are disclosed in its Refund Policy, the prominent service descriptions emphasize pricing discounts and non-expiring credits without explaining the reduced refund value. **The arrangement raises questions about whether customers are adequately informed of the financial consequences of purchasing multiple reports in advance**, particularly when the underlying government reporting procedure is available free of charge.[^5][^6]
+
 ## References
 
 [^1]: https://www.reddit.com/r/expatsinbangkok/comments/1tdqdc8/thailand_90_day_online_reporting/
 [^2]: https://archive.ph/JwAuO
 [^3]: `https://agents.co.th/`
 [^4]: Email from Jesse Nickles to `abuse@thnic.co.th`, November 12, 2026, subject *Formal Abuse Complaint – 90day.in.th – Publication of Disputed Criminal Allegations and Bad-Faith Domain Use* (private correspondence). Disputed URLs: `https://90day.in.th/scam` and `https://tvc.co.th/seo-fugitive-jesse-nickles-criminal-charges`.
+[^5]: `https://90day.in.th/about`
+[^6]: `https://90day.in.th/policy/refund`
