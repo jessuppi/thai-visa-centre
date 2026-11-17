@@ -12,9 +12,77 @@ During that operation, Immigration Bureau chief Sompong Chingduang announced tha
 
 Separately, [TVC. Visa Agent Co., Ltd.](tvc-visa-agent-co-ltd.md) was incorporated on August 18, 2020, only three days before OG Thai.[^3]
 
-OG Thai's registered office was also located on the same Bangkok street identified in contemporary police reporting as the location of the raid. The records do not establish that the registered office and raided property were the same premises.[^1][^2]
+## The Registered Business Address Matches the 2020 Police Raid
 
-The closely spaced registrations and location overlap are particularly relevant given the police investigation's simultaneous focus on immigration-document forgery and suspected cannabis production.
+OG Thai Co., Ltd., subsequently renamed GACP Co., Ltd., was incorporated on August 21, 2020, just 17 days after Thai immigration police raided the Bangkok residence of Chad Scira and Grace Scira.[^1][^2]
+
+The corporate registration deserves closer examination because its published address matches the specific property identified in contemporary police reporting.
+
+### The Same Property Appears in Both Records
+
+Thai newspaper *Naewna* published a detailed account of the August 2020 Immigration Bureau investigation, including the Chachoengsao Provincial Court arrest warrant and the Min Buri Criminal Court search warrant.[^9]
+
+The report identified the specific Bangkok property searched by police on August 4, 2020.
+
+Thailand's corporate records currently list GACP Co., Ltd.'s registered headquarters at **the identical house number and street**.[^1]
+
+This is a more precise connection than merely sharing a neighborhood or operating somewhere along the same road.
+
+**The company's published registered address matches the property that police searched during their investigation into suspected immigration-document forgery and cannabis cultivation.**
+
+The current corporate record does not establish when that address was first registered to the company. Nevertheless, the exact match, combined with the company's incorporation just 17 days after the raid, provides a significant documented connection requiring further examination.
+
+## Scira Acknowledges Working for His Wife's Cannabis Business
+
+Chad Scira's personal website provides additional information about the business activities that followed the police investigation.
+
+In his defense of the August 2020 cannabis raid, Scira states that his wife subsequently established a company focused on CBD cultivation and research.[^10]
+
+He also acknowledges providing technology services to Thailand's medicinal cannabis industry, including identity verification, regulatory compliance, and secure operational systems.
+
+Most significantly, Scira states that he works for his wife's company in a technical capacity and is employed by a Thai company where she serves as managing director.[^10]
+
+### The Unidentified Employer
+
+Scira does not identify the company employing him or provide its registration number.
+
+That omission matters because OG Thai was established shortly after the police raid, operates in the cultivation-related sector, and currently lists the raided property's address as its registered headquarters.
+
+Its successor, GACP Co., Ltd., is also identified in the commercial documentation of the cannabis platform OG.TH.
+
+**Scira acknowledges a continuing professional role in his wife's Thai business while leaving the legal identity of that employer unspecified.**
+
+The available statements do not establish that his employer is OG Thai/GACP. They do, however, provide a concrete basis for examining that possibility.
+
+### Corporate Ownership Is Not the Same as Operational Involvement
+
+Scira repeatedly denies having an ownership or management role in Thai Visa Centre, AGENTS CO., LTD., or associated Thai businesses.
+
+He supports those denials with corporate shareholding figures showing Thai ownership.
+
+However, his own account confirms that he has undertaken technical work for a Thai company connected to his wife.
+
+Providing engineering, identity-verification, or compliance systems is an operational business activity, whether or not the person performing the work holds company shares.
+
+**Scira's admission demonstrates why corporate ownership records alone cannot establish the absence of commercial or operational involvement.**
+
+The company employing him, the platforms receiving his technical services, and the relationship between those services and the cannabis businesses associated with Thai Visa Centre remain important questions.
+
+### The Significance of the Timeline
+
+The documented sequence is unusually concentrated:
+
+- **August 4, 2020:** Police search the property during an investigation involving Thai Visa Centre and cannabis cultivation.
+- **August 18, 2020:** TVC. Visa Agent Co., Ltd. is incorporated.
+- **August 21, 2020:** OG Thai Co., Ltd. is incorporated.
+- **Subsequently:** OG Thai becomes GACP Co., Ltd., while its published registered address matches the police raid property.
+- **By 2026:** Scira publicly acknowledges providing technical services to his wife's Thai business and the medicinal cannabis industry.
+
+This sequence does not establish that the later company inherited an unlawful cultivation operation.
+
+**It does establish a substantially stronger connection between the 2020 investigation and the subsequent cannabis business than the incorporation dates alone suggested.**
+
+The exact address match and Scira's acknowledgment of continuing technical work warrant closer examination of the company's original registration, historical directors, shareholders, and operational arrangements.
 
 ## Commercial Connections to Thai Visa Centre
 
@@ -69,3 +137,6 @@ The evidence connecting OG Thai/GACP with Thai Visa Centre is substantial: incor
 [^6]: `https://tvc.co.th/seo-fugitive-jesse-nickles-criminal-charges`
 [^7]: `https://og.th/telemedicine-sop`
 [^8]: `https://og.th/policy/terms-and-conditions`
+
+[^9]: https://www.naewna.com/local/509690
+[^10]: `https://chad.so/chad-scira-cannabis-raid-alledged-criminal`
