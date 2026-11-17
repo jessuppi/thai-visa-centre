@@ -676,6 +676,135 @@ The continued publication of contradictory guidance also raises questions about 
 
 **Thai Visa Centre correctly warned customers about the new DTV restrictions, then left commercial guidance online that could direct those same customers toward the very application mistakes it had identified.**
 
+## Obsolete Retirement Visa Insurance Requirements Repeated Across Multiple Guides
+
+Thai Visa Centre repeatedly publishes outdated health-insurance requirements for Thailand's Non-Immigrant O-A retirement visa, advising applicants that policies providing **40,000 baht in outpatient coverage and 400,000 baht in inpatient coverage** satisfy the relevant minimums.
+
+Those figures no longer reflect the general insurance requirement for new O-A applications.
+
+Thailand increased the required medical coverage to **3 million baht or US$100,000**, effective October 1, 2021.
+
+The revised requirement has been confirmed by multiple Thai diplomatic missions, including government guidance updated during 2026.[^87][^88]
+
+**Thai Visa Centre continues presenting the superseded insurance limits as current requirements, despite marketing itself as a specialist in retirement visas and advising customers on the purchase of qualifying insurance.**
+
+### The Dedicated Retirement Insurance Guide Uses the Old Figures
+
+Thai Visa Centre's article *Health Insurance for Thailand Retirees: O-A Requirements and Alternatives* identifies itself as guidance specifically for Non-Immigrant O-A applicants.[^83]
+
+It prominently advertises:
+
+- Outpatient minimum: 40,000 baht.
+- Inpatient minimum: 400,000 baht.
+- Effective date: October 2019.
+
+The article explicitly instructs customers to purchase policies meeting both limits and describes those amounts as the minimum coverage necessary for approval.
+
+It discusses initial embassy applications, annual extensions, insurance renewals, and the risk of applications being rejected for inadequate coverage.
+
+However, **the article never explains that the insurance requirement introduced in 2019 was subsequently increased in October 2021**.
+
+The page claims to have been reviewed in June 2026, nearly five years after the change took effect.
+
+### The Same Error Appears Throughout the Website
+
+The outdated requirements are not confined to one article.
+
+Thai Visa Centre repeats them across several publications:
+
+**Do I Need Health Insurance for Thailand?**
+
+The agency's FAQ identifies O-A applicants as requiring 40,000 baht outpatient and 400,000 baht inpatient coverage. It also instructs customers that their insurance certificates should demonstrate those specific minimum amounts.[^84]
+
+**Health Insurance in Thailand**
+
+This guide explicitly groups O-A and O-X applicants together, claiming that both visa categories require the same 40,000/400,000-baht insurance coverage.[^85]
+
+**Thailand Retirement Visa**
+
+The agency's principal retirement guide repeats the same lower limits while describing the insurance customers should purchase for O-A applications and extensions.[^86]
+
+**Best Places to Retire in Thailand for Couples**
+
+Even this retirement-planning article identifies the same outdated insurance thresholds when advising couples about qualifying for O-A visas.[^90]
+
+**At least five separate publications repeat the obsolete figures, demonstrating a recurring problem with the agency's retirement-visa guidance rather than an isolated typographical error.**
+
+### Thai Government Requirements Are Substantially Different
+
+Thailand's current insurance requirements are readily available from official government sources.
+
+The Royal Thai Consulate-General in Los Angeles, in guidance updated September 1, 2026, states that Non-Immigrant O-A applicants must maintain health insurance covering their stay, including COVID-19, with a minimum insured amount of 3 million baht or US$100,000.[^87]
+
+The Royal Thai Embassy in Budapest confirmed the same requirement in February 2026.[^88]
+
+These documents reflect the increase introduced on October 1, 2021, rather than the original 2019 insurance framework.[^89]
+
+The difference is material.
+
+A policy offering only 400,000 baht in inpatient benefits and 40,000 baht in outpatient benefits does not automatically satisfy a requirement for 3 million baht in overall medical coverage.
+
+**A customer purchasing insurance solely on the basis of Thai Visa Centre's stated minimums could discover that the policy does not meet the requirements for an O-A visa application.**
+
+This could result in additional insurance costs, replacement policies, delayed applications, or refusal to accept inadequate supporting documents.
+
+### Confusing O-A and O-X Insurance Requirements
+
+The source of the error becomes clearer when the government's separate retirement-visa categories are compared.
+
+The Royal Thai Embassy in Copenhagen publishes distinct requirements for the two categories:
+
+| Visa category | Published insurance requirement |
+|---|---|
+| Non-Immigrant O-A | At least US$100,000 or 3 million baht in medical coverage |
+| Non-Immigrant O-X | At least 40,000 baht outpatient and 400,000 baht inpatient coverage |
+
+These requirements appear separately in the same official embassy guidance.[^89]
+
+The distinction is important because O-A and O-X are different visa categories with different eligibility conditions, financial requirements, and permitted periods of stay.
+
+Yet Thai Visa Centre's general health-insurance guide combines the two categories and explicitly assigns both the lower insurance limits.[^85]
+
+**The agency has effectively presented the insurance thresholds associated with the O-X category as sufficient for O-A applicants.**
+
+This mirrors other documented problems with Thai Visa Centre's retirement guidance, including its repeated confusion between O-A and O-X visa durations and its promotion of a supposed five-year O-A extension pathway.
+
+### Incorrect Restrictions on Foreign Insurance
+
+Thai Visa Centre's retirement guide also states that O-A applicants require Thai health insurance from approved providers.[^86]
+
+That description is unnecessarily restrictive.
+
+The Royal Thai Consulate-General in Los Angeles and Royal Thai Embassy in Budapest both recognize qualifying insurance issued by Thai or foreign insurance companies, subject to the required coverage and documentation.[^87][^88]
+
+Foreign insurance applicants may be required to obtain the prescribed Foreign Insurance Certificate, completed and endorsed by their insurer.
+
+**A qualifying foreign insurance policy is not automatically disqualified merely because the insurer is not based in Thailand.**
+
+By presenting Thai insurance as mandatory, the agency risks directing customers toward unnecessary replacement policies or narrower insurance choices than the official rules permit.
+
+### Claimed Expertise Versus Repeated Regulatory Errors
+
+Thai Visa Centre advertises retirement visas as one of its principal services.
+
+Its website promotes assistance with insurance selection, bank documentation, visa applications, and annual extensions.
+
+The company also repeatedly advises customers that its immigration guidance is current and that supporting documents must satisfy official requirements.
+
+However, its insurance publications continue reproducing requirements superseded years earlier.
+
+The consequences are more significant than outdated terminology.
+
+Customers rely on an immigration agency's advice to decide which insurance policies to purchase, which financial commitments to make, and whether their applications are ready for submission.
+
+**Thai Visa Centre presents itself as a retirement-visa specialist while repeatedly directing customers toward insurance limits that do not satisfy the current general O-A application requirement.**
+
+The published record does not establish that particular customers purchased inadequate insurance or suffered application refusals because of this advice.
+
+It does establish that the same material error appears across multiple pages claiming to provide current professional guidance.
+
+The central question is why an agency whose business depends on understanding retirement-visa requirements continues publishing obsolete insurance figures nearly five years after the government increased the required coverage.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -759,3 +888,12 @@ The continued publication of contradictory guidance also raises questions about 
 [^80]: https://moscow.thaiembassy.org/en/publicservice/adjustment-to-supporting-documents-for-destination-thailand-visa-dtv-a?cate=5d843b6a15e39c1abc00515b
 [^81]: https://vientiane.thaiembassy.org/en/publicservice/applying-for-a-visa
 [^82]: https://helsinki.thaiembassy.org/en/publicservice/destination-thailand-visa-dtv
+
+[^83]: `https://tvc.co.th/guides/health-insurance-thailand-for-retirees`
+[^84]: `https://tvc.co.th/faq/do-i-need-health-insurance-for-thailand`
+[^85]: `https://tvc.co.th/guides/health-insurance-in-thailand`
+[^86]: `https://tvc.co.th/guides/retirement-visa`
+[^87]: https://thaiconsulatela.thaiembassy.org/en/publicservice/non-immigrant-type-o-a/
+[^88]: https://budapest.thaiembassy.org/en/publicservice/non-immigrant-o-a-visa-long-stay
+[^89]: https://copenhagen.thaiembassy.org/en/publicservice/visa-types-updated
+[^90]: `https://tvc.co.th/guides/best-places-to-retire-in-thailand-for-couples`
