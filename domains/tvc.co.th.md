@@ -149,6 +149,40 @@ A customer misunderstanding the difference between a one-year visa's validity an
 
 **The error concerns a fundamental immigration rule that customers reasonably expect a professional visa agency to explain accurately.**
 
+## Outdated Embassy Income Affidavit Instructions
+
+Thai Visa Centre publishes immigration advice instructing retirement and marriage visa applicants to obtain income affidavits from their embassies in Bangkok.
+
+Its FAQ *Do I Need to Show Income From Previous Years?* states that most Western nationals obtain embassy income affidavits for in-country extensions. It describes embassy staff reviewing three to six months of bank statements and pension records before certifying the applicant's income.[^28]
+
+The agency repeats this guidance in *Can I Use Additional Income for a Retirement Visa?*, recommending embassy appointments to certify pension, rental, and other income sources.[^29]
+
+**These instructions overlook the discontinuation of income-certification services by several major Western embassies more than seven years earlier.**
+
+### Embassy Services Discontinued in 2019
+
+Three particularly important examples are:
+
+- **United Kingdom:** The British Embassy Bangkok stopped issuing income-confirmation letters on January 1, 2019, explaining that it could not verify applicants' incomes to the standard required by Thai immigration.[^30]
+- **Australia:** The Australian Embassy stopped witnessing statutory declarations concerning income and bank balances on January 7, 2019. Its official FAQ continues explaining the change.[^31]
+- **United States:** The American Embassy in Bangkok and Consulate General in Chiang Mai stopped providing income affidavits on January 1, 2019, citing their inability to verify the income declared by applicants.[^32]
+
+These changes did not eliminate the income-based immigration qualification route. Applicants may still establish eligibility through acceptable financial evidence, subject to immigration requirements.
+
+However, **an applicant cannot obtain a discontinued embassy certification simply by preparing the documents Thai Visa Centre recommends**.
+
+### Claims of Updated Immigration Expertise
+
+Thai Visa Centre's FAQ states that its advice was last reviewed in **June 2026**, more than seven years after the embassy changes.[^28]
+
+The problem is particularly relevant because the agency advertises financial-document preparation and retirement-extension assistance.
+
+Its instructions could cause British, American, or Australian applicants to pursue unavailable consular services instead of preparing the financial evidence actually required for their circumstances.
+
+The website does not clearly identify which embassies still provide income certification or warn readers that several major nationalities must use alternative evidence.
+
+**Thai Visa Centre markets itself as an experienced immigration specialist, yet its published financial-document instructions remain inconsistent with longstanding embassy policies affecting substantial groups of potential customers.**
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -176,3 +210,8 @@ A customer misunderstanding the difference between a one-year visa's validity an
 [^25]: `https://tvc.co.th/faq/multiple-entry-90-day-visa`
 [^26]: https://www.mfa.go.th/en/publicservice/issuance-of-visa
 [^27]: https://www.mfa.go.th/en/publicservice/non-immigrant-visa-o-a-long-stay
+[^28]: `https://tvc.co.th/faq/do-i-need-to-show-income-from-previous-years`
+[^29]: `https://tvc.co.th/faq/retirement-visa-additional-income`
+[^30]: https://www.gov.uk/government/news/british-embassy-bangkok-to-stop-certification-of-income-letters
+[^31]: https://thailand.embassy.gov.au/bkok/Consular_FAQs.html
+[^32]: https://www.thephuketnews.com/us-embassy-in-thailand-to-cease-providing-income-affidavit-69127.php
