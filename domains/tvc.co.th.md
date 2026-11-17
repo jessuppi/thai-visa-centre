@@ -339,6 +339,54 @@ This discrepancy raises a more fundamental credibility issue than the agency's p
 
 The identical listings also warrant scrutiny of whether Thai Visa Centre has copied additional material concerning legal services, professional qualifications, or commercial credentials from Siam Legal.
 
+## Unsubstantiated Thailand Privilege Agent Accreditation
+
+Thai Visa Centre repeatedly claims to be an officially authorized agent for Thailand Privilege, the government-operated long-term residency membership program.
+
+Its *Thailand Elite Visa Application Forms* guide identifies Thai Visa Centre as an authorized **General Sales and Services Agent (GSSA)** and encourages customers to obtain application documents through the business.[^52]
+
+Another guide instructs applicants to select their membership tier through a GSSA identified specifically as **Thai Visa Centre**.[^53]
+
+The agency's four-office guide goes further, claiming its Bangkok, Phuket, Pattaya, and Chiang Mai branches handle Thailand Privilege applications as authorized agents.[^54]
+
+### Missing From the Program's Published Agent List
+
+Thailand Privilege Card Co., Ltd.'s official **2025 annual report** identifies 50 corporate GSSAs, listing their registered company names and locations.[^55]
+
+Three names are conspicuously absent:
+
+- Thai Visa Centre
+- TVC. Visa Agent Co., Ltd.
+- AGENTS CO., LTD.
+
+These are the trade name and registered companies connected to the TVC business network in this investigation.
+
+By contrast, the official list explicitly identifies **Siam Legal (Thailand) Co., Ltd. as GSSA number 37**.[^55]
+
+Siam Legal independently publishes its authorization identifier, **SA22/013**, and advertises official Thailand Privilege application assistance.[^56]
+
+TVC's cited guides do not identify an equivalent authorization number, name the registered company holding its purported GSSA appointment, or explain whether it submits applications through another accredited agent.
+
+### Connection to the Misrepresented Office Locations
+
+The discrepancy is especially significant alongside the separately documented office-location findings.
+
+TVC advertises four regional offices matching locations associated with Siam Legal, while simultaneously claiming that those offices provide officially authorized Thailand Privilege application services.
+
+**The government's published agent list identifies Siam Legal, not Thai Visa Centre, as the accredited business.**
+
+This does not exclude the possibility of a subsequent appointment or an undisclosed arrangement with an authorized agent. However, neither would justify presenting another company's accreditation as TVC's own without explaining the relationship.
+
+### Questions About Official Authorization
+
+Thailand Privilege memberships cost hundreds of thousands or millions of baht. Whether an intermediary is officially appointed is therefore a material commercial credential.
+
+Thai Visa Centre's published claims are not substantiated by the program's 2025 list of authorized corporate agents.
+
+**The agency should identify which registered company holds its claimed GSSA appointment, provide the authorization number, and explain its relationship with Siam Legal.**
+
+Without those details, prospective customers have no clear basis for reconciling TVC's accreditation claims with the government's published records or the agency's apparent use of another accredited firm's office locations.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -390,3 +438,8 @@ The identical listings also warrant scrutiny of whether Thai Visa Centre has cop
 [^49]: `https://www.siam-legal.com/`
 [^50]: `https://www.visa2uk.com/our-office-locations/`
 [^51]: `https://tvc.co.th/`
+[^52]: `https://tvc.co.th/guides/thailand-elite-visa-application-forms`
+[^53]: `https://tvc.co.th/guides/new-thailand-elite-packages-revealed`
+[^54]: `https://tvc.co.th/guides/thailand-thailand-law-firms`
+[^55]: https://ebookservicepro.com/showcase/2026/ThailandPrivilege2025/files/basic-html/page70.html — *Thailand Privilege Annual Report 2025*, corporate GSSA list, pp. 68–70.
+[^56]: https://www.siam-legal.com/thailand-visa/thailand-privilege-visa.html
