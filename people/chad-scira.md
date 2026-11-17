@@ -10,6 +10,47 @@ Officers reported discovering **55 government-agency rubber stamps**, suspected 
 
 Following the raid, Thai Visa Centre publicly maintained that its customers' visas were legitimately issued through immigration authorities. The agency initially described Grace as a former partner before announcing her return to the business several days later.[^3]
 
+
+## Changing Explanations for the 2020 Cannabis Cultivation
+
+Chad Scira's current explanation for the cannabis discovered during the August 2020 police raid differs substantially from the account attributed to him in contemporary news reporting.
+
+### The Original Personal-Consumption Explanation
+
+On August 5, 2020, *Coconuts Bangkok* reported that Scira told investigators the cannabis discovered at his Bangkok residence was intended for personal use.[^2]
+
+*The Nation* separately quoted Immigration Bureau chief Sompong Chingduang stating that the suspects had explained the cultivation as being for personal consumption.[^1]
+
+Police reported discovering 60 cannabis plants, 99 grams of dried cannabis, an oil extractor, weighing equipment, and a vacuum sealer.
+
+Investigators suspected commercial production rather than personal consumption, although those suspicions did not establish criminal guilt.[^1]
+
+### The Later University Research Explanation
+
+Scira's personal website now presents a substantially different explanation.
+
+He states that his wife was cultivating CBD plants for legitimate medical research under a memorandum of understanding with a university. He attributes the project partly to her father's cancer and describes COVID-19 travel restrictions as having complicated cooperation with the institution.[^8]
+
+He also insists that he personally neither cultivated nor distributed cannabis.
+
+**The university research agreement now central to Scira's defense does not appear in the contemporaneous personal-consumption explanation published after the raid.**
+
+His website does not identify the university, produce the memorandum, or provide the government cultivation authorization that would establish the research project's legal status.
+
+### Why the Difference Matters
+
+Personal consumption and authorized university research are materially different explanations for cultivating cannabis.
+
+The first describes private use. The second invokes an institutional research arrangement that would ordinarily have identifiable participants, documentation, and regulatory requirements.
+
+The two explanations are not necessarily mutually exclusive, but Scira has not explained how they fit together or why the university agreement was absent from the contemporary account.
+
+**The issue is not simply whether the plants contained CBD or THC. It is why the publicly documented explanation changed from personal consumption to a university research project without the supporting agreement being disclosed.**
+
+Scira's reliance on Thailand's subsequent cannabis decriminalization does not resolve that discrepancy. A later change in criminal law cannot establish what research authorization existed in August 2020.
+
+The original explanation, the later research claims, and the absence of supporting institutional records leave a significant unresolved inconsistency in Scira's account of the police investigation.
+
 ## Disputed Business Involvement
 
 In 2026, Scira's personal website denied that he owned, directed, or operated Thai Visa Centre, Agents Co., Ltd., or other immigration-related companies. The website also asserted that the earlier criminal case had been dismissed.[^4]
@@ -37,3 +78,5 @@ The Facebook administrator listing is particularly relevant because Thai Visa Ad
 [^5]: `https://asq.in.th/question/what-does-the-acquisition-of-the-thai-visa-advice-group-by-thai-visa-centre-mean-for-its-members-1`
 [^6]: `https://www.facebook.com/groups/thaivisaadvice/about`
 [^7]: `https://chad.so/jesse-nickles-harassment-and-defamation`
+
+[^8]: `https://chad.so/chad-scira-cannabis-raid-alledged-criminal`
