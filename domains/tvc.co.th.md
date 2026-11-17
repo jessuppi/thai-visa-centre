@@ -495,6 +495,61 @@ Applicants following TVC's figures would underestimate the standard government f
 
 The repetition across four separate pages raises questions about the agency's claimed editorial reviews and whether its outbound visa guidance is actually checked against current immigration regulations.
 
+## Misleading Five-Year O-A Retirement Extension Claims
+
+Thai Visa Centre repeatedly advertises a supposed **five-year extension of the Non-Immigrant O-A retirement visa**, claiming that foreigners become eligible after holding O-A status for three years.
+
+Its published guidance confuses two legally distinct immigration categories: the standard O-A retirement visa and the longer-term O-X visa.
+
+### Repeated Claims Across Retirement Guides
+
+Several examples appear on the agency's website:
+
+- **Retire in Thailand:** Lists a "5-year O-A extension" for retirees with at least three years on O-A, promising up to five years per extension.[^71]
+- **Thailand Retirement Visa Requirements:** Claims the five-year extension requires three years on O-A and a 3 million baht bank deposit.[^72]
+- **Retiring in Thailand:** Advertises the same five-year O-A extension as an alternative to ordinary annual renewals.[^73]
+- **Options for a 60-Year-Old Traveling Freely:** Again claims that five-year O-A extensions become available after three years, subject to a higher deposit.[^74]
+
+These statements present the supposed extension as a progression available to established O-A retirees.
+
+### Contradiction With Official Visa Categories
+
+Thailand's official retirement visa framework distinguishes:
+
+| Category | Permitted stay |
+|---|---|
+| Non-Immigrant O | Initially 90 days, with qualifying extensions |
+| Non-Immigrant O-A | One-year long-stay category |
+| Non-Immigrant O-X | Five years per period, up to ten years total |
+
+The Royal Thai Consulate-General in Los Angeles explicitly identifies O-A as a one-year category and O-X as the five-year category.[^70]
+
+O-X has separate eligibility restrictions, including a limited list of nationalities, substantial financial requirements, and mandatory insurance.
+
+**There is no general government rule allowing O-A holders to obtain five-year extensions simply because they have maintained their status for three years.**
+
+### Thai Visa Centre Contradicts Itself
+
+The most revealing evidence comes from Thai Visa Centre's own dedicated *5-Year Thai Retirement Visa* guide.
+
+That article correctly identifies the five-year category as **Non-Immigrant O-X**, explains that it differs from annual O-A extensions, and specifically warns against describing O-X as a simple five-year extension of an existing O-A visa.[^75]
+
+Yet the company's other retirement guides continue doing precisely that.
+
+The conflicting pages all claim to have been reviewed in June 2026.
+
+### Financial Consequences for Retirees
+
+This is particularly concerning because the misleading guidance links the supposed extension to a **3 million baht deposit**.
+
+A retiree following these instructions could plan major bank transfers or immigration applications around a benefit that does not exist in the advertised form.
+
+The distinction also affects nationality eligibility, health insurance, visa application procedures, and whether an applicant must continue renewing annually.
+
+**Thai Visa Centre markets professional retirement-visa expertise while repeatedly advertising an O-A extension pathway contradicted by official government rules and by its own specialist guide.**
+
+The inconsistency raises questions about the accuracy of the agency's financial planning advice and whether customers are receiving reliable explanations before committing substantial funds.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -564,3 +619,9 @@ The repetition across four separate pages raises questions about the agency's cl
 [^67]: `https://tvc.co.th/foreign-visas/schengen/schengen-visa-thailand-faqs`
 [^68]: `https://tvc.co.th/foreign-visas/schengen/how-to-apply-schengen-visa-in-thailand`
 [^69]: `https://tvc.co.th/faq/schengen-visa-from-thailand`
+[^70]: https://thaiconsulatela.thaiembassy.org/en/publicservice/non-immigrant-type-o-retirement
+[^71]: `https://tvc.co.th/guides/retire-in-thailand`
+[^72]: `https://tvc.co.th/faq/thailand-retirement-visa-requirements`
+[^73]: `https://tvc.co.th/faq/retiring-in-thailand`
+[^74]: `https://tvc.co.th/faq/options-for-a-60-year-old-traveling-freely-in-thailand`
+[^75]: `https://tvc.co.th/guides/5-year-thai-retirement-visa`
