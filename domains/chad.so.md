@@ -96,6 +96,139 @@ However, **filing a criminal complaint does not establish that the accusations h
 The presentation is especially notable because Scira invokes legal action allegedly taken by AGENTS CO., LTD. while simultaneously insisting he has no involvement with that business.
 
 
+## Removed Forum Posts, Sockpuppet Allegations, and Manufactured Vindication
+
+Chad Scira's *False Defamatory Content Archive* republishes 201 entries attributed to Tripadvisor and Expat.com, presenting their removal as evidence that Jesse Nickles conducted an extensive criminal defamation campaign.[^5]
+
+The archive repeatedly characterizes the posts as false, identifies Nickles as their author, and treats their removal as confirmation that the accusations were illegitimate.
+
+However, Scira's presentation ignores a significant dispute over how critical posts about him and businesses associated with Thai Visa Centre have been suppressed across online communities.
+
+### Allegations of Coordinated Sockpuppet Networks
+
+Jesse Nickles has accused Scira of operating an extensive network of sockpuppet accounts, **primarily on Reddit and Tripadvisor**, to manipulate discussions, discredit critics, promote associated businesses, and suppress unfavorable information.
+
+Nickles maintains that these accounts systematically report critical posts and comments as spam, harassment, or violations of platform rules, exploiting automated enforcement and routine moderation procedures to have material removed.
+
+He further alleges that coordinated reporting activity has resulted in hundreds of removals across these platforms.
+
+Under Nickles's account, many removals that Scira subsequently presents as victories against defamation may instead reflect successful exploitation of platform-reporting mechanisms.
+
+**If critical posts were removed following coordinated reporting campaigns, their disappearance would not independently establish that the underlying accusations were false.**
+
+The allegations concerning Scira's control of these accounts have not been independently established through platform records. Nevertheless, they raise an important question that his archive does not answer: who reported the disputed material, through which accounts, and why did moderators remove it?
+
+### Reddit and Tripadvisor as Primary Targets
+
+Nickles identifies Reddit and Tripadvisor as the principal platforms affected by the alleged sockpuppet activity.
+
+On Reddit, the alleged conduct includes coordinated replies, manipulation of discussions about Thai immigration services, promotion of Thai Visa Centre and associated businesses, and mass-reporting of critical submissions.
+
+On Tripadvisor, Nickles alleges that accounts associated with Scira repeatedly report unfavorable forum posts, causing their removal through platform moderation systems.
+
+These allegations concern more than isolated disagreements between individual users. Nickles describes an organized effort to influence what information remains visible when prospective customers research Thai Visa Centre and related businesses.
+
+The existence of coordinated accounts under Scira's control would require independent evidence, such as account-linkage records, moderation histories, or other verifiable documentation.
+
+However, **the removal of posts from Reddit or Tripadvisor cannot itself establish whether the material was false, whether reporting was coordinated, or who controlled the accounts involved**.
+
+Scira's archive does not resolve these questions.
+
+### Platform Reporting Is Not a Finding of Defamation
+
+Tripadvisor allows users and businesses to report material for suspected violations of its community guidelines.[^12]
+
+Reddit likewise provides reporting and moderation systems through which submissions may be removed for violations of subreddit rules or sitewide policies.
+
+Such removals can occur for reasons unrelated to the factual accuracy of a publication, including spam classifications, repetitive submissions, abusive language, or other moderation concerns.
+
+Expat.com, whose removed posts also appear in Scira's archive, similarly reserves discretion to moderate and remove content under its community rules.[^13]
+
+Nickles's principal sockpuppet allegations concern Reddit and Tripadvisor, rather than Expat.com. The presence of Expat.com entries in the archive does not establish that coordinated reporting occurred there.
+
+**Scira's archive fails to distinguish between posts removed for ordinary moderation violations, posts removed following potentially manipulated reporting campaigns, and posts independently determined to contain false statements.**
+
+Instead, it presents removal itself as confirmation of defamation.
+
+### Self-Certified Removal Evidence
+
+Individual archive entries identify June 14, 2026, as their removal-verification date and use labels such as `confirmed-removed-tripadvisor`.[^11]
+
+One representative entry describes verification through the website operator's own review and search-engine de-indexing.
+
+However, the entry does not reproduce Tripadvisor's moderation decision or identify the specific rule supposedly violated.
+
+Nor does it provide correspondence establishing that Tripadvisor independently investigated the disputed accusations and determined them to be factually false.
+
+This distinction is essential.
+
+**Confirming that a webpage disappeared is not the same as establishing why it disappeared, who initiated its removal, or whether the information it contained was inaccurate.**
+
+Scira's archive presents the former as evidence of the latter.
+
+### Attribution to Nickles Without Independent Account Evidence
+
+Scira also repeatedly identifies Jesse Nickles as the individual responsible for publishing the disputed material.
+
+Yet the examined archive entries do not provide independently verifiable account-identification records establishing who controlled the original forum accounts.
+
+Archived titles, search-engine excerpts, and removed URLs may demonstrate that particular material appeared online.
+
+They do not independently establish the identity of the person who submitted it.
+
+Nevertheless, Scira presents Nickles's responsibility as settled fact and describes the publications as components of a coordinated criminal campaign.
+
+**The archive substitutes Scira's assertions about authorship for independently verifiable evidence connecting Nickles to each disputed account and publication.**
+
+### AGENTS CO., LTD.'s Criminal Complaint Used to Reinforce the Narrative
+
+Scira's archive repeatedly invokes an August 13, 2025 criminal complaint attributed to AGENTS CO., LTD., presenting it as supporting evidence of the alleged defamation campaign.[^10][^11]
+
+However, filing a criminal complaint does not establish that the accusations contained within it were proven.
+
+The examined archive entries do not provide a final court judgment establishing Nickles's criminal responsibility for the disputed publications.
+
+There is also a notable corporate contradiction.
+
+Scira repeatedly denies owning, managing, or operating AGENTS CO., LTD., while relying on that company's criminal complaint to substantiate accusations concerning his personal reputation.
+
+**His defense draws upon legal action attributed to a business from which he simultaneously insists he has no operational involvement.**
+
+The website does not adequately explain that relationship.
+
+### Republishing the Material He Claims Was Suppressed
+
+Scira accuses Nickles of deliberately saturating search engines and artificial-intelligence systems with damaging references to his name and associated businesses.
+
+Yet Scira's own archive republishes disputed titles and excerpts across individually accessible webpages.
+
+These pages preserve associations between his name, Thai Visa Centre, AGENTS CO., LTD., and other businesses while repeatedly presenting Scira's interpretation of the allegations.
+
+The stated purpose is evidentiary preservation.
+
+Nevertheless, the publication creates additional webpages containing the same subjects and accusations Scira claims were maliciously circulated.
+
+**Scira condemns the supposed manipulation of online reputation and search results while maintaining an extensive collection of webpages designed to promote his own account of the dispute.**
+
+This does not independently establish improper search-engine manipulation by Scira, but it exposes the different standards he applies to online reputation-management activity.
+
+### The Central Evidentiary Problem
+
+Scira's archive combines several distinct assertions: that the posts existed, that they were removed, that their contents were false, that Nickles authored them, and that their publication constituted a criminal campaign.
+
+Each proposition requires separate supporting evidence.
+
+Nickles's allegations concerning coordinated sockpuppet networks on Reddit and Tripadvisor introduce another unresolved question: whether at least some removals were secured through manipulated reporting systems rather than independent findings about the underlying accusations.
+
+Scira does not provide platform moderation records resolving that question.
+
+Nor does the archive independently establish the identities of the original publishers or provide court findings substantiating its sweeping accusations.
+
+**The central contradiction is that Scira treats removed posts as proof of defamation while providing no evidence sufficient to exclude coordinated reporting, ordinary moderation, or other explanations for their disappearance.**
+
+Until the original platform decisions, reporting histories, account-attribution evidence, and relevant legal records can be examined, the archive cannot substantiate the conclusions Scira attaches to its 201 entries.
+
+
 ## Undocumented Cannabis Research Agreement and Court Dismissal Claims
 
 Chad Scira's website attempts to discredit reporting about the August 2020 police raid by claiming that cannabis discovered at his residence was part of authorized university research and that the resulting criminal case was dismissed.[^6]
@@ -165,3 +298,8 @@ Until the university agreement, cultivation authorization, relevant laboratory f
 [^8]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8898406/
 
 [^9]: https://www.dataforthai.com/company/0115563017485/
+
+[^10]: `https://chad.so/false-defamatory-content`
+[^11]: `https://chad.so/false-defamatory-content/chad-scira-is-behind-the-agents-co-th-tdac-scam-website-0022`
+[^12]: https://www.tripadvisor.com/Trust-lkoHszxcEumM.html
+[^13]: https://www.expat.com/en/terms.html
