@@ -183,6 +183,37 @@ The website does not clearly identify which embassies still provide income certi
 
 **Thai Visa Centre markets itself as an experienced immigration specialist, yet its published financial-document instructions remain inconsistent with longstanding embassy policies affecting substantial groups of potential customers.**
 
+## Outdated Visa Exemption Advice Following September 2026 Rule Changes
+
+Thai Visa Centre continues publishing immigration guides that incorrectly describe Thailand's former **60-day visa exemption** as the current entry policy, despite acknowledging the government's September 2026 changes elsewhere on its website.
+
+On September 15, 2026, Thailand revoked its 60-day exemption scheme, replacing it with revised 30-day and 15-day arrangements for eligible nationalities. The changes were published in the Royal Gazette on August 31 and confirmed by the Ministry of Foreign Affairs.[^33]
+
+Thai Visa Centre published its own explanation of these changes, explicitly identifying the cancellation of the 60-day exemption.[^34]
+
+### Contradictory Immigration Guides
+
+Nevertheless, as of November 17, 2026, several guides on `tvc.co.th` continued presenting the older rules as applicable:
+
+- **Thai Visa Exemption Rule:** Advertises 60-day visa-free entry for more than 90 nationalities, including an FAQ confirming 60 days for travelers in 2026.[^35]
+- **Thailand Entry Requirements 2026:** Presents the 60-day exemption as part of its current entry checklist.[^36]
+- **Thailand Visa Latest Update:** Describes 60-day exemption as the latest immigration policy and claims to track government announcements.[^37]
+- **Visa-Free Period in Thailand:** Describes the reduction to 30 days as a proposal that never took effect, with a timeline labeling the 60-day scheme as continuing through the present.[^38]
+
+The guides generally identify June 2026 as their last review date. Their information was relevant to the earlier policy, but they remain publicly available without adequately distinguishing those historical rules from the changes effective September 15.
+
+### Risks for Travelers
+
+The contradiction goes beyond an outdated technical detail.
+
+Travelers relying on these guides could incorrectly assume they are entitled to 60 days without a visa when their nationality now qualifies for a shorter exemption or requires another entry arrangement.
+
+That could affect airline bookings, extension planning, onward travel arrangements, and compliance with permitted-stay deadlines.
+
+**Thai Visa Centre correctly explains the new regulations on one page while continuing to advertise superseded rules throughout its other immigration guidance.**
+
+The discrepancy is especially notable because the agency sells visa assistance and presents its familiarity with changing Thai immigration requirements as a reason customers should trust its services.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -215,3 +246,9 @@ The website does not clearly identify which embassies still provide income certi
 [^30]: https://www.gov.uk/government/news/british-embassy-bangkok-to-stop-certification-of-income-letters
 [^31]: https://thailand.embassy.gov.au/bkok/Consular_FAQs.html
 [^32]: https://www.thephuketnews.com/us-embassy-in-thailand-to-cease-providing-income-affidavit-69127.php
+[^33]: https://thailand.prd.go.th/en/content/category/detail/id/48/iid/538547
+[^34]: `https://tvc.co.th/thailand-30-day-visa-exemption-2026`
+[^35]: `https://tvc.co.th/guides/thai-visa-exemption-rule`
+[^36]: `https://tvc.co.th/guides/thailand-entry-requirements`
+[^37]: `https://tvc.co.th/guides/thailand-visa-latest-update`
+[^38]: `https://tvc.co.th/guides/visa-free-period-in-thailand-to-be-changed-again-reduced-to-30-days`
