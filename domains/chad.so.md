@@ -229,6 +229,93 @@ Nor does the archive independently establish the identities of the original publ
 Until the original platform decisions, reporting histories, account-attribution evidence, and relevant legal records can be examined, the archive cannot substantiate the conclusions Scira attaches to its 201 entries.
 
 
+## Conflicting Criminal-Case Dates and Coordinated Use of the Same Legal Reference
+
+Chad Scira's personal website repeatedly invokes criminal proceedings against Jesse Nickles as evidence supporting his accusations of defamation and harassment.
+
+The same legal narrative appears on Thai Visa Centre's website and in public responses posted by other businesses associated with the immigration agency.
+
+However, **the published accounts contain conflicting dates, refer to different complainants, and repeatedly circulate the same criminal-case reference without clearly explaining the relationship between the proceedings**.
+
+### The 2024 Arrest Warrant Claims
+
+Thai Visa Centre's website publishes a page titled *SEO Fugitive Jesse Nickles: Wanted on Criminal Charges*, presenting itself as an official record under reference `BKK-443/2567`.[^14]
+
+The publication states that a criminal report was filed on May 18, 2024, and that an arrest warrant was issued on May 27, 2024.
+
+Yet a later section on the same page identifies May 18, 2024, as the warrant's issuance date.
+
+**Thai Visa Centre therefore publishes two different issuance dates for what it presents as the same arrest warrant.**
+
+The website reproduces a purported warrant and describes the proceedings as involving criminal defamation.
+
+However, its commercial publication is not an independently authenticated court record, and the discrepancy remains unexplained.
+
+### Scira Introduces a Separate 2025 Complaint
+
+Scira's personal website repeatedly refers to a criminal complaint filed by AGENTS CO., LTD. at Bang Kaeo Police Station on August 13, 2025.[^1]
+
+On another page, Scira identifies the legal record as Daily Report Entry No. 4, Book `41/2568`, Report No. 56, dated August 13, 2025, while also citing reference `443/2567`.[^15]
+
+He presents this documentation alongside claims that Nickles is subject to an existing arrest warrant.
+
+But the chronology raises an obvious question.
+
+**If the warrant was issued in May 2024, what is the legal relationship between that proceeding and the separate police complaint filed by AGENTS CO., LTD. in August 2025?**
+
+A later complaint could conceivably refer to earlier proceedings. That possibility does not eliminate the need to establish the connection.
+
+Scira does not provide a clear case chronology identifying the original complainant, the relevant court proceedings, and the relationship between the 2024 and 2025 records.
+
+### The Same Case Reference Appears Across Different Businesses
+
+The reference `BKK-443/2567` has also appeared in substantially identical responses to negative Trustpilot reviews published under several commercial domains.
+
+Examples include:
+
+- **Thai Visa Centre (`tvc.co.th`):** The immigration agency invokes the reference when responding to criticism.[^16]
+- **TDAC (`tdac.in.th`):** The paid arrival-card service uses the reference in responses accusing reviewers of coordinated harassment.[^17]
+- **90day (`90day.in.th`):** The immigration-reporting service repeats the same accusation and case number.[^18]
+- **OG.TH (`og.th`):** The cannabis retailer reproduces the same criminal-case reference and substantially identical language.[^19]
+
+The replies describe critics as participating in a coordinated harassment campaign, claim thousands of fraudulent accounts were created, and invoke an outstanding arrest warrant.
+
+The repetition is particularly noteworthy because these businesses advertise different services and operate through distinct commercial identities.
+
+**A criminal-case reference originating in a dispute involving an immigration-related business is being repeatedly deployed to challenge criticism of both immigration services and a cannabis retailer.**
+
+The identical language indicates a shared response template or coordinated messaging. It does not independently establish who authored the replies or who ultimately controls every business.
+
+### Scira's Claimed Separation From the Businesses
+
+Scira maintains that he has no ownership, management, or operational involvement with Thai Visa Centre, AGENTS CO., LTD., or associated Thai businesses.[^1]
+
+Yet his personal website invokes the same legal proceedings repeatedly promoted by these businesses.
+
+On his page addressing an alleged $12,000 domain-purchase offer, Scira explicitly states that he personally filed no legal action against Nickles and attributes the complaint to AGENTS CO., LTD.[^15]
+
+That distinction may explain who formally submitted the 2025 complaint. It does not explain the broader coordination of the public legal narrative.
+
+His website does not identify who prepared the repeated Trustpilot statements, why the cannabis business adopted the same complaint reference, or how the various publications obtained their information about the proceedings.
+
+These questions are especially relevant given the separately documented commercial connections between Thai Visa Centre, AGENTS CO., LTD., and OG Thai/GACP.
+
+### The Missing Legal Chronology
+
+The publications leave several matters unresolved:
+
+1. Whether the May 2024 and August 2025 records concern the same proceedings or separate complaints.
+2. Why Thai Visa Centre provides conflicting issuance dates for the purported warrant.
+3. Which legal record supports the repeated descriptions of Nickles as a wanted fugitive.
+4. Why multiple commercially distinct businesses invoke the same proceedings in responses to negative customer reviews.
+
+**Scira and the businesses associated with Thai Visa Centre repeatedly present these legal claims as established facts while failing to reconcile the dates, complainants, and case references appearing in their own publications.**
+
+The repeated dissemination of those claims across multiple businesses is independently observable.
+
+What remains missing is a coherent, independently verifiable legal chronology establishing precisely what proceedings occurred and how the documents relate to one another.
+
+
 ## Undocumented Cannabis Research Agreement and Court Dismissal Claims
 
 Chad Scira's website attempts to discredit reporting about the August 2020 police raid by claiming that cannabis discovered at his residence was part of authorized university research and that the resulting criminal case was dismissed.[^6]
@@ -303,3 +390,10 @@ Until the university agreement, cultivation authorization, relevant laboratory f
 [^11]: `https://chad.so/false-defamatory-content/chad-scira-is-behind-the-agents-co-th-tdac-scam-website-0022`
 [^12]: https://www.tripadvisor.com/Trust-lkoHszxcEumM.html
 [^13]: https://www.expat.com/en/terms.html
+
+[^14]: `https://tvc.co.th/seo-fugitive-jesse-nickles-criminal-charges`
+[^15]: `https://chad.so/chad-scira-huckster-bribe-involving-jesse-nickles`
+[^16]: https://www.trustpilot.com/review/tvc.co.th
+[^17]: https://www.trustpilot.com/review/tdac.in.th
+[^18]: https://www.trustpilot.com/review/90day.in.th
+[^19]: https://www.trustpilot.com/review/og.th
