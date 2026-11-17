@@ -345,6 +345,59 @@ Nevertheless, **without a disclosed operator, the directory's claimed independen
 
 Its legal ownership, corporate registration, data-controller identity, and commercial relationships should be established before its rankings and awards are treated as credible independent assessments.
 
+## Conflicting Review Totals and Unverifiable UserScore Calculations
+
+Thai Visa Reviews markets its UserScore system as an independent assessment of customer satisfaction based on reviews aggregated from Google, Facebook, and Trustpilot.
+
+However, several agency profiles publish inconsistent review totals without explaining how the figures relate to one another.
+
+### Different Review Counts on the Same Pages
+
+Four examples illustrate the discrepancy:
+
+| Agency | Reviews analyzed | Reviews section | Difference |
+|---|---:|---:|---:|
+| Thai Visa Centre | 2,704 | 2,350 | 354 |
+| TMT Thailand | 385 | 340 | 45 |
+| TVS Visa Services Pattaya | 299 | 276 | 23 |
+| Thai Visa Expert | 210 | 201 | 9 |
+
+These figures appear on the respective agency profiles.[^2][^19][^20][^21]
+
+The individual positive, neutral, and negative review counts generally add up to the larger *reviews analyzed* figures, not the smaller totals displayed above the review sections.
+
+Yet each of these pages displays only **20 individual reviews**, with no additional reviews available through the visible listing.
+
+### No Explanation of the Missing Reviews
+
+The directory does not explain whether its different totals represent excluded submissions, unpublished reviews, historical records, or distinct data collections.
+
+Nor does it provide enough individual review records for visitors to independently reproduce its calculations.
+
+**Thai Visa Centre receives a 98% UserScore based on 2,704 supposedly analyzed reviews, but its review section identifies only 2,350 reviews and makes just 20 available for inspection.**
+
+The discrepancy does not prove that reviews were fabricated. It demonstrates that the published information is insufficient to verify the advertised calculation.
+
+### Outdated Evaluation Date
+
+Thai Visa Centre's profile introduces another inconsistency.
+
+Its agency evaluation assigns scores for expertise, online presence, response speed, and transparency, followed by an update date of **December 12, 2025**.[^2]
+
+However, the same profile prominently advertises the agency's June 2026 award and incorporates customer reviews from later in 2026.
+
+The page does not explain whether its evaluation scores were reassessed after December 2025 or how newer information affects those assessments.
+
+### Reliability of the Rankings
+
+These discrepancies matter because the directory uses its numerical scores to identify exceptional agencies and recommend businesses to prospective immigration customers.
+
+**A platform claiming to independently analyze thousands of customer experiences should explain its sample sizes, exclusions, scoring calculations, and evaluation dates.**
+
+Instead, Thai Visa Reviews publishes unexplained differences in review totals, offers only a small fraction of the underlying records for inspection, and displays favorable evaluation scores without a clear update history.
+
+Combined with its previously documented incorrect corporate information and unsupported accreditation badges, these findings raise further questions about the reliability of its supposedly independent verification process.
+
 ## References
 
 [^1]: `https://thaivisareviews.com/`
@@ -365,3 +418,6 @@ Its legal ownership, corporate registration, data-controller identity, and comme
 [^16]: `https://thaivisareviews.com/privacy`
 [^17]: `https://thaivisareviews.com/contact`
 [^18]: https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng/
+[^19]: `https://thaivisareviews.com/agency/tmt-thailand`
+[^20]: `https://thaivisareviews.com/agency/tvs-visa-services-pattaya`
+[^21]: `https://thaivisareviews.com/agency/thai-visa-expert`
