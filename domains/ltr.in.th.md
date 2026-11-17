@@ -24,6 +24,40 @@ Thailand's BOI allows eligible applicants to submit LTR applications directly th
 
 The arrangement warrants further scrutiny of **advertising transparency, corporate relationships, review authenticity, and the distinction between official accreditation and commercially promoted reputation**.
 
+## Altered Google Review Presented as LTR Visa Endorsement
+
+The promotional website `ltr.in.th` displays a five-star Google testimonial attributed to **Luca G.**, stating that the customer used Thai Visa Centre for an **LTR Visa**.[^6]
+
+However, the same customer's testimonial appears on the affiliated `dtv.in.th` website with the visa type changed to **DTV Visa**.[^7]
+
+Both websites link to the same Google Maps review location.
+
+### Thai Visa Centre's Own Review Confirms DTV
+
+Thai Visa Centre's official review archive identifies the reviewer as Luca G., dates the review to **September 25, 2024**, and reproduces the full testimonial.[^8]
+
+The original testimonial displayed there explicitly concerns a **DTV visa**, which the customer says was obtained in approximately one week.
+
+It contains no reference to an LTR visa.
+
+This establishes that `ltr.in.th` presents a visa-specific endorsement that conflicts with the same review as reproduced by Thai Visa Centre itself.
+
+**A customer testimonial about obtaining a DTV visa has been repurposed to imply that the customer obtained an LTR visa.**
+
+### Misleading Evidence of Specialist Experience
+
+The distinction is significant because DTV and LTR visas are different immigration programs, with different qualification requirements and government processing procedures.
+
+A successful DTV application provides no evidence that the same agency successfully processed an LTR application.
+
+The altered testimonial appears prominently beside the website's **"Trusted LTR Visa Agent"** promotion and claims that Thai Visa Centre is Thailand's leading visa agency.
+
+This directly reinforces the site's existing comparisons favoring Thai Visa Centre over officially BOI-certified LTR service providers.
+
+**The issue is not whether Luca G. genuinely reviewed Thai Visa Centre. The documented problem is that the review's subject was changed when used to advertise a different immigration service.**
+
+Such editing misrepresents the customer's reported experience and undermines the reliability of the site's visa-specific testimonials.
+
 ## References
 
 [^1]: `https://ltr.in.th/`
@@ -31,3 +65,6 @@ The arrangement warrants further scrutiny of **advertising transparency, corpora
 [^3]: `https://ltr.in.th/policy/terms-and-conditions`
 [^4]: https://ltr.boi.go.th/page/ca.html
 [^5]: https://ltr.boi.go.th/page/faq.html
+[^6]: `https://ltr.in.th/`
+[^7]: `https://dtv.in.th/`
+[^8]: `https://tvc.co.th/reviews/review/fcfea34b-8468-48a1-a543-0f4d959b7d17`
