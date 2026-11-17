@@ -294,6 +294,57 @@ Those discrepancies have not prevented the directory from awarding TVC prominent
 
 The inconsistency raises further questions about the meaning of its certifications, the accountability behind its rankings, and the reliability of the assurances presented to consumers.
 
+## Undisclosed Ownership and Data Controller Identity
+
+Thai Visa Reviews claims that verifying company registrations and legal credentials is a central part of its independent agency-rating system.[^1]
+
+However, the directory does not apply comparable transparency to itself.
+
+Its published Terms of Service, Privacy Policy, and Contact page identify the business only as **Thai Visa Reviews**, without providing:
+
+- The registered company or individual's legal identity.
+- A company registration number.
+- The jurisdiction in which the operator is established.
+- An identifiable business office or responsible legal representative.
+
+The website supplies several email addresses but no information allowing visitors to verify the business entity behind its supposedly independent evaluations.[^8][^16][^17]
+
+### Collecting Personal Information Without Identifying the Operator
+
+The Privacy Policy states that the platform collects names, email addresses, submitted reviews, contact messages, IP addresses, and browsing information.
+
+It also processes customer reviews obtained from Google, Facebook, and Trustpilot.[^16]
+
+The policy repeatedly claims compliance with the European Union's General Data Protection Regulation (GDPR).
+
+However, **it never identifies the legal person or registered company responsible for processing that information**.
+
+Article 13 of the GDPR requires organizations subject to its provisions to disclose the identity and contact details of the data controller.[^18]
+
+A generic platform name and email address do not adequately explain which legal entity assumes responsibility for customer information.
+
+The omission does not independently establish a GDPR violation, but it directly undermines the website's claims of transparent and accountable data handling.
+
+### Unclear Legal Accountability
+
+The directory's Terms also require disputes to undergo binding arbitration under unspecified international arbitration rules.[^8]
+
+They do not identify the contracting legal entity, governing jurisdiction, arbitration institution, or location where disputes would be resolved.
+
+This makes it difficult for reviewers, businesses, and consumers to determine who is legally responsible for inaccurate information, disputed reviews, or the website's own published credentials.
+
+### The Verification Double Standard
+
+**Thai Visa Reviews claims authority to investigate other businesses' legal identities while withholding the equivalent information about its own operation.**
+
+That contradiction is especially significant given its incorrect corporate registration for Thai Visa Centre, unsupported government accreditation badges, and promotional awards based on unsubstantiated credentials.
+
+The available evidence does not establish that Thai Visa Centre owns or controls the directory.
+
+Nevertheless, **without a disclosed operator, the directory's claimed independence cannot be meaningfully verified**.
+
+Its legal ownership, corporate registration, data-controller identity, and commercial relationships should be established before its rankings and awards are treated as credible independent assessments.
+
 ## References
 
 [^1]: `https://thaivisareviews.com/`
@@ -311,3 +362,6 @@ The inconsistency raises further questions about the meaning of its certificatio
 [^13]: `https://thaivisareviews.com/agency/tvs-visa-services-pattaya`
 [^14]: `https://thaivisareviews.com/awards/agency-of-the-month/thai-visa-expert-2026-09`
 [^15]: `https://thaivisareviews.com/agency/thai-visa-expert`
+[^16]: `https://thaivisareviews.com/privacy`
+[^17]: `https://thaivisareviews.com/contact`
+[^18]: https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng/
