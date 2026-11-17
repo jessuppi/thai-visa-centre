@@ -56,6 +56,20 @@ These assurances contrast with documented complaints dating back to 2018. An uns
 
 The combination of a substantial cross-platform mailing list, acknowledged relationships with other agencies, and repeated complaints about unsolicited marketing raises serious questions about **how customer contact information was acquired, whether meaningful consent was obtained, and how information collected through one service was subsequently used to promote another**.[^6][^12][^14][^26]
 
+### Conflicting Subscriber Privacy Promises
+
+Thai Visa Centre's email-list policy states that its subscriber addresses are obtained exclusively through opt-in and are never sold, rented, or shared with anyone else. It specifically identifies affiliated websites such as `dtv.in.th`, `ltr.in.th`, `tdac.in.th`, and `eta.in.th` as sources of email subscriptions.[^26]
+
+However, the Privacy Policy of AGENTS CO., LTD., which Thai Visa Centre identifies as its digital operations company, permits collecting personal information from **public databases and joint marketing partners**.[^34]
+
+More importantly, AGENTS explicitly reserves the right to share customer information with sister companies under common ownership or control for marketing purposes. Its policy also authorizes using personal information to promote products and services belonging to those affiliated businesses.[^34]
+
+**These disclosures contradict the broad impression created by Thai Visa Centre's assurance that subscriber information is never shared across its business network.**
+
+Neither company explains how email addresses collected through affiliated immigration websites are separated from information available for cross-company marketing, or whether subscribers must provide separate consent before receiving promotions for unrelated services.
+
+This does not establish that a particular mailing-list address was transferred without consent. It establishes that **the agency's categorical privacy promises are not clearly reconciled with the much broader permissions published by its affiliated operator**.
+
 ## February 2023 Immigration Contact and Visa Scrutiny
 
 The February 2023 discussion began with a traveler reporting that Thai Visa Centre had recommended its **2,000-baht "VIP Airport Service."** The traveler questioned whether special airport assistance was necessary after obtaining visas through the agency and expressed concerns about whether their immigration stamps would withstand ordinary inspection. Several commenters described preferential airport processing, including one account claiming that an immigration officer personally escorted a traveler through immigration.[^10]
