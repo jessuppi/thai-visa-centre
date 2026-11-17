@@ -18,9 +18,83 @@ WEED.TH's published Data Protection Policy describes its business activities as 
 
 This apparent copied-policy language raises questions about the care taken in preparing its privacy disclosures, particularly given the medical information and identification documents collected through its consultation services.
 
+## Shared Legal Templates and Questionable Customer Protections
+
+WEED.TH Co., Ltd. and Thai Visa Centre publish substantially identical contractual language despite operating in different industries and presenting themselves under separate commercial identities.
+
+The similarities extend beyond standard privacy assurances to unusually restrictive liability provisions, third-party disclaimers, and descriptions of business activities unrelated to the services being advertised.
+
+### Identical US$1 Liability Limitations
+
+WEED.TH's published Terms & Conditions attempt to limit the company's aggregate liability to the greater of US$1 or the amount a customer paid during the preceding month.[^5]
+
+Thai Visa Centre's Terms & Conditions contain substantially identical language, substituting the Thai Visa Centre name for WEED.TH Co., Ltd.[^6]
+
+Both documents also attempt to exclude numerous categories of consequential damages, restrict responsibility for third-party services, and require customers to waive certain claims.
+
+**The same restrictive contractual provisions appear across a cannabis medical-services platform and an immigration agency that handles sensitive identity documents and potentially substantial customer payments.**
+
+For customers whose payments occurred more than one month before a dispute, the contractual formula could reduce the operator's claimed liability to US$1.
+
+Whether those limitations would be enforceable under Thai law is a separate question.
+
+Nevertheless, the provisions demonstrate how both businesses attempt to restrict their financial exposure through nearly identical contractual language.
+
+### Data Protection Policies Reproduce the Same Business Description
+
+The similarities also extend to the companies' data-protection policies.
+
+Thai Visa Centre describes its corporate activities as centered on travel and accommodation.[^7]
+
+WEED.TH's Data Protection Policy reproduces that same business description, despite the company's principal advertised services involving cannabis dispensaries, medical consultations, prescriptions, and patient membership cards.[^4]
+
+The two policies also contain closely matching descriptions of internal data-protection systems, third-party processing arrangements, and organizational responsibilities.
+
+**WEED.TH has adopted legal language describing an entirely different industry while assuring customers that its data-protection procedures are tailored to its business activities.**
+
+The apparent reuse raises questions about whether its medical-data disclosures received meaningful scrutiny specific to the information collected from cannabis patients.
+
+### Patient Privacy Assurances Versus Broader Data-Sharing Terms
+
+WEED.TH's medical-card website assures applicants that only licensed Thai Traditional Medicine doctors have access to sensitive personal and medical information.
+
+It also states that patient information is used only for legitimate prescription purposes.[^8]
+
+However, its published Privacy Policy permits the sharing of personal information with affiliates, joint-venture partners, contracted companies, and service providers when necessary for the services requested.[^9]
+
+The policy also identifies product updates, customer feedback, testimonials, and service improvement among the purposes for which personal information may be processed.
+
+These provisions do not establish that medical records are actually shared for marketing or accessed by unauthorized employees.
+
+**They do, however, leave an important distinction unexplained: which categories of patient information are restricted exclusively to medical practitioners, and which may be accessible to commercial partners or service providers?**
+
+The company does not clearly reconcile its prominent doctor-only confidentiality assurance with the broader categories of information processing permitted by its privacy documentation.
+
+### Evidence of Shared Documentation, Not Proof of Common Ownership
+
+Nearly identical contractual language can result from businesses independently adopting the same commercial legal template.
+
+The document similarities therefore do not independently prove common ownership, management, or legal authorship.
+
+However, these companies are not otherwise unrelated.
+
+Thai Visa Centre's official website directly promotes WEED.TH, OG.TH, and their associated cannabis services. The broader investigation also documents commercial connections involving OG Thai/GACP and the August 2020 police raid.
+
+The duplicated policies add another observable connection to that record.
+
+**The two businesses use substantially the same contractual framework to limit liability and describe data protection, while offering services that expose customers to very different financial, immigration, and medical risks.**
+
+The important unresolved questions concern who prepared these documents, whether the businesses share legal or administrative services, and whether their published privacy assurances accurately describe their actual handling of customer information.
+
 ## References
 
 [^1]: https://www.dataforthai.com/company/0115566005267/
 [^2]: `https://weed.th/`
 [^3]: `https://card.weed.th/how-it-works`
 [^4]: `https://card.weed.th/policy/data-protection`
+
+[^5]: `https://card.weed.th/policy/terms-and-conditions`
+[^6]: `https://tvc.co.th/policy/terms-and-conditions`
+[^7]: `https://tvc.co.th/policy/data-protection`
+[^8]: `https://card.weed.th/`
+[^9]: `https://card.weed.th/policy/privacy`
