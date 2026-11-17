@@ -550,6 +550,132 @@ The distinction also affects nationality eligibility, health insurance, visa app
 
 The inconsistency raises questions about the accuracy of the agency's financial planning advice and whether customers are receiving reliable explanations before committing substantial funds.
 
+## DTV Application Guides Contradict the Agency's Own August 2026 Rule Announcement
+
+Thai Visa Centre publicly acknowledged major changes to Thailand's Destination Thailand Visa (DTV) application requirements effective **August 31, 2026**.
+
+However, several of its other immigration guides continue providing instructions based on the superseded requirements, including advice concerning applications from neighboring countries and documentation that no longer satisfies the revised rules.
+
+**The contradiction is particularly serious because the agency published a correct explanation of the changes while continuing to promote inconsistent application instructions elsewhere on its own website.**
+
+### Thai Visa Centre Acknowledged the New Restrictions
+
+In its article *DTV Application Changes From 31 August*, Thai Visa Centre correctly identifies two important changes:
+
+- New DTV applications must be submitted in the applicant's country of citizenship or permanent residence.
+- Applicants must provide a police clearance certificate.
+
+The article explicitly warns that applications submitted while visiting a third country are generally refused, including applications at nearby embassies used by foreigners living in Thailand.[^76]
+
+These restrictions are independently confirmed by announcements from Thailand's Ministry of Foreign Affairs and overseas diplomatic missions.
+
+The Royal Thai Embassy in Moscow confirms that the previous requirement to document an applicant's current location was replaced with proof of permanent residence. It also confirms that criminal-record clearance became mandatory from August 31, 2026.[^80]
+
+The Royal Thai Embassy in Vientiane provides an especially clear example: DTV applicants applying there must be Lao nationals or permanent residents of Laos.[^81]
+
+**Thai Visa Centre therefore had direct knowledge of the new requirements and published them for its customers.**
+
+### Its Main DTV Sales Page Still Lists Superseded Documents
+
+Despite that announcement, Thai Visa Centre's primary DTV service page continues listing a **"Document indicating current location"** as a required document for workcation, Thai soft-power, and dependent applications.[^77]
+
+That was the earlier requirement expressly replaced by the August 2026 changes.
+
+The same page provides extensive additional-document checklists without identifying the new mandatory police clearance certificate.
+
+Instead, it lists requirements including:
+
+- Six months of salary or income evidence.
+- Employment contracts authenticated by embassies.
+- Company-registration documents authenticated by embassies.
+- Six months of residence in Thailand for dependent applicants.
+
+Some embassies may request additional documentation depending on the application category and jurisdiction.
+
+However, these additional requirements do not substitute for the two revised requirements introduced nationally in August 2026.
+
+**The agency's primary commercial DTV page still instructs customers to prepare superseded location evidence while omitting a newly mandatory criminal-record document.**
+
+### Its Step-by-Step Guide Encourages Applications From Third Countries
+
+The contradiction extends to Thai Visa Centre's guide *How to Get a Destination Thailand Visa*.[^78]
+
+Its document checklist recommends proof that the applicant is outside Thailand, including an entry stamp from another country.
+
+The guide also tells people currently in Thailand that they must leave and apply from another country.
+
+Later, it specifically identifies Vientiane, Phnom Penh, Ho Chi Minh City, and Kuala Lumpur as nearby application locations, explaining that its team advises customers on embassy selection.
+
+But simply traveling to a neighboring country no longer establishes eligibility to apply there.
+
+The Royal Thai Embassy in Vientiane expressly requires DTV applicants to be Lao nationals or permanent residents of Laos under the rules effective August 31, 2026.[^81]
+
+**An entry stamp proving that an applicant has temporarily entered Laos is not evidence of permanent residence in Laos.**
+
+Thai Visa Centre's general recommendation to apply from another country therefore omits a decisive limitation that the agency itself acknowledges elsewhere.
+
+The distinction matters because applicants following the earlier border-run approach could incur travel expenses, visa fees, and document-preparation costs for applications they are not eligible to submit.
+
+### The Claimed 2026 Requirements Guide Also Omits the Change
+
+Thai Visa Centre publishes another article titled *DTV Visa Thailand 2026: Official Specs, Documents, Financial Proof, and Refusal Risks*.[^79]
+
+The introduction describes that article as the agency's requirements reference for 2026.
+
+Yet its document checklist treats proof of legal residence as something required only **"where required"**, rather than explaining the revised permanent-residence requirement.
+
+It also omits the mandatory criminal-record clearance certificate from its general applicant checklist.
+
+These omissions are especially conspicuous because the article presents itself as authoritative guidance about application requirements and reasons for refusal.
+
+**Thai Visa Centre's supposedly comprehensive 2026 requirements reference does not consistently reflect the changes its own separate announcement correctly describes.**
+
+### Confusing Alternative Visa Categories With Mandatory Conditions
+
+The agency's main DTV sales page contains another significant eligibility problem.
+
+Under its general eligibility criteria, the page states that applicants must have proof of employment or freelance work and must participate in Thai soft-power activities.[^77]
+
+However, these are different qualifying pathways.
+
+Thailand's official DTV framework distinguishes between:
+
+1. Workcation applicants, including remote workers and freelancers.
+2. Participants in qualifying Thai soft-power activities, including cultural training and medical treatment.
+3. Eligible spouses and dependent children of DTV holders.
+
+The Royal Thai Embassy in Helsinki identifies these categories separately, with different supporting documents applicable to each.[^82]
+
+**A digital nomad does not have to enroll in a Muay Thai or cooking course merely to qualify through the workcation category. Likewise, a medical-treatment applicant does not have to establish foreign employment solely to qualify through the soft-power category.**
+
+Presenting both conditions as generally mandatory misstates the structure of the visa.
+
+### Contradictions Across the Same Commercial Website
+
+The most revealing feature of these inconsistencies is that Thai Visa Centre does not need to rely on outside commentators to identify the correct rules.
+
+Its own August 2026 announcement already explains them.
+
+Yet visitors encountering its commercial application pages and detailed guides receive materially different information.
+
+The contradictions concern:
+
+- Where applicants are permitted to submit DTV applications.
+- Whether temporary presence in another country is sufficient.
+- Which identity and residence documents are mandatory.
+- Whether criminal-record clearance is required.
+- Whether separate qualifying visa categories impose cumulative requirements.
+
+The available publications do not establish that Thai Visa Centre submitted applications contrary to the new rules or that particular customers suffered financial losses.
+
+**They do establish that the agency promotes professional DTV application assistance while publishing inconsistent instructions about fundamental eligibility and documentary requirements.**
+
+This is not an obscure technical distinction. Applying in the wrong country or omitting mandatory supporting documents can directly affect whether an application is accepted.
+
+The continued publication of contradictory guidance also raises questions about the agency's editorial controls, especially because its other articles claim to provide current immigration expertise.
+
+**Thai Visa Centre correctly warned customers about the new DTV restrictions, then left commercial guidance online that could direct those same customers toward the very application mistakes it had identified.**
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -625,3 +751,11 @@ The inconsistency raises questions about the accuracy of the agency's financial 
 [^73]: `https://tvc.co.th/faq/retiring-in-thailand`
 [^74]: `https://tvc.co.th/faq/options-for-a-60-year-old-traveling-freely-in-thailand`
 [^75]: `https://tvc.co.th/guides/5-year-thai-retirement-visa`
+
+[^76]: `https://tvc.co.th/dtv-changes-august-31`
+[^77]: `https://tvc.co.th/visas/thailand-destination-visa-dtv`
+[^78]: `https://tvc.co.th/guides/how-to-get-a-destination-thailand-visa`
+[^79]: `https://tvc.co.th/guides/dtv-visa-thailand`
+[^80]: https://moscow.thaiembassy.org/en/publicservice/adjustment-to-supporting-documents-for-destination-thailand-visa-dtv-a?cate=5d843b6a15e39c1abc00515b
+[^81]: https://vientiane.thaiembassy.org/en/publicservice/applying-for-a-visa
+[^82]: https://helsinki.thaiembassy.org/en/publicservice/destination-thailand-visa-dtv
