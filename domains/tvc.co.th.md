@@ -339,6 +339,45 @@ This discrepancy raises a more fundamental credibility issue than the agency's p
 
 The identical listings also warrant scrutiny of whether Thai Visa Centre has copied additional material concerning legal services, professional qualifications, or commercial credentials from Siam Legal.
 
+### Customer Contact Pages Direct Visitors Toward Nana BTS
+
+The misleading office information extends beyond Thai Visa Centre's four-branch guide.
+
+Several pages specifically intended to help prospective customers contact or visit the agency identify its Bangkok office as being near **Nana BTS on Sukhumvit**.
+
+Examples include:
+
+- **Contact Thai Visa Centre:** Identifies Nana BTS as the office location and recommends scheduling in-person consultations there. Its FAQ repeats the location.[^61]
+- **Company Profile:** Lists the Bangkok office as near Nana BTS in its contact information.[^62]
+- **Contact an Immigration Specialist:** Gives the same location for appointments and document handovers.[^63]
+- **Contact a Thai Family Lawyer:** Repeats the Nana BTS location for consultations involving marriage, divorce, and related immigration matters.[^64]
+
+These pages identify **June 2026** as their review date.
+
+### The Same Area as Siam Legal
+
+Siam Legal International independently identifies its Bangkok headquarters as being beside Nana BTS.[^49]
+
+Thai Visa Centre's separate four-office guide goes further by advertising Siam Legal's exact Bangkok office premises as its own head office.[^48]
+
+However, **Thai Visa Centre's homepage identifies its actual customer-facing office as The Pretium Bangna in Samut Prakan**, a different part of the metropolitan area.[^51]
+
+The contact pages neither explain this discrepancy nor identify a separately operated TVC office near Nana BTS.
+
+### Misleading Customers Seeking Appointments
+
+This distinction matters because these are not abstract descriptions of the company's regional coverage.
+
+The pages explicitly encourage prospective customers to schedule consultations, visit the office, and bring passports, visa documents, and other sensitive records.
+
+**TVC is directing prospective customers toward an area associated with Siam Legal's office while identifying a different location as its actual premises.**
+
+Taken together, the office directory and customer-contact pages indicate a repeated pattern of inaccurate business-location claims, not merely an isolated address error.
+
+The published information does not establish that TVC operates a separate office near Nana BTS or has authorization to receive customers at Siam Legal's premises.
+
+The agency's failure to reconcile these conflicting locations raises serious questions about the accuracy of its advertised physical presence and the reliability of its instructions to customers.
+
 ## Unsubstantiated Thailand Privilege Agent Accreditation
 
 Thai Visa Centre repeatedly claims to be an officially authorized agent for Thailand Privilege, the government-operated long-term residency membership program.
@@ -483,3 +522,7 @@ The agency's own website confirms that its private service is not affiliated wit
 [^58]: `https://tvc.co.th/tdac-thailand-digital-arrival-card`
 [^59]: `https://tdac.agents.co.th/scam`
 [^60]: `https://tvc.co.th/scam`
+[^61]: `https://tvc.co.th/guides/contact-us`
+[^62]: `https://tvc.co.th/guides/company-profile-thailand-legal-profile`
+[^63]: `https://tvc.co.th/guides/contact-an-immigration-specialist`
+[^64]: `https://tvc.co.th/guides/contact-a-thai-family-lawyer`
