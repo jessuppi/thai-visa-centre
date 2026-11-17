@@ -252,6 +252,48 @@ Nevertheless, the arrangement raises questions about whether the directory meani
 
 **A review platform cannot reliably assess customer trust without examining how businesses respond when customers criticize them.**
 
+## Denying Agency Endorsements While Publishing Official-Looking Awards
+
+Thai Visa Reviews claims to operate as an independent review aggregation platform rather than an agency endorsement service.
+
+Its Terms of Service explicitly state that the platform does not provide official recommendations or endorsements. Under its review-accuracy disclosures, it goes further, stating that it does not endorse any specific agency or service.[^8]
+
+However, the directory's actual publications directly contradict that position.
+
+### Certifying and Recommending Specific Agencies
+
+The June 2026 award page formally certifies Thai Visa Centre as its **Agency of the Month**.[^9]
+
+The publication does considerably more than summarize third-party customer reviews.
+
+It selects TVC as an outstanding provider, praises its professional capabilities, and explains why the directory considers the business deserving of recognition.
+
+The corresponding agency profile displays a **98% UserScore**, labels TVC an **"Exceptional Choice"**, and assigns favorable scores for expertise, online presence, response speed, and transparency.[^2]
+
+These are explicit editorial judgments about the quality and credibility of a particular commercial service.
+
+**Thai Visa Reviews claims it does not endorse individual agencies while publishing its own certifications, recommendations, and promotional awards for those same businesses.**
+
+### Contradictory Consumer Disclosures
+
+The distinction matters because the website encourages travelers to rely on its rankings when choosing immigration service providers.
+
+Its marketing emphasizes independent analysis, verified businesses, and reliable customer feedback.
+
+Yet its contractual disclosures tell visitors that the platform provides no endorsements and that they must independently verify the accuracy of the information presented.
+
+The site does not explain how a formal award certifying a business as an outstanding provider differs from the agency endorsements it expressly disclaims.
+
+### Relevance to Thai Visa Centre
+
+The contradiction is particularly significant for Thai Visa Centre because its award accompanies the incorrect company registration and unsupported government-accreditation badges documented above.
+
+Those discrepancies have not prevented the directory from awarding TVC prominent recognition or presenting its services as an exceptional consumer choice.
+
+**The directory cannot credibly present its awards as authoritative evaluations while simultaneously denying that it endorses the businesses receiving them.**
+
+The inconsistency raises further questions about the meaning of its certifications, the accountability behind its rankings, and the reliability of the assurances presented to consumers.
+
 ## References
 
 [^1]: `https://thaivisareviews.com/`
