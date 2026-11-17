@@ -196,6 +196,62 @@ Yet its published evidence does not consistently support the qualifications it c
 
 This repeated discrepancy raises questions about whether the accreditation requirements are actually enforced or simply displayed as promotional criteria to make privately issued awards appear more authoritative.
 
+## Republishing Criminal Allegations Against Negative Reviewers
+
+Thai Visa Reviews reproduces Thai Visa Centre's responses to negative Trustpilot reviews, including accusations of coordinated harassment and claims involving a disputed criminal case.
+
+The agency's profile includes two particularly revealing examples.[^2]
+
+### Negative Reviews Met With Criminal Accusations
+
+A reviewer identified as **Denis** complained about receiving unsolicited emails from someone named Grace.
+
+Another reviewer, **Paul E.**, criticized Thai Visa Centre's responses to negative feedback, describing the agency's treatment of complaining customers as threatening.
+
+Both reviews received substantially identical responses attributed to Thai Visa Centre.
+
+Rather than addressing either complaint individually, the agency accused negative reviewers of participating in a coordinated harassment campaign.
+
+Its responses cited criminal-case reference **BKK-443/2567**, claimed that the person responsible was subject to an arrest warrant, and asserted that thousands of fraudulent accounts had been created to attack the company.[^2]
+
+Neither response provides evidence connecting the individual reviewer to the purported campaign.
+
+### Repeating the Disputed Arrest-Warrant Narrative
+
+The case reference matches the criminal allegations separately promoted through TVC's own website and other publications associated with its business network.
+
+Those allegations are examined in the [tvc.co.th investigation](tvc.co.th.md), including discrepancies concerning the reported warrant's dates and the absence of independently verifiable court documentation.
+
+**Thai Visa Centre is using ordinary customer-review responses to circulate the same criminal accusations it publishes in its reputation-defense material.**
+
+The responses do not distinguish between a genuine customer complaint, a malicious review, and an individual allegedly responsible for a broader harassment campaign.
+
+Instead, both reviewers receive the same narrative about fraudulent accounts and criminal proceedings.
+
+### Role of the Supposedly Independent Directory
+
+Thai Visa Reviews describes itself as an independent review-analysis platform that helps consumers identify reliable immigration agencies.[^1]
+
+Its Terms disclaim verification of individual reviewer identities and experiences, while its promotional material emphasizes detecting suspicious reviews.[^8]
+
+Yet the directory republishes TVC's criminal allegations without accompanying evidence substantiating the asserted warrant or establishing that the affected reviewers participated in coordinated abuse.
+
+The directory labels the statements as agency responses, so their publication does not establish that its operator endorses the allegations.
+
+However, **the republication extends the reach of TVC's disputed criminal narrative into another website presented as an independent consumer-review resource**.
+
+### Implications for Review Independence
+
+The problem is not that visa agencies are prohibited from responding to criticism.
+
+It is that Thai Visa Centre repeatedly substitutes accusations of criminal harassment for substantive replies to consumer complaints, while an ostensibly independent review platform reproduces those accusations alongside favorable credibility scores and promotional awards.
+
+The available evidence does not establish coordination between the directory operator and TVC.
+
+Nevertheless, the arrangement raises questions about whether the directory meaningfully evaluates intimidating or unsupported business responses when assessing agencies' transparency, reputation, and treatment of customers.
+
+**A review platform cannot reliably assess customer trust without examining how businesses respond when customers criticize them.**
+
 ## References
 
 [^1]: `https://thaivisareviews.com/`
