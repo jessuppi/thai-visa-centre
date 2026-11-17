@@ -83,6 +83,66 @@ Nevertheless, the combination of incorrect company details, unsupported accredit
 
 Its ownership, commercial relationships, badge-assignment procedures, and handling of incorrect agency information warrant further investigation.
 
+## June 2026 Award Contradicts Published Qualification Requirements
+
+Thai Visa Reviews awarded [Thai Visa Centre](../brands/thai-visa-centre.md) its **Agency of the Month for June 2026**, presenting the agency as an independently evaluated industry leader.[^9]
+
+The award features a 98% UserScore, thousands of customer reviews, and a lengthy endorsement of TVC's operations, customer service, and processing times.
+
+However, the award's own qualification requirements expose a serious problem.
+
+### Mandatory Government Accreditations
+
+Thai Visa Reviews explicitly states that every Agency of the Month winner satisfies its editorial standards, including:
+
+- Registration as a Thai company.
+- Minimum registered capital of 2 million baht.
+- At least five years in business.
+- Thailand Privilege authorization.
+- LTR certification.
+- At least 100 verified reviews.
+- No legal complaints on record.[^9]
+
+**The directory awarded TVC this distinction despite providing no evidence that it satisfies two of its mandatory government-accreditation requirements.**
+
+Thailand's Board of Investment does not list Thai Visa Centre or TVC. Visa Agent Co., Ltd. among its published LTR-certified agencies.[^5]
+
+Thailand Privilege's 2025 corporate-agent list likewise does not identify either business, although it explicitly identifies Siam Legal and other authorized operators.[^6]
+
+The possibility of a later appointment does not explain why the award provides no accreditation numbers, appointment documents, or government verification links.
+
+### Corporate Verification Also Fails
+
+The award claims its winners must be registered Thai companies.
+
+Yet the associated Thai Visa Centre profile assigns the agency registration number **0205562022140**, belonging to the separately registered THAIVISACENTER (THAILAND) COMPANY LIMITED rather than the TVC. Visa Agent Co., Ltd. business associated with its advertised premises.[^2][^3][^4]
+
+The supposed independent verification process therefore failed to reconcile even the legal identity of the business receiving the award.
+
+### Promotional Endorsement Presented as Independent Recognition
+
+The award goes beyond displaying customer-review statistics.
+
+It publishes extensive promotional praise for Thai Visa Centre, describes its technology and customer service as exceptional, and includes a statement attributed directly to **the TVC team**.[^9]
+
+That quotation indicates that the award publication incorporated material presented as coming from the agency itself. It does not establish payment, ownership, or improper influence.
+
+However, **the directory presents the result as independent recognition while its published eligibility requirements remain unsubstantiated**.
+
+Its Terms of Service separately disclaim verification of individual reviewer identities and experiences, despite the award promoting its large verified review base.[^8]
+
+### Credibility of the Award
+
+The problem is not simply that Thai Visa Centre received a favorable review.
+
+**Thai Visa Reviews publicly certified the agency as meeting specific standards that its own published evidence does not establish.**
+
+The unsupported accreditation claims, incorrect corporate registration, and promotional award presentation form a consistent pattern of unreliable verification.
+
+For consumers comparing expensive immigration services, the distinction between an independently validated professional credential and a privately issued promotional award is material.
+
+The directory should disclose the records used to establish TVC's eligibility, identify the corporate entity evaluated, and explain how its accreditation requirements were satisfied.
+
 ## References
 
 [^1]: `https://thaivisareviews.com/`
@@ -93,3 +153,4 @@ Its ownership, commercial relationships, badge-assignment procedures, and handli
 [^6]: https://ebookservicepro.com/showcase/2026/ThailandPrivilege2025/files/basic-html/page70.html
 [^7]: `https://thaivisareviews.com/agency/triumph-property`
 [^8]: `https://thaivisareviews.com/terms`
+[^9]: `https://thaivisareviews.com/awards/agency-of-the-month/thai-visa-center-2026-06`
