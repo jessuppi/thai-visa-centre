@@ -290,6 +290,55 @@ The repeated structure suggests extensive use of standardized content templates.
 
 For an agency selling professional immigration assistance, these examples raise questions about the reliability of its claimed editorial review and the accuracy of information used to attract prospective customers.
 
+## Four Advertised Offices Match Siam Legal's Locations
+
+Thai Visa Centre publishes a guide titled *Thailand Law Firms and TVC Office Locations*, claiming to operate immigration and legal-coordination offices in **Bangkok, Phuket, Pattaya, and Chiang Mai**.[^48]
+
+The guide describes these locations as Thai Visa Centre's own regional branches, invites customers to book consultations, and explicitly states that walk-in visits are available at all four offices.
+
+However, **all four advertised locations match offices independently identified with Siam Legal International**, a separate Thai law firm and immigration consultancy.
+
+### Identical Office Listings
+
+Comparing Thai Visa Centre's guide against Siam Legal's published office information reveals the following:
+
+| City | Finding |
+|---|---|
+| Bangkok | Identical building, floor, and office unit |
+| Phuket | Identical commercial premises and unit numbers |
+| Chiang Mai | Identical shopping complex, floor, and room numbers |
+| Pattaya | Identical to Siam Legal's previously advertised office location |
+
+Siam Legal's official website continues identifying the Bangkok, Phuket, and Chiang Mai locations as its own offices.[^49]
+
+The Pattaya location appears in an older office directory advertising Siam Legal's services. Its current website identifies a different Pattaya office, suggesting that Thai Visa Centre's listing may have reused outdated information.[^50]
+
+**The agreement across four cities, including specific suite and room numbers, is far more significant than two businesses coincidentally operating in the same neighborhood.**
+
+### Contradiction With Thai Visa Centre's Actual Office
+
+Thai Visa Centre's homepage identifies its customer-facing office as being at **The Pretium Bangna in Samut Prakan**.[^51]
+
+That location does not match the supposed Bangkok head office described in its four-branch guide.
+
+The homepage also emphasizes nationwide assistance through couriers and postal services rather than advertising the four regional offices.
+
+The conflicting presentations leave customers with two substantially different accounts of the agency's physical operations.
+
+### Undisclosed Relationship With Siam Legal
+
+The four-office guide does not identify Siam Legal as the operator of the listed premises or explain any commercial arrangement between the businesses.
+
+Instead, it describes the locations as Thai Visa Centre offices, identifies regional services supposedly available there, and encourages customers to visit them.
+
+The available publications provide no evidence that Siam Legal authorized Thai Visa Centre to represent its offices as TVC branches.
+
+**Unless a genuine office-sharing or partnership arrangement exists, Thai Visa Centre appears to be passing off another law firm's business locations as its own.**
+
+This discrepancy raises a more fundamental credibility issue than the agency's previously documented inaccurate immigration guides: customers may be directed to offices that belong to an entirely different business.
+
+The identical listings also warrant scrutiny of whether Thai Visa Centre has copied additional material concerning legal services, professional qualifications, or commercial credentials from Siam Legal.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -337,3 +386,7 @@ For an agency selling professional immigration assistance, these examples raise 
 [^45]: `https://tvc.co.th/guides/thailand-business-things-to-do-when-closing-a-business-in-thailand`
 [^46]: `https://tvc.co.th/guides/services-certified-translation-services-in-bangkok-for-english-and-thai`
 [^47]: https://tdac.immigration.go.th/manual/en/faq.html
+[^48]: `https://tvc.co.th/guides/thailand-thailand-law-firms`
+[^49]: `https://www.siam-legal.com/`
+[^50]: `https://www.visa2uk.com/our-office-locations/`
+[^51]: `https://tvc.co.th/`
