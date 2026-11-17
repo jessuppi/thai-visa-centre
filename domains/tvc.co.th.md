@@ -805,6 +805,112 @@ It does establish that the same material error appears across multiple pages cla
 
 The central question is why an agency whose business depends on understanding retirement-visa requirements continues publishing obsolete insurance figures nearly five years after the government increased the required coverage.
 
+## Consecutive Thailand Privilege Sales Awards Claimed Without Supporting Records
+
+Thai Visa Centre has expanded its claims of official Thailand Privilege recognition beyond identifying itself as an authorized General Sales and Services Agent (GSSA).
+
+Its multilingual immigration guides now assert that the business received **Best Sales Performance Awards from Thailand Privilege in both 2024 and 2025**.[^91][^92]
+
+The claim is significant because another immigration company, Siam Legal, has publicly documented receiving awards with that name during the same two years.
+
+Unlike Thai Visa Centre's brief assertions, Siam Legal identifies the award category, ceremony details, and company representatives involved.
+
+### Thai Visa Centre Claims Two Consecutive Awards
+
+Thai Visa Centre's Japanese-language guide *Thailand Privilege Long-Stay Visa: Elite Membership Tiers (2026)* explicitly claims that the agency received Best Sales Performance Awards from Thailand Privilege in 2024 and 2025.[^91]
+
+The same assertion appears in its Korean-language version.[^92]
+
+Both pages identify Thai Visa Centre as an authorized General Sales and Services Agent and encourage readers to submit membership applications through the business.
+
+The award claims appear immediately alongside statements that customers pay only the official membership fee and that Thai Visa Centre maintains offices in Bangkok, Phuket, Pattaya, and Chiang Mai.
+
+However, neither examined publication identifies:
+
+- The specific award categories supposedly won.
+- The registered corporate entity receiving either award.
+- The dates or venues of the award ceremonies.
+- Any representative who accepted the awards.
+- An award certificate, photograph, or official announcement identifying Thai Visa Centre as a winner.
+
+**Thai Visa Centre presents two government-program sales awards as established corporate achievements without supplying the details needed to verify either claim.**
+
+### Siam Legal Documents Awards in Both Years
+
+Siam Legal independently promotes its own receipt of Thailand Privilege's Best Sales Performance Award (Western) for 2024 and 2025.
+
+An April 2024 promotional announcement published by *The Nation* identifies **Siam Legal (Thailand) Co., Ltd.** as the recipient of the 2024 award and describes its presentation at the Thailand Privilege GSSA Awards ceremony in Bangkok.[^93]
+
+Siam Legal subsequently published a February 2025 announcement documenting its second consecutive Best Sales Performance Award (Western).
+
+The company identifies the January 24, 2025 ceremony at the Grand Hyatt Erawan Bangkok and names **Rex Baay**, head of its Thailand Privilege program, as the representative who accepted the award.[^94]
+
+Its publications also include award-related photographs and describe the Western sales category for which the company was recognized.
+
+These are primarily Siam Legal's own accounts, including promotional material distributed through other publications, rather than independently authenticated government award certificates.
+
+Nevertheless, they provide a much more specific documentary record than Thai Visa Centre's assertions.
+
+**Siam Legal identifies the corporate recipient, award category, ceremony, and representative. Thai Visa Centre claims awards in the same two years without identifying any equivalent supporting records.**
+
+### The Official Agent List Identifies Siam Legal, Not Thai Visa Centre
+
+Thailand Privilege Card Co., Ltd.'s published 2025 annual report lists 50 corporate General Sales and Services Agents.[^55]
+
+The list includes **Siam Legal (Thailand) Co., Ltd.**, but does not identify Thai Visa Centre, TVC. Visa Agent Co., Ltd., or AGENTS CO., LTD.
+
+This discrepancy has already been examined in connection with Thai Visa Centre's unsupported GSSA accreditation claims.
+
+The new award assertions create a further problem.
+
+The awards recognize performance by companies participating in Thailand Privilege's authorized sales network.
+
+Yet Thai Visa Centre has not identified which officially appointed corporate entity supposedly received its awards.
+
+The existence of multiple award categories means that Siam Legal's documented recognition does not, by itself, establish that Thai Visa Centre could not have won another award in either year.
+
+**The unresolved issue is not whether Siam Legal was the only possible winner. It is why Thai Visa Centre claims two consecutive official sales awards without identifying the corporate recipient, award category, or supporting announcement.**
+
+### Connection to the Misrepresented Office Locations
+
+These claims also intersect with another documented discrepancy.
+
+Thai Visa Centre advertises regional offices in Bangkok, Phuket, Pattaya, and Chiang Mai that match locations publicly associated with Siam Legal.[^49][^54]
+
+The agency's Thailand Privilege guides combine those same four-office representations with assertions of GSSA authorization and the newly identified consecutive sales awards.
+
+Meanwhile, the official corporate agent list identifies Siam Legal as an authorized GSSA.
+
+The combination is noteworthy:
+
+1. Thai Visa Centre advertises office locations associated with Siam Legal.
+2. Thai Visa Centre claims Thailand Privilege authorization without identifying its own registered GSSA entity.
+3. Thai Visa Centre claims sales awards for 2024 and 2025, the same years in which Siam Legal publicly documents receiving similarly named awards.
+
+These overlapping representations do not establish that Thai Visa Centre deliberately copied Siam Legal's award claims or that the two businesses share management.
+
+However, **the repeated overlap between the companies' advertised premises and professional credentials raises questions about whether Thai Visa Centre is presenting another agency's achievements as its own**.
+
+### The Missing Documentation Matters
+
+Thailand Privilege memberships involve substantial financial commitments, with published membership prices reaching several million baht.
+
+Official GSSA appointments and sales-performance awards are therefore commercially valuable credentials.
+
+They can influence a customer's decision about which agency to trust with an expensive immigration application.
+
+Thai Visa Centre should be able to identify the registered company that received each claimed award and provide an award certificate, official announcement, or other independently verifiable record.
+
+If the awards were received through another corporate entity or authorized intermediary, that relationship should be explained rather than obscured behind the Thai Visa Centre trade name.
+
+**Thai Visa Centre claims two consecutive Thailand Privilege sales awards while the examined official agent records identify Siam Legal, and Siam Legal independently documents similarly named awards for those exact years.**
+
+The available evidence does not establish that Thai Visa Centre's award claims are fabricated.
+
+It does establish that the agency is using specific, verifiable professional achievements in its marketing without supplying the documentation needed to substantiate them.
+
+Combined with the previously documented accreditation and office-location discrepancies, these assertions warrant direct verification with Thailand Privilege Card Co., Ltd.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -897,3 +1003,8 @@ The central question is why an agency whose business depends on understanding re
 [^88]: https://budapest.thaiembassy.org/en/publicservice/non-immigrant-o-a-visa-long-stay
 [^89]: https://copenhagen.thaiembassy.org/en/publicservice/visa-types-updated
 [^90]: `https://tvc.co.th/guides/best-places-to-retire-in-thailand-for-couples`
+
+[^91]: `https://tvc.co.th/ja/guides/thailand-thailand-long-stay`
+[^92]: `https://tvc.co.th/ko/guides/thailand-thailand-long-stay`
+[^93]: https://www.nationthailand.com/pr-news/more/pr-news/40036914
+[^94]: https://siamlegal.thailandprivilege.com/winner-of-the-best-thailand-privilege-visa-agent-2025-at-the-gssa-awards/
