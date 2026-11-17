@@ -143,6 +143,59 @@ For consumers comparing expensive immigration services, the distinction between 
 
 The directory should disclose the records used to establish TVC's eligibility, identify the corporate entity evaluated, and explain how its accreditation requirements were satisfied.
 
+## Award Requirements Contradicted by Other Winners' Profiles
+
+Thai Visa Reviews claims that every Agency of the Month winner satisfies mandatory professional accreditation requirements.
+
+Its published selection criteria explicitly include both:
+
+- Thailand Privilege authorization.
+- Long-Term Resident (LTR) visa certification.
+
+However, the directory's own records for several award winners fail to establish that they satisfy both conditions.
+
+### Three Additional Examples
+
+**TMT Thailand — July 2026**
+
+The directory awarded TMT Thailand its July 2026 distinction while stating that all winners satisfy both accreditation requirements.[^10]
+
+However, TMT Thailand's agency profile displays a Thailand Privilege authorization badge **without an accompanying LTR certification badge**.[^11]
+
+**TVS Visa Services Pattaya — August 2026**
+
+The August award repeats the same mandatory accreditation requirements.[^12]
+
+Yet TVS Visa Services Pattaya's profile displays an LTR certification badge **without a Thailand Privilege authorization badge**.[^13]
+
+**Thai Visa Expert — September 2026**
+
+The September award again identifies both credentials as required.[^14]
+
+But Thai Visa Expert's directory profile displays **neither accreditation badge**, despite prominently identifying its September award.[^15]
+
+### Contradiction in the Verification Process
+
+These examples expose a recurring problem with the directory's stated standards.
+
+The awards declare that all winners satisfy both accreditation requirements, but the corresponding company profiles do not consistently identify those credentials.
+
+The missing badges do not independently establish that the agencies lack authorization. They establish that **Thai Visa Reviews' own published records fail to substantiate the mandatory credentials it claims to have verified**.
+
+The inconsistency also undermines the explanation that Thai Visa Centre's unsupported accreditation badges were merely an isolated data-entry error.
+
+Across several months, the directory appears to apply a standardized award qualification statement without demonstrating that each winner meets its requirements.
+
+### Credibility of the Awards
+
+Thai Visa Reviews markets its awards as independent recognition based on rigorous evaluation.
+
+Yet its published evidence does not consistently support the qualifications it claims every winner possesses.
+
+**An award requiring two government accreditations cannot credibly function as proof of those credentials when the awarding platform itself does not consistently document them.**
+
+This repeated discrepancy raises questions about whether the accreditation requirements are actually enforced or simply displayed as promotional criteria to make privately issued awards appear more authoritative.
+
 ## References
 
 [^1]: `https://thaivisareviews.com/`
@@ -154,3 +207,9 @@ The directory should disclose the records used to establish TVC's eligibility, i
 [^7]: `https://thaivisareviews.com/agency/triumph-property`
 [^8]: `https://thaivisareviews.com/terms`
 [^9]: `https://thaivisareviews.com/awards/agency-of-the-month/thai-visa-center-2026-06`
+[^10]: `https://thaivisareviews.com/awards/agency-of-the-month/tmt-thailand-2026-07`
+[^11]: `https://thaivisareviews.com/agency/tmt-thailand`
+[^12]: `https://thaivisareviews.com/awards/agency-of-the-month/tvs-visa-services-pattaya-2026-08`
+[^13]: `https://thaivisareviews.com/agency/tvs-visa-services-pattaya`
+[^14]: `https://thaivisareviews.com/awards/agency-of-the-month/thai-visa-expert-2026-09`
+[^15]: `https://thaivisareviews.com/agency/thai-visa-expert`
