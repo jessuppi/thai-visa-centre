@@ -387,6 +387,42 @@ Thai Visa Centre's published claims are not substantiated by the program's 2025 
 
 Without those details, prospective customers have no clear basis for reconciling TVC's accreditation claims with the government's published records or the agency's apparent use of another accredited firm's office locations.
 
+## Warning Against Paid TDAC Websites While Promoting an Affiliated Service
+
+Thai Visa Centre's *Thailand Entry Requirements 2026* guide warns travelers against unofficial websites charging money for Thailand Digital Arrival Card (TDAC) registration.
+
+It explicitly instructs travelers to submit their arrival cards through the official immigration website only. Its list of common travel mistakes also warns that third-party TDAC websites may collect personal information without delivering valid confirmations.[^57]
+
+However, the same guide promotes Thai Visa Centre's own TDAC assistance.
+
+### Directing Readers to AGENTS CO., LTD.
+
+The linked TDAC service page advertises premium submission assistance and directs applicants to `agents.co.th`, operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md).[^58]
+
+That company's TDAC comparison website advertises:
+
+- Free assisted submissions within the government's 72-hour registration window.
+- **US$8 (270 baht)** early submissions for travelers registering farther in advance.
+- A list of 29 competing websites labeled scams or untrusted operators.[^59]
+
+Thai Visa Centre separately acknowledges that AGENTS CO., LTD. operates its digital immigration services, including TDAC processing.[^60]
+
+These are not independent businesses merely advertising similar services. They belong to the same publicly acknowledged commercial network.
+
+### Applying Different Standards to Competitors
+
+The contradiction is not that charging for optional assistance automatically constitutes fraud.
+
+Rather, **Thai Visa Centre tells travelers to avoid third-party TDAC websites charging fees while directing them toward its own affiliated intermediary, which also advertises paid TDAC processing**.
+
+The entry guide does not clearly explain that the recommended assistance leads to a related commercial business or distinguish its own paid offering from the fee-charging sites it warns readers against.
+
+Meanwhile, AGENTS CO., LTD. presents itself as a trusted alternative and publicly categorizes competing providers as scams or untrusted operators.
+
+The agency's own website confirms that its private service is not affiliated with the Thai government. Nevertheless, customers following TVC's recommendations are exposed to a commercial submission option after being warned about precisely that category of intermediary.
+
+**This selective treatment of competing TDAC services raises questions about whether TVC's scam warnings are impartial consumer guidance or also function as promotion for its affiliated business.**
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -443,3 +479,7 @@ Without those details, prospective customers have no clear basis for reconciling
 [^54]: `https://tvc.co.th/guides/thailand-thailand-law-firms`
 [^55]: https://ebookservicepro.com/showcase/2026/ThailandPrivilege2025/files/basic-html/page70.html — *Thailand Privilege Annual Report 2025*, corporate GSSA list, pp. 68–70.
 [^56]: https://www.siam-legal.com/thailand-visa/thailand-privilege-visa.html
+[^57]: `https://tvc.co.th/guides/thailand-entry-requirements`
+[^58]: `https://tvc.co.th/tdac-thailand-digital-arrival-card`
+[^59]: `https://tdac.agents.co.th/scam`
+[^60]: `https://tvc.co.th/scam`
