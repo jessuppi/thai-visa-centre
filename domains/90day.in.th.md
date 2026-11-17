@@ -54,6 +54,48 @@ These ambiguities are especially significant given the documented relationship b
 
 **The discrepancy raises questions about the company's representations concerning purpose limitation, informed consent, and personal-data handling.** A service-specific promise to process immigration records solely for government reporting is difficult to reconcile with broadly worded permissions for affiliated-company marketing unless the company clearly identifies which information is covered by each provision. The published policies leave that distinction unresolved.[^8][^11][^12]
 
+## Contradictory Claims About Government Online Reporting
+
+Thai Visa Centre publishes conflicting explanations of how its paid 90-day immigration-reporting service operates.
+
+Its guide *90-Day Report Online* describes the company's service as using Thailand's official TM47 online portal, with deadline reminders and address verification. The same page advertises online submission through the government system for **375–500 baht per report**.[^13]
+
+Another guide, *Important Immigration Forms in Thailand*, lists `90day.in.th` as an online reporting method alongside postal and in-person submissions.[^14]
+
+However, the actual operator, [Agents Co., Ltd.](../companies/agents-co-ltd.md), describes an entirely different procedure.
+
+### The Operator Explicitly Denies Online Filing
+
+On its own `90day.in.th/scam` page, AGENTS CO., LTD. explicitly states that it is **not simply submitting the government's online form on behalf of customers**.[^15]
+
+Instead, the company describes a physical proxy service:
+
+- Customers purchase reporting credits and submit their information through a private dashboard.
+- Company representatives visit immigration offices to file TM47 reports in person.
+- Original reporting receipts are returned to customers through tracked delivery.
+
+The service's About page confirms this arrangement and identifies the government's free online reporting system as a separate service.[^16]
+
+### Contradiction With the Free Government Service
+
+Thailand's Immigration Bureau operates its own online 90-day reporting system at `tm47.immigration.go.th`. Eligible foreigners can submit TM47 notifications directly through that portal without purchasing reporting credits from a commercial intermediary.[^17]
+
+**Submitting information through AGENTS CO., LTD.'s private dashboard is not equivalent to submitting a TM47 application through the government's online system.**
+
+The distinction matters because physical proxy submissions and online government applications involve different procedures, eligibility requirements, and processing arrangements.
+
+Thai Visa Centre's promotional material blurs that distinction by describing its paid service as online filing through the official system, while the actual operator explicitly identifies the service as physical representation.
+
+### Misrepresentation of the Service Being Sold
+
+The evidence does not establish whether AGENTS also processes some applications through the official online portal.
+
+However, **the companies' published explanations contradict one another**, and neither explains whether the advertised online-filing option is a separate service from the physical proxy arrangement.
+
+Customers should not have to reconcile contradictory descriptions across affiliated websites to determine what immigration service they are purchasing.
+
+The inconsistency is particularly significant because Thai Visa Centre promotes its immigration expertise while charging customers for assistance with a government reporting obligation that already has a free online submission option.
+
 ## References
 
 [^1]: https://www.reddit.com/r/expatsinbangkok/comments/1tdqdc8/thailand_90_day_online_reporting/
@@ -68,3 +110,8 @@ These ambiguities are especially significant given the documented relationship b
 [^10]: https://www.thailand.go.th/public/index.php/useful-information-detail/001_01_084
 [^11]: `https://90day.in.th/policy/data-protection`
 [^12]: `https://90day.in.th/policy/privacy`
+[^13]: `https://tvc.co.th/guides/90-days-report-online`
+[^14]: `https://tvc.co.th/guides/important-immigration-forms-in-thailand-tm30-tdac-tm88-tm87-tm7-tm8-tm47-and-tm28`
+[^15]: `https://90day.in.th/scam`
+[^16]: `https://90day.in.th/about`
+[^17]: https://test.immigration.go.th/?page_id=1648
