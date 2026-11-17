@@ -214,6 +214,40 @@ That could affect airline bookings, extension planning, onward travel arrangemen
 
 The discrepancy is especially notable because the agency sells visa assistance and presents its familiarity with changing Thai immigration requirements as a reason customers should trust its services.
 
+## Incorrect Visa on Arrival Eligibility After September 2026
+
+Thai Visa Centre continues advertising outdated Visa on Arrival (VOA) eligibility information despite publishing the correct September 2026 changes elsewhere on its website.
+
+Thailand's revised immigration rules, effective **September 15, 2026**, reduced the VOA eligibility list from 31 countries and territories to just three:
+
+- Azerbaijan
+- Belarus
+- Serbia
+
+The revised list was confirmed by Thailand's Ministry of Foreign Affairs and published in the Royal Gazette.[^39]
+
+### Contradictory Nationality Lists
+
+Thai Visa Centre's own article explaining the September 2026 reforms correctly identifies these three countries and acknowledges that the previous VOA list was revoked.[^40]
+
+Nevertheless, its *Thailand Visa on Arrival* guide continues identifying **India, China, Taiwan, Kazakhstan, Russia, and Mexico** as examples of eligible nationalities.[^41]
+
+Another FAQ, *Do I Need a Visa for Thailand?*, similarly suggests that Indian, Chinese, Russian, and Kazakh passport holders may use the VOA scheme, depending on their circumstances.[^42]
+
+These examples no longer reflect the revised VOA eligibility list. Some travelers from those countries may qualify for different visa exemptions or entry arrangements, but that does not make them eligible for the discontinued VOA categories.
+
+### Potential Consequences for Travelers
+
+The distinction matters because VOA eligibility determines whether travelers can obtain a visa at an immigration checkpoint rather than arranging the appropriate entry permission beforehand.
+
+Travelers following the outdated guidance could arrive expecting a VOA that Thailand no longer offers to their nationality.
+
+The agency's own VOA guide claims its Bangkok staff regularly help travelers determine which entry arrangements apply to their passports. It also recommends checking official requirements before departure.[^41]
+
+**Thai Visa Centre therefore publishes the correct government restrictions in one article while continuing to direct readers toward superseded nationality rules in its practical visa guidance.**
+
+This adds to the documented pattern of contradictory immigration instructions on a website operated by a business selling professional visa assistance.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -252,3 +286,7 @@ The discrepancy is especially notable because the agency sells visa assistance a
 [^36]: `https://tvc.co.th/guides/thailand-entry-requirements`
 [^37]: `https://tvc.co.th/guides/thailand-visa-latest-update`
 [^38]: `https://tvc.co.th/guides/visa-free-period-in-thailand-to-be-changed-again-reduced-to-30-days`
+[^39]: https://thailand.prd.go.th/en/content/category/detail/id/48/iid/538547
+[^40]: `https://tvc.co.th/thailand-30-day-visa-exemption-2026`
+[^41]: `https://tvc.co.th/guides/visa-on-arrival`
+[^42]: `https://tvc.co.th/faq/do-i-need-a-visa-for-thailand`
