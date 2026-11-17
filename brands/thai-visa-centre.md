@@ -336,6 +336,44 @@ The agency does not publicly explain precisely what its 800,000-baht service pro
 
 **The significance is that Thai Visa Centre itself promotes these customer accounts as evidence of its services.** The financial arrangements described deserve scrutiny, particularly where rapid processing, bank assistance, and retirement extensions are advertised together.
 
+## Contradictory Referral Commission Claims
+
+Thai Visa Centre's public reputation-defense page claims that the business does not offer referral commissions.
+
+The statement appears beneath endorsements from Thailand-focused YouTube creators, which the agency presents as independent evidence of its reputation.[^65]
+
+However, Thai Visa Centre operates a separate commercial partnership program explicitly promising commissions to real-estate agents and brokers who refer visa customers.[^66]
+
+### Paid Referrals Through Property Agents
+
+The agency's *Trusted Visa Partner for Real Estate Agents* page advertises commissions for every qualified long-term visa package referred by participating businesses.
+
+The program targets:
+
+- Real-estate agents handling foreign property buyers.
+- Brokers arranging long-term rental accommodation.
+- Property developers and leasing teams working with expatriates.
+
+Thai Visa Centre promotes referral tracking, commission payouts, and participation without minimum referral volumes.
+
+The company explicitly encourages brokers to treat visa referrals as an additional source of revenue.[^66]
+
+### Financial Incentives Behind Recommendations
+
+**Thai Visa Centre publicly denies offering referral commissions on one page while actively recruiting commission-earning referral partners on another.**
+
+The denial appears in a discussion of independent content creators, so it may have been intended to refer specifically to those individuals. However, its wording does not disclose the separate paid referral program.
+
+The distinction matters because customers receiving visa-agency recommendations from property brokers may reasonably believe those recommendations reflect independent professional judgment.
+
+A broker receiving compensation for directing customers toward Thai Visa Centre has a financial interest that could influence such recommendations.
+
+The published partnership page does not explain how these incentives are disclosed to referred customers or identify the commission amounts.
+
+**There is no evidence that the featured YouTube creators received referral payments. The documented contradiction concerns the agency's categorical public statement and its separately advertised commission program.**
+
+The arrangement raises questions about how Thai Visa Centre distinguishes independent endorsements from commercially incentivized referrals, particularly while using third-party recommendations to defend its reputation against allegations of manipulated promotion.
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
@@ -402,3 +440,5 @@ The agency does not publicly explain precisely what its 800,000-baht service pro
 [^62]: `https://tvc.co.th/reviews/review/155416bc-282b-437e-96e2-983355b415bb`
 [^63]: `https://tvc.co.th/reviews/review/ec766956-d8d6-4504-b771-d80800e863b1`
 [^64]: https://www.thailand.go.th/public/visit-thailand-detail/001_01_134
+[^65]: `https://tvc.co.th/scam`
+[^66]: `https://tvc.co.th/real-estate-agents`
