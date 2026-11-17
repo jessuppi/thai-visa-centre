@@ -24,6 +24,60 @@ The reversal preceded the August 10 email in which "Grace" personally announced 
 
 On August 10, 2020, just six days after the arrests, Thai Visa Centre circulated a promotional email attributed to Grace Scira announcing that she would continue working with the agency. The email claimed that Thai Immigration had already verified the business as a legitimate visa agent and that operations remained open. When the email was reproduced on ASEAN NOW on August 12, members questioned the rapid resumption of business, the agency's continued unsolicited marketing, and earlier statements suggesting Grace was no longer employed there.[^7]
 
+### 2026 Denial Contradicts the Original Police Investigation
+
+Thai Visa Centre's current reputation-defense page attempts to distance the agency from the August 2020 police raid.
+
+It describes the incident as a search of a former partner's private residence rather than a raid on Thai Visa Centre's office. It further claims that no case against the agency resulted from the incident and that immigration authorities verified every customer visa as genuine.[^3]
+
+**The location of the raid is not disputed. The issue is Thai Visa Centre's attempt to separate the criminal investigation from the business that police explicitly identified.**
+
+#### Police Identified Thai Visa Centre by Name
+
+Contemporaneous reporting by Thai newspaper *Naewna* provides a detailed account of the Immigration Bureau's investigation.
+
+According to the police briefing, investigators identified Grace Scira as operating a business that arranged extensions of stay for foreigners using falsified supporting documents when applicants could not provide the required paperwork themselves.
+
+Investigators described repeated submissions involving immigration offices around Bangkok.
+
+**The police statement explicitly identified the business as Thai Visa Centre**, including its website and internet advertising for paid immigration assistance.[^67]
+
+The Nation separately quoted Immigration Bureau chief Sompong Chingduang identifying Thai Visa Centre as the business established by the suspects.[^5]
+
+These were not accusations invented years later by online critics. They were statements publicly attributed to senior Thai immigration officials in August 2020.
+
+#### An Arrest Warrant Predated the Raid
+
+Naewna also reported that the Chachoengsao Provincial Court issued arrest warrant **194/2563 on July 31, 2020**, concerning Grace Scira and suspected forgery and use of forged documents.
+
+A separate search warrant, **489/2563**, authorized the August 4 search of her residence.[^67]
+
+Those warrants concern an individual and do not establish a criminal conviction or prove that Thai Visa Centre was prosecuted as a separate legal entity.
+
+Nevertheless, they contradict any impression that the incident was merely an unrelated private dispute subsequently associated with the visa agency.
+
+#### The Former-Partner Explanation
+
+Thai Visa Centre's August 5, 2020 statement described Grace as a former partner.
+
+Just two days later, on August 7, the agency publicly announced that it was bringing her back onto the team. On August 10, Grace personally communicated that she would continue working with the business.[^3][^7]
+
+**The agency's own announcements establish that Grace's connection to Thai Visa Centre continued immediately after the arrests.**
+
+#### Genuine Visa Stamps Do Not Resolve Document Forgery
+
+Thai Visa Centre repeatedly argues that its customers' visas appeared in the immigration system and therefore were legitimate.
+
+But the original police investigation concerned the suspected use of **falsified supporting documents to obtain immigration permissions**.[^67]
+
+A visa or extension appearing in an official government database does not, by itself, establish that every document submitted to obtain it was genuine.
+
+The agency has not published an independently verifiable immigration determination clearing all applications implicated in the investigation.
+
+**Thai Visa Centre's current defense focuses on where the search occurred and whether its customers received immigration stamps, while sidestepping the police's documented allegations about how supporting documents were obtained and submitted.**
+
+The distinction matters because the agency continues presenting its account of the 2020 investigation as evidence of its legitimacy, despite the substantially different account contained in contemporary police reporting.
+
 ## August 2020 Corporate Registration Following Police Raid
 
 On August 18, 2020, just **14 days after immigration police announced the Thai Visa Centre raid**, [TVC. Visa Agent Co., Ltd.](../companies/tvc-visa-agent-co-ltd.md) was formally incorporated in Thailand under registration number **0115563017485**, with registered capital of 6 million baht. The company was established years after the Thai Visa Centre brand had already begun advertising visa services and only two weeks after police publicly associated that operation with suspected immigration-document forgery.[^5][^27]
@@ -442,3 +496,4 @@ The arrangement raises questions about how Thai Visa Centre distinguishes indepe
 [^64]: https://www.thailand.go.th/public/visit-thailand-detail/001_01_134
 [^65]: `https://tvc.co.th/scam`
 [^66]: `https://tvc.co.th/real-estate-agents`
+[^67]: https://www.naewna.com/local/509690 — August 2020 report of the Immigration Bureau investigation, including the identified visa business and court warrant references.
