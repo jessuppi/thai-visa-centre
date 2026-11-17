@@ -462,6 +462,39 @@ The agency's own website confirms that its private service is not affiliated wit
 
 **This selective treatment of competing TDAC services raises questions about whether TVC's scam warnings are impartial consumer guidance or also function as promotion for its affiliated business.**
 
+## Incorrect Schengen Visa Fees Despite Claimed 2026 Reviews
+
+Thai Visa Centre advertises document preparation and application assistance for European Schengen visas, but repeatedly publishes application fees that became obsolete in June 2024.
+
+The European Commission increased the standard short-stay visa fee from **€80 to €90 for adults**, and from **€40 to €45 for children aged six to eleven**, effective June 11, 2024.[^65]
+
+Nevertheless, TVC continues publishing the former €80 adult fee across multiple guides:
+
+- **Schengen Visa:** Lists €80 as the standard fee in both its introductory summary and requirements table.[^66]
+- **Schengen Visa FAQs:** Repeats the €80 fee in its requirements table, additional guidance, and FAQ.[^67]
+- **How to Apply for a Schengen Visa in Thailand:** Advertises €80 plus service charges.[^68]
+- **How Do I Apply for a Schengen Visa From Thailand?:** Repeatedly identifies €80 as the standard short-stay application fee.[^69]
+
+These are not obscure historical articles. They are active service guides intended to attract customers seeking European visas from Thailand.
+
+### Contradiction With Official EU Requirements
+
+The revised fees are established by Commission Delegated Regulation (EU) 2024/1415 and remain reflected in the European Commission's published visa guidance.[^65]
+
+Certain applicants qualify for exemptions or reduced fees under specific arrangements, but these exceptions do not change the standard €90 adult fee.
+
+TVC's guides do not explain that their €80 figure is outdated. Instead, they present it as the applicable standard fee while claiming their information was reviewed in **June 2026**.
+
+### Misleading Application Costs
+
+The discrepancy directly affects customers budgeting for visa applications.
+
+Applicants following TVC's figures would underestimate the standard government fee before accounting for appointment-center charges, translations, insurance, and the agency's own assistance fees.
+
+**Thai Visa Centre markets professional Schengen application assistance while publishing a government fee that has been incorrect for more than two years.**
+
+The repetition across four separate pages raises questions about the agency's claimed editorial reviews and whether its outbound visa guidance is actually checked against current immigration regulations.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -526,3 +559,8 @@ The agency's own website confirms that its private service is not affiliated wit
 [^62]: `https://tvc.co.th/guides/company-profile-thailand-legal-profile`
 [^63]: `https://tvc.co.th/guides/contact-an-immigration-specialist`
 [^64]: `https://tvc.co.th/guides/contact-a-thai-family-lawyer`
+[^65]: https://home-affairs.ec.europa.eu/news/schengen-visa-fee-increased-11-june-2024-2024-06-13_en
+[^66]: `https://tvc.co.th/foreign-visas/schengen/schengen-visa`
+[^67]: `https://tvc.co.th/foreign-visas/schengen/schengen-visa-thailand-faqs`
+[^68]: `https://tvc.co.th/foreign-visas/schengen/how-to-apply-schengen-visa-in-thailand`
+[^69]: `https://tvc.co.th/faq/schengen-visa-from-thailand`
