@@ -58,6 +58,93 @@ This directly reinforces the site's existing comparisons favoring Thai Visa Cent
 
 Such editing misrepresents the customer's reported experience and undermines the reliability of the site's visa-specific testimonials.
 
+## Visa Refund Policies Contradict Qualification-Test Disclaimers
+
+AGENTS CO., LTD. publishes substantially identical visa-refund policies across its privately operated LTR and DTV information websites, despite both websites prominently stating that they provide only unofficial visa qualification tests.
+
+The discrepancy concerns more than recycled legal wording. The policies describe paid immigration representation, government application fees, and customer refund rights for services that the websites' own disclaimers say they do not provide.
+
+### Qualification Tests Versus Paid Visa Representation
+
+The homepage of `ltr.in.th` expressly states that visitors should use Thailand's official Board of Investment website for visa applications and that the private website offers only an unofficial qualification test.[^1]
+
+However, its published Refund Policy describes the operator submitting applications to Thai embassies or consulates on customers' behalf.[^9]
+
+The policy promises refunds when an application has not yet been submitted, distinguishes government fees from visa-agent service fees, and addresses unsuccessful applications.
+
+It also states that customers may be charged transaction fees of 2–7% when requesting certain refunds more than 12 hours after payment.
+
+**These are contractual provisions for a paid visa-processing service, not merely a free immigration-information website offering an unofficial eligibility questionnaire.**
+
+The website does not clearly explain whether these terms apply to an actual service available through `ltr.in.th`, an affiliated agency's services, or a visa-processing operation that is no longer offered.
+
+### The Same Refund Policy Appears on DTV.in.th
+
+The affiliated `dtv.in.th` website publishes the same disclaimer stating that it provides only an unofficial qualification test.
+
+Nevertheless, its Refund Policy reproduces the same provisions concerning embassy submissions, unsuccessful applications, nonrefundable government charges, and 12-hour cancellation periods.[^10]
+
+Both documents display July 16, 2024, as their last-updated date.
+
+Their substantive refund terms are effectively identical, even though the LTR and DTV programs have different qualification requirements, processing procedures, and government authorities.
+
+Both websites identify AGENTS CO., LTD. as the contracting company in their published Terms & Conditions.[^3][^11]
+
+**AGENTS operates two supposedly informational immigration websites while publishing customer-payment and refund provisions that describe direct visa-processing services.**
+
+The duplicated terms demonstrate a shared contractual template, but neither website adequately explains which services those provisions actually govern.
+
+### LTR Government Application Fees Are Not Charged Before Endorsement
+
+The discrepancy becomes more significant when the refund policy is compared with the official LTR application process.
+
+Thailand's Board of Investment explicitly confirms that:
+
+- LTR applications must be submitted through its official online system.
+- The qualification assessment and endorsement process are free.
+- The 50,000-baht visa issuance fee is payable only after approval when collecting the visa in Thailand.
+- Applicants obtaining their visas through overseas embassies or consulates follow the applicable consular payment procedures.[^12]
+
+The LTR refund policy, however, describes applications being submitted to embassies or consulates and government application fees becoming nonrefundable following submission.
+
+It does not distinguish the BOI's free qualification-endorsement stage from the subsequent visa-issuance stage.
+
+**An applicant rejected during the free BOI endorsement process would not have incurred a BOI government application fee.**
+
+The possibility of a separate, nonrefundable embassy visa fee arises later in the process, after the applicant obtains the required qualification endorsement.
+
+This distinction is essential when determining which charges a commercial agent may legitimately describe as government fees and which amounts represent its own services.
+
+### Contradictory Cancellation Language
+
+The refund policy also contains an internal inconsistency.
+
+One provision promises a full refund if the customer cancels before the operator submits the application.
+
+Another provision addresses customers who cancel before processing has begun, but introduces a 12-hour deadline after which transaction charges of 2–7% may apply.
+
+These provisions overlap without clearly explaining when an unsubmitted application qualifies for a complete refund and when deductions are permitted.
+
+The distinction could affect customers who pay for immigration assistance and subsequently discover that their application cannot proceed.
+
+### What the Documents Actually Establish
+
+The published policies do not establish that AGENTS has collected government application fees improperly, retained money owed to customers, or processed visa applications through either website.
+
+They do establish a failure to reconcile three separate representations:
+
+1. Both websites claim to offer only unofficial qualification tests.
+2. Their published refund policies describe paid visa representation and government application charges.
+3. The LTR refund provisions fail to distinguish the free BOI endorsement stage from the subsequent paid visa-issuance process.
+
+The July 2024 update dates also suggest that these documents have not been revised alongside the websites' more recently updated immigration guidance.
+
+**AGENTS presents itself as an experienced immigration-services operator while maintaining contractual documents that leave customers unable to determine which services are actually being sold, when government charges arise, and what refund protections apply.**
+
+The issue is especially relevant because both websites promote Thai Visa Centre and channel prospective immigration customers toward that affiliated business.
+
+The unresolved question is whether these are obsolete legal templates left online without review or operative terms governing commercial visa-processing services that the websites' disclaimers do not acknowledge.
+
 ## References
 
 [^1]: `https://ltr.in.th/`
@@ -68,3 +155,8 @@ Such editing misrepresents the customer's reported experience and undermines the
 [^6]: `https://ltr.in.th/`
 [^7]: `https://dtv.in.th/`
 [^8]: `https://tvc.co.th/reviews/review/fcfea34b-8468-48a1-a543-0f4d959b7d17`
+
+[^9]: `https://ltr.in.th/policy/refund`
+[^10]: `https://dtv.in.th/policy/refund`
+[^11]: `https://dtv.in.th/policy/terms-and-conditions`
+[^12]: https://ltr.boi.go.th/page/faq.html
