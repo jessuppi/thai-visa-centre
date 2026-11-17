@@ -78,6 +78,53 @@ The agency has not published an independently verifiable immigration determinati
 
 The distinction matters because the agency continues presenting its account of the 2020 investigation as evidence of its legitimacy, despite the substantially different account contained in contemporary police reporting.
 
+### Medical Cannabis Research Explanation and Licensing Requirements
+
+Thai Visa Centre's August 5, 2020 statement defended the cannabis cultivation discovered during the police raid by describing it as research for medicinal treatment.[^3]
+
+However, Thailand's medical cannabis reforms did not permit unrestricted cultivation simply because the grower claimed a research or therapeutic purpose.
+
+#### Research Required Government Authorization
+
+Under the Narcotics Act provisions applicable in August 2020, cannabis production for medical research required authorization from Thailand's Food and Drug Administration, with approval from the relevant narcotics-control authorities.[^69]
+
+The licensing framework restricted eligible applicants and imposed conditions on cultivation, research activities, security, and cooperation with authorized institutions.[^70]
+
+**A claim that cannabis was being cultivated for medical research did not, by itself, establish that the cultivation was legally authorized.**
+
+Thai Visa Centre's published explanation does not identify a research institution, cultivation license, authorized medical professional, or government approval covering the activity.
+
+#### Police Reported Cultivation and Processing Equipment
+
+Contemporaneous reporting from *Coconuts Bangkok*, citing Immigration Bureau chief Sompong Chingduang, described the following discoveries:
+
+- 60 cannabis plants.
+- 99 grams of dried cannabis.
+- Cannabis extraction equipment.
+- Weighing and packaging equipment.
+
+Police suspected production for commercial distribution, while Chad Scira maintained that the cannabis was intended for personal use.[^68]
+
+These were competing accounts of the activity being investigated, not evidence of a subsequent conviction.
+
+Nevertheless, **Thai Visa Centre's medicinal-research explanation does not address the reported processing equipment or establish compliance with the licensing requirements in force at the time**.
+
+#### Later Cannabis Business Connections
+
+The historical incident is particularly relevant to the business network's later development.
+
+**OG Thai Co., Ltd. was incorporated on August 21, 2020, just 17 days after the raid.** The company was subsequently renamed GACP Co., Ltd. and became associated with the cannabis platform `og.th`.[^71]
+
+Thai Visa Centre's own website now promotes cannabis-related businesses including `og.th`, `weed.th`, and related medical cannabis services.
+
+The [OG Thai investigation](../companies/og-thai-co-ltd.md) separately documents the corporate registration timeline, commercial connections, and overlapping business locations.
+
+These connections do not establish that the cannabis discovered in August 2020 was transferred into the later commercial operation.
+
+They do, however, establish that **cannabis remained a commercial interest within the business network associated with Thai Visa Centre after the police investigation**.
+
+The original medical-research explanation therefore deserves examination against the licensing requirements that applied in 2020, rather than being accepted as an adequate explanation merely because Thailand subsequently liberalized its cannabis laws.
+
 ## August 2020 Corporate Registration Following Police Raid
 
 On August 18, 2020, just **14 days after immigration police announced the Thai Visa Centre raid**, [TVC. Visa Agent Co., Ltd.](../companies/tvc-visa-agent-co-ltd.md) was formally incorporated in Thailand under registration number **0115563017485**, with registered capital of 6 million baht. The company was established years after the Thai Visa Centre brand had already begun advertising visa services and only two weeks after police publicly associated that operation with suspected immigration-document forgery.[^5][^27]
@@ -497,3 +544,7 @@ The arrangement raises questions about how Thai Visa Centre distinguishes indepe
 [^65]: `https://tvc.co.th/scam`
 [^66]: `https://tvc.co.th/real-estate-agents`
 [^67]: https://www.naewna.com/local/509690 — August 2020 report of the Immigration Bureau investigation, including the identified visa business and court warrant references.
+[^68]: https://coconuts.co/bangkok/news/pot-thickens-as-raid-on-thai-american-visa-ring-uproots-weed-farm/
+[^69]: https://sherloc.unodc.org/cld/en/legislation/tha/narcotics_act_b.e._2522/chapter_2/section_26-264/section_26-264.html?lng=en
+[^70]: https://link.springer.com/article/10.1186/s42238-022-00121-4
+[^71]: https://www.dataforthai.com/company/0105563123196/
