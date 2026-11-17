@@ -12,6 +12,65 @@ However, on August 4, 2020, Immigration Bureau chief **Pol. Lt. Gen. Sompong Chi
 
 The police statements were allegations made during an investigation, not findings of criminal guilt. Nevertheless, they directly contradict the website's suggestion that Scira's association with Thai Visa Centre originated entirely from accusations made by Nickles.
 
+
+## Corporate Ownership Records Do Not Explain Scira's Historical Involvement
+
+Chad Scira's website relies heavily on Thai Department of Business Development (DBD) ownership records to deny any involvement with Thai Visa Centre.
+
+Under a heading identifying Thai Visa Centre, he reproduces a corporate ownership summary dated November 3, 2025, showing 60,000 shares, 6 million baht in capital, and 100% Thai ownership.[^1]
+
+However, the presentation raises questions about both the company's identity and the conclusions Scira draws from those figures.
+
+### The Company Is Not Identified
+
+The Thai corporate register identifies **TVC. Visa Agent Co., Ltd.**, registration number **0115563017485**, as a company incorporated on August 18, 2020, with registered capital of 6 million baht.[^9]
+
+That capital figure matches Scira's published summary.
+
+Yet Scira labels his evidence **Thai Visa Centre** without supplying the underlying company's registered legal name or registration number.
+
+The distinction matters because Thai Visa Centre is the commercial trade name, while TVC. Visa Agent Co., Ltd. is a separately identifiable registered legal entity.
+
+**Scira invokes the authority of Thailand's corporate register while omitting the registration details necessary to identify precisely which company his evidence concerns.**
+
+### The Company Was Registered After the Police Raid
+
+The timing introduces another significant problem.
+
+On August 4, 2020, Immigration Bureau chief Sompong Chingduang publicly identified Scira and his wife as having established Thai Visa Centre during an investigation into suspected immigration-document forgery.[^2]
+
+TVC. Visa Agent Co., Ltd. was incorporated on August 18, 2020, fourteen days later.[^9]
+
+Consequently, even if Scira's published ownership figures accurately describe that company, they cannot establish who was involved in operating Thai Visa Centre before its incorporation.
+
+**A corporate ownership summary from 2025 does not rebut police statements concerning the operation of a commercial business in August 2020.**
+
+### Thai Shareholding Does Not Establish Who Controlled Operations
+
+Scira additionally argues that allegations of nominee ownership are absurd because nominee arrangements are illegal in Thailand.[^1]
+
+But the illegality of a particular ownership arrangement does not establish that such arrangements never occur.
+
+More importantly, the original police account did not depend on proving that Scira appeared as a registered shareholder.
+
+The investigation concerned the operation of Thai Visa Centre and suspected immigration-document forgery.
+
+Shareholding, management, operational involvement, and beneficial financial interests are distinct questions.
+
+Scira's nationality-based ownership figures establish none of the latter three.
+
+His website also fails to reconcile those denials with the subsequently documented presence of both Scira and Thai Visa Centre as administrators of the Thai Visa Advice Facebook group acquired by the agency in March 2022.[^3][^4]
+
+### The Unanswered Question
+
+Scira presents Thai ownership figures as if they conclusively resolve his historical connections to Thai Visa Centre.
+
+Yet the evidence he publishes concerns an incompletely identified corporate entity and does not address the business's operations before that company's incorporation.
+
+**The central contradiction remains: Thai immigration police publicly associated Scira with establishing Thai Visa Centre in August 2020, while Scira attempts to dismiss that association using corporate ownership figures dated more than five years later.**
+
+Those figures do not explain the original police findings, the subsequent corporate registration, or his later administrative connection to a community acquired by Thai Visa Centre.
+
 ## Facebook Administration Contradicts Sweeping Denials
 
 Scira's connections to Thai Visa Centre also extend beyond the 2020 police investigation.
@@ -104,3 +163,5 @@ Until the university agreement, cultivation authorization, relevant laboratory f
 [^6]: `https://chad.so/chad-scira-cannabis-raid-alledged-criminal`
 [^7]: https://www.nationthailand.com/in-focus/40016467
 [^8]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8898406/
+
+[^9]: https://www.dataforthai.com/company/0115563017485/
