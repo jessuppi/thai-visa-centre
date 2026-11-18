@@ -2233,6 +2233,210 @@ This is a consequential factual error because the government expressly provides 
 
 **An immigration agency advertising expertise in the LTR program should not tell customers they must purchase or maintain private health insurance when the responsible government authority explicitly permits approval through qualifying social security benefits or maintained bank deposits.**
 
+## Categorical T8 Health-Form Advice Omits Continuing Disease-Control Requirements
+
+Thai Visa Centre publishes categorical statements declaring Thailand's T8 health declaration discontinued.
+
+Its dedicated guide *Health Declaration T8 Form: What Happened to It?* tells travelers that the form is no longer required, describes it primarily as a COVID-era document, and instructs visitors not to download or print it.[^137]
+
+A separate travel-planning guide repeats that T8 was a pandemic measure replaced by Thailand's Digital Arrival Card (TDAC) for all arrivals.[^138]
+
+These statements correctly reflect the removal of routine paper health declarations for ordinary travelers.
+
+However, they omit a consequential distinction.
+
+**Thailand continues to impose special health-declaration, vaccination, and disease-control requirements on travelers arriving from certain countries. Official 2026 guidance also warns that some affected passengers may still need a separate T8 declaration before boarding.**
+
+The discrepancy matters because an immigration agency advising international travelers must distinguish the removal of routine paperwork from the continuing requirements applicable to travelers with specific epidemiological risks.
+
+### Thai Visa Centre Declares T8 Discontinued
+
+Thai Visa Centre's dedicated T8 guide opens with a categorical explanation:
+
+> Here is the straight answer for 2026: the T8 is no longer required.
+
+The article identifies the form's status as **"Discontinued"** and describes it as a paper pandemic document no longer used at the border.[^137]
+
+Its FAQ repeats that travelers do not need to download T8 because the form has been discontinued.
+
+The guide additionally characterizes the T8 primarily as part of Thailand's COVID-19 border-control arrangements between approximately 2020 and 2022.
+
+Its separate article *20 Essential Tips Before Traveling to Thailand* gives substantially the same answer.
+
+That publication states that the paper T8 declaration was a pandemic measure replaced by TDAC for all arrivals.[^138]
+
+**The combined effect is to present T8 as obsolete paperwork whose relevance ended with Thailand's pandemic entry restrictions.**
+
+That explanation is incomplete.
+
+### T8 Has a Separate Yellow-Fever History
+
+Thailand's T8 health declaration has also been used for screening travelers arriving from yellow-fever-affected countries.
+
+It was not exclusively a COVID-19 form.
+
+The Thai Health Pass platform identifies the declaration as a health-screening process associated with Thailand's Department of Disease Control.[^139]
+
+The form's historical applications include the reporting of travel history and health information for visitors from designated disease-control areas.
+
+This distinction is important because the removal of pandemic-wide requirements does not necessarily eliminate disease-specific health controls.
+
+Thailand continues identifying countries and territories subject to yellow-fever vaccination and screening requirements.
+
+The government's 2026 international-meeting travel guidance explicitly confirms that travelers arriving from designated yellow-fever-affected countries must present an International Health Certificate establishing qualifying vaccination.[^141]
+
+The certificate must be presented to the relevant health-control and immigration authorities.
+
+**The fact that ordinary arrivals no longer complete a standalone T8 paper form does not establish that every traveler has been released from special health-documentation requirements.**
+
+### T8 Registration Was Integrated Into TDAC
+
+The present position is more nuanced than either a universal requirement or complete disappearance.
+
+The Thai Health Pass website now explains that T8 health-declaration registration has moved into the Thailand Digital Arrival Card system.[^139]
+
+The official Immigration Bureau TDAC guidance likewise describes health declarations as part of the arrival-card process.[^140]
+
+It explains that travelers may be asked for additional health information according to their nationality, recent travel history, departure location, or flight.
+
+In other words, the TDAC system does not simply collect passport and accommodation details.
+
+It also serves public-health screening purposes.
+
+| Issue | Published official position |
+|---|---|
+| Routine paper arrival card | Replaced by TDAC |
+| Ordinary T8 health declaration | Incorporated into digital arrival procedures |
+| Health questions for designated travelers | May be required through TDAC |
+| Yellow-fever vaccination certification | Continues for qualifying travelers |
+| Separate T8 requested by an airline | May still apply in specified circumstances |
+
+**The government's current system incorporates health declarations into TDAC rather than abolishing all health-screening obligations formerly associated with T8.**
+
+Thai Visa Centre's general explanation of TDAC does not adequately identify this distinction.
+
+### November 2026 Guidance Warns That Separate T8 Forms May Still Be Requested
+
+The discrepancy becomes more significant when compared with contemporary travel instructions.
+
+A United Nations information note dated November 4, 2026, prepared for participants traveling to Thailand, confirms the continued application of special health-control measures.[^142]
+
+Its health-control section explains that travelers from designated yellow-fever-affected countries must present valid vaccination documentation.
+
+It also describes additional screening measures for travelers arriving from specified Ebola-affected areas.
+
+Crucially, the publication warns:
+
+> Travellers from Yellow Fever and Ebola affected countries may also be required by the airline to present a separate completed Health Declaration Form T.8 form before boarding.
+
+This is not a statement that every traveler must complete T8.
+
+It is a conditional warning for passengers with particular travel histories.
+
+Nevertheless, **the warning directly undermines an unqualified instruction that T8 has been completely discontinued and should never be prepared for a 2026 journey**.
+
+The distinction matters at check-in, where airlines may verify health documents before permitting a passenger to board.
+
+A traveler relying on TVC's categorical explanation could fail to investigate additional documentation required for their itinerary.
+
+### Ebola Controls Demonstrate the Continuing Risk
+
+Thailand's 2026 health-control requirements extend beyond yellow fever.
+
+Government-published guidance for international visitors identifies special Ebola screening and quarantine arrangements affecting travelers arriving from designated countries, including the Democratic Republic of the Congo.[^141]
+
+The November 2026 United Nations travel instructions separately identify restrictions affecting travelers arriving from or through specified Ebola-affected areas.[^142]
+
+These measures are distinct from the former general COVID-19 quarantine rules.
+
+They reflect disease-specific public-health powers and can change as outbreak conditions develop.
+
+Thai Visa Centre's T8 guide acknowledges in general terms that Thailand may introduce additional screening during outbreaks.
+
+However, it does not identify the existing yellow-fever requirements or the Ebola-related measures relevant during 2026.
+
+**The article presents disease-specific controls as something that might return in the future without adequately explaining the health restrictions already relevant to certain travelers.**
+
+That omission is particularly important because the consequences may include additional screening, mandatory observation, quarantine, or boarding-document requirements.
+
+### The Misleading Historical Explanation
+
+Thai Visa Centre's account also compresses two different historical developments into one narrative.
+
+The first was Thailand's use of health declarations and disease-control documentation for travelers from designated infection-risk areas.
+
+The second was the broader use of health questionnaires and exceptional entry paperwork during the COVID-19 pandemic.
+
+Although both involved health screening, they were not identical programs.
+
+Ending the pandemic's general entry restrictions did not automatically repeal every earlier disease-control requirement.
+
+The Thai Health Pass platform's continuing reference to T8 health declarations demonstrates that the form's terminology and public-health purpose extend beyond the pandemic.[^139]
+
+The government's continued yellow-fever screening requirements independently establish that the underlying disease-control obligations remain relevant.[^141]
+
+**Describing T8 solely as an obsolete COVID-19 form obscures its separate role in Thailand's longstanding infectious-disease screening arrangements.**
+
+### The Correct Advice Depends on Travel History
+
+For most ordinary arrivals, Thai Visa Centre's practical conclusion is broadly correct.
+
+Travelers generally complete TDAC online rather than obtaining a separate paper T8 declaration.
+
+However, a traveler arriving from a designated yellow-fever area or another country subject to special disease-control measures should verify additional requirements.
+
+Those requirements may involve:
+
+1. Completing health declarations through TDAC.
+2. Presenting a qualifying international vaccination certificate.
+3. Undergoing screening at a port-health checkpoint.
+4. Complying with additional outbreak-specific public-health instructions.
+5. Providing a separate T8 declaration when requested by the airline or competent authority.
+
+Not all five requirements apply to every affected traveler.
+
+The applicable conditions depend on the disease, recent travel history, public-health notices, and current instructions from the authorities and carrier.
+
+**The critical distinction is between ordinary immigration arrival paperwork and special public-health obligations that may remain applicable independently of ordinary TDAC registration.**
+
+A professional travel adviser should explain that distinction rather than simply declaring the older form irrelevant.
+
+### The Importance of Accurate Arrival Advice
+
+Thai Visa Centre markets professional assistance with visas, entry documentation, and TDAC submissions.
+
+Its T8 guide specifically encourages travelers to seek its help with current arrival procedures.
+
+Customers may therefore encounter the company's explanations while preparing documentation for an international flight.
+
+For travelers arriving from countries subject to yellow-fever or Ebola-related measures, incomplete health-documentation advice can have consequences beyond administrative inconvenience.
+
+Depending on the applicable requirements, travelers may face boarding difficulties, additional health checks, or other restrictions imposed by public-health authorities.
+
+The available evidence does not establish that a traveler has been refused boarding or entry because of Thai Visa Centre's published guidance.
+
+It also does not establish that a separate paper T8 form remains universally mandatory.
+
+**What is established is that Thai Visa Centre presents the form as categorically discontinued while contemporary official guidance retains circumstances in which additional health declarations, including a possible separate T8 request, remain relevant.**
+
+### Questions the Agency Should Answer
+
+Thai Visa Centre should clarify whether its statement that T8 is discontinued applies only to ordinary arrivals.
+
+It should also distinguish the electronic integration of T8 health declarations into TDAC from continuing requirements for designated infection-risk travelers.
+
+Its travel guides should explain the current yellow-fever vaccination requirements and direct travelers with relevant itineraries to official outbreak-specific instructions.
+
+The company should further acknowledge that airlines may impose additional document checks for travelers arriving from affected countries, as identified in the November 2026 United Nations guidance.
+
+These corrections would not require treating T8 as universally mandatory again.
+
+They would simply distinguish ordinary procedures from the exceptional requirements still applicable to some passengers.
+
+**Thai Visa Centre tells travelers that T8 is discontinued while failing to explain continuing public-health requirements under which travelers from specified countries may still be asked to provide a separate health declaration.**
+
+The discrepancy adds another example of incomplete immigration and entry guidance from a company advertising specialist knowledge of Thailand's changing travel requirements.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -2380,3 +2584,10 @@ This is a consequential factual error because the government expressly provides 
 [^134]: https://ltr.boi.go.th/documents/Required-docs-Dependents-06-11-2025.pdf
 [^135]: `https://tvc.co.th/faq/do-i-need-health-insurance-for-thailand`
 [^136]: `https://tvc.co.th/guides/how-to-stay-in-thailand-for-20-years`
+
+[^137]: `https://tvc.co.th/guides/health-declaration-t8-form`
+[^138]: `https://tvc.co.th/guides/20-essential-tips-before-traveling-to-thailand-in-2025`
+[^139]: https://thaihealthpass.com/
+[^140]: https://tdac.immigration.go.th/manual/en/faq.html
+[^141]: https://www.am2026thailand.go.th/immigration-and-customs
+[^142]: https://www.un.org/globalgeospatial/sites/default/files/2026-11/information_note_for_participants_2026.pdf
