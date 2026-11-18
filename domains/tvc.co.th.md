@@ -1458,6 +1458,189 @@ The company should correct the reporting FAQ, distinguish TM47 from TM95, and en
 
 The discrepancy raises questions about the reliability of its immigration advice and the safeguards used to ensure customers are sold services appropriate to their actual legal obligations.
 
+## Exaggerated Blacklisting Warnings Used to Promote Paid 90-Day Reporting
+
+Thai Visa Centre publishes warnings about severe immigration consequences for foreigners who fail to complete their 90-day address notifications.
+
+Its guide *90-Day Report Online: Thailand TM47 Filing Guide* claims that repeated reporting violations may lead to immigration blacklisting and that unresolved reporting failures can cause visa extensions to be refused.[^118]
+
+However, Thailand's published immigration guidance identifies financial penalties for failing to submit TM47 notifications, while the government's established re-entry bans concern different violations, particularly overstaying permission to remain in Thailand.
+
+**Thai Visa Centre presents possible blacklisting as a consequence of repeated address-reporting failures without identifying a government regulation, official determination, or documented case establishing that consequence.**
+
+The warnings appear in material promoting the company's paid immigration-reporting services.
+
+### The Guide Links Missed Reports to Blacklisting
+
+Under the heading *What happens if you miss your 90-day report?*, Thai Visa Centre presents three escalating outcomes.[^118]
+
+| Circumstance | Consequence advertised by TVC |
+|---|---|
+| Overdue report submitted voluntarily | Typically a 2,000-baht fine |
+| Violation discovered during an extension | Extension may be delayed or refused |
+| Repeated reporting violations | Increased scrutiny and possible blacklisting |
+
+The first warning generally corresponds to the published administrative fine.
+
+The second may reflect the requirement to resolve an outstanding reporting violation before completing certain immigration procedures.
+
+The third introduces a considerably more serious consequence: the possibility of being prohibited from entering Thailand.
+
+Yet the guide does not identify any official rule explaining when repeated TM47 reporting failures independently justify an entry ban.
+
+It also provides no example of a foreigner blacklisted solely because of repeated late 90-day address notifications.
+
+**The article places ordinary reporting fines, extension-processing problems, and immigration blacklisting in the same escalation sequence without establishing the legal relationship between them.**
+
+### Official Immigration Guidance Identifies Financial Penalties
+
+The Royal Thai Consulate-General in Los Angeles publishes official guidance explaining Thailand's 90-day reporting obligations.[^119]
+
+Its instructions distinguish voluntary late reporting from failures discovered through enforcement.
+
+The published penalties include a 2,000-baht fine for late reporting and higher penalties where a foreigner is apprehended without having fulfilled the notification obligation.
+
+The guidance also describes an additional daily penalty that may apply until compliance.
+
+Crucially, its explanation of TM47 reporting does not identify automatic visa cancellation, deportation, or blacklisting as the ordinary penalty for failing to submit an address notification.
+
+The same publication explicitly distinguishes 90-day reporting from applying for an extension of stay.
+
+These are separate immigration procedures serving different legal purposes.
+
+A foreigner can hold valid permission to remain in Thailand while being overdue for a required address report.
+
+**Missing a TM47 notification does not itself mean that the foreigner has overstayed their visa or extension.**
+
+That distinction is essential when explaining the risks of failing to report.
+
+### Overstay Blacklisting Is a Different Legal Issue
+
+Thailand's government separately publishes specific re-entry-ban thresholds for foreigners who remain in the country beyond their authorized period of stay.[^120]
+
+For individuals voluntarily departing after an overstay, the published framework includes:
+
+| Duration of overstay | Re-entry ban |
+|---|---|
+| More than 90 days | 1 year |
+| More than 1 year | 3 years |
+| More than 3 years | 5 years |
+| More than 5 years | 10 years |
+
+More severe consequences can apply when individuals are apprehended rather than voluntarily departing.
+
+These penalties concern **overstaying permission to remain in Thailand**, not simply failing to complete an address notification.
+
+The two violations should not be conflated.
+
+A foreigner whose authorized stay expired months earlier may face re-entry restrictions regardless of whether they completed TM47.
+
+Conversely, a foreigner with valid immigration permission who misses an address-reporting deadline has not necessarily committed an overstay.
+
+Thai Visa Centre's own *Visa Overstay in Thailand* guide correctly identifies the distinction between immigration permission, overstay fines, and re-entry bans.[^121]
+
+It explains that overstay begins when the permitted stay expires and connects blacklist consequences to the duration and circumstances of that violation.
+
+**Thai Visa Centre correctly explains the legal basis for overstay-related entry bans in one guide while separately invoking possible blacklisting in its paid reporting guide without establishing an equivalent basis for late TM47 notifications.**
+
+### Visa Extensions May Require Outstanding Fines to Be Cleared
+
+The reporting guide also warns that unresolved TM47 violations can delay or prevent visa extensions.
+
+This part of its warning requires a more careful distinction.
+
+Immigration officers may require a foreigner to settle an outstanding reporting fine before proceeding with an extension application.
+
+Official immigration procedures recognize the need to address such violations during application processing.
+
+However, requiring payment of an outstanding fine is not necessarily the same as refusing an otherwise eligible extension because a reporting deadline was missed.
+
+Thai Visa Centre does not identify the specific circumstances in which a TM47 violation alone would justify refusing an extension.
+
+Nor does it distinguish temporary processing delays from a substantive rejection of the applicant's eligibility.
+
+**The agency presents extension refusal as a possible consequence without explaining whether the problem is an outstanding administrative fine, a separate immigration violation, or another ground for refusing the application.**
+
+That omission risks making an ordinarily remediable reporting problem appear more severe than the published procedure establishes.
+
+### Thai Visa Centre's Other Guide Describes the Penalties Differently
+
+The company's *Thai Immigration Crackdowns 2026* guide provides another comparison.[^122]
+
+Its penalty table identifies TM30 and 90-day reporting failures as matters involving fines, extension-processing problems, and cumulative compliance records.
+
+In the same table, it separately associates overstay, unauthorized work, fraudulent documents, and incorrect visa categories with potentially more severe consequences.
+
+That presentation more clearly distinguishes address-reporting failures from conduct that may justify visa cancellation or entry prohibitions.
+
+Yet the dedicated TM47 guide introduces blacklisting as a possible consequence of repeated reporting violations.
+
+Neither publication explains the difference.
+
+**The same agency publishes different descriptions of the consequences of missing TM47 reports, with its dedicated paid-reporting guide presenting the more alarming warning.**
+
+### The Warnings Accompany a Paid Reporting Service
+
+The commercial context is important.
+
+Thai Visa Centre's 90-day reporting guide repeatedly encourages customers to use professional filing assistance.
+
+It advertises:
+
+- 500 baht for individual reports.
+- 375 baht per report when purchasing packages of four.
+- Deadline tracking and reminders.
+- Preparation of TM47 submissions.
+- Address verification against immigration records.
+- Submission through official channels.
+- Delivery of reporting receipts.
+
+The guide acknowledges that eligible customers can complete their reporting through the government's free system.
+
+However, its descriptions of potential extension refusal and blacklisting introduce additional reasons for customers to regard professional assistance as necessary.
+
+**The agency combines routine paid filing assistance with warnings about severe immigration consequences that are not adequately substantiated for the reporting violation being discussed.**
+
+This does not establish that the business deliberately exaggerated those consequences to increase sales.
+
+It establishes that the claims appear in promotional material and may influence customers' decisions about purchasing reporting assistance.
+
+### Repeated Violations Do Not Eliminate the Need for Evidence
+
+Repeated reporting failures may legitimately attract additional attention from immigration authorities.
+
+They may also occur alongside unrelated violations, including overstays, false statements, or failure to comply with an immigration order.
+
+Such circumstances can involve consequences more serious than an ordinary TM47 fine.
+
+However, the possibility of additional misconduct does not establish that repeated late reporting alone is a recognized ground for blacklisting.
+
+Thai Visa Centre has not published the legal provision, official instruction, or immigration decision supporting that particular claim.
+
+**The question is not whether serious immigration violations can result in blacklisting. They clearly can. The question is whether TVC has a factual basis for presenting blacklisting as a possible escalation of ordinary TM47 reporting failures.**
+
+The available government materials do not establish that connection.
+
+### Relevance to the Broader Investigation
+
+The existing investigation documents Thai Visa Centre's incorrect instructions for LTR holders, who are generally subject to annual TM95 reporting rather than quarterly TM47 notifications.
+
+The new discrepancy concerns customers who actually must file TM47 reports.
+
+It examines whether the agency accurately describes the consequences of failing to use the free government service or its paid commercial alternative.
+
+The issue is particularly relevant because the company sells reporting packages, maintains customers' immigration records, and presents itself as a specialist in preventing immigration complications.
+
+Customers are entitled to accurate explanations of both the underlying obligation and the consequences of noncompliance.
+
+The available evidence does not establish that late TM47 filing can never contribute to a broader adverse immigration decision.
+
+It does establish that **Thai Visa Centre has not substantiated its published suggestion that repeated address-reporting failures can lead to blacklisting independently of other immigration violations**.
+
+The company should identify the legal authority supporting that claim, explain when an outstanding reporting fine can delay an extension, and distinguish administrative reporting penalties from overstay-related re-entry bans.
+
+**Thai Visa Centre promotes paid 90-day reporting assistance while warning customers about possible blacklisting without demonstrating that ordinary TM47 reporting failures carry that consequence under Thailand's published immigration rules.**
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -1582,3 +1765,9 @@ The discrepancy raises questions about the reliability of its immigration advice
 [^115]: https://ltr.boi.go.th/page/faq.html
 [^116]: `https://tvc.co.th/guides/thai-immigration-crackdowns-what-foreigners-need-to-know-this-year`
 [^117]: `https://tvc.co.th/guides/90-day-reporting-step-by-step`
+
+[^118]: `https://tvc.co.th/guides/90-days-report-online`
+[^119]: https://thaiconsulatela.thaiembassy.org/en/publicservice/foreigners-staying-in-thailand-more-than-90-days
+[^120]: https://www.thailand.go.th/public/useful-information-detail/001_01_211
+[^121]: `https://tvc.co.th/guides/visa-overstay-thailand`
+[^122]: `https://tvc.co.th/guides/thai-immigration-crackdowns-what-foreigners-need-to-know-this-year`
