@@ -437,43 +437,43 @@ The agency does not publicly explain precisely what its 800,000-baht service pro
 
 **The significance is that Thai Visa Centre itself promotes these customer accounts as evidence of its services.** The financial arrangements described deserve scrutiny, particularly where rapid processing, bank assistance, and retirement extensions are advertised together.
 
-## Contradictory Referral Commission Claims
+## Paid Property-Agent Referrals and Claims of Independent Endorsements
 
-Thai Visa Centre's public reputation-defense page claims that the business does not offer referral commissions.
+Thai Visa Centre promotes recommendations from Thailand-focused YouTube creators as evidence of its reputation and independence from paid promotional campaigns.[^65]
 
-The statement appears beneath endorsements from Thailand-focused YouTube creators, which the agency presents as independent evidence of its reputation.[^65]
+Its reputation-defense page states:
 
-However, Thai Visa Centre operates a separate commercial partnership program explicitly promising commissions to real-estate agents and brokers who refer visa customers.[^66]
+> We do not offer referral commissions.
 
-### Paid Referrals Through Property Agents
+However, that statement appears specifically within a discussion of YouTube creators. The accompanying explanation concerns whether customers receive benefits from telling those creators about the agency.
 
-The agency's *Trusted Visa Partner for Real Estate Agents* page advertises commissions for every qualified long-term visa package referred by participating businesses.
+**It would therefore be misleading to interpret the statement as proof that TVC denies operating any referral-commission program.**
 
-The program targets:
+### Commercial Referral Commissions
 
-- Real-estate agents handling foreign property buyers.
-- Brokers arranging long-term rental accommodation.
-- Property developers and leasing teams working with expatriates.
+Thai Visa Centre separately operates a partnership program targeting property agents, brokers, developers, and leasing companies.[^66]
 
-Thai Visa Centre promotes referral tracking, commission payouts, and participation without minimum referral volumes.
+Its *Trusted Visa Partner for Real Estate Agents* page explicitly offers commissions for qualified long-term visa referrals.
 
-The company explicitly encourages brokers to treat visa referrals as an additional source of revenue.[^66]
+The program advertises referral tracking, commission payouts, and participation without minimum referral volumes.
 
-### Financial Incentives Behind Recommendations
+TVC encourages property businesses to treat immigration referrals as an additional revenue source.
 
-**Thai Visa Centre publicly denies offering referral commissions on one page while actively recruiting commission-earning referral partners on another.**
+These arrangements establish that **the agency financially incentivizes at least some third parties to recommend its services**.
 
-The denial appears in a discussion of independent content creators, so it may have been intended to refer specifically to those individuals. However, its wording does not disclose the separate paid referral program.
+The public partnership page does not identify commission amounts or explain how participating brokers disclose those payments to prospective visa customers.
 
-The distinction matters because customers receiving visa-agency recommendations from property brokers may reasonably believe those recommendations reflect independent professional judgment.
+### The Distinction Matters
 
-A broker receiving compensation for directing customers toward Thai Visa Centre has a financial interest that could influence such recommendations.
+Paid referral arrangements are not inherently improper. Property agents may legitimately recommend immigration assistance and receive compensation.
 
-The published partnership page does not explain how these incentives are disclosed to referred customers or identify the commission amounts.
+However, customers should be able to distinguish independent professional recommendations from introductions influenced by commercial incentives.
 
-**There is no evidence that the featured YouTube creators received referral payments. The documented contradiction concerns the agency's categorical public statement and its separately advertised commission program.**
+The available evidence does not establish that TVC's featured YouTube creators received commissions, that property agents conceal referral payments, or that customers were misled about particular recommendations.
 
-The arrangement raises questions about how Thai Visa Centre distinguishes independent endorsements from commercially incentivized referrals, particularly while using third-party recommendations to defend its reputation against allegations of manipulated promotion.
+It establishes that Thai Visa Centre actively recruits commission-earning referral partners while separately emphasizing the independence of other third-party endorsements.
+
+**The appropriate question is how TVC distinguishes paid referrals from independent recommendations and whether referred customers are informed of the financial arrangements influencing those introductions.**
 
 ## References
 
