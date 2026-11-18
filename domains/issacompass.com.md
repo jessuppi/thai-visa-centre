@@ -217,6 +217,119 @@ These distinctions matter because customers purchasing an apparently similar ser
 
 Any assessment of a customer's refund entitlement must therefore consider the date of the first payment and the version of the guarantee applicable at that time.
 
+### Published DTV Guide Still Promises Refunds the Current Contract Excludes
+
+Issa Compass's refund-policy inconsistencies extend beyond the restrictions contained in its Terms of Service.
+
+Its article *Thailand DTV Visa 2026: Requirements, Documents and How to Apply* continues advertising a broader financial guarantee than the company currently provides to new customers.[^9]
+
+The guide was published on March 26, 2026, and identifies August 18, 2026, as its last update.
+
+Under its discussion of DTV costs, the article promises:
+
+> a full refund covering both the government fee and the service fee
+
+The same assurance appears again in its FAQ addressing rejected DTV applications.
+
+The guide estimates ordinary government application charges at approximately 13,000 baht and lists Issa Compass's Full Service fee at 10,000 baht.
+
+Consequently, the difference between the advertised protection and the current contractual guarantee can represent a substantial proportion of the customer's total application expenditure.
+
+**An applicant reading the still-published guide could reasonably expect Issa Compass to reimburse government application charges that its newer contract expressly excludes.**
+
+#### The Contract Changed on August 29, 2026
+
+The company's Terms of Service establish an important historical distinction.[^8]
+
+For qualifying purchases made on or before August 28, 2026, customers retain the refund protection applicable when they paid.
+
+That earlier arrangement included an option to recover both the company's service fee and government application fees following an eligible refusal.
+
+However, Section 7.3 explicitly changed the arrangement for purchases beginning August 29, 2026.
+
+Under the newer terms:
+
+- The guarantee covers the agency's service fee only.
+- Government visa fees are excluded.
+- Embassy and other third-party charges are excluded.
+- Certain partner fees may be covered only when expressly included in the customer's package or payment confirmation.
+- Additional eligibility requirements and exclusions apply.
+
+The distinction is not retroactive.
+
+Customers whose first payment preceded the cutoff retain the contractual version applicable to their purchase.
+
+**The problem is that the company's older DTV guide continues presenting the pre-August refund arrangement as a current service benefit without identifying the August 29 cutoff.**
+
+The article does not explain that new customers receive narrower protection.
+
+#### Newer Articles Contradict the Older Guide
+
+Issa Compass's October 2026 guide *Do You Need a DTV Visa Agent? How to Choose One* provides a different explanation.[^10]
+
+Its service comparison identifies the money-back guarantee as a conditional benefit of Full Service applications.
+
+It explicitly explains that agency service fees may be refunded following an eligible refusal, but government and embassy charges are not covered.
+
+Another article, *How Issa Compass Prepares Your Thai Visa Application Before It Ever Reaches the Embassy*, updated September 30, 2026, likewise excludes government charges from its guarantee.[^11]
+
+The discrepancy therefore exists across three company publications.
+
+| Issa Compass publication | Refund representation |
+|---|---|
+| DTV requirements guide, updated August 18 | Government and service fees covered |
+| Application-preparation guide, updated September 30 | Service fee covered, government fee excluded |
+| DTV agent-selection guide, updated October 18 | Service fee covered, government fee excluded |
+| Current Terms of Service | Service-fee-only guarantee for eligible purchases from August 29 onward |
+
+These differences cannot be explained simply as alternative refund arrangements for different visa categories.
+
+All three articles discuss Issa Compass's DTV application assistance.
+
+The older DTV guide does not identify itself as an archived explanation of terms available before August 29.
+
+**Issa Compass's own website gives prospective DTV customers materially different answers about whether the company will reimburse government fees if their application fails.**
+
+#### Government Non-Refundability Does Not Resolve the Contradiction
+
+Thai embassies generally do not refund visa application fees when an application is refused.
+
+However, that does not prevent a private company from voluntarily reimbursing those charges through a commercial guarantee.
+
+Issa Compass's earlier contract expressly offered that additional financial protection.
+
+The subsequent contractual change removed it for new purchases.
+
+Therefore, simply reminding applicants that government fees are nonrefundable does not explain the difference.
+
+The relevant question is whether **Issa Compass itself** promises to reimburse the customer's government expenditure.
+
+Its older guide says yes.
+
+Its current contract says no for qualifying purchases made from August 29 onward.
+
+The distinction is commercially significant because the government fee may exceed the agency's service fee.
+
+#### The Missing Correction
+
+Issa Compass should update its DTV requirements guide to identify the guarantee applicable to new purchases.
+
+It should also clearly distinguish historical refund entitlements from current contractual protection.
+
+Customers should not need to compare several articles and a lengthy legal agreement to discover whether government application charges are included.
+
+The company should clarify whether customers purchasing services after August 28, 2026, were shown the older refund promise during the payment process.
+
+The available evidence does not establish that the company has refused to honor a valid historical guarantee or that particular customers suffered financial losses.
+
+It also does not establish whether affected customers received individualized disclosures correcting the outdated article.
+
+**What is established is that Issa Compass continues publishing an explicit promise to refund government application fees despite having removed that protection from the contractual guarantee offered to new customers.**
+
+This reinforces the broader finding that the company's prominently marketed financial assurances require careful examination against the actual terms applicable at the time of payment.
+
+**A visa-service company advertising refund protection should not leave an obsolete, more generous promise on its public website after adopting contractual terms that provide materially narrower coverage.**
+
 ### Professional Review Does Not Establish Guaranteed Protection
 
 Issa Compass markets document verification, eligibility screening, and professional assistance as reasons to trust its application service.
@@ -283,3 +396,7 @@ That discrepancy warrants clearer disclosure before customers commit money to a 
 [^7]: `https://tdac.agents.co.th/`
 
 [^8]: `https://www.issacompass.com/terms` — Terms of Service, last updated November 13, 2026, particularly Sections 7.3–7.3.7.
+
+[^9]: `https://www.issacompass.com/insights/dtv-visa-thailand` — *Thailand DTV Visa 2026: Requirements, Documents and How to Apply*, updated August 18, 2026.
+[^10]: `https://www.issacompass.com/insights/do-you-need-a-dtv-visa-agent-how-to-choose-one` — Updated October 18, 2026.
+[^11]: `https://www.issacompass.com/insights/how-issa-compass-prepares-your-thai-visa-application-before-it-ever-reaches-the-` — Updated September 30, 2026.
