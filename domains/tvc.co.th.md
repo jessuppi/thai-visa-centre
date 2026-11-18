@@ -3021,6 +3021,82 @@ It establishes that the agency's commercial service page promotes work-related a
 
 Thai Visa Centre should remove the unqualified remote-work claim, clarify the separate rules governing volunteer activities, and distinguish retirement status from visa categories specifically intended for qualifying employment or remote work.
 
+
+## Full-Refund Guarantee Conflicts With Published Refund Exclusions
+
+Thai Visa Centre prominently advertises a refundable-deposit model intended to reassure customers paying in advance for immigration services.
+
+Its homepage promises that customers receive a **full refund of their deposit if the agency does not complete the agreed service**.[^183]
+
+However, the company's separately published Refund Policy allows certain payments to be retained, including government application fees following submission and transaction charges of 2–7% in specified circumstances.[^184]
+
+**The public documents do not clearly explain how these deductions operate alongside the company's advertised full-refund guarantee.**
+
+### Homepage Promises Full Refunds for Uncompleted Services
+
+Under *Transparent payments, refundable deposits, and nationwide service*, Thai Visa Centre states that all visa-service payments are accepted as refundable deposits under written agreements.
+
+It explains that successful completion allows the company to retain the deposit as agreed.
+
+For unsuccessful services, the homepage promises:
+
+> If we do not complete the service as agreed, you receive a full refund of your deposit.
+
+The company also states that refund terms may vary slightly by service but that every customer receives a written agreement before work begins.[^183]
+
+This language presents the refundable-deposit arrangement as a general customer protection rather than an exception available to selected visa categories.
+
+### Published Policy Excludes Certain Payments
+
+Thai Visa Centre's Refund Policy, updated February 9, 2025, establishes more restrictive conditions.[^184]
+
+For applications denied after submission, it distinguishes between two categories of charges:
+
+- **Government application fees:** Nonrefundable once submitted to the relevant embassy or consulate.
+- **Agency service fees:** Advertised as fully refundable when the visa application is unsuccessful.
+
+The policy also permits deductions of 2–7% for transaction charges in certain refund scenarios, including cancellations requested after its 12-hour period.
+
+Consequently, a customer whose visa application fails may receive their agency service fee without recovering the entire amount originally paid.
+
+That distinction is not explained alongside the homepage's general promise of a full deposit refund.
+
+### The Meaning of Service Completion Remains Unclear
+
+A further issue concerns what the company considers successful completion of an immigration service.
+
+The homepage ties refund eligibility to whether Thai Visa Centre completes the service *as agreed*.
+
+The Refund Policy instead distinguishes between applications submitted to government authorities and applications approved or denied.
+
+These are not necessarily equivalent outcomes.
+
+For example, an agency might fulfill a document-preparation or submission obligation even when immigration authorities subsequently refuse the application.
+
+Alternatively, a customer's agreement might expressly make approval a condition of successful service delivery.
+
+**TVC does not publicly reconcile these distinctions or explain which definition governs its broad homepage guarantee.**
+
+The separately advertised written deposit agreements might contain additional protections or exceptions. Their individual terms have not been examined in this investigation.
+
+### Implications for Customers Paying in Advance
+
+Immigration applications can involve substantial agency fees, government charges, and additional expenses for supporting documentation.
+
+Customers deciding whether to pay upfront may reasonably consider refund protection an important factor.
+
+The distinction between receiving a full deposit refund and receiving only the refundable agency-fee component is therefore financially significant.
+
+Thai Visa Centre's Terms & Conditions introduce further uncertainty by identifying the contracting party only as THAI VISA CENTRE and imposing broad limitations of financial liability.[^185]
+
+The existing investigation separately examines those contractual provisions.
+
+The available evidence does not establish that Thai Visa Centre has unlawfully withheld refunds, failed to honor a customer's individual agreement, or deliberately misrepresented its payment protections.
+
+However, **its prominent full-refund marketing is not clearly reconciled with the narrower refund entitlements and permitted deductions described in its published policy**.
+
+Thai Visa Centre should explain whether its refundable-deposit guarantee includes government charges, identify when transaction fees may be deducted, clarify what constitutes unsuccessful service delivery, and provide consistent refund information before customers make payments.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -3224,3 +3300,7 @@ Thai Visa Centre should remove the unqualified remote-work claim, clarify the se
 [^180]: https://tvc.co.th/visas/thailand-five-year-retirement-visa — Thai Visa Centre, five-year O-X retirement visa service page, advertised remote-work and volunteer benefits.
 [^181]: https://thaiconsulatela.thaiembassy.org/en/publicservice/non-immigrant-visa-category-o-x — Royal Thai Consulate-General, Los Angeles, O-X visa requirements, updated October 1, 2026.
 [^182]: https://kualalumpur.thaiembassy.org/en/publicservice/non-immigrant-visa-o-x-for-long-stay-10-years — Royal Thai Embassy, Kuala Lumpur, O-X visa guidance, updated July 17, 2026.
+
+[^183]: https://tvc.co.th/ — Thai Visa Centre homepage, *Transparent payments, refundable deposits, and nationwide service*, including its full-refund guarantee.
+[^184]: https://tvc.co.th/policy/refund — Thai Visa Centre, Refund Policy, updated February 9, 2025, including government-fee exclusions and transaction-charge deductions.
+[^185]: https://tvc.co.th/policy/terms-and-conditions — Thai Visa Centre, Terms & Conditions, updated February 9, 2025, including contractual identity and liability provisions.
