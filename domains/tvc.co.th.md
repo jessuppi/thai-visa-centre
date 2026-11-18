@@ -2616,6 +2616,70 @@ Its actual case-handling procedures may differ from its public instructions.
 
 Thai Visa Centre should correct its filing-window descriptions, identify the appropriate government application channels, and explain why its June 2026 guidance continued referencing a December deadline after the March–April intake.
 
+
+## Marriage and Retirement Visa Pages Give Incorrect Renewal Instructions
+
+Thai Visa Centre's commercial marriage-visa and retirement-visa pages contain incorrect instructions concerning annual extensions of stay.
+
+Both pages identify **TM47 as a required renewal form**, despite Thailand's Immigration Bureau designating TM7 for extension applications and TM47 for 90-day address reporting.[^162][^163][^165]
+
+The marriage-visa page also describes an incorrect bank-deposit maintenance period.
+
+These errors appear on pages advertising professional immigration assistance, rather than simply in general informational articles.
+
+### Both Service Pages Identify the Wrong Form
+
+Thai Visa Centre's *Thailand Marriage Visa* page tells customers:
+
+> You can renew annually at Thai immigration with updated financial proof, current passport, TM.47 form, photos, and proof of continuing marriage.
+
+Its *Thailand Retirement Visa* page similarly instructs customers to provide a TM47 form when renewing their annual permission to stay.[^163]
+
+However, the Immigration Bureau's official form directory distinguishes the two procedures:
+
+- **TM7:** Application for extension of temporary stay.
+- **TM47:** Notification of remaining in Thailand longer than 90 days.
+
+The distinction is explicit in official immigration guidance.[^165]
+
+A recent 90-day reporting receipt may be required as supporting documentation for certain extension applications. Pathum Thani Immigration's marriage-extension checklist, for example, requests a copy of the applicant's latest reporting receipt.[^164]
+
+That does not make TM47 the application form used to obtain an annual extension.
+
+**TVC's service pages confuse immigration address reporting with the separate procedure for renewing permission to stay.**
+
+### Marriage-Visa Deposit Instructions Add Another Error
+
+The marriage-visa page introduces a separate inconsistency concerning financial qualification.
+
+Its frequently asked questions state:
+
+> For renewal, funds must be maintained for 3 months before application.
+
+However, official immigration guidance identifies **400,000 baht maintained for the preceding two months** as the ordinary deposit requirement for qualifying marriage-based extensions.[^164]
+
+The same government checklist also requests three months of bank statements and requires the qualifying deposit to remain available during the application-review period.
+
+These are different requirements.
+
+Providing three months of transaction records does not necessarily mean the full qualifying balance must have been maintained throughout all three months.
+
+TVC's own marriage-visa page elsewhere correctly identifies the two-month deposit period, creating an internal contradiction.
+
+### Relevance to TVC's Professional Services
+
+These discrepancies are significant because TVC advertises annual extensions, financial-document preparation, bank-account assistance, and immigration coordination as paid services.
+
+Incorrect form instructions can cause customers to prepare the wrong application paperwork.
+
+Incorrect deposit-maintenance advice can also affect financial planning, particularly for couples arranging substantial bank transfers before an extension deadline.
+
+The evidence does not establish that TVC submits incorrect forms for customers or that its internal processing follows the published mistakes.
+
+However, **its commercial service pages provide incorrect or contradictory instructions concerning two fundamental aspects of annual visa extensions: the required application form and the financial qualification period.**
+
+The company should correct both renewal checklists, distinguish TM47 reporting receipts from TM7 extension applications, and reconcile its marriage-visa deposit instructions with official immigration requirements.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -2792,3 +2856,8 @@ Thai Visa Centre should correct its filing-window descriptions, identify the app
 [^159]: https://tvc.co.th/guides/permanent-residence-thailand — Thai Visa Centre, permanent-residence guide, marked reviewed June 2026.
 [^160]: https://www.phangngaimmigration.go.th/news/06-03-2026 — Phang Nga Immigration, March 6, 2026, official announcement of permanent-residency quota, application dates, and submission locations.
 [^161]: https://tvc.co.th/guides/thailand-e-visa — Thai Visa Centre, e-Visa guide acknowledging that permanent residence follows separate application procedures.
+
+[^162]: https://tvc.co.th/visas/thailand-marriage-visa — Thai Visa Centre, marriage-visa service page, renewal instructions and bank-deposit requirements.
+[^163]: https://tvc.co.th/visas/thailand-retirement-visa — Thai Visa Centre, retirement-visa service page, annual renewal instructions.
+[^164]: https://pathumthani.imm.police.go.th/wp-content/uploads/2025/09/1.6.2-Wife.pdf — Pathum Thani Immigration, September 2025, official marriage-extension checklist specifying TM7, two-month deposit maintenance, and supporting documents.
+[^165]: https://www.samutprakanimmigration.go.th/download-forms/ — Samut Prakan Immigration, official form directory distinguishing TM7 extension applications from TM47 address notifications.
