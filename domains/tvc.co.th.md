@@ -1156,6 +1156,171 @@ The incorrect TM87 instructions introduce another category of concern: the accur
 
 The company should correct the misclassification, reconcile the two guides, and explain how its claimed editorial-review process allowed contradictory filing instructions to remain published simultaneously.
 
+## Contradictory Claims About Submitting Immigration Applications on Customers' Behalf
+
+Thai Visa Centre publishes conflicting descriptions of its role in preparing and submitting immigration applications.
+
+Several guides explicitly state that the agency does not submit applications on customers' behalf and provides only document preparation, checklist reviews, and related assistance.
+
+However, other publications describe application submission through Thai Visa Centre, immigration representatives attending government offices, and documents being filed on customers' behalf.
+
+**These contradictory representations concern a fundamental aspect of the service being sold: whether the agency actually handles official submissions or leaves that responsibility with the customer.**
+
+### Multiple Guides Explicitly Deny Submitting Applications
+
+Thai Visa Centre's *Thailand Visa Guide — Complete Overview for Visitors and Long-Stay Residents* describes the agency's assistance as document preparation in Bangkok.
+
+Its application checklist explicitly states that customers must lodge their applications through official government channels and that Thai Visa Centre does not submit on their behalf.[^106]
+
+The same assertion appears in the article's frequently asked questions.
+
+The guide does not describe submission as an optional additional service or identify which visa categories might receive direct representation.
+
+Instead, it presents document preparation as the extent of TVC's role.
+
+This language is repeated across other immigration publications.
+
+The agency's *Top 10 Thai Visa Application Mistakes to Avoid* guide again states that the customer must lodge the application personally or through official government channels, while TVC provides preparation and review services.[^107]
+
+**The repeated wording gives readers the impression that Thai Visa Centre does not act as the party formally submitting their immigration applications.**
+
+### The Contradiction Extends to Thailand Privilege
+
+The inconsistency is especially apparent when examining Thailand Privilege applications.
+
+Thai Visa Centre's guide comparing Thailand Privilege, DTV, and LTR visas specifically addresses customers choosing between long-term immigration programs.
+
+Under its frequently asked questions, the article again states that TVC prepares documents and checklists but does not submit applications on customers' behalf.[^108]
+
+Its separate guide to upgrading Thailand Privilege memberships repeats the same restriction.[^109]
+
+However, another TVC publication makes a materially different representation.
+
+The guide *Thailand Elite Visa Application Forms: Documents, GSSA Workflow, and Compliance in 2026* expressly states that Thailand Privilege forms may be submitted through an authorized General Sales and Services Agent, naming Thai Visa Centre as an example.[^110]
+
+The article identifies the application pathway as submission through a GSSA and invites customers to begin the process with TVC.
+
+Its related-service links specifically advertise application submission through the agency.
+
+**Thai Visa Centre therefore tells Thailand Privilege customers that applications are not submitted on their behalf while separately promoting submission through TVC as part of its Thailand Privilege service.**
+
+These statements cannot be reconciled merely by distinguishing Thai visas from foreign visa applications, because both sets of instructions address the same Thailand Privilege program.
+
+The publications do not explain whether TVC provides formal submission services for some applicants, whether an external accredited agent handles submissions, or whether the statements denying representation are inaccurate.
+
+### The Agency's Reputation-Defense Page Describes Direct Immigration Filing
+
+Thai Visa Centre provides a substantially different account of its operations on its own reputation-defense page, `tvc.co.th/scam`.[^3]
+
+That publication describes a customer case-management system tracking immigration applications from initial document intake through submission, collection, and return of passports.
+
+It advertises:
+
+- Photographs recording when documents are prepared, submitted, and collected.
+- Digital copies of official immigration receipts.
+- Records showing what has been filed on customers' behalf.
+- Passport submissions made directly through Thai Immigration.
+- Case-status updates documenting interactions with immigration authorities.
+
+The company also states that its documents and passports are handled through official immigration channels.
+
+These representations go considerably beyond providing a checklist for customers to use independently.
+
+**Thai Visa Centre's own account of its operations describes active participation in immigration submissions, including handling passports, filing documentation, and collecting official records.**
+
+The publication does not establish that TVC acts as an authorized representative for every visa category or every customer.
+
+However, its broad description conflicts with the categorical statements elsewhere on the website that the agency does not submit applications on customers' behalf.
+
+### A Clearly Documented Example: 90-Day Reporting
+
+Thai Visa Centre's 90-day reporting service provides an additional illustration.
+
+Its guide *90-Day Reporting Step-by-Step* states that the company files hundreds of TM47 reports for customers through `90day.in.th`.[^111]
+
+The guide specifically describes the operator submitting reports on customers' behalf using their address information.
+
+Thai Visa Centre's reputation-defense page independently confirms that representatives physically attend immigration offices for customers who purchase the reporting service.[^3]
+
+AGENTS CO., LTD., the operator of `90day.in.th`, describes a comparable in-person proxy submission arrangement.
+
+This is a routine immigration notification rather than an initial visa application, so the procedures and eligibility rules are different.
+
+Nevertheless, **it establishes that the business network publicly advertises direct government submissions as a paid service**, rather than limiting all assistance to document preparation.
+
+The important distinction is which services involve direct representation and which require customers to attend or submit applications themselves.
+
+TVC's general statements do not clearly explain that division.
+
+### Different Services May Legitimately Require Different Arrangements
+
+There are legitimate reasons why an immigration agency might submit some documents but not others.
+
+Certain procedures require applicants to appear personally, provide biometrics, attend interviews, or use designated government submission channels.
+
+Other procedures may permit authorized representatives or accredited intermediaries to perform specific tasks.
+
+For example, a customer may need to attend a foreign embassy personally while an agent prepares supporting documentation.
+
+A Thai immigration representative may separately be permitted to submit routine reporting paperwork.
+
+**The problem is not that every immigration service must use an identical submission procedure. It is that TVC publishes incompatible statements without clearly identifying which arrangements apply to its different advertised services.**
+
+Its Thailand Privilege guidance is particularly revealing because the contradictory submission statements appear within publications addressing the same membership program.
+
+Customers should not have to determine whether the agency will handle their application by comparing unrelated pages on the same website.
+
+### Implications for Fees, Refunds, and Responsibility
+
+The distinction between document preparation and formal representation is commercially significant.
+
+A document-preparation service might provide checklists, translations, eligibility reviews, and supporting paperwork while leaving the actual application entirely to the customer.
+
+A submission or representation service may additionally involve handling original passports, arranging government appointments, paying official charges, delivering documents, and tracking decisions.
+
+Those activities create different expectations concerning:
+
+1. What customers receive for the amount paid.
+2. Who is responsible for submitting the correct application before a deadline.
+3. Whether the customer must attend immigration or an embassy personally.
+4. How official submission receipts and application records are obtained.
+5. Whether refunds remain available when the agency has not completed a promised filing.
+
+Thai Visa Centre's published Refund Policy separately distinguishes situations in which an application has or has not been submitted to an embassy or consulate.[^112]
+
+That contractual distinction implies that the timing of submission can materially affect customers' refund rights.
+
+However, the company's public guides do not consistently identify when TVC itself is responsible for performing that submission.
+
+**A customer purchasing professional immigration assistance needs to know whether the agency promises to complete the filing or merely prepare documents for the customer to submit.**
+
+The distinction becomes even more important when the agency accepts advance payments or retains customers' passports.
+
+### Relevance to the Broader Investigation
+
+The existing investigation documents uncertainties concerning Thai Visa Centre's corporate identity, government accreditation, contractual responsibility, and advertised processing arrangements.
+
+The submission discrepancy adds a more fundamental question about the scope of the service itself.
+
+Thai Visa Centre cannot provide a reliable explanation of its commercial responsibilities while simultaneously publishing that:
+
+- Customers must submit their own applications.
+- Thailand Privilege forms can be submitted through TVC.
+- Immigration paperwork is filed on customers' behalf.
+- Its representatives perform physical government submissions.
+
+These statements may describe different service categories, but the company does not consistently distinguish them.
+
+The available evidence does not establish that applications were submitted without authorization, that the company falsely claimed to perform particular filings, or that customers were charged for services not delivered.
+
+**It does establish that Thai Visa Centre publishes contradictory descriptions of its role in the official application process while selling services whose value and contractual obligations depend on precisely that distinction.**
+
+The company should identify which immigration procedures it submits directly, which are handled through external accredited agents, and which must be lodged by customers themselves.
+
+It should also reconcile those distinctions with its refund provisions and the representations made through its customer case-tracking system.
+
+**For an agency advertising professional visa processing, the inability to provide consistent public explanations of who actually submits the application raises significant questions about transparency and accountability.**
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -1266,3 +1431,11 @@ The company should correct the misclassification, reconcile the two guides, and 
 [^103]: https://thailand.go.th/public/useful-information-detail/001-01-014-2-2
 [^104]: https://thailand.go.th/visit-thailand-detail/001_01_074
 [^105]: `https://tvc.co.th/guides/thai-immigration-forms`
+
+[^106]: `https://tvc.co.th/guides/thailand-visa`
+[^107]: `https://tvc.co.th/guides/top-10-thai-visa-application-mistakes-to-avoid-in-2025`
+[^108]: `https://tvc.co.th/guides/thailand-privilege-dtv-ltr-which-thai-visa-is-best-for-bringing-your-family-to-thailand`
+[^109]: `https://tvc.co.th/guides/how-to-upgrade-your-thailand-elite-visa`
+[^110]: `https://tvc.co.th/guides/thailand-elite-visa-application-forms`
+[^111]: `https://tvc.co.th/guides/90-day-reporting-step-by-step`
+[^112]: `https://tvc.co.th/policy/refund`
