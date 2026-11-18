@@ -3305,6 +3305,79 @@ Nevertheless, **its commercial website misrepresents an important ongoing immigr
 
 Thai Visa Centre should correct the service page, distinguish membership validity from each entry's permitted stay, and explain the available extension and re-entry procedures consistently across its publications.
 
+
+## LTR Visa Sales Page Retains Eligibility Requirements Abolished in 2025
+
+Thai Visa Centre's commercial Long-Term Resident (LTR) visa page continues imposing financial and employment-history requirements removed by Thailand's Board of Investment (BOI) in February 2025.[^197]
+
+The discrepancies affect wealthy investors, remote workers, and highly skilled professionals.
+
+**More significantly, TVC has published a separate guide correctly explaining these reforms, demonstrating that its own immigration guidance contradicts its commercial eligibility checklist.**
+
+### Sales Page Requires Income No Longer Mandatory for Wealthy Investors
+
+Under *Wealthy Global Citizens*, TVC lists personal income of at least **USD 80,000 annually for the preceding two years** as a required qualification.[^197]
+
+However, BOI Announcement Por. 3/2568, effective February 4, 2025, abolished that income requirement.[^198]
+
+Applicants must still demonstrate:
+
+- At least USD 1 million in qualifying assets.
+- At least USD 500,000 in qualifying Thai investments.
+- Compliance with the applicable healthcare and immigration requirements.
+
+The reform removed the personal-income test, not the underlying wealth and investment thresholds.
+
+**A financially qualified investor could incorrectly conclude that they are ineligible solely because their annual income falls below USD 80,000.**
+
+### Five-Year Work Experience Requirements Were Also Removed
+
+TVC's same service page requires:
+
+- Five years of relevant work experience for Work-from-Thailand Professionals.
+- Five years of experience in targeted industries for Highly Skilled Professionals.[^197]
+
+Both requirements were removed under the 2025 reforms.
+
+The BOI's official announcement confirms that the government eliminated the minimum five-year experience requirement for these two categories.[^199]
+
+Applicants must still satisfy their category's applicable income, employment, employer, or professional qualifications.
+
+For example, Work-from-Thailand Professionals generally need qualifying overseas employment and must meet the relevant personal-income threshold.
+
+**The absence of five years' employment history is no longer, by itself, grounds to exclude an otherwise qualified applicant.**
+
+### TVC's Own 2025 Guide Explains the Changes Correctly
+
+The most significant contradiction is internal.
+
+Thai Visa Centre publishes a separate article titled *LTR Visa Thailand Eases Eligibility Requirements: What Changed in 2025 and Who Benefits*.[^200]
+
+That article correctly explains:
+
+1. Wealthy Global Citizens no longer need USD 80,000 in annual personal income.
+2. Five-year experience requirements were removed for Work-from-Thailand and Highly Skilled Professionals.
+3. The qualifying overseas-employer revenue threshold was reduced from USD 150 million to USD 50 million over three years.
+4. Dependent eligibility was expanded under the revised framework.
+
+It identifies February 4, 2025, as the effective date and refers to the same official BOI announcement.
+
+**TVC therefore possesses and publishes accurate information about the reforms but has not reconciled that information with the eligibility criteria on its main commercial service page.**
+
+### Consequences for Potential Applicants
+
+LTR visas offer up to ten years of residence, subject to continuing qualification checks, along with immigration and tax privileges.
+
+Applicants often require substantial financial documentation and professional assistance to establish eligibility.
+
+Incorrect eligibility requirements can discourage legitimate applicants from applying, lead to unnecessary document preparation, or produce inaccurate assessments before a customer pays for services.
+
+The available evidence does not establish that TVC has rejected qualified customers, collected unnecessary fees, or knowingly misrepresented an applicant's eligibility.
+
+However, **its commercial eligibility checklist continues to enforce requirements that the agency itself correctly describes as abolished more than a year earlier**.
+
+Thai Visa Centre should update the LTR service page to reflect BOI Announcement Por. 3/2568, distinguish current requirements from historical criteria, and reconcile its sales materials with its own accurate reform guide.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -3526,3 +3599,8 @@ Thai Visa Centre should correct the service page, distinguish membership validit
 [^194]: https://phrae.immigration.go.th/wp-content/uploads/2024/06/Immigration_Act_B.E._2522.pdf — Immigration Act B.E. 2522 (1979), Sections 37, 48, and 50, as published by Phrae Immigration.
 [^195]: https://ltr.boi.go.th/page/how-to-manage.html — Thailand Board of Investment, official annual reporting requirements for LTR visa holders.
 [^196]: https://thailand.go.th/issue-focus-detail/001-01-053?hl=en — Thai government, alien identity certificates, police registration, and one-year or five-year renewals.
+
+[^197]: https://tvc.co.th/visas/thailand-long-term-resident-visa-ltr — Thai Visa Centre, LTR commercial service page, including outdated income and work-experience requirements.
+[^198]: https://ltr.boi.go.th/documents/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_3_2568_%28EN%29.pdf — Thailand Board of Investment, Announcement Por. 3/2568, effective February 4, 2025.
+[^199]: https://www.boi.go.th/index.php?_module=news&from_page=press_releases&language=en&page=press_releases_detail&topic_id=136393 — Thailand Board of Investment, official announcement explaining changes to LTR eligibility.
+[^200]: https://tvc.co.th/guides/ltr-visa-thailand-eases-eligibility-requirements — Thai Visa Centre, guide correctly explaining the 2025 LTR reforms.
