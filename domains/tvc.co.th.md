@@ -2543,6 +2543,79 @@ Finally, it should explain the conflicting terminology and unrelated divorce mat
 
 **The central finding is not that every paper-based procedure disappeared in October 2025. It is that Thai Visa Centre continues presenting incomplete and internally inconsistent work-permit guidance while advertising professional assistance and claiming to have reviewed the material after a major government reform.**
 
+
+## Permanent-Residency Guides Misstate Application Dates and Filing Procedures
+
+Thai Visa Centre advertises professional assistance with Thailand's permanent-residency applications, including eligibility assessments, document preparation, and immigration coordination.
+
+However, its published guidance contains two significant discrepancies concerning when and where applications must be submitted.[^158][^159]
+
+**The agency repeatedly identifies October–December as the annual application period, despite Thailand's Immigration Bureau accepting applications from March 9 to April 3, 2026.**
+
+Its separate permanent-residence guide also directs applicants toward embassy and e-Visa submission channels that do not handle ordinary permanent-residency applications.
+
+### TVC Advertises an Incorrect Application Window
+
+Thai Visa Centre's *Thailand Permanent Residency* service page identifies October–December as the annual application period.[^158]
+
+Its eligibility requirements state:
+
+> Must apply during annual quota period (October-December)
+
+The page repeats the restriction under its quota requirements and tells unsuccessful applicants they can reapply during the following October–December period.
+
+However, Thailand's Immigration Bureau announced a different timetable for its latest documented intake.
+
+Under the government's February 26, 2026 announcement covering the **2025 permanent-residency quota**, applications were accepted from **March 9 through April 3, 2026**.[^160]
+
+The announcement established quotas of 100 applicants per nationality and 50 stateless applicants.
+
+Permanent-residency application periods are determined by government announcements and can change between quota years.
+
+October–December may describe earlier application arrangements, but it was not the filing period used for the 2025 quota intake conducted in 2026.
+
+**TVC presents a historical filing window as a fixed annual requirement rather than directing applicants to the government's actual announced dates.**
+
+### Its Application Guide Gives Incorrect Filing Channels
+
+The discrepancy extends to TVC's *Permanent Residence Thailand Guide*, marked reviewed June 2026.[^159]
+
+Under its application stages, the guide instructs readers to:
+
+> Submit at embassy, e-Visa portal, or immigration with originals and fees.
+
+Its common-mistakes section separately warns applicants against missing a December deadline.
+
+However, the Immigration Bureau's March 2026 announcement identified specific domestic application locations.[^160]
+
+Bangkok applicants were directed to Sub-Division 1, Immigration Division 1, at the Government Complex on Chaeng Watthana Road.
+
+Applicants elsewhere could submit through the appropriate provincial immigration office or a nearby immigration office.
+
+The ordinary Thai e-Visa portal is used for qualifying visa applications, not permanent-residency applications under the Immigration Bureau's annual quota.
+
+**TVC's own Thailand e-Visa guide acknowledges that permanent residence follows a separate procedure outside the standard e-Visa system.**[^161]
+
+Its permanent-residence guide therefore provides filing instructions that conflict with both the government's published procedure and the company's explanation elsewhere.
+
+### Why These Errors Matter
+
+Permanent residence involves extensive supporting documentation, eligibility requirements, government fees, and a limited annual filing period.
+
+Applicants may spend months preparing financial records, employment evidence, translations, and other supporting documents.
+
+Incorrect guidance about filing dates or submission channels could cause applicants to miss the actual intake or prepare for an unavailable application route.
+
+The June 2026 review date is particularly relevant because the March–April application period had already concluded.
+
+The available evidence does not establish that Thai Visa Centre has missed filing deadlines for customers or submitted permanent-residency applications through an invalid channel.
+
+Its actual case-handling procedures may differ from its public instructions.
+
+**What is established is that the agency advertises professional permanent-residency assistance while publishing application dates and filing instructions inconsistent with the government's documented 2026 procedures.**
+
+Thai Visa Centre should correct its filing-window descriptions, identify the appropriate government application channels, and explain why its June 2026 guidance continued referencing a December deadline after the March–April intake.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -2714,3 +2787,8 @@ Finally, it should explain the conflicting terminology and unrelated divorce mat
 [^155]: https://www.mol.go.th/en/news/labour-minister-presents-work-permits-to-foreign-business-executives-highlights-e-workpermit-as-a-convenient-transparent-and-accountable-solution-for-migrant-workers — Ministry of Labour, October 15, 2025, electronic application workflow and permit issuance.
 [^156]: https://www.fragomen.com/insights/thailand-mandatory-online-work-permit-and-foreign-worker-registration-system-forthcoming.html — Fragomen, successive 2026 updates concerning extensions to manual submission arrangements.
 [^157]: https://www.fragomen.com/insights/thailand-new-work-permit-submission-options-for-companies-eligible-for-the-rapid-process.html — Fragomen, April 28, 2026, manual and electronic filing arrangements for eligible employers.
+
+[^158]: https://tvc.co.th/visas/thailand-permanent-residency — Thai Visa Centre, permanent-residency service page, including October–December application claims.
+[^159]: https://tvc.co.th/guides/permanent-residence-thailand — Thai Visa Centre, permanent-residence guide, marked reviewed June 2026.
+[^160]: https://www.phangngaimmigration.go.th/news/06-03-2026 — Phang Nga Immigration, March 6, 2026, official announcement of permanent-residency quota, application dates, and submission locations.
+[^161]: https://tvc.co.th/guides/thailand-e-visa — Thai Visa Centre, e-Visa guide acknowledging that permanent residence follows separate application procedures.
