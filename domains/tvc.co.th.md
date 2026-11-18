@@ -40,39 +40,95 @@ On October 21, 2026, Jesse Nickles complained to [THNIC](../brands/thnic.md) abo
 
 On October 29, THNIC representative [Suthida Tepaloon](../people/suthida-tepaloon.md) confirmed that the complaint had been forwarded to the domain registrant with a request to review and update the disputed webpage. On November 5, she confirmed that THNIC's executive management and Legal Team were reviewing the matter. On November 10, she stated that THNIC would maintain the domain's operation unless presented with an explicit court order or official order from a competent Thai government authority directing its suspension. As of November 12, THNIC had not confirmed whether the registrant had responded or removed the disputed content.[^1]
 
-## Review Aggregation and Conflicting Reputation Claims
+## Thai Visa Centre's Review Statistics Contain Unexplained Discrepancies
 
-An earlier observed version of Thai Visa Centre's homepage advertised a **4.9-star rating based on 4,351 verified reviews**, claiming its review history extended back to **2007**.[^14]
+Thai Visa Centre promotes a 4.9-star reputation based on thousands of supposedly verified customer reviews. Its published figures, however, cannot be reconciled from the information supplied by the company.
 
-However, the company's own Google-review transparency report shows its earliest Google reviews appearing in **2018**, with no recorded activity from 2007 through early 2018. Its former primary domain, `thaivisacentre.com`, was registered on January 15, 2018, while [TVC. Visa Agent Co., Ltd.](../companies/tvc-visa-agent-co-ltd.md) was not incorporated until August 18, 2020.[^15][^16]
+On November 18, 2026, its main review archive advertised **4,498 reviews**, but the visible breakdown accounted for only **3,837**. The homepage simultaneously advertised **4,358 verified reviews**, a separate difference of 140.[^14][^129][^130]
 
-The company does not explain which earlier business, Facebook page, or other review source accounts for its claimed history dating to 2007, or establish continuity between those older ratings and the current Thai Visa Centre operation.
+These inconsistencies do not establish fabricated reviews or deliberate rating inflation. They establish that the company's precise, commercially valuable reputation claims lack a complete, consistent public accounting.
 
-### Historical Facebook Ratings Counted as Verified Reviews
+### The Rating Breakdown Leaves 661 Reviews Unexplained
 
-The advertised total also includes **1,191 historical five-star Facebook ratings**, alongside 471 written Facebook reviews. Those historical ratings alone represented more than **27% of the 4,351 reviews advertised in that earlier snapshot**.[^14]
+The review archive displayed the following figures on November 18, 2026:[^129]
 
-The headline presents all entries as verified customer reviews, although a historical star rating without written feedback provides considerably less information about the customer's identity, service purchased, or actual experience.
+| Rating | Reviews displayed |
+|---|---:|
+| 5 stars | 3,768 |
+| 4 stars | 55 |
+| 3 stars | 12 |
+| 2 stars | 2 |
+| 1 star | Not displayed |
+| **Total classified** | **3,837** |
+| **Advertised total** | **4,498** |
+| **Unexplained difference** | **661** |
 
-### Separately Rated Trustpilot Profiles
+The unexplained difference is approximately **14.7% of the advertised total**. It is not possible to tell whether these 661 records represent historical ratings, entries without star values, differently classified platform data, or something else.
 
-As of November 17, 2026, Trustpilot displayed substantially different ratings for domains associated with the same immigration-service network:
+Importantly, **the 661 missing classifications cannot be assumed to represent negative reviews**. Nor does the discrepancy alone prove the advertised 4.9-star average is mathematically wrong: the company might use weighting or aggregation rules it has not disclosed.
+
+### The Google-Only Figures Contradict the Broader Breakdown
+
+TVC's separate *Google Review Deepdive* acknowledged one-star reviews that were absent from the main archive's visible breakdown.[^130]
+
+In the earlier November 18 snapshot examined, that report listed **2,128 Google reviews**: 2,023 five-star, 56 four-star, 13 three-star, two two-star, and **34 one-star** reviews. Those figures add up correctly.
+
+But the supposedly broader multi-platform archive counted only 55 four-star and 12 three-star reviews—**fewer in both categories than the Google-only subset**. If those figures describe the same underlying Google reviews, the combined total should not contain fewer ratings in those categories.
+
+Different refresh times could explain small differences between snapshots. They do not, without further explanation, reconcile the omission of the one-star category and the substantially larger 661-review gap.
+
+### The Homepage and Archive Differ by Another 140 Reviews
+
+On November 18, 2026, TVC's homepage advertised 4,358 verified reviews, while the archive and transparency report advertised 4,498.[^14][^129][^130]
+
+The homepage identified a review-data refresh at **17:01 Thailand time that day**, so its smaller total was not clearly labeled as an old historical snapshot.
+
+The homepage's breakdown listed 2,132 Google reviews, 1,662 Facebook reviews, and 564 reviews from other verified sources—**4,358 in total**. The separate report also identified 2,132 Google reviews but attributed another 2,366 to Facebook and Trustpilot, producing 4,498.
+
+Thus the entire **140-review discrepancy lies in the non-Google portion**: 2,226 on the homepage versus 2,366 in the report.
+
+Caching differences or source-classification rules might account for it, but the publications did not identify the additional records or explain the methodology.
+
+### Historical Facebook Ratings and Separate Trustpilot Profiles
+
+An earlier observed homepage snapshot advertised 4,351 verified reviews and claimed a review history reaching back to **2007**.[^14] The company's own Google report showed its earliest Google reviews in **2018**. The former main domain, thaivisacentre.com, was registered in January 2018, and TVC. Visa Agent Co., Ltd. was incorporated in August 2020.[^15][^16]
+
+This does not rule out an earlier business or review history. TVC does not, however, explain the continuity behind its 2007 claim.
+
+The earlier total included **1,191 historical five-star Facebook ratings** as well as 471 written Facebook reviews. The historical ratings alone represented more than 27% of the 4,351 advertised entries, despite providing no accompanying account of the service purchased.[^14]
+
+Trustpilot also displayed sharply different ratings for domains associated with the same service network on November 17, 2026:[^17][^18]
 
 | Domain | Trustpilot rating | Reviews |
 |---|---:|---:|
-| `tvc.co.th` | 4.9 | 568 |
-| `tvc.in.th` | 3.2 | 7 |
-| `tdac.in.th` | 2.3 | 7 |
-| `dtv.in.th` | 2.8 | 3 |
+| tvc.co.th | 4.9 | 568 |
+| tvc.in.th | 3.2 | 7 |
+| tdac.in.th | 2.3 | 7 |
+| dtv.in.th | 2.8 | 3 |
 
-The distinction between the first two is especially significant. **`tvc.in.th` redirects through `thaivisacentre.com` to `tvc.co.th`**, yet Trustpilot maintains a separate, considerably lower-rated profile under the alternative domain.[^17][^18]
+Notably, tvc.in.th redirected through thaivisacentre.com to tvc.co.th, while retaining a separate, lower-rated Trustpilot profile. Trustpilot indicated that the main profile had already absorbed at least one other profile, without identifying every original source.[^17][^18]
 
-Trustpilot also discloses that the main `tvc.co.th` profile has already been merged with one or more other profiles, without identifying the origins of every transferred review.[^17]
+These smaller samples are inadequate for generalizing about customer satisfaction. They nevertheless show why a combined company-compiled headline rating should not be mistaken for one independently verified assessment of every associated domain.
 
-The smaller profiles have too few reviews to provide reliable comparisons of overall customer satisfaction. Nevertheless, they document criticism appearing under domains directly associated with Thai Visa Centre and its commercial services.
+### Claims of Unfiltered Reviews Conflict With Removal Language
 
-**Thai Visa Centre promotes a combined 4.9-star reputation while providing no clear reconciliation of its separate Trustpilot profiles, historical Facebook ratings, or claimed review history dating to 2007.** Its advertised total is a company-compiled marketing figure, not a single independently verified rating covering every associated domain.
+TVC's Google transparency report says reviews are not incentivized or filtered, but also states:
 
+> Reviews without detail (positive or negative) may be removed as suspicious.[^130]
+
+The report does not clarify who makes that decision, whether it applies to TVC's own submissions or external platforms, or what rules govern removal.
+
+Meanwhile, the main archive includes five-star Google ratings without written feedback.[^129] Such ratings can be legitimate, and a policy saying incomplete submissions *may* be removed does not require deleting all of them. Nonetheless, the differing treatment criteria remain unexplained.
+
+The Google-only report offers useful statistics and a downloadable dataset, but that alone does not reconcile the company's larger, multi-platform review corpus.
+
+### What Thai Visa Centre Should Explain
+
+TVC should publish a reproducible account of the **661 unclassified reviews**, the omitted one-star category, and the **140-review difference** between its homepage and archive. It should identify the sources of historical Facebook ratings, explain the relationship between associated Trustpilot profiles, and disclose how its combined 4.9-star average and review-removal rules operate.
+
+**The evidence does not establish fabricated customer reviews, deliberate suppression of criticism, or intentional manipulation of the rating.** It establishes that TVC's published review totals, rating distributions, and filtering explanations are inconsistent or insufficiently documented.
+
+Those unresolved discrepancies warrant scrutiny because the company uses its claimed verified reputation to market immigration services involving substantial fees, personal documents, and legal deadlines.
 ## Misleading Retirement Visa Bank-Deposit Instructions
 
 Thai Visa Centre publishes an FAQ titled *Do Retirement Funds Have to Stay in the Bank Account?*, claiming customers can withdraw their 800,000-baht retirement deposit after immigration approves their extension and replenish the account before their next renewal.[^21]
@@ -1835,243 +1891,6 @@ It adds another substantial inconsistency to the existing investigation into Tha
 
 **An agency claiming to specialize in complex immigration applications should not direct customers toward a work permit that Thailand's own investment authority explicitly states they cannot obtain.**
 
-## Hundreds of Reviews Missing From Published Rating Breakdown
-
-Thai Visa Centre promotes its customer reputation through a dedicated review archive and a separate transparency report intended to demonstrate the authenticity of its reviews.
-
-However, the figures published across these two resources contain substantial inconsistencies.
-
-In the version examined on November 18, 2026, the company's main review archive advertised **4,498 reviews with an average rating of 4.9 stars**.[^129]
-
-Yet its visible star-rating breakdown accounted for only **3,837 reviews**, leaving **661 reviews unaccounted for**.
-
-The breakdown also omitted the one-star category entirely, despite a separate transparency report explicitly acknowledging negative Google reviews.[^130]
-
-**Thai Visa Centre presents precise reputation statistics as verified evidence of customer satisfaction without providing a complete, internally consistent account of the ratings underlying those claims.**
-
-### The Published Numbers Do Not Add Up
-
-The main review archive displayed the following figures during the examination:
-
-| Rating | Reviews displayed |
-|---|---:|
-| 5 stars | 3,768 |
-| 4 stars | 55 |
-| 3 stars | 12 |
-| 2 stars | 2 |
-| 1 star | Not displayed |
-| **Total accounted for** | **3,837** |
-| **Advertised total** | **4,498** |
-| **Unexplained difference** | **661** |
-
-The discrepancy represents approximately **14.7% of the advertised review total**.
-
-The website does not explain whether these additional reviews are unrated entries, historical ratings excluded from the distribution, reviews assigned to another category, or records omitted for some other reason.
-
-Nor does the visible breakdown provide the one-star count needed to reconstruct the advertised average.
-
-**A customer reviewing the published statistics cannot determine how 4,498 claimed reviews produce the displayed 4.9-star rating.**
-
-This does not independently establish that the average is mathematically false.
-
-The company may use a weighted calculation, incorporate historical ratings, or combine records from different platforms.
-
-However, any such methodology must account for the full underlying dataset if the figures are being presented as a transparent breakdown of customer satisfaction.
-
-### The Company's Google-Only Report Acknowledges One-Star Reviews
-
-Thai Visa Centre's separate *Google Review Deepdive* provides a more complete star-rating distribution.[^130]
-
-In the earlier November 18, 2026 snapshot used for the comparison below, that publication identified **2,128 Google reviews** and broke them down as follows:
-
-| Rating | Google reviews |
-|---|---:|
-| 5 stars | 2,023 |
-| 4 stars | 56 |
-| 3 stars | 13 |
-| 2 stars | 2 |
-| 1 star | 34 |
-| **Total** | **2,128** |
-
-Unlike the main archive, this table explicitly acknowledges one-star reviews.
-
-The Google-only figures sum correctly to the stated total.
-
-However, they create an additional inconsistency.
-
-The main archive's purportedly broader, multi-platform distribution lists only 55 four-star reviews and 12 three-star reviews.
-
-The Google-only subset lists 56 four-star reviews and 13 three-star reviews.
-
-If the main archive includes the same Google reviews alongside Facebook and Trustpilot, its corresponding rating categories should not contain fewer reviews than those recorded in the Google subset.
-
-**The published Google-only statistics cannot be directly reconciled with the main archive's supposedly comprehensive rating breakdown.**
-
-Different data-refresh schedules might explain small discrepancies between the two publications.
-
-They do not explain why the main archive omits one-star reviews or leaves hundreds of advertised ratings without a visible classification.
-
-### The Missing Reviews Cannot Simply Be Assumed Negative
-
-An important evidentiary distinction must be preserved.
-
-The 661 unexplained reviews cannot automatically be classified as one-star reviews.
-
-They could include historical Facebook ratings, records with unavailable star values, duplicated entries excluded from one calculation, or reviews imported under a separate aggregation method.
-
-The website does not provide enough information to determine their composition.
-
-Nor does the published discrepancy establish that TVC manipulated individual reviews.
-
-**The documented problem is the absence of a reconciliation between the displayed rating distribution and the headline total—not proof that every missing entry represents negative customer feedback.**
-
-This distinction matters because an investigative examination should identify verifiable inconsistencies without replacing missing evidence with assumptions.
-
-### Review Filtering Statements Introduce Another Contradiction
-
-The company's Google transparency report also makes conflicting statements about review selection and removal.
-
-Its methodology section declares that reviews are not incentivized or filtered.[^130]
-
-However, the same section describes a review-submission process that requests details of the service purchased, an explanation of the customer's experience, and a supporting photograph.
-
-It subsequently states:
-
-> Reviews without detail (positive or negative) may be removed as suspicious.
-
-The report does not explain who makes such removal decisions or whether the statement concerns submissions to TVC's own collection system, records displayed on its website, or reviews moderated by external platforms.
-
-There are legitimate reasons to investigate suspicious review activity.
-
-Google and Trustpilot maintain their own rules governing fraudulent engagement, spam, and content removal.
-
-However, those platform moderation processes are distinct from discretionary decisions made by a business collecting and republishing customer feedback.
-
-**Thai Visa Centre's assertion that its reviews are not filtered is difficult to reconcile with its separate statement that reviews lacking detail may be removed.**
-
-The company does not publish criteria demonstrating how these decisions are applied consistently to positive and negative submissions.
-
-### Five-Star Reviews Without Written Feedback Remain Published
-
-The inconsistency is particularly relevant because the main review archive contains five-star entries without substantive written testimonials.
-
-Some records explicitly state that the customer submitted a five-star Google rating without a written comment.[^129]
-
-Those records are still presented as genuine reviews.
-
-This does not establish preferential treatment.
-
-A five-star rating without text can be legitimate, and the statement that incomplete reviews *may* be removed does not mean every such entry must be excluded.
-
-Nevertheless, **the website retains at least some positive ratings without written feedback while publishing a discretionary policy permitting removal of reviews lacking detail**.
-
-The company does not explain how that discretion is exercised or whether negative ratings without accompanying narratives receive identical treatment.
-
-Those unanswered questions are relevant because the transparency report presents itself as evidence that the company's customer-review collection is reliable and unbiased.
-
-### The Company's Own Methodology Requires Greater Transparency
-
-Thai Visa Centre's Google-only report provides detailed statistics concerning reviewer histories, Local Guide participation, photographs, review frequency, and historical activity.
-
-It also offers a downloadable Google review dataset for independent examination.[^130]
-
-These disclosures are more substantive than a generic marketing claim about customer satisfaction.
-
-However, the report covers only approximately 47% of the advertised multi-platform review corpus.
-
-The remaining reviews are attributed to Facebook and Trustpilot.
-
-The main archive combines those sources into a headline total and rating without publishing an equally clear, comprehensive explanation of their underlying distribution.
-
-The existing investigation has already documented that the company's review total includes historical Facebook ratings and that separately maintained Trustpilot profiles display different customer ratings.
-
-The new numerical discrepancies compound those earlier concerns.
-
-**A company cannot establish the transparency of its complete review corpus solely by publishing detailed statistics for one component while leaving the combined figures unexplained.**
-
-### Homepage and Review Archive Report Different Verified Totals
-
-Thai Visa Centre's own publications contain a further inconsistency concerning the number of customer reviews used to promote its reputation.
-
-On November 18, 2026, the company's homepage advertised **4,358 verified reviews**, while its dedicated review archive and Google-review transparency report each advertised **4,498 reviews**.[^14][^129][^130]
-
-The difference amounts to 140 reviews.
-
-Importantly, the homepage identified November 18, 2026, at 17:01 Thailand time as its most recent review-data refresh.
-
-The discrepancy therefore cannot simply be attributed to the homepage displaying an obviously obsolete historical review total.
-
-**The company simultaneously presents two different totals for what it describes as its verified, multi-platform customer-review collection.**
-
-The underlying source figures help narrow the inconsistency.
-
-The homepage reported:
-
-| Source | Reviews |
-|---|---:|
-| Google | 2,132 |
-| Facebook | 1,662 |
-| Other verified sources | 564 |
-| **Total** | **4,358** |
-
-The separate transparency report identified the same **2,132 Google reviews** but stated that another **2,366 reviews** originated from Trustpilot and Facebook, producing its larger total of 4,498.
-
-The homepage's non-Google subtotal was only 2,226.
-
-Consequently, **the entire 140-review difference lies in the non-Google portion of the advertised review collection**.
-
-This distinction matters because the company markets its combined review volume as evidence of extensive customer satisfaction and independently verifiable reputation.
-
-Different caching schedules, source classifications, or aggregation methods might explain the discrepancy.
-
-However, the publications did not identify which 140 additional records appeared in the larger total or why the homepage excluded them.
-
-The available evidence does not establish fabricated reviews or intentional inflation.
-
-It establishes that Thai Visa Centre's public reputation statistics were inconsistent across its own publications, even though those publications purported to describe the same verified customer-review collection.
-
-**The company should identify the additional 140 reviews, their originating platforms, and the methodology used to reconcile its homepage, review archive, and transparency report.**
-
-### Why the Missing Breakdown Matters
-
-A 4.9-star rating based on thousands of reviews is a commercially valuable reputation claim.
-
-Customers purchasing immigration services may rely on that rating when deciding whether to pay substantial fees, submit passport documents, or trust an agency with important immigration deadlines.
-
-The precision of the displayed statistics can make the reputation claim appear independently verifiable.
-
-However, a review summary should enable readers to understand:
-
-1. How many individual customer submissions are counted.
-2. How many ratings fall into each star category.
-3. Whether historical Facebook ratings are treated identically to written reviews.
-4. Whether reviews appearing across multiple platforms are deduplicated.
-5. How the combined average is calculated.
-6. Whether review-selection or removal policies affect the published dataset.
-
-Thai Visa Centre's reviewed publications do not provide a consistent explanation resolving these questions.
-
-### Questions the Company Should Answer
-
-The observed discrepancy calls for a straightforward accounting.
-
-Thai Visa Centre should explain why its main review archive advertised 4,498 reviews while visibly classifying only 3,837 of them.
-
-It should identify the missing 661 records by source and rating, explain why the one-star category was not displayed, and reconcile the multi-platform figures with its Google-only report.
-
-It should separately identify the additional 140 reviews claimed by the archive and transparency report but absent from the November 18 homepage total.
-
-The company should also clarify which reviews may be removed for insufficient detail and who controls those decisions.
-
-If historical Facebook ratings, imported reviews, or platform-specific exclusions explain the differences, the methodology should state this clearly.
-
-**The available evidence does not establish fabricated reviews, deliberate rating inflation, or the deletion of legitimate customer criticism.**
-
-It establishes something narrower and directly verifiable: **Thai Visa Centre's published rating breakdown does not account for its advertised review total, omits a negative rating category acknowledged elsewhere on the website, and contains figures inconsistent with its own Google-only data.**
-
-These discrepancies undermine the completeness of the company's public review-transparency claims.
-
-They warrant an independently reproducible accounting of the ratings used to support Thai Visa Centre's prominently advertised 4.9-star reputation.
 
 ## Mandatory LTR Health Insurance Claims Contradict Official BOI Alternatives
 
