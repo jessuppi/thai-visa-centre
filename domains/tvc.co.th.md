@@ -1641,6 +1641,200 @@ The company should identify the legal authority supporting that claim, explain w
 
 **Thai Visa Centre promotes paid 90-day reporting assistance while warning customers about possible blacklisting without demonstrating that ordinary TM47 reporting failures carry that consequence under Thailand's published immigration rules.**
 
+## Digital Work Permits Advertised for LTR Applicants Who Are Ineligible to Receive Them
+
+Thai Visa Centre repeatedly advertises digital work permits as a benefit of Thailand's Long-Term Resident (LTR) visa for Work-from-Thailand Professionals.
+
+Its dedicated guide to this category describes the permit as an official document authorizing remote employment for a foreign company while residing in Thailand.[^123]
+
+The article goes further, instructing applicants to obtain a digital work permit after receiving their LTR visa.
+
+However, Thailand's Board of Investment (BOI), which administers the LTR program, explicitly states that **Work-from-Thailand Professionals are not eligible to receive work permits**.[^124][^125]
+
+The discrepancy is not a minor technicality.
+
+**Thai Visa Centre advertises the issuance of a government document that the responsible government agency expressly refuses to issue to applicants in the advertised visa category.**
+
+### The Dedicated Guide Promises Digital Work Permits
+
+Thai Visa Centre's article *LTR Visa Thailand for Work-from-Thailand Professionals: Remote Employer Guide* presents the digital work permit as a central benefit of the category.[^123]
+
+Its introduction describes remote employees of overseas companies as receiving a digital work permit instead of a traditional Thai employment permit.
+
+A summary table identifies the category's work-permit type as **"Digital only."**
+
+The article subsequently states that the Work-from-Thailand category issues a digital work permit authorizing remote employment for an overseas employer.
+
+Under its application instructions, Thai Visa Centre includes a specific fifth step titled **"Digital work permit issuance."**
+
+That step tells successful LTR applicants to apply for the permit through the program after receiving their visa.
+
+The claim is repeated throughout the article:
+
+- The category comparison identifies digital work permits for remote workers.
+- The benefits table describes the permit as proof of legal remote employment.
+- The comparison against DTV identifies digital work permits as a distinctive LTR advantage.
+- The FAQ promotes the category as suitable for professionals who need documented authorization to work remotely.
+
+**The promised work permit is not incidental to the sales presentation. It is repeatedly described as an important reason to select this visa category.**
+
+### The BOI Explicitly Says No Permit Is Issued
+
+The BOI's official LTR visa issuance instructions establish a different procedure.
+
+Under its section concerning work-permit applications, the BOI explains that eligible LTR holders working for entities in Thailand must apply for employment authorization through the LTR system.[^124]
+
+However, the same section contains an explicit exclusion.
+
+**Work-from-Thailand Professionals do not receive work permits because their category is intended for remote employment with companies located outside Thailand.**
+
+The BOI's official FAQ independently reinforces this distinction.[^125]
+
+It specifically asks why Work-from-Thailand Professionals cannot apply for digital work permits.
+
+The answer explains that the category is intended for foreign employees working remotely rather than undertaking local employment.
+
+The FAQ also states that these visa holders cannot undertake income-generating work for Thai employers because the category does not provide work-permit eligibility.
+
+The official distinction is therefore:
+
+| LTR category | Digital work permit |
+|---|---|
+| Work-from-Thailand Professionals | Not issued |
+| Highly Skilled Professionals working for qualifying Thai entities | Available subject to approval |
+| Other LTR holders undertaking eligible employment with Thai entities | Subject to applicable work-permit requirements |
+
+The existence of a digital work-permit system for some LTR visa holders does not establish that every category qualifies.
+
+**Thai Visa Centre has applied a benefit available to certain LTR holders to a category that the BOI specifically excludes.**
+
+### Remote Work Permission Is Not the Same as Receiving a Work Permit
+
+An important distinction must be preserved.
+
+The BOI created the Work-from-Thailand Professionals category specifically to accommodate qualifying foreign employees who perform remote work for overseas companies while residing in Thailand.
+
+That activity is permitted within the category's conditions.
+
+The absence of an issued Thai work permit does not automatically make their qualifying remote employment unlawful.
+
+Instead, the category provides an immigration framework designed for that particular arrangement without requiring or issuing the same employment permit used for work involving Thai entities.
+
+This is different from a Highly Skilled Professional employed by a qualifying company or institution in Thailand.
+
+Those applicants may require a digital work permit because their employment involves activities within the Thai labor market.
+
+**The problem with Thai Visa Centre's explanation is not that Work-from-Thailand LTR holders cannot legally work remotely. It is the claim that their authorization is documented through a digital work permit the government will not issue.**
+
+That distinction directly contradicts the central explanation in TVC's guide.
+
+### The Same Error Appears in Other Visa Comparisons
+
+The incorrect claim is not confined to one publication.
+
+Thai Visa Centre's guide *Thai Elite Visa vs LTR Visa* describes the LTR program as providing a **digital permit for remote workers** while presenting a separate work-permit pathway for highly skilled professionals.[^126]
+
+Its application checklist goes further, instructing remote workers to obtain a digital work permit after visa issuance.
+
+That guidance repeats the same procedural error found in the dedicated Work-from-Thailand article.
+
+The agency's *DTV Visa Thailand FAQs* similarly compares DTV, LTR, and Thailand Privilege visas.
+
+Its comparison table describes LTR remote work as permitted **with a digital work permit**.[^127]
+
+The company's primary LTR service page also promotes digital work permits among the program's general benefits and describes a digital permit as required for work activities, without clearly explaining the exclusion affecting Work-from-Thailand Professionals.[^128]
+
+These publications reinforce one another.
+
+A reader researching remote work, comparing long-term visa categories, and reviewing the application process could encounter essentially the same incorrect representation repeatedly.
+
+**Thai Visa Centre presents the unavailable permit as a defining advantage of Work-from-Thailand LTR status across several independently published immigration guides.**
+
+### The Application Instructions Describe an Unavailable Step
+
+The most consequential error concerns the procedure applicants are told to follow.
+
+Thai Visa Centre's dedicated Work-from-Thailand guide presents the following sequence:
+
+1. Establish eligibility through foreign employment and income.
+2. Register through the BOI's LTR application system.
+3. Obtain qualification endorsement.
+4. Receive the LTR visa.
+5. Apply for a digital work permit.
+6. Maintain post-arrival immigration compliance.
+
+The fifth step is incorrect for this category.
+
+The BOI's published procedure specifically excludes Work-from-Thailand Professionals from work-permit issuance.[^124]
+
+Applicants following TVC's guidance could therefore attempt to complete an unavailable government procedure.
+
+They might also incorrectly assume that receiving a digital permit is necessary before beginning qualifying remote work.
+
+Alternatively, applicants could choose the Work-from-Thailand category partly because they believe it provides a formal employment document that could be presented to banks, employers, insurers, or other institutions.
+
+**Thai Visa Centre advertises both a government benefit and a procedural step that do not exist for the applicants its article is specifically targeting.**
+
+### A Misleading Comparison With Other Immigration Options
+
+The false permit claim also distorts the financial and practical comparison between LTR visas and competing long-stay arrangements.
+
+Work-from-Thailand LTR applicants must satisfy relatively demanding financial and employment criteria.
+
+Thai Visa Centre's guide identifies an annual income threshold generally beginning at US$80,000, with alternative qualifications for some applicants earning less.
+
+It also identifies the LTR visa issuance fee in Thailand as 50,000 baht.
+
+The digital work permit is presented as an additional reason to satisfy those requirements rather than choose the less expensive Destination Thailand Visa.
+
+That distinction is commercially significant.
+
+Customers might reasonably value an official work-permit document when comparing long-term immigration options.
+
+However, **a benefit that cannot be issued should not be used to justify choosing one visa over another**.
+
+The BOI does charge separate digital work-permit fees for eligible LTR applicants working in Thailand, including a published maintenance fee of 3,000 baht annually.[^124]
+
+Those charges concern the work-permit process available to eligible applicants, not an additional permit that Work-from-Thailand Professionals are required or entitled to obtain.
+
+The available evidence does not establish that TVC has charged remote workers for nonexistent work permits.
+
+It does establish that its public advertising inaccurately identifies a government-issued document as part of their expected immigration process.
+
+### Claimed Professional Expertise Versus Official Instructions
+
+Thai Visa Centre's Work-from-Thailand guide repeatedly encourages readers to consult its Bangkok team before submitting applications.
+
+The company claims to assess overseas employers, financial documentation, income qualifications, and work-permit requirements against BOI rules.
+
+It also lists the BOI's official LTR portal among its supporting references.
+
+Yet the BOI's published instructions explicitly contradict the guidance.
+
+This is particularly significant because the agency markets its expertise as a way to avoid applications based on incorrect eligibility assumptions.
+
+A professional adviser handling LTR cases should distinguish between permission to work remotely under an approved visa category and eligibility for a separate Thai employment permit.
+
+**Thai Visa Centre repeatedly fails to make that distinction while claiming expertise in the very government program whose official instructions contradict its advice.**
+
+### The Missing Explanation
+
+The company should explain why its publications describe digital work-permit issuance for Work-from-Thailand Professionals when the BOI expressly excludes those applicants.
+
+It should also correct the application sequence, clarify which LTR categories may apply for digital permits, and identify whether customers have been advised to pursue or pay for unavailable work-permit processing.
+
+The evidence does not establish that TVC has fabricated work permits, submitted unauthorized applications, or caused a particular customer financial loss.
+
+Those outcomes would require additional documentary evidence.
+
+**What is established is that Thai Visa Centre repeatedly advertises an official employment document that the responsible government authority states will not be issued for the visa category being promoted.**
+
+Unlike a disputed customer testimonial or an unsupported accreditation claim, this discrepancy can be resolved directly through the government's published eligibility rules.
+
+It adds another substantial inconsistency to the existing investigation into Thai Visa Centre's LTR advertising, immigration advice, and representations about professional processing expertise.
+
+**An agency claiming to specialize in complex immigration applications should not direct customers toward a work permit that Thailand's own investment authority explicitly states they cannot obtain.**
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -1771,3 +1965,10 @@ The company should identify the legal authority supporting that claim, explain w
 [^120]: https://www.thailand.go.th/public/useful-information-detail/001_01_211
 [^121]: `https://tvc.co.th/guides/visa-overstay-thailand`
 [^122]: `https://tvc.co.th/guides/thai-immigration-crackdowns-what-foreigners-need-to-know-this-year`
+
+[^123]: `https://tvc.co.th/guides/ltr-visa-thailand-work-from-thailand-professionals`
+[^124]: https://ltr.boi.go.th/page/visa-issuance-info.html
+[^125]: https://ltr.boi.go.th/page/faq.html
+[^126]: `https://tvc.co.th/guides/difference-between-thai-elite-visa-and-ltr-visa`
+[^127]: `https://tvc.co.th/guides/dtv-visa-thailand-faqs`
+[^128]: `https://tvc.co.th/visas/thailand-long-term-resident-visa-ltr`
