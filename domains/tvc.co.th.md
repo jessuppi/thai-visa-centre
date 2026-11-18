@@ -1321,6 +1321,143 @@ It should also reconcile those distinctions with its refund provisions and the r
 
 **For an agency advertising professional visa processing, the inability to provide consistent public explanations of who actually submits the application raises significant questions about transparency and accountability.**
 
+## Misleading 90-Day Reporting Instructions for LTR Visa Holders
+
+Thai Visa Centre publishes contradictory instructions concerning the immigration-reporting obligations of Thailand's Long-Term Resident (LTR) visa holders.
+
+Its guide *90-Day Report Online: Thailand TM47 Filing Guide* explicitly tells readers that LTR holders are not exempt from the standard 90-day reporting requirement.[^113]
+
+However, Thailand's Board of Investment confirms that LTR holders follow a different procedure, submitting an annual TM95 notification instead of the ordinary TM47 report.[^115]
+
+Thai Visa Centre's own LTR visa service page correctly advertises this annual-reporting benefit.[^114]
+
+**The agency therefore tells LTR holders they must complete a reporting procedure that the government expressly replaces with annual reporting for their visa category.**
+
+### The 90-Day Reporting Guide Gives the Wrong Answer
+
+Thai Visa Centre's dedicated reporting guide describes TM47 as a requirement for long-stay foreigners who remain in Thailand for 90 consecutive days.
+
+Its frequently asked questions specifically address whether Thailand Privilege or LTR status changes that obligation.
+
+The answer is categorical:
+
+> Q: Does Elite or LTR exempt me from 90-day reporting?
+
+The article answers **"No"**, states that most long-stay categories still require TM47, and directs readers toward online or in-person filing.[^113]
+
+The guide also advertises Thai Visa Centre's paid reporting assistance, including:
+
+- 500 baht for individual reports.
+- 375 baht per report when purchasing four-report packages.
+- Deadline reminders and document preparation.
+- Submission assistance and delivery of immigration receipts.
+
+These are legitimate commercial services for foreigners actually required to submit TM47 reports.
+
+**But an LTR holder who relies on the article's answer could incorrectly conclude that quarterly TM47 submissions are mandatory and that purchasing reporting assistance is an appropriate way to satisfy that obligation.**
+
+### The BOI Explicitly Replaces TM47 With TM95
+
+Thailand's Board of Investment provides an unambiguous explanation in its official LTR frequently asked questions.
+
+Under the section addressing one-year reporting, the BOI explains that LTR holders who remain in Thailand continuously for one year must submit **TM95 instead of TM47**.[^115]
+
+The distinction is a formal benefit of the LTR program.
+
+| Reporting requirement | Ordinary qualifying long-stay visas | LTR visa |
+|---|---|---|
+| Immigration address notification | TM47 | TM95 |
+| Reporting interval | 90 days | One year |
+| Departure and re-entry | Resets applicable reporting period | Resets annual reporting period |
+| TM30 accommodation notification | Still applies | Still applies |
+
+The BOI separately confirms that TM30 accommodation reporting remains applicable to LTR holders.
+
+Accordingly, annual reporting does not eliminate every immigration-notification obligation.
+
+It does, however, expressly replace the quarterly TM47 procedure.
+
+**The government's instruction is not a discretionary exemption or informal accommodation. It is a published feature of the LTR visa program.**
+
+### Thai Visa Centre's Own LTR Page Gets It Right
+
+The contradiction is particularly revealing because Thai Visa Centre already publishes the correct rule elsewhere.
+
+Its main *Long-Term Resident Visa (LTR)* service page lists the replacement of 90-day reporting with annual reporting among the program's principal benefits.[^114]
+
+The same page identifies annual reporting to immigration as an ongoing obligation.
+
+Thus, two publications on the same commercial website offer incompatible instructions:
+
+1. **LTR visa sales page:** 90-day reporting is replaced by annual reporting.
+2. **90-day reporting guide:** LTR holders are not exempt and should continue following TM47 requirements.
+
+Both publications promote professional immigration assistance through Thai Visa Centre.
+
+Neither explains why its reporting instructions differ from the other.
+
+**Thai Visa Centre correctly advertises reduced reporting obligations when marketing the LTR visa, but contradicts that benefit when promoting immigration-reporting assistance.**
+
+### Another Guide Recognizes Annual Reporting Exceptions
+
+The inconsistency extends to the company's broader immigration guidance.
+
+Its article *Thai Immigration Crackdowns 2026* explicitly acknowledges that some long-stay visa categories use annual reporting rather than the ordinary 90-day procedure.[^116]
+
+The article identifies LTR holders among those benefiting from different reporting arrangements.
+
+This demonstrates that the company has published the relevant distinction in multiple places.
+
+Nevertheless, its dedicated reporting guide continues answering the LTR question incorrectly.
+
+A separate article, *90-Day Reporting Step-by-Step*, also broadly states that anyone remaining in Thailand for 90 consecutive days must file TM47, without clearly identifying the LTR exception.[^117]
+
+**The problem is not a recent regulation that the agency has failed to discover. It is inconsistent application of a rule the agency already acknowledges.**
+
+### Financial and Compliance Implications
+
+The discrepancy matters for two reasons.
+
+First, customers may pay for unnecessary assistance.
+
+A foreigner holding an LTR visa could encounter Thai Visa Centre's reporting guide, conclude that quarterly TM47 filings remain mandatory, and purchase reporting credits or professional filing assistance.
+
+Four individual reports at the advertised 500-baht rate would represent 2,000 baht in annual commercial service charges.
+
+That expense would serve no ordinary TM47 reporting requirement for an LTR holder whose obligation is annual TM95 reporting.
+
+Second, inaccurate advice can confuse customers about their actual immigration responsibilities.
+
+An LTR holder needs to understand the annual TM95 deadline and applicable TM30 obligations.
+
+Submitting or attempting to submit unnecessary TM47 reports does not establish that the appropriate annual reporting requirement has been fulfilled.
+
+**Professional immigration guidance should identify the correct form and reporting interval before encouraging customers to purchase filing services.**
+
+The published evidence does not establish that Thai Visa Centre has actually sold unnecessary TM47 submissions to LTR holders or charged customers for filings they did not require.
+
+It establishes that its public guidance creates that risk by presenting contradictory instructions.
+
+### The Broader Accountability Problem
+
+Thai Visa Centre advertises LTR applications and immigration-reporting assistance as specialist services.
+
+Its website repeatedly emphasizes familiarity with government procedures, professional document preparation, and avoiding costly compliance mistakes.
+
+Yet the company publishes incompatible explanations of a fundamental LTR benefit.
+
+The contradiction is especially concerning because the reporting guide does not merely omit an exception.
+
+**It asks whether LTR holders are exempt from ordinary 90-day reporting and expressly gives the wrong answer.**
+
+The BOI's guidance is clear, and Thai Visa Centre's own LTR sales page demonstrates that the correct information was available to its editorial team.
+
+The company should correct the reporting FAQ, distinguish TM47 from TM95, and ensure that its paid reporting services are not promoted as necessary to customers whose visa categories follow different procedures.
+
+**Thai Visa Centre markets reduced immigration bureaucracy as an advantage of the LTR visa while simultaneously publishing guidance that could lead those same customers to purchase unnecessary quarterly reporting assistance.**
+
+The discrepancy raises questions about the reliability of its immigration advice and the safeguards used to ensure customers are sold services appropriate to their actual legal obligations.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -1439,3 +1576,9 @@ It should also reconcile those distinctions with its refund provisions and the r
 [^110]: `https://tvc.co.th/guides/thailand-elite-visa-application-forms`
 [^111]: `https://tvc.co.th/guides/90-day-reporting-step-by-step`
 [^112]: `https://tvc.co.th/policy/refund`
+
+[^113]: `https://tvc.co.th/guides/90-days-report-online`
+[^114]: `https://tvc.co.th/visas/thailand-long-term-resident-visa-ltr`
+[^115]: https://ltr.boi.go.th/page/faq.html
+[^116]: `https://tvc.co.th/guides/thai-immigration-crackdowns-what-foreigners-need-to-know-this-year`
+[^117]: `https://tvc.co.th/guides/90-day-reporting-step-by-step`
