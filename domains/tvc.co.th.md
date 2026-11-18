@@ -2616,6 +2616,73 @@ Its actual case-handling procedures may differ from its public instructions.
 
 Thai Visa Centre should correct its filing-window descriptions, identify the appropriate government application channels, and explain why its June 2026 guidance continued referencing a December deadline after the March–April intake.
 
+### Retirement Visa Marketing Implies an Unsupported Path to Permanent Residency
+
+Thai Visa Centre promotes permanent residency as a benefit of its retirement-visa services, despite Thailand's immigration rules not recognizing retirement alone as a qualifying category for permanent residence.
+
+Its *Thailand Retirement Visa* page advertises a path to permanent residency among the benefits of the Non-Immigrant O-A retirement route.[^189]
+
+Its separate *Thailand 5-Year Retirement Visa* page goes further, describing the Non-Immigrant O-X visa as providing a **clearer path to permanent residency**.[^190]
+
+Neither page explains the distinction between residing in Thailand on a retirement visa and independently qualifying for permanent-resident status.
+
+#### Retirement Is Not an Independent Application Category
+
+Thailand's official permanent-residence guidance identifies five application categories:[^191]
+
+1. Investment.
+2. Employment.
+3. Humanitarian reasons, including qualifying family relationships.
+4. Expertise.
+5. Exceptional circumstances.
+
+**Retirement is not listed as a standalone qualification.**
+
+The Royal Thai Embassy in London independently confirms these categories and explains that applicants must satisfy requirements specific to their chosen application route.[^192]
+
+The ordinary residence requirement generally includes at least three consecutive years of qualifying non-immigrant status with annual extensions.
+
+However, satisfying a minimum residence period does not automatically establish eligibility for permanent residence.
+
+Applicants must also meet the financial, employment, investment, family, or other requirements associated with an eligible category.
+
+#### TVC's Own Permanent-Residency Page Confirms the Distinction
+
+Thai Visa Centre's dedicated permanent-residency service page separately identifies investment, business, employment, expertise, and family-based applications.[^158]
+
+It does not advertise retirement as an independent application category.
+
+**TVC therefore promotes permanent residency as a benefit of its retirement products while its own permanent-residency page identifies a different set of qualifying pathways.**
+
+A retiree might independently qualify through substantial investment, an eligible family relationship, or another recognized basis.
+
+The problem is not that retirement-visa holders are categorically prohibited from obtaining permanent residence.
+
+It is that **holding or renewing a retirement visa does not, by itself, establish a pathway to permanent residency**.
+
+#### The O-X Claim Requires Particular Scrutiny
+
+The five-year O-X visa is marketed to retirees from selected countries who meet substantial financial and insurance requirements.
+
+Those conditions differ from the qualifications for permanent residence.
+
+The official residence-permit criteria also refer to qualifying residence supported by one-year non-immigrant extensions, raising additional questions about how a five-year O-X permission would satisfy the ordinary eligibility framework.
+
+TVC does not explain that distinction or identify a specific government provision supporting its claim that O-X holders have a clearer route to permanent residency.
+
+#### Consequences for Applicants
+
+Foreigners considering retirement in Thailand may choose between visa categories partly because they hope eventually to obtain permanent residence.
+
+That decision can involve substantial financial commitments and years of immigration planning.
+
+TVC's marketing could create unrealistic expectations for retirees who meet retirement-visa requirements but have no independent qualification for permanent residency.
+
+The available evidence does not establish that Thai Visa Centre has submitted ineligible permanent-residence applications or deliberately misled individual customers.
+
+However, **its retirement-visa advertising promotes permanent residency without explaining that retirement status alone is insufficient to qualify**.
+
+Thai Visa Centre should clarify the distinction, identify the recognized residence-permit categories, and substantiate its particular claim that the O-X visa provides a clearer route to permanent residency.
 
 ## Marriage and Retirement Visa Pages Give Incorrect Renewal Instructions
 
@@ -3383,3 +3450,8 @@ Thai Visa Centre should correct the service page, distinguish membership validit
 [^186]: https://tvc.co.th/visas/thailand-privilege-visa — Thai Visa Centre, Thailand Privilege Visa service page, membership duration, permitted stay, and claim that extensions are unnecessary.
 [^187]: https://www.thailandprivilege.co.th/living-in-thailand — Thailand Privilege Card Co., Ltd., official stay-extension requirements, including TM7, personal attendance, and the 1,900-baht fee.
 [^188]: https://tvc.co.th/guides/thailand-privilege-visa — Thai Visa Centre, 2026 Thailand Privilege guide acknowledging the choice between re-entry and an in-country stay extension.
+
+[^189]: https://tvc.co.th/visas/thailand-retirement-visa — Thai Visa Centre, standard retirement-visa service page, advertising permanent residency as a benefit.
+[^190]: https://tvc.co.th/visas/thailand-five-year-retirement-visa — Thai Visa Centre, O-X retirement-visa service page, claiming a clearer path to permanent residency.
+[^191]: https://www.thailand.go.th/useful-information-detail/001_01_150 — Thailand government, Immigration Bureau guidance on permanent-residence eligibility and application categories.
+[^192]: https://london.thaiembassy.org/en/publicservice/84402-residence-permit — Royal Thai Embassy, London, official residence-permit qualifications and application categories.
