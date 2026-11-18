@@ -106,6 +106,54 @@ Its enforceability under Thai law has not been established by this investigation
 
 Nevertheless, **the existence of the limitation is a material contractual fact that customers should understand before relying on the agency to manage important immigration procedures**.
 
+### Thai Consumer-Protection Law May Limit the $1 Liability Clause
+
+Thai Visa Centre's published Terms & Conditions attempt to restrict its aggregate liability to the greater of **US$1 or the amount a customer paid during the preceding month**.[^5]
+
+The agreement also broadly excludes liability for consequential damages, business interruption, lost profits, and other losses, including those arising from negligence.
+
+However, **Thai law does not automatically permit businesses to enforce every contractual limitation simply because a customer accepted the terms**.
+
+#### The Unfair Contract Terms Act
+
+Section 4 of Thailand's Unfair Contract Terms Act B.E. 2540 (1997) addresses contractual provisions that give businesses an unreasonable advantage over consumers.
+
+The legislation specifically identifies terms excluding or restricting liability for breach of contract as potentially unfair.[^8]
+
+Such provisions are enforceable only to the extent considered fair and reasonable under the circumstances.
+
+Courts may consider the parties' bargaining power, good faith, commercial experience, available alternatives, and the actual consequences of the disputed clause.
+
+**A contractual limit of US$1 is therefore not necessarily enforceable merely because it appears in a company's published terms.**
+
+#### Fraud and Gross Negligence Cannot Be Excluded in Advance
+
+Section 373 of Thailand's Civil and Commercial Code establishes a separate limitation.
+
+It invalidates agreements made in advance that exempt a contracting party from liability for its own fraud or gross negligence.[^9]
+
+This distinction is relevant because Thai Visa Centre's contractual exclusions are drafted broadly, encompassing numerous types of damages and legal claims.
+
+Although its terms acknowledge that limitations apply only to the extent permitted by law, they do not explain these statutory restrictions to customers.
+
+The provision does not establish that every contractual liability cap is invalid or that ordinary negligence can never be subject to reasonable limitations.
+
+#### Implications for Immigration Customers
+
+Customers may entrust Thai Visa Centre with passports, substantial payments, government applications, and immigration deadlines.
+
+Errors involving these responsibilities could produce losses considerably greater than the fees paid during the preceding month.
+
+The company's contractual formula could nevertheless attempt to limit recovery to just US$1 where no qualifying payment was made during that period.
+
+**The central question is whether such an exceptionally restrictive limit would be considered fair and enforceable under Thai law in a dispute involving actual customer losses.**
+
+The available evidence does not establish that Thai Visa Centre has successfully enforced the clause, unlawfully denied compensation, or violated consumer-protection legislation.
+
+It establishes that the company publishes a potentially severe contractual limitation whose enforceability is subject to statutory protections that its customer-facing terms do not explain.
+
+Thai Visa Centre should clarify which legal entity accepts liability for immigration services and how its published limitations operate under Thailand's mandatory rules governing unfair contractual terms, fraud, and gross negligence.
+
 ### Third-Party Services Introduce Further Responsibility Questions
 
 The same Terms & Conditions contain provisions addressing third-party services.[^5]
@@ -269,3 +317,6 @@ The company should identify the actual contracting entity, clearly distinguish t
 [^5]: `https://tvc.co.th/policy/terms-and-conditions` — Terms & Conditions, updated February 9, 2025.
 [^6]: `https://tvc.co.th/policy/data-protection` — Data Protection Policy, updated February 9, 2025.
 [^7]: https://www.pdpathailand.com/pdpa/content_eng/article6_eng.php — Unofficial English translation of Section 6 of Thailand's Personal Data Protection Act.
+
+[^8]: https://unctad.org/system/files/official-document/ditccplp2022d1_en.pdf — United Nations Conference on Trade and Development, *Voluntary Peer Review of Consumer Protection Law and Policy: Thailand*, section 3.1, examining the Unfair Contract Terms Act B.E. 2540.
+[^9]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-obligations-section-369-376/ — Thailand Civil and Commercial Code, Section 373, English translation concerning advance exclusions of liability for fraud or gross negligence.
