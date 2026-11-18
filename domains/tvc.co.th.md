@@ -1032,6 +1032,130 @@ Thai Visa Centre's guide fails those basic tests.
 
 The company should explain the basis for its US$2,000 embassy-fee claim, clarify why its reporting-service price differs from that published by AGENTS CO., LTD., and update its Thailand Privilege deadline information.
 
+## Incorrect Immigration Form Instructions Contradict Official Requirements and the Agency's Own Guides
+
+Thai Visa Centre publishes contradictory instructions concerning two fundamental Thai immigration forms: **TM7 and TM87**.
+
+Its guide *Important Immigration Forms in Thailand* repeatedly identifies TM87 as a form used to extend an existing visa or permission to stay.[^101]
+
+However, Thailand's Immigration Bureau identifies TM87 as an application for obtaining a visa, while TM7 is the standard application for extending temporary permission to stay.
+
+The distinction is particularly significant because Thai Visa Centre claims to process immigration forms daily and markets professional assistance to customers navigating these procedures.
+
+**The agency is instructing readers to use a visa-application form for an extension procedure that requires a different form.**
+
+### TM87 Incorrectly Listed as a Visa Extension
+
+Thai Visa Centre's guide begins with a quick-reference table identifying each major immigration form and its purpose.
+
+The table describes:
+
+- **TM87:** Visa extension application, submitted before the current permitted stay expires.
+- **TM7:** General extension of stay, including tourist and business extensions.
+
+The same article subsequently groups both forms under a heading describing extensions of stay.
+
+It states that TM87 is used in certain extension scenarios and that immigration officers will direct applicants to the appropriate form.[^101]
+
+The error appears again in the article's illustrated immigration timeline.
+
+When describing what foreigners should do as their visas approach expiration, the guide instructs them to proceed with a **TM7/TM87 extension**.
+
+These are not passing references. The incorrect classification appears in the reference table, explanatory section, and practical application sequence.
+
+**A reader following the guide could reasonably conclude that TM87 is an alternative extension-of-stay application rather than a form used to obtain a visa under a different procedure.**
+
+### Official Immigration Forms Establish Different Purposes
+
+Thailand's Immigration Bureau maintains a published collection of immigration application forms.
+
+The Samut Prakan Immigration Office identifies them separately:
+
+| Form | Official purpose |
+|---|---|
+| TM7 | Application for extension of temporary stay |
+| TM86 | Application for change of visa |
+| TM87 | Application for visa |
+| TM88 | Application for visa on arrival |
+
+These classifications are published on the immigration office's official government website.[^102]
+
+The distinction between TM7 and TM87 is not merely terminology.
+
+The Thai government's immigration guidance explains that TM87 applies to foreigners who entered Thailand without a visa but received temporary permission to stay and subsequently wish to apply for a qualifying Non-Immigrant visa.[^103]
+
+For example, a qualifying foreigner who entered under visa exemption and wishes to obtain an initial Non-Immigrant O visa may need TM87.
+
+By contrast, a foreigner seeking to extend existing permission to stay for tourism, retirement, marriage, or another eligible purpose generally uses TM7 with the applicable supporting documentation.
+
+The government's published instructions for tourist extensions explicitly require TM7 and identify a 1,900-baht application fee.[^104]
+
+Its published procedures for obtaining or changing certain Non-Immigrant visas instead distinguish TM86 from TM87 and identify a 2,000-baht fee.[^103]
+
+**These procedures have different purposes, eligibility conditions, documentation requirements, and government charges. They are not interchangeable simply because both involve applications submitted to immigration.**
+
+### Thai Visa Centre's Other Guide Gets It Right
+
+The strongest evidence of inconsistency comes from the agency's separate publication *Thai Immigration Forms: Complete Guide to TDAC, TM30, TM7, TM8, TM47, TM86, TM87 and TM88*.[^105]
+
+That article correctly classifies:
+
+- TM7 as an extension-of-stay application.
+- TM86 as an application to change visa category.
+- TM87 as an in-country visa application.
+
+It also explains that TM87 applies to selected in-country visa applications rather than functioning as a universal alternative to applying through an embassy.
+
+Its step-by-step immigration timeline correctly instructs foreigners to use TM7 when extending their existing permission to stay.
+
+**Thai Visa Centre therefore publishes two guides about the same government forms, one correctly distinguishing TM87 from extension applications and the other repeatedly misclassifying it.**
+
+Both articles describe themselves as professionally reviewed in June 2026.
+
+Neither explains why its instructions differ from the other publication.
+
+### Consequences for Retirement and Marriage Visa Applicants
+
+The distinction directly affects services Thai Visa Centre actively sells.
+
+A foreigner entering Thailand without a visa and subsequently applying for an initial retirement-purpose Non-Immigrant O visa may require TM87, subject to eligibility and supporting documentation.
+
+That initial visa application does not itself grant the same permission as a subsequent one-year retirement extension.
+
+The later extension generally involves TM7, separate financial evidence, and the applicable extension requirements.
+
+Marriage-based applications likewise require distinguishing initial visa issuance or conversion from a subsequent extension of temporary stay.
+
+**Confusing these stages risks sending applicants to immigration with the wrong form, inappropriate supporting documents, or an incorrect understanding of the procedure they are eligible to request.**
+
+For applicants approaching the expiration of their permitted stay, such errors may be especially consequential.
+
+An incorrectly prepared application can require additional appointments or document preparation, while missing the applicable deadline can expose the applicant to overstay consequences.
+
+The published material does not establish that Thai Visa Centre has actually submitted the wrong form for a customer or caused a particular application to fail.
+
+Nevertheless, its public instructions introduce precisely the kind of confusion customers pay professional immigration advisers to prevent.
+
+### Claiming Daily Expertise While Publishing Contradictory Instructions
+
+Thai Visa Centre's incorrect guide explicitly tells readers that its Bangkok team handles these forms daily.
+
+It also claims that the information was reviewed against official sources in June 2026.
+
+Yet the government has maintained the distinction between TM7 and TM87 for years, and the agency's own separate guide identifies the difference correctly.
+
+**This is not a newly announced immigration rule that the agency has simply failed to incorporate. It is a basic procedural distinction contradicted by the official forms themselves.**
+
+The issue also follows a broader pattern documented throughout the investigation.
+
+Thai Visa Centre has published contradictory instructions involving retirement-visa durations, financial deposits, health insurance, DTV eligibility, and official application fees.
+
+The incorrect TM87 instructions introduce another category of concern: the accuracy of the basic government paperwork that its advertised services are intended to handle.
+
+**Thai Visa Centre promotes professional assistance with immigration applications while publishing conflicting explanations of which government form customers must submit.**
+
+The company should correct the misclassification, reconcile the two guides, and explain how its claimed editorial-review process allowed contradictory filing instructions to remain published simultaneously.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -1136,3 +1260,9 @@ The company should explain the basis for its US$2,000 embassy-fee claim, clarify
 [^98]: `https://90day.in.th/about`
 [^99]: https://www.siam-legal.com/thailand-visa/thailand-privilege-visa.html
 [^100]: https://www.thailandelite.net/thailand-privilege-bronze-extended-december-2026
+
+[^101]: `https://tvc.co.th/guides/important-immigration-forms-in-thailand-tm30-tdac-tm88-tm87-tm7-tm8-tm47-and-tm28`
+[^102]: https://www.samutprakanimmigration.go.th/download-forms/
+[^103]: https://thailand.go.th/public/useful-information-detail/001-01-014-2-2
+[^104]: https://thailand.go.th/visit-thailand-detail/001_01_074
+[^105]: `https://tvc.co.th/guides/thai-immigration-forms`
