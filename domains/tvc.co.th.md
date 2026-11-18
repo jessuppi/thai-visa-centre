@@ -2815,6 +2815,71 @@ However, **the company's commercial website continues promoting discontinued imm
 
 Thai Visa Centre should update its advertised categories, remove obsolete four-year eligibility claims, and explain which immigration pathways remain available to professionals and investors affected by the 2025 changes.
 
+
+## Tourist Visa Page Understates Financial Requirements and Misstates Insurance Rules
+
+Thai Visa Centre's commercial tourist-visa page provides incorrect guidance concerning financial evidence and travel insurance.
+
+The page identifies minimum funds of **10,000 baht per individual or 20,000 baht per family**, while Thailand's Ministry of Foreign Affairs specifies **20,000 baht per individual or 40,000 baht per family** in its general tourist-visa requirements.[^171][^172]
+
+The same service page also presents valid travel insurance as mandatory, despite the absence of a universal insurance requirement for standard tourist visas.
+
+### Published Financial Requirements Are Half the Official Amounts
+
+Thai Visa Centre's *Thailand Tourist Visa* page identifies the following requirements for single-entry tourist visas:
+
+- Bank statements showing at least 10,000 baht per person.
+- Bank statements showing at least 20,000 baht per family.
+
+The amounts appear in both its visa-category checklist and general financial requirements.[^171]
+
+However, the Ministry of Foreign Affairs identifies adequate financial evidence for tourist-visa applications as **20,000 baht per person and 40,000 baht per family**.[^172]
+
+The Royal Thai Embassy in Budapest independently confirms these amounts in its February 2026 tourist-visa guidance.[^173]
+
+The discrepancy is significant because TVC's figures match the lower amounts published for Thailand's separate Visa on Arrival scheme, rather than the standard tourist visa.[^174]
+
+**TVC appears to have applied Visa on Arrival financial thresholds to a different immigration category.**
+
+Although individual embassies may impose additional documentary or financial requirements, this does not support advertising a lower general threshold than the Ministry of Foreign Affairs specifies.
+
+An applicant relying on TVC's figures could prepare inadequate financial evidence and encounter requests for additional documentation or an unsuccessful application.
+
+### Insurance Presented as a Mandatory Tourist-Visa Condition
+
+The same page lists the following restriction:
+
+> Must maintain valid travel insurance
+
+However, standard Thai tourist visas do not carry a general government requirement to maintain travel insurance throughout the stay.
+
+The Ministry of Foreign Affairs' published tourist-visa documentation requirements do not identify insurance as a universal prerequisite.[^172]
+
+More significantly, Thai Visa Centre's own *Do I Need Health Insurance for Thailand?* FAQ acknowledges that standard tourist visas do not generally require mandatory health insurance.[^175]
+
+That article recommends obtaining insurance for medical expenses, evacuation, and other travel risks.
+
+**Recommending insurance is materially different from presenting it as a compulsory immigration condition.**
+
+Specific diplomatic missions may request additional documentation in individual circumstances. The available evidence does not establish that every tourist-visa application is exempt from every possible insurance-related request.
+
+Nevertheless, TVC's categorical requirement is inconsistent with both the general government guidance and its own published explanation.
+
+### Implications for Applicants
+
+These errors concern two basic questions applicants must resolve before paying for professional visa assistance:
+
+1. How much financial evidence must they prepare?
+2. Is purchasing travel insurance compulsory or optional?
+
+TVC's financial guidance could leave customers underprepared, while its insurance statement could lead customers to believe they must purchase coverage to satisfy an immigration requirement that does not generally exist.
+
+The available evidence does not establish that TVC has sold unnecessary insurance, caused visa refusals, or submitted applications with insufficient financial evidence.
+
+It establishes that **the agency's commercial tourist-visa page contains financial thresholds inconsistent with Ministry of Foreign Affairs requirements and an insurance obligation contradicted by its own guidance**.
+
+Thai Visa Centre should correct its tourist-visa financial checklist, distinguish tourist visas from Visa on Arrival requirements, and explain insurance as a recommendation except where a specific applicable rule requires it.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -3003,3 +3068,9 @@ Thai Visa Centre should update its advertised categories, remove obsolete four-y
 
 [^169]: https://tvc.co.th/visas/thailand-smart-visa — Thai Visa Centre, SMART Visa service page advertising Talent, Investor, Executive, and Startup categories.
 [^170]: https://smart-visa.boi.go.th/smart/document/related/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_5_2568_EN.pdf — Thailand Board of Investment, Announcement No. Por 5/2568, February 18, 2025, replacing the former SMART Visa eligibility framework for new applications.
+
+[^171]: https://tvc.co.th/visas/thailand-tourist-visa — Thai Visa Centre, tourist-visa service page, financial requirements and insurance restrictions.
+[^172]: https://www.mfa.go.th/en/page/issuance-of-visa — Ministry of Foreign Affairs, official tourist-visa requirements specifying 20,000 baht per person and 40,000 baht per family.
+[^173]: https://budapest.thaiembassy.org/en/publicservice/tourist-visa-tr?cate=698497c323290a095267d1c3 — Royal Thai Embassy, Budapest, February 6, 2026, tourist-visa financial requirements.
+[^174]: https://doha.thaiembassy.org/en/publicservice/tourist-visa-exemption-visa-on-arrival — Royal Thai Embassy, Doha, distinguishing Visa on Arrival financial requirements.
+[^175]: https://tvc.co.th/faq/do-i-need-health-insurance-for-thailand — Thai Visa Centre, insurance FAQ distinguishing mandatory coverage from recommended tourist insurance.
