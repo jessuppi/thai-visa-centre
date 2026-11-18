@@ -3378,6 +3378,58 @@ However, **its commercial eligibility checklist continues to enforce requirement
 
 Thai Visa Centre should update the LTR service page to reflect BOI Announcement Por. 3/2568, distinguish current requirements from historical criteria, and reconcile its sales materials with its own accurate reform guide.
 
+## Citizenship Guidance Misrepresents Permanent Residency Requirements for Foreign Spouses
+
+Thai Visa Centre's FAQ *Do I Get Thai Nationality After Marriage?*, marked reviewed June 2026, presents permanent residency as a necessary stage before citizenship for foreign spouses.[^201]
+
+Under its *Marriage and naturalisation* comparison, the agency labels the proposition "I can skip PR if I am married to a Thai" as false.
+
+Its proposed citizenship timeline similarly requires applicants to obtain permanent residency before applying for naturalization. The page also warns against applying without PR or sufficient residency history.
+
+**These instructions fail to distinguish the separate citizenship routes established under Thailand's Nationality Act.**
+
+### Foreign Wives Have a Separate Citizenship Procedure
+
+Section 9 of the Nationality Act B.E. 2508 (1965) permits a foreign woman married to a Thai citizen to apply for Thai nationality through a procedure distinct from ordinary naturalization.[^202]
+
+The Department of Provincial Administration's published criteria include:
+
+- A legally registered marriage of at least three years, reduced to one year where the couple has a child together.
+- Domicile and household-registration documentation.
+- Applicable spousal income and tax evidence.
+- Marriage verification, background screening, and official approval.[^203]
+
+These requirements do not establish prior permanent-resident status as a universal prerequisite.
+
+TVC's blanket rejection of the possibility of bypassing PR therefore misrepresents an available statutory route.
+
+### Foreign Husbands Receive Different Statutory Exemptions
+
+Section 11(4), introduced in 2008, separately addresses foreign husbands of Thai citizens.
+
+It expressly exempts qualifying applicants from two ordinary naturalization requirements under Section 10:
+
+1. Five consecutive years of domicile under Section 10(4).
+2. The statutory Thai-language requirement under Section 10(5).[^202]
+
+Department of Provincial Administration guidance also recognizes applications by foreign husbands after three years of registered marriage, or one year where the couple has a child together.[^204]
+
+Other qualifications, lawful-residence documentation, financial evidence, administrative screening, and discretionary approval remain relevant.
+
+**TVC's generalized requirements for permanent residency and Thai-language testing obscure these statutory exemptions.**
+
+### Relevance to Thai Visa Centre's Paid Services
+
+Thai Visa Centre separately markets professional assistance with permanent-residency applications.[^193]
+
+Presenting PR as an unavoidable prerequisite for citizenship could encourage eligible spouses to pursue an additional immigration process involving substantial fees, documentation, and delays.
+
+The available evidence does not establish that TVC deliberately misdirected customers or collected unnecessary fees.
+
+Nevertheless, its published guidance fails to explain legally significant alternatives that could materially affect applicants' decisions.
+
+TVC should distinguish ordinary naturalization from nationality acquisition under Section 9 and the exemptions under Section 11, rather than presenting permanent residency as a standard compulsory step for foreign spouses.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -3604,3 +3656,8 @@ Thai Visa Centre should update the LTR service page to reflect BOI Announcement 
 [^198]: https://ltr.boi.go.th/documents/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_3_2568_%28EN%29.pdf — Thailand Board of Investment, Announcement Por. 3/2568, effective February 4, 2025.
 [^199]: https://www.boi.go.th/index.php?_module=news&from_page=press_releases&language=en&page=press_releases_detail&topic_id=136393 — Thailand Board of Investment, official announcement explaining changes to LTR eligibility.
 [^200]: https://tvc.co.th/guides/ltr-visa-thailand-eases-eligibility-requirements — Thai Visa Centre, guide correctly explaining the 2025 LTR reforms.
+
+[^201]: https://tvc.co.th/faq/do-i-get-thai-nationality-after-marriage — Thai Visa Centre, *Do I Get Thai Nationality After Marriage?*, reviewed June 2026, including its PR requirements, comparison table, and citizenship timeline.
+[^202]: https://report.dopa.go.th/laws/document/2/226.pdf — Department of Provincial Administration, *Nationality Act B.E. 2508 (1965)*, consolidated English translation, Sections 9–12, including the 2008 amendment to Section 11.
+[^203]: https://callcenter1548.bora.dopa.go.th/คู่มือปฏิบัติงานสำหรับ/ — Department of Provincial Administration, Bureau of Registration Administration, public-service guidance for acquisition of Thai nationality under Section 9.
+[^204]: https://www.bora.dopa.go.th/wp-content/uploads/2022/01/mt03091_v4041.pdf — Department of Provincial Administration, Ministry of Interior Circular มท 0309.1/ว 4041, guidance covering naturalization under Section 11, including foreign husbands of Thai citizens.
