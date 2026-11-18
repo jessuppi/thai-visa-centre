@@ -2655,278 +2655,177 @@ Finally, the company should distinguish eligibility screening from formal consul
 
 The discrepancy raises legitimate questions about whether prospective customers receive an accurate explanation of the authority, speed, and certainty of the immigration services being advertised.
 
-## Work Permit Guides Ignore Thailand's Nationwide e-WorkPermit Transition
+## Thai Visa Centre's 2026 Work-Permit Guides Omit Thailand's New Electronic System
 
-Thai Visa Centre advertises professional assistance with work permits, employer sponsorship, and immigration compliance in Thailand.
+Thai Visa Centre advertises professional work-permit assistance for foreign employees, company directors, and employers operating in Thailand.
 
-However, four of its published work-permit guides continue describing paper-based application procedures and traditional work-permit booklets despite Thailand's nationwide transition to electronic work-permit administration in October 2025.
+However, four of its guides continue describing traditional paper-based work-permit procedures without explaining Thailand's nationwide e-WorkPermit system, introduced in October 2025.[^148][^149][^150][^151]
 
-All four publications identify June 2026 as their most recent review date.
+All four publications display June 2026 as their most recent review date.
 
-**Thai Visa Centre presents outdated work-permit procedures as current professional guidance more than eight months after Thailand introduced its nationwide electronic processing system.**
+The discrepancy is significant because Thailand had already introduced electronic applications, online fee payments, appointment scheduling, and a standardized permit-card system.
 
-The discrepancy is particularly significant because the company does not merely publish general immigration information. It explicitly advertises work-permit coordination as a commercial service.
+Although temporary exemptions allowed some manual applications to continue, **Thai Visa Centre's publications do not distinguish those exceptions from the government's new electronic procedures.**
 
-The problem concerns both the application process customers are instructed to follow and the documents they are told to expect after approval.
+Instead, they repeatedly describe obtaining a traditional work-permit booklet as the expected outcome of an application.
 
 ### Thailand Introduced e-WorkPermit in October 2025
 
-Thailand's Ministry of Labour announced the nationwide introduction of its e-WorkPermit system, which officially launched on October 13, 2025.[^152]
+Thailand's Ministry of Labour launched e-WorkPermit nationwide on October 13, 2025.[^152]
 
-The system operates through the Department of Employment's official portal:
+The official platform, https://eworkpermit.doe.go.th/, introduced electronic processing for work-permit applications and related employment notifications.
 
-https://eworkpermit.doe.go.th/
+The Ministry of Labour described a workflow involving online registration, electronic application submission, digital payment, government verification, and electronic approval notifications.[^155]
 
-The government described an integrated electronic process covering registration, new applications, renewals, document verification, payments, approval notifications, and service-center appointments.
+Applicants could subsequently arrange service-center appointments for identity verification, biometric registration, and permit collection.
 
-On October 15, 2025, the Ministry of Labour provided a detailed explanation of the application workflow.[^155]
+The system included 54 service centers and support units nationwide.
 
-Employers and applicants register electronically, submit their applications through the designated platform, pay fees online, and receive electronic notifications concerning approval.
+The government also introduced a standardized electronic work-permit card, identified as Form BorTor. 42/1.[^154]
 
-Successful applicants then attend designated service centers for identity verification, biometric registration, and collection of their permits.
+**These changes directly affected the application and documentation procedures that professional work-permit advisers were expected to explain.**
 
-The Department of Employment established 54 service centers and associated units nationwide to support the system.
+The new system did not eliminate work-permit requirements, employer sponsorship obligations, or the need to obtain authorization before beginning employment.
 
-**The change was not simply the introduction of an optional online information service. It substantially altered the government's ordinary work-permit application and issuance procedures.**
+### Four TVC Guides Continue Describing Traditional Booklets
 
-The electronic system did not eliminate the legal requirement to obtain authorization before working.
+Thai Visa Centre's *Thailand Work Permit: Requirements, Process, and Renewals* instructs applicants to submit documentation through the Department of Employment or an eligible One Stop Service office.[^148]
 
-Nor did it eliminate every physical appointment or document.
-
-It changed how applications are submitted, processed, approved, and verified.
-
-### TVC's Main Work-Permit Guide Still Describes Booklet Issuance
-
-Thai Visa Centre's *Thailand Work Permit: Requirements, Process, and Renewals* sets out a six-step application process.[^148]
-
-Its instructions tell employers and applicants to prepare supporting documents and file their applications with the Department of Employment or an eligible One Stop Service office.
-
-The fifth step describes approval as follows:
+Its approval stage states:
 
 > Work permit booklet issued specifying employer, position, and location.
 
-The publication identifies June 2026 as its last review date.
+The article does not explain e-WorkPermit registration, online applications, or the new card format.
 
-It does not explain the e-WorkPermit registration platform, electronic filing procedures, online payment system, approval notifications, or appointment arrangements introduced in October 2025.
+A second publication, *Thailand Work Permit Requirements: Documents and Checklist*, instructs employers or authorized representatives to file applications at provincial or central Department of Employment offices.[^149]
 
-**The guide presents the former paper-booklet procedure as the expected outcome of a new work-permit application in 2026.**
+It subsequently tells applicants to collect a work-permit booklet after approval.
 
-This is not merely a historical reference to permits issued before the electronic transition.
+The guide describes its document requirements as applicable in 2026 but does not explain when electronic submission is required or when manual filing remains permitted.
 
-It appears in the guide's instructions for applicants seeking a work permit under the procedures it presents as current.
+A third guide, *Thailand Work Permit Basics: Quotas, Exceptions, and Rules*, introduces the booklet as the document defining an employee's authorized employer, job description, and workplace.[^150]
 
-### A Second Guide Repeats the Former Application Process
+It also describes carrying the permit during working hours and physically returning it following resignation.
 
-The discrepancy also appears in *Thailand Work Permit Requirements: Documents and Checklist*.[^149]
+Some of these obligations may remain relevant to existing paper permits or particular employment categories.
 
-This guide describes itself as covering documentation typically required in 2026.
+However, the guide does not distinguish those circumstances from applications processed through the electronic system.
 
-Its application instructions direct employers or authorized representatives to file documentation at provincial or central Department of Employment offices.
+**Across these three publications, readers are given an older administrative model without being told how it relates to the government's new procedures.**
 
-The fifth step is explicitly titled:
+### TVC's Commercial Work-Permit Guide Contains Additional Contradictions
 
-> Collect work permit booklet
+The fourth publication, *Work Permit in Thailand: Complete Legal and Immigration Guide*, explicitly advertises work-permit filing as a core Thai Visa Centre service.[^151]
 
-The accompanying explanation tells applicants to verify their employer, job description, and workplace against the approved permit.
+It claims that TVC coordinates work permits end-to-end with employer documentation.
 
-The guide also instructs applicants to carry their permits during working hours.
-
-These statements are presented without explaining the transition to electronic applications or distinguishing legacy paper permits from newly issued permit cards.
-
-The publication is marked as reviewed in June 2026.
-
-**Two separate guides therefore describe the collection of traditional work-permit booklets as an ordinary stage of the application process, without acknowledging the government's newer system.**
-
-The repetition makes it harder to dismiss the discrepancy as a single overlooked sentence.
-
-### A Third Guide Continues Relying on Physical-Booklet Assumptions
-
-Thai Visa Centre's *Thailand Work Permit Basics: Quotas, Exceptions, and Rules* repeats similar descriptions.[^150]
-
-Its introduction explains work authorization in terms of an approved booklet identifying the employer, authorized occupation, and workplace.
-
-The guide discusses possessing or presenting the permit during working hours and returning the permit following termination of employment.
-
-These statements reflect a document-centered explanation of work-permit compliance.
-
-Physical proof of authorization remains relevant under the newer system, and older permits may remain relevant in some cases.
-
-However, the guide does not distinguish the conventional booklet from the newer permit-card format or explain how employer-specific authorization information is verified electronically.
-
-Its last-review date is likewise June 2026.
-
-**The issue is not that work-permit restrictions have disappeared. It is that Thai Visa Centre continues explaining those restrictions through an older document format without describing the newer verification system.**
-
-### TVC Advertises the Outdated Procedure as a Paid Service
-
-A fourth publication makes the discrepancy commercially significant.
-
-Thai Visa Centre's *Work Permit in Thailand: Complete Legal and Immigration Guide* explicitly describes work-permit filing as one of the company's core offerings.[^151]
-
-The page advertises comprehensive coordination with employers and government authorities.
-
-Its service description states that the company handles work-permit filing from beginning to end.
-
-Nevertheless, the published application workflow directs customers to submit documents at a government office and then:
+Yet its application instructions direct customers to submit documents at a government office and then:
 
 > Receive permit book
 
-Applicants are instructed to verify the employer, job title, and work location against the physical permit book.
+The guide tells customers to check the employer, job title, and work location against that physical booklet.
 
-Elsewhere on the same page, a summary refers to waiting for a card, creating an additional inconsistency in how the expected authorization document is described.
+There is also an internal inconsistency.
 
-The guide claims to have been reviewed in June 2026.
+An earlier summary panel tells readers to wait for a permit card before working, while the detailed application workflow instructs them to receive a permit book.
 
-**Thai Visa Centre markets professional handling of work permits while publishing a commercial service guide that omits the government platform already operating nationwide at the time of its claimed review.**
+Neither passage explains the difference between the two formats or identifies which procedure applies to which applicant.
 
-This raises questions about the company's public representations of its familiarity with current employment and immigration procedures.
+The same publication contains an unrelated section headed *Administrative divorce workflow*, including instructions concerning divorce registration before introducing its work-permit application steps.
 
-### The New Work-Permit Card Does Not Replicate the Old Booklet
+This is a separate, visible editorial error in a publication presented as professional legal and immigration guidance.
 
-Thailand's transition involved more than electronic application submission.
+**The conflicting permit terminology and unrelated divorce material raise additional questions about the quality of the publication's editorial review.**
 
-An analysis published by Forvis Mazars on December 2, 2025, explains that the Department of Employment introduced a standardized electronic work-permit card, identified as Form BorTor. 42/1.[^154]
+### Manual Work-Permit Applications Remained Possible in 2026
 
-The card replaces conventional paper-based work-permit documentation under the revised system.
+The transition to e-WorkPermit was complicated by technical difficulties and government exemptions.
 
-Forvis Mazars identifies a notable difference between the former booklet and the new card.
+In November 2025, the Department of Employment announced temporary arrangements allowing certain applicants to continue using older procedures.[^153]
 
-The standardized card does not display the employer's name or establishment directly on its face.
+The initial deadline for qualifying paper submissions was January 28, 2026.
 
-Instead, electronic verification through machine-readable information provides access to more detailed government records.
+However, that deadline was subsequently extended.
 
-This is important because Thai Visa Centre's guides repeatedly tell applicants that their newly issued physical booklet will identify the employer, position, and workplace.
+Immigration advisory firm Fragomen documented a February 2026 extension to April 28, followed by an April extension allowing qualifying manual applications until July 28, 2026.[^156]
 
-Employer-specific work authorization remains legally significant.
+The extensions covered initial applications, renewals, cancellations, and amendments in specified circumstances, including technical problems with the electronic system.
 
-However, the method of recording and verifying that information has changed.
+Separate arrangements also permitted certain employers using the Thailand Investment and Expat Services Center's Rapid Process to continue submitting applications manually.[^157]
 
-**TVC's description conflates the continuing legal restrictions on employment with an older physical document format that is no longer the standard for newly issued permits under e-WorkPermit.**
+In July 2026, the Department of Employment extended the general technical-exception deadline again, to October 28, 2026.[^156]
 
-A professional immigration adviser should explain both the authorization requirements and the current method of verifying them.
+These developments are important.
 
-### Temporary Paper-Filing Exceptions Do Not Explain the June 2026 Guidance
+**The introduction of e-WorkPermit did not immediately make every manual application invalid or obsolete.**
 
-Thailand's transition to electronic work-permit processing encountered practical difficulties.
+Consequently, it would be inaccurate to accuse Thai Visa Centre of describing an entirely prohibited process simply because its guides mention government-office submissions.
 
-On November 4, 2025, the government's Public Relations Department published an announcement explaining temporary accommodations introduced by the Department of Employment.[^153]
+The documented problem is narrower.
 
-Some employers experienced technical problems or lacked familiarity with the newly introduced platform.
+TVC does not explain the electronic system, distinguish normal procedures from temporary exceptions, or identify which applicants should follow each route.
 
-The department therefore permitted certain applications to continue under previous procedures.
+That omission matters particularly in publications marked as reviewed in June 2026, when the electronic system and the transitional arrangements were already established.
 
-These arrangements included applications already submitted before the October transition, specified renewal circumstances, and cases affected by technical failures.
+### The New Permit Format Creates Further Confusion
 
-A temporary allowance for paper submissions was scheduled to remain available until January 28, 2026.
+In December 2025, professional-services firm Forvis Mazars analyzed the electronic work-permit system and its standardized smart-card format.[^154]
 
-These exceptions matter.
+The analysis explained that the new card differs from the traditional booklet, including in how employer-specific authorization information is displayed and verified.
 
-They demonstrate that the electronic transition did not immediately eliminate every use of the previous application system.
+The standardized card does not display the employer's name directly on its face.
 
-They also explain why some employers and foreign workers might still have encountered conventional procedures during the implementation period.
+Instead, electronic verification provides access to the underlying authorization records.
 
-However, **the documented transitional measures do not establish that the former paper-booklet process remained the ordinary nationwide application procedure in June 2026.**
+This distinction matters because Thai Visa Centre repeatedly instructs applicants to inspect employer and workplace details physically printed in a permit booklet.
 
-Thai Visa Centre's four guides do not present their booklet instructions as temporary exceptions, legacy cases, or special arrangements.
+Those instructions may be relevant to older permits or particular issuance arrangements, but they do not adequately describe the newer standardized card.
 
-Instead, they describe the former procedures as generally applicable to customers seeking work permits.
+The correct distinction is between the legal conditions attached to employment authorization and the physical or electronic documents used to verify those conditions.
 
-That distinction is central to the investigation.
+**TVC's guides fail to explain that distinction despite presenting work-permit compliance as an area of professional expertise.**
 
-### Current Applications Require Different Practical Planning
+### The June 2026 Review Claims Raise Questions
 
-The ordinary e-WorkPermit process described by the Ministry of Labour involves administrative steps that TVC's guides do not adequately explain.
+The four affected publications all identify June 2026 as their most recent review date.
 
-These include:
+That was approximately eight months after the electronic system's nationwide launch.
 
-1. Creating the appropriate employer, representative, or applicant registration in the government system.
-2. Submitting new applications or renewals electronically.
-3. Providing supporting documents through the designated platform.
-4. Paying applicable government charges electronically.
-5. Receiving electronic verification and approval notifications.
-6. Scheduling an appointment at a designated service center.
-7. Completing identity verification and biometric registration where required.
-8. Collecting the applicable permit and using the corresponding verification arrangements.
+By then, official information describing e-WorkPermit was publicly available, and the Department of Employment had already introduced and extended transitional filing arrangements.
 
-The Ministry of Labour documented these procedures in October 2025.[^152][^155]
+Yet none of the four publications explains e-WorkPermit or clearly distinguishes traditional booklet procedures from newer permits.
 
-Different categories of foreign employment can involve additional requirements, separate government programs, or particular administrative arrangements.
+The review dates do not establish that TVC performed a substantive examination of the material in June.
 
-Accordingly, it would be inaccurate to claim that every work-permit application follows an identical sequence or that no government-office attendance remains necessary.
+They establish that the company presents the information to readers as having been reviewed at that time.
 
-**The central discrepancy is that Thai Visa Centre's work-permit guides omit the electronic application system while continuing to describe the earlier office-based and paper-booklet model as standard.**
+**The omission is particularly difficult to reconcile with a claimed 2026 review because the change concerns the actual process for obtaining the service TVC advertises.**
 
-### Customers Could Be Misled About Application Requirements
+### Why the Discrepancy Matters
 
-Thai Visa Centre markets work-permit assistance alongside employment visas, company registration, visa extensions, and other immigration services.
+Work-permit applicants and employers rely on procedural guidance when preparing documentation, selecting filing channels, arranging appointments, and determining when employment may lawfully begin.
 
-Its customers may reasonably consult the published guides before preparing applications or paying for assistance.
+Incomplete instructions can cause confusion about whether electronic registration is necessary, whether manual filing is available, and which type of permit the applicant should expect.
 
-The instructions can influence how applicants and employers:
+The available evidence does not establish that Thai Visa Centre has improperly filed applications, obtained invalid work permits, or failed to follow the government's current procedures when representing customers.
 
-- Assemble supporting documents.
-- Identify the government application channel.
-- Prepare employer registration and representative authorization.
-- Schedule necessary appointments.
-- Plan employment commencement dates.
-- Verify permit approval and authorized employment conditions.
-- Prepare for renewals or changes of employment.
+Its internal operations may be more current than its website.
 
-Incorrect or outdated descriptions can create confusion about which application procedures remain available and what authorization documents customers should expect to receive.
+The evidence does establish that **four publicly available guides, each marked reviewed June 2026, omit a major government processing reform and repeatedly present traditional booklet procedures without explaining the applicable distinctions.**
 
-For employers coordinating foreign workers' start dates, application delays or misunderstandings can have practical consequences.
-
-Nevertheless, the available evidence does not establish that Thai Visa Centre has actually filed applications through an invalid channel.
-
-It does not establish that the company has obtained invalid permits, caused customers to work unlawfully, or failed to follow the e-WorkPermit process internally.
-
-Its actual procedures may differ from the information published on its website.
-
-**What the evidence establishes is a discrepancy between the company's public professional guidance and the administrative system described by Thailand's Ministry of Labour.**
-
-That discrepancy is independently relevant to evaluating the reliability of its commercial immigration advice.
-
-### The June 2026 Review Claims Make the Discrepancy More Serious
-
-The age of the guides is important.
-
-Outdated instructions published before October 2025 would not necessarily indicate a failure to understand the electronic system introduced afterward.
-
-However, the four affected publications all identify June 2026 as their latest review date.
-
-By June 2026, Thailand's e-WorkPermit platform had been operating for approximately eight months.
-
-The government had already announced the electronic application process, documented the new permit-collection arrangements, and publicly explained its temporary accommodations for paper filing.
-
-Professional commentary had also described the standardized permit card and electronic verification requirements.
-
-Despite that readily available information, TVC's publications continued presenting traditional paper-booklet instructions without incorporating the newer procedures.
-
-**The claimed review dates give readers reason to expect information reflecting the government system already operating when those reviews supposedly occurred.**
-
-The dates do not prove that a substantive editorial or legal review actually took place.
-
-They establish that Thai Visa Centre represents the publications as having been reviewed in June 2026.
-
-Whether those reviews included meaningful verification against current government procedures remains unanswered.
+One of those guides also contains conflicting permit terminology and unrelated divorce instructions.
 
 ### Questions Thai Visa Centre Should Answer
 
-Thai Visa Centre should clarify whether it currently processes ordinary work-permit applications through the Department of Employment's e-WorkPermit system.
+Thai Visa Centre should clarify which work-permit application channels it currently uses and how it determines whether an applicant qualifies for electronic or manual processing.
 
-It should explain whether the paper-booklet instructions appearing across its website refer to older permits, exceptional application categories, or guidance that has not been updated.
+It should explain why its June 2026 guidance omits e-WorkPermit and whether its references to traditional booklets apply to older permits, special cases, or material that has not been substantively updated.
 
-The company should identify how it informs customers about electronic registration, online payments, service-center appointments, biometric verification, and the currently issued permit format.
+The company should also clarify how customers are informed about electronic verification, permit-card collection, and changes affecting their employment authorization.
 
-It should also clarify why its guides continue instructing applicants to inspect employer and workplace details on a conventional permit booklet without explaining the electronic verification arrangements.
+Finally, it should explain the conflicting terminology and unrelated divorce material in its commercial work-permit guide.
 
-Most importantly, Thai Visa Centre should explain why four publications presented as reviewed in June 2026 omit a nationwide government system introduced in October 2025.
-
-The available evidence does not establish fraudulent work-permit processing, unlawful employment, or improper government filings.
-
-**It establishes that Thai Visa Centre repeatedly publishes outdated descriptions of work-permit application and issuance procedures while advertising professional assistance with those same procedures.**
-
-The inconsistency raises legitimate questions about the accuracy of the company's regulatory guidance, the quality of its editorial review, and the reliability of the expertise it markets to foreign workers and employers.
+**The central finding is not that every paper-based procedure disappeared in October 2025. It is that Thai Visa Centre continues presenting incomplete and internally inconsistent work-permit guidance while advertising professional assistance and claiming to have reviewed the material after a major government reform.**
 
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
@@ -3089,11 +2988,13 @@ The inconsistency raises legitimate questions about the accuracy of the company'
 [^146]: `https://tvc.co.th/visas/thailand-destination-visa-dtv`
 [^147]: `https://tvc.co.th/guides/thailand-visa-services`
 
-[^148]: `https://tvc.co.th/guides/thailand-work-permit` — Thai Visa Centre, *Thailand Work Permit: Requirements, Process, and Renewals*, marked reviewed June 2026.
-[^149]: `https://tvc.co.th/guides/thailand-work-permit-requirements` — Thai Visa Centre, *Thailand Work Permit Requirements: Documents and Checklist*, marked reviewed June 2026.
-[^150]: `https://tvc.co.th/guides/thailand-work-permit-thailand` — Thai Visa Centre, *Thailand Work Permit Basics: Quotas, Exceptions, and Rules*, marked reviewed June 2026.
-[^151]: `https://tvc.co.th/guides/legal-the-complete-guide-to-obtaining-work-permit-in-thailand` — Thai Visa Centre, *Work Permit in Thailand: Complete Legal and Immigration Guide*, marked reviewed June 2026.
-[^152]: https://www.mol.go.th/en/news/labour-minister-launches-e-workpermit-online-system-for-foreign-worker-registration-24-hour-nationwide-service-begins-october-13 — Thailand Ministry of Labour, October 2025, nationwide e-WorkPermit launch announcement.
-[^153]: https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/438002 — Thailand Public Relations Department, November 4, 2025, temporary paper-application arrangements and January 28, 2026 deadline.
-[^154]: https://www.forvismazars.com/th/en/insights/doing-business-in-thailand/legal/electronic-work-permit-e-wp-system — Forvis Mazars, December 2, 2025, analysis of electronic work permits and the standardized permit card.
-[^155]: https://www.mol.go.th/en/news/labour-minister-presents-work-permits-to-foreign-business-executives-highlights-e-workpermit-as-a-convenient-transparent-and-accountable-solution-for-migrant-workers — Thailand Ministry of Labour, October 15, 2025, electronic application procedures and permit issuance.
+[^148]: https://tvc.co.th/guides/thailand-work-permit — Thai Visa Centre, *Thailand Work Permit: Requirements, Process, and Renewals*, marked reviewed June 2026.
+[^149]: https://tvc.co.th/guides/thailand-work-permit-requirements — Thai Visa Centre, *Thailand Work Permit Requirements: Documents and Checklist*, marked reviewed June 2026.
+[^150]: https://tvc.co.th/guides/thailand-work-permit-thailand — Thai Visa Centre, *Thailand Work Permit Basics: Quotas, Exceptions, and Rules*, marked reviewed June 2026.
+[^151]: https://tvc.co.th/guides/legal-the-complete-guide-to-obtaining-work-permit-in-thailand — Thai Visa Centre, *Work Permit in Thailand: Complete Legal and Immigration Guide*, marked reviewed June 2026.
+[^152]: https://www.mol.go.th/en/news/labour-minister-launches-e-workpermit-online-system-for-foreign-worker-registration-24-hour-nationwide-service-begins-october-13 — Ministry of Labour, October 2025, nationwide e-WorkPermit launch.
+[^153]: https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/438002 — Thailand Public Relations Department, November 4, 2025, transitional arrangements allowing qualifying paper applications.
+[^154]: https://www.forvismazars.com/th/en/insights/doing-business-in-thailand/legal/electronic-work-permit-e-wp-system — Forvis Mazars, December 2, 2025, electronic work-permit system and new card format.
+[^155]: https://www.mol.go.th/en/news/labour-minister-presents-work-permits-to-foreign-business-executives-highlights-e-workpermit-as-a-convenient-transparent-and-accountable-solution-for-migrant-workers — Ministry of Labour, October 15, 2025, electronic application workflow and permit issuance.
+[^156]: https://www.fragomen.com/insights/thailand-mandatory-online-work-permit-and-foreign-worker-registration-system-forthcoming.html — Fragomen, successive 2026 updates concerning extensions to manual submission arrangements.
+[^157]: https://www.fragomen.com/insights/thailand-new-work-permit-submission-options-for-companies-eligible-for-the-rapid-process.html — Fragomen, April 28, 2026, manual and electronic filing arrangements for eligible employers.
