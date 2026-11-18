@@ -911,6 +911,127 @@ It does establish that the agency is using specific, verifiable professional ach
 
 Combined with the previously documented accreditation and office-location discrepancies, these assertions warrant direct verification with Thailand Privilege Card Co., Ltd.
 
+## Inflated Government Visa Fees and Contradictory Service Prices
+
+Thai Visa Centre publishes substantially inaccurate financial comparisons in its guide *Thai Elite Visa Cost: Thailand Privilege Membership Fees, Family Add-ons, Hidden Costs*.
+
+The article promotes Thailand Privilege memberships costing between 650,000 and 5 million baht while comparing those memberships against alternative immigration options, including retirement visas and routine immigration-reporting services.[^95]
+
+However, two of its advertised costs conflict directly with published government fees and the prices charged by a business within Thai Visa Centre's own network.
+
+**The discrepancies concern figures customers may rely upon when deciding whether to purchase expensive immigration services.**
+
+### O-A Embassy Visa Fee Exaggerated Tenfold
+
+Under its comparison of Thailand Privilege memberships against alternative visas, Thai Visa Centre lists the upfront cost of a Non-Immigrant O-A retirement visa as approximately **US$2,000 in embassy fees**, alongside an 800,000-baht bank-balance requirement.[^95]
+
+That description substantially exaggerates the actual government application fee.
+
+The Royal Thai Consulate-General in Los Angeles publishes the following fees:
+
+| Visa category | Official consular fee |
+|---|---:|
+| Non-Immigrant O retirement, single entry | US$80 |
+| Non-Immigrant O retirement, multiple entry | US$200 |
+| Non-Immigrant O-A long-stay retirement | US$200 |
+| Non-Immigrant O-X long-stay retirement | US$400 |
+
+These amounts appear together on the consulate's official visa-fee schedule.[^96]
+
+**Thai Visa Centre's claimed US$2,000 O-A embassy fee is ten times the US$200 charge published by the Thai consulate.**
+
+Consular fees may vary by country, but the agency provides no explanation or government reference supporting its US$2,000 figure.
+
+The discrepancy is especially conspicuous because the article specifically describes the amount as an embassy fee, not as a combined estimate for private legal assistance, insurance, travel, document preparation, or other optional expenses.
+
+### Confusing Financial Qualification With Application Costs
+
+The same comparison adds an 800,000-baht bank-balance requirement to the purported embassy fee.
+
+However, applicants' financial qualifications and the government's actual application charges are fundamentally different categories.
+
+Thailand's O-A framework permits qualifying applicants to demonstrate sufficient funds through bank deposits, monthly income, or an acceptable combination, subject to the relevant consulate's documentation requirements.[^97]
+
+A qualifying bank deposit remains the applicant's money. It is not a payment to the Thai government or an immigration agency.
+
+The funds may need to remain available for specified periods, and applicants must satisfy the applicable financial requirements, but this does not convert the balance into an application fee.
+
+**Thai Visa Centre's financial comparison combines an exaggerated government fee with a bank-balance requirement without adequately distinguishing actual expenditure from proof of financial eligibility.**
+
+This matters because Thailand Privilege membership fees are substantial payments for a commercial membership, while retirement-visa financial requirements generally involve demonstrating access to qualifying funds.
+
+Customers comparing the programs need to understand that distinction before deciding which route is financially appropriate.
+
+### Its Own 90-Day Reporting Prices Contradict the Guide
+
+Another discrepancy appears in the article's table of additional expenses.
+
+Thai Visa Centre identifies 90-day immigration reporting as free when completed independently but lists its own paid reporting service at **3,959 baht through `90day.in.th`**.[^95]
+
+However, the referenced website publishes substantially different prices:
+
+- 500 baht per individual report.
+- 375 baht per report for packages of four or more.
+- Non-expiring prepaid reporting credits.
+
+These prices are explicitly advertised by AGENTS CO., LTD., the operator of `90day.in.th` and Thai Visa Centre's publicly acknowledged digital operations company.[^98]
+
+The 3,959-baht figure is nearly eight times the operator's advertised 500-baht single-report price.
+
+Thai Visa Centre's cost guide does not identify a special reporting package, additional services, or any other basis explaining the difference.
+
+**The agency's financial guide quotes a price for its affiliated immigration-reporting service that cannot be reconciled with the prices published by the service operator itself.**
+
+The discrepancy does not establish that customers have actually been charged 3,959 baht for a single report.
+
+It establishes that the company's published cost guidance is inconsistent with its associated service's advertised pricing.
+
+### Outdated Membership Deadline Creates Additional Confusion
+
+The same cost-comparison guide repeatedly states that Thailand Privilege's 650,000-baht Bronze membership was available only until **September 30, 2026**.[^95]
+
+That deadline was subsequently extended.
+
+On September 30, 2026, Thailand Privilege Card Co., Ltd. reportedly issued a further extension making Bronze memberships available until **December 31, 2026**.
+
+Authorized sales agents including Siam Legal and Daimaru Trading published the revised deadline. Daimaru's announcement identifies the Thailand Privilege Card company notice as reference **TPC: SD26/4288**.[^99][^100]
+
+Nevertheless, Thai Visa Centre's guide continues presenting September 30 as the closing date, including in its pricing introduction and frequently asked questions.
+
+Its article identifies June 2026 as its last update, indicating that the published guidance has not been brought into line with the subsequently announced extension.
+
+The outdated date could lead readers to conclude that the lowest-priced Thailand Privilege membership is unavailable when authorized agents continue offering it.
+
+### The Direction of the Financial Errors
+
+These discrepancies are not all equivalent.
+
+The inflated O-A embassy fee makes a relatively inexpensive government visa application appear substantially more expensive.
+
+The contradictory 90-day reporting price exaggerates the advertised cost of an associated commercial service.
+
+The outdated Bronze deadline creates uncertainty about the continued availability of Thailand Privilege's least expensive membership.
+
+Together, they undermine the article's stated purpose of helping customers make informed financial comparisons between immigration options.
+
+**Thai Visa Centre publishes a cost guide intended to justify expensive long-term visa decisions while misstating a government application fee by a factor of ten and contradicting the published prices of its own affiliated reporting service.**
+
+The available evidence does not establish that these discrepancies were introduced deliberately, that customers paid the inaccurate amounts, or that they were induced to purchase more expensive memberships.
+
+Nevertheless, the errors are concrete, independently checkable, and directly relevant to the financial decisions the article is designed to influence.
+
+### Relevance to the Broader Investigation
+
+Thai Visa Centre has already been documented publishing incorrect retirement-visa durations, outdated insurance requirements, contradictory financial-deposit instructions, and unsupported Thailand Privilege accreditation claims.
+
+The cost-comparison discrepancies add a distinct problem: **the reliability of the monetary figures the agency uses to compare immigration services and promote expensive membership products**.
+
+A business advertising professional immigration expertise should distinguish government fees from private service charges, identify financial qualifications accurately, and reconcile its own published prices.
+
+Thai Visa Centre's guide fails those basic tests.
+
+The company should explain the basis for its US$2,000 embassy-fee claim, clarify why its reporting-service price differs from that published by AGENTS CO., LTD., and update its Thailand Privilege deadline information.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -1008,3 +1129,10 @@ Combined with the previously documented accreditation and office-location discre
 [^92]: `https://tvc.co.th/ko/guides/thailand-thailand-long-stay`
 [^93]: https://www.nationthailand.com/pr-news/more/pr-news/40036914
 [^94]: https://siamlegal.thailandprivilege.com/winner-of-the-best-thailand-privilege-visa-agent-2025-at-the-gssa-awards/
+
+[^95]: `https://tvc.co.th/guides/thai-elite-visa-cost`
+[^96]: https://thaiconsulatela.thaiembassy.org/en/page/visa-fee
+[^97]: https://thaiconsulatela.thaiembassy.org/en/publicservice/non-immigrant-type-o-a/
+[^98]: `https://90day.in.th/about`
+[^99]: https://www.siam-legal.com/thailand-visa/thailand-privilege-visa.html
+[^100]: https://www.thailandelite.net/thailand-privilege-bronze-extended-december-2026
