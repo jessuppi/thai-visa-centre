@@ -2744,6 +2744,77 @@ It establishes that the agency's commercial guidance excludes a legitimate gover
 
 Thai Visa Centre should correct its application instructions, distinguish overseas visa issuance from in-country status changes, and explain the eligibility requirements for both routes.
 
+
+## SMART Visa Service Advertises Categories Discontinued in 2025
+
+Thai Visa Centre continues advertising Thailand's SMART Visa program as an immigration option for highly skilled professionals, investors, senior executives, and startup entrepreneurs.
+
+However, **three of the four principal visa categories advertised on its commercial service page were discontinued for new applicants in February 2025**.[^169][^170]
+
+The discrepancy is significant because TVC presents the outdated categories as currently available services and encourages prospective customers to begin applications.
+
+### BOI Restricted New SMART Visas to Startup Entrepreneurs
+
+On February 18, 2025, Thailand's Board of Investment issued Announcement No. Por 5/2568, following a Cabinet resolution dated January 13, 2025.[^170]
+
+The government explicitly decided to retain SMART Visa eligibility for startup entrepreneurs while eliminating overlap with Thailand's Long-Term Resident (LTR) visa program.
+
+The announcement repealed the previous SMART Visa qualification framework established in December 2018.
+
+For new applications, it identifies only:
+
+- **SMART S:** Qualifying entrepreneurs operating certified startups in Thailand.
+- **SMART O:** Eligible spouses and children of those entrepreneurs.
+
+The former SMART Talent (T), Investor (I), and Executive (E) categories are no longer available to new applicants under the revised framework.
+
+The announcement specifies that the replacement rules apply to applications submitted after the change.
+
+It does not establish that existing SMART Visa holders automatically lost their previously granted immigration status.
+
+### TVC Continues Advertising Discontinued Categories
+
+Thai Visa Centre's *Thailand SMART Visa* service page nevertheless presents the program as a four-year immigration solution for professionals, investors, executives, and startup founders.[^169]
+
+Its eligibility and application sections separately advertise:
+
+- **SMART Talent (T):** Highly skilled professionals earning at least 100,000 baht monthly, with certain exceptions.
+- **SMART Investor (I):** Investors committing 20 million baht to technology companies or 5 million baht to qualifying startups.
+- **SMART Executive (E):** Senior executives earning at least 200,000 baht monthly.
+- **SMART Startup (S):** Startup founders meeting investment, ownership, and financial requirements.
+
+The page also advertises four-year stays, qualification endorsements, visa conversions, and government liaison services.
+
+These descriptions reflect the former SMART Visa framework rather than the program established by the BOI's February 2025 announcement.
+
+**TVC is advertising government visa categories that the responsible government agency no longer accepts for new applications.**
+
+### The Four-Year Visa Claim Is Also Outdated
+
+The distinction affects more than the names of the eligible categories.
+
+TVC prominently describes SMART Visas as allowing stays of up to four years.
+
+That duration was associated with certain former SMART Talent, Investor, and Executive categories.
+
+The replacement announcement instead provides for qualifying startup entrepreneurs to receive permission for a period not exceeding two years, subject to the applicable requirements.[^170]
+
+Consequently, **the four-year duration used to promote TVC's current SMART Visa services no longer describes the program available to new applicants under the revised rules**.
+
+### Consequences for Prospective Customers
+
+A professional or investor relying on TVC's page could spend time preparing financial evidence, employment contracts, investment documents, or qualification endorsements for a discontinued visa category.
+
+The outdated information could also lead applicants to compare immigration options using benefits and stay durations that are no longer available.
+
+The BOI's decision specifically sought to reduce overlap between SMART Visas and the LTR program, making accurate distinctions between those pathways particularly important.
+
+The available evidence does not establish that Thai Visa Centre has submitted applications under abolished categories, collected fees for unavailable visas, or caused a particular customer financial loss.
+
+However, **the company's commercial website continues promoting discontinued immigration categories more than a year after the government formally restricted the program**.
+
+Thai Visa Centre should update its advertised categories, remove obsolete four-year eligibility claims, and explain which immigration pathways remain available to professionals and investors affected by the 2025 changes.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -2929,3 +3000,6 @@ Thai Visa Centre should correct its application instructions, distinguish overse
 [^166]: https://tvc.co.th/visas/thailand-business-visa — Thai Visa Centre, business-visa service page, eligibility criteria, application instructions, and FAQ.
 [^167]: https://thailand.go.th/visit-thailand-detail/001-01-005-2 — Thailand government, Immigration Division 1, application for change of visa type to Non-Immigrant B for employment with a company or partnership.
 [^168]: https://www.mfa.go.th/en/publicservice/non-immigrant-visa-b-for-business-and-work — Ministry of Foreign Affairs, Non-Immigrant Visa B guidance, section 3.3, recognizing in-country changes of visa status.
+
+[^169]: https://tvc.co.th/visas/thailand-smart-visa — Thai Visa Centre, SMART Visa service page advertising Talent, Investor, Executive, and Startup categories.
+[^170]: https://smart-visa.boi.go.th/smart/document/related/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_5_2568_EN.pdf — Thailand Board of Investment, Announcement No. Por 5/2568, February 18, 2025, replacing the former SMART Visa eligibility framework for new applications.
