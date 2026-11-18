@@ -2437,6 +2437,179 @@ They would simply distinguish ordinary procedures from the exceptional requireme
 
 The discrepancy adds another example of incomplete immigration and entry guidance from a company advertising specialist knowledge of Thailand's changing travel requirements.
 
+## Claimed Embassy Connections and DTV Approval Assurances Contradict Official Procedures
+
+Thai Visa Centre advertises special embassy relationships, fast-track submission arrangements, and assurances of approval when promoting its Destination Thailand Visa (DTV) services.
+
+However, Thailand's official visa procedures reserve approval decisions to authorized consular officers.
+
+The agency's published DTV processing times are also internally inconsistent, describing official embassy review as taking only two to three days while separately advertising substantially longer standard and express processing periods.
+
+**Thai Visa Centre uses claims of privileged embassy coordination and approval certainty to promote paid immigration services without identifying an official procedure establishing those advantages.**
+
+### The Agency Claims It Can Ensure Approval
+
+On its dedicated DTV assistance page, Thai Visa Centre describes the services available to applicants who are already in Thailand.[^143]
+
+It states:
+
+> We work closely with our nearby embassy contacts to confirm eligibility and ensure approval before arranging a visa run.
+
+This is a consequential commercial representation.
+
+An immigration adviser can assess eligibility, prepare documentation, contact consular offices, and identify potential weaknesses in an application.
+
+However, those activities do not establish authority to approve a government visa.
+
+The wording also leaves an important procedural question unanswered.
+
+**How can the agency ensure approval before arranging the applicant's departure when DTV issuance requires a formal application to the competent Thai embassy or consulate outside Thailand?**
+
+The publication does not identify a preliminary approval system, an official embassy agreement, or a government-issued authorization supporting the advertised arrangement.
+
+### Visa Decisions Remain With Consular Officers
+
+Thailand's official e-Visa platform explains that applications remain subject to government approval.[^144]
+
+Embassies and consulates may request further documents or interviews, and submitting a complete application does not guarantee issuance.
+
+The Royal Thai Embassy in Washington, D.C., independently confirms that consular officers retain authority to reject applications and request additional evidence.[^145]
+
+These rules do not prevent immigration agencies from offering legitimate document-preparation services.
+
+Nor do they prohibit ordinary communications between agencies and embassy personnel.
+
+Nevertheless, **a commercial agency's ability to contact an embassy is not equivalent to the authority to guarantee a consular decision**.
+
+Thai Visa Centre's published description does not adequately explain this distinction.
+
+### The Company Advertises Fast-Track Embassy Channels
+
+The agency's primary DTV visa page makes a related claim.[^146]
+
+Its application process includes an embassy-submission stage described as:
+
+> Fast-track submission through our embassy channels
+
+The page assigns one day to this stage.
+
+However, it does not identify the relevant embassy, an official expedited-submission program, or the conditions under which customers qualify for preferential handling.
+
+The existence of embassy contacts would not independently establish access to an officially recognized fast-track procedure.
+
+**Thai Visa Centre advertises a potentially valuable government-processing advantage without documenting the administrative basis for that advantage.**
+
+The claim is especially relevant because the company charges customers for professional application assistance and promotes its expertise as a way to reduce rejection risks.
+
+### Contradictory Processing Times on the Same Page
+
+The main DTV sales page contains another independently verifiable inconsistency.
+
+At the beginning of the publication, Thai Visa Centre advertises the following estimated processing periods:
+
+| Advertised service | Processing time |
+|---|---|
+| Standard | 2–5 weeks |
+| Express | 1–3 weeks |
+
+Yet the same page's application-process section describes official embassy review and processing as taking **2–3 days**.[^146]
+
+The publication does not explain whether the shorter estimate applies only to particular embassies, previously reviewed applications, internal agency processing, or another exceptional arrangement.
+
+In fact, it explicitly labels the shorter stage as official embassy review.
+
+The discrepancy matters because the claimed time advantage could influence customers deciding whether to purchase expedited assistance, schedule international travel, or commit to nonrefundable expenses.
+
+Some Thai consular offices may process straightforward applications quickly.
+
+That possibility does not reconcile the different estimates published on the same sales page.
+
+**Thai Visa Centre presents materially different processing expectations without identifying the conditions under which either estimate applies.**
+
+### The Embassy Warns Against Assuming Rapid Processing
+
+The Royal Thai Embassy in Washington, D.C., advises visa applicants to plan well in advance because application processing can take longer during periods of high demand.[^145]
+
+Its October 2026 guidance recommends applying at least 30 days before the intended departure date.
+
+The embassy also explains that requests for additional documents can extend the processing schedule.
+
+These warnings demonstrate why a universal two-to-three-day expectation would be unreliable.
+
+A professional intermediary may help customers avoid document errors, but it cannot independently control an embassy's workload, discretionary review, or requests for additional evidence.
+
+**The published government guidance does not support treating Thai Visa Centre's two-to-three-day processing figure as a generally reliable expectation for DTV applicants.**
+
+### Thai Visa Centre Contradicts Its Own Disclaimer
+
+The agency's broader immigration guidance acknowledges the limits of professional assistance.
+
+Its *Thailand Visa Services* guide states:
+
+> No agency can guarantee immigration outcomes.
+
+That explanation correctly distinguishes private application assistance from government decision-making.[^147]
+
+However, its DTV marketing simultaneously claims that embassy contacts allow the company to ensure approval before arranging travel.
+
+The two representations create different expectations about the same underlying service.
+
+One correctly acknowledges that immigration outcomes cannot be guaranteed.
+
+The other suggests that TVC's embassy relationships can provide certainty before an application proceeds.
+
+**Thai Visa Centre acknowledges the limits of private visa assistance in its general guidance while using stronger approval assurances in its commercial DTV advertising.**
+
+### Refund Protection Does Not Establish Approval Authority
+
+Thai Visa Centre also advertises a refund policy for unsuccessful DTV applications.
+
+Its DTV sales pages state that agency service fees can be refunded if the application is unsuccessful, while government visa fees remain nonrefundable.[^143][^146]
+
+This distinction may provide customers with a degree of financial protection.
+
+However, a refund promise is not evidence that the agency can guarantee government approval.
+
+Indeed, the company's acknowledgment that applications may be rejected demonstrates that unsuccessful outcomes remain possible despite its professional assistance.
+
+Customers must also distinguish between refundable service fees and nonrefundable embassy fees, travel costs, accommodation expenses, and other commitments made in anticipation of approval.
+
+**The availability of an agency-fee refund does not eliminate the financial consequences of relying on an unsupported processing or approval assurance.**
+
+### Why the Claims Matter
+
+The existing investigation documents Thai Visa Centre's outdated DTV application instructions following the August 31, 2026 changes to application-location and documentation requirements.
+
+The company's claims about embassy contacts and pre-approval add a separate concern.
+
+They suggest a degree of access or influence over government visa decisions that the published evidence does not substantiate.
+
+These statements could be particularly influential for customers considering an international visa run.
+
+Such customers may incur expenses for flights, accommodation, embassy fees, professional services, and time away from employment.
+
+They need to understand which parts of the process an agency can legitimately coordinate and which decisions remain exclusively with government authorities.
+
+The available evidence does not establish improper relationships with embassy employees, preferential government treatment, bribery, or actual interference with visa decisions.
+
+Nor does it establish that the company has failed to secure approvals for particular customers.
+
+**The documented issue is that Thai Visa Centre advertises approval assurances and fast-track embassy arrangements without publishing evidence identifying the official basis for those claims.**
+
+### Questions the Company Should Answer
+
+Thai Visa Centre should identify the government procedures underlying its advertised embassy relationships and explain precisely what it means by ensuring approval before arranging a visa run.
+
+It should also clarify whether its fast-track submission service uses a formally recognized government channel or simply expedited document preparation.
+
+Its DTV sales page should reconcile the advertised two-to-three-day embassy-processing estimate with its substantially longer standard and express processing periods.
+
+Finally, the company should distinguish eligibility screening from formal consular approval and explain the practical limits of its refund protection.
+
+**Thai Visa Centre promotes paid DTV assistance through claims of embassy connections, advance approval assurances, and expedited processing, while its own guidance and official government procedures acknowledge that visa decisions remain discretionary.**
+
+The discrepancy raises legitimate questions about whether prospective customers receive an accurate explanation of the authority, speed, and certainty of the immigration services being advertised.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -2591,3 +2764,9 @@ The discrepancy adds another example of incomplete immigration and entry guidanc
 [^140]: https://tdac.immigration.go.th/manual/en/faq.html
 [^141]: https://www.am2026thailand.go.th/immigration-and-customs
 [^142]: https://www.un.org/globalgeospatial/sites/default/files/2026-11/information_note_for_participants_2026.pdf
+
+[^143]: `https://tvc.co.th/dtv`
+[^144]: https://www.thaievisa.go.th/
+[^145]: https://washingtondc.thaiembassy.org/en/page/visa-information
+[^146]: `https://tvc.co.th/visas/thailand-destination-visa-dtv`
+[^147]: `https://tvc.co.th/guides/thailand-visa-services`
