@@ -2880,6 +2880,73 @@ It establishes that **the agency's commercial tourist-visa page contains financi
 
 Thai Visa Centre should correct its tourist-visa financial checklist, distinguish tourist visas from Visa on Arrival requirements, and explain insurance as a recommendation except where a specific applicable rule requires it.
 
+
+## One-Year Visa Page Incorrectly Requires 90-Day Reports After Re-Entry
+
+Thai Visa Centre's commercial *Thailand One-Year Non-Immigrant Visa* page incorrectly instructs frequent international travelers to continue filing 90-day immigration reports even when they regularly leave and re-enter Thailand.[^176]
+
+This contradicts both the Immigration Bureau's official reporting rules and the agency's own published guidance.
+
+**The discrepancy is particularly relevant because Thai Visa Centre also sells paid 90-day reporting assistance through an affiliated service.**
+
+### TVC Claims Reporting Remains Mandatory
+
+Thai Visa Centre advertises its one-year multiple-entry Non-Immigrant Visa as suitable for foreigners making frequent visits to Thailand.
+
+The service page explains that the visa generally allows stays of up to 90 days per entry.
+
+Under its FAQ, however, the company answers the question *What about 90-day reporting?* by stating:
+
+> Yes, you must still report to immigration every 90 days, even if you regularly leave and re-enter Thailand.
+
+Its restrictions section also lists 90-day reporting as mandatory, without explaining that the obligation depends on the length of continuous residence.[^176]
+
+**This incorrectly suggests that the reporting schedule continues regardless of international departures and subsequent re-entry.**
+
+### Immigration Bureau Rules Reset the Reporting Clock
+
+Thailand's official government guidance, sourced from Immigration Division 1, explains that foreigners staying in Thailand for more than 90 days must notify immigration of their residence.[^177]
+
+Crucially, it states:
+
+> If a foreigner leaves the Kingdom and re-enters, the day count starts at 0 in every case.
+
+The Royal Thai Consulate-General in Los Angeles independently publishes the same rule.[^178]
+
+Consequently, a foreigner who leaves Thailand before reaching the reporting deadline does not need to submit a report for that interrupted period.
+
+The 90-day count begins again following the next entry.
+
+A traveler making repeated visits shorter than 90 consecutive days may therefore never become obligated to file a TM47 report during those visits.
+
+This does not eliminate reporting requirements for foreigners who remain in Thailand continuously for the relevant period, or excuse violations that occurred before departure.
+
+### TVC's Own FAQ Contradicts Its Service Page
+
+The inconsistency is especially clear because Thai Visa Centre publishes a separate FAQ titled *Do I Need to Do 90-Day Reporting While Outside of Thailand?*[^179]
+
+That article correctly explains that:
+
+- No report is required for a reporting period interrupted by departure before its deadline.
+- Each re-entry restarts the 90-day count.
+- Reporting resumes only after the applicable continuous-stay period.
+
+**The agency therefore gives customers opposite answers about the same immigration obligation, depending on which page they consult.**
+
+Both publications promote TVC's immigration assistance.
+
+### Relevance to Paid Reporting Services
+
+Thai Visa Centre advertises paid 90-day reporting assistance, including through its affiliated `90day.in.th` service.
+
+Customers following the one-year visa page could incorrectly believe that they must purchase reporting assistance despite regularly departing Thailand before reaching the reporting threshold.
+
+There is no evidence that TVC has charged a customer for an unnecessary report or deliberately misrepresented the rule to generate business.
+
+However, **its commercial service page incorrectly presents a conditional immigration obligation as mandatory for travelers whose repeated departures may eliminate the need to report altogether**.
+
+The agency should correct the FAQ, distinguish continuous residence from repeated short visits, and reconcile its commercial visa guidance with its own accurate explanation of the reporting clock.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -3074,3 +3141,8 @@ Thai Visa Centre should correct its tourist-visa financial checklist, distinguis
 [^173]: https://budapest.thaiembassy.org/en/publicservice/tourist-visa-tr?cate=698497c323290a095267d1c3 — Royal Thai Embassy, Budapest, February 6, 2026, tourist-visa financial requirements.
 [^174]: https://doha.thaiembassy.org/en/publicservice/tourist-visa-exemption-visa-on-arrival — Royal Thai Embassy, Doha, distinguishing Visa on Arrival financial requirements.
 [^175]: https://tvc.co.th/faq/do-i-need-health-insurance-for-thailand — Thai Visa Centre, insurance FAQ distinguishing mandatory coverage from recommended tourist insurance.
+
+[^176]: https://tvc.co.th/visas/thailand-one-year-visa — Thai Visa Centre, One-Year Non-Immigrant Visa service page, restrictions and 90-day reporting FAQ.
+[^177]: https://thailand.go.th/public/useful-information-detail/001-01-018 — Thailand government, Immigration Division 1, official guidance confirming that the 90-day reporting count resets upon re-entry.
+[^178]: https://thaiconsulatela.thaiembassy.org/en/publicservice/foreigners-staying-in-thailand-more-than-90-days — Royal Thai Consulate-General, Los Angeles, official 90-day reporting instructions.
+[^179]: https://tvc.co.th/faq/90-day-reporting-while-outside-of-thailand — Thai Visa Centre, FAQ correctly explaining reporting exemptions following departure and re-entry.
