@@ -2028,6 +2028,211 @@ These discrepancies undermine the completeness of the company's public review-tr
 
 They warrant an independently reproducible accounting of the ratings used to support Thai Visa Centre's prominently advertised 4.9-star reputation.
 
+## Mandatory LTR Health Insurance Claims Contradict Official BOI Alternatives
+
+Thai Visa Centre publishes misleading instructions concerning the health-insurance requirements of Thailand's Long-Term Resident (LTR) visa program.
+
+Its principal LTR sales page identifies health insurance as a required application document and states that visa holders must maintain valid health insurance throughout their stay.[^131]
+
+However, Thailand's Board of Investment (BOI), which administers the LTR program, explicitly permits eligible applicants to satisfy the corresponding financial and healthcare requirement through alternatives to private health insurance.[^132]
+
+Those alternatives include qualifying Thai social security coverage and bank deposits maintained for at least 12 months.
+
+**Thai Visa Centre presents private health insurance as mandatory even though the responsible government authority explicitly permits applicants to qualify without purchasing an insurance policy.**
+
+The error also affects dependents, whose official requirements include a separate, lower bank-deposit alternative.
+
+### Health Insurance Presented as a Universal Requirement
+
+Thai Visa Centre's dedicated *Long-Term Resident Visa (LTR)* page advertises immigration assistance across the program's four principal categories.
+
+Its category-specific documentation lists repeatedly identify health insurance with minimum coverage of US$50,000 as a required document.[^131]
+
+The same page includes a separate section titled *Health Insurance*, instructing applicants to provide a policy meeting that coverage threshold for their stay in Thailand.
+
+Under *Restrictions*, the website makes an even more categorical claim:
+
+> Must maintain valid health insurance
+
+This instruction appears alongside legitimate continuing obligations, including maintaining qualification criteria, completing annual immigration reporting, and complying with employment requirements.
+
+The page does not explain that the insurance requirement can be satisfied through other forms of evidence.
+
+**A prospective applicant reading TVC's service description would reasonably conclude that obtaining and maintaining private health insurance is a non-negotiable condition of LTR approval.**
+
+That conclusion conflicts with the government's published requirements.
+
+### The BOI Explicitly Permits Three Alternatives
+
+The BOI's official LTR program website identifies three acceptable methods of satisfying the healthcare-related requirement for principal applicants.[^132]
+
+| Qualification pathway | Official requirement |
+|---|---|
+| Private or qualifying group health insurance | At least US$50,000 in medical coverage |
+| Thai social security | Valid benefits covering hospitalization and medical treatment in Thailand |
+| Bank-deposit alternative | At least US$100,000 maintained for a minimum of 12 months |
+
+These are alternatives rather than cumulative requirements.
+
+Applicants do not automatically need private health insurance if they provide qualifying social security evidence or satisfy the bank-deposit option.
+
+The BOI repeats this arrangement across its descriptions of Wealthy Global Citizens, Wealthy Pensioners, Work-from-Thailand Professionals, and Highly Skilled Professionals.
+
+The agency's official document checklist for Work-from-Thailand Professionals independently confirms the alternatives.[^133]
+
+That checklist specifies that qualifying bank evidence must demonstrate a balance of at least US$100,000 maintained for at least 12 months.
+
+It also clarifies that investment portfolios and fixed deposits are not accepted for that particular form of evidence.
+
+**The BOI does not impose a universal requirement to purchase private health insurance. It requires applicants to demonstrate compliance through one of several accepted pathways.**
+
+### The Official Rules for Dependents Are Different
+
+The distinction is equally important for spouses and children applying as LTR dependents.
+
+The BOI's published dependent requirements allow applicants to satisfy the healthcare-related condition through:
+
+- Qualifying insurance providing at least US$50,000 in coverage.
+- Valid Thai social security benefits covering hospitalization and medical treatment.
+- A qualifying bank deposit of at least US$25,000 maintained for a minimum of 12 months.
+
+The BOI's November 6, 2025 document checklist expressly identifies these three alternatives.[^134]
+
+The US$25,000 threshold is substantially lower than the US$100,000 bank-deposit alternative applicable to principal applicants.
+
+However, Thai Visa Centre's insurance FAQ states that each dependent carries their own policy.[^135]
+
+That wording again suggests private insurance is mandatory for every family member.
+
+**A dependent satisfying the BOI's US$25,000 deposit requirement does not automatically need to purchase a separate private health-insurance policy merely because they are applying under the LTR program.**
+
+The eligibility of any particular dependent remains subject to the BOI's documentary requirements and assessment.
+
+Nevertheless, the government's published rules expressly permit alternatives that TVC's categorical instructions fail to describe.
+
+### Thai Visa Centre's Own Insurance FAQ Acknowledges the Alternative
+
+The inconsistency is particularly revealing because Thai Visa Centre has published the correct distinction elsewhere on its website.
+
+Its FAQ *Do I Need Health Insurance for Thailand?* discusses insurance requirements across different immigration categories.[^135]
+
+Under its LTR section, the article acknowledges that applicants may use an equivalent cash-deposit alternative under BOI rules.
+
+That acknowledgment directly undermines the main LTR sales page's statement that valid health insurance must be maintained.
+
+The company's separate guide *How to Stay in Thailand for 20 Years* introduces the same confusion.[^136]
+
+Its planning checklist states that health insurance is mandatory for O-A retirement visas, required for LTR, and recommended for Thailand Privilege.
+
+The guide repeats that classification without explaining the BOI's alternatives.
+
+The result is three materially different presentations:
+
+1. **Main LTR sales page:** Health insurance is required and must be maintained.
+2. **Twenty-year residence guide:** Health insurance is required for LTR applicants.
+3. **Insurance FAQ:** A cash-deposit alternative exists under BOI rules.
+
+**Thai Visa Centre already acknowledges that the LTR insurance requirement has exceptions, yet continues advertising private insurance as compulsory in its main commercial guidance.**
+
+The company does not explain why prospective customers receive different information depending on which article they consult.
+
+### Health Insurance and Financial Evidence Are Not Interchangeable Costs
+
+The BOI's alternatives have different financial implications.
+
+Purchasing private health insurance generally involves paying premiums to an insurer.
+
+A qualifying bank deposit instead involves maintaining a substantial balance that remains the applicant's own money, subject to the government's requirements.
+
+These are materially different financial commitments.
+
+A bank deposit is not the same as an application fee or an insurance premium.
+
+However, maintaining US$100,000 in qualifying funds can impose a substantial liquidity requirement and may be impractical for applicants who would otherwise prefer purchasing insurance.
+
+Likewise, Thai social security coverage is available only where applicants can demonstrate valid qualifying benefits.
+
+**The alternatives are not necessarily cheaper or more convenient for every applicant, but their existence is central to determining which LTR application strategy is appropriate.**
+
+A professional visa adviser should explain those choices rather than presenting one option as universally mandatory.
+
+### The Error Can Affect Families and Older Applicants
+
+The omission may be particularly consequential for applicants who face difficulties obtaining private health insurance.
+
+Some older applicants may encounter high premiums, exclusions, or difficulty obtaining coverage for pre-existing medical conditions.
+
+Other applicants may already possess qualifying financial resources or valid Thai social security benefits.
+
+For these individuals, the BOI's alternatives may materially affect whether an LTR application is practical.
+
+A family applying for LTR status may also need to compare the cost of multiple insurance policies with the separate financial-evidence requirements for dependents.
+
+**Telling every applicant and dependent that private health insurance is mandatory can cause unnecessary concern, discourage otherwise eligible applicants, or lead customers to purchase coverage that the government does not require under their chosen qualification pathway.**
+
+The public evidence does not establish that Thai Visa Centre has sold unnecessary insurance policies, received insurance commissions, or charged customers for avoidable documentation.
+
+Those conclusions would require transaction records or customer testimony.
+
+The documented problem is the agency's inaccurate explanation of the government's eligibility requirements.
+
+### Maintaining Qualification Does Not Necessarily Mean Maintaining Insurance
+
+The BOI requires LTR visa holders to maintain the conditions under which their applications were approved.
+
+These continuing obligations may include employment arrangements, investment amounts, bank balances, and insurance coverage, depending on the applicant's specific qualification pathway.[^132]
+
+That requirement does not establish that everyone must maintain private insurance.
+
+An applicant approved through the bank-deposit alternative must satisfy the applicable financial conditions.
+
+An applicant relying on qualifying insurance must maintain the required coverage.
+
+An applicant relying on Thai social security must satisfy the corresponding eligibility requirements.
+
+**Thai Visa Centre's blanket instruction to maintain valid health insurance fails to distinguish between the different methods of satisfying the BOI's underlying requirement.**
+
+The company should explain which continuing obligations apply to each pathway instead of describing one option as universal.
+
+### The Broader Pattern of LTR Misinformation
+
+The existing investigation has documented two other important discrepancies in Thai Visa Centre's LTR guidance.
+
+First, the agency advertises digital work permits for Work-from-Thailand Professionals despite the BOI explicitly excluding that category from work-permit issuance.
+
+Second, its 90-day reporting guide incorrectly tells LTR holders to submit quarterly TM47 notifications even though the government replaces that procedure with annual TM95 reporting.
+
+The health-insurance discrepancy adds a third independent problem.
+
+All three concern material benefits, obligations, or eligibility conditions associated with the same government immigration program.
+
+They also share a common characteristic: **the correct information is available through official BOI publications, and some of it is acknowledged elsewhere on TVC's own website**.
+
+This raises questions about whether the agency's published immigration guidance is reviewed consistently against the primary government requirements it claims to explain.
+
+### Questions the Company Should Answer
+
+Thai Visa Centre should clarify why its main LTR sales page requires private health insurance despite the BOI's officially permitted alternatives.
+
+It should also:
+
+1. Identify the US$100,000 bank-deposit alternative for principal applicants.
+2. Explain the qualifying Thai social security pathway.
+3. Identify the US$25,000 deposit alternative available to eligible dependents.
+4. Correct categorical statements requiring all LTR holders to maintain insurance.
+5. Distinguish bank-balance maintenance from insurance-premium payments.
+6. Reconcile its main sales page, insurance FAQ, and long-term residence guides.
+
+The company should further clarify whether its professional document-preparation service advises applicants about all accepted qualification pathways before recommending particular insurance arrangements.
+
+The available evidence does not establish intentional deception, unnecessary insurance sales, or financial harm to a specific customer.
+
+**It does establish that Thai Visa Centre repeatedly presents one optional method of satisfying the BOI's healthcare-related requirements as though it were mandatory for all LTR applicants.**
+
+This is a consequential factual error because the government expressly provides alternatives for applicants who meet the relevant criteria.
+
+**An immigration agency advertising expertise in the LTR program should not tell customers they must purchase or maintain private health insurance when the responsible government authority explicitly permits approval through qualifying social security benefits or maintained bank deposits.**
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -2168,3 +2373,10 @@ They warrant an independently reproducible accounting of the ratings used to sup
 
 [^129]: `https://tvc.co.th/reviews` — Main multi-platform review archive, examined November 18, 2026.
 [^130]: `https://tvc.co.th/reviews/fake-reviews` — Google-only review transparency report, examined November 18, 2026.
+
+[^131]: `https://tvc.co.th/visas/thailand-long-term-resident-visa-ltr`
+[^132]: https://ltr.boi.go.th/
+[^133]: https://ltr.boi.go.th/documents/Required-docs-Work-From-Thailand-Professional-30-06-2025.pdf
+[^134]: https://ltr.boi.go.th/documents/Required-docs-Dependents-06-11-2025.pdf
+[^135]: `https://tvc.co.th/faq/do-i-need-health-insurance-for-thailand`
+[^136]: `https://tvc.co.th/guides/how-to-stay-in-thailand-for-20-years`
