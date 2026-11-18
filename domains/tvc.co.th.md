@@ -3097,6 +3097,81 @@ However, **its prominent full-refund marketing is not clearly reconciled with th
 
 Thai Visa Centre should explain whether its refundable-deposit guarantee includes government charges, identify when transaction fees may be deducted, clarify what constitutes unsuccessful service delivery, and provide consistent refund information before customers make payments.
 
+
+## Thailand Privilege Service Page Incorrectly Claims Stay Extensions Are Unnecessary
+
+Thai Visa Centre advertises Thailand Privilege memberships costing between 650,000 and 5 million baht, offering immigration arrangements lasting five to twenty years.
+
+However, its commercial Thailand Privilege Visa page incorrectly tells customers that stay extensions are unnecessary.[^186]
+
+**This contradicts the official program operator's published requirements for members remaining continuously in Thailand beyond their initial permission to stay.**
+
+### TVC Advertises No Extension Requirement
+
+Under its visa-validity information, Thai Visa Centre identifies:
+
+- Membership duration: 5–20 years.
+- Permitted stay: One year per entry.
+- Extensions: "No extensions needed - multiple re-entry permitted."
+
+The presentation suggests that the program's multiple-entry privileges eliminate the need for immigration extensions.[^186]
+
+However, these are separate matters.
+
+A Thailand Privilege membership may remain valid for many years, but the permission granted upon a particular entry is generally limited to one year.
+
+Multiple-entry privileges allow members to depart and return during their visa's validity. They do not automatically extend an existing period of uninterrupted residence.
+
+### Official Operator Requires Extensions for Continuous Stays
+
+Thailand Privilege Card Co., Ltd. publishes explicit instructions for members seeking to remain beyond their permitted stay.[^187]
+
+Its official guidance explains that members can apply for an extension at the immigration office responsible for their residence.
+
+The procedure requires:
+
+- An application using immigration Form TM7.
+- Supporting passport and membership documentation.
+- Personal attendance for photographs and fingerprints.
+- A government extension fee of 1,900 baht.
+
+Applications may generally be submitted up to 30 days before the current permission expires.
+
+The operator also confirms that Privilege Entry Visa holders can receive a one-year extension with each successful application.
+
+**Members wishing to remain continuously in Thailand beyond their current permitted period therefore cannot rely solely on the remaining validity of their five- to twenty-year membership.**
+
+### TVC's Own Guide Acknowledges the Requirement
+
+Thai Visa Centre's separate guide, *Thailand Privilege Visa: Tiers, Benefits, Eligibility, and Application 2026*, correctly distinguishes membership validity from permitted stay.[^188]
+
+It explains that members receive up to one year per entry and must either:
+
+- Depart and re-enter to receive a new period of permission, subject to immigration approval; or
+- Apply for a one-year extension inside Thailand.
+
+This directly conflicts with the categorical statement on TVC's commercial service page that no extensions are needed.
+
+**The company therefore publishes accurate instructions in one article while advertising a more convenient but incomplete account of the same immigration obligations on its sales page.**
+
+### Consequences for Long-Term Residents
+
+Thailand Privilege is marketed specifically to foreigners seeking convenient long-term residence without the financial-document requirements associated with retirement visas.
+
+Customers may reasonably distinguish these expensive memberships from arrangements involving frequent immigration renewals.
+
+However, members intending to remain continuously in Thailand must still monitor their permission-to-stay expiration dates and obtain extensions when necessary.
+
+Failing to do so can result in overstay, even while the underlying Thailand Privilege membership remains valid.
+
+Members who instead depart and re-enter before their permission expires may avoid the domestic extension process, but international travel is not equivalent to an automatic extension.
+
+The available evidence does not establish that Thai Visa Centre has caused customers to overstay or incorrectly processed membership extensions.
+
+Nevertheless, **its commercial website misrepresents an important ongoing immigration obligation associated with memberships costing hundreds of thousands or millions of baht**.
+
+Thai Visa Centre should correct the service page, distinguish membership validity from each entry's permitted stay, and explain the available extension and re-entry procedures consistently across its publications.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -3304,3 +3379,7 @@ Thai Visa Centre should explain whether its refundable-deposit guarantee include
 [^183]: https://tvc.co.th/ — Thai Visa Centre homepage, *Transparent payments, refundable deposits, and nationwide service*, including its full-refund guarantee.
 [^184]: https://tvc.co.th/policy/refund — Thai Visa Centre, Refund Policy, updated February 9, 2025, including government-fee exclusions and transaction-charge deductions.
 [^185]: https://tvc.co.th/policy/terms-and-conditions — Thai Visa Centre, Terms & Conditions, updated February 9, 2025, including contractual identity and liability provisions.
+
+[^186]: https://tvc.co.th/visas/thailand-privilege-visa — Thai Visa Centre, Thailand Privilege Visa service page, membership duration, permitted stay, and claim that extensions are unnecessary.
+[^187]: https://www.thailandprivilege.co.th/living-in-thailand — Thailand Privilege Card Co., Ltd., official stay-extension requirements, including TM7, personal attendance, and the 1,900-baht fee.
+[^188]: https://tvc.co.th/guides/thailand-privilege-visa — Thai Visa Centre, 2026 Thailand Privilege guide acknowledging the choice between re-entry and an in-country stay extension.
