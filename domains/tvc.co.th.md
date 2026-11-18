@@ -2680,6 +2680,70 @@ However, **its commercial service pages provide incorrect or contradictory instr
 
 The company should correct both renewal checklists, distinguish TM47 reporting receipts from TM7 extension applications, and reconcile its marriage-visa deposit instructions with official immigration requirements.
 
+
+## Business Visa Page Incorrectly Requires Applicants to Leave Thailand
+
+Thai Visa Centre advertises professional assistance with Non-Immigrant B visas, including business sponsorship, employment documentation, visa extensions, and work-permit coordination.
+
+However, its commercial business-visa page incorrectly states that applicants cannot change from a tourist visa to a Non-Immigrant B visa while remaining in Thailand.[^166]
+
+**This directly contradicts the Immigration Bureau's published procedure permitting qualifying applicants to obtain Non-B status without leaving the country.**
+
+### TVC Claims Overseas Applications Are Mandatory
+
+Thai Visa Centre's *Thailand Business Visa* service page lists the following eligibility requirement:
+
+> Must apply from outside Thailand
+
+Its FAQ reinforces that restriction.
+
+Under *Can I convert from a tourist visa?*, the company answers:
+
+> No, you must apply for the Non-Immigrant B Visa from outside Thailand.
+
+The answer then instructs applicants to leave Thailand and apply through a Thai embassy or consulate.[^166]
+
+The page's application checklist similarly describes overseas embassy submission as the required route.
+
+These instructions present international travel as unavoidable rather than explaining the available domestic application procedure.
+
+### Immigration Bureau Explicitly Permits In-Country Conversion
+
+Thailand's official government guidance, sourced from Immigration Division 1, describes the procedure for changing immigration status to **Non-Immigrant B for employment with a Thai company or partnership**.[^167]
+
+It distinguishes two application routes:
+
+- **TM86:** For holders of tourist or transit visas requesting a change to Non-Immigrant status.
+- **TM87:** For eligible foreigners admitted without a visa who subsequently request a Non-Immigrant visa.
+
+The procedure requires supporting employer documentation, proof of company registration, financial and tax records, and a government application fee of **2,000 baht**.
+
+Applicants generally must have more than 15 days remaining on their current permission to stay and cannot apply while overstaying.
+
+Approval is discretionary and initially provides permission for no more than 90 days.
+
+The Ministry of Foreign Affairs independently confirms that tourist and transit visa holders wishing to conduct business in Thailand may apply for a visa-status change at the Immigration Bureau in Bangkok.[^168]
+
+**The government therefore provides an established domestic procedure that TVC's business-visa page incorrectly tells customers does not exist.**
+
+### Consequences for Customers
+
+An applicant who believes TVC's instructions could unnecessarily arrange international travel, accommodation, embassy appointments, and additional visa-processing expenses.
+
+Those costs are especially relevant to foreigners already residing in Thailand who obtain qualifying employment or business sponsorship.
+
+Not every applicant will qualify for an in-country conversion. Immigration authorities retain discretion, and documentary requirements can be substantial.
+
+Some applicants may still need to obtain their visas through Thai diplomatic missions abroad.
+
+However, **those qualifications do not justify TVC's categorical claim that tourist visa holders must leave Thailand to obtain Non-B status**.
+
+The available evidence does not establish that TVC has unnecessarily sent customers abroad or charged them for avoidable embassy applications.
+
+It establishes that the agency's commercial guidance excludes a legitimate government procedure directly relevant to its advertised visa services.
+
+Thai Visa Centre should correct its application instructions, distinguish overseas visa issuance from in-country status changes, and explain the eligibility requirements for both routes.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -2861,3 +2925,7 @@ The company should correct both renewal checklists, distinguish TM47 reporting r
 [^163]: https://tvc.co.th/visas/thailand-retirement-visa — Thai Visa Centre, retirement-visa service page, annual renewal instructions.
 [^164]: https://pathumthani.imm.police.go.th/wp-content/uploads/2025/09/1.6.2-Wife.pdf — Pathum Thani Immigration, September 2025, official marriage-extension checklist specifying TM7, two-month deposit maintenance, and supporting documents.
 [^165]: https://www.samutprakanimmigration.go.th/download-forms/ — Samut Prakan Immigration, official form directory distinguishing TM7 extension applications from TM47 address notifications.
+
+[^166]: https://tvc.co.th/visas/thailand-business-visa — Thai Visa Centre, business-visa service page, eligibility criteria, application instructions, and FAQ.
+[^167]: https://thailand.go.th/visit-thailand-detail/001-01-005-2 — Thailand government, Immigration Division 1, application for change of visa type to Non-Immigrant B for employment with a company or partnership.
+[^168]: https://www.mfa.go.th/en/publicservice/non-immigrant-visa-b-for-business-and-work — Ministry of Foreign Affairs, Non-Immigrant Visa B guidance, section 3.3, recognizing in-country changes of visa status.
