@@ -2684,6 +2684,72 @@ However, **its retirement-visa advertising promotes permanent residency without 
 
 Thai Visa Centre should clarify the distinction, identify the recognized residence-permit categories, and substantiate its particular claim that the O-X visa provides a clearer route to permanent residency.
 
+### Permanent-Residency Page Invents an Annual Immigration Reporting Obligation
+
+Thai Visa Centre's permanent-residency service page repeatedly claims that foreigners granted permanent residence must submit annual immigration reports to maintain their status.[^193]
+
+However, Thailand's immigration legislation distinguishes permanent residence from temporary-stay permissions, and the agency does not identify a government rule establishing the annual reporting obligation it advertises.
+
+#### TVC Presents Annual Reporting as Mandatory
+
+Under its visa-validity information, Thai Visa Centre states:
+
+> Annual reporting required to maintain status
+
+Its restrictions section separately specifies:
+
+> Must report annually to Immigration
+
+The same page advertises annual reporting assistance among its additional services.[^193]
+
+These statements present annual reporting as a continuing legal condition of permanent residence, rather than an optional service or a requirement associated with another visa category.
+
+#### Immigration Law Establishes Different Obligations
+
+Section 37 of Thailand's Immigration Act B.E. 2522 (1979) governs foreigners admitted under temporary permission to stay.[^194]
+
+It establishes residence-notification requirements, including ordinary 90-day reporting, for qualifying temporary residents.
+
+Permanent residence is governed separately under Chapter 5 of the Act.
+
+Once granted, permanent residence permits indefinite residence subject to applicable legal conditions. Section 48 establishes that a residence certificate remains valid indefinitely unless circumstances such as departure without the necessary endorsement affect its validity.
+
+**The ordinary temporary-stay reporting framework does not automatically apply to foreigners who have obtained permanent-resident status.**
+
+A separate annual reporting obligation exists for certain long-term visa categories.
+
+For example, Thailand's Board of Investment explicitly requires qualifying Long-Term Resident (LTR) visa holders to report their address annually using Form TM95.[^195]
+
+An LTR visa is not the same legal status as permanent residence.
+
+#### Permanent Residents Have Different Registration Duties
+
+Permanent residents are not exempt from every administrative requirement.
+
+Thailand's Alien Registration Act establishes a separate registration system involving an alien identity certificate issued through the appropriate police authorities.
+
+The Thai government's official instructions confirm that these certificates can be issued or renewed for either one year or five years.[^196]
+
+Permanent residents must also comply with applicable changes-of-address requirements and obtain the necessary endorsements before international travel.
+
+Under Sections 48 and 50 of the Immigration Act, residence-preserving departure and re-entry documentation is particularly important for permanent residents leaving Thailand.[^194]
+
+**These obligations should not be confused with a universal annual address report to Immigration.**
+
+#### Relevance to TVC's Paid Services
+
+Thai Visa Centre advertises immigration reporting assistance as part of its broader commercial service network.
+
+The distinction therefore matters financially as well as procedurally.
+
+A customer relying on TVC's permanent-residency page could incorrectly believe that maintaining permanent residence requires purchasing annual reporting assistance or arranging an unnecessary immigration appointment.
+
+The available evidence does not establish that Thai Visa Centre has charged permanent residents for unnecessary reports or submitted such reports on their behalf.
+
+However, **the agency repeatedly presents an annual immigration reporting obligation without identifying the legal provision requiring permanent residents to comply**.
+
+Thai Visa Centre should remove or substantiate this claim, distinguish permanent residence from LTR annual reporting, and accurately explain the separate alien-registration and travel-document requirements applicable to permanent residents.
+
 ## Marriage and Retirement Visa Pages Give Incorrect Renewal Instructions
 
 Thai Visa Centre's commercial marriage-visa and retirement-visa pages contain incorrect instructions concerning annual extensions of stay.
@@ -3455,3 +3521,8 @@ Thai Visa Centre should correct the service page, distinguish membership validit
 [^190]: https://tvc.co.th/visas/thailand-five-year-retirement-visa — Thai Visa Centre, O-X retirement-visa service page, claiming a clearer path to permanent residency.
 [^191]: https://www.thailand.go.th/useful-information-detail/001_01_150 — Thailand government, Immigration Bureau guidance on permanent-residence eligibility and application categories.
 [^192]: https://london.thaiembassy.org/en/publicservice/84402-residence-permit — Royal Thai Embassy, London, official residence-permit qualifications and application categories.
+
+[^193]: https://tvc.co.th/visas/thailand-permanent-residency — Thai Visa Centre, permanent-residency service page, annual reporting claims and advertised reporting assistance.
+[^194]: https://phrae.immigration.go.th/wp-content/uploads/2024/06/Immigration_Act_B.E._2522.pdf — Immigration Act B.E. 2522 (1979), Sections 37, 48, and 50, as published by Phrae Immigration.
+[^195]: https://ltr.boi.go.th/page/how-to-manage.html — Thailand Board of Investment, official annual reporting requirements for LTR visa holders.
+[^196]: https://thailand.go.th/issue-focus-detail/001-01-053?hl=en — Thai government, alien identity certificates, police registration, and one-year or five-year renewals.
