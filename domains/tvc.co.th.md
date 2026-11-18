@@ -2947,6 +2947,80 @@ However, **its commercial service page incorrectly presents a conditional immigr
 
 The agency should correct the FAQ, distinguish continuous residence from repeated short visits, and reconcile its commercial visa guidance with its own accurate explanation of the reporting clock.
 
+
+## Five-Year Retirement Visa Page Advertises Work Rights Contrary to Official Restrictions
+
+Thai Visa Centre advertises Thailand's Non-Immigrant O-X retirement visa as a long-term immigration option for qualifying foreigners aged 50 and older.
+
+However, its commercial service page promotes remote employment and volunteer activities as benefits of the visa, despite official Thai diplomatic guidance expressly prohibiting employment under the O-X category.[^180][^181]
+
+**The agency markets work-related benefits while simultaneously acknowledging that O-X holders are prohibited from employment.**
+
+### TVC Promises Remote Work and Volunteer Opportunities
+
+Thai Visa Centre's *Thailand 5-Year Retirement Visa* page lists the following benefits:
+
+- Remote work permitted.
+- Volunteer work options.
+
+Its frequently asked questions reinforce those claims.
+
+When asked whether O-X holders can work, TVC initially acknowledges that employment is prohibited.
+
+However, it immediately states:
+
+> However, you can work remotely for foreign companies and volunteer for approved activities.
+
+The same page identifies the visa as a retirement category and lists employment in Thailand as a restriction.[^180]
+
+**These statements create the impression that working remotely for overseas employers is an established exception to the visa's employment restrictions.**
+
+### Thai Diplomatic Missions State That Employment Is Prohibited
+
+The Royal Thai Consulate-General in Los Angeles publishes official O-X guidance, updated October 1, 2026.[^181]
+
+It identifies the visa as intended for qualifying foreigners aged 50 and older who wish to reside in Thailand without undertaking employment.
+
+The guidance states:
+
+> Employment of any kind is strictly prohibited.
+
+The Royal Thai Embassy in Kuala Lumpur independently repeats that restriction in its O-X instructions, updated July 17, 2026.[^182]
+
+Neither publication identifies a general exemption allowing O-X holders to undertake remote employment for foreign companies.
+
+The distinction matters because an employer's location outside Thailand does not, by itself, establish that work performed while physically present in Thailand is authorized under a particular immigration category.
+
+**TVC presents remote employment as an affirmative visa benefit without identifying any government authorization supporting that claim.**
+
+### Volunteering Requires Separate Consideration
+
+The agency's reference to volunteer opportunities introduces a related concern.
+
+Unpaid activity is not automatically exempt from Thailand's rules governing work by foreign nationals.
+
+Whether a particular volunteer arrangement requires permission depends on the activity and applicable immigration and employment regulations.
+
+TVC does not identify which volunteer activities it considers permissible, what authorization may be required, or how those activities would remain consistent with the O-X visa's restrictions.
+
+Its broad marketing language therefore risks implying that volunteering is an ordinary benefit of retirement status rather than an activity requiring separate legal assessment.
+
+### Consequences for Retirement Applicants
+
+Customers considering the O-X visa must satisfy substantial financial and insurance requirements.
+
+The visa generally requires a qualifying Thai bank deposit of at least 3 million baht, or a qualifying combination of deposits and annual income.
+
+An applicant who intends to continue remote employment may view TVC's advertised work rights as an important reason to select this expensive long-stay arrangement.
+
+However, **the government's published O-X conditions do not support presenting remote employment as an unrestricted benefit of the visa**.
+
+The available evidence does not establish that TVC has arranged unauthorized employment, advised a particular customer to violate work restrictions, or caused an immigration violation.
+
+It establishes that the agency's commercial service page promotes work-related activities while failing to reconcile those claims with the explicit employment prohibition published by Thai diplomatic missions.
+
+Thai Visa Centre should remove the unqualified remote-work claim, clarify the separate rules governing volunteer activities, and distinguish retirement status from visa categories specifically intended for qualifying employment or remote work.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -3146,3 +3220,7 @@ The agency should correct the FAQ, distinguish continuous residence from repeate
 [^177]: https://thailand.go.th/public/useful-information-detail/001-01-018 — Thailand government, Immigration Division 1, official guidance confirming that the 90-day reporting count resets upon re-entry.
 [^178]: https://thaiconsulatela.thaiembassy.org/en/publicservice/foreigners-staying-in-thailand-more-than-90-days — Royal Thai Consulate-General, Los Angeles, official 90-day reporting instructions.
 [^179]: https://tvc.co.th/faq/90-day-reporting-while-outside-of-thailand — Thai Visa Centre, FAQ correctly explaining reporting exemptions following departure and re-entry.
+
+[^180]: https://tvc.co.th/visas/thailand-five-year-retirement-visa — Thai Visa Centre, five-year O-X retirement visa service page, advertised remote-work and volunteer benefits.
+[^181]: https://thaiconsulatela.thaiembassy.org/en/publicservice/non-immigrant-visa-category-o-x — Royal Thai Consulate-General, Los Angeles, O-X visa requirements, updated October 1, 2026.
+[^182]: https://kualalumpur.thaiembassy.org/en/publicservice/non-immigrant-visa-o-x-for-long-stay-10-years — Royal Thai Embassy, Kuala Lumpur, O-X visa guidance, updated July 17, 2026.
