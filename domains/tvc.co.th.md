@@ -161,6 +161,26 @@ Nevertheless, the allegation is significant given the agency's documented August
 
 The discrepancy also raises questions about how the agency imports, classifies, and verifies reviews used to support its advertised 4.9-star reputation.
 
+### Identical Testimonials Appear Across Review Platforms
+
+Thai Visa Centre's review archive displays identical customer feedback under separate Google and Facebook listings.
+
+A Google review attributed to **Robert Z.** and a Facebook review attributed to **Robert Zorc** appear in the archive with exactly the same wording:
+
+> They did everything they promised, and the whole process was quick and smooth.
+
+Both entries appear separately in TVC's aggregated review archive.[^285]
+
+The matching names and identical text strongly suggest that the same customer submitted feedback on both platforms. However, the original submissions have not been independently authenticated.
+
+**Cross-posting a genuine review is not inherently deceptive.** The concern is whether TVC's advertised review totals count repeated testimonials as separate endorsements without explaining that they may come from the same customer.
+
+This distinction matters because the agency prominently markets its thousands of verified reviews as evidence of customer trust.
+
+TVC should disclose whether its aggregation system identifies duplicate testimonials across platforms, whether repeat submissions contribute separately to its total and average rating, and how many distinct reviewers are represented.
+
+The evidence does not establish fabricated reviews or deliberate manipulation. It demonstrates a specific example requiring clarification of the company's review-counting methodology.
+
 ## Misleading Retirement Visa Bank-Deposit Instructions
 
 Thai Visa Centre publishes an FAQ titled *Do Retirement Funds Have to Stay in the Bank Account?*, claiming customers can withdraw their 800,000-baht retirement deposit after immigration approves their extension and replenish the account before their next renewal.[^21]
@@ -4826,3 +4846,4 @@ TVC should remove the supposed general startup audit exemption, distinguish limi
 [^283]: https://tvc.co.th/faq/changing-jobs-requires-a-new-work-permit — Thai Visa Centre, employer-change FAQ.
 
 [^284]: https://thailand.go.th/public/useful-information-detail/001-01-045 — Thai government, employer-change and employment-termination procedures.
+[^285]: https://tvc.co.th/reviews — Thai Visa Centre, aggregated review archive displaying identical Google and Facebook testimonials attributed to Robert Z. and Robert Zorc.
