@@ -4114,6 +4114,73 @@ Nevertheless, **its published fee comparison conflates distinct U.S. visa proced
 
 TVC should publish separate, itemized government-fee tables for K-1 and CR-1/IR-1 applicants, identify the $265 K-category consular fee, distinguish I-134 from I-864 requirements, and update its I-130 filing options.
 
+## Property Tax Guides Misstate Exemptions and Calculation Rules
+
+Thai Visa Centre's guide *Thailand Property Transfer Tax and Fees*, marked reviewed June 2026, presents incomplete guidance about when sellers owe Thailand's 3.3% Specific Business Tax (SBT).[^256]
+
+Under its exemption checklist, TVC identifies individual sellers who owned property for more than five years and used it as their primary residence.
+
+Its separate *Property Transfer Taxes and Fees in Thailand* guide also presents an overly broad explanation of how the Land Office calculates taxes and registration fees.[^257]
+
+**These instructions obscure important distinctions that can materially affect the cost of selling Thai property.**
+
+### The Five-Year and Principal-Residence Rules Are Separate
+
+Thailand's Revenue Department identifies ordinary private property sales made within five years of acquisition as potentially subject to Specific Business Tax, subject to statutory exceptions.[^258]
+
+Two important situations must be distinguished:
+
+1. **Property held beyond five years:** An ordinary private sale generally falls outside the five-year SBT provision, without a separate requirement that the property was the seller's primary residence.
+2. **Qualifying principal residence:** Even within five years, an eligible individual may qualify for an exception where the property was used as a principal residence and the seller was named in its house registration for at least one year after acquisition.
+
+The second exception is expressly recognized in Thailand's official government guidance.[^259]
+
+These rules are not universally applicable to every transaction. Developer sales, sales by corporate entities, and other transactions classified as commercial property sales may remain subject to different treatment.
+
+**TVC's checklist presents independent tax considerations together without explaining that satisfying both is not generally necessary.**
+
+### The Land Office Does Not Use One Valuation Rule for Every Charge
+
+TVC's property-tax FAQ also states:
+
+> Land office uses government appraised value or declared price, whichever is higher.
+
+This is an incomplete description of Thailand's transfer-tax system.[^257]
+
+The Department of Lands distinguishes the calculation bases:
+
+| Charge | Standard calculation basis |
+|---|---|
+| Transfer registration fee | 2% of government-assessed value |
+| Specific Business Tax, where applicable | 3.3% of the higher of assessed value or declared sale price |
+| Stamp duty, where applicable | 0.5% of the higher value |
+| Individual seller's withholding tax | Calculation using assessed value and applicable income-tax rules |
+| Corporate seller's withholding tax | Generally 1% of the higher value |
+
+The Department of Lands publishes these distinctions in its official guidance.[^260]
+
+Certain transactions may qualify for reduced transfer-registration rates or other exceptions.
+
+TVC correctly identifies some individual charges elsewhere in its guides, but its general explanation does not clearly distinguish their respective tax bases.
+
+### Financial Consequences for Customers
+
+The errors matter because SBT can represent a substantial expense when property changes hands.
+
+A seller relying on the combined exemption checklist might incorrectly believe that an investment property held for more than five years remains subject to SBT because it was never their primary residence.
+
+Conversely, someone selling a qualifying principal residence within five years might overlook the available exemption.
+
+Incorrect assumptions about assessed value and sale price can also distort transfer-fee estimates.
+
+TVC advertises property-related legal referrals, document preparation, and coordination for foreigners buying or selling Thai real estate.
+
+The available evidence does not establish that TVC has caused customers to overpay taxes or submitted incorrect declarations to the Land Office.
+
+Nevertheless, **its published guidance fails to distinguish important statutory exemptions and calculation methods that could materially affect property-transfer costs**.
+
+TVC should explain the separate five-year and principal-residence rules, identify transactions that remain taxable, and distinguish the valuation bases applicable to registration fees, SBT, stamp duty, and withholding tax.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -4447,3 +4514,13 @@ TVC should publish separate, itemized government-fee tables for K-1 and CR-1/IR-
 [^254]: https://travel.state.gov/content/travel/en/us-visas/immigrate/the-immigrant-visa-process/step-1-submit-a-petition/step-3-pay-fees.html — U.S. Department of State, *Step 3: Pay Fees*, explaining the immigrant-visa processing and Affidavit of Support fees payable through the National Visa Center.
 
 [^255]: https://www.uscis.gov/g-1055 — U.S. Citizenship and Immigration Services, *Form G-1055, Fee Schedule*, identifying $675 paper and $625 online filing fees for Form I-130.
+
+[^256]: https://tvc.co.th/guides/property-thailand-property-transfer-tax — Thai Visa Centre, *Thailand Property Transfer Tax and Fees*, reviewed June 2026, including its Specific Business Tax exemption checklist.
+
+[^257]: https://tvc.co.th/guides/legal-taxes-and-fees-in-thailand — Thai Visa Centre, *Property Transfer Taxes and Fees in Thailand*, reviewed June 2026, combining the five-year ownership and primary-residence criteria and generalizing Land Office valuation rules.
+
+[^258]: https://www.rd.go.th/683.html — Thailand Revenue Department, *Businesses Subject to Specific Business Tax*, explaining taxable property sales within five years and the applicable statutory exclusions.
+
+[^259]: https://thailand.go.th/public/useful-information-detail/006_118?hl=en — Thai government, *Businesses Required to Pay Specific Business Tax*, distinguishing ordinary sales within five years from the separate principal-residence exception involving at least one year of house registration.
+
+[^260]: https://www.dol.go.th/rayong_klaeng/faq/ — Department of Lands, Rayong Province, Klaeng Branch, official fee guidance distinguishing assessed-value calculations from charges based on the higher of assessed value and declared price.
