@@ -1737,6 +1737,31 @@ The company should identify the legal authority supporting that claim, explain w
 
 **Thai Visa Centre promotes paid 90-day reporting assistance while warning customers about possible blacklisting without demonstrating that ordinary TM47 reporting failures carry that consequence under Thailand's published immigration rules.**
 
+## Blacklist Appeal Guide Omits Harsher Arrest-Based Penalties
+
+Thai Visa Centre's *Thailand Immigration Blacklist Appeal* guide advertises professional assistance with overstay resolution, deportation, and immigration appeals.[^286]
+
+Its published penalty table lists re-entry bans ranging from one year for overstays exceeding 90 days to ten years for overstays exceeding five years.
+
+However, **these penalties describe voluntary surrender, not every overstay case**.
+
+Thailand's official immigration rules distinguish between foreigners who voluntarily surrender and those arrested and prosecuted for overstaying.[^287]
+
+For arrested offenders, the penalties are substantially harsher:
+
+- **Overstay under one year:** Five-year re-entry ban.
+- **Overstay over one year:** Ten-year re-entry ban.
+
+By comparison, someone voluntarily surrendering after six months would ordinarily face a one-year ban, while an arrested person with the same overstay could face five years.
+
+TVC's guide discusses detention, deportation, and arrest but does not explain this crucial distinction alongside its penalty table.
+
+**Customers facing immigration enforcement could substantially underestimate their potential exclusion period if they rely on the agency's simplified figures.**
+
+The omission is especially concerning because TVC expressly markets professional blacklist appeals and urgent immigration assistance to customers whose legal circumstances may be complicated.
+
+The agency should distinguish voluntary departure from arrest and prosecution, explain the applicable penalty schedules, and avoid presenting surrender-based penalties as general blacklist durations.
+
 ## Digital Work Permits Advertised for LTR Applicants Who Are Ineligible to Receive Them
 
 Thai Visa Centre repeatedly advertises digital work permits as a benefit of Thailand's Long-Term Resident (LTR) visa for Work-from-Thailand Professionals.
@@ -4847,3 +4872,6 @@ TVC should remove the supposed general startup audit exemption, distinguish limi
 
 [^284]: https://thailand.go.th/public/useful-information-detail/001-01-045 — Thai government, employer-change and employment-termination procedures.
 [^285]: https://tvc.co.th/reviews — Thai Visa Centre, aggregated review archive displaying identical Google and Facebook testimonials attributed to Robert Z. and Robert Zorc.
+[^286]: https://tvc.co.th/guides/thailand-immigration-blacklist-appeal — Thai Visa Centre, blacklist appeal and overstay guidance.
+
+[^287]: https://www.thailand.go.th/public/guide-book-detail/001_01_211 — Thai government, official overstay penalties distinguishing voluntary surrender from arrest and prosecution.
