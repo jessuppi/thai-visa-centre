@@ -181,6 +181,30 @@ TVC should disclose whether its aggregation system identifies duplicate testimon
 
 The evidence does not establish fabricated reviews or deliberate manipulation. It demonstrates a specific example requiring clarification of the company's review-counting methodology.
 
+### Affiliated LTR Website Changes the Visa Type in a Customer Testimonial
+
+Thai Visa Centre's own review archive contains a five-star Google testimonial attributed to **Luca G.**, dated September 25, 2024. The customer describes obtaining a **Destination Thailand Visa (DTV)** in approximately one week.[^288]
+
+The affiliated website `dtv.in.th` reproduces this testimonial as an endorsement for DTV assistance.[^289]
+
+However, another affiliated website, `ltr.in.th`, presents the same reviewer as having used Thai Visa Centre for an **LTR visa**.[^290]
+
+Both websites prominently recommend Thai Visa Centre as a trusted visa agent. Their published Terms & Conditions identify **AGENTS CO., LTD.**, the agency's acknowledged digital operations company, as their operator.
+
+**The original testimonial concerns a DTV application, but the LTR website changes the visa category to promote an entirely different service.**
+
+This distinction is material. Thailand's DTV and LTR programs involve different eligibility criteria, government procedures, and application requirements. A successful DTV application does not demonstrate experience securing LTR approvals.
+
+The discrepancy is especially relevant because `ltr.in.th` promotes Thai Visa Centre against competing immigration agencies, including officially BOI-certified LTR service providers.
+
+The available evidence does not establish who edited the testimonial or whether the original customer authorized the change.
+
+It does establish that **a commercially affiliated website presents a visa-specific endorsement inconsistent with the original review published by Thai Visa Centre itself**.
+
+This undermines confidence in the accuracy of testimonials used to market the agency's specialized immigration services.
+
+The underlying discrepancy is examined further in the [`ltr.in.th`](ltr.in.th.md) investigation.
+
 ## Misleading Retirement Visa Bank-Deposit Instructions
 
 Thai Visa Centre publishes an FAQ titled *Do Retirement Funds Have to Stay in the Bank Account?*, claiming customers can withdraw their 800,000-baht retirement deposit after immigration approves their extension and replenish the account before their next renewal.[^21]
@@ -4875,3 +4899,8 @@ TVC should remove the supposed general startup audit exemption, distinguish limi
 [^286]: https://tvc.co.th/guides/thailand-immigration-blacklist-appeal — Thai Visa Centre, blacklist appeal and overstay guidance.
 
 [^287]: https://www.thailand.go.th/public/guide-book-detail/001_01_211 — Thai government, official overstay penalties distinguishing voluntary surrender from arrest and prosecution.
+[^288]: https://tvc.co.th/reviews/review/fcfea34b-8468-48a1-a543-0f4d959b7d17 — Thai Visa Centre, original Luca G. review dated September 25, 2024.
+
+[^289]: https://dtv.in.th/ — DTV promotional website displaying Luca G.'s DTV testimonial.
+
+[^290]: https://ltr.in.th/ — LTR promotional website displaying the altered visa category.
