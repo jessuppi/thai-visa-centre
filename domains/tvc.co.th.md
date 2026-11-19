@@ -1578,6 +1578,52 @@ The company should correct the reporting FAQ, distinguish TM47 from TM95, and en
 
 The discrepancy raises questions about the reliability of its immigration advice and the safeguards used to ensure customers are sold services appropriate to their actual legal obligations.
 
+## Thailand Elite Guides Incorrectly Suggest Annual Reporting Exemptions
+
+Thai Visa Centre publishes misleading instructions suggesting that certain Thailand Elite, now Thailand Privilege, visa holders qualify for annual immigration reporting rather than the standard 90-day notification requirement.
+
+Its guide *Top 10 Thai Visa Application Mistakes to Avoid*, marked reviewed June 2026, instructs long-stay foreigners to file quarterly reports unless their visa category permits annual reporting, explicitly identifying **"some Elite and LTR members"** as examples.[^295]
+
+The same claim appears in its *How to Upgrade Your Thailand Elite Visa* guide.[^296]
+
+**These instructions incorrectly conflate Thailand Privilege membership benefits with the annual reporting exemption available under the separate LTR visa program.**
+
+### Thailand Privilege Confirms Quarterly Reporting Remains Mandatory
+
+Thailand Privilege Card Co., Ltd., the government-owned program operator, expressly states that members who remain continuously in Thailand for more than 90 days must submit the ordinary 90-day immigration notification.[^297]
+
+Its official membership guidance distinguishes between:
+
+- Membership categories receiving complimentary 90-day reporting assistance.
+- Membership categories using Privilege Points to obtain reporting assistance.
+- Members who must complete their own reporting.
+
+None of these arrangements creates a general annual-reporting entitlement for Thailand Privilege visa holders.
+
+Members remain responsible for monitoring deadlines and complying with immigration requirements. Departing Thailand resets the applicable reporting period, but merely possessing an Elite visa does not eliminate quarterly reporting during a continuous stay.
+
+### Thai Visa Centre Contradicts Its Own Bronze Guide
+
+The inconsistency is particularly apparent because TVC's dedicated Thailand Privilege Bronze Membership guide correctly explains that 90-day reporting remains necessary during continuous residence.[^298]
+
+That publication separately advertises assistance with reporting through Thailand Privilege offices.
+
+**The agency therefore acknowledges the correct requirement on its membership sales pages while suggesting nonexistent annual-reporting exceptions in its broader immigration guidance.**
+
+### Consequences for Visa Holders
+
+A Thailand Privilege member relying on the incorrect annual-reporting statement could miss a legally required TM47 notification.
+
+Thailand Privilege's official guidance warns that late reporting can result in a 2,000-baht fine and additional administrative requirements.
+
+The company should correct its published instructions and clearly distinguish the following:
+
+1. Ordinary TM47 notifications required of Thailand Privilege members.
+2. Optional reporting assistance provided through membership benefits.
+3. The separate annual TM95 reporting arrangement applicable to qualifying LTR holders.
+
+**The documented problem is not the availability of reporting assistance. It is TVC's suggestion that certain Elite membership tiers change the underlying legal reporting interval when the program operator expressly confirms otherwise.**
+
 ## Exaggerated Blacklisting Warnings Used to Promote Paid 90-Day Reporting
 
 Thai Visa Centre publishes warnings about severe immigration consequences for foreigners who fail to complete their 90-day address notifications.
@@ -4970,3 +5016,10 @@ TVC should remove the supposed general startup audit exemption, distinguish limi
 
 [^293]: https://tvc.co.th/guides/thailand-company — Thai Visa Centre, company registration guide repeating the single-shareholder claim.
 [^294]: https://tvc.co.th/guides/ltr-visa-thailand-for-spouses-and-dependents — Thai Visa Centre, LTR dependent guide advertising US$25,000 insurance coverage and quarterly reporting.
+[^295]: https://tvc.co.th/guides/top-10-thai-visa-application-mistakes-to-avoid-in-2025 — Thai Visa Centre, immigration mistakes guide.
+
+[^296]: https://tvc.co.th/guides/how-to-upgrade-your-thailand-elite-visa — Thai Visa Centre, Thailand Elite membership upgrade guide.
+
+[^297]: https://www.thailandprivilege.co.th/why-thailand/90-day-report — Thailand Privilege Card Co., Ltd., official 90-day reporting requirements.
+
+[^298]: https://tvc.co.th/guides/thailand-privilege-visa-bronze-membership — Thai Visa Centre, Bronze membership guide acknowledging continued quarterly reporting.
