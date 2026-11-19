@@ -2925,6 +2925,64 @@ It establishes that the agency's commercial guidance excludes a legitimate gover
 Thai Visa Centre should correct its application instructions, distinguish overseas visa issuance from in-country status changes, and explain the eligibility requirements for both routes.
 
 
+## Non-Immigrant Visa Page Incorrectly Requires Conversion to Non-B for Employment
+
+Thai Visa Centre's commercial *Thailand 90-Day Non-Immigrant Visa* page incorrectly tells applicants that obtaining a Non-Immigrant B visa is mandatory before working in Thailand.[^212]
+
+Under its frequently asked questions, the agency states:
+
+> No, working is strictly prohibited. You must first convert to a Non-Immigrant B visa and obtain a work permit.
+
+The page covers several Non-Immigrant categories, including family and marriage visas, without qualifying that instruction.
+
+**Thailand's Ministry of Labour expressly recognizes work-permit applications by qualifying Non-Immigrant O holders married to Thai nationals.**
+
+### Ministry of Labour Recognizes Non-O Marriage Visa Holders
+
+The Ministry of Labour's official employment guidance identifies two relevant categories when explaining applications for skilled foreign workers:
+
+- Non-Immigrant B visa holders.
+- Non-Immigrant O visa holders married to Thai nationals.[^213]
+
+It explains that eligible foreigners already in Thailand can apply for a work permit using the prescribed application procedure.
+
+This does not mean every Non-O visa authorizes employment. Retirement and ordinary dependent categories have different restrictions, and the applicant must satisfy the applicable work-permit requirements.
+
+However, **conversion to Non-B is not universally mandatory for foreigners holding Non-O status through marriage to a Thai citizen**.
+
+### BOI Documentation Confirms the Distinction
+
+The Board of Investment's Single Window guidance also expressly recognizes Non-O (Thai Spouse) alongside Non-B, Non-IB, and permanent-resident status for eligible applications under BOI employment privileges.[^214]
+
+Its instructions impose additional immigration and eligibility conditions for applicants relying on Thai-spouse status.
+
+That distinction reinforces the central point: the government does not require every qualifying foreign spouse to abandon Non-O status and obtain Non-B before pursuing employment authorization.
+
+### Thai Visa Centre Contradicts Its Own Marriage-Visa Page
+
+TVC's separate commercial marriage-visa page correctly describes the Non-Immigrant O marriage visa as providing work-permit eligibility.[^215]
+
+Its FAQ confirms that a marriage-visa holder can work after obtaining the necessary work permit.
+
+The two commercial pages therefore provide conflicting instructions:
+
+- **90-day Non-Immigrant visa page:** Requires conversion to Non-B before employment.
+- **Marriage-visa page:** Recognizes work-permit eligibility under the existing Non-O marriage category.
+
+Both pages advertise professional visa assistance, including immigration-status changes and work-permit services.
+
+### Consequences for Foreign Spouses
+
+The incorrect instruction could lead eligible foreign spouses to believe they must change immigration categories before applying for employment authorization.
+
+Unnecessary conversion could involve additional applications, government fees, document preparation, administrative delays, or complications with an existing marriage-based extension.
+
+The available evidence does not establish that TVC has unnecessarily converted customers' visas or charged fees for conversions that were not required.
+
+Nevertheless, its published guidance incorrectly presents a category-specific employment procedure as a universal legal requirement.
+
+TVC should distinguish employment authorization from visa classification, explain when Non-O marriage holders can obtain work permits, and reconcile its 90-day visa FAQ with its own marriage-visa service page.
+
 ## SMART Visa Service Advertises Categories Discontinued in 2025
 
 Thai Visa Centre continues advertising Thailand's SMART Visa program as an immigration option for highly skilled professionals, investors, senior executives, and startup entrepreneurs.
@@ -3770,3 +3828,11 @@ TVC should distinguish ordinary naturalization from nationality acquisition unde
 [^210]: https://tvc.co.th/faq/thai-marriage-visa-requirements — Thai Visa Centre, *Thai Marriage Visa Requirements*, reviewed June 2026, including financial evidence in the applicant's name.
 
 [^211]: https://roiet.imm.police.go.th/wp-content/uploads/2025/02/3-3-new.pdf — Immigration Bureau Order No. 12/2568, Clause 2.18(6)–(7), establishing separate financial criteria for marriages between men and women and marriages between persons of diverse genders.
+
+[^212]: https://tvc.co.th/visas/thailand-90-day-non-immigrant-visa — Thai Visa Centre, 90-day Non-Immigrant visa service page, FAQ requiring Non-B conversion and work-permit approval before employment.
+
+[^213]: https://www.mol.go.th/wp-content/uploads/sites/2/2021/03/คู่มือการรับเรื่องร้องทุกข์-ปี-2564-ไฟล์-PDF.pdf — Ministry of Labour, 2021 public-service guidance, page 22, recognizing work-permit applications by Non-B and Non-O Thai-spouse visa holders.
+
+[^214]: https://surat.boi.go.th/public/upload/center_6/2567/100267/Single%20Window%20for%20Visa%20and%20Work%20Permit.pdf — Thailand Board of Investment, Single Window for Visas and Work Permit guidance, pages 40–41, identifying Non-O (Thai Spouse) as an eligible category subject to additional conditions.
+
+[^215]: https://tvc.co.th/visas/thailand-marriage-visa — Thai Visa Centre, marriage-visa service page, confirming work-permit eligibility for qualifying Non-O marriage-visa holders.
