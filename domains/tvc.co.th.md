@@ -642,6 +642,60 @@ This omission matters because Thai Visa Centre promotes TDAC assistance through 
 
 The evidence does not establish that TVC deliberately exaggerated penalties to generate sales. It does establish that the company publishes a financial warning without substantiating its legal basis.
 
+### TDAC Guides Misstate Family Submissions and Official Exemptions
+
+Thai Visa Centre publishes misleading instructions about who must submit Thailand Digital Arrival Cards (TDAC) and how families can complete the registration process.
+
+Its *How to Travel to Thailand as a Family* guide tells readers that every foreign passport holder must complete a separate TDAC submission, including infants and young children.[^299]
+
+Its separate travel-requirements guide explicitly states that parents cannot submit once for the entire family.[^300]
+
+**These instructions confuse the requirement for individual traveler records with the government's ability to accept multiple records in a single group submission.**
+
+#### Immigration Allows Groups of Up to Ten Travelers
+
+Thailand's Immigration Bureau explicitly permits **up to 10 travelers in one TDAC group submission**.[^301]
+
+Each traveler must still provide the necessary passport and arrival information, including accompanying children.
+
+However, families are not required to complete an entirely separate submission process for every family member.
+
+TVC's instructions omit this official capability and incorrectly suggest that submitting family information together is prohibited.
+
+This can create unnecessary administrative work for families already navigating complicated travel arrangements.
+
+#### The Official System Recognizes Transit Exemptions
+
+TVC also repeatedly describes TDAC as mandatory for every foreign traveler on every arrival.
+
+However, the Immigration Bureau's official FAQ identifies important exceptions.
+
+Travelers transiting Thailand without passing through immigration do not need TDAC registration. Technical landings and qualifying transit flights are similarly exempt.[^301]
+
+The official FAQ also confirms that flight crew are not required to submit TDAC.
+
+These exemptions do not apply to transit passengers who clear immigration to enter Thailand.
+
+Indeed, TVC's separate *Do I Need a Visa for Thailand?* FAQ correctly recognizes that distinction, stating that transit passengers must complete TDAC when passing through immigration.[^302]
+
+**The agency therefore publishes broad, categorical TDAC instructions while acknowledging a relevant exception elsewhere on its website.**
+
+#### Relevance to Commercial TDAC Assistance
+
+The discrepancies are particularly relevant because Thai Visa Centre promotes TDAC assistance through AGENTS CO., LTD., its acknowledged digital operations company.
+
+AGENTS offers free assisted registration within the government's ordinary submission window and paid early-submission services for travelers registering farther in advance.
+
+Accurate guidance should help travelers determine whether they actually need a TDAC and whether they can use the government's free group-submission facility.
+
+Overstating filing obligations or presenting unnecessary separate applications as mandatory risks directing customers toward assistance they do not need.
+
+The available evidence does not establish that AGENTS has charged exempt transit passengers or deliberately prevented families from using the official group-submission system.
+
+Nevertheless, **a business commercially promoting immigration-registration assistance should accurately explain both the government's filing exemptions and its free group-submission capabilities**.
+
+TVC should revise its family guides to distinguish individual traveler records from group submissions and consistently identify the official exemptions for qualifying transit passengers and crew.
+
 ## Incorrect Schengen Visa Fees Despite Claimed 2026 Reviews
 
 Thai Visa Centre advertises document preparation and application assistance for European Schengen visas, but repeatedly publishes application fees that became obsolete in June 2024.
@@ -5023,3 +5077,10 @@ TVC should remove the supposed general startup audit exemption, distinguish limi
 [^297]: https://www.thailandprivilege.co.th/why-thailand/90-day-report — Thailand Privilege Card Co., Ltd., official 90-day reporting requirements.
 
 [^298]: https://tvc.co.th/guides/thailand-privilege-visa-bronze-membership — Thai Visa Centre, Bronze membership guide acknowledging continued quarterly reporting.
+[^299]: https://tvc.co.th/guides/how-to-travel-to-thailand-as-family — Thai Visa Centre, family travel and TDAC submission instructions.
+
+[^300]: https://tvc.co.th/guides/new-travel-requirement-for-visitors-to-thailand-coming-in-2025 — Thai Visa Centre, TDAC guide instructing families to submit separately.
+
+[^301]: https://tdac.immigration.go.th/manual/en/faq.html — Immigration Bureau, official TDAC FAQ confirming group submissions and exemptions.
+
+[^302]: https://tvc.co.th/faq/do-i-need-a-visa-for-thailand — Thai Visa Centre, FAQ recognizing the immigration-clearance distinction for transit passengers.
