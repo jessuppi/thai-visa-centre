@@ -548,6 +548,24 @@ The agency's own website confirms that its private service is not affiliated wit
 
 **This selective treatment of competing TDAC services raises questions about whether TVC's scam warnings are impartial consumer guidance or also function as promotion for its affiliated business.**
 
+### TDAC Fine Warnings Lack an Identified Official Basis
+
+Thai Visa Centre's immigration-forms guides warn that failing to complete the Thailand Digital Arrival Card (TDAC) can result in fines and immigration delays. The warnings appear alongside promotions for the agency's TDAC assistance services.[^273]
+
+However, the Immigration Bureau's official TDAC FAQ does not identify a specific monetary penalty for failing to submit the form before arrival. Instead, it explains that airport kiosks and internet access are available for travelers requiring assistance.[^274]
+
+The Royal Thai Embassy in Hong Kong similarly confirms that travelers unable to complete registration beforehand can receive help at designated immigration checkpoints.[^275]
+
+**TDAC registration remains mandatory**, and travelers should complete it before arrival. Late registration can cause delays, while admission ultimately remains subject to immigration authorities.
+
+Nevertheless, TVC does not identify the legal provision establishing the fines it warns travelers about or distinguish possible immigration consequences from a specific TDAC penalty.
+
+This omission matters because Thai Visa Centre promotes TDAC assistance through its affiliated AGENTS CO., LTD. network, including paid early-submission services.
+
+**Presenting unspecified financial penalties alongside commercial registration assistance risks creating unnecessary anxiety among travelers who might otherwise complete the government's free procedure themselves.**
+
+The evidence does not establish that TVC deliberately exaggerated penalties to generate sales. It does establish that the company publishes a financial warning without substantiating its legal basis.
+
 ## Incorrect Schengen Visa Fees Despite Claimed 2026 Reviews
 
 Thai Visa Centre advertises document preparation and application assistance for European Schengen visas, but repeatedly publishes application fees that became obsolete in June 2024.
@@ -4734,3 +4752,8 @@ TVC should remove the supposed general startup audit exemption, distinguish limi
 [^271]: https://osos.boi.go.th/en/how-to/150/Paying-Taxes/ — Thailand Board of Investment, One Start One Stop Investment Center, *Social Security Contributions*, confirming the fifteenth-day monthly contribution deadline.
 
 [^272]: https://tvc.co.th/reviews/review/28e1be33-98bd-4821-8e40-810c36f14419 — Thai Visa Centre, review attributed to James Y., dated November 29, 2023, displaying a five-star rating alongside allegations concerning immigration stamps.
+[^273]: https://tvc.co.th/guides/thai-immigration-forms — Thai Visa Centre, immigration-forms guide, describing fines and delays for missing TDAC registration.
+
+[^274]: https://tdac.immigration.go.th/manual/en/faq.html — Immigration Bureau, official TDAC FAQ, including airport assistance and registration requirements.
+
+[^275]: https://hongkong.thaiembassy.org/en/page/entry-regulation — Royal Thai Embassy, Hong Kong, instructions for travelers unable to complete TDAC registration before arrival.
