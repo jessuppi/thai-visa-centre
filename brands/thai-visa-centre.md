@@ -337,6 +337,36 @@ In November 2026, a Thai Visa Centre group announcement described changes intend
 
 The available evidence does not establish that Thai Visa Centre purchased favorable testimonials, systematically deleted criticism within these Facebook groups, or directed moderators to mislead members. Nevertheless, its control of large immigration-advice communities is relevant when assessing the independence of recommendations, testimonials, and public discussions concerning the agency's own services.
 
+## May 2026 Registration of THIM Domain Following Government Announcement
+
+On May 28, 2026, Amazon Web Services announced the launch of Thailand's Immigration Management System (**THIM**), developed by Digital Identity Co., Ltd. in partnership with Thailand's Immigration Bureau.[^72]
+
+Just one day later, on **May 29, 2026**, AGENTS CO., LTD., the company Thai Visa Centre identifies as its digital operations arm, registered the domain `thim.in.th`. Historical THNIC WHOIS records identify AGENTS CO., LTD. as the domain holder.[^73]
+
+### Official Immigration Branding Used for Commercial Referrals
+
+The privately operated website presents itself as a guide to the THIM immigration application. It reproduces information about the government platform, displays official app imagery, and embeds Thai Visa Centre video content.
+
+However, its prominent **Apply for TDAC** button directs travelers to `agents.co.th/tdac-apply`, AGENTS' commercial immigration-assistance service.[^74]
+
+That service collects passport numbers, personal information, travel itineraries, accommodation details, and other information needed for TDAC submissions.
+
+Travelers can complete the underlying government registration free of charge through the Immigration Bureau's official system.
+
+### Questions About the Commercial Relationship
+
+The timing is notable: AGENTS registered a domain matching the government's newly publicized immigration platform name immediately after its announcement.
+
+The website explicitly acknowledges that it is not affiliated with the Thai government and provides links to official resources.
+
+Nevertheless, the combination of government platform branding, official imagery, and commercial application links creates an opportunity to direct travelers researching a public immigration service toward a private intermediary.
+
+**The available evidence establishes domain registration, commercial referrals, and Thai Visa Centre's promotional involvement. It does not establish government impersonation, unauthorized access to THIM, or a business relationship with THIM's official developer.**
+
+AGENTS should clarify why it registered the matching domain immediately after the official announcement, whether it has any contractual relationship with the technology providers, and how it distinguishes official immigration services from its own commercial offerings.
+
+The underlying domain registration, technology providers, and privacy implications are documented separately in the [`thim.in.th`](../domains/thim.in.th.md) investigation.
+
 ## August 2026 Out-of-Province Retirement Extensions
 
 On August 5, 2026, ASEAN NOW member TonBrow, who reported using Thai Visa Centre for retirement extensions since the COVID-19 period, stated that the agency sent passports to immigration offices in Thailand's northeastern **Isan region** for processing. He questioned whether the resulting extension stamps would withstand scrutiny at his local immigration office, particularly when applying for a Certificate of Residence.[^9]
@@ -548,3 +578,8 @@ It establishes that Thai Visa Centre actively recruits commission-earning referr
 [^69]: https://sherloc.unodc.org/cld/en/legislation/tha/narcotics_act_b.e._2522/chapter_2/section_26-264/section_26-264.html?lng=en
 [^70]: https://link.springer.com/article/10.1186/s42238-022-00121-4
 [^71]: https://www.dataforthai.com/company/0105563123196/
+[^72]: https://press.aboutamazon.com/aws/2026/5/digital-identity-co-modernizes-thailand-immigration-bureau-services-with-aws — AWS announcement, May 28, 2026.
+
+[^73]: https://www.whoxy.com/whois/thim.in.th — Historical THNIC WHOIS record identifying AGENTS CO., LTD. and May 29, 2026 registration.
+
+[^74]: https://thim.in.th/ — Privately operated THIM information website linking to AGENTS' TDAC submission service.
