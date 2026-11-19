@@ -734,6 +734,51 @@ The continued publication of contradictory guidance also raises questions about 
 
 **Thai Visa Centre correctly warned customers about the new DTV restrictions, then left commercial guidance online that could direct those same customers toward the very application mistakes it had identified.**
 
+### DTV Extension Page Confuses Government Fees With Visa and Agency Charges
+
+Thai Visa Centre's commercial *DTV Visa Thailand* page repeatedly lists the cost of extending a DTV holder's stay for another 180 days as **1,900–10,000 baht**.[^221]
+
+Under its frequently asked questions, the company explicitly describes this range as a fee payable at immigration.
+
+However, Thailand's Department of Consular Affairs distinguishes two separate charges:
+
+- **10,000 baht:** Government fee for initial DTV visa issuance.
+- **1,900 baht:** Immigration fee for extending an existing DTV stay by up to 180 days.[^222]
+
+The agency's advertised 10,000-baht upper limit therefore does not reflect the published government extension fee.
+
+#### TVC's Own Pricing Page Confirms the Correct Amount
+
+The discrepancy is particularly significant because TVC's dedicated DTV assistance page publishes a detailed price breakdown.[^223]
+
+| Charge | Existing customers | New customers |
+|---|---:|---:|
+| Government extension fee | ฿1,900 | ฿1,900 |
+| TVC service fee | ฿10,100 | ฿12,100 |
+| Advertised total | ฿12,000 | ฿14,000 |
+
+Unlike its general visa sales page, this breakdown correctly distinguishes government charges from commercial assistance.
+
+TVC's separate 2026 DTV requirements guide also identifies approximately **1,900 baht** as the extension fee.[^224]
+
+**The company therefore publishes the correct government fee in its dedicated pricing materials while advertising a substantially higher government-fee range on its commercial visa overview.**
+
+#### Consequences for Customers
+
+The discrepancy could mislead applicants comparing self-service immigration extensions with paid professional assistance.
+
+A customer relying on the visa overview might incorrectly believe the government itself can charge up to 10,000 baht for an ordinary DTV extension.
+
+The distinction is especially important when TVC separately sells extension packages costing 12,000–14,000 baht.
+
+Those packages include substantial private service charges, which should not be confused with mandatory immigration fees.
+
+The available evidence does not establish that TVC has collected 10,000 baht while representing the entire amount as a government fee.
+
+Nevertheless, the contradiction is concrete and financially relevant.
+
+TVC should correct its DTV service page to identify the 1,900-baht government extension fee, distinguish it from the initial visa-issuance charge, and disclose optional agency assistance costs separately.
+
 ## Obsolete Retirement Visa Insurance Requirements Repeated Across Multiple Guides
 
 Thai Visa Centre repeatedly publishes outdated health-insurance requirements for Thailand's Non-Immigrant O-A retirement visa, advising applicants that policies providing **40,000 baht in outpatient coverage and 400,000 baht in inpatient coverage** satisfy the relevant minimums.
@@ -3894,3 +3939,11 @@ TVC should distinguish ordinary naturalization from nationality acquisition unde
 [^219]: https://ltr.boi.go.th/documents/Announcement%20of%20Ministry%20of%20Interior%20Affairs%20(TH).pdf — Ministry of Interior announcement, Royal Gazette, June 2, 2022, Clause 1(2), limiting LTR dependents to spouses and qualifying children, with a maximum of four.
 
 [^220]: https://tvc.co.th/guides/ltr-visa-thailand-for-spouses-and-dependents — Thai Visa Centre, separate dependent-visa guide advising verification of expanded eligibility and warning that parents generally do not qualify under standard rules.
+
+[^221]: https://tvc.co.th/visas/thailand-destination-visa-dtv — Thai Visa Centre, commercial DTV page, including its 1,900–10,000-baht extension-fee range and corresponding FAQ.
+
+[^222]: https://image.mfa.go.th/mfa/0/pFxDf7ZYQ7/Visa-consular_information/วารสารออนไลน์_กรมการกงสุล_ฉบับที่_7_ไตรมาส_3_ปี_2567_(1)-compressed.pdf — Ministry of Foreign Affairs, Department of Consular Affairs, quarterly newsletter No. 7 (2024), page 9, distinguishing the 10,000-baht DTV visa fee from the 1,900-baht immigration extension fee.
+
+[^223]: https://tvc.co.th/dtv — Thai Visa Centre, DTV Visa VIP Services & Pricing, explicitly separating the government extension fee from private service charges.
+
+[^224]: https://tvc.co.th/guides/dtv-visa-thailand — Thai Visa Centre, *DTV Visa Thailand Requirements 2026*, identifying approximately 1,900 baht for in-country extensions.
