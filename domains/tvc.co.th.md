@@ -3378,6 +3378,54 @@ However, **its commercial eligibility checklist continues to enforce requirement
 
 Thai Visa Centre should update the LTR service page to reflect BOI Announcement Por. 3/2568, distinguish current requirements from historical criteria, and reconcile its sales materials with its own accurate reform guide.
 
+### LTR Sales Page Misrepresents Application Fees and Payment Timing
+
+Thai Visa Centre's commercial LTR visa page lists a government fee of **50,000 baht per person**, describing it as an application fee that is non-refundable if the application is denied.[^205]
+
+This presentation fails to distinguish the free initial qualification process from the subsequent paid visa-issuance stage.
+
+#### BOI Confirms Applications Are Free Until Approval
+
+Thailand's Board of Investment explicitly states that LTR applications and qualification processing are free of charge.[^206]
+
+The official procedure separates:
+
+1. **Qualification endorsement:** Applicants submit supporting documents for government assessment without paying an application fee to the BOI.
+2. **Visa-issuance pre-approval:** Approved applicants complete additional immigration requirements.
+3. **Visa issuance:** Applicants pay the applicable government fee when proceeding with issuance.
+
+For applicants collecting their LTR visa at the Thailand Investment and Expat Services Center in Bangkok, the government charges 50,000 baht after approval.[^207]
+
+The fee is therefore not an upfront payment required merely to have LTR eligibility assessed.
+
+#### Overseas Visa Fees Are Not Universally Fixed
+
+TVC additionally presents the 50,000-baht amount as a fixed embassy-fee range.
+
+The BOI explains that overseas embassy, consulate, and e-Visa charges can differ from the Bangkok fee because of exchange rates and additional consular charges.[^208]
+
+Importantly, official guidance confirms that e-Visa processing fees are non-refundable and that applicants may need to pay again if an e-Visa application is rejected because of incorrect information.[^207]
+
+Non-refundable fees can therefore arise at the later visa-issuance stage.
+
+**That does not justify presenting the initial BOI qualification application itself as a non-refundable 50,000-baht transaction.**
+
+#### Financial Implications for Applicants
+
+The distinction is significant for applicants uncertain whether they satisfy LTR eligibility requirements.
+
+TVC's wording could lead prospective customers to believe that they must risk 50,000 baht in government fees simply to obtain an initial eligibility decision.
+
+In reality, the BOI provides that assessment without charging an application fee.
+
+Private agents may separately charge for document preparation or representation, but those commercial fees must not be confused with official government charges.
+
+There is no evidence that TVC has actually collected the 50,000-baht government fee prematurely or withheld refunds from unsuccessful applicants.
+
+Nevertheless, its published financial guidance obscures when government payment becomes necessary and the circumstances in which a non-refundable charge may arise.
+
+TVC should distinguish free BOI qualification processing from paid visa issuance, identify the applicable overseas fee variations, and explain which payments are genuinely at risk if an application fails.
+
 ## Citizenship Guidance Misrepresents Permanent Residency Requirements for Foreign Spouses
 
 Thai Visa Centre's FAQ *Do I Get Thai Nationality After Marriage?*, marked reviewed June 2026, presents permanent residency as a necessary stage before citizenship for foreign spouses.[^201]
@@ -3661,3 +3709,11 @@ TVC should distinguish ordinary naturalization from nationality acquisition unde
 [^202]: https://report.dopa.go.th/laws/document/2/226.pdf — Department of Provincial Administration, *Nationality Act B.E. 2508 (1965)*, consolidated English translation, Sections 9–12, including the 2008 amendment to Section 11.
 [^203]: https://callcenter1548.bora.dopa.go.th/คู่มือปฏิบัติงานสำหรับ/ — Department of Provincial Administration, Bureau of Registration Administration, public-service guidance for acquisition of Thai nationality under Section 9.
 [^204]: https://www.bora.dopa.go.th/wp-content/uploads/2022/01/mt03091_v4041.pdf — Department of Provincial Administration, Ministry of Interior Circular มท 0309.1/ว 4041, guidance covering naturalization under Section 11, including foreign husbands of Thai citizens.
+
+[^205]: https://tvc.co.th/visas/thailand-long-term-resident-visa-ltr — Thai Visa Centre, commercial LTR service page, identifying 50,000 baht as a non-refundable application fee.
+
+[^206]: https://ltr.boi.go.th/page/faq.html — Thailand Board of Investment, official LTR FAQ, confirming free application processing and payment of 50,000 baht after approval.
+
+[^207]: https://ltr.boi.go.th/page/visa-issuance-info.html — Thailand Board of Investment, official visa-issuance procedures, including qualification endorsement, payment timing, and non-refundable e-Visa processing fees.
+
+[^208]: https://ltr.boi.go.th/ — Thailand Board of Investment, LTR application and issuance overview, explaining overseas consular-fee variations.
