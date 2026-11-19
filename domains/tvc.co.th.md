@@ -3902,6 +3902,73 @@ Nevertheless, the company repeatedly describes a nonexistent general forced-heir
 
 TVC should correct its probate and will-writing guides, distinguish intestate inheritance from testamentary freedom, and accurately explain the separate treatment of marital property and legally ineffective wills.
 
+## Remarriage FAQ Denies Statutory Waiting Period and Uses Obsolete Marriage Age
+
+Thai Visa Centre's FAQ *Divorcee Getting Married in Thailand*, marked reviewed June 2026, incorrectly tells foreign customers that Thai law imposes no waiting period after divorce.[^241]
+
+The page repeatedly makes categorical claims, including:
+
+> No statutory waiting period for remarriage once divorce is final.
+
+It also describes marriage as available from age 17 with parental consent.
+
+**Both statements conflict with Thailand's Civil and Commercial Code as amended by the Marriage Equality Act, effective January 23, 2025.**
+
+### Section 1453 Retains a 310-Day Remarriage Restriction
+
+Section 1453 establishes a 310-day waiting period for women remarrying men following the termination of a previous marriage, subject to four statutory exceptions:[^242]
+
+1. The woman has given birth during the waiting period.
+2. She is remarrying her former spouse.
+3. A qualified medical practitioner certifies that she is not pregnant.
+4. A court authorizes the marriage.
+
+The provision does not impose an equivalent waiting period on divorced men. Its amended wording also distinguishes women remarrying men from other marriage configurations.
+
+Thailand's Government Public Relations Department confirmed the continuing 310-day restriction when explaining the January 2025 Marriage Equality Act.[^243]
+
+**TVC's assurance that no statutory waiting period exists is therefore incorrect for applicants covered by Section 1453.**
+
+### TVC's Own Separate FAQ Explains the Rule Correctly
+
+The contradiction is particularly clear because TVC publishes another FAQ titled *Waiting Period After Divorce - Remarriage in Thailand*.[^244]
+
+That page correctly explains the 310-day restriction, the non-pregnancy certificate exception, and the different treatment of male divorcees.
+
+It also warns that district offices can refuse premature marriage-registration applications.
+
+Both FAQs claim to reflect June 2026 requirements, yet they provide opposite answers to the same legal question.
+
+The incorrect FAQ further provides a suggested 10–14-day remarriage timeline without incorporating the applicable waiting-period requirements.
+
+### Marriage Age Was Raised to 18 in January 2025
+
+The incorrect FAQ also describes the ordinary marriage-age threshold as 17 with parental consent.[^241]
+
+TVC's separate *Marriage in Thailand* guide repeats the outdated minimum age of 17.[^245]
+
+However, the 2024 amendment to Section 1448, effective January 23, 2025, raised the normal minimum marriage age to 18 for both parties.[^242]
+
+Marriage below 18 requires court permission based on appropriate grounds. Parental consent alone does not replace that judicial authorization.
+
+Separate consent requirements may still apply to persons aged 18 or 19.
+
+**TVC therefore continues publishing pre-2025 marriage-age guidance in materials claiming to explain current registration requirements.**
+
+### Consequences for Customers
+
+These discrepancies matter because TVC advertises marriage-document preparation, embassy coordination, district-office registration, and immigration assistance.
+
+Customers relying on the incorrect guidance could arrange travel, embassy appointments, translations, and registration dates without satisfying the applicable marriage requirements.
+
+A refused registration could also disrupt plans to apply for marriage-based immigration status.
+
+The available evidence does not establish that TVC has caused failed registrations or financial losses through this guidance.
+
+Nevertheless, the company presents contradictory legal instructions while advertising professional marriage-registration assistance.
+
+TVC should correct its remarriage FAQ, identify the scope and exceptions of Section 1453, update its minimum-age guidance, and reconcile its published marriage-registration instructions.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -4205,3 +4272,13 @@ TVC should correct its probate and will-writing guides, distinguish intestate in
 [^239]: https://www.bora.dopa.go.th/storage/2026/03/คู่มือปฏิบัติงานพินัยกรรม-2569.pdf — Department of Provincial Administration, *Will-Writing Practice Handbook 2026*, pages 129–131, summarizing Supreme Court decisions concerning disinheritance under Section 1608.
 
 [^240]: https://www.thailandlawonline.com/thai-family-and-marriage-law/civil-law-on-succession-inheritance-heirs-and-wills — Civil and Commercial Code, Book VI, Sections 1620, 1625, and 1629–1635, distinguishing intestate inheritance, marital-property division, and statutory succession.
+
+[^241]: https://tvc.co.th/faq/divorcee-getting-married-in-thailand — Thai Visa Centre, *Divorcee Getting Married in Thailand*, repeatedly denying any statutory remarriage waiting period and describing marriage from age 17 with parental consent.
+
+[^242]: https://www.rd.go.th/fileadmin/user_upload/sorpor/GENDER/Doc/2567/Civil-and-Commercial-Code-Act-No24_2567.pdf — Royal Gazette, Civil and Commercial Code Amendment Act (No. 24), B.E. 2567 (2024), amending Sections 1448 and 1453, effective January 23, 2025.
+
+[^243]: https://thailand.prd.go.th/en/content/category/detail/id/52/iid/356952 — Thailand Government Public Relations Department, January 20, 2025, explaining marriage eligibility, the 18-year minimum age, and the continuing 310-day remarriage restriction.
+
+[^244]: https://tvc.co.th/faq/waiting-period-after-divorce — Thai Visa Centre, *Waiting Period After Divorce - Remarriage in Thailand*, correctly explaining the 310-day restriction and medical-certificate exception.
+
+[^245]: https://tvc.co.th/guides/marriage-in-thailand — Thai Visa Centre, *Marriage in Thailand: A Complete Guide for Foreigners*, marked reviewed June 2026, continuing to identify age 17 as the minimum marriage age.
