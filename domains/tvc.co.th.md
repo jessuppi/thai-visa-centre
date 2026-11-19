@@ -129,6 +129,22 @@ TVC should publish a reproducible account of the **661 unclassified reviews**, t
 **The evidence does not establish fabricated customer reviews, deliberate suppression of criticism, or intentional manipulation of the rating.** It establishes that TVC's published review totals, rating distributions, and filtering explanations are inconsistent or insufficiently documented.
 
 Those unresolved discrepancies warrant scrutiny because the company uses its claimed verified reputation to market immigration services involving substantial fees, personal documents, and legal deadlines.
+### Five-Star Review Contains Allegation of Fake Visa Stamps
+
+Thai Visa Centre's own review archive contains a serious customer allegation concerning the authenticity of immigration stamps obtained through its services.
+
+A Google review attributed to **James Y.**, dated November 29, 2023, claims that officers at Bangkok's Chaeng Watthana Immigration office identified visa stamps obtained through Thai Visa Centre over several years as fake. The reviewer reported being unable to extend his visa without changing passports.[^272]
+
+Remarkably, TVC's website displays this complaint with a **5.0-star rating**, despite its explicitly negative content.
+
+The original Google rating has not been independently verified, and the customer's account is not supported by publicly available immigration records. The review therefore does not establish that any stamps were forged or that Thai Visa Centre knowingly supplied invalid documents.
+
+Nevertheless, the allegation is significant given the agency's documented August 2020 police investigation involving suspected forged immigration documents.
+
+**Thai Visa Centre should explain whether it investigated this customer's complaint, whether the reported stamps were independently authenticated, and why its review system presents such a serious allegation as a five-star endorsement.**
+
+The discrepancy also raises questions about how the agency imports, classifies, and verifies reviews used to support its advertised 4.9-star reputation.
+
 ## Misleading Retirement Visa Bank-Deposit Instructions
 
 Thai Visa Centre publishes an FAQ titled *Do Retirement Funds Have to Stay in the Bank Account?*, claiming customers can withdraw their 800,000-baht retirement deposit after immigration approves their extension and replenish the account before their next renewal.[^21]
@@ -4716,3 +4732,5 @@ TVC should remove the supposed general startup audit exemption, distinguish limi
 [^270]: https://www.rd.go.th/english/6044.html — Thailand Revenue Department, *Corporate Income Tax*, explaining the annual PND.50 return and single half-year PND.51 prepayment.
 
 [^271]: https://osos.boi.go.th/en/how-to/150/Paying-Taxes/ — Thailand Board of Investment, One Start One Stop Investment Center, *Social Security Contributions*, confirming the fifteenth-day monthly contribution deadline.
+
+[^272]: https://tvc.co.th/reviews/review/28e1be33-98bd-4821-8e40-810c36f14419 — Thai Visa Centre, review attributed to James Y., dated November 29, 2023, displaying a five-star rating alongside allegations concerning immigration stamps.
