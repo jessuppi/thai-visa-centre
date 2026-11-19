@@ -4181,6 +4181,76 @@ Nevertheless, **its published guidance fails to distinguish important statutory 
 
 TVC should explain the separate five-year and principal-residence rules, identify transactions that remain taxable, and distinguish the valuation bases applicable to registration fees, SBT, stamp duty, and withholding tax.
 
+## Personal Income Tax Guide Repeats Foreign-Remittance Rule Abolished in 2024
+
+Thai Visa Centre's guide *Personal Income Tax Rates in Thailand*, marked reviewed June 2026, incorrectly describes the taxation of foreign-source income brought into Thailand by tax residents.[^261]
+
+Under its explanation of who pays personal income tax, TVC states that residents are taxed on foreign income:
+
+> remitted to Thailand in the year earned.
+
+The guide's FAQ repeats the same limitation.
+
+**This wording reflects an obsolete interpretation of Thailand's Revenue Code that ceased to apply to qualifying income earned from January 1, 2024.**
+
+### Revenue Department Removed the Same-Year Restriction
+
+Revenue Department Order P.161/2566, issued September 15, 2023, changed the administrative interpretation of Section 41, paragraph two, of the Revenue Code.[^262]
+
+The order requires qualifying foreign-source income to be included in the calculation of Thai personal income tax when brought into Thailand, regardless of whether remittance occurs during the year of receipt or a subsequent year.
+
+Order P.162/2566, issued November 20, 2023, clarified that this interpretation does not apply to income arising before January 1, 2024.[^263]
+
+The distinction is important:
+
+| Foreign income | General treatment under the revised guidance |
+|---|---|
+| Earned before January 1, 2024 | Outside the revised remittance rule |
+| Earned from 2024 onward while a Thai tax resident, remitted that year | Potentially taxable |
+| Earned from 2024 onward while a Thai tax resident, remitted in a later year | Potentially taxable |
+
+Thailand's Revenue Department explicitly confirms these distinctions in its published guidance for foreigners.[^264]
+
+The applicable residence test generally concerns spending at least 180 days in Thailand during the calendar year in which the income arises.
+
+Tax treaties, exemptions, foreign tax credits, and the nature of the funds may affect the final tax liability.
+
+**Simply delaying a remittance into a subsequent calendar year no longer automatically removes qualifying foreign income from Thai taxation.**
+
+### Official 2026 Guidance Confirms the Rule
+
+PwC Thailand's *Thai Tax 2026/27 Booklet* independently confirms that assessable foreign income earned from January 1, 2024, may be taxable when remitted in the same year or a later year.[^265]
+
+The Revenue Department's own foreign-income guidance reaches the same conclusion.[^264]
+
+TVC's personal-income-tax guide therefore continues presenting an outdated restriction more than two years after the underlying administrative change.
+
+Its June 2026 review date makes the discrepancy particularly notable.
+
+### Potential Consequences for Foreign Residents
+
+The error could materially affect retirees, foreign employees, business owners, and other long-term residents maintaining income or investments overseas.
+
+For example, a qualifying taxpayer who earned foreign investment income in 2025 while resident in Thailand might incorrectly assume that transferring those earnings in 2026 avoids Thai tax.
+
+The revised rule does not support that assumption.
+
+Incorrect planning could lead to omitted assessable income, inaccurate personal income tax returns, additional assessments, interest, or penalties.
+
+Not every international transfer is taxable income. Previously accumulated savings, qualifying pre-2024 income, exempt funds, and applicable treaty relief must be assessed separately.
+
+### Relevance to Thai Visa Centre's Services
+
+Thai Visa Centre advertises immigration, relocation, work-permit, and tax-document coordination for foreigners living in Thailand.
+
+Although it states that it is not a tax-accounting firm and refers tax preparation to qualified professionals, its published guidance addresses tax residency and foreign-income remittances.
+
+The available evidence does not establish that TVC has prepared incorrect tax returns, advised individual customers to defer remittances, or caused anyone to incur tax penalties.
+
+Nevertheless, **its June 2026 guide repeats a superseded interpretation of foreign-income taxation that could materially influence customers' financial planning**.
+
+TVC should remove the same-year limitation, explain Orders P.161/2566 and P.162/2566, distinguish pre-2024 income from later earnings, and clarify that the tax treatment depends on residence status in the year the income arises and the applicable remittance rules.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -4524,3 +4594,13 @@ TVC should explain the separate five-year and principal-residence rules, identif
 [^259]: https://thailand.go.th/public/useful-information-detail/006_118?hl=en — Thai government, *Businesses Required to Pay Specific Business Tax*, distinguishing ordinary sales within five years from the separate principal-residence exception involving at least one year of house registration.
 
 [^260]: https://www.dol.go.th/rayong_klaeng/faq/ — Department of Lands, Rayong Province, Klaeng Branch, official fee guidance distinguishing assessed-value calculations from charges based on the higher of assessed value and declared price.
+
+[^261]: https://tvc.co.th/guides/thailand-income-tax — Thai Visa Centre, *Personal Income Tax Rates in Thailand*, reviewed June 2026, stating that foreign income is taxable when remitted in the year earned.
+
+[^262]: https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/dn161A.pdf — Thailand Revenue Department, Order P.161/2566, September 15, 2023, concerning foreign-source assessable income remitted into Thailand in any subsequent tax year.
+
+[^263]: https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/dn162A.pdf — Thailand Revenue Department, Order P.162/2566, November 20, 2023, excluding income arising before January 1, 2024, from the revised interpretation.
+
+[^264]: https://www.rd.go.th/fileadmin/user_upload/lorkhor/newspr/2024/FOREIGNERS_PAY_TAX2024.pdf — Thailand Revenue Department, *Foreign-Sourced Income*, official explanation identifying later-year remittances, tax-residence requirements, and the pre-2024 exclusion.
+
+[^265]: https://www.pwc.com/th/en/tax/assets/thai-tax/2026-2027/thai-tax-booklet-2026-27.pdf — PwC Thailand, *Thai Tax 2026/27 Booklet*, personal income tax section, confirming the continuing application of Orders P.161/2566 and P.162/2566.
