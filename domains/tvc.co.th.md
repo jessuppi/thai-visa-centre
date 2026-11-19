@@ -3969,6 +3969,63 @@ Nevertheless, the company presents contradictory legal instructions while advert
 
 TVC should correct its remarriage FAQ, identify the scope and exceptions of Section 1453, update its minimum-age guidance, and reconcile its published marriage-registration instructions.
 
+## Condominium Guides Incorrectly Require Overseas Remittances From Permanent Residents
+
+Thai Visa Centre's guide *Condo in Thailand*, marked reviewed June 2026, presents foreign-currency remittances and Foreign Exchange Transaction (FET) documentation as mandatory requirements for every foreign condominium purchase.[^246]
+
+The guide identifies FET documentation as a statutory requirement and warns that transferring Thai baht from a domestic bank account instead of remitting foreign currency from abroad is a purchasing mistake.
+
+Its separate *Thailand Property FAQ for Expats* repeats that foreigners must remit purchase funds from abroad and obtain an FET form.[^247]
+
+**These categorical instructions omit an express exception for foreign permanent residents under Thailand's Condominium Act.**
+
+### Government Confirms Permanent Residents Can Use Thai Baht
+
+Thailand's official government website explains that foreign buyers holding permanent-resident status may purchase condominium units using Thai baht without requesting an FET form.[^248]
+
+Section 19 of the Condominium Act B.E. 2522 (1979) establishes separate eligibility categories, including:
+
+1. **Section 19(1):** Foreigners holding permission to reside permanently in Thailand under immigration law.
+2. **Section 19(2):** Foreigners admitted under applicable investment-promotion legislation.
+3. **Section 19(5):** Foreigners qualifying through specified foreign-currency remittances or permitted account withdrawals.[^249]
+
+Section 19 ter prescribes different supporting evidence for these categories.
+
+A qualifying permanent resident provides evidence of immigration residence permission, rather than relying on foreign-currency remittance evidence under Section 19(5).
+
+All applicants remain subject to applicable ownership restrictions, including the condominium building's foreign-ownership quota.
+
+**The government's FET exemption does not eliminate ordinary property-registration requirements. It establishes that overseas remittance is not universally mandatory.**
+
+### TVC Repeats the Requirement in Its Legal-Services Advertising
+
+The discrepancy extends beyond general property information.
+
+TVC's *Thailand Property Legal Services* guide describes FET compliance as a standard part of professional assistance and states that foreign buyers must transfer condominium purchase funds from abroad in foreign currency.[^250]
+
+Its due-diligence materials similarly identify overseas remittance as mandatory without explaining the permanent-resident exception.
+
+These publications promote document preparation, property-lawyer referrals, banking coordination, and Land Department transfer assistance.
+
+However, they do not adequately distinguish permanent residents from foreign purchasers who must establish eligibility through qualifying remittances.
+
+### Financial Consequences for Buyers
+
+Incorrectly presenting overseas remittance as compulsory could lead foreign permanent residents to arrange unnecessary international transfers.
+
+For substantial condominium purchases, those arrangements may involve:
+
+- Foreign-exchange conversion charges and unfavorable exchange rates.
+- International bank-transfer fees and administrative delays.
+- Unnecessary movement of funds already lawfully held in Thailand.
+- Additional document preparation or professional assistance based on an incorrect eligibility assessment.
+
+The available evidence does not establish that TVC has instructed individual permanent residents to transfer funds unnecessarily or collected fees for avoidable transactions.
+
+Nevertheless, its published instructions omit a significant statutory distinction affecting how qualifying foreigners may finance property purchases.
+
+TVC should distinguish Section 19(1) permanent-resident purchases from Section 19(5) remittance-based purchases, explain the different Land Department documentation requirements, and correct its categorical statements that every foreign condominium buyer must transfer funds from overseas.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -4282,3 +4339,13 @@ TVC should correct its remarriage FAQ, identify the scope and exceptions of Sect
 [^244]: https://tvc.co.th/faq/waiting-period-after-divorce — Thai Visa Centre, *Waiting Period After Divorce - Remarriage in Thailand*, correctly explaining the 310-day restriction and medical-certificate exception.
 
 [^245]: https://tvc.co.th/guides/marriage-in-thailand — Thai Visa Centre, *Marriage in Thailand: A Complete Guide for Foreigners*, marked reviewed June 2026, continuing to identify age 17 as the minimum marriage age.
+
+[^246]: https://tvc.co.th/guides/property-condo — Thai Visa Centre, *Condo in Thailand*, reviewed June 2026, presenting FET documentation and overseas remittances as mandatory for foreign condominium purchasers.
+
+[^247]: https://tvc.co.th/guides/property-thailand-property-faq — Thai Visa Centre, *Thailand Property FAQ for Expats*, requiring foreign-currency remittances and FET documentation without explaining the permanent-resident exception.
+
+[^248]: https://www.thailand.go.th/issue-focus-detail/002_015?hl=en — Thai government, *Procedure for Accepting Foreign Money Transfers to Buy Assets in Thailand*, expressly confirming that permanent residents may purchase condominiums using Thai baht without an FET form.
+
+[^249]: https://library.siam-legal.com/thai-law/condominium-act-ownership-sections-19-1-19-11/ — Condominium Act B.E. 2522, Sections 19 and 19 ter, English reproduction distinguishing permanent-resident eligibility from remittance-based eligibility.
+
+[^250]: https://tvc.co.th/guides/property-thailand-property-legal-services — Thai Visa Centre, *Thailand Property Legal Services*, identifying overseas remittances and FET compliance as standard requirements in its advertised property-assistance workflow.
