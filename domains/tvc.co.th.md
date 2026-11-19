@@ -346,6 +346,18 @@ The repeated structure suggests extensive use of standardized content templates.
 
 For an agency selling professional immigration assistance, these examples raise questions about the reliability of its claimed editorial review and the accuracy of information used to attract prospective customers.
 
+### Published Terms Undermine Confidence in Review Dates
+
+Thai Visa Centre's Terms & Conditions, updated February 9, 2025, introduce another qualification to its claimed editorial review process.[^185]
+
+The agreement states that published update or refresh dates should not be understood as confirmation that all website information has been modified or updated. It also disclaims any general obligation to update or clarify published information, except as required by law.
+
+This matters because numerous immigration guides display recent review dates while retaining incorrect government fees, outdated eligibility requirements, and contradictory application instructions.
+
+A review date does not necessarily mean every statement was revised. However, Thai Visa Centre provides no public explanation of what its editorial reviews verify or why documented regulatory errors survived them.
+
+**The concern is not simply that individual articles contain mistakes, but that the agency uses recent review dates to support the credibility of commercially important immigration guidance without demonstrating that the underlying information has been checked against current requirements.**
+
 ## Four Advertised Offices Match Siam Legal's Locations
 
 Thai Visa Centre publishes a guide titled *Thailand Law Firms and TVC Office Locations*, claiming to operate immigration and legal-coordination offices in **Bangkok, Phuket, Pattaya, and Chiang Mai**.[^48]
