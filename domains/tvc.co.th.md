@@ -2795,6 +2795,65 @@ However, **the agency repeatedly presents an annual immigration reporting obliga
 
 Thai Visa Centre should remove or substantiate this claim, distinguish permanent residence from LTR annual reporting, and accurately explain the separate alien-registration and travel-document requirements applicable to permanent residents.
 
+### Permanent-Residency Travel Guidance Omits Status-Preserving Documents
+
+Thai Visa Centre's permanent-residency service page tells customers that multiple international entries are permitted with a re-entry permit. Its restrictions section repeats that a re-entry permit is required for travel.[^193]
+
+However, the page does not explain the distinct departure and re-entry procedure applicable to permanent residents.
+
+Its separate re-entry guide describes Form TM8 as the means of preserving an existing visa or temporary extension of stay.[^229]
+
+**Thailand's Immigration Act establishes a different procedure for permanent residents, with potentially serious consequences if it is not followed.**
+
+#### Residence Certificates Require a Separate Endorsement
+
+Sections 48 and 50 of the Immigration Act B.E. 2522 (1979) establish that permanent residents intending to travel abroad must have their residence certificates endorsed before departure.[^194]
+
+Section 48 further provides that a residence certificate ceases to be valid when its holder leaves Thailand without the required endorsement.
+
+Even with an endorsement, the resident must return within one year to preserve the certificate's validity.
+
+The Immigration Bureau maintains distinct application forms:
+
+- **TM8:** Re-entry permit for temporary visa or extension holders.
+- **TM13:** Endorsement of departure and re-entry for residence-certificate holders.
+- **TM22:** Application for a Non-Quota Immigrant Visa.[^230]
+
+These documents serve different legal purposes and should not be treated as interchangeable.
+
+#### Non-Quota Immigrant Visa Requirements Are Also Omitted
+
+The Immigration Bureau's official Non-Quota Immigrant Visa handbook identifies Form TM22 and supporting documents, including the applicant's passport, alien registration book, and certificate of residence.[^231]
+
+The published government fees distinguish:
+
+| Procedure | Government fee |
+|---|---:|
+| Residence-certificate endorsement | ฿1,900 |
+| Non-Quota Immigrant Visa, single entry | ฿1,900 |
+| Non-Quota Immigrant Visa, multiple entry | ฿3,800 |
+| Ordinary TM8 re-entry permit, single entry | ฿1,000 |
+
+These are separate charges under the Immigration Bureau's published schedule.[^232]
+
+**TVC's general description of re-entry permits does not explain the documentary requirements or potential costs specific to permanent residents.**
+
+#### Consequences of Incorrect Travel Advice
+
+The distinction matters because permanent residence is considerably harder and more expensive to obtain than an ordinary temporary extension.
+
+A permanent resident relying on generic TM8 guidance could misunderstand which documents are necessary before departing Thailand.
+
+Under Section 48, departing without the required residence-certificate endorsement can invalidate permanent-resident status. Restoring residence may require a separate discretionary procedure under Section 51.[^194]
+
+The available evidence does not establish that TVC has issued incorrect travel instructions to individual permanent residents or caused anyone to lose residency.
+
+Nor does its service page explicitly instruct permanent residents to use TM8 instead of TM13.
+
+**The documented problem is that TVC markets permanent-residency and re-entry assistance while omitting the distinct statutory procedure essential to preserving permanent residence during international travel.**
+
+TVC should identify the TM13 endorsement and applicable TM22 requirements, distinguish them from ordinary TM8 permits, and explain the one-year return requirement under the Immigration Act.
+
 ## Marriage and Retirement Visa Pages Give Incorrect Renewal Instructions
 
 Thai Visa Centre's commercial marriage-visa and retirement-visa pages contain incorrect instructions concerning annual extensions of stay.
@@ -4003,3 +4062,11 @@ TVC should remove nominee arrangements from its list of standard company structu
 [^227]: https://tvc.co.th/guides/business-in-thailand — Thai Visa Centre, *Doing Business in Thailand*, identifying nominee Thai shareholders as illegal and high-risk.
 
 [^228]: https://tvc.co.th/guides/property-buying-property-in-thailand — Thai Visa Centre, *Buying Property in Thailand*, warning against nominee structures and explaining restrictions on foreign ownership.
+
+[^229]: https://tvc.co.th/guides/re-entry-permit-thailand — Thai Visa Centre, *Re-Entry Permit Thailand Guide*, reviewed June 2026, explaining ordinary TM8 re-entry permits without addressing the separate permanent-residence procedure.
+
+[^230]: https://www.samutprakanimmigration.go.th/download-forms/ — Samut Prakan Immigration, official forms directory separately listing TM8, TM13, and TM22.
+
+[^231]: https://chachoengsao.imm.police.go.th/wp-content/uploads/2024/02/5-Non-Quota-Immigrant-Visa.pdf — Immigration Bureau, *Public Handbook: Application for Non-Quota Immigrant Visa*, identifying TM22, required supporting documents, application procedure, and fees.
+
+[^232]: https://www.samutprakanimmigration.go.th/immigration-fees/ — Samut Prakan Immigration, official immigration fee schedule distinguishing residence-certificate endorsements, Non-Quota Immigrant Visas, and ordinary re-entry permits.
