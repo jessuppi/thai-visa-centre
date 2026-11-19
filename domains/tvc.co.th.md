@@ -281,6 +281,52 @@ A customer misunderstanding the difference between a one-year visa's validity an
 
 **The error concerns a fundamental immigration rule that customers reasonably expect a professional visa agency to explain accurately.**
 
+## Re-Entry Permit FAQ Incorrectly Excludes Tourist Visa Holders
+
+Thai Visa Centre's *Do I Need a Re-Entry Permit?* FAQ incorrectly suggests that tourists cannot use Thailand's re-entry permit system.
+
+Its comparison table identifies tourist visas and visa exemptions as categories for which Form TM8 is not applicable.[^303]
+
+A separate table reinforces that advice by telling tourists they do not need re-entry permits because they are not extending their stays on a long-term basis.
+
+**This categorical explanation conflicts with official Thai embassy guidance and fails to distinguish single-entry tourist visas from visa-exempt entry.**
+
+### Single-Entry Tourist Visa Holders May Qualify
+
+The Royal Thai Embassy in London expressly explains that travelers holding single-entry visas may request re-entry permits at immigration offices in Thailand when planning additional entries.[^304]
+
+The embassy distinguishes the visa's validity for entry from the period of stay granted upon arrival.
+
+A re-entry permit does not convert a single-entry tourist visa into a multiple-entry visa. Instead, it can preserve an existing period of authorized stay when a qualifying traveler departs and returns before that permission expires.
+
+Issuance remains subject to immigration requirements and officer discretion.
+
+**The correct rule is not that TM8 is categorically unavailable to tourists. It is that eligibility and practical usefulness depend on the traveler's immigration status and remaining permission to stay.**
+
+### TVC's Own Guidance Is Inconsistent
+
+The contradiction is especially conspicuous because the same FAQ begins by warning that holders of single-entry Thai visas may need a re-entry permit before departure.
+
+Yet its tables subsequently exclude tourists without explaining why the earlier rule would not apply to qualifying single-entry tourist visa holders.
+
+TVC's separate *Re-Entry Permit Thailand Guide* takes a more qualified position, describing permits for tourist extensions as uncommon rather than impossible.[^305]
+
+That distinction matters. A procedure being unnecessary for most short-term visitors does not mean it is legally unavailable to every tourist.
+
+### Consequences for Travelers
+
+Foreign travelers with single-entry tourist visas sometimes need to leave Thailand temporarily and return while their original permitted stay remains valid.
+
+Incorrectly advising them that re-entry permits are unavailable could cause them to abandon an existing permission to stay unnecessarily, seek another visa, or assume that a fresh immigration admission is their only option.
+
+The practical consequences depend on nationality, remaining stay validity, available visa exemptions, and the circumstances of re-entry.
+
+**Thai Visa Centre should distinguish ordinary travel patterns from the actual availability of a government immigration procedure rather than presenting an inaccurate universal prohibition.**
+
+The company advertises paid re-entry permit assistance and professional advice about preserving immigration status.
+
+It should correct the FAQ, explain when single-entry tourist visa holders may request TM8, and distinguish preserving an existing authorized stay from obtaining a new admission.
+
 ## Outdated Embassy Income Affidavit Instructions
 
 Thai Visa Centre publishes immigration advice instructing retirement and marriage visa applicants to obtain income affidavits from their embassies in Bangkok.
@@ -5084,3 +5130,9 @@ TVC should remove the supposed general startup audit exemption, distinguish limi
 [^301]: https://tdac.immigration.go.th/manual/en/faq.html — Immigration Bureau, official TDAC FAQ confirming group submissions and exemptions.
 
 [^302]: https://tvc.co.th/faq/do-i-need-a-visa-for-thailand — Thai Visa Centre, FAQ recognizing the immigration-clearance distinction for transit passengers.
+
+[^303]: https://tvc.co.th/faq/do-i-need-a-re-entry-permit — Thai Visa Centre, re-entry FAQ categorically excluding tourists from TM8.
+
+[^304]: https://london.thaiembassy.org/en/page/after-e-visa-approval — Royal Thai Embassy in London, official guidance on single-entry visas, extensions, and re-entry permits, updated November 18, 2026.
+
+[^305]: https://tvc.co.th/guides/re-entry-permit-thailand — Thai Visa Centre, separate re-entry permit guide acknowledging that permits for tourist extensions are uncommon.
