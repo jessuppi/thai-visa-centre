@@ -302,6 +302,22 @@ That could affect airline bookings, extension planning, onward travel arrangemen
 
 The discrepancy is especially notable because the agency sells visa assistance and presents its familiarity with changing Thai immigration requirements as a reason customers should trust its services.
 
+### Land-Border Guidance Invents a General 15-Day Restriction
+
+Thai Visa Centre's FAQ *Is Visa on Arrival Different by Air and Land?* tells travelers that land-border visa exemptions are commonly limited to 15 days, recommending that visitors crossing from Cambodia or Laos expect shorter stays.[^279]
+
+Its separate one-way-ticket FAQ repeats warnings about 15-day land-border limits.[^280]
+
+However, Thailand's revised visa-exemption rules, effective September 15, 2026, establish eligibility and permitted stays primarily by nationality, not a general distinction between air and land arrivals.
+
+The Royal Thai Embassy in London confirms that qualifying British and Irish passport holders may receive up to **30 days of visa-exempt stay**, while visa-exempt land-border entries are separately limited to two per calendar year.[^281]
+
+**A two-entry annual restriction is not the same as a 15-day limit on each entry.**
+
+TVC's guidance could lead travelers to shorten their itineraries, pursue unnecessary visa applications, or misunderstand their eligibility when crossing Thailand's land borders.
+
+The discrepancy is particularly concerning because the agency advertises visa consultation and border-related immigration assistance while presenting these instructions as professional guidance.
+
 ## Incorrect Visa on Arrival Eligibility After September 2026
 
 Thai Visa Centre continues advertising outdated Visa on Arrival (VOA) eligibility information despite publishing the correct September 2026 changes elsewhere on its website.
@@ -4778,3 +4794,8 @@ TVC should remove the supposed general startup audit exemption, distinguish limi
 [^277]: https://og.th/thailand-cannabis-delivery — OG.TH, advertised online cannabis ordering, payment, and delivery services.
 
 [^278]: https://thailand.prd.go.th/en/content/page/index/id/401785 — Thailand Government Public Relations Department, June 2025 cannabis restrictions.
+[^279]: https://tvc.co.th/faq/visa-on-arrival-by-air-and-land-different — Thai Visa Centre, air-versus-land visa guidance.
+
+[^280]: https://tvc.co.th/faq/thai-visa-on-a-one-way-ticket — Thai Visa Centre, one-way-ticket FAQ repeating land-border restrictions.
+
+[^281]: https://london.thaiembassy.org/en/page/exemp-visa — Royal Thai Embassy, London, visa-exemption requirements effective September 15, 2026, including land-border entry limits.
