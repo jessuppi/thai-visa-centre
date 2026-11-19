@@ -2063,6 +2063,32 @@ The eligibility of any particular dependent remains subject to the BOI's documen
 
 Nevertheless, the government's published rules expressly permit alternatives that TVC's categorical instructions fail to describe.
 
+### Dependent Guide Confuses Insurance Coverage With Deposit Requirements
+
+Thai Visa Centre's *LTR Visa Thailand for Spouses and Dependents* guide repeatedly instructs applicants to obtain health insurance providing at least **US$25,000 in coverage**.[^294]
+
+The figure appears in its application summary, document checklist, insurance requirements, and warnings about insufficient coverage.
+
+However, Thailand's Board of Investment establishes a **US$50,000 minimum for qualifying health insurance** under the LTR dependent category.[^132]
+
+The BOI separately permits dependents to qualify through valid Thai social security coverage or a bank deposit of at least **US$25,000 maintained for 12 months**.
+
+**TVC appears to confuse the US$25,000 bank-deposit alternative with the US$50,000 insurance-coverage requirement.**
+
+These are fundamentally different qualification methods.
+
+An applicant purchasing a US$25,000 insurance policy based on TVC's instructions could submit inadequate financial or healthcare evidence and experience delays or rejection.
+
+Conversely, applicants with sufficient qualifying deposits or social security benefits might unnecessarily purchase insurance because the guide presents it as mandatory.
+
+The same publication also incorrectly instructs LTR dependents to submit 90-day immigration reports, despite the BOI's published annual-reporting procedure for LTR holders.[^115]
+
+This adds another inconsistency to the agency's previously documented LTR advice.
+
+**Thai Visa Centre's dependent-specific guidance contains errors affecting both application eligibility and ongoing immigration compliance, despite the correct requirements being publicly available through the BOI.**
+
+The agency should correct the insurance threshold, explain the accepted alternatives, and distinguish annual LTR reporting from ordinary quarterly notifications.
+
 ### Thai Visa Centre's Own Insurance FAQ Acknowledges the Alternative
 
 The inconsistency is particularly revealing because Thai Visa Centre has published the correct distinction elsewhere on its website.
@@ -4943,3 +4969,4 @@ TVC should remove the supposed general startup audit exemption, distinguish limi
 [^292]: https://www.forvismazars.com/th/en/insights/doing-business-in-thailand/legal/amendments-to-provisions-of-the-ccc — Forvis Mazars, 2023 Civil and Commercial Code amendments concerning Sections 1097 and 1237.
 
 [^293]: https://tvc.co.th/guides/thailand-company — Thai Visa Centre, company registration guide repeating the single-shareholder claim.
+[^294]: https://tvc.co.th/guides/ltr-visa-thailand-for-spouses-and-dependents — Thai Visa Centre, LTR dependent guide advertising US$25,000 insurance coverage and quarterly reporting.
