@@ -319,6 +319,42 @@ On March 22, 2026, a discussion on Reddit's r/digitalnomad questioned Thai Visa 
 
 In another exchange, a commenter accused the agency of blocking them on LINE after questions about its Thailand Privilege Visa services. Thai Visa Centre disputed the complaint and warned that the accusations could constitute defamation. A separate commenter alleged that the agency had publicly disclosed their real name in a reply subsequently removed by Reddit moderators.[^16]
 
+## June 2026 Review Award Uses Incorrect Corporate Credentials
+
+In June 2026, the privately operated website Thai Visa Reviews named Thai Visa Centre its **Agency of the Month**, presenting the business as an exceptional immigration-services provider.[^75]
+
+The directory's agency profile displays a 98% UserScore, favorable customer ratings, and badges identifying Thai Visa Centre as an authorized Thailand Privilege agent and certified LTR visa agency.
+
+However, its published corporate credentials contain a significant error.
+
+### Registration Belongs to Another Company
+
+Thai Visa Reviews identifies Thai Visa Centre with registration number **0205562022140** and registered capital of 5 million baht.[^76]
+
+That registration belongs to **THAIVISACENTER (THAILAND) COMPANY LIMITED**, incorporated in Chonburi on June 17, 2019.[^77]
+
+The company identified elsewhere in this investigation in connection with TVC's Bang Na operation is **TVC. VISA AGENT CO., LTD.**, registration number **0115563017485**, incorporated in Samut Prakan on August 18, 2020, with registered capital of 6 million baht.[^78]
+
+**The directory combines the business identity and premises associated with one company with the registration credentials of another.**
+
+### Credibility of the Award
+
+This is particularly relevant because Thai Visa Reviews claims to verify business registrations and professional credentials before evaluating immigration agencies.
+
+Nevertheless, the incorrect registration accompanies favorable accreditation badges, a high credibility score, and a formal promotional award.
+
+The directory does not explain how it reconciled the conflicting corporate records.
+
+**An award presented as evidence of independent professional evaluation is less credible when the awarding website has not correctly identified the company receiving it.**
+
+The available evidence does not establish that Thai Visa Centre operates the directory, supplied the incorrect registration, or influenced the award decision.
+
+Those relationships remain unverified.
+
+Nevertheless, the case illustrates how inaccurate corporate credentials and unsupported accreditation claims can be repeated through ostensibly independent reputation platforms.
+
+The directory's award criteria, corporate discrepancies, and review methodology are examined in the [`thaivisareviews.com`](../domains/thaivisareviews.com.md) investigation.
+
 ## 2022–2026 Acquisition and Management of Visa Advice Communities
 
 On March 17, 2022, a former administrator of the established **Thai Visa Advice** Facebook group publicly announced that the community had been acquired by [Thai Visa Centre](thai-visa-centre.md). The administrator, Tod Daniels, explained that he had not founded the group and anticipated a transition under its new operator. A separate discussion published the same day described the group as having been sold to the commercial visa agency, raising concerns among participants about whether immigration advice would remain independent.[^53][^54]
@@ -583,3 +619,10 @@ It establishes that Thai Visa Centre actively recruits commission-earning referr
 [^73]: https://www.whoxy.com/whois/thim.in.th — Historical THNIC WHOIS record identifying AGENTS CO., LTD. and May 29, 2026 registration.
 
 [^74]: https://thim.in.th/ — Privately operated THIM information website linking to AGENTS' TDAC submission service.
+[^75]: https://thaivisareviews.com/agency/thai-visa-center — Thai Visa Reviews, Thai Visa Centre profile and June 2026 award.
+
+[^76]: https://thaivisareviews.com/agency/thai-visa-center — Published corporate information, registration number, accreditation badges, and UserScore.
+
+[^77]: https://www.dataforthai.com/company/0205562022140/ — Corporate record for THAIVISACENTER (THAILAND) COMPANY LIMITED.
+
+[^78]: https://www.dataforthai.com/company/0115563017485/ — Corporate record for TVC. VISA AGENT CO., LTD.
