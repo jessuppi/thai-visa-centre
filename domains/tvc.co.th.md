@@ -2588,6 +2588,58 @@ Finally, it should explain the conflicting terminology and unrelated divorce mat
 
 **The central finding is not that every paper-based procedure disappeared in October 2025. It is that Thai Visa Centre continues presenting incomplete and internally inconsistent work-permit guidance while advertising professional assistance and claiming to have reviewed the material after a major government reform.**
 
+### Work-Permit Guidance Omits Reduced Capital Requirements for Thai Spouses
+
+Thai Visa Centre's guide *Thailand Work Permit: Requirements, Process, and Renewals*, marked reviewed June 2026, identifies 2 million baht in paid-up capital as the usual employer requirement for hiring a foreign worker.[^148]
+
+Its separate *Thailand Work Permit Basics* guide repeats the 2-million-baht-per-foreigner calculation while acknowledging that marriage to a Thai citizen may justify special consideration.[^150]
+
+However, neither guide clearly explains an important financial concession expressly recognized in official government work-permit criteria.
+
+#### Government Guidance Reduces Capital Requirements by Half
+
+The Bangkok Metropolitan Administration's published work-permit guidance identifies the following employer-capital requirements:
+
+| Employer category | Standard | Qualifying Thai spouse |
+|---|---:|---:|
+| Thai-registered company | ฿2,000,000 | ฿1,000,000 |
+| Overseas-registered employer operating in Thailand | ฿3,000,000 | ฿1,500,000 |
+
+The government expressly provides that foreigners legally married to Thai nationals, holding a marriage certificate, and cohabiting with their spouse qualify for the 50% capital reduction.[^233]
+
+This is a defined concession in the published work-permit criteria, not merely an unspecified discretionary exception.
+
+Other employment, documentary, and immigration requirements remain applicable.
+
+**TVC advertises the full capital requirement without explaining the reduced threshold potentially available to its marriage-visa customers.**
+
+#### Work-Permit and Immigration-Extension Rules Are Different
+
+TVC's work-permit guide also describes four Thai employees per foreign worker as a standard work-permit requirement.[^148]
+
+However, the government's published immigration guidance identifies the 4:1 ratio in its separate criteria for extending permission to stay on employment grounds.[^234]
+
+The distinction matters:
+
+- The Department of Employment assesses work-permit eligibility, including applicable employer-capital concessions.
+- Immigration separately assesses whether a foreign worker qualifies for an extension of stay.
+- Foreign spouses extending their stay on marriage grounds may follow different immigration requirements from applicants extending on employment grounds.
+
+The marriage-based reduction in work-permit capital does not automatically waive the 4:1 staffing test where that test applies to an employment-based immigration extension.
+
+**These are related but legally distinct decisions, and TVC's guidance does not adequately separate them.**
+
+#### Consequences for Customers
+
+Incorrectly assuming that every foreign worker requires 2 million baht in employer capital could discourage eligible spouses from applying or lead businesses to arrange unnecessary additional capitalization.
+
+Confusing work-permit approval with employment-based extension requirements can also produce inaccurate assessments of staffing obligations.
+
+The available evidence does not establish that TVC has demanded excess capital from customers or incorrectly processed work permits.
+
+Nevertheless, its published guidance omits a substantial financial concession while promoting professional work-permit and marriage-visa assistance.
+
+TVC should identify the reduced capital thresholds for qualifying foreign spouses and distinguish Department of Employment requirements from Immigration Bureau extension criteria.
 
 ## Permanent-Residency Guides Misstate Application Dates and Filing Procedures
 
@@ -4070,3 +4122,7 @@ TVC should remove nominee arrangements from its list of standard company structu
 [^231]: https://chachoengsao.imm.police.go.th/wp-content/uploads/2024/02/5-Non-Quota-Immigrant-Visa.pdf — Immigration Bureau, *Public Handbook: Application for Non-Quota Immigrant Visa*, identifying TM22, required supporting documents, application procedure, and fees.
 
 [^232]: https://www.samutprakanimmigration.go.th/immigration-fees/ — Samut Prakan Immigration, official immigration fee schedule distinguishing residence-certificate endorsements, Non-Quota Immigrant Visas, and ordinary re-entry permits.
+
+[^233]: https://iao.bangkok.go.th/storage/bma-portal/final%20work%20permit.pdf — Bangkok Metropolitan Administration, *Work Permit*, page 7, official work-permit issuance criteria specifying the 50% employer-capital reduction for qualifying foreigners married to Thai nationals.
+
+[^234]: https://www.thailand.go.th/public/useful-information-detail/001_01_079 — Thai government, *Application to Stay in Thailand for Business*, explaining the four-Thai-employees-per-foreigner ratio as part of employment-based immigration extension requirements, with specified exceptions.
