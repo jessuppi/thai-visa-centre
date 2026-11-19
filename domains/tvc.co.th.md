@@ -3531,6 +3531,54 @@ Nevertheless, its published financial guidance obscures when government payment 
 
 TVC should distinguish free BOI qualification processing from paid visa issuance, identify the applicable overseas fee variations, and explain which payments are genuinely at risk if an application fails.
 
+### LTR Dependent Expansion Advertised Despite Unresolved Immigration Rules
+
+Thai Visa Centre's guide *LTR Visa Thailand Eases Eligibility Requirements*, describing the February 2025 reforms, tells prospective customers that parents and other legal dependents can now obtain LTR visas without a numerical limit.[^216]
+
+It presents these changes as effective from February 4, 2025, and instructs families to submit applications under the expanded rules.
+
+However, the BOI's current official LTR website continues publishing narrower dependent-visa requirements, creating a significant discrepancy between TVC's assurances and the government's operational guidance.[^217]
+
+#### BOI Reform Required Separate Ministry of Interior Action
+
+On January 13, 2025, Thailand's Cabinet approved expanding LTR dependent eligibility to include parents and other legal dependents while removing the four-person limit.
+
+The BOI announced the proposed expansion but explicitly stated that implementation depended on both its updated eligibility announcement and a separate Ministry of Interior announcement addressing dependent rights.[^218]
+
+BOI Announcement Por. 3/2568, effective February 4, 2025, subsequently incorporated parents and legal dependents into its eligibility criteria.[^198]
+
+However, the existing Ministry of Interior announcement governing LTR permission to stay limits dependents to legal spouses and children under 20, with a maximum of four accompanying persons.[^219]
+
+The BOI's current public eligibility page still reproduces those restrictions.[^217]
+
+**TVC therefore presents the expanded criteria as fully operational without explaining the discrepancy between BOI qualification rules and the published immigration-stay requirements.**
+
+#### Thai Visa Centre's Family Guide Contradicts Its Reform Announcement
+
+TVC's separate *LTR Visa Thailand for Spouses and Dependents* guide provides substantially different advice.[^220]
+
+It states that parents and other relatives generally do not qualify under standard dependent rules unless the policy explicitly expands, advising customers to confirm eligibility with the BOI.
+
+This directly conflicts with its 2025 reforms guide, which states that parents and other legal dependents can already apply without a fixed limit.[^216]
+
+The two publications therefore differ on a fundamental question: whether expanded family eligibility is an established application entitlement or a policy change requiring further confirmation.
+
+#### Consequences for Families
+
+The discrepancy could affect applicants intending to relocate with elderly parents, legally dependent relatives, or more than four family members.
+
+Families may incur costs for translations, insurance, supporting documentation, professional services, and travel planning before discovering that the relevant immigration authorities apply narrower dependent rules.
+
+The evidence does not establish that TVC has submitted unsuccessful applications under the expanded categories or collected fees from affected families.
+
+It also does not conclusively establish that the Ministry of Interior has never issued a subsequent implementing measure.
+
+However, the official BOI website continues displaying the older restrictions, and its published regulatory materials do not reconcile those restrictions with the expanded 2025 qualifications.
+
+TVC should identify the operative Ministry of Interior authority permitting expanded dependent stays, if one exists, and distinguish approved BOI eligibility changes from immigration permissions actually available to applicants.
+
+Until that discrepancy is resolved, advertising unrestricted family eligibility as an established entitlement is potentially misleading.
+
 ## Citizenship Guidance Misrepresents Permanent Residency Requirements for Foreign Spouses
 
 Thai Visa Centre's FAQ *Do I Get Thai Nationality After Marriage?*, marked reviewed June 2026, presents permanent residency as a necessary stage before citizenship for foreign spouses.[^201]
@@ -3836,3 +3884,13 @@ TVC should distinguish ordinary naturalization from nationality acquisition unde
 [^214]: https://surat.boi.go.th/public/upload/center_6/2567/100267/Single%20Window%20for%20Visa%20and%20Work%20Permit.pdf — Thailand Board of Investment, Single Window for Visas and Work Permit guidance, pages 40–41, identifying Non-O (Thai Spouse) as an eligible category subject to additional conditions.
 
 [^215]: https://tvc.co.th/visas/thailand-marriage-visa — Thai Visa Centre, marriage-visa service page, confirming work-permit eligibility for qualifying Non-O marriage-visa holders.
+
+[^216]: https://tvc.co.th/guides/ltr-visa-thailand-eases-eligibility-requirements — Thai Visa Centre, 2025 LTR reform guide, claiming that parents and legal dependents can now apply without numerical restrictions.
+
+[^217]: https://ltr.boi.go.th/ — Thailand Board of Investment, official LTR program website, continuing to publish spouse-and-children eligibility and a four-dependent maximum.
+
+[^218]: https://www.boi.go.th/index.php?_module=news&from_page=press_releases&language=en&page=press_releases_detail&topic_id=136393 — BOI announcement of the January 2025 reforms, specifying the additional Ministry of Interior announcement required for expanded dependent rights.
+
+[^219]: https://ltr.boi.go.th/documents/Announcement%20of%20Ministry%20of%20Interior%20Affairs%20(TH).pdf — Ministry of Interior announcement, Royal Gazette, June 2, 2022, Clause 1(2), limiting LTR dependents to spouses and qualifying children, with a maximum of four.
+
+[^220]: https://tvc.co.th/guides/ltr-visa-thailand-for-spouses-and-dependents — Thai Visa Centre, separate dependent-visa guide advising verification of expanded eligibility and warning that parents generally do not qualify under standard rules.
