@@ -4251,6 +4251,94 @@ Nevertheless, **its June 2026 guide repeats a superseded interpretation of forei
 
 TVC should remove the same-year limitation, explain Orders P.161/2566 and P.162/2566, distinguish pre-2024 income from later earnings, and clarify that the tax treatment depends on residence status in the year the income arises and the applicable remittance rules.
 
+## Corporate Compliance Guides Misstate Mandatory Audits and Tax Deadlines
+
+Thai Visa Centre's guides *Accounting and Tax Compliance in Thailand* and *Corporate Tax in Thailand*, both marked reviewed June 2026, contain incorrect instructions concerning mandatory audits, corporate tax prepayments, and social-security contributions.[^266][^267]
+
+These discrepancies are significant because TVC advertises company-registration coordination, work-permit assistance, and referrals to accounting professionals.
+
+### Thai Limited Companies Are Not Exempt From Annual Audits Based on Size
+
+TVC's accounting guide answers its FAQ about mandatory audits by stating that the requirement depends on company size and that many startups are initially exempt.[^266]
+
+Its corporate-tax guide similarly advises:
+
+> Companies meeting size thresholds must appoint an auditor
+
+It subsequently suggests that small companies may follow simpler requirements.[^267]
+
+**This is incorrect for ordinary Thai private limited companies.**
+
+The Board of Investment's official accounting guidance requires limited companies to prepare annual financial statements audited by an authorized auditor.[^268]
+
+The relevant small-business exemption applies to qualifying Thai registered partnerships meeting specified capital, revenue, and asset thresholds.
+
+It does not establish a general audit exemption for newly incorporated or small private limited companies.
+
+Consequently, a newly registered limited company cannot dispense with its annual statutory audit merely because it has few employees, modest assets, limited revenue, or has not yet begun significant operations.
+
+### TVC Also Misstates the Annual Filing Schedule
+
+TVC's accounting guide combines the statutory audit, corporate income tax return, and Department of Business Development (DBD) financial-statement submission under a single deadline of 150 days after the accounting year ends.[^266]
+
+However, the Board of Investment identifies separate obligations for private limited companies:[^269]
+
+1. Arrange the annual shareholders' meeting to approve audited financial statements within four months after the financial year ends.
+2. Submit the approved audited statements and supporting documents to the commercial registrar within one month after that meeting.
+3. File the annual corporate income tax return, Form PND.50, with the Revenue Department within 150 days after the accounting year ends.[^270]
+
+These deadlines are related but should not be presented as identical.
+
+The DBD deadline follows shareholder approval, whereas PND.50 has its own statutory filing period.
+
+### PND.51 Is Not Payable in Two Midyear Installments
+
+TVC's accounting guide describes PND.51 corporate income tax prepayments as occurring twice yearly.[^266]
+
+Its corporate-tax guide similarly describes two midyear installments based on estimated profits, normally due around months six and eleven.[^267]
+
+Thailand's Revenue Department prescribes a different arrangement.
+
+For companies subject to the ordinary net-profit taxation system, Form PND.51 is a **single half-year prepayment** calculated using the applicable estimate of annual taxable profits.[^270]
+
+The filing and payment are generally due within two months after the first six months of the accounting period.
+
+The prepayment is subsequently credited against the company's annual tax liability when it files PND.50.
+
+**There is no standard second PND.51 installment in the eleventh month.**
+
+This distinction matters for cash-flow forecasting and scheduling corporate tax payments.
+
+### Social-Security Payments Follow a Separate Deadline
+
+TVC's accounting FAQ states that withholding tax, VAT, and social-security contributions are due by the seventh day of the following month, or the fifteenth when filed electronically.[^266]
+
+However, Thailand's Social Security Office operates under a separate statutory contribution framework.
+
+Official Board of Investment guidance confirms that employers must remit monthly employer and employee social-security contributions by the fifteenth day of the following month.[^271]
+
+The fifteenth is the ordinary contribution deadline, not merely an electronic-filing extension from the seventh.
+
+Different Revenue Department forms also have different filing schedules, so combining all three obligations under one generalized deadline is misleading.
+
+### Consequences for Foreign Business Owners
+
+Incorrect compliance guidance could expose foreign entrepreneurs to avoidable problems.
+
+Founders relying on the supposed small-company audit exemption could fail to engage an auditor, obtain shareholder approval of audited accounts, or submit the required financial statements.
+
+Incorrect PND.51 schedules could distort corporate cash-flow planning, while unclear contribution deadlines could complicate payroll administration.
+
+These issues are especially relevant to foreigners maintaining Thai companies as employers for Non-Immigrant B visas and work permits.
+
+The available evidence does not establish that TVC has instructed specific customers to skip mandatory audits, caused late filings, or prepared incorrect corporate tax returns.
+
+TVC also states that independent accountants handle actual tax filings and financial statements.
+
+Nevertheless, **its published corporate-compliance guidance gives incorrect explanations of several fundamental obligations while advertising professional coordination for foreign business owners**.
+
+TVC should remove the supposed general startup audit exemption, distinguish limited companies from qualifying registered partnerships, correct the PND.51 schedule, and separate DBD, Revenue Department, and Social Security Office filing deadlines.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -4604,3 +4692,15 @@ TVC should remove the same-year limitation, explain Orders P.161/2566 and P.162/
 [^264]: https://www.rd.go.th/fileadmin/user_upload/lorkhor/newspr/2024/FOREIGNERS_PAY_TAX2024.pdf — Thailand Revenue Department, *Foreign-Sourced Income*, official explanation identifying later-year remittances, tax-residence requirements, and the pre-2024 exclusion.
 
 [^265]: https://www.pwc.com/th/en/tax/assets/thai-tax/2026-2027/thai-tax-booklet-2026-27.pdf — PwC Thailand, *Thai Tax 2026/27 Booklet*, personal income tax section, confirming the continuing application of Orders P.161/2566 and P.162/2566.
+
+[^266]: https://tvc.co.th/guides/thailand-accounting — Thai Visa Centre, *Accounting and Tax Compliance in Thailand*, reviewed June 2026, describing startup audit exemptions, twice-yearly PND.51 prepayments, and combined monthly filing deadlines.
+
+[^267]: https://tvc.co.th/guides/corporate-tax-in-thailand — Thai Visa Centre, *Corporate Tax in Thailand*, reviewed June 2026, describing size-based audit requirements and two midyear corporate tax installments.
+
+[^268]: https://www.boi.go.th/index.php?language=en&page=accounting_and_reporting_requirements_05_auditing_requirements_and_standards — Thailand Board of Investment, *Auditing Requirements and Standards*, distinguishing mandatory audits for limited companies from exemptions for qualifying registered partnerships.
+
+[^269]: https://www.boi.go.th/index.php?language=en&page=accounting_and_reporting_requirements_03_reporting_requirements — Thailand Board of Investment, *Reporting Requirements*, explaining shareholder approval and DBD filing deadlines for private limited companies.
+
+[^270]: https://www.rd.go.th/english/6044.html — Thailand Revenue Department, *Corporate Income Tax*, explaining the annual PND.50 return and single half-year PND.51 prepayment.
+
+[^271]: https://osos.boi.go.th/en/how-to/150/Paying-Taxes/ — Thailand Board of Investment, One Start One Stop Investment Center, *Social Security Contributions*, confirming the fifteenth-day monthly contribution deadline.
