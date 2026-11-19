@@ -3159,6 +3159,28 @@ It establishes that the agency's commercial guidance excludes a legitimate gover
 Thai Visa Centre should correct its application instructions, distinguish overseas visa issuance from in-country status changes, and explain the eligibility requirements for both routes.
 
 
+### Changing Employers Does Not Always Require Leaving Thailand
+
+Thai Visa Centre's business-visa page also provides incorrect blanket instructions for foreigners changing employers.
+
+Its FAQ states that employees must cancel their existing work permit and visa, **exit Thailand**, and apply for a new Non-Immigrant B visa through an overseas embassy or consulate.[^166]
+
+However, a June 2026 guide published by the Australian-Thai Chamber of Commerce explains that qualifying employees may complete an employer transition entirely within Thailand.[^282]
+
+The process can involve cancelling the previous employment-based permission, obtaining a temporary period to complete new work-permit arrangements, and coordinating immigration documentation with the incoming employer.
+
+The Chamber describes a potential **21-day transition period**, subject to conditions including the former employer's registration in Bangkok. Other applicants may still need to leave Thailand and obtain new visas overseas.
+
+TVC's own employer-change FAQ separately describes work-permit cancellation, new employer sponsorship, and immigration updates without explaining the supposedly mandatory overseas departure.[^283]
+
+The distinction has significant financial and legal consequences. Employees following TVC's categorical advice could incur unnecessary international travel, accommodation, and visa expenses.
+
+Conversely, attempting an in-country transition without proper coordination could immediately jeopardize immigration status. Thailand's official guidance confirms that employment-based permission may terminate when the underlying employment ends.[^284]
+
+**Thai Visa Centre presents overseas departure as mandatory when established procedures permit qualifying employees to change employers within Thailand.**
+
+The agency should distinguish situations requiring departure from those eligible for coordinated domestic transfers rather than recommending unnecessary international travel.
+
 ## Non-Immigrant Visa Page Incorrectly Requires Conversion to Non-B for Employment
 
 Thai Visa Centre's commercial *Thailand 90-Day Non-Immigrant Visa* page incorrectly tells applicants that obtaining a Non-Immigrant B visa is mandatory before working in Thailand.[^212]
@@ -4799,3 +4821,8 @@ TVC should remove the supposed general startup audit exemption, distinguish limi
 [^280]: https://tvc.co.th/faq/thai-visa-on-a-one-way-ticket — Thai Visa Centre, one-way-ticket FAQ repeating land-border restrictions.
 
 [^281]: https://london.thaiembassy.org/en/page/exemp-visa — Royal Thai Embassy, London, visa-exemption requirements effective September 15, 2026, including land-border entry limits.
+[^282]: https://www.austchamthailand.com/resources/news/changing-employers-thailand-non-b-visa-transfer-guide — Australian-Thai Chamber of Commerce, June 24, 2026, employer-transfer procedures.
+
+[^283]: https://tvc.co.th/faq/changing-jobs-requires-a-new-work-permit — Thai Visa Centre, employer-change FAQ.
+
+[^284]: https://thailand.go.th/public/useful-information-detail/001-01-045 — Thai government, employer-change and employment-termination procedures.
