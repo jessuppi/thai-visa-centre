@@ -4026,6 +4026,94 @@ Nevertheless, its published instructions omit a significant statutory distinctio
 
 TVC should distinguish Section 19(1) permanent-resident purchases from Section 19(5) remittance-based purchases, explain the different Land Department documentation requirements, and correct its categorical statements that every foreign condominium buyer must transfer funds from overseas.
 
+## U.S. Fiancé Visa Cost Guide Confuses K-1 and Immigrant Spouse Fees
+
+Thai Visa Centre's FAQ *US Spouse Visa Cost: CR-1, IR-1, and K-1 Fees*, marked reviewed June 2026, presents a combined breakdown of U.S. government charges for couples pursuing different immigration pathways.[^251]
+
+The guide identifies two routes:
+
+- K-1 fiancé visas for couples intending to marry in the United States.
+- CR-1/IR-1 immigrant spouse visas for couples already legally married.
+
+However, its consolidated fee table lists charges without adequately distinguishing which apply to each route.
+
+**The resulting guidance could lead applicants to budget for the wrong government fees or overlook charges actually required for their visa category.**
+
+### K-1 Applicants Do Not Pay the Standard NVC Immigrant-Visa Fees
+
+TVC's government-fee table lists:
+
+| Fee | TVC's quoted amount |
+|---|---:|
+| Form I-129F petition | $675 |
+| NVC immigrant-visa processing | $325 |
+| NVC Affidavit of Support processing | $120 |
+
+The FAQ describes the $325 fee as covering Form DS-260 processing and the $120 fee as covering Form I-864 financial-document review.[^251]
+
+These NVC fees relate to immigrant-visa processing, including applicable CR-1/IR-1 cases.
+
+**K-1 fiancé applicants follow a different consular process.**
+
+The U.S. Department of State confirms that K-1 applicants complete Form DS-160 rather than the immigrant-visa Form DS-260.[^252]
+
+They pay the K-category nonimmigrant visa application fee, currently $265 per applicant.[^253]
+
+The National Visa Center still assigns and forwards approved K-1 petitions to the appropriate embassy. However, this administrative role does not make the ordinary NVC immigrant-visa processing and Affidavit of Support fees applicable to K-1 cases.
+
+TVC's fee breakdown fails to clearly explain that distinction.
+
+### Its Fee Table Omits the $265 K-1 Consular Charge
+
+The Department of State's published fee schedule expressly identifies $265 for K-category visa applications.[^253]
+
+That charge is separate from the initial USCIS Form I-129F petition fee.
+
+TVC identifies the I-129F fee but omits the $265 K-1 consular charge from its table of typical government fees.
+
+It instead directs attention to the $325 immigrant-visa processing fee and $120 NVC Affidavit of Support fee.
+
+**The problem is not merely a missing fee: the table places charges from different visa procedures together without a clear indication of which customers must pay them.**
+
+### Financial-Support Forms Apply at Different Stages
+
+The same confusion affects the financial-support requirements.
+
+The Department of State explains that K-1 applicants may be asked to provide Form I-134 during consular processing.[^252]
+
+Form I-864 ordinarily becomes relevant later, when the K-1 beneficiary marries the petitioner and applies for adjustment of status in the United States.
+
+By contrast, qualifying CR-1/IR-1 immigrant-visa cases use Form I-864 during the immigrant-visa process and may require payment of the NVC Affidavit of Support fee.[^254]
+
+TVC correctly acknowledges that K-1 beneficiaries ordinarily need adjustment of status after marriage.
+
+However, it does not adequately separate the financial-support documentation and fees applicable before entry from those arising after marriage.
+
+### I-130 Online Filing Is Also Cheaper Than TVC States
+
+TVC quotes $675 as the Form I-130 filing fee without distinguishing paper and online submissions.[^251]
+
+USCIS's official fee schedule identifies:
+
+- **Paper filing:** $675.
+- **Online filing:** $625.[^255]
+
+The $50 difference is relatively modest, but it illustrates the same problem: the FAQ presents a single government charge where the official schedule provides different options.
+
+### Relevance to TVC's Commercial Services
+
+Thai Visa Centre advertises document preparation, marriage-registration coordination, translations, and U.S. visa assistance for Thai-American couples.
+
+Choosing between K-1 and CR-1/IR-1 involves significant differences in costs, processing stages, and the applicant's immigration status after arrival.
+
+Customers could misunderstand which fees they must pay, budget for inapplicable NVC charges, or overlook mandatory consular expenses.
+
+The available evidence does not establish that TVC has charged clients these government fees incorrectly or deliberately misrepresented costs during private consultations.
+
+Nevertheless, **its published fee comparison conflates distinct U.S. visa procedures while presenting itself as current guidance reviewed in June 2026**.
+
+TVC should publish separate, itemized government-fee tables for K-1 and CR-1/IR-1 applicants, identify the $265 K-category consular fee, distinguish I-134 from I-864 requirements, and update its I-130 filing options.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -4349,3 +4437,13 @@ TVC should distinguish Section 19(1) permanent-resident purchases from Section 1
 [^249]: https://library.siam-legal.com/thai-law/condominium-act-ownership-sections-19-1-19-11/ — Condominium Act B.E. 2522, Sections 19 and 19 ter, English reproduction distinguishing permanent-resident eligibility from remittance-based eligibility.
 
 [^250]: https://tvc.co.th/guides/property-thailand-property-legal-services — Thai Visa Centre, *Thailand Property Legal Services*, identifying overseas remittances and FET compliance as standard requirements in its advertised property-assistance workflow.
+
+[^251]: https://tvc.co.th/faq/us-spouse-visa-cost — Thai Visa Centre, *US Spouse Visa Cost: CR-1, IR-1, and K-1 Fees*, reviewed June 2026, combining fiancé and immigrant spouse visa charges in one fee breakdown.
+
+[^252]: https://travel.state.gov/content/travel/en/us-visas/immigrate/family-immigration/nonimmigrant-visa-for-a-fiance-k-1.html — U.S. Department of State, *Nonimmigrant Visa for a Fiancé(e) (K-1)*, explaining DS-160, NVC petition forwarding, Form I-134, and post-marriage adjustment of status.
+
+[^253]: https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html — U.S. Department of State, *Fees for Visa Services*, identifying the $265 K-category nonimmigrant visa application fee.
+
+[^254]: https://travel.state.gov/content/travel/en/us-visas/immigrate/the-immigrant-visa-process/step-1-submit-a-petition/step-3-pay-fees.html — U.S. Department of State, *Step 3: Pay Fees*, explaining the immigrant-visa processing and Affidavit of Support fees payable through the National Visa Center.
+
+[^255]: https://www.uscis.gov/g-1055 — U.S. Citizenship and Immigration Services, *Form G-1055, Fee Schedule*, identifying $675 paper and $625 online filing fees for Form I-130.
