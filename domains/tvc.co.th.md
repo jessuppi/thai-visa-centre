@@ -3835,6 +3835,73 @@ Nevertheless, **its published business-formation guidance presents an explicitly
 
 TVC should remove nominee arrangements from its list of standard company structures, explain the prohibition under Section 36, and reconcile its business guidance with the warnings already published elsewhere on its website.
 
+## Estate-Planning Guides Invent Mandatory Inheritance Shares
+
+Thai Visa Centre publishes incorrect advice about whether Thai law permits people to disinherit children, parents, and other statutory heirs.
+
+Its guide *Probate and Succession in Thailand*, marked reviewed June 2026, claims that descendants have protected minimum inheritance shares.[^235]
+
+The guide's FAQ states:
+
+> Certain descendants entitled to minimum share even if will says otherwise.
+
+It further advises readers that disinheritance is permitted only partially because of supposed forced-heirship restrictions.
+
+**These claims conflict with Thailand's Civil and Commercial Code, which does not generally impose mandatory reserved inheritance shares.**
+
+### Section 1608 Expressly Permits Disinheritance
+
+Section 1608 of the Civil and Commercial Code B.E. 2468 permits a person to disinherit statutory heirs through:
+
+1. An express declaration in a will.
+2. A written declaration deposited with the competent official.
+
+The section also establishes that statutory heirs excluded from a will disposing of the entire estate are deemed disinherited, even without individual exclusion clauses.[^238]
+
+Thailand's Department of Provincial Administration confirms these principles in its 2026 will-writing handbook, citing Supreme Court decisions concerning complete and partial testamentary dispositions.[^239]
+
+This differs fundamentally from forced-heirship systems that reserve fixed portions of an estate for children or other relatives regardless of testamentary instructions.
+
+### The Same Error Appears Across Multiple Guides
+
+TVC's *Thai Probate and Inheritance Law* guide claims that valid wills override intestate succession only partially because of forced-heirship restrictions.[^236]
+
+Its *Foreigner Making a Will in Thailand* guide goes further, stating that Thai law reserves mandatory inheritance shares for spouses, children, and parents.
+
+It explicitly warns that protected heirs cannot be fully disinherited.[^237]
+
+These are not isolated references to ordinary intestate succession. They describe supposed restrictions on legally valid wills.
+
+The latter guide also contradicts itself by separately acknowledging that statutory heir rules apply when a person dies intestate.
+
+### Marital Property Is Not Forced Heirship
+
+There are important qualifications that TVC's guidance fails to distinguish.
+
+Under Section 1625, a surviving spouse's ownership interest in marital property must be determined before the deceased spouse's estate is distributed.
+
+Sections 1620 and 1629–1635 establish statutory inheritance rights where there is no effective will, or where assets remain undisposed of by a will.[^240]
+
+Those provisions do not establish a universal reserved inheritance portion that prevents a valid will from excluding particular relatives.
+
+Wills must still satisfy legal formalities, and questions involving marital property, creditors, invalid testamentary provisions, or cross-border succession may require separate analysis.
+
+**These genuine legal restrictions should not be confused with nonexistent mandatory inheritance shares for every spouse, child, or parent.**
+
+### Consequences for Customers
+
+TVC promotes estate-planning coordination, probate assistance referrals, and property-related legal services to foreigners holding Thai assets.
+
+Its incorrect guidance could discourage people from making lawful testamentary arrangements or cause families to misunderstand their actual inheritance rights.
+
+The consequences could involve significant assets, including condominiums, bank accounts, business interests, and marital property.
+
+The available evidence does not establish that TVC drafted invalid wills, caused inheritance disputes, or obtained payments through these incorrect statements.
+
+Nevertheless, the company repeatedly describes a nonexistent general forced-heirship restriction as an established feature of Thai succession law.
+
+TVC should correct its probate and will-writing guides, distinguish intestate inheritance from testamentary freedom, and accurately explain the separate treatment of marital property and legally ineffective wills.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -4126,3 +4193,15 @@ TVC should remove nominee arrangements from its list of standard company structu
 [^233]: https://iao.bangkok.go.th/storage/bma-portal/final%20work%20permit.pdf — Bangkok Metropolitan Administration, *Work Permit*, page 7, official work-permit issuance criteria specifying the 50% employer-capital reduction for qualifying foreigners married to Thai nationals.
 
 [^234]: https://www.thailand.go.th/public/useful-information-detail/001_01_079 — Thai government, *Application to Stay in Thailand for Business*, explaining the four-Thai-employees-per-foreigner ratio as part of employment-based immigration extension requirements, with specified exceptions.
+
+[^235]: https://tvc.co.th/guides/legal-services-probate-and-succession-thailand — Thai Visa Centre, *Probate and Succession in Thailand*, June 2026 review, repeatedly claiming mandatory shares and forced-heirship restrictions.
+
+[^236]: https://tvc.co.th/guides/property-thai-probate-and-inheritance-law — Thai Visa Centre, *Thai Probate and Inheritance Law*, claiming that forced heirship limits valid testamentary dispositions.
+
+[^237]: https://tvc.co.th/guides/property-foreigner-making-a-will-in-thailand — Thai Visa Centre, *Foreigner Making a Will in Thailand*, claiming mandatory inheritance shares for spouses, children, and parents.
+
+[^238]: https://www.senate.go.th/view/386/News/Latest/182/TH-TH — Thai Senate, official explanation of will-making and Section 1608, including Supreme Court guidance recognizing disinheritance through a will disposing of the entire estate.
+
+[^239]: https://www.bora.dopa.go.th/storage/2026/03/คู่มือปฏิบัติงานพินัยกรรม-2569.pdf — Department of Provincial Administration, *Will-Writing Practice Handbook 2026*, pages 129–131, summarizing Supreme Court decisions concerning disinheritance under Section 1608.
+
+[^240]: https://www.thailandlawonline.com/thai-family-and-marriage-law/civil-law-on-succession-inheritance-heirs-and-wills — Civil and Commercial Code, Book VI, Sections 1620, 1625, and 1629–1635, distinguishing intestate inheritance, marital-property division, and statutory succession.
