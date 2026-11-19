@@ -4004,6 +4004,40 @@ Nevertheless, **its published business-formation guidance presents an explicitly
 
 TVC should remove nominee arrangements from its list of standard company structures, explain the prohibition under Section 36, and reconcile its business guidance with the warnings already published elsewhere on its website.
 
+## Company Registration Guides Misstate Shareholder Requirements
+
+Thai Visa Centre's *Thailand Limited Company Registration* guide, marked reviewed June 2026, states that standard private limited companies require three shareholders. It also claims that one-person companies are possible under recent reforms.[^291]
+
+Both assertions conflict with Thailand's current company law.
+
+### The 2023 Amendment Reduced the Minimum to Two
+
+Section 1097 of Thailand's Civil and Commercial Code was amended effective **February 7, 2023**, reducing the minimum number of company promoters from three to two.[^292]
+
+The amendment eliminated the previous three-person requirement. However, it did not authorize ordinary single-shareholder limited companies.
+
+Under Section 1237, a company whose shareholders are reduced to one may face court-ordered dissolution.
+
+**Thai Visa Centre simultaneously overstates the minimum number of shareholders and advertises a one-person company structure that the current law does not generally permit.**
+
+### The Error Appears in Multiple Guides
+
+TVC's separate *Company Registration in Thailand* guide also claims that single-shareholder companies are possible in certain circumstances.[^293]
+
+Neither guide identifies an enacted legal provision establishing the supposed exception.
+
+Foreign ownership approval under the Foreign Business Act, BOI promotion, or treaty arrangements must be distinguished from the minimum number of shareholders required to incorporate an ordinary Thai private limited company.
+
+### Consequences for Entrepreneurs
+
+Foreign entrepreneurs relying on TVC's guidance could unnecessarily recruit a third shareholder or incorrectly assume that they can establish a limited company without any additional shareholder.
+
+Both mistakes can affect corporate ownership arrangements, registration costs, legal documentation, and subsequent visa or work-permit planning.
+
+**The discrepancy is especially concerning because TVC markets business-visa coordination and referrals to company-registration professionals while publishing incorrect incorporation requirements three years after the law changed.**
+
+The agency should correct both guides, identify the applicable Civil and Commercial Code provisions, and distinguish genuine single-owner business structures from private limited companies requiring multiple shareholders.
+
 ## Estate-Planning Guides Invent Mandatory Inheritance Shares
 
 Thai Visa Centre publishes incorrect advice about whether Thai law permits people to disinherit children, parents, and other statutory heirs.
@@ -4904,3 +4938,8 @@ TVC should remove the supposed general startup audit exemption, distinguish limi
 [^289]: https://dtv.in.th/ — DTV promotional website displaying Luca G.'s DTV testimonial.
 
 [^290]: https://ltr.in.th/ — LTR promotional website displaying the altered visa category.
+[^291]: https://tvc.co.th/guides/thailand-limited-company — Thai Visa Centre, limited company registration guide.
+
+[^292]: https://www.forvismazars.com/th/en/insights/doing-business-in-thailand/legal/amendments-to-provisions-of-the-ccc — Forvis Mazars, 2023 Civil and Commercial Code amendments concerning Sections 1097 and 1237.
+
+[^293]: https://tvc.co.th/guides/thailand-company — Thai Visa Centre, company registration guide repeating the single-shareholder claim.
