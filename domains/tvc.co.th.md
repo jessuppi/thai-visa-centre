@@ -3676,6 +3676,54 @@ Nevertheless, its published guidance fails to explain legally significant altern
 
 TVC should distinguish ordinary naturalization from nationality acquisition under Section 9 and the exemptions under Section 11, rather than presenting permanent residency as a standard compulsory step for foreign spouses.
 
+## Business-Formation Guide Presents Prohibited Nominee Shareholding as an Option
+
+Thai Visa Centre's guide *Types of Business in Thailand: FBA Lists and Foreign Ownership*, marked reviewed June 2026, identifies Thai-majority limited companies as a standard structure involving genuine Thai partners or nominee arrangements reviewed by corporate counsel.[^225]
+
+Its section on common mistakes separately warns against using nominee Thai shareholders **without documented control structures reviewed by corporate counsel**.
+
+These statements suggest that nominee arrangements can be acceptable when documented or reviewed by lawyers.
+
+However, Thailand's Foreign Business Act expressly prohibits nominee shareholding used to circumvent restrictions on foreign business ownership.
+
+### Foreign Business Act Section 36 Prohibits Nominee Arrangements
+
+Section 36 of the Foreign Business Act B.E. 2542 (1999) prohibits Thai nationals and qualifying legal entities from holding shares on behalf of foreigners to facilitate businesses that foreigners are not legally permitted to operate.[^226]
+
+The prohibition also covers arrangements disguising foreign participation behind purportedly Thai-owned businesses.
+
+Violations can result in imprisonment, substantial fines, and court orders terminating the prohibited arrangements.
+
+Legitimate Thai-majority companies with genuine Thai shareholders are permitted. The legal problem arises when Thai shareholders merely represent foreign beneficial owners to evade statutory restrictions.
+
+**Legal advice and shareholder documentation do not convert prohibited nominee arrangements into lawful ownership structures.**
+
+### TVC's Other Guides Explicitly Warn Against Nominees
+
+The inconsistency is particularly conspicuous because Thai Visa Centre correctly explains the prohibition elsewhere.
+
+Its *Doing Business in Thailand* guide identifies nominee Thai shareholders as illegal and high-risk under Thai law.[^227]
+
+Its separate property-ownership guide also warns that nominee companies used to conceal foreign land ownership are unlawful.[^228]
+
+These publications contradict the business-structures guide's presentation of lawyer-reviewed nominee arrangements as an available corporate structure.
+
+The company therefore publishes opposing explanations of a fundamental restriction under Thai business law.
+
+### Relevance to TVC's Commercial Services
+
+Thai Visa Centre advertises business-visa assistance, work-permit coordination, corporate-document preparation, and referrals to company-registration advisers.
+
+Foreign entrepreneurs relying on its guidance could misunderstand the distinction between genuine Thai-majority ownership and prohibited nominee arrangements.
+
+That misunderstanding could expose applicants to registration problems, licensing disputes, criminal penalties, and financial losses.
+
+The available evidence does not establish that TVC has created nominee companies, recommended unlawful arrangements to specific customers, or facilitated violations of the Foreign Business Act.
+
+Nevertheless, **its published business-formation guidance presents an explicitly prohibited ownership arrangement as though professional legal review could make it an acceptable option**.
+
+TVC should remove nominee arrangements from its list of standard company structures, explain the prohibition under Section 36, and reconcile its business guidance with the warnings already published elsewhere on its website.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -3947,3 +3995,11 @@ TVC should distinguish ordinary naturalization from nationality acquisition unde
 [^223]: https://tvc.co.th/dtv — Thai Visa Centre, DTV Visa VIP Services & Pricing, explicitly separating the government extension fee from private service charges.
 
 [^224]: https://tvc.co.th/guides/dtv-visa-thailand — Thai Visa Centre, *DTV Visa Thailand Requirements 2026*, identifying approximately 1,900 baht for in-country extensions.
+
+[^225]: https://tvc.co.th/guides/thailand-business-types-of-business-in-thailand — Thai Visa Centre, *Types of Business in Thailand: FBA Lists and Foreign Ownership*, reviewed June 2026, describing nominee arrangements reviewed by corporate counsel.
+
+[^226]: https://www.thailand.go.th/public/issue-focus-detail/006-003 — Thailand Government Public Relations Department, *The Use of Thais as Nominee Shareholders by Foreigners Is Strictly Prohibited*, explaining Section 36 of the Foreign Business Act and its penalties.
+
+[^227]: https://tvc.co.th/guides/business-in-thailand — Thai Visa Centre, *Doing Business in Thailand*, identifying nominee Thai shareholders as illegal and high-risk.
+
+[^228]: https://tvc.co.th/guides/property-buying-property-in-thailand — Thai Visa Centre, *Buying Property in Thailand*, warning against nominee structures and explaining restrictions on foreign ownership.
