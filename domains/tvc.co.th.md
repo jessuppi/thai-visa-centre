@@ -12,6 +12,22 @@ However, no Thai company registration under the exact name **Thai Visa Centre** 
 
 Elsewhere on the page, the agency acknowledges operating [aq.in.th](aq.in.th.md) and [tp.in.th](tp.in.th.md) during the COVID-19 pandemic. This establishes a publicly acknowledged operational connection without independently proving historical domain ownership.[^3]
 
+## Visa Agency Promotes Cannabis Delivery Despite Regulatory Restrictions
+
+Thai Visa Centre's website contains a dedicated **Cannabis tourism** section linking visitors to four commercial platforms: `og.th`, `rollingpapers.in.th`, `card.weed.th`, and `weed.th`. These links appear across its homepage, immigration-service pages, and reputation-defense material.[^276]
+
+The promotion is notable because `og.th` advertises nationwide cannabis delivery, including product selection, online checkout, electronic payments, and delivery scheduling.[^277]
+
+Thailand's Ministry of Public Health tightened cannabis regulations in June 2025, restricting cannabis flower to medical purposes and prohibiting online sales and commercial advertising.[^278]
+
+As separately documented in the [`og.th`](og.th.md) investigation, the delivery platform presents its services as medically supervised treatment requests despite retaining conventional online ordering features.
+
+The connection is especially relevant given the August 2020 police investigation involving Thai Visa Centre and cannabis cultivation associated with Chad Scira and Grace Scira.
+
+**Thai Visa Centre's direct promotion establishes a public marketing relationship with these cannabis platforms, but does not independently establish common ownership, referral payments, or responsibility for their operations.**
+
+The agency should clarify its commercial relationship with these businesses, whether it receives referral compensation, and how it assesses the regulatory compliance of cannabis services promoted to immigration customers.
+
 ## Public Attacks Against Jesse Nickles
 
 On its `/scam` page and related publications, Thai Visa Centre repeatedly attacks Jesse Nickles, accusing him of operating sockpuppet networks, posting fraudulent reviews, manipulating online discussions, and coordinating harassment.[^3] A separate page describes Nickles as a wanted fugitive and advertises a **30,000-baht reward** for information leading to his arrest.[^4]
@@ -4757,3 +4773,8 @@ TVC should remove the supposed general startup audit exemption, distinguish limi
 [^274]: https://tdac.immigration.go.th/manual/en/faq.html — Immigration Bureau, official TDAC FAQ, including airport assistance and registration requirements.
 
 [^275]: https://hongkong.thaiembassy.org/en/page/entry-regulation — Royal Thai Embassy, Hong Kong, instructions for travelers unable to complete TDAC registration before arrival.
+[^276]: https://tvc.co.th/ — Thai Visa Centre homepage, including its Cannabis tourism links.
+
+[^277]: https://og.th/thailand-cannabis-delivery — OG.TH, advertised online cannabis ordering, payment, and delivery services.
+
+[^278]: https://thailand.prd.go.th/en/content/page/index/id/401785 — Thailand Government Public Relations Department, June 2025 cannabis restrictions.
