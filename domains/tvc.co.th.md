@@ -2814,6 +2814,53 @@ However, **its commercial service pages provide incorrect or contradictory instr
 The company should correct both renewal checklists, distinguish TM47 reporting receipts from TM7 extension applications, and reconcile its marriage-visa deposit instructions with official immigration requirements.
 
 
+### Marriage-Visa Financial Checklists Ignore Different Spouse Categories
+
+Thai Visa Centre's commercial marriage-visa page presents a 400,000-baht Thai bank deposit or 40,000-baht monthly income as standard financial requirements for foreigners married to Thai nationals.[^209]
+
+Its separate *Thai Marriage Visa Requirements* FAQ, marked reviewed June 2026, similarly tells foreign spouses that approval depends on financial evidence in the applicant's own name.[^210]
+
+Neither checklist adequately distinguishes the different requirements for foreign husbands, foreign wives, and marriages between persons of diverse genders.
+
+**Thailand's Immigration Bureau expressly differentiates these cases.**
+
+#### Foreign Wives Are Not Subject to the Same Deposit Requirement
+
+Immigration Bureau Order 12/2568, Clause 2.18(6), applies the standard financial test specifically to a foreign husband married to a Thai woman.[^211]
+
+It requires qualifying monthly income, a bank deposit maintained for the prescribed period, or an accepted combination.
+
+The corresponding clause does not impose that same financial threshold on a foreign wife married to a Thai husband.
+
+Foreign wives must still satisfy the applicable immigration, marriage-registration, residence, and documentation requirements. Individual immigration offices may request additional supporting evidence.
+
+However, **TVC's generalized financial checklist presents a requirement applicable to foreign husbands as though it automatically applies to foreign wives.**
+
+#### Different Rules Apply to Gender-Diverse Marriages
+
+Clause 2.18(7) of the same Immigration Bureau order separately addresses marriages between persons of diverse genders.
+
+It permits the prescribed financial requirement to be satisfied by either spouse individually or by both spouses together.[^211]
+
+This distinction matters because TVC's FAQ emphasizes financial evidence held in the foreign applicant's own name.
+
+That instruction does not accurately reflect the alternative arrangements expressly permitted under the applicable category.
+
+#### Financial Consequences for Applicants
+
+Incorrectly applying the same financial test to every foreign spouse can affect decisions about:
+
+- Transferring or maintaining 400,000 baht in a Thai bank account.
+- Preparing income certifications and financial documentation.
+- Delaying an immigration application while arranging funds that may not be required.
+- Purchasing professional assistance based on an inaccurate assessment of eligibility.
+
+The available evidence does not establish that TVC has rejected eligible applicants, demanded unnecessary deposits, or collected fees because of these instructions.
+
+Nevertheless, its published checklists omit distinctions that directly affect the financial obligations of prospective customers.
+
+TVC should explain the separate requirements under Clauses 2.18(6) and 2.18(7), distinguish initial Non-Immigrant O visa applications from annual extensions of stay, and stop presenting the foreign-husband financial test as a universal requirement for every foreign spouse.
+
 ## Business Visa Page Incorrectly Requires Applicants to Leave Thailand
 
 Thai Visa Centre advertises professional assistance with Non-Immigrant B visas, including business sponsorship, employment documentation, visa extensions, and work-permit coordination.
@@ -3717,3 +3764,9 @@ TVC should distinguish ordinary naturalization from nationality acquisition unde
 [^207]: https://ltr.boi.go.th/page/visa-issuance-info.html — Thailand Board of Investment, official visa-issuance procedures, including qualification endorsement, payment timing, and non-refundable e-Visa processing fees.
 
 [^208]: https://ltr.boi.go.th/ — Thailand Board of Investment, LTR application and issuance overview, explaining overseas consular-fee variations.
+
+[^209]: https://tvc.co.th/visas/thailand-marriage-visa — Thai Visa Centre, commercial marriage-visa service page, including its generalized bank-deposit and income requirements.
+
+[^210]: https://tvc.co.th/faq/thai-marriage-visa-requirements — Thai Visa Centre, *Thai Marriage Visa Requirements*, reviewed June 2026, including financial evidence in the applicant's name.
+
+[^211]: https://roiet.imm.police.go.th/wp-content/uploads/2025/02/3-3-new.pdf — Immigration Bureau Order No. 12/2568, Clause 2.18(6)–(7), establishing separate financial criteria for marriages between men and women and marriages between persons of diverse genders.
