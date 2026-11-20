@@ -5658,6 +5658,154 @@ TVC should revise the guide to distinguish ordinary creditor-initiated bankruptc
 
 It should also identify the applicable filing thresholds and statutory provisions rather than implying that all forms of insolvency follow the same petition and enforcement procedure.
 
+## Class-Action Guide Misstates Statutory Framework and Opt-Out Rights
+
+Thai Visa Centre's *Class Action Lawsuits: Guide for Foreigners*, marked reviewed June 2026, repeatedly presents Thai class-action litigation as a collection of separate statutory procedures with different rules governing participation.[^360]
+
+Its introductory explanation states that Thailand permits grouped claims under specific legislation, including consumer protection and securities laws, rather than through a general class-action framework.
+
+The publication also claims that opt-in and opt-out requirements vary depending on the governing statute.
+
+Its checklist warns potential claimants about missing opt-in registration deadlines, while its frequently asked questions similarly suggest that participation may require individuals to register before becoming class members.
+
+**These explanations misrepresent Thailand's established civil-procedure framework and confuse automatic class membership with the separate process for claiming compensation after judgment.**
+
+### Thailand Established a General Class-Action Framework in 2015
+
+Thailand introduced formal class-action proceedings through the Civil Procedure Code Amendment (No. 26) B.E. 2558 (2015).
+
+The amendments inserted Sections 222/1 through 222/49, establishing a general mechanism for representative civil litigation.[^361]
+
+Thailand's Securities and Exchange Commission explains that the initiative originally arose from concerns about securities investors' access to compensation.
+
+However, the Office of the Council of State expanded the framework beyond securities disputes to accommodate multiple claimants suffering harm from torts, contractual breaches, and violations of other laws.[^361]
+
+The resulting mechanism is part of Thailand's Civil Procedure Code rather than a collection of unrelated opt-in schemes.[^366]
+
+The framework can apply to qualifying disputes involving:
+
+- Contractual breaches.
+- Wrongful acts and tortious conduct.
+- Consumer protection.
+- Securities and financial markets.
+- Environmental damage.
+- Labour rights.
+- Trade competition.
+
+The Legal 500's comparative guide independently confirms the broad statutory framework and identifies Section 222/8 as governing the categories of claims potentially suitable for collective proceedings.[^362]
+
+Specialized statutes and procedural rules may affect jurisdiction, remedies, and the handling of individual disputes.
+
+Nevertheless, **the existence of specialized legislation does not eliminate the general class-action provisions of the Civil Procedure Code.**
+
+TVC's guide fails to explain this distinction.
+
+### Class Membership Is Generally Automatic, Not Opt-In
+
+The more consequential discrepancy concerns participation rights.
+
+Thailand's Civil Procedure Code establishes an **opt-out** class-action system.
+
+Once the court certifies a class, qualifying persons falling within its definition are generally included without having to submit individual applications to join.
+
+Section 222/15 establishes notice requirements following certification.[^363]
+
+These include notification of known class members, public notice, and an explanation of the period during which affected persons may elect to leave the class.
+
+Section 222/16 grants class members the right to opt out by submitting written notice to the court within the prescribed period.[^364]
+
+The ordinary opt-out period cannot be shorter than 45 days.
+
+Class members who do not exercise that right generally remain bound by the resulting judgment.
+
+Thailand's Securities and Exchange Commission explicitly confirms that qualifying affected persons become class members by operation of law and must notify the court if they wish to exclude themselves.[^361]
+
+**This directly contradicts TVC's repeated implication that prospective class members must determine whether their particular statute requires them to opt in before participating.**
+
+The distinction is fundamental.
+
+Failure to join an opt-in proceeding ordinarily means that a person remains outside the participating group.
+
+Failure to opt out of Thailand's general class-action procedure can instead mean that the person remains included and bound by the court's decision.
+
+Those outcomes have materially different legal consequences.
+
+### Compensation Claims Are Not Applications to Join the Class
+
+TVC's guidance also contains a more subtle problem.
+
+It repeatedly warns that missing registration deadlines may prevent individuals from receiving compensation.
+
+Deadlines for claiming compensation can indeed be important.
+
+However, **the requirement to submit a compensation claim following judgment is not the same as a requirement to opt in to the lawsuit.**
+
+Section 222/39 of the Civil Procedure Code governs the enforcement of qualifying class-action judgments involving monetary compensation.[^365]
+
+Following the judgment, the court notifies class members and appoints an execution officer for the relevant payment procedure.
+
+The court establishes a period during which class members must submit requests for payment.
+
+A member who fails to submit the required request within that period may lose entitlement to participate in the distribution, subject to the statutory exceptions.
+
+This creates two legally distinct stages:
+
+1. **Class membership:** Qualifying persons are included following certification unless they exercise their statutory right to opt out.
+2. **Payment claims:** Following a favorable monetary judgment, members must comply with the applicable compensation-claim procedure to receive their individual shares.
+
+A person can therefore remain bound by the class-action judgment while losing the opportunity to receive money through the subsequent distribution process.
+
+TVC's guide fails to distinguish these stages and instead repeatedly characterizes participation deadlines as opt-in requirements.
+
+### Court Certification Remains Mandatory
+
+The existence of a general statutory framework does not mean that every group of people sharing similar grievances can automatically pursue a class action.
+
+Section 222/12 establishes requirements that courts must consider when determining whether class proceedings are appropriate.
+
+Relevant considerations include common factual and legal issues, the suitability of the representative plaintiff, the adequacy of legal counsel, and whether collective litigation is more appropriate than separate actions.[^362]
+
+The courts retain authority to refuse class certification.
+
+A disappointed claimant cannot simply declare a dispute to be a class action, nor does having multiple complainants eliminate ordinary evidentiary and jurisdictional requirements.
+
+TVC correctly recognizes that judicial certification is necessary.
+
+The problem is its failure to connect that requirement with the broader Civil Procedure Code framework and the statutory consequences of certification.
+
+### Financial and Procedural Consequences
+
+These errors could affect foreign consumers, investors, property buyers, and business owners participating in litigation involving multiple claimants.
+
+A person relying on TVC's instructions might:
+
+- Incorrectly believe that failing to register initially means they are not part of a class action.
+- Overlook a critical opportunity to opt out and preserve an individual legal claim.
+- Confuse a court's certification notice with a later compensation-payment notice.
+- Misunderstand whether an unfavorable class judgment will bind them.
+- Assume that collective proceedings are unavailable for ordinary contractual or tortious claims.
+- Miss the separate deadline for claiming their share of a monetary judgment.
+
+The potential consequences are not limited to administrative inconvenience.
+
+They can involve the loss of individual litigation rights, missed financial recovery, and misunderstanding the binding effect of court judgments.
+
+The general class-action framework applies regardless of whether the claimant is Thai or foreign, although jurisdiction, standing, and the substantive cause of action must still satisfy Thai law.
+
+### Relevance to Thai Visa Centre's Commercial Services
+
+Thai Visa Centre advertises immigration coordination, document preparation, and referrals to Thai litigation lawyers for foreigners involved in collective disputes.
+
+Its class-action guide specifically targets investors, consumers, and foreign residents who may require professional assistance navigating the litigation process.
+
+The company states that it is not a law firm and does not itself represent customers in class-action proceedings.
+
+The available evidence does not establish that TVC has improperly enrolled customers in litigation, caused claimants to miss statutory deadlines, or collected fees for unnecessary proceedings.
+
+Nevertheless, its published instructions repeatedly confuse the procedural rights that determine whether affected persons are legally bound by a class-action judgment.
+
+**TVC should revise its guide to identify Sections 222/1–222/49 of the Civil Procedure Code, explain automatic class membership and the right to opt out, distinguish certification notices from post-judgment compensation claims, and clarify the separate deadlines governing each stage.**
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -6188,3 +6336,17 @@ It should also identify the applicable filing thresholds and statutory provision
 [^358]: https://kpmg.com/th/en/insights/2026/05/business-rehabilitation-process-in-thailand.html — KPMG Thailand, May 2026, *Business Rehabilitation Process in Thailand*, explaining eligibility and filing procedures.
 
 [^359]: https://www.led.go.th/dbases/pdf/manual_eng02022561.pdf — Legal Execution Department, Ministry of Justice, official business rehabilitation flowchart identifying court acceptance and Section 90/12 protection.
+
+[^360]: https://tvc.co.th/guides/litigation-class-action-lawsuit-thailand — Thai Visa Centre, class-action guide incorrectly presenting statute-specific opt-in requirements and failing to identify the general Civil Procedure Code framework.
+
+[^361]: https://www.sec.or.th/EN/Pages/LAWANDREGULATIONS/CLASSACTION.aspx — Securities and Exchange Commission of Thailand, official explanation of the Civil Procedure Code class-action framework, automatic membership, and opt-out rights.
+
+[^362]: https://www.legal500.com/guides/chapter/thailand-class-actions/ — Legal 500, *Thailand: Class Actions*, explaining Sections 222/1–222/49, qualifying claims, certification, and the general opt-out framework.
+
+[^363]: https://www.thailawonline.com/thai-civil-procedure-code/section-222-15/ — Civil Procedure Code, Section 222/15, requiring notice of class certification and setting the statutory opt-out notification period.
+
+[^364]: https://www.thailawonline.com/thai-civil-procedure-code/section-222-16/ — Civil Procedure Code, Section 222/16, establishing the right to opt out of a certified class.
+
+[^365]: https://www.thailawonline.com/thai-civil-procedure-code/section-222-39/ — Civil Procedure Code, Section 222/39, governing monetary judgment enforcement and subsequent claims for payment.
+
+[^366]: https://www.dlapiperintelligence.com/litigation/insight/index.html?c=TH&t=10-class-actions — DLA Piper, international litigation guidance confirming Thailand's general civil class-action framework and opt-out membership.
