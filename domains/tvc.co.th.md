@@ -5155,6 +5155,108 @@ Nevertheless, **its published corporate-compliance guidance gives incorrect expl
 
 TVC should remove the supposed general startup audit exemption, distinguish limited companies from qualifying registered partnerships, correct the PND.51 schedule, and separate DBD, Revenue Department, and Social Security Office filing deadlines.
 
+## Regional Operating Headquarters Guide Advertises Tax Incentives Abolished Years Earlier
+
+Thai Visa Centre's *Regional Operating Headquarters (ROH) in Thailand: Tax and Visa Guide*, marked reviewed June 2026, presents Thailand's former Regional Operating Headquarters program as an active tax-incentive scheme available to businesses.[^334]
+
+The publication describes ROH as a status granted by the Revenue Department, outlines corporate and personal income tax benefits, and provides a six-step application process culminating in government approval.
+
+Its frequently asked questions explicitly tell readers that newly incorporated Thai companies can apply for ROH status if they satisfy the relevant capital, staffing, and service requirements.
+
+The guide also advertises Thai Visa Centre's assistance with visas and work permits for executives employed under approved ROH arrangements.
+
+**These instructions present a discontinued tax-incentive regime as though new companies could still obtain approval in 2026.**
+
+### Thailand Replaced ROH With the International Business Centre Regime
+
+Thailand originally established Regional Operating Headquarters incentives to encourage multinational businesses to locate management and support functions in the country.
+
+The government subsequently introduced International Headquarters incentives in 2015 and replaced the earlier arrangements with the International Business Centre (IBC) regime in 2018.
+
+Thailand's official government website confirms that the Revenue Department introduced IBC tax incentives to replace the former ROH, International Headquarters (IHQ), and International Trading Centre (ITC) programs.[^335]
+
+New registrations under the old ROH arrangements had already ceased:
+
+- New ROH2 applications stopped being accepted in November 2015.
+- New ROH1 applications stopped being accepted in October 2018.
+- The government subsequently revoked major remaining ROH tax incentives in 2019.
+
+Grant Thornton Thailand documented the March 2019 Cabinet decision withdrawing the old regimes' corporate income tax concessions effective June 1, 2019, and their expatriate personal income tax reductions effective January 1, 2020.[^336]
+
+**TVC's instructions for obtaining new ROH tax status are therefore incompatible with the government's replacement of that program years before its purported June 2026 review.**
+
+### BOI Directs New Headquarters Projects Toward IBC
+
+Thailand's Board of Investment provides guidance addressing businesses previously promoted under ROH or IHQ arrangements.[^337]
+
+It identifies IBC as the successor framework and explains that businesses seeking the relevant new tax incentives must satisfy IBC requirements.
+
+The BOI also distinguishes between companies retaining previously granted investment-promotion rights and those seeking new approval under the replacement program.
+
+This distinction is important.
+
+Discontinuation of new ROH registrations does not mean every company historically operating as an ROH immediately lost its legal existence, ordinary business permissions, or unrelated investment-promotion rights.
+
+However, those historical arrangements do not establish a currently available ROH application pathway for newly incorporated companies.
+
+**TVC makes no meaningful distinction between legacy ROH operations and applications for incentives under the replacement IBC framework.**
+
+### IBC Has Different Eligibility and Tax Requirements
+
+The International Business Centre regime is not merely the old ROH program operating under a different name.
+
+The applicable IBC requirements include conditions concerning:
+
+- Minimum paid-up capital.
+- Qualified full-time personnel.
+- Eligible services provided to associated enterprises.
+- Qualifying expenditure incurred in Thailand.
+- Separate approval and compliance requirements for relevant tax incentives.
+
+PwC's published Thailand corporate-tax guidance identifies reduced corporate income tax rates of 8%, 5%, or 3% for qualifying IBC income, depending on annual operating expenditure and other conditions.[^338]
+
+It also explains that companies converting from certain historical ROH or IHQ arrangements may qualify for special transitional treatment.
+
+These incentives differ materially from the historical ROH benefits advertised in TVC's guide.
+
+Consequently, companies following TVC's ROH checklist could misunderstand both the relevant application authority and the financial qualifications necessary to obtain available tax benefits.
+
+### TVC Advertises Professional Immigration Coordination for the Obsolete Program
+
+The discrepancy extends beyond historical corporate-tax commentary.
+
+TVC's guide tells readers that it assists ROH executives and specialists with Non-Immigrant B visas and work permits.
+
+It also instructs applicants to ensure their work-permit descriptions match activities approved under their ROH status.
+
+Foreign executives employed by legitimate Thai businesses may still qualify for appropriate visas and work permits.
+
+Likewise, companies previously granted ROH-related permissions may have continuing obligations or surviving non-tax rights.
+
+However, **these possibilities do not make the discontinued ROH tax-approval program available to new applicants.**
+
+TVC should distinguish ordinary employment authorization and legacy corporate permissions from incentives newly obtainable through the IBC framework.
+
+### Financial Implications for Multinational Businesses
+
+Incorrect advice concerning investment incentives can have substantial financial consequences.
+
+Businesses considering Thailand as a regional headquarters may make decisions involving significant capital, hiring commitments, office leases, professional fees, and multinational tax planning.
+
+Companies relying on TVC's outdated ROH instructions could:
+
+- Pursue an application process that is no longer available to new entrants.
+- Budget for historical tax concessions that cannot be newly obtained under the former regime.
+- Misunderstand the expenditure and staffing thresholds for IBC incentives.
+- Engage consultants or prepare corporate documents for the wrong government program.
+- Delay investment decisions while attempting to resolve an obsolete approval procedure.
+
+The available evidence does not establish that Thai Visa Centre has submitted invalid ROH applications, collected fees for nonexistent government approvals, or caused financial losses to corporate customers.
+
+Nevertheless, the agency presents detailed instructions for an abolished tax-incentive arrangement while advertising professional visa and work-permit coordination for businesses using that structure.
+
+**Thai Visa Centre should withdraw its ROH application instructions for new companies, identify the historical termination of the program, distinguish legacy approvals from currently available incentives, and direct prospective headquarters investors toward the applicable IBC framework.**
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -5633,3 +5735,13 @@ TVC should remove the supposed general startup audit exemption, distinguish limi
 [^332]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-marriage-section-1465-1493/ — Civil and Commercial Code, Sections 1466 and 1467, governing prenuptial registration and subsequent alteration.
 
 [^333]: https://tvc.co.th/guides/prenuptial-agreement-thailand — Thai Visa Centre, specialist prenuptial guide correctly describing registration alongside marriage.
+
+[^334]: https://tvc.co.th/guides/regional-operating-headquarters-roh-in-thailand — Thai Visa Centre, ROH tax and visa guide, marked reviewed June 2026, advertising new ROH applications.
+
+[^335]: https://thailand.go.th/public/issue-focus-detail/001_03_129 — Royal Thai Government, *Getting to Know the International Business Centers*, confirming replacement of ROH, IHQ, and ITC incentives.
+
+[^336]: https://www.grantthornton.co.th/insights/articles/revocation-of-tax-incentives-granted-to-roh-ihq-and-itc-companies/ — Grant Thornton Thailand, analysis of the 2019 revocation of ROH, IHQ, and ITC tax benefits.
+
+[^337]: https://www.boi.go.th/index.php?page=faq-ipo-ibc-tiso — Thailand Board of Investment, official FAQ addressing conversion from older headquarters programs to IBC and eligibility for new incentives.
+
+[^338]: https://taxsummaries.pwc.com/thailand/corporate/tax-credits-and-incentives — PwC, Thailand corporate-tax incentives, including current IBC eligibility and preferential tax rates.
