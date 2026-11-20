@@ -5518,6 +5518,183 @@ Nevertheless, the agency presents detailed instructions for an abolished tax-inc
 
 **Thai Visa Centre should withdraw its ROH application instructions for new companies, identify the historical termination of the program, distinguish legacy approvals from currently available incentives, and direct prospective headquarters investors toward the applicable IBC framework.**
 
+## Company-Dissolution Guide Misstates Shareholder Meetings and Statutory Filing Deadlines
+
+Thai Visa Centre's *Company Dissolution in Thailand: Liquidation and Deregistration Guide*, marked reviewed June 2026, presents an incorrect sequence for voluntarily dissolving a Thai private limited company.[^374]
+
+Under its section *Stage 1: Register Dissolution*, the guide instructs company owners to:
+
+1. Hold a shareholders' meeting approving a special resolution to dissolve.
+2. Hold a second meeting to confirm the resolution and appoint liquidators.
+3. Register the dissolution with the Department of Business Development (DBD).
+4. Begin liquidation.
+
+The publication does not identify the statutory 14-day deadline for the initial DBD registration or the corresponding deadlines for notifying creditors.
+
+It also repeatedly suggests that the company becomes legally dissolved only after the final liquidation registration.
+
+**These instructions confuse the shareholder resolution that dissolves a company, the subsequent winding-up process, and the registration that completes liquidation.**
+
+### Thailand Abolished the Two-Meeting Special Resolution Requirement in 2008
+
+Section 1194 of Thailand's Civil and Commercial Code establishes the voting threshold for special resolutions.[^375]
+
+Under the current provision, a special resolution requires approval by at least three-quarters of the votes of shareholders present and entitled to vote at a properly convened general meeting.
+
+The statute no longer requires two successive shareholders' meetings to approve the same special resolution.
+
+The historical distinction is important.
+
+Before the amendments to the Civil and Commercial Code enacted in 2008, companies generally needed two separate shareholders' meetings to pass a special resolution.
+
+The first required approval by a three-quarters majority. A second meeting, held within the prescribed period, then confirmed the resolution.
+
+Thailand abolished this arrangement through the Civil and Commercial Code Amendment Act (No. 18), which took effect on July 1, 2008.[^376]
+
+Price Sanond's contemporary legal analysis expressly confirms that special resolutions could thereafter be approved at a single shareholders' meeting.
+
+**TVC's requirement for a separate meeting to confirm the dissolution resolution resembles a procedure eliminated nearly two decades before the guide's claimed June 2026 review.**
+
+The company's articles of association may impose additional governance requirements, and properly convened meetings remain essential.
+
+However, those possibilities do not establish a general statutory obligation to repeat the dissolution vote.
+
+### Dissolution Registration Must Occur Within 14 Days
+
+The more consequential omission concerns the first statutory filing deadline.
+
+Section 1236(4) of the Civil and Commercial Code identifies a special resolution to dissolve as a legal ground for dissolution.[^377]
+
+Section 1254 subsequently requires the liquidators to register the company's dissolution and their names within **14 days after the dissolution date**.[^378]
+
+Thailand's Department of Business Development publishes official procedures confirming this deadline.[^379]
+
+The DBD identifies the following initial sequence:
+
+1. Convene a properly notified shareholders' meeting.
+2. Pass the special resolution approving dissolution.
+3. Prepare and submit the dissolution-registration application.
+4. Publish the required dissolution notice and notify known creditors.
+5. Complete the initial registration and notification requirements within the applicable 14-day period.
+
+This is not merely an administrative preference.
+
+The deadline arises from the Civil and Commercial Code itself.
+
+A company cannot safely postpone initial dissolution registration while arranging an unnecessary second meeting to reconfirm the original resolution.
+
+**TVC gives the correct general instruction to register dissolution but omits the deadline and places an additional meeting before that registration.**
+
+### Creditor Notifications Have Their Own 14-Day Deadline
+
+Section 1253 imposes separate duties on the liquidator following dissolution.[^378]
+
+Within the statutory period, the liquidator must:
+
+- Publish notice of the company's dissolution in the prescribed manner.
+- Notify known creditors through registered correspondence.
+- Inform creditors that claims should be submitted to the liquidator for payment.
+
+The DBD's published instructions confirm that these creditor-notification steps must be completed within **14 days of dissolution**.[^379]
+
+These notices matter because liquidation is not simply the process of closing bank accounts and distributing assets to shareholders.
+
+The liquidator must identify liabilities, collect receivables, settle creditor claims, and preserve funds required to discharge the company's obligations.
+
+TVC warns against distributing assets before the creditor-notification period has been completed.
+
+However, its published checklist does not clearly explain when the notification obligation begins or how it relates to the company's dissolution date.
+
+**A guide claiming to describe company closure in strict chronological order should identify these mandatory deadlines at the start of the process, rather than focusing almost exclusively on the final registration deadline.**
+
+### The Later Shareholders' Meeting Serves a Different Purpose
+
+The existence of a later shareholders' meeting requires careful distinction.
+
+Sections 1255 and 1256 of the Civil and Commercial Code require liquidators to prepare an opening liquidation balance sheet, arrange an audit, and convene a general meeting.[^378]
+
+That meeting serves specific purposes:
+
+- Adopting the audited balance sheet.
+- Confirming the directors as liquidators or appointing replacements.
+- Considering additional directions relating to the winding-up of the company.
+
+It is therefore possible for a company to have a shareholders' meeting after the original dissolution resolution.
+
+**But this meeting is not a second vote legally required to confirm the original dissolution resolution before DBD registration.**
+
+The Department of Business Development documents the liquidation meeting separately from the procedure for registering the company's dissolution.[^380]
+
+This distinction reconciles the statutory provisions without incorrectly suggesting that all subsequent shareholder meetings are unnecessary.
+
+A company may also need annual meetings while liquidation remains unfinished and a final meeting to approve the completed liquidation accounts.
+
+Those meetings have different statutory purposes and should not be combined into one generic confirmation requirement.
+
+### Dissolution and Completion of Liquidation Are Different Legal Events
+
+TVC's guide states that a company is not fully dissolved after the first shareholders' resolution.
+
+It later claims that the company becomes legally dissolved once the final liquidation registration is completed.
+
+This wording conflates dissolution with the termination of the company's remaining legal existence.
+
+Section 1236 establishes the events that cause a company to be dissolved, including a valid special resolution.[^377]
+
+Section 1249 separately provides that a dissolved company is deemed to continue in existence insofar as necessary for liquidation.[^378]
+
+Consequently:
+
+1. **Dissolution:** The company enters the winding-up process following the legally effective dissolution event.
+2. **Liquidation:** Its legal existence continues for the limited purposes of settling debts, realizing assets, and completing statutory obligations.
+3. **Completion:** The final liquidation accounts are approved and completion is registered, ending the winding-up process.
+
+Section 1270 governs the final meeting and registration of completed liquidation.[^378]
+
+The company therefore does not remain an ordinary operating company until the final registration.
+
+Nor does its legal personality necessarily disappear immediately upon dissolution.
+
+**The distinction is between a dissolved company continuing for liquidation and a company whose liquidation has been completed.**
+
+TVC should use those terms consistently rather than suggesting that the special resolution has no legal dissolving effect until the entire liquidation is finished.
+
+### Potential Financial and Compliance Consequences
+
+The errors could matter for foreign entrepreneurs, directors, shareholders, and creditors involved in closing Thai businesses.
+
+A company owner relying on TVC's instructions might:
+
+- Schedule an unnecessary confirmation meeting before filing with the DBD.
+- Miss the 14-day dissolution-registration deadline.
+- Delay the statutory publication and creditor-notification requirements.
+- Misunderstand when directors become liquidators and which powers they retain.
+- Confuse initial dissolution registration with registration of completed liquidation.
+- Make incorrect assumptions about ongoing contracts, employee obligations, or corporate authority.
+- Incur avoidable accounting, legal, or administrative expenses.
+
+These risks are particularly relevant where foreign employees and directors also hold Non-Immigrant B visas or work permits linked to the business.
+
+Company dissolution, termination of employment, and immigration permissions do not necessarily take effect at identical times.
+
+Each requires separate review under the applicable rules.
+
+### Relevance to Thai Visa Centre's Commercial Services
+
+Thai Visa Centre advertises immigration coordination and work-permit assistance for foreign directors and employees whose companies are winding down.
+
+Its dissolution guide encourages business owners to contact the agency before cancelling employment-linked immigration permissions.
+
+The company does not claim to act as the official company registrar.
+
+The available evidence does not establish that Thai Visa Centre has caused late DBD filings, failed to notify creditors, improperly arranged shareholder meetings, or charged customers for unnecessary corporate procedures.
+
+Nevertheless, its published instructions create confusion about a process governed by specific statutory requirements and deadlines.
+
+**Thai Visa Centre should correct the dissolution guide to distinguish the single special resolution under Section 1194, initial DBD registration under Section 1254, creditor notifications under Section 1253, subsequent audited-balance-sheet approval under Sections 1255–1256, and completion of liquidation under Section 1270.**
+
+The revised guide should explain that dissolution and final liquidation registration are separate legal milestones, and that an unnecessary confirmation meeting must not delay mandatory filings.
+
 ## Bankruptcy Guide Conflates Liquidation, Rehabilitation, and Automatic Stay Protections
 
 Thai Visa Centre's *Bankruptcy: Guide for Foreigners*, marked reviewed June 2026, presents Thailand's bankruptcy and business rehabilitation procedures as parts of a generalized insolvency process.[^354]
@@ -6517,3 +6694,17 @@ Nevertheless, its publications provide procedural instructions that repeatedly n
 [^372]: https://www.customs.go.th/data_files/a48902e107a80bbbfc83d38742957569.pdf — Thailand Customs Department, English translation of the Customs Act B.E. 2560 (2017), Sections 37–48, governing customs duty appeals, payment obligations, and court-filing deadlines.
 
 [^373]: https://www.legal500.com/intelligence/thailand/tax/tax-litigation-in-thailand — Legal 500, Thailand tax litigation guidance covering Central Tax Court jurisdiction and customs-related disputes.
+
+[^374]: https://tvc.co.th/guides/company-dissolution-thailand — Thai Visa Centre, company-dissolution guide requiring a second confirmation meeting before DBD registration and omitting initial statutory filing deadlines.
+
+[^375]: https://www.thailawonline.com/th/thai-civil-code/section-1194/ — Civil and Commercial Code, amended Section 1194, establishing the three-quarters majority required for a special resolution.
+
+[^376]: https://www.pricesanond.com/knowledge/corporate-m-and-a/amendments-to-the-civil-and-commercial-code-no-18.php — Price Sanond, 2008 analysis confirming abolition of the former two-meeting special resolution requirement.
+
+[^377]: https://www.thailawonline.com/thai-civil-code/section-1236/ — Civil and Commercial Code, Section 1236, identifying a special resolution as a ground for company dissolution.
+
+[^378]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-liquidation-section-1247-1271/ — Civil and Commercial Code, Sections 1249, 1251, 1253–1256, and 1270, governing the legal effects of dissolution, liquidator appointments, registration, creditor notices, and completion of liquidation.
+
+[^379]: https://www.dbd.go.th/download/downloads/03_boj/intro_step_bj_dissolve.pdf — Department of Business Development, official procedure for registering dissolution, including the 14-day filing and notification requirements.
+
+[^380]: https://www.dbd.go.th/download/downloads/03_boj/intro_step_bj_liquidate.pdf — Department of Business Development, official liquidation and completion-registration procedure, distinguishing audited financial statements and subsequent shareholder meetings from initial dissolution registration.
