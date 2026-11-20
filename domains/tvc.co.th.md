@@ -6598,6 +6598,47 @@ Nevertheless, its publications provide procedural instructions that repeatedly n
 
 **TVC should correct the court names in its trade-disputes guide, distinguish ordinary civil litigation from specialized international trade proceedings, explain the Customs Appeal Committee process under Sections 37–48 of the Customs Act, and clarify the separate payment and enforcement consequences of disputing customs duty assessments.**
 
+## Labour Litigation Guide Misstates Court Fees, Lawyer Requirements, and Appeals
+
+Thai Visa Centre's *Labor Litigation: Guide for Foreigners*, marked reviewed June 2026, contains several misleading statements about Thailand's Labour Court procedures, including the cost of filing claims, the necessity of legal representation, and the court responsible for hearing appeals.[^398]
+
+### Labour Court Proceedings Are Exempt From Court Fees
+
+The guide tells readers that Labour Court fees are "modest compared with Civil Court."
+
+However, Section 27 of the Act on the Establishment of Labour Courts and Labour Court Procedure B.E. 2522 (1979) expressly exempts the filing of claims and proceedings in Labour Courts from court fees.[^399]
+
+Although litigants may incur legal representation, translation, travel, and other expenses, the statutory exemption is substantially different from the guide's suggestion that filing fees are merely reduced.
+
+### Lawyers Are Not Mandatory for Every Labour Court Claim
+
+The guide's frequently asked questions state that Thai counsel is required for proceedings conducted in Thai. Its procedural checklist similarly describes Thai lawyers preparing the necessary pleadings.
+
+Section 35 of the Labour Court legislation expressly allows plaintiffs to submit written claims or present their complaints orally before the court. Where a complaint is presented orally, the court may question the plaintiff and record the claim.[^399]
+
+Legal representation may be advisable, particularly for complex disputes or foreign litigants requiring language assistance, but it is not a universal statutory requirement for bringing a Labour Court claim.
+
+**The distinction matters because incorrect advice about mandatory legal representation could discourage workers from pursuing claims they are legally entitled to file themselves.**
+
+### Appeals Are Directed to the Wrong Court
+
+The guide also instructs readers that appeals proceed to a "Labour Court appellate division."
+
+Thailand instead operates a **Court of Appeal for Specialized Cases**, which includes a Labour Case Division. The court was inaugurated on October 1, 2016, and hears qualifying appeals from the country's specialized courts.[^400]
+
+Thai Visa Centre's description fails to identify the actual appellate institution and omits important procedural restrictions governing Labour Court appeals.
+
+### Relevance to Thai Visa Centre's Professional Claims
+
+These errors appear in a publication specifically intended to explain legal procedures to foreign residents and workers.
+
+The guide repeatedly recommends professional legal assistance while failing to explain that Labour Court proceedings are exempt from court fees and that individuals may initiate claims without retaining an attorney.
+
+**The combination of incorrect cost information, overstated representation requirements, and misidentified appellate procedures raises serious questions about the accuracy of Thai Visa Centre's professionally presented legal guidance.**
+
+The discrepancies do not establish deliberate deception. However, they undermine confidence in a guide presented as reviewed and suitable for readers navigating potentially consequential employment disputes.
+
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -7204,3 +7245,9 @@ Nevertheless, its publications provide procedural instructions that repeatedly n
 [^396]: https://info.go.th/procedure/94e56d2b-9330-47c1-b1f7-d998e93823a2/view — Thai government public service portal, Department of Lands procedure for registering inheritance transfers without an estate administrator.
 
 [^397]: https://www.dol.go.th/nongbualamphu/press-release/news-1791946904/ — Department of Lands, October 2026 explanation distinguishing inheritance-transfer procedures with an administrator from those without one.
+
+[^398]: https://tvc.co.th/guides/litigation-labor-litigation — Thai Visa Centre, *Labor Litigation: Guide for Foreigners*, reviewed June 2026.
+
+[^399]: https://lawplayer.com/th/act/pythainlp_736e0c48e6681788 — Act on the Establishment of Labour Courts and Labour Court Procedure, Sections 27 and 35.
+
+[^400]: https://cacj-ajp.org/thailand/judiciary/description-of-courts/courts-of-appeal/ — Council of ASEAN Chief Justices, Thailand's Court of Appeal for Specialized Cases and Labour Case Division.
