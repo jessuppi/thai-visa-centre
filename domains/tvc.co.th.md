@@ -6686,6 +6686,61 @@ The pattern is particularly troubling because Thai Visa Centre advertises referr
 The publication should be corrected to disclose the available filing procedures, statutory fee exemptions, and actual evidentiary requirements.
 
 
+## Litigation Guides Invent a Recognition Procedure for Foreign Court Judgments
+
+Thai Visa Centre publishes misleading instructions about enforcing foreign court judgments in Thailand, repeatedly suggesting that overseas judgments can be recognized through a Thai court procedure rather than requiring fresh litigation.
+
+The errors appear across multiple guides marked reviewed June 2026 and concern a fundamental distinction in Thai civil procedure.[^403][^404][^405]
+
+### Inventing a Foreign Judgment Recognition Procedure
+
+In its *Injunction and Restraining Order* guide, Thai Visa Centre states:
+
+> Creditor must first obtain Thai recognition or sue on underlying debt
+
+The publication presents judicial recognition and filing a new lawsuit as alternative procedures available to foreign judgment creditors.[^403]
+
+**Thailand does not provide a general recognition or registration procedure for foreign civil court judgments.**
+
+A creditor who obtains a judgment in the United States, United Kingdom, Singapore, or another foreign jurisdiction cannot simply apply to a Thai court to recognize that judgment and authorize execution against assets in Thailand.
+
+The creditor must instead commence fresh proceedings before a competent Thai court.
+
+### Contradictory Instructions Across Litigation Guides
+
+The company's *Litigation in Thailand FAQs* states that enforcement of foreign judgments depends on treaties and Thai law, suggesting that a separate registration or recognition process may be available.[^404]
+
+Its *Debt Recovery* guide similarly warns against attempting to enforce foreign judgments without following a recognition procedure.[^405]
+
+These publications repeatedly fail to explain the actual legal position.
+
+**Foreign court judgments are not directly enforceable in Thailand through an ordinary recognition application.**
+
+The distinction is particularly important for international creditors, business owners, and investors attempting to recover debts or enforce damages awards against Thai assets.
+
+### Established Thai Law Requires Fresh Litigation
+
+International law firm Tilleke & Gibbins confirmed in December 2025 that foreign court judgments must effectively be litigated again before a Thai court.[^406]
+
+The foreign judgment may serve as evidence, but it does not bind the Thai court or eliminate the need to prove the underlying claim.
+
+CMS independently explains that Thailand has no general statutory procedure for enforcing foreign judgments and identifies Supreme Court decisions addressing the evidentiary treatment of overseas judgments.[^407]
+
+By contrast, qualifying **foreign arbitral awards** can be recognized and enforced under Thailand's Arbitration Act B.E. 2545 (2002) and the New York Convention.
+
+Thai Visa Centre's guidance fails to explain this fundamental distinction between foreign court judgments and arbitral awards.
+
+### Serious Consequences for Foreign Creditors
+
+The difference between recognizing an existing judgment and initiating fresh litigation is substantial.
+
+Foreign creditors following TVC's guidance could misunderstand the proceedings required, underestimate legal costs, and make incorrect assumptions about how quickly Thai assets can be seized or attached.
+
+**A business publishing professional litigation guidance should not present a nonexistent general judgment-recognition procedure as an available legal remedy.**
+
+Thai Visa Centre should correct its litigation, injunction, and debt-recovery guides to explain that ordinary foreign civil judgments require fresh Thai proceedings, while qualifying arbitral awards follow a separate statutory enforcement process.
+
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -7302,3 +7357,13 @@ The publication should be corrected to disclose the available filing procedures,
 [^401]: https://tvc.co.th/guides/litigation-consumer-protection-thailand — Thai Visa Centre, *Consumer Protection Act: Guide for Foreigners*.
 
 [^402]: https://lawplayer.com/th/act/ocs-%E0%B8%A70076-1B-0002/section/chapter-2.section-1 — Consumer Case Procedure Act B.E. 2551 (2008), Sections 18–20.
+
+[^403]: https://tvc.co.th/guides/litigation-injunction-and-restraining-order-thailand — Thai Visa Centre, *Injunction and Restraining Order: Guide for Foreigners*.
+
+[^404]: https://tvc.co.th/guides/litigation-litigation-in-thailand-faqs — Thai Visa Centre, *Litigation in Thailand FAQs*.
+
+[^405]: https://tvc.co.th/guides/litigation-debt-recovery-in-thailand — Thai Visa Centre, *Debt Recovery: Guide for Foreigners*.
+
+[^406]: https://www.tilleke.com/insights/foreign-court-judgments-vs-foreign-arbitration-awards-in-thailand/ — Tilleke & Gibbins, December 12, 2025, explaining the different treatment of foreign judgments and arbitral awards.
+
+[^407]: https://cms.law/en/int/expert-guides/cms-expert-guide-to-recognition-and-enforcement-of-judgements/thailand — CMS, *Recognition and Enforcement of Foreign Judgments in Thailand*, including relevant Supreme Court decisions.
