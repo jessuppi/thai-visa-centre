@@ -541,6 +541,29 @@ It establishes that Thai Visa Centre actively recruits commission-earning referr
 
 **The appropriate question is how TVC distinguishes paid referrals from independent recommendations and whether referred customers are informed of the financial arrangements influencing those introductions.**
 
+## Systematic Errors in Legal and Immigration Guidance
+
+Thai Visa Centre markets itself as a specialist in Thai immigration and related professional services, publishing hundreds of informational guides covering visas, taxation, property ownership, corporate law, and family law. However, an examination of its website reveals a recurring pattern of inaccurate legal instructions, contradictory advice, obsolete requirements, and duplicated material presented as professionally reviewed guidance.
+
+The problems extend well beyond minor editorial mistakes.
+
+- **Immigration:** Retirement visa instructions suggest applicants can withdraw required bank deposits after approval without adequately explaining mandatory balance-maintenance periods. Other guides misstate visa privileges, reporting obligations, and eligibility requirements.
+- **Taxation:** A guide repeatedly identifies "Form 205" as the document required for Thai tax residency certification, contradicting the Revenue Department's published R.O.01 application and R.O.22 certificate procedures.
+- **Property:** Condominium resale guidance incorrectly applies foreign-ownership quota restrictions to transfers of units already registered under foreign ownership.
+- **Inheritance:** Probate guides suggest foreign estate administrators require Thai co-executors, despite no general nationality restriction under the relevant statutory provisions.
+- **Civil litigation:** Class-action guidance misrepresents participation and opt-out procedures under Thailand's Civil Procedure Code.
+- **Editorial quality:** At least six unrelated professional-service guides reproduce identical instructions for administrative divorce, including publications addressing entirely different legal subjects.
+
+Several publications carry June 2026 review dates, yet retain errors involving established legal requirements or procedures that changed years earlier.
+
+These findings raise serious questions about how Thai Visa Centre researches, generates, reviews, and maintains the professional guidance it publishes.
+
+The concern is particularly significant because prospective customers may rely on these materials when making decisions involving immigration status, financial obligations, property rights, and legal proceedings.
+
+The investigation does not establish whether the inaccuracies arise from automated content generation, inadequate professional review, or other editorial failures. Nevertheless, their frequency and breadth undermine the credibility of the expertise claimed by the business.
+
+Individual examples, original publications, and supporting legal sources are documented in the [tvc.co.th investigation](../domains/tvc.co.th.md).
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
