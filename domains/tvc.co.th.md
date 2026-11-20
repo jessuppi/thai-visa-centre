@@ -4537,6 +4537,213 @@ Nevertheless, the company repeatedly describes a nonexistent general forced-heir
 
 TVC should correct its probate and will-writing guides, distinguish intestate inheritance from testamentary freedom, and accurately explain the separate treatment of marital property and legally ineffective wills.
 
+## Probate Guides Overstate Thai Co-Executor Requirements and Omit Direct Inheritance Transfers
+
+Thai Visa Centre publishes misleading estate-planning guidance concerning the appointment of foreign estate administrators and the procedures available for registering inherited property in Thailand.
+
+Its *Probate and Succession in Thailand: Estate Planning for Foreign Residents* guide, marked reviewed June 2026, instructs readers to appoint a Thai co-executor when naming a foreign resident to administer an estate.[^391]
+
+The same guide identifies the appointment of a foreign-only executor without a Thai co-executor for Land Office transfers as a common estate-planning mistake.
+
+Its separate *Probate and Estate Administration in Thailand* guide similarly states that foreign executors often need a Thai co-executor.[^392]
+
+Both publications strongly emphasize court-supervised estate administration and the use of court orders when transferring inherited property.
+
+**These instructions fail to distinguish practical assistance from legal requirements and overlook official procedures permitting qualifying inheritance transfers without a court-appointed estate administrator.**
+
+### Thai Law Does Not Generally Require Estate Administrators to Be Thai Nationals
+
+Sections 1711–1718 of Thailand's Civil and Commercial Code govern the appointment and eligibility of estate administrators.
+
+Section 1715 expressly permits a testator to appoint one or more people to administer the estate.
+
+Section 1718 identifies the persons legally disqualified from serving as administrators.[^393]
+
+The disqualifications concern:
+
+1. Persons who have not attained the required legal capacity.
+2. Persons of unsound mind or declared quasi-incompetent.
+3. Persons adjudged bankrupt.
+
+**Foreign nationality is not a statutory disqualification.**
+
+The Code also does not establish a general requirement that every foreign administrator serve alongside a Thai national.
+
+A Thai co-administrator may be useful where an estate includes substantial local assets, complicated administrative procedures, or beneficiaries living in multiple countries.
+
+However, practical convenience does not make joint appointment legally mandatory.
+
+TVC's warnings do not adequately explain that distinction.
+
+### Supreme Court Decision 626/2541 Recognizes Foreign Administrators
+
+Thailand's Supreme Court has directly addressed whether foreign nationality prevents a person from administering an estate.
+
+In Decision 626/2541, a foreign woman sought appointment as administrator of her deceased husband's estate.
+
+The deceased's child opposed the petition.
+
+The Supreme Court held that foreign nationality did not disqualify the petitioner under Section 1718 of the Civil and Commercial Code.[^394]
+
+The court considered her suitability for administration and appointed her jointly with the deceased's child.
+
+The decision establishes two important principles.
+
+First, **a foreign national can lawfully qualify to administer a Thai estate**.
+
+Second, the court retains discretion to determine whether a particular person is suitable and whether a joint appointment is appropriate.
+
+The fact that the court appointed joint administrators in that particular case does not create a universal requirement for foreign administrators to have Thai co-executors.
+
+Subsequent judicial guidance confirms that courts assess suitability, good faith, competing interests, and the circumstances of the estate.
+
+Nationality alone does not determine the outcome.
+
+**TVC's advice presents Thai co-administration as a routine necessity without identifying the statutory rules or the Supreme Court decision recognizing foreign administrators.**
+
+### Appointing Joint Administrators Can Create Additional Complications
+
+Naming a local co-administrator may be sensible in some circumstances.
+
+A person based in Thailand may be better positioned to deal with banks, the Land Department, courts, translation requirements, and local beneficiaries.
+
+Nevertheless, appointing multiple administrators introduces its own legal considerations.
+
+Section 1726 of the Civil and Commercial Code provides rules governing how joint administrators exercise their authority.[^393]
+
+Unless the will provides otherwise, decisions among multiple administrators generally require majority agreement.
+
+Disagreements between two administrators may consequently require intervention by the court.
+
+A testator should therefore consider:
+
+- Whether a single administrator can perform the necessary duties.
+- Whether the proposed administrator is eligible and capable of acting.
+- Whether local assistance can be arranged without appointing another administrator.
+- Whether joint appointment would create divided authority or additional administrative costs.
+- Whether the will should expressly establish decision-making arrangements.
+
+The recommendation to appoint a Thai co-administrator should be presented as a possible estate-planning choice, not an unavoidable condition imposed on foreigners.
+
+### The Land Department Allows Inheritance Transfers Without an Estate Administrator
+
+TVC's probate publications also leave out an important alternative to court-supervised administration.
+
+Section 81 of Thailand's Land Code establishes a procedure through which qualifying heirs may apply to register inherited rights directly with the competent Land Office.[^395]
+
+Under that procedure, the applicant submits evidence establishing entitlement to the inherited property.
+
+The official reviews the documentation and ordinarily publishes an inheritance notice.
+
+The statutory notice period is generally 30 days.
+
+If no qualifying objection is raised and the officer is satisfied that the applicant is entitled to the inheritance, registration may proceed according to the applicable requirements.
+
+Where objections arise, the officer may investigate the competing claims.
+
+Unresolved disputes can require court proceedings.
+
+**The existence of this procedure means that obtaining a court order appointing an administrator is not universally required before an inheritance can be registered.**
+
+The Department of Lands explicitly publishes a public service procedure titled *Registration of Inheritance Transfer — Without an Estate Administrator*.[^396]
+
+Its instructions address inherited land, buildings, and condominium ownership documents.
+
+The procedure includes:
+
+1. Submission of the deceased person's property documents.
+2. Evidence of death and the applicant's legal entitlement.
+3. Examination of the applicant's inheritance rights.
+4. Publication of the required notice.
+5. Consideration of any objections.
+6. Registration of the inheritance if the applicable conditions are satisfied.
+
+The Department of Lands has also published explanatory guidance distinguishing inheritance transfers with an administrator from transfers without one.[^397]
+
+It identifies the latter as an established procedure involving additional verification and notification requirements.
+
+**TVC's court-focused presentation overlooks this officially recognized alternative.**
+
+### Court-Appointed Administrators Remain Necessary in Many Cases
+
+The existence of direct inheritance registration does not mean that heirs can always avoid court proceedings.
+
+Court appointment can be required or practically necessary where:
+
+- The heirs disagree about entitlement or distribution.
+- An existing administrator cannot perform the required duties.
+- A will contains disputed or ineffective provisions.
+- Banks or other institutions require judicial confirmation of authority.
+- Assets must be sold or administered before distribution.
+- The Land Office cannot resolve competing claims through its administrative procedure.
+- Complex cross-border succession issues prevent straightforward registration.
+
+Section 1713 of the Civil and Commercial Code identifies the circumstances in which an heir, interested person, or public prosecutor may petition for the appointment of an administrator.[^393]
+
+Foreign families may also encounter additional documentation and authentication requirements.
+
+A foreign will, overseas death certificate, or foreign-issued proof of relationship may need translation and legalization before the relevant Thai institution accepts it.
+
+Accordingly, TVC is not necessarily wrong when it states that many inheritance matters involve court orders.
+
+**The problem is its failure to explain that court appointment is not invariably required and that the correct procedure depends on the assets, beneficiaries, and circumstances of the estate.**
+
+### Administrative Authority Is Different From Beneficial Ownership
+
+TVC's discussion also risks confusing the nationality of the estate administrator with the nationality of the heir.
+
+An administrator manages and distributes assets on behalf of the estate.
+
+An heir acquires rights under the applicable succession provisions.
+
+These are distinct legal roles.
+
+A foreigner may lawfully serve as estate administrator without necessarily being permitted to acquire every asset personally.
+
+For example, the Land Code imposes separate restrictions on foreign ownership of land.
+
+The Condominium Act contains different rules governing foreign ownership and inherited condominium units.
+
+A foreign administrator's eligibility to perform administrative duties therefore does not establish personal entitlement to inherited land.
+
+Conversely, restrictions on a foreigner's right to own particular property do not automatically prevent that person from administering the estate.
+
+**The correct legal analysis separates the administrator's eligibility, the beneficiaries' inheritance rights, and the registration requirements for each asset.**
+
+### Financial Consequences for Foreign Families
+
+These distinctions matter for foreign retirees, spouses, and families holding Thai property, bank deposits, company shares, and other investments.
+
+A family relying on TVC's guidance might incorrectly believe that it must:
+
+- Appoint an additional Thai co-executor.
+- Replace a foreign executor already designated in a valid will.
+- Commence court proceedings before investigating direct Land Office registration.
+- Retain additional professional representatives for an otherwise straightforward inheritance.
+- Delay distribution while seeking a court order that the relevant government agency may not require.
+
+In complex estates, these steps may be appropriate.
+
+In simpler circumstances, they may create unnecessary expense, delays, and divided administrative authority.
+
+The available evidence does not establish that Thai Visa Centre has charged customers for unnecessary probate proceedings, improperly arranged estate administrators, or caused financial losses through these publications.
+
+Nevertheless, **its published instructions can create an exaggerated impression of the legal barriers facing foreigners administering Thai estates.**
+
+### Recommended Corrections
+
+Thai Visa Centre should revise its probate and succession publications to explain:
+
+- Sections 1711–1718 of the Civil and Commercial Code and the statutory eligibility rules for administrators.
+- Supreme Court Decision 626/2541 confirming that foreign nationality is not an automatic disqualification.
+- The distinction between optional Thai co-administration and a legally mandatory appointment.
+- The circumstances in which court appointment is appropriate under Section 1713.
+- Direct inheritance registration under Section 81 of the Land Code.
+- The Department of Lands' procedure for transfers without a court-appointed administrator.
+- The separate rules governing foreign administrators, foreign heirs, and foreign ownership of immovable property.
+
+**The agency should avoid portraying Thai co-executors and court-appointed probate administration as universal requirements when Thailand's legislation and published Land Department procedures establish more flexible alternatives.**
+
 ## Remarriage FAQ Denies Statutory Waiting Period and Uses Obsolete Marriage Age
 
 Thai Visa Centre's FAQ *Divorcee Getting Married in Thailand*, marked reviewed June 2026, incorrectly tells foreign customers that Thai law imposes no waiting period after divorce.[^241]
@@ -6983,3 +7190,17 @@ Nevertheless, its publications provide procedural instructions that repeatedly n
 [^389]: https://tvc.co.th/guides/legal-services-franchise-lawyers-thailand — Thai Visa Centre, franchise-law guide containing the same administrative-divorce introduction before franchise and trademark procedures.
 
 [^390]: https://tvc.co.th/guides/legal-services-probate-and-estate-administration — Thai Visa Centre, probate guide reproducing the divorce-registration introduction before estate-administration instructions.
+
+[^391]: https://tvc.co.th/guides/legal-services-probate-and-succession-thailand — Thai Visa Centre, probate and succession guide advising appointment of Thai co-executors and identifying foreign-only executors as a common planning mistake.
+
+[^392]: https://tvc.co.th/guides/legal-services-probate-and-estate-administration — Thai Visa Centre, probate guide stating that foreign executors often need Thai co-executors and emphasizing court-supervised inheritance procedures.
+
+[^393]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-administration-of-estate-section-1711-1718/ — Civil and Commercial Code, Sections 1711–1718, governing estate administrator appointments, court applications, and statutory disqualifications.
+
+[^394]: https://www.jainterlaw.com/en/insights/foreigner-as-estate-administrator-thailand/ — J&A International Law, analysis of Supreme Court Decision 626/2541 and Sections 1713 and 1718, confirming that foreign nationality does not bar appointment as administrator.
+
+[^395]: https://www.thailawonline.com/thailand-land-code/chapter-6/ — Thailand Land Code, Sections 81–82, establishing inheritance-registration procedures with and without an estate administrator.
+
+[^396]: https://info.go.th/procedure/94e56d2b-9330-47c1-b1f7-d998e93823a2/view — Thai government public service portal, Department of Lands procedure for registering inheritance transfers without an estate administrator.
+
+[^397]: https://www.dol.go.th/nongbualamphu/press-release/news-1791946904/ — Department of Lands, October 2026 explanation distinguishing inheritance-transfer procedures with an administrator from those without one.
