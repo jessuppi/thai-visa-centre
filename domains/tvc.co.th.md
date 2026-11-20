@@ -4523,6 +4523,81 @@ Nevertheless, its published instructions omit a significant statutory distinctio
 
 TVC should distinguish Section 19(1) permanent-resident purchases from Section 19(5) remittance-based purchases, explain the different Land Department documentation requirements, and correct its categorical statements that every foreign condominium buyer must transfer funds from overseas.
 
+## Condominium Inheritance Guides Omit Land Department Ruling Protecting Foreign Heirs
+
+Thai Visa Centre's *Foreigner Making a Will in Thailand* guide, marked reviewed June 2026, warns that foreign beneficiaries must satisfy condominium foreign-ownership quotas and Foreign Exchange Transaction (FET) documentation requirements when inheriting property.[^314]
+
+The guide states that foreign heirs need available ownership quota and may require FET documentation. It also warns that inadequate estate planning can result in forced property sales.
+
+TVC's separate *Last Will and Testament Under Thai Law* guide similarly presents qualification under the foreign-ownership quota as a requirement for retaining inherited condominiums, warning that foreign heirs may otherwise have to sell.[^315]
+
+**These descriptions omit a significant Land Department interpretation recognizing that certain foreign heirs succeed to the deceased owner's existing condominium ownership rights.**
+
+### Land Department Recognizes Inherited Ownership Rights
+
+Section 19 of Thailand's Condominium Act B.E. 2522 (1979) establishes several categories of foreigners eligible to own condominium units, including persons who acquire property using qualifying foreign-currency remittances under Section 19(5).[^316]
+
+Section 19 septies requires foreigners outside the qualifying statutory categories who inherit condominium units to notify the authorities within 60 days and dispose of the property within one year.
+
+However, the Land Department has addressed an important distinction involving foreign heirs of existing foreign condominium owners.
+
+In a published interpretation, the department applied Sections 1599 and 1600 of the Civil and Commercial Code, which provide that a deceased person's estate passes to the heirs together with the deceased's transferable rights and obligations.[^317]
+
+The department concluded that a foreign heir succeeding to a condominium previously acquired by a qualifying foreign owner may inherit the deceased owner's status under Section 19(5).
+
+**Such an heir is not automatically required to sell the condominium within one year under Section 19 septies merely because the heir is a foreign national.**
+
+This interpretation was examined by the Thai law firm Tilleke & Gibbins in its analysis of condominium inheritance by foreigners.[^318]
+
+The analysis confirms that heirs may succeed to the deceased owner's qualifying rights rather than necessarily establishing an entirely new foreign-currency-funded acquisition.
+
+### Foreign Ownership Quotas Still Apply
+
+The Land Department's interpretation does not eliminate Thailand's condominium foreign-ownership restrictions.
+
+Section 19 bis generally limits foreign ownership to 49% of the building's total unit floor area.
+
+Section 19 quinquies also provides for disposal when inherited ownership causes the applicable foreign-ownership proportion to be exceeded.
+
+These requirements must be distinguished from the separate question of whether an heir qualifies to retain a previously foreign-owned condominium.
+
+For example, transferring an existing foreign-owned unit to another eligible foreign owner does not, by itself, increase the building's aggregate foreign-owned floor area.
+
+Nevertheless, inheritance registration, evidence of the deceased owner's ownership status, the building's quota, and other applicable requirements remain relevant.
+
+The government also identifies specific documentation for inherited property transfers, including death certificates, wills, heir identification, and condominium ownership records.[^319]
+
+### Foreign-Currency Requirements Are Not Automatically Repeated
+
+TVC's assertion that foreign heirs must satisfy FET requirements also fails to distinguish an ordinary condominium purchase from inheritance.
+
+A foreign buyer acquiring condominium ownership under Section 19(5) normally establishes eligibility through qualifying financial transactions.
+
+An heir succeeding to that owner's existing rights occupies a different legal position.
+
+Evidence supporting the deceased owner's original qualification may remain relevant during registration, but the Land Department's interpretation does not establish a universal requirement that the heir personally remit the property's purchase price into Thailand again.
+
+**The distinction is between proving the legal basis of an inherited ownership right and treating an inheritance as an entirely new foreign-funded purchase.**
+
+TVC's guidance does not adequately explain this difference.
+
+### Financial Implications for Foreign Families
+
+These omissions matter because condominiums often represent substantial portions of foreign residents' estates in Bangkok, Pattaya, Phuket, and other Thai property markets.
+
+Families misunderstanding the rules might:
+
+- Believe an inherited condominium must be sold within one year when the Land Department's interpretation permits continued ownership.
+- Assume fresh foreign-currency remittances are necessary to receive inherited property.
+- Make unnecessary changes to estate plans or property ownership structures.
+- Incur additional legal expenses resolving avoidable misunderstandings about inheritance eligibility.
+
+The available evidence does not establish that Thai Visa Centre has caused an inheritance to be refused, compelled a property sale, or obtained payments through incorrect advice.
+
+Nevertheless, the agency markets property-law referrals and succession-planning coordination while omitting a legally significant interpretation that directly affects the rights of foreign heirs.
+
+**Thai Visa Centre should update its condominium inheritance guidance to distinguish original purchase requirements, inherited Section 19(5) rights, foreign-ownership quota restrictions, and the circumstances in which mandatory disposal provisions actually apply.**
+
 ## U.S. Fiancé Visa Cost Guide Confuses K-1 and Immigrant Spouse Fees
 
 Thai Visa Centre's FAQ *US Spouse Visa Cost: CR-1, IR-1, and K-1 Fees*, marked reviewed June 2026, presents a combined breakdown of U.S. government charges for couples pursuing different immigration pathways.[^251]
@@ -5274,3 +5349,15 @@ TVC should remove the supposed general startup audit exemption, distinguish limi
 [^312]: https://report.dopa.go.th/laws/document/2/226.pdf — Department of Provincial Administration, English translation of Thailand's Nationality Act B.E. 2508, Sections 7, 7 bis, and 8.
 
 [^313]: https://www.thailand.go.th/issue-focus-detail/foreign-nationals-giving-birth-in-thailand-have-the-right-to-apply-for-nationality — Royal Thai Government, official explanation of nationality eligibility under Section 23.
+
+[^314]: https://tvc.co.th/guides/property-foreigner-making-a-will-in-thailand — Thai Visa Centre, foreigner will-writing guide describing foreign quota and FET requirements for heirs.
+
+[^315]: https://tvc.co.th/guides/property-last-will-and-testament-under-thai-law — Thai Visa Centre, succession guide warning that foreign heirs must qualify for ownership or sell.
+
+[^316]: https://library.siam-legal.com/thai-law/condominium-act-ownership-sections-19-1-19-11/ — Condominium Act, Sections 19, 19 bis, 19 quinquies, and 19 septies.
+
+[^317]: https://aphiwatlaw.com/2026/09/07/land-department-ruling-no-12-inheritance-of-a-condominium-unit-by-a-foreigner/ — Land Department ruling on foreign condominium inheritance, reproduced with an unofficial English translation in September 2026.
+
+[^318]: https://www.tilleke.com/insights/inheritance-condominium-units-foreigners-thailand/5/ — Tilleke & Gibbins, analysis of condominium inheritance and succession to Section 19(5) ownership rights.
+
+[^319]: https://www.thailand.go.th/useful-information-detail/010_011 — Royal Thai Government, documentary requirements for foreign property registration and inheritance transfers.
