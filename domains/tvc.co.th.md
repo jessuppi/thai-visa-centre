@@ -6639,6 +6639,53 @@ The guide repeatedly recommends professional legal assistance while failing to e
 The discrepancies do not establish deliberate deception. However, they undermine confidence in a guide presented as reviewed and suitable for readers navigating potentially consequential employment disputes.
 
 
+## Consumer Protection Guide Falsely Claims Lawyers Are Mandatory and Omits Free Court Filing
+
+Thai Visa Centre's *Consumer Protection Act: Guide for Foreigners*, marked reviewed June 2026, misrepresents fundamental consumer rights under Thai law. The guide incorrectly tells foreigners that lawyers are required to pursue consumer litigation, fails to disclose statutory court-fee exemptions, and invents documentary requirements that could discourage legitimate complaints.[^401]
+
+### Falsely Claims Thai Lawyers Are Mandatory
+
+The guide explicitly states:
+
+> You still need Thai counsel to file and conduct proceedings in Thai.
+
+Its procedural checklist repeatedly instructs consumers to use Thai lawyers to prepare and file complaints.
+
+**Section 20 of Thailand's Consumer Case Procedure Act B.E. 2551 (2008) directly contradicts this advice.** Consumers may file complaints orally or in writing. Court officials must record oral complaints and obtain the plaintiff's signature.[^402]
+
+Thai law deliberately provides a filing procedure accessible to consumers without mandatory legal representation.
+
+TVC instead presents paid legal assistance as a prerequisite.
+
+### Conceals Statutory Court-Fee Exemptions
+
+Section 18 of the same legislation exempts qualifying consumer plaintiffs from court fees when filing and conducting consumer proceedings.[^402]
+
+The exemption does not eliminate possible liability for costs at the conclusion of proceedings, but it removes a significant upfront financial barrier.
+
+**TVC's guide omits this fundamental consumer protection entirely**, despite extensively discussing litigation costs, legal representation, and referrals to professional lawyers.
+
+### Invents Mandatory Receipt and Warranty Requirements
+
+The guide further claims that consumer complaints involving defective electronics fail without Thai-language receipts and warranty cards.
+
+Neither Section 20's complaint-filing procedure nor the legislation's general consumer-case provisions impose these documents as universal filing requirements.[^402]
+
+Receipts and warranty cards may provide useful evidence, but their absence does not automatically invalidate a consumer complaint.
+
+TVC converts recommended supporting evidence into purported mandatory documentation.
+
+### Misleading Consumers While Promoting Legal Referrals
+
+These errors consistently make consumer litigation appear more expensive, complicated, and dependent on professional representation than Thai law actually requires.
+
+The pattern is particularly troubling because Thai Visa Centre advertises referrals to licensed lawyers while providing inaccurate information about consumers' ability to pursue remedies independently.
+
+**A business promoting legal services should not be telling consumers that lawyers are mandatory when the law expressly provides procedures for filing claims without them.**
+
+The publication should be corrected to disclose the available filing procedures, statutory fee exemptions, and actual evidentiary requirements.
+
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -7251,3 +7298,7 @@ The discrepancies do not establish deliberate deception. However, they undermine
 [^399]: https://lawplayer.com/th/act/pythainlp_736e0c48e6681788 — Act on the Establishment of Labour Courts and Labour Court Procedure, Sections 27 and 35.
 
 [^400]: https://cacj-ajp.org/thailand/judiciary/description-of-courts/courts-of-appeal/ — Council of ASEAN Chief Justices, Thailand's Court of Appeal for Specialized Cases and Labour Case Division.
+
+[^401]: https://tvc.co.th/guides/litigation-consumer-protection-thailand — Thai Visa Centre, *Consumer Protection Act: Guide for Foreigners*.
+
+[^402]: https://lawplayer.com/th/act/ocs-%E0%B8%A70076-1B-0002/section/chapter-2.section-1 — Consumer Case Procedure Act B.E. 2551 (2008), Sections 18–20.
