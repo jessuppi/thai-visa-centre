@@ -5518,6 +5518,146 @@ Nevertheless, the agency presents detailed instructions for an abolished tax-inc
 
 **Thai Visa Centre should withdraw its ROH application instructions for new companies, identify the historical termination of the program, distinguish legacy approvals from currently available incentives, and direct prospective headquarters investors toward the applicable IBC framework.**
 
+## Bankruptcy Guide Conflates Liquidation, Rehabilitation, and Automatic Stay Protections
+
+Thai Visa Centre's *Bankruptcy: Guide for Foreigners*, marked reviewed June 2026, presents Thailand's bankruptcy and business rehabilitation procedures as parts of a generalized insolvency process.[^354]
+
+Its procedural overview states that either a creditor or debtor files a petition with the Central Bankruptcy Court, followed by an absolute receivership order, creditor meetings, and either reorganization or liquidation.
+
+The guide also prominently claims that filing triggers an automatic stay on most creditor enforcement while an official receiver or rehabilitation planner administers the estate.
+
+**These explanations fail to distinguish ordinary bankruptcy liquidation from business rehabilitation, which have different filing rights, legal requirements, and consequences for creditors.**
+
+### Ordinary Bankruptcy Is Generally Initiated by Creditors
+
+Section 9 of Thailand's Bankruptcy Act B.E. 2483 (1940) establishes the ordinary bankruptcy petition procedure.[^355]
+
+Under the provision, a creditor may seek bankruptcy proceedings where:
+
+- The debtor is insolvent.
+- An individual debtor owes at least 1 million baht to one or more petitioning creditors.
+- A juristic-person debtor owes at least 2 million baht to one or more petitioning creditors.
+- The relevant debt is definite and legally determinable.
+
+The court must examine the statutory conditions before ordering absolute receivership under Section 14.
+
+**An insolvent individual cannot ordinarily initiate voluntary personal bankruptcy merely by submitting a petition to obtain protection from creditors.**
+
+Chambers and Partners confirms that ordinary Thai bankruptcy proceedings are creditor-initiated rather than a voluntary bankruptcy procedure available to debtors.[^357]
+
+A separate statutory exception exists where the liquidator of a company undergoing winding-up applies for bankruptcy after discovering that its liabilities exceed its assets.
+
+That exception should not be confused with a general right for individuals or company directors to initiate ordinary bankruptcy proceedings.
+
+TVC's generalized petition-filing sequence fails to explain these distinctions.
+
+### Business Rehabilitation Uses a Separate Statutory Procedure
+
+Sections 90/2, 90/3, and 90/4 of the Bankruptcy Act establish a separate procedure for business rehabilitation.[^356]
+
+Unlike ordinary bankruptcy liquidation, qualifying rehabilitation proceedings may be initiated by:
+
+1. The debtor.
+2. One or more qualifying creditors.
+3. Authorized government supervisory authorities in specified circumstances.
+
+Under the ordinary corporate rehabilitation framework, Section 90/3 provides for a minimum indebtedness of 10 million baht and requires reasonable grounds and prospects for successfully rehabilitating the business.
+
+Separate rules may apply to qualifying small and medium-sized enterprises.
+
+The objective of rehabilitation is to preserve a viable business while restructuring its financial obligations under court supervision.
+
+Ordinary bankruptcy instead focuses on receivership, realizing the debtor's assets, and distributing proceeds among creditors.
+
+KPMG's May 2026 analysis independently identifies the debtor, creditors, and relevant government authorities as potential rehabilitation petitioners, subject to the statutory conditions.[^358]
+
+**A rehabilitation petition filed by a company is not equivalent to an ordinary bankruptcy petition filed against that company.**
+
+TVC's guide acknowledges that rehabilitation can preserve a business, but its combined procedural explanation does not adequately distinguish the separate statutory pathways.
+
+### Automatic Stay Does Not Arise From Every Bankruptcy Filing
+
+The discrepancy is particularly significant in TVC's description of creditor enforcement.
+
+The guide's summary prominently states that filing triggers a stay on most collection activity.
+
+However, Section 90/12 of the Bankruptcy Act specifically establishes automatic-stay protections in business rehabilitation proceedings.[^356]
+
+The protections arise when the court issues an order accepting the rehabilitation petition for consideration, subject to the statutory limitations and exceptions.
+
+They can restrict:
+
+- New civil litigation against the debtor concerning qualifying obligations.
+- Continuation of certain pending proceedings.
+- Enforcement against the debtor's property.
+- Enforcement of specified security interests without the necessary authorization.
+- Certain transfers, disposals, and payments by the debtor.
+
+Thailand's Legal Execution Department independently illustrates this sequence in its official business rehabilitation flowchart.[^359]
+
+**The legally significant event is the court's acceptance of the rehabilitation petition, not merely a debtor or creditor preparing or submitting paperwork.**
+
+Ordinary bankruptcy proceedings operate differently.
+
+The filing of a creditor's bankruptcy petition does not automatically create the broad rehabilitation moratorium under Section 90/12.
+
+The court may impose specific provisional measures where statutory conditions are met. An absolute receivership order subsequently transfers control of the debtor's assets to the official receiver under Section 22.
+
+These measures are legally distinct from the automatic stay applicable during business rehabilitation.
+
+TVC's generalized descriptions risk obscuring that distinction.
+
+### Receivership and Rehabilitation Planning Are Different Stages
+
+The guide's procedural sequence also places absolute receivership before discussions of either rehabilitation or asset distribution.
+
+This presentation conflates the administration of a bankrupt estate with the appointment and functions of a rehabilitation plan preparer.
+
+In ordinary bankruptcy, the official receiver assumes statutory authority over the debtor's assets following the relevant court order.
+
+Business rehabilitation follows a different framework involving the court, official receiver, appointed plan preparer, creditors, and subsequent plan administration.
+
+The court-supervised rehabilitation procedure can allow a qualifying debtor business to continue operating while its debts are restructured.
+
+The existence of a bankruptcy petition does not mean a company automatically proceeds through absolute receivership and then chooses between liquidation and rehabilitation.
+
+**These are different statutory processes, not interchangeable outcomes of a single filing sequence.**
+
+### Financial Consequences for Foreign Creditors and Business Owners
+
+The distinction matters for foreign entrepreneurs, investors, directors, lenders, and employees involved with financially distressed Thai businesses.
+
+A company owner relying on TVC's guidance could mistakenly believe that submitting an ordinary bankruptcy petition would immediately prevent creditors from taking enforcement action.
+
+A creditor might similarly misunderstand whether a debtor has obtained statutory protection, whether a separate claim can proceed, or when enforcement restrictions take effect.
+
+Potential consequences include:
+
+- Incorrect assumptions about whether a company qualifies for rehabilitation.
+- Failure to distinguish voluntary corporate rehabilitation from creditor-initiated bankruptcy.
+- Unnecessary litigation or procedural expenses.
+- Misunderstanding the enforceability of security interests.
+- Mistaken decisions concerning asset transfers, debt repayment, or ongoing operations.
+- Delays securing legal advice before insolvency proceedings affect visas and work permits.
+
+These are substantial financial and legal risks, particularly where company assets, employee wages, personal guarantees, or immigration sponsorship depend on the outcome.
+
+### Relevance to Thai Visa Centre's Commercial Services
+
+Thai Visa Centre advertises immigration coordination and referrals to licensed Thai insolvency lawyers for foreign business owners affected by bankruptcy or company restructuring.
+
+The company expressly states that it is not a law firm and does not represent customers in bankruptcy proceedings.
+
+That distinction limits what can reasonably be inferred about its involvement in individual cases.
+
+The available evidence does not establish that Thai Visa Centre has filed improper bankruptcy petitions, advised customers to disregard creditor enforcement, or caused financial losses through these publications.
+
+Nevertheless, **its guide presents legally distinct insolvency procedures through an oversimplified sequence while directing foreign business owners toward professional assistance.**
+
+TVC should revise the guide to distinguish ordinary creditor-initiated bankruptcy, qualifying corporate rehabilitation, statutory liquidator applications, and the separate conditions under which automatic-stay or receivership protections take effect.
+
+It should also identify the applicable filing thresholds and statutory provisions rather than implying that all forms of insolvency follow the same petition and enforcement procedure.
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -6036,3 +6176,15 @@ Nevertheless, the agency presents detailed instructions for an abolished tax-inc
 [^352]: https://www.thailawonline.com/thai-civil-code/section-1514/ — Civil and Commercial Code, Section 1514, governing mutual-consent divorce and referencing Section 1515 registration requirements.
 
 [^353]: https://www.thailawonline.com/thai-civil-code/section-1516/ — Civil and Commercial Code, Section 1516, establishing grounds for judicial divorce.
+
+[^354]: https://tvc.co.th/guides/litigation-bankruptcy-in-thailand — Thai Visa Centre, bankruptcy guide combining creditor and debtor petitions, receivership, rehabilitation, and automatic-stay descriptions.
+
+[^355]: https://www.led.go.th/doing/pdf/ba2483.pdf — Thailand Legal Execution Department, Bankruptcy Act B.E. 2483, Sections 9, 14, and 22, governing creditor-initiated bankruptcy and receivership.
+
+[^356]: https://www.led.go.th/doing/pdf/ba2483.pdf — Thailand Legal Execution Department, Bankruptcy Act, Sections 90/2–90/4 and 90/12, governing business rehabilitation and automatic-stay protections.
+
+[^357]: https://practiceguides.chambers.com/practice-guides/comparison/910/17615/27567-27568-27569-27570-27571-27572-27573-27574 — Chambers and Partners, *Insolvency 2025: Thailand*, distinguishing creditor-initiated bankruptcy, liquidator applications, and debtor-initiated business rehabilitation.
+
+[^358]: https://kpmg.com/th/en/insights/2026/05/business-rehabilitation-process-in-thailand.html — KPMG Thailand, May 2026, *Business Rehabilitation Process in Thailand*, explaining eligibility and filing procedures.
+
+[^359]: https://www.led.go.th/dbases/pdf/manual_eng02022561.pdf — Legal Execution Department, Ministry of Justice, official business rehabilitation flowchart identifying court acceptance and Section 90/12 protection.
