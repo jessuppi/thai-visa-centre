@@ -4568,6 +4568,146 @@ Nevertheless, its conflicting instructions concern a legally significant propert
 
 **TVC should correct its family-law overview to explain that prenuptial terms must be recorded simultaneously with marriage registration, distinguish advance preparation from official registration, and reconcile the instructions across its published guides.**
 
+## Divorce Guides Incorrectly Require Joint Attendance and Misstate Court Procedures
+
+Thai Visa Centre's *Divorce in Thailand: Amphoe and Family Court Options for Foreigners* guide, marked reviewed June 2026, repeatedly instructs couples that both spouses must attend the same district office to register a divorce by mutual consent.[^346]
+
+Its frequently asked questions explicitly advise that when one spouse cannot attend, a contested court divorce is required.
+
+The guide also suggests that couples normally return to the district office where their marriage was registered, warning against booking an appointment elsewhere.
+
+TVC's separate *Thailand Divorce FAQs* and *Uncontested Divorce in Thailand* guides reinforce the impression that both spouses must attend together for administrative divorce registration.[^347]
+
+**These instructions omit an established government procedure allowing mutually consenting spouses to register their divorce at separate registry offices, including qualifying cases involving different countries.**
+
+### Government Expressly Permits Divorce Registration at Different Offices
+
+Thailand's Bureau of Registration Administration, under the Department of Provincial Administration, publishes official instructions for registering divorce.[^348]
+
+The government recognizes two methods of registration by mutual consent:
+
+1. **Same-office registration:** Both spouses appear before the same registrar and complete their divorce registration together.
+2. **Different-office registration:** Each spouse completes the required registration procedure before a different registrar, with the offices exchanging documentation.
+
+The official manual explains the second procedure in detail.
+
+One spouse initially submits the application, identification documents, marriage-registration evidence, and written divorce agreement.
+
+The first registrar records the application and forwards the necessary documents to the second registrar.
+
+The other spouse subsequently appears before the second registrar, reviews the documents, and confirms consent.
+
+**The divorce becomes effective after the second registrar completes the required registration.**
+
+This is not a proxy divorce or an exemption from personal consent.
+
+Both spouses must still participate in the legally prescribed registration process.
+
+However, they are not categorically required to appear together at the same office.
+
+### Thai Embassy Confirms Cross-Border Registration
+
+The Royal Thai Embassy in Washington publishes separate instructions for divorces registered at different registrar offices.[^349]
+
+Its guidance explicitly addresses mutually consenting spouses who cannot travel to the same registration office.
+
+For eligible cases involving one spouse in Thailand and the other residing within the embassy's consular jurisdiction, the published procedure permits registration through:
+
+- A district registrar in Thailand.
+- The consular registrar at the Royal Thai Embassy in Washington.
+
+Either spouse may initiate the process under the applicable procedure.
+
+Documents are subsequently transmitted through official channels, enabling the other spouse to complete registration.
+
+The embassy confirms that both registrations must be completed before the divorce becomes effective.
+
+Its guidance also warns that U.S. immigration authorities may not recognize certain consular or different-office divorces for Green Card purposes.
+
+This is an important limitation: a divorce validly registered under Thai procedures may face separate recognition requirements in another jurisdiction.
+
+**Nevertheless, the embassy's published procedure directly contradicts TVC's categorical suggestion that spouses unable to attend the same office must obtain a contested Thai court divorce.**
+
+### Couples Do Not Have to Return to Their Original Marriage District
+
+TVC's general divorce guide also suggests that couples should normally register their divorce at the district where they originally married.
+
+Its FAQ tells couples who married in Phuket but now live in Bangkok that they often need to return to the original district office.[^346]
+
+However, the Bureau of Registration Administration's official instructions permit applications at authorized district registration offices without restricting them to the office where the marriage was originally registered.[^348]
+
+The U.S. Department of State likewise identifies the issuing authority for Thai divorce certificates as the original marriage district or any other district registration office.[^350]
+
+Individual offices may require document verification or advance appointments.
+
+Nevertheless, those practical arrangements do not establish a general legal requirement to return to the original marriage district.
+
+TVC should distinguish obtaining historical marriage-registration documents from choosing an authorized office to register a divorce.
+
+### Separate Guide Misidentifies the Governing Civil Code Section
+
+The problems extend to TVC's *Thai Divorce Law: Grounds, Property Division, and Court Procedure* guide.[^351]
+
+Under its administrative-divorce section, the publication identifies **Section 1516** as the legal pathway for divorce by mutual consent.
+
+This is incorrect.
+
+Thailand's Civil and Commercial Code distinguishes:
+
+- **Section 1514:** Divorce by mutual consent or court judgment, including the written-agreement and witness requirements for consensual divorce.
+- **Section 1515:** Registration requirements for a divorce by mutual consent.
+- **Section 1516:** Statutory grounds on which a spouse may seek divorce through court proceedings.[^352][^353]
+
+Section 1516 does not establish the ordinary administrative-divorce procedure.
+
+Indeed, TVC's separate contested-divorce guide correctly identifies Section 1516 as the basis for court divorce claims.
+
+The inconsistent citations reinforce a broader failure to distinguish consensual administrative registration from litigation involving contested divorce.
+
+### Civil Registration Is Not Administered by the Judiciary
+
+TVC's general divorce guide also describes district-office divorce registration as operating under the Office of the Judiciary's civil-registration system.[^346]
+
+However, district-level marriage and divorce registration falls within Thailand's civil-registration administration under the Ministry of Interior, through the Department of Provincial Administration and its Bureau of Registration Administration.[^348]
+
+The Office of the Judiciary has a separate role in proceedings requiring judicial determination, including contested divorce litigation.
+
+**Administrative registration and judicial divorce proceedings are distinct government functions.**
+
+Confusing the responsible authorities can make already complicated family-law procedures harder for foreign residents to navigate.
+
+### Financial and Immigration Consequences
+
+These errors matter particularly for Thai-foreign couples living in different provinces or countries.
+
+Spouses relying on TVC's instructions might:
+
+- Believe they must initiate contested litigation despite agreeing to divorce.
+- Incur unnecessary travel costs returning to the district where they married.
+- Arrange international flights merely to attend the same registration appointment.
+- Overlook a potentially available consular registration procedure.
+- Delay divorce registration while seeking court representation.
+- Misunderstand when their marriage legally ends and how that affects marriage-based immigration permission.
+
+The available evidence does not establish that Thai Visa Centre has directed specific customers into unnecessary litigation, received referral commissions from divorce lawyers, or caused financial losses through these instructions.
+
+Nor does the separate-office procedure apply automatically in every international situation. Eligibility, consular jurisdiction, documentary requirements, and foreign recognition must be individually assessed.
+
+Nevertheless, **TVC repeatedly presents joint attendance and contested litigation as mandatory alternatives while omitting an established administrative procedure expressly recognized by Thai government authorities.**
+
+### Recommended Corrections
+
+Thai Visa Centre should revise its divorce publications to:
+
+1. Explain same-office and different-office registration by mutual consent.
+2. Distinguish a spouse who cannot attend the same location from one who refuses to consent or cannot complete the required registration.
+3. Clarify that eligible couples may register at authorized offices other than their original marriage district.
+4. Identify the Department of Provincial Administration as the authority responsible for civil registration.
+5. Correct the references to Sections 1514, 1515, and 1516.
+6. Explain the separate recognition requirements potentially affecting divorces registered through Thai consular offices.
+
+These corrections would provide materially more accurate information to couples making significant legal, financial, and immigration decisions.
+
 ## Property Guides Omit Statutory Exceptions to Foreign Land Ownership
 
 Thai Visa Centre's *Thailand Property FAQ for Expats*, marked reviewed June 2026, categorically states that foreigners cannot legally own land in Thailand.[^339]
@@ -5880,3 +6020,19 @@ Nevertheless, the agency presents detailed instructions for an abolished tax-inc
 [^344]: https://www.boi.go.th/index.php?language=en&page=procedures_land — Thailand Board of Investment, official land-ownership procedures under Section 27 of the Investment Promotion Act.
 
 [^345]: https://en.thairath.co.th/scoop/interview/2935311 — Thairath, May 26, 2026, reporting on Land Department scrutiny and statutory foreign land-ownership exceptions.
+
+[^346]: https://tvc.co.th/guides/legal-services-thailand-divorce — Thai Visa Centre, general divorce guide requiring joint attendance, suggesting the original marriage district, and identifying court proceedings as necessary when one spouse cannot attend.
+
+[^347]: https://tvc.co.th/guides/legal-services-faqs-on-thailand-divorce — Thai Visa Centre, divorce FAQs presenting joint attendance as mandatory.
+
+[^348]: https://www.bora.dopa.go.th/callcenter1548/guidebook — Bureau of Registration Administration, Department of Provincial Administration, official divorce-registration procedures covering same-office, different-office, and court-ordered registration.
+
+[^349]: https://washingtondc.thaiembassy.org/en/page/divorceatdifferentoffices/ — Royal Thai Embassy in Washington, official instructions for divorce registration at different registrar offices.
+
+[^350]: https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country/Thailand.html — U.S. Department of State, Thailand civil-document guidance identifying authorized divorce-certificate issuing offices.
+
+[^351]: https://tvc.co.th/guides/thai-divorce-law — Thai Visa Centre, divorce-law guide incorrectly assigning mutual-consent proceedings to Section 1516.
+
+[^352]: https://www.thailawonline.com/thai-civil-code/section-1514/ — Civil and Commercial Code, Section 1514, governing mutual-consent divorce and referencing Section 1515 registration requirements.
+
+[^353]: https://www.thailawonline.com/thai-civil-code/section-1516/ — Civil and Commercial Code, Section 1516, establishing grounds for judicial divorce.
