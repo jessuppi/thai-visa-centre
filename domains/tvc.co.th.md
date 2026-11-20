@@ -4128,6 +4128,67 @@ Nevertheless, its published guidance fails to explain legally significant altern
 
 TVC should distinguish ordinary naturalization from nationality acquisition under Section 9 and the exemptions under Section 11, rather than presenting permanent residency as a standard compulsory step for foreign spouses.
 
+## Thai Nationality FAQ Incorrectly Excludes Children of Foreign Parents
+
+Thai Visa Centre's FAQ *Thai Nationality by Birth – Who Qualifies?*, marked reviewed June 2026, categorically states in its comparison table that children born in Thailand to two foreign parents do not acquire Thai nationality.[^311]
+
+The guide repeatedly explains that children of foreign parents remain foreign nationals, generally inheriting their parents' citizenship.
+
+Although its introduction briefly acknowledges unspecified exceptions, the detailed guidance does not identify the circumstances in which Thailand-born children of foreign nationals may acquire Thai citizenship.
+
+**This oversimplification omits important statutory nationality rights and could mislead families about their children's legal status.**
+
+### Nationality Act Recognizes Birthright Citizenship in Certain Cases
+
+Section 7(2) of Thailand's Nationality Act B.E. 2508 (1965) provides for Thai nationality by birth to persons born in Thailand, subject to statutory exclusions.[^312]
+
+Section 7 bis excludes children born to foreign parents where a parent holds certain temporary immigration permissions, receives special temporary residence concessions, or resides unlawfully.
+
+Section 8 separately excludes specified diplomatic, consular, and international-organization personnel and their families.
+
+These provisions do not categorically exclude every child born to two foreign nationals.
+
+**A child born in Thailand whose foreign parents both hold qualifying permanent-resident status may acquire Thai nationality by birth under Section 7(2).**
+
+The parents' immigration status at the time of birth, relevant statutory exclusions, and official civil-registration records determine the applicable legal position.
+
+Children born to tourists or other temporary residents generally do not acquire Thai nationality merely because they were born in Thailand.
+
+TVC's unconditional comparison table fails to explain this distinction.
+
+### Other Statutory Routes Exist for Thailand-Born Children
+
+Section 7 bis also permits the Minister of Interior to grant Thai nationality in qualifying cases under Cabinet-established criteria.[^312]
+
+Separately, Section 23 of the Nationality Act provides a nationality procedure for certain people born in Thailand during specified historical periods, including individuals affected by earlier nationality restrictions.
+
+Thailand's official government website identifies eligible groups, including people born between December 14, 1972, and February 25, 1992, under particular parental immigration circumstances, and certain qualifying descendants.[^313]
+
+These are conditional statutory procedures, not automatic citizenship entitlements for every child of foreign parents.
+
+Nevertheless, they contradict the impression that having two foreign parents necessarily rules out Thai nationality.
+
+### Consequences for Foreign Families
+
+Thai Visa Centre advertises assistance with birth registration, family immigration documentation, and dependent visas.
+
+Families relying on its simplified nationality advice could fail to investigate whether their children already possess Thai nationality by birth or qualify under another statutory procedure.
+
+Potential consequences include:
+
+- Unnecessary applications for foreign passports or dependent immigration status.
+- Failure to pursue appropriate Thai civil-registration documentation.
+- Delayed recognition of citizenship or nationality eligibility.
+- Additional legal expenses to correct misunderstandings about a child's status.
+
+Nationality and immigration status can affect education, residence, identification documents, and access to public services.
+
+The available evidence does not establish that Thai Visa Centre has caused a particular child to lose citizenship rights or incur financial losses through this FAQ.
+
+Nevertheless, **the agency presents an incomplete explanation of nationality law while marketing professional assistance to foreign families.**
+
+TVC should revise its FAQ to distinguish children of temporary foreign residents from children whose parents hold qualifying permanent residence, explain the relevant statutory exceptions, and direct families to the Department of Provincial Administration for individual nationality determinations.
+
 ## Business-Formation Guide Presents Prohibited Nominee Shareholding as an Option
 
 Thai Visa Centre's guide *Types of Business in Thailand: FBA Lists and Foreign Ownership*, marked reviewed June 2026, identifies Thai-majority limited companies as a standard structure involving genuine Thai partners or nominee arrangements reviewed by corporate counsel.[^225]
@@ -5207,3 +5268,9 @@ TVC should remove the supposed general startup audit exemption, distinguish limi
 [^309]: https://practiceguides.chambers.com/practice-guides/real-estate-2026/thailand/trends-and-developments/O25414 — Chambers and Partners, *Real Estate 2026: Thailand*, analysis of the Supreme Court ruling.
 
 [^310]: https://tvc.co.th/guides/property-leases — Thai Visa Centre, separate lease guide acknowledging the limitations of 90-year lease marketing.
+
+[^311]: https://tvc.co.th/faq/thai-nationality-by-birth — Thai Visa Centre, nationality-by-birth FAQ, marked reviewed June 2026.
+
+[^312]: https://report.dopa.go.th/laws/document/2/226.pdf — Department of Provincial Administration, English translation of Thailand's Nationality Act B.E. 2508, Sections 7, 7 bis, and 8.
+
+[^313]: https://www.thailand.go.th/issue-focus-detail/foreign-nationals-giving-birth-in-thailand-have-the-right-to-apply-for-nationality — Royal Thai Government, official explanation of nationality eligibility under Section 23.
