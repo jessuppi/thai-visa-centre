@@ -4189,6 +4189,108 @@ Nevertheless, **the agency presents an incomplete explanation of nationality law
 
 TVC should revise its FAQ to distinguish children of temporary foreign residents from children whose parents hold qualifying permanent residence, explain the relevant statutory exceptions, and direct families to the Department of Provincial Administration for individual nationality determinations.
 
+## Adoption Guides Incorrectly Require Thai Family Court Orders
+
+Thai Visa Centre's *Thailand Adoption Overview*, marked reviewed June 2026, identifies Thai family courts as authorities responsible for issuing adoption orders and claims that prospective parents must follow court procedures.[^324]
+
+Its separate *Thailand Adoption Requirements* guide presents a family-court petition, hearing, judgment, and subsequent registration as mandatory stages of the adoption process.[^325]
+
+A third publication, *Child Adoption in Thailand*, states that domestic adoptions require family-court orders and repeatedly describes licensed attorneys and court proceedings as necessary.[^326]
+
+**These categorical instructions contradict Thailand's statutory adoption framework and official government procedures.**
+
+### Civil and Commercial Code Establishes Registration as the Legal Requirement
+
+Section 1598/27 of Thailand's Civil and Commercial Code provides that an adoption becomes legally effective upon registration according to law.[^327]
+
+For minors, the statutory process must also comply with Thailand's Child Adoption Act and applicable administrative requirements.
+
+Ordinary adoption procedures therefore involve approval by the appropriate child-adoption authorities and subsequent registration, rather than a universal requirement to obtain a Thai family-court judgment.
+
+Thailand's official government website confirms that:
+
+- Adoption of a minor ordinarily requires Child Adoption Board approval.
+- Following approval, applicants register the adoption with the appropriate registrar.
+- Qualifying adult adoptions may be registered without Child Adoption Board approval.[^328]
+
+Court intervention may be necessary in exceptional circumstances, including disputes concerning parental consent or other statutory requirements.
+
+However, **the existence of special judicial procedures does not establish that all adoptions require court orders.**
+
+TVC's guides fail to distinguish these situations.
+
+### U.S. State Department Explicitly Confirms Thai Courts Are Not Involved
+
+The discrepancy is particularly clear for intercountry adoptions.
+
+The U.S. Department of State's official *Thailand Intercountry Adoption Information* directly addresses the role of Thai courts.
+
+It states that Thai courts are not involved in the ordinary intercountry adoption process.[^329]
+
+Instead, Thailand's Department of Children and Youth and Child Adoption Board administer the applicable approval procedures.
+
+Prospective adoptive parents may complete the supervised pre-adoption period and subsequently:
+
+1. Obtain approval to finalize the adoption in the receiving country, where applicable.
+2. Complete the placement period in Thailand and register the adoption through a Thai district office.
+
+The Department of State also explains that the six-month supervised placement period may occur outside Thailand, subject to the applicable procedures and reporting requirements.
+
+This contradicts TVC's presentation of a six-month placement in Thailand followed by a Thai family-court hearing as the standard intercountry adoption pathway.
+
+**TVC incorrectly substitutes a judicial process for the administrative procedures expressly described by the relevant government authorities.**
+
+### Thai Embassy Confirms Registration Through Diplomatic Missions
+
+The Royal Thai Embassy in Washington independently describes the country's adoption process.[^330]
+
+Its guidance identifies the Department of Social Development and Welfare, Child Adoption Board, supervised placement, and official registration as the principal stages.
+
+After the applicable approvals, adoption registration can occur at:
+
+- A Royal Thai Embassy or Consulate in the adoptive parents' country of residence.
+- An authorized district or local registration office in Thailand.
+
+The embassy does not describe a Thai family-court judgment as a universal requirement for these ordinary adoption procedures.
+
+The distinction also matters for families completing adoptions abroad under the Hague Convention.
+
+Such families may have separate judicial or administrative requirements in the receiving country, but those requirements should not be confused with a supposedly mandatory Thai family-court proceeding.
+
+### TVC Repeatedly Promotes Legal Referrals for an Incorrectly Described Process
+
+The problem extends beyond a single inaccurate checklist.
+
+TVC's adoption publications repeatedly emphasize that prospective parents need licensed adoption lawyers and court proceedings.
+
+Its *Child Adoption in Thailand* guide advertises referrals to specialist Thai counsel while describing court orders as mandatory for lawful adoption.
+
+Qualified legal advice can be valuable, especially in complex family circumstances or disputed adoptions.
+
+However, **the ordinary administrative adoption process should not be represented as universally requiring litigation or a Thai family-court order.**
+
+Mischaracterizing the procedure could cause prospective adoptive parents to:
+
+- Expect unnecessary court petitions and judicial hearings.
+- Budget for legal representation based on an incorrect description of mandatory procedures.
+- Misunderstand the role of the Child Adoption Board and Department of Children and Youth.
+- Arrange extended stays in Thailand under the mistaken belief that supervised placement must occur locally.
+- Delay lawful adoption planning while preparing for court proceedings that may not be required.
+
+Intercountry adoption remains a heavily regulated process. Official approval, accredited adoption-service providers where applicable, child-welfare assessments, and receiving-country requirements must still be satisfied.
+
+The absence of a mandatory Thai court hearing does not eliminate these safeguards.
+
+### Relevance to Thai Visa Centre's Commercial Services
+
+Thai Visa Centre advertises immigration coordination, document legalization, and referrals to specialist lawyers for prospective adoptive families.
+
+The available evidence does not establish that the company has charged customers for unnecessary court proceedings, referred families to lawyers for nonexistent requirements, or caused failed adoptions.
+
+Nevertheless, its published guidance repeatedly identifies judicial procedures as mandatory where official sources describe an administrative registration process.
+
+**TVC should correct its adoption guides to distinguish Child Adoption Board approval, statutory registration, receiving-country requirements, and the exceptional circumstances in which Thai court intervention may actually be necessary.**
+
 ## Business-Formation Guide Presents Prohibited Nominee Shareholding as an Option
 
 Thai Visa Centre's guide *Types of Business in Thailand: FBA Lists and Foreign Ownership*, marked reviewed June 2026, identifies Thai-majority limited companies as a standard structure involving genuine Thai partners or nominee arrangements reviewed by corporate counsel.[^225]
@@ -5450,3 +5552,17 @@ TVC should remove the supposed general startup audit exemption, distinguish limi
 [^322]: https://www.rd.go.th/region/01/48.html — Revenue Department Region 1, official application checklist for Certificates of Residence.
 
 [^323]: https://www.rd.go.th/english/21974.html — Revenue Department, English-language guidance on tax certificates, issuing authorities, and application procedures.
+
+[^324]: https://tvc.co.th/guides/thailand-adoption — Thai Visa Centre, adoption overview incorrectly describing mandatory court procedures.
+
+[^325]: https://tvc.co.th/guides/thailand-adoption-requirements — Thai Visa Centre, adoption requirements guide prescribing family-court petitions and judgments.
+
+[^326]: https://tvc.co.th/guides/legal-services-thailand-adoption — Thai Visa Centre, adoption guide repeatedly advertising required court proceedings and legal referrals.
+
+[^327]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-adoption-section-1598-19-1598-37/ — Civil and Commercial Code, Sections 1598/21–1598/27, addressing consent, exceptional court intervention, and adoption registration.
+
+[^328]: https://www.thailand.go.th/public/guide-book-detail/001_01_189 — Royal Thai Government, official adoption procedures distinguishing minor and adult adoption registration.
+
+[^329]: https://travel.state.gov/content/travel/en/Intercountry-Adoption/Intercountry-Adoption-Country-Information/Thailand.html — U.S. Department of State, Thailand intercountry adoption procedures confirming the absence of ordinary Thai court involvement.
+
+[^330]: https://washingtondc.thaiembassy.org/en/page/thaichildadoption — Royal Thai Embassy in Washington, official Child Adoption Board procedures and registration requirements.
