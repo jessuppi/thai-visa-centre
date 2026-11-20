@@ -4344,6 +4344,67 @@ Nevertheless, the company presents contradictory legal instructions while advert
 
 TVC should correct its remarriage FAQ, identify the scope and exceptions of Section 1453, update its minimum-age guidance, and reconcile its published marriage-registration instructions.
 
+## Property Guide Promotes 90-Year Lease Structure Despite Supreme Court Ruling
+
+Thai Visa Centre's *Property Law in Thailand for Expats* guide, marked reviewed June 2026, prominently advertises **30+30+30 years** as a leasehold term available to foreign property buyers.[^306]
+
+The guide states that registered leases can extend in successive blocks but does not explain the significant legal restrictions affecting arrangements intended to secure 90 years of occupancy from the outset.
+
+**This presentation risks giving foreign buyers an exaggerated impression of the security provided by prearranged lease renewals.**
+
+### Civil and Commercial Code Limits Ordinary Leases to 30 Years
+
+Section 540 of Thailand's Civil and Commercial Code generally limits ordinary immovable-property leases to 30 years, while permitting subsequent renewals subject to legal requirements.[^307]
+
+The distinction between a valid initial lease and promised future renewals is fundamental.
+
+A registered 30-year lease does not automatically secure another 60 years of legally enforceable occupancy.
+
+### Supreme Court Invalidated a 30+30+30 Arrangement
+
+In **Supreme Court Decision 4655/2566**, issued in 2023, the court examined a Phuket property lease involving:
+
+- An initial registered 30-year term.
+- Promises of two additional 30-year terms made when the original lease was signed.
+- Advance payment covering all three periods.
+- Renewal terms agreed at the outset rather than renegotiated when the initial lease expired.
+
+The Supreme Court held that the arrangements for the additional 60 years were intended to circumvent Section 540 and were therefore void.[^308]
+
+The initial 30-year lease remained effective. However, after its expiration, the tenant could not compel the promised renewal. The court upheld eviction and awarded damages for continued occupation without legal entitlement.
+
+A 2026 analysis published by Chambers and Partners confirms the substantial enforceability risks associated with prearranged long-term lease structures.[^309]
+
+The decision does not establish that every future renewal agreement is invalid. Its reasoning particularly concerns attempts to secure successive 30-year periods on predetermined terms that circumvent the statutory limit.
+
+**The legally important distinction is between a renewable 30-year lease and a supposedly secured 90-year property interest.**
+
+### TVC's Separate Lease Guide Acknowledges the Problem
+
+The inconsistency is especially apparent because Thai Visa Centre's dedicated *Property Leases in Thailand* guide expressly warns against trusting 90-year lease marketing.[^310]
+
+That publication acknowledges that only the initial 30-year term enjoys ordinary statutory protection and that later renewal promises have uncertain enforceability.
+
+It also advises foreigners to obtain independent legal review before paying deposits.
+
+TVC therefore gives readers conflicting impressions:
+
+Its property overview advertises **30+30+30 years** as a prominent leasehold term, while its specialist guide recognizes that the additional periods are not assured.
+
+### Financial Implications for Foreign Buyers
+
+The distinction matters particularly for foreigners considering expensive leasehold villas in Phuket, Samui, Pattaya, and other property markets.
+
+A buyer might pay a substantial upfront premium for what appears to be 90 years of occupation, even though the enforceable rights could be limited to the initial registered term.
+
+This can affect property valuation, resale expectations, inheritance planning, and the financial security of retirement investments.
+
+The available evidence does not establish that Thai Visa Centre has sold invalid leasehold arrangements or received commissions from developers promoting unenforceable renewals.
+
+Nevertheless, the agency advertises property-related legal referrals and immigration coordination while presenting a legally sensitive lease structure without adequately explaining the relevant Supreme Court decision.
+
+**Thai Visa Centre should replace its simplified 30+30+30-year presentation with an explanation distinguishing enforceable registered lease terms, conditional renewal agreements, and arrangements that courts may invalidate as attempts to evade Section 540.**
+
 ## Condominium Guides Incorrectly Require Overseas Remittances From Permanent Residents
 
 Thai Visa Centre's guide *Condo in Thailand*, marked reviewed June 2026, presents foreign-currency remittances and Foreign Exchange Transaction (FET) documentation as mandatory requirements for every foreign condominium purchase.[^246]
@@ -5136,3 +5197,13 @@ TVC should remove the supposed general startup audit exemption, distinguish limi
 [^304]: https://london.thaiembassy.org/en/page/after-e-visa-approval — Royal Thai Embassy in London, official guidance on single-entry visas, extensions, and re-entry permits, updated November 18, 2026.
 
 [^305]: https://tvc.co.th/guides/re-entry-permit-thailand — Thai Visa Centre, separate re-entry permit guide acknowledging that permits for tourist extensions are uncommon.
+
+[^306]: https://tvc.co.th/guides/property — Thai Visa Centre, property law guide advertising 30+30+30-year leasehold terms.
+
+[^307]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-exchange-section-537-545/ — Civil and Commercial Code, Section 540.
+
+[^308]: https://deka.in.th/deka/2566-4655 — Supreme Court Decision 4655/2566, invalidating prearranged and prepaid 30+30+30 lease renewals.
+
+[^309]: https://practiceguides.chambers.com/practice-guides/real-estate-2026/thailand/trends-and-developments/O25414 — Chambers and Partners, *Real Estate 2026: Thailand*, analysis of the Supreme Court ruling.
+
+[^310]: https://tvc.co.th/guides/property-leases — Thai Visa Centre, separate lease guide acknowledging the limitations of 90-year lease marketing.
