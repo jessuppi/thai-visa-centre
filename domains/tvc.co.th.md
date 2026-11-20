@@ -4568,6 +4568,127 @@ Nevertheless, its conflicting instructions concern a legally significant propert
 
 **TVC should correct its family-law overview to explain that prenuptial terms must be recorded simultaneously with marriage registration, distinguish advance preparation from official registration, and reconcile the instructions across its published guides.**
 
+## Property Guides Omit Statutory Exceptions to Foreign Land Ownership
+
+Thai Visa Centre's *Thailand Property FAQ for Expats*, marked reviewed June 2026, categorically states that foreigners cannot legally own land in Thailand.[^339]
+
+When directly asked whether a foreigner can own land, the guide answers:
+
+> No. Direct land ownership by foreigners is prohibited under the Land Code.
+
+Its separate *Buying a House in Thailand as a Foreigner* guide similarly describes foreign freehold ownership as prohibited and presents leasehold arrangements, usufructs, and Thai-spouse ownership as the available alternatives.[^340]
+
+The agency's broader *Property Law in Thailand for Expats* guide also categorizes direct foreign land ownership as unavailable in its property comparison table.[^341]
+
+**These categorical statements omit express statutory exceptions under which qualifying foreigners can legally acquire land in Thailand.**
+
+### Land Code Section 96 Bis Permits Limited Foreign Freehold Ownership
+
+Section 96 bis of Thailand's Land Code establishes a specific exception to the ordinary restrictions on foreign land ownership.
+
+Under this provision, a qualifying foreign individual may acquire up to **one rai (1,600 square metres)** of land for residential purposes, subject to substantial investment and government approval requirements.[^342]
+
+Thailand's official government guidance identifies the principal conditions:
+
+- Investment of at least **40 million baht** in qualifying Thai assets or activities.
+- Maintenance of the qualifying investment for the prescribed period, identified in government guidance as at least five years.
+- Explicit permission from the Minister of Interior.
+- Land restricted to designated geographic areas, including Bangkok, Pattaya, qualifying municipalities, and approved residential zones.
+- Residential use consistent with the statutory conditions.
+
+Qualifying investments may include specified government bonds, property funds, investments in promoted companies, and other approved activities.
+
+These requirements are exceptionally restrictive, and obtaining approval is not automatic.
+
+Nevertheless, **the law expressly permits foreign freehold land ownership in circumstances that TVC's guides describe as categorically impossible.**
+
+### Government Publishes Registration Procedures for Foreign Owners
+
+The omission is particularly significant because Thailand's government publishes specific documentation requirements for foreigners seeking land ownership under the permitted exceptions.[^343]
+
+The published requirements include:
+
+- Identification and nationality documentation.
+- Evidence of qualifying investment funds.
+- Certificates establishing the nature and amount of the investment.
+- Town-planning confirmation that the land is situated in a permitted residential area.
+- Confirmation that the property is outside restricted military safety zones.
+- Land-title documentation and location plans.
+
+These requirements demonstrate that the statutory exception is accompanied by an identifiable administrative application procedure.
+
+The existence of the procedure does not guarantee approval or establish that ordinary foreign buyers can qualify.
+
+However, it directly contradicts an explanation that excludes all foreign individuals from freehold land ownership.
+
+### BOI-Promoted Foreign Companies Have Separate Land Rights
+
+A second exception exists under Thailand's Investment Promotion Act.
+
+Section 27 authorizes qualifying BOI-promoted entities to own land needed for their approved investment activities.[^344]
+
+The Board of Investment expressly recognizes that companies treated as foreign under Thai land law may obtain permission to hold qualifying land.
+
+The permitted amount depends on the promoted activities, applicable BOI criteria, and the authorization granted.
+
+This is not equivalent to unrestricted private land ownership.
+
+A foreign shareholder does not personally own land simply because a BOI-promoted company holds its title.
+
+Likewise, ordinary Thai companies using nominee shareholders to conceal foreign control do not acquire lawful land ownership through these exceptions.
+
+Nevertheless, the BOI framework establishes another legally recognized category of foreign land ownership that should be distinguished from prohibited nominee arrangements.
+
+### Land Department Recognizes the Exceptions
+
+The distinction is not merely theoretical.
+
+A May 26, 2026 report concerning the Land Department's enforcement of foreign land-ownership restrictions identified three principal exceptions:
+
+1. Qualifying inheritance under Section 93 of the Land Code.
+2. Residential acquisition under Section 96 bis following the required investment and ministerial approval.
+3. Ownership authorized under separate legislation, including the Investment Promotion Act and other applicable investment laws.[^345]
+
+The report also described intensified scrutiny of nominee arrangements and suspicious land transfers.
+
+These enforcement measures do not abolish the statutory exceptions.
+
+Rather, they underscore the importance of distinguishing legitimate, expressly authorized foreign ownership from prohibited arrangements designed to evade nationality restrictions.
+
+**A comprehensive property guide should explain both the prohibition and its narrowly defined legal exceptions.**
+
+### Financial Implications for Foreign Buyers
+
+The distinction matters particularly for wealthy foreign investors, business owners, and long-term residents considering substantial property investments in Thailand.
+
+Foreigners relying on TVC's categorical statements might incorrectly conclude that direct land ownership is legally impossible regardless of investment size or government authorization.
+
+This could affect decisions concerning:
+
+- Residential investment structures.
+- Foreign-owned business expansion.
+- BOI investment-promotion applications.
+- Long-term property and estate planning.
+- Whether to pursue freehold ownership or alternative arrangements involving leases and registered rights.
+
+The statutory exceptions are unlikely to benefit most ordinary property buyers.
+
+Indeed, for many foreigners, a registered condominium or carefully structured lease remains considerably more practical.
+
+Nevertheless, the existence of substantial eligibility requirements does not justify describing a lawful ownership route as nonexistent.
+
+### Relevance to Thai Visa Centre's Commercial Services
+
+Thai Visa Centre advertises property-related legal referrals, immigration coordination, and assistance for foreign investors establishing businesses in Thailand.
+
+Its property publications repeatedly direct readers toward leasehold structures and other alternatives without explaining the Section 96 bis investment exception.
+
+The available evidence does not establish that Thai Visa Centre has improperly directed customers into leasehold investments, earned commissions from particular property transactions, or caused financial losses through these omissions.
+
+However, its categorical explanations fail to distinguish the general prohibition from recognized statutory exceptions that could be material to some prospective customers.
+
+**Thai Visa Centre should revise its property guides to explain Section 96 bis, identify the applicable investment and ministerial-approval requirements, distinguish BOI-promoted corporate ownership from personal freehold rights, and clarify that nominee structures remain unlawful.**
+
 ## Property Guide Promotes 90-Year Lease Structure Despite Supreme Court Ruling
 
 Thai Visa Centre's *Property Law in Thailand for Expats* guide, marked reviewed June 2026, prominently advertises **30+30+30 years** as a leasehold term available to foreign property buyers.[^306]
@@ -5745,3 +5866,17 @@ Nevertheless, the agency presents detailed instructions for an abolished tax-inc
 [^337]: https://www.boi.go.th/index.php?page=faq-ipo-ibc-tiso — Thailand Board of Investment, official FAQ addressing conversion from older headquarters programs to IBC and eligibility for new incentives.
 
 [^338]: https://taxsummaries.pwc.com/thailand/corporate/tax-credits-and-incentives — PwC, Thailand corporate-tax incentives, including current IBC eligibility and preferential tax rates.
+
+[^339]: https://tvc.co.th/guides/property-thailand-property-faq — Thai Visa Centre, property FAQ categorically denying foreign land ownership.
+
+[^340]: https://tvc.co.th/guides/property-thailand-buying-house — Thai Visa Centre, house-buying guide describing foreign freehold land ownership as prohibited.
+
+[^341]: https://tvc.co.th/guides/property — Thai Visa Centre, property-law overview categorizing foreign land ownership as unavailable.
+
+[^342]: https://www.thailand.go.th/issue-focus-detail/010_007?hl=en — Royal Thai Government, foreign land-ownership requirements under Section 96 bis.
+
+[^343]: https://www.thailand.go.th/public/guide-book-detail/010_006 — Royal Thai Government, documentary requirements for foreign land acquisition.
+
+[^344]: https://www.boi.go.th/index.php?language=en&page=procedures_land — Thailand Board of Investment, official land-ownership procedures under Section 27 of the Investment Promotion Act.
+
+[^345]: https://en.thairath.co.th/scoop/interview/2935311 — Thairath, May 26, 2026, reporting on Land Department scrutiny and statutory foreign land-ownership exceptions.
