@@ -4823,6 +4823,87 @@ Nevertheless, **its June 2026 guide repeats a superseded interpretation of forei
 
 TVC should remove the same-year limitation, explain Orders P.161/2566 and P.162/2566, distinguish pre-2024 income from later earnings, and clarify that the tax treatment depends on residence status in the year the income arises and the applicable remittance rules.
 
+## Tax Residency Certificate Guide Repeatedly Identifies the Wrong Government Form
+
+Thai Visa Centre's *Tax Residency Certificates in Thailand: Form 205 Guide*, marked reviewed June 2026, repeatedly identifies **Form 205** as the official document used to apply for or establish Thai tax residency.[^320]
+
+The guide prominently displays Form 205 in its summary, describes it as the Revenue Department's tax residency certificate, and instructs both individual and corporate applicants to submit the same numbered form.
+
+Its application checklist and frequently asked questions repeat this designation.
+
+**These instructions contradict the Revenue Department's published application procedures and certificate classifications.**
+
+### Revenue Department Identifies R.O.01 and R.O.22
+
+Thailand's Revenue Department distinguishes between the application used to request an English-language tax certificate and the certificate subsequently issued.
+
+Revenue Department Region 2 identifies:
+
+- **R.O.01 (ร.อ.01):** The application form used to request English-language tax certificates.
+- **R.O.21 (ร.อ.21):** Income Tax Payment Certificate.
+- **R.O.22 (ร.อ.22):** Certificate of Residence for Thai tax purposes.[^321]
+
+The Revenue Department's Region 1 office independently instructs applicants requesting a Certificate of Residence to submit **R.O.01**, specifying the country in which the certificate will be used.[^322]
+
+Its published procedures identify supporting documents for individual and corporate applicants.
+
+The Revenue Department's English-language website also confirms that tax residence certificates are issued upon written application with supporting documents to the responsible Revenue Office.[^323]
+
+None of these official instructions identifies Form 205 as the application or certificate required for Thai tax residency confirmation.
+
+**TVC's use of Form 205 is therefore unsupported by the published Revenue Department procedures.**
+
+### Application and Certificate Are Different Documents
+
+The distinction is important because applying for a certificate and receiving one involve separate administrative steps.
+
+An applicant ordinarily submits R.O.01 with supporting evidence, after which the Revenue Department may issue an R.O.22 Certificate of Residence if the applicable requirements are satisfied.
+
+The department's published instructions identify documentation that can include:
+
+- Relevant personal or corporate income tax returns.
+- Tax payment receipts.
+- Identification or passport documentation.
+- Evidence of physical presence in Thailand for individual applicants.
+- The foreign treaty country for which the certificate is requested.
+- Additional records required by the responsible Revenue Office.
+
+Revenue Department Region 2 specifically requests an individual's passport entry-and-exit records and a travel-history summary for the relevant tax year.[^321]
+
+Corporate applicants face different supporting-document requirements, including corporate registration and tax filings.
+
+TVC's guide does not clearly explain these official distinctions.
+
+Instead, it repeatedly presents Form 205 as though the same numbered document serves both the application and certification functions.
+
+### Treaty Benefits Depend on Correct Documentation
+
+Thai tax residency certificates can be important when individuals or companies claim relief under double-taxation agreements.
+
+A certificate may be requested by a foreign tax authority, employer, bank, investment institution, or other payer when determining eligibility for treaty benefits.
+
+Applicants following incorrect form instructions could:
+
+- Search for or attempt to submit a form that is not identified in the Revenue Department's published procedure.
+- Prepare incomplete applications or omit required supporting documents.
+- Confuse the application with the actual certificate issued.
+- Experience delays obtaining documentation needed for foreign tax filings or treaty-based withholding relief.
+- Incur unnecessary professional or administrative expenses correcting paperwork.
+
+The consequences may be particularly significant when a taxpayer faces filing deadlines or needs a certificate to support reduced foreign withholding taxes.
+
+### Relevance to TVC's Professional Services
+
+Thai Visa Centre markets immigration coordination, relocation planning, and related administrative guidance to foreign residents.
+
+Its tax residency guide directs readers toward its immigration services while explaining how tax documentation intersects with long-term residence and international financial obligations.
+
+The available evidence does not establish that Thai Visa Centre has submitted invalid tax certificate applications, caused rejected filings, or collected fees for nonexistent forms.
+
+Nevertheless, the agency presents an incorrect or unsupported form designation throughout a guide specifically intended to explain the official application procedure.
+
+**TVC should replace its repeated references to Form 205 with the Revenue Department's documented R.O.01 application and R.O.22 Certificate of Residence, clearly distinguish the two documents, and provide accurate supporting-document instructions for individuals and companies.**
+
 ## Corporate Compliance Guides Misstate Mandatory Audits and Tax Deadlines
 
 Thai Visa Centre's guides *Accounting and Tax Compliance in Thailand* and *Corporate Tax in Thailand*, both marked reviewed June 2026, contain incorrect instructions concerning mandatory audits, corporate tax prepayments, and social-security contributions.[^266][^267]
@@ -5361,3 +5442,11 @@ TVC should remove the supposed general startup audit exemption, distinguish limi
 [^318]: https://www.tilleke.com/insights/inheritance-condominium-units-foreigners-thailand/5/ — Tilleke & Gibbins, analysis of condominium inheritance and succession to Section 19(5) ownership rights.
 
 [^319]: https://www.thailand.go.th/useful-information-detail/010_011 — Royal Thai Government, documentary requirements for foreign property registration and inheritance transfers.
+
+[^320]: https://tvc.co.th/guides/tax-residency-certificates-thailand — Thai Visa Centre, tax residency certificate guide repeatedly identifying Form 205, marked reviewed June 2026.
+
+[^321]: https://www.rd.go.th/region/02/48.html — Revenue Department Region 2, official English-language certificate procedures identifying R.O.01 and R.O.22.
+
+[^322]: https://www.rd.go.th/region/01/48.html — Revenue Department Region 1, official application checklist for Certificates of Residence.
+
+[^323]: https://www.rd.go.th/english/21974.html — Revenue Department, English-language guidance on tax certificates, issuing authorities, and application procedures.
