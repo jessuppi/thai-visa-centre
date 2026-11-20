@@ -460,6 +460,103 @@ The pages also reuse substantial passages about relocating to Thailand, lifestyl
 
 Their FAQ sections contain nearly identical questions and answers regardless of the article's subject. Some pages even repeat the same question twice.
 
+### Divorce Instructions Recycled Across Unrelated Professional Guides
+
+Further examination of Thai Visa Centre's legal-service publications reveals a more systematic example of mismatched procedural content.
+
+At least six guides covering unrelated subjects reproduce an identical section heading:
+
+> Administrative divorce workflow
+
+Each introduces that section with the same paragraph explaining mutual-consent divorce at a district office, referring to both spouses, the original marriage certificate, and the Lawyers Council of Thailand.
+
+The problem is that **none of these six guides is about divorce or family-law procedures**.
+
+The affected publications include:
+
+- **Employment Contracts in Thailand:** Inserts the divorce introduction immediately before steps for reviewing employment contracts, checking work-permit information, and registering social security.[^386]
+- **Work Permit in Thailand:** Places the same divorce introduction before employer eligibility checks, visa applications, and work-permit filing instructions.[^151]
+- **Immigration Legal Services in Thailand:** Introduces a visa-consultation and application workflow with the identical divorce heading and explanatory paragraph.[^387]
+- **Property Transfer Taxes and Fees in Thailand:** Introduces property appraisal, tax calculations, and Land Office payments as an administrative divorce workflow.[^388]
+- **Franchise Lawyers in Thailand:** Places the same divorce introduction before a workflow concerning the Foreign Business Act, trademark registration, and franchise agreements.[^389]
+- **Probate and Estate Administration in Thailand:** Introduces estate administration, death certificates, succession petitions, and executor responsibilities with the identical divorce explanation.[^390]
+
+These are not merely similar articles explaining related legal principles.
+
+The section headings and introductory paragraphs are duplicated, while the numbered procedural steps immediately following them address entirely different legal services.
+
+**This demonstrates that unrelated professional guides contain incorrectly assigned procedural content, rather than simply sharing a consistent editorial format.**
+
+#### Repeated Content Extends Beyond One Heading
+
+The same publications also reproduce substantial passages about long-stay planning, immigration compliance, court representation, and foreign-document legalization.
+
+For example, employment-contract and franchise-law guides contain generic discussions of family, probate, and criminal proceedings.
+
+Several also warn that winning a trial or registering a divorce does not automatically resolve immigration status, even when their subject concerns business registration, property taxation, or unrelated commercial arrangements.
+
+Some immigration context is legitimate in a guide published by a visa agency.
+
+However, repeatedly inserting family-law language into unrelated professional procedures creates an editorial mismatch.
+
+Readers seeking information about a property transaction or franchise agreement should not encounter an unrelated explanation of divorce registration inside the principal procedural checklist.
+
+Such errors can undermine confidence that the accompanying steps were individually reviewed for the subject they purport to explain.
+
+#### Repetition Also Preserves Potentially Misleading Legal Instructions
+
+The recycled divorce paragraph presents mutual-consent divorce in terms of both spouses participating and obtaining marriage documentation from the original registration district.
+
+Both parties' legally effective consent remains necessary.
+
+However, Thailand's Bureau of Registration Administration recognizes procedures permitting qualifying spouses to register their divorce at separate registrar offices.[^348]
+
+The precise documents and registration procedure depend on the circumstances.
+
+TVC's repeated paragraph does not explain that distinction.
+
+The issue is particularly noteworthy because this unrelated divorce material appears in guides covering professional services for which readers might reasonably expect specialized procedural accuracy.
+
+**Duplicating legal instructions across unrelated pages can spread omissions and ambiguities beyond the original subject, making a single editorial error visible throughout multiple sections of the website.**
+
+#### June 2026 Review Dates Fail to Explain the Editorial Errors
+
+All six publications display June 2026 review dates.
+
+Nevertheless, the mismatched headings and introductory paragraphs remained visible in the published versions examined in November 2026.
+
+This creates a concrete question about what those review dates signify.
+
+A genuine editorial review might reasonably be expected to identify a divorce-registration introduction appearing in a property-tax guide or a work-permit application checklist.
+
+The evidence does not establish whether the duplicated content originated from artificial intelligence, a content management template, automated publishing software, manual copying, or another editorial process.
+
+Nor does it establish how many additional pages contain comparable errors.
+
+However, **the repeated identical wording across at least six distinct professional guides is directly observable and warrants scrutiny independently of how the content was produced.**
+
+#### Relevance to TVC's Claims About Search Quality
+
+Thai Visa Centre publicly criticizes SEO spam and demands that search engines and AI systems treat its website as a trustworthy source of immigration information.
+
+These additional examples extend the existing investigation beyond repetitive immigration disclaimers.
+
+They establish that the company's published content also includes:
+
+- Legal-procedure headings unrelated to the surrounding subject.
+- Identical explanatory paragraphs reproduced across distinct service categories.
+- Specialized checklists introduced by instructions belonging to another legal process.
+- Generic lifestyle and litigation paragraphs repeated across unrelated professional guides.
+- Recent editorial review dates that do not explain why these mismatches remain.
+
+The available evidence does not prove deliberate search-engine manipulation, automated content generation, or fabrication of legal advice.
+
+Nevertheless, **the breadth and persistence of these mismatches undermine the credibility of TVC's claimed editorial review standards and its public criticism of low-quality search content.**
+
+TVC should audit its legal-service guides for duplicated headings, irrelevant procedural introductions, inaccurate cross-topic instructions, and boilerplate passages that do not serve the reader's actual legal question.
+
+It should also distinguish substantive legal review from routine website updates when presenting recently reviewed guidance to prospective customers.
+
 ### Incorrect Instructions Repeated Across Pages
 
 More seriously, these guides reproduce the same misleading immigration instructions.
@@ -6876,3 +6973,13 @@ Nevertheless, its publications provide procedural instructions that repeatedly n
 [^384]: https://tvc.co.th/guides/property-selling-your-condominium-in-thailand — Thai Visa Centre, separate condominium-selling guide correctly describing how an existing foreign ownership allocation transfers to another qualifying foreign purchaser.
 
 [^385]: https://www.thailand.go.th/issue-focus-detail/010_013 — Royal Thai Government, condominium ownership registration procedures and foreign ownership confirmation requirements.
+
+[^386]: https://tvc.co.th/guides/legal-thailand-employment-contract — Thai Visa Centre, employment-contract guide containing an unrelated administrative-divorce workflow introduction and repeated generic litigation material.
+
+[^387]: https://tvc.co.th/guides/legal-services-thailand-visa-services — Thai Visa Centre, immigration legal-services guide reproducing the administrative-divorce heading and introductory paragraph before visa-application steps.
+
+[^388]: https://tvc.co.th/guides/legal-taxes-and-fees-in-thailand — Thai Visa Centre, property-transfer tax guide inserting divorce-registration instructions before property-valuation and tax-payment procedures.
+
+[^389]: https://tvc.co.th/guides/legal-services-franchise-lawyers-thailand — Thai Visa Centre, franchise-law guide containing the same administrative-divorce introduction before franchise and trademark procedures.
+
+[^390]: https://tvc.co.th/guides/legal-services-probate-and-estate-administration — Thai Visa Centre, probate guide reproducing the divorce-registration introduction before estate-administration instructions.
