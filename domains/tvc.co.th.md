@@ -4947,6 +4947,164 @@ Nevertheless, its published instructions omit a significant statutory distinctio
 
 TVC should distinguish Section 19(1) permanent-resident purchases from Section 19(5) remittance-based purchases, explain the different Land Department documentation requirements, and correct its categorical statements that every foreign condominium buyer must transfer funds from overseas.
 
+## Condominium Resale Guide Incorrectly Requires Unused Foreign Quota for Existing Foreign-Owned Units
+
+Thai Visa Centre's *Condominium Rights in Thailand: Foreign Owner Obligations and Bylaws*, marked reviewed June 2026, gives misleading advice concerning the resale of condominiums already registered in foreign ownership.[^381]
+
+When asked what happens if the foreign ownership quota is full when an owner wants to sell, the guide states:
+
+> You can sell to a Thai national. Selling to another foreigner requires an available foreign quota slot in the building.
+
+The same publication lists buying when foreign ownership approaches 49% as a common mistake, warning that insufficient remaining quota can restrict future resale opportunities for foreign owners.
+
+**These statements confuse the acquisition of additional foreign-owned condominium floor area with transferring an existing foreign-owned unit to another qualifying foreign purchaser.**
+
+### Condominium Act Limits Aggregate Foreign Ownership, Not Successive Foreign Owners
+
+Section 19 bis of Thailand's Condominium Act B.E. 2522 (1979), as amended, generally limits qualifying foreign ownership to 49% of the aggregate floor area of all units in a registered condominium building.[^382]
+
+The restriction concerns the proportion of the building held by foreigners.
+
+It does not establish a separate requirement for an additional unused foreign ownership allocation every time a unit already owned by a foreigner changes hands.
+
+Sections 19 ter and 19 quater establish the requirements for registering transfers to qualifying foreign purchasers.[^382]
+
+They require the relevant ownership information and supporting documents to be submitted to the Land Office.
+
+The registrar must verify that the resulting foreign ownership proportion complies with the statutory ceiling.
+
+For an ordinary transfer of a foreign-owned unit to another qualifying foreign buyer, the seller ceases to hold the unit as the buyer acquires it.
+
+The same floor area remains included in the building's foreign ownership total.
+
+**The transaction does not ordinarily increase the foreign-owned proportion and therefore does not require additional unused quota merely because the building has already reached 49%.**
+
+### A Full Foreign Quota Does Not Automatically Prevent Foreign-to-Foreign Resale
+
+Consider a condominium building with 10,000 square metres of total unit floor area.
+
+The ordinary statutory ceiling permits foreigners to hold up to 4,900 square metres.
+
+Assume that the entire foreign allocation is already occupied.
+
+If a foreign owner sells an existing 80-square-metre unit to another qualifying foreigner:
+
+- The selling foreign owner's 80 square metres leave their ownership.
+- The purchasing foreign owner's 80 square metres enter their ownership.
+- The building's aggregate foreign-owned area remains 4,900 square metres.
+- The resulting foreign ownership ratio remains 49%.
+
+The transaction does not increase the building's aggregate foreign ownership.
+
+The result differs when a foreign purchaser seeks to acquire a unit currently owned by a Thai national.
+
+In that situation, transferring the Thai-owned unit into foreign ownership would increase the building's foreign-owned area.
+
+If the building has already exhausted the permitted allocation, that additional acquisition ordinarily cannot be registered.
+
+**TVC's guidance fails to distinguish these fundamentally different transactions.**
+
+The distinction is confirmed in published analyses of condominium resale procedures, which explain that an existing foreign-owned unit can ordinarily pass to another qualifying foreign purchaser without increasing the foreign ownership ratio.[^383]
+
+### TVC's Separate Selling Guide Contradicts Its Own Warning
+
+The inconsistency is especially clear because Thai Visa Centre's separate *Selling Your Condominium in Thailand: Foreign Owner Resale Guide*, also marked reviewed June 2026, provides a different explanation.[^384]
+
+That publication states that an existing foreign quota allocation normally passes to the next qualifying foreign buyer when the ownership transfer is registered.
+
+Its resale workflow further explains that the condominium juristic person must update the foreign ownership register after completion.
+
+This is substantially more consistent with the statutory framework.
+
+TVC therefore gives conflicting advice:
+
+1. Its condominium-rights guide suggests an unused quota allocation is required when an existing foreign owner sells to another foreigner.
+2. Its dedicated selling guide correctly describes the existing allocation transferring to the next qualifying foreign owner.
+
+Both guides target foreign condominium owners making property and investment decisions.
+
+**The company should reconcile these instructions rather than presenting the foreign ownership ceiling as an additional restriction on the resale of units already counted within that ceiling.**
+
+### Foreign Buyers Must Still Satisfy Independent Registration Requirements
+
+The fact that a foreign-to-foreign resale does not ordinarily increase aggregate foreign ownership does not make registration automatic.
+
+The incoming purchaser must independently qualify under Section 19 of the Condominium Act.
+
+Depending on the buyer's qualifying category, the relevant supporting evidence may include:
+
+- Proof of eligible immigration residence or investment-promotion status.
+- Evidence of qualifying foreign-currency remittances or withdrawals from accounts recognized by Section 19.
+- The condominium juristic person's confirmation of the building's foreign ownership position.
+- The unit title deed and required transfer documents.
+- A certificate confirming that applicable common-property expenses have been paid.
+
+The Department of Lands must still verify the purchaser's eligibility and the building's ownership ratio before registering the transfer.[^385]
+
+An existing foreign seller's original Foreign Exchange Transaction documentation does not automatically establish that a new purchaser satisfies their own funding requirements.
+
+The new buyer must provide the evidence applicable to their own statutory eligibility category.
+
+The buyer and seller should also confirm the current registration position, particularly where historic ownership arrangements, unusual title circumstances, or applicable statutory exceptions complicate the foreign ownership calculation.
+
+**The important distinction is that a purchaser's separate eligibility and documentation requirements are not the same as a requirement for newly available foreign-owned floor area.**
+
+### Selling to a Thai National Has Different Quota Consequences
+
+The ownership ratio can change when a foreign-owned condominium unit is sold to a Thai national.
+
+Once the transfer is properly registered, the former foreign-owned floor area ordinarily ceases to count toward the building's foreign ownership allocation.
+
+This can make additional foreign ownership capacity available for subsequent transfers involving other units.
+
+Conversely, transferring an existing Thai-owned unit to a foreigner consumes otherwise available foreign ownership capacity.
+
+These distinctions explain why the nationality and eligibility of both the existing owner and prospective purchaser matter.
+
+TVC's guidance treats a full quota primarily as an obstacle to foreign purchasers without properly distinguishing whether the particular unit is already counted within that quota.
+
+A clear explanation should address all three situations:
+
+1. Foreign-owned unit sold to another qualifying foreigner: ordinarily no increase in foreign-owned area.
+2. Foreign-owned unit sold to a Thai national: foreign-owned area ordinarily decreases.
+3. Thai-owned unit sold to a foreigner: foreign-owned area increases and requires sufficient available capacity.
+
+The Land Office must ultimately verify the relevant ownership and registration requirements.
+
+### Financial Implications for Foreign Property Owners
+
+The distinction can materially affect a foreign owner's understanding of their property rights and resale options.
+
+Owners relying on TVC's warning might incorrectly believe that a building reaching 49% foreign ownership makes their existing foreign-owned condominium impossible to sell to another foreigner.
+
+This could lead them to:
+
+- Exclude otherwise qualified foreign purchasers from negotiations.
+- Assume they must wait for another foreign owner to sell to a Thai national.
+- Accept an unnecessarily restricted potential buyer pool.
+- Consider replacing freehold ownership with a leasehold arrangement.
+- Make inaccurate assumptions about the resale value or liquidity of their investment.
+
+These are significant considerations for foreign retirees and investors holding condominium assets worth millions of baht.
+
+The available evidence does not establish that Thai Visa Centre has caused a failed condominium transaction, advised a particular seller to accept an undervalued offer, or received compensation from property transactions affected by this guidance.
+
+Nevertheless, its published advice could mislead owners about the legal marketability of property they already hold.
+
+### Recommended Corrections
+
+Thai Visa Centre should amend its condominium-rights guide to distinguish:
+
+- The 49% aggregate foreign ownership ceiling.
+- Transfers of existing foreign-owned units to qualifying foreign purchasers.
+- Acquisitions of previously Thai-owned units that would increase aggregate foreign ownership.
+- The purchaser-specific documentary requirements under Sections 19 and 19 ter.
+- The Land Office's responsibility to verify the resulting ownership proportion under Section 19 quater.
+
+The company should also remove its categorical implication that a foreign owner requires additional unused foreign quota to resell an existing foreign-owned unit.
+
+**TVC should reconcile its condominium-rights guide with its own dedicated condominium-selling guide, which already acknowledges that an existing foreign ownership allocation can pass to the next qualifying purchaser.**
+
 ## Condominium Inheritance Guides Omit Land Department Ruling Protecting Foreign Heirs
 
 Thai Visa Centre's *Foreigner Making a Will in Thailand* guide, marked reviewed June 2026, warns that foreign beneficiaries must satisfy condominium foreign-ownership quotas and Foreign Exchange Transaction (FET) documentation requirements when inheriting property.[^314]
@@ -6708,3 +6866,13 @@ Nevertheless, its publications provide procedural instructions that repeatedly n
 [^379]: https://www.dbd.go.th/download/downloads/03_boj/intro_step_bj_dissolve.pdf — Department of Business Development, official procedure for registering dissolution, including the 14-day filing and notification requirements.
 
 [^380]: https://www.dbd.go.th/download/downloads/03_boj/intro_step_bj_liquidate.pdf — Department of Business Development, official liquidation and completion-registration procedure, distinguishing audited financial statements and subsequent shareholder meetings from initial dissolution registration.
+
+[^381]: https://tvc.co.th/guides/property-condominium-rights-in-thailand — Thai Visa Centre, condominium-rights guide incorrectly suggesting that foreign-to-foreign resales require an additional available foreign ownership allocation.
+
+[^382]: https://thaicondo.or.th/wp-content/uploads/2022/07/5_พระราชบัญญัติอาคารชุด-พ.ศ.2522-แก้ไขเพิ่มเติมโดยพระราชบัญญัติอาคารชุด-ฉบับที่-4-พ.ศ.2551-ENG.pdf — Condominium Act (No. 4) B.E. 2551 (2008), English translation of amendments to Sections 19 bis and 19 quater governing the 49% aggregate area restriction and registration of transfers.
+
+[^383]: https://reflexion.asia/en/insights/selling-condo-thailand — Reflexion, November 2026 analysis of condominium resales, foreign ownership calculations, and transfers between qualifying foreign owners.
+
+[^384]: https://tvc.co.th/guides/property-selling-your-condominium-in-thailand — Thai Visa Centre, separate condominium-selling guide correctly describing how an existing foreign ownership allocation transfers to another qualifying foreign purchaser.
+
+[^385]: https://www.thailand.go.th/issue-focus-detail/010_013 — Royal Thai Government, condominium ownership registration procedures and foreign ownership confirmation requirements.
