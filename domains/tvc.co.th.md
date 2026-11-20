@@ -5806,6 +5806,159 @@ Nevertheless, its published instructions repeatedly confuse the procedural right
 
 **TVC should revise its guide to identify Sections 222/1–222/49 of the Civil Procedure Code, explain automatic class membership and the right to opt out, distinguish certification notices from post-judgment compensation claims, and clarify the separate deadlines governing each stage.**
 
+## Trade Disputes Guide Names a Nonexistent Commercial Court and Misstates Customs Appeal Procedures
+
+Thai Visa Centre's *Trade Disputes in Thailand: Import, Export, and Customs Litigation*, marked reviewed June 2026, repeatedly identifies a supposed "Bangkok Commercial Court" as the appropriate forum for commercial trade litigation.[^367]
+
+The guide directs foreign importers and exporters toward this court for claims involving letters of credit, contract enforcement, international shipments, and distribution agreements.
+
+Its procedural checklist specifically instructs readers to file complaints at the Bangkok Commercial Court.
+
+The same publication repeatedly directs customs classification and valuation disputes toward administrative-court proceedings, without explaining the statutory Customs Appeal Committee process.
+
+**These instructions misidentify Thailand's judicial institutions and omit critical procedures governing challenges to customs duty assessments.**
+
+### Thailand Has No Court Officially Named the Bangkok Commercial Court
+
+Thailand's Office of the Judiciary publishes the structure of its national court system.[^368]
+
+The recognized courts include ordinary Courts of First Instance and specialized courts established to handle particular categories of disputes.
+
+There is no separate institution officially named the "Bangkok Commercial Court."
+
+The actual courts relevant to the types of cases TVC describes include:
+
+- **Ordinary civil courts:** Certain domestic contractual and commercial disputes.
+- **Central Intellectual Property and International Trade Court:** Qualifying international trade transactions and associated disputes.
+- **Central Tax Court:** Tax and customs matters falling within its statutory jurisdiction.
+- **Administrative Court:** Qualifying public-law disputes within its separate jurisdiction.
+
+The judiciary's published descriptions identify the Central Intellectual Property and International Trade Court and Central Tax Court as specialized courts with distinct responsibilities.[^369]
+
+Simply describing a dispute as commercial does not establish which court has jurisdiction.
+
+Instead, the applicable law, nature of the transaction, parties, requested remedy, and jurisdictional rules must be examined.
+
+**TVC repeatedly uses the name of a court that does not exist as a formally established Thai judicial institution, without identifying the actual forum in which the relevant claim should be filed.**
+
+### International Trade and Letter-of-Credit Cases Have Specialized Jurisdiction
+
+The discrepancy is especially clear for international letters of credit.
+
+Section 7 of the Act on the Establishment of and Procedure for the Intellectual Property and International Trade Court B.E. 2539 (1996) defines the specialized court's jurisdiction.[^370]
+
+The provision includes qualifying civil disputes concerning:
+
+- International sales and exchanges of goods.
+- International services and carriage.
+- Related insurance and commercial transactions.
+- Letters of credit connected with international trade.
+- Associated remittances, trust receipts, and guarantees.
+
+These matters may therefore fall within the jurisdiction of the Central Intellectual Property and International Trade Court, rather than the unspecified commercial court described by TVC.
+
+Published analysis of Thai letter-of-credit litigation confirms that qualifying disputes under Section 7(6) belong before the specialized international trade court.[^371]
+
+However, this does not mean every unpaid invoice, domestic distribution agreement, or business-contract dispute automatically belongs there.
+
+Ordinary commercial disputes outside the specialized court's jurisdiction may instead be heard by the appropriate civil court.
+
+**The correct legal distinction is between the jurisdiction of established courts, not between a generic Bangkok Commercial Court and all other forums.**
+
+### Customs Duty Assessments Follow a Statutory Appeal Process
+
+The more consequential problem concerns TVC's explanation of customs disputes.
+
+Its guide identifies customs valuation and tariff-classification challenges as matters requiring administrative-court review.
+
+However, the Customs Act B.E. 2560 (2017) establishes a specific appeal procedure for importers and exporters disputing customs duty assessments.[^372]
+
+Under Section 37, the importer or exporter generally has **30 days from receipt of the assessment notification** to appeal to the Customs Appeal Committee.
+
+This is a formal statutory procedure.
+
+It is not simply an informal negotiation with Customs officials, nor should it be confused with filing a new administrative-court lawsuit.
+
+The Customs Appeal Committee reviews the assessment and issues its ruling under the applicable statutory provisions.
+
+Section 48 provides a further right to commence court proceedings within **30 days after receiving the Appeal Committee's ruling**, subject to the statutory requirements and exceptions.
+
+Section 42 separately addresses the ability to commence proceedings when the committee does not complete its review within the applicable statutory period.
+
+These provisions establish distinct administrative and judicial stages.
+
+**TVC's guide does not explain the Section 37 appeal requirement or the separate time limit for challenging an adverse Appeal Committee ruling.**
+
+### Customs Appeals Do Not Automatically Suspend Payment
+
+The omission extends to the financial consequences of disputing an assessment.
+
+Section 38 of the Customs Act establishes that appealing a duty assessment does not automatically defer payment.[^372]
+
+An importer or exporter generally remains subject to the assessment unless the Director-General permits payment to be deferred pending the relevant appellate decision or final judgment.
+
+This distinction can be financially significant.
+
+A business facing a substantial disputed assessment cannot safely assume that filing an objection, appointing a lawyer, or commencing proceedings automatically prevents customs enforcement.
+
+Additional statutory rules govern unpaid duty, surcharges, penalties, detention of goods, and enforcement measures.
+
+An importer must therefore consider payment obligations and any available deferral procedure separately from the merits of its appeal.
+
+**TVC emphasizes that customs litigation can affect substantial shipments and business operations but fails to explain this essential distinction between appealing an assessment and obtaining relief from immediate payment.**
+
+### The Central Tax Court Handles Civil Customs Duty Litigation
+
+Thailand's Central Tax Court has statutory jurisdiction over qualifying tax disputes, including civil customs duty matters.
+
+The judiciary identifies the court's responsibilities as including appeals involving decisions by competent tax officials or committees and disputes over tax obligations and collection.[^369]
+
+Professional guidance on Thai tax litigation likewise identifies customs duty-assessment disputes among the matters falling within the tax-court framework.[^373]
+
+Consequently, a typical dispute over an additional customs duty assessment does not automatically proceed to the Administrative Court merely because Customs is a government agency.
+
+An importer contesting the assessment must consider the particular statutory appeal procedure and the jurisdiction of the relevant court.
+
+That does not mean the Administrative Court can never hear a customs-related dispute.
+
+Certain disputes involving different administrative acts, regulatory decisions, or public-law questions may fall under separate jurisdictional rules.
+
+Likewise, customs criminal proceedings can involve additional statutory provisions and jurisdictional requirements.
+
+However, **TVC's broad advice omits the central distinction between appealing a customs duty assessment and challenging a different administrative decision.**
+
+### Foreign Importers Face Strict Deadlines and Significant Financial Risks
+
+The combined errors matter because foreign traders frequently operate under short filing deadlines while dealing with substantial financial exposure.
+
+A business relying on TVC's trade-disputes guide could:
+
+- Seek legal representation for proceedings in an incorrectly named court.
+- Prepare an administrative-court claim rather than following the required Customs Appeal Committee procedure.
+- Miss the initial 30-day duty-assessment appeal period.
+- Miss the separate court-filing deadline following an adverse committee ruling.
+- Assume that appealing automatically suspends payment obligations.
+- Misunderstand whether an international letter-of-credit dispute belongs before a specialized court.
+- Incur additional legal expenses correcting procedural errors or jurisdictional misunderstandings.
+
+These risks are particularly relevant to importers facing reassessed customs duties, exporters disputing trade payments, and companies whose ongoing operations depend on timely release of goods.
+
+Failure to comply with a mandatory appeal procedure or statutory filing period can affect the availability of legal remedies.
+
+### Relevance to Thai Visa Centre's Commercial Services
+
+Thai Visa Centre advertises immigration coordination, translation assistance, and referrals to licensed Thai commercial litigation lawyers.
+
+Its trade-disputes guide specifically targets foreign importers, exporters, company directors, and investors facing customs or commercial disputes.
+
+The company states that it does not provide courtroom representation itself.
+
+The available evidence does not establish that TVC has filed proceedings in an incorrect court, caused a customer to miss a Customs Appeal Committee deadline, or generated legal fees through these errors.
+
+Nevertheless, its publications provide procedural instructions that repeatedly name an unrecognized court while overlooking statutory customs appeal requirements.
+
+**TVC should correct the court names in its trade-disputes guide, distinguish ordinary civil litigation from specialized international trade proceedings, explain the Customs Appeal Committee process under Sections 37–48 of the Customs Act, and clarify the separate payment and enforcement consequences of disputing customs duty assessments.**
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -6350,3 +6503,17 @@ Nevertheless, its published instructions repeatedly confuse the procedural right
 [^365]: https://www.thailawonline.com/thai-civil-procedure-code/section-222-39/ — Civil Procedure Code, Section 222/39, governing monetary judgment enforcement and subsequent claims for payment.
 
 [^366]: https://www.dlapiperintelligence.com/litigation/insight/index.html?c=TH&t=10-class-actions — DLA Piper, international litigation guidance confirming Thailand's general civil class-action framework and opt-out membership.
+
+[^367]: https://tvc.co.th/guides/litigation-trade-disputes-in-thailand — Thai Visa Centre, trade-disputes guide repeatedly naming a Bangkok Commercial Court and directing customs disputes toward administrative-court proceedings.
+
+[^368]: https://www.coj.go.th/th/content/page/index/id/91994 — Thailand Office of the Judiciary, official description of the Court of Justice system and its specialized courts.
+
+[^369]: https://cacj-ajp.org/thailand/judiciary/description-of-courts/specialised-courts/ — Council of ASEAN Chief Justices, descriptions of Thailand's Central Tax Court and Central Intellectual Property and International Trade Court.
+
+[^370]: https://www.skyinterlegal.com/act-for-the-establishment-of-and-procedure-for-intellectual-property-and-international-trade-court-b-e-2539-1996/ — Act on the Establishment of and Procedure for the Intellectual Property and International Trade Court, Section 7, specifying jurisdiction over international trade and associated letters of credit.
+
+[^371]: https://eksiamtradeinvestlaw.com/en/insights/letter-of-credit-discrepancy/ — Eksiam & Partners, analysis of Thai letter-of-credit litigation and specialized court jurisdiction under Section 7(6).
+
+[^372]: https://www.customs.go.th/data_files/a48902e107a80bbbfc83d38742957569.pdf — Thailand Customs Department, English translation of the Customs Act B.E. 2560 (2017), Sections 37–48, governing customs duty appeals, payment obligations, and court-filing deadlines.
+
+[^373]: https://www.legal500.com/intelligence/thailand/tax/tax-litigation-in-thailand — Legal 500, Thailand tax litigation guidance covering Central Tax Court jurisdiction and customs-related disputes.
