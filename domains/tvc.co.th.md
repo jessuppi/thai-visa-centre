@@ -4507,6 +4507,67 @@ Nevertheless, the company presents contradictory legal instructions while advert
 
 TVC should correct its remarriage FAQ, identify the scope and exceptions of Section 1453, update its minimum-age guidance, and reconcile its published marriage-registration instructions.
 
+## Family-Law Guide Misstates Prenuptial Registration Timing
+
+Thai Visa Centre's *Thailand Family Law Questions – Marriage, Divorce, and Visas* guide, marked reviewed June 2026, advises couples that a prenuptial agreement must be registered at the same district office as their marriage and completed before the wedding day.[^331]
+
+The guidance repeats this requirement in its family-property overview.
+
+**This wording confuses preparing a prenuptial agreement before marriage with the legally required registration of its terms at the time of marriage registration.**
+
+### Civil and Commercial Code Requires Registration at Marriage
+
+Section 1466 of Thailand's Civil and Commercial Code establishes two methods for recording a valid prenuptial agreement.[^332]
+
+The parties may:
+
+1. Record the agreed prenuptial terms directly in the marriage register when registering their marriage.
+2. Prepare a written agreement signed by both spouses and at least two witnesses, annex it to the marriage register, and have the annexation recorded at the same time.
+
+These alternatives establish the importance of simultaneous registration.
+
+A couple may prepare and review their agreement before the wedding, but the statute does not require a separate prenuptial registration completed on an earlier day.
+
+Indeed, an agreement prepared beforehand without the prescribed registration formalities will not satisfy Section 1466 merely because it was signed before the marriage.
+
+**The legally significant deadline is the registration of the marriage, not the preceding calendar day.**
+
+### TVC's Specialist Guide Gives Different Instructions
+
+The inconsistency is particularly apparent in Thai Visa Centre's dedicated *Prenuptial Agreements in Thailand* guide.[^333]
+
+That publication correctly explains that registration occurs alongside marriage registration at the district office.
+
+Its workflow describes the couple bringing their agreement to the marriage appointment, signing the necessary documents, and having the registrar record both matters together.
+
+TVC therefore publishes conflicting explanations:
+
+- Its general family-law overview tells couples that the prenuptial agreement must be completed before the wedding day.
+- Its specialist guide correctly explains simultaneous registration with the marriage.
+
+Preparing an agreement in advance is prudent, particularly when substantial assets or business interests are involved.
+
+However, the timing of preparation must not be confused with the statutory registration requirement.
+
+### Financial Consequences for International Couples
+
+Prenuptial agreements may govern significant property interests, including condominium ownership, business shares, investment accounts, and the management of marital assets.
+
+Couples misunderstanding the registration requirements might:
+
+- Believe they have missed their opportunity when they have not yet registered their marriage.
+- Attempt to register an agreement separately before marriage rather than ensuring it is properly recorded with the marriage.
+- Rely on an agreement signed beforehand without verifying its inclusion in the official marriage register.
+- Incur unnecessary legal or administrative expenses correcting misunderstandings about the process.
+
+Section 1467 also restricts subsequent alteration of registered prenuptial agreements without court authorization, making compliance with the original formalities particularly important.
+
+The available evidence does not establish that Thai Visa Centre has caused an invalid prenuptial agreement, improperly charged customers for registration, or produced financial losses through this guidance.
+
+Nevertheless, its conflicting instructions concern a legally significant property-planning procedure that the agency advertises coordinating for international couples.
+
+**TVC should correct its family-law overview to explain that prenuptial terms must be recorded simultaneously with marriage registration, distinguish advance preparation from official registration, and reconcile the instructions across its published guides.**
+
 ## Property Guide Promotes 90-Year Lease Structure Despite Supreme Court Ruling
 
 Thai Visa Centre's *Property Law in Thailand for Expats* guide, marked reviewed June 2026, prominently advertises **30+30+30 years** as a leasehold term available to foreign property buyers.[^306]
@@ -5566,3 +5627,9 @@ TVC should remove the supposed general startup audit exemption, distinguish limi
 [^329]: https://travel.state.gov/content/travel/en/Intercountry-Adoption/Intercountry-Adoption-Country-Information/Thailand.html — U.S. Department of State, Thailand intercountry adoption procedures confirming the absence of ordinary Thai court involvement.
 
 [^330]: https://washingtondc.thaiembassy.org/en/page/thaichildadoption — Royal Thai Embassy in Washington, official Child Adoption Board procedures and registration requirements.
+
+[^331]: https://tvc.co.th/guides/family-law — Thai Visa Centre, family-law guide stating that prenuptial registration must be completed before the wedding day.
+
+[^332]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-marriage-section-1465-1493/ — Civil and Commercial Code, Sections 1466 and 1467, governing prenuptial registration and subsequent alteration.
+
+[^333]: https://tvc.co.th/guides/prenuptial-agreement-thailand — Thai Visa Centre, specialist prenuptial guide correctly describing registration alongside marriage.
