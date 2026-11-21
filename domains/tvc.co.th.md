@@ -8022,6 +8022,15 @@ The contradiction is especially revealing because both statements appear in a gu
 
 **TVC acknowledges that self-representation is lawful in one paragraph while presenting legal representation as mandatory elsewhere on the same page.**
 
+
+### Trial and Appeals Guide Falsely Says Lawyers Are Required
+
+The *Trial, Appeals, and Execution of Judgment in Thailand* guide extends Thai Visa Centre’s false mandatory-lawyer claims to appeals and post-judgment enforcement. Its FAQ states: “Appeals and execution require licensed Thai attorneys.”[^512]
+
+Section 60 of Thailand’s Civil Procedure Code permits parties to conduct their own cases and take procedural steps personally, or appoint one or more attorneys.[^442] The statute does not impose a blanket lawyer requirement for civil appeals or execution.
+
+The claim repeats the same misrepresentation already documented in TVC’s *Civil Case Filing in Thailand* and *Civil Procedure in Thailand* guides. Across three legal publications, TVC presents lawyer representation as compulsory even though Section 60 makes it an alternative to self-representation.
+
 ### Misleading Foreigners While Promoting Legal Referrals
 
 The distinction has immediate financial consequences.
