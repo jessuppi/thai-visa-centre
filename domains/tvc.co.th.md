@@ -5263,6 +5263,117 @@ The available evidence does not establish that TVC charged individual couples un
 
 It should disclose the government's free in-office registration procedure and distinguish optional professional assistance from genuine statutory requirements.
 
+
+## American Marriage Guide Ignores 2026 Registration Rules and Embassy Affidavit Changes
+
+Thai Visa Centre's *How US Citizens Get Married in Thailand*, marked reviewed June 2026, gives American couples categorical instructions about obtaining an Affirmation of Freedom to Marry from the U.S. Embassy in Bangkok.
+
+The guide states:
+
+> A legal marriage requires Affirmation of Freedom to Marry from the US Embassy Bangkok before any amphoe will register the union.
+
+It further warns:
+
+> Without it, Thai registration stops at document check.[^508]
+
+**These instructions fail to reflect Thailand's May 2026 civil-registration guidance and the U.S. Embassy's documented effort to replace its marriage-affidavit procedure.**
+
+### Thailand's May 2026 Circular Does Not Universally Require Embassy-Issued Evidence
+
+On May 22, 2026, Thailand's Department of Provincial Administration issued Circular มท 0309.3/ว15381 concerning measures to prevent fraudulent marriage registration.[^509]
+
+The circular provides instructions to district registrars handling marriages between Thai nationals and foreign nationals lawfully present in Thailand.
+
+It directs officials to examine evidence of the foreign applicant's marital status issued by an authority legally empowered under the applicant's national law.
+
+Crucially, it explains that the issuing authority **does not necessarily have to be the applicant's embassy or consulate**.
+
+The document must establish the applicant's marital status or legal capacity to marry and comply with applicable translation and Thai Ministry of Foreign Affairs authentication requirements.
+
+**The government's published instruction is broader than TVC's categorical claim that every American must obtain a specific document from the U.S. Embassy before a Thai district office can register the marriage.**
+
+The precise documents accepted may depend on the foreign applicant's nationality and the authority competent to issue them. The circular does not mean that unverified declarations must be accepted automatically.
+
+It means the embassy-only requirement cannot accurately be presented as universal.
+
+### U.S. Embassy Announced Plans to Discontinue Marriage Affidavits
+
+The U.S. Embassy had already identified problems with the traditional affidavit procedure.
+
+In a diplomatic note dated May 15, 2025, the Embassy advised Thai authorities that the U.S. Mission intended to stop notarizing self-sworn marriage affidavits from August 1, 2025.
+
+The proposed cessation was subsequently postponed.
+
+In a further diplomatic note dated October 24, 2025, the Embassy explained that the deadline had been temporarily extended while American and Thai officials worked toward an acceptable replacement.[^510]
+
+The Embassy identified a possible alternative: a standardized, non-notarized letter that American citizens could download rather than obtain through a paid consular appointment.
+
+The proposed letter would explain that the U.S. government does not issue the type of official marital-status confirmation assumed by the existing system.
+
+**TVC's June 2026 guide does not explain this officially documented change in policy or the negotiations concerning alternative documentation.**
+
+The diplomatic correspondence does not establish that notarization had permanently ceased by June 2026. It establishes that the Embassy had formally announced plans to discontinue the practice and that Thai authorities were already considering alternatives.
+
+### Embassy Notarization Does Not Independently Verify Marital Status
+
+TVC states:
+
+> The Affirmation of Freedom to Marry confirms you are free to marry under US law.[^508]
+
+That description is misleading without explaining the nature of the document.
+
+The traditional American marriage affidavit is a self-sworn declaration made by the applicant.
+
+Consular notarization establishes the formal execution of the declaration. It does not mean the Embassy has independently searched American marriage records and certified that the applicant is unmarried.
+
+Indeed, the U.S. Embassy's proposed replacement letter expressly explains that it does not possess information concerning the marital status of the American presenting it.[^510]
+
+U.S. Department of State guidance similarly distinguishes the documentation and procedures required by foreign marriage authorities from a U.S. consular officer's ability to certify an individual's marital status under the laws of individual states.[^511]
+
+**TVC confuses the notarization of an applicant's declaration with government verification of the underlying facts.**
+
+That distinction is especially important in a process designed to prevent fraudulent or bigamous marriages.
+
+### The Problem Extends Beyond One Guide
+
+TVC's general marriage-registration publications repeatedly present a fixed sequence involving an embassy affirmation, Thai translation, MFA legalization, and district-office registration.
+
+The procedure can be appropriate for applicants whose nationality requires those particular documents.
+
+However, Thailand's May 2026 instructions recognize that legally competent authorities outside embassies may issue acceptable marital-status evidence.
+
+TVC's American-specific guide goes further by insisting that no Thai district office can register the marriage without the particular U.S. Embassy affirmation.
+
+That categorical assertion is not justified by the government's published guidance.
+
+### Potential Consequences for American Couples
+
+Americans planning marriages in Thailand may rely on TVC to coordinate embassy appointments, translations, legalization, and district-office registration.
+
+Inaccurate requirements could lead applicants to:
+
+- Book unnecessary embassy appointments.
+- Assume they cannot marry without a specific consular document.
+- Misunderstand the evidentiary value of a notarized affidavit.
+- Overlook alternative documentation recognized by Thai registration authorities.
+- Budget time and professional-service expenses around an unnecessarily rigid procedure.
+
+The available evidence does not establish that TVC charged particular customers for unnecessary embassy visits or caused any marriage application to fail.
+
+It establishes that the agency publishes categorical instructions inconsistent with the government's more flexible documentary framework and omits substantial diplomatic developments affecting Americans seeking marriage registration.
+
+### Required Corrections
+
+Thai Visa Centre should revise its American marriage guide to acknowledge the May 22, 2026 Department of Provincial Administration circular.
+
+It should distinguish evidence from legally competent foreign authorities from documents specifically issued or notarized by embassies.
+
+It should explain the U.S. Embassy's announced plans to discontinue marriage-affidavit notarization, the temporary extension recorded in October 2025, and the need to verify any subsequent implementation decision.
+
+Finally, it should clarify that notarizing a self-sworn declaration is not equivalent to independently certifying an American citizen's marital status.
+
+**An agency claiming to coordinate American marriage registration daily should not insist that a particular embassy document is universally mandatory when Thailand's own registration authority has issued broader instructions and the Embassy has formally sought to replace that procedure.**
+
 ## Remarriage FAQ Denies Statutory Waiting Period and Uses Obsolete Marriage Age
 
 Thai Visa Centre's FAQ *Divorcee Getting Married in Thailand*, marked reviewed June 2026, incorrectly tells foreign customers that Thai law imposes no waiting period after divorce.[^241]
@@ -9185,3 +9296,11 @@ A business promoting professional legal referrals should not present optional le
 [^506]: https://www.tilleke.com/insights/relaxation-work-permit-requirements-thailand/18/ — Tilleke & Gibbins, *Relaxation of Work Permit Requirements in Thailand*, May 24, 2018, confirming removal of the physical-carrying requirement, production on request within a reasonable period, maximum 5,000-baht penalty, and post-change notification procedures.
 
 [^507]: https://www.doe.go.th/prd/download/download_by_pool_file/62501 — Thailand Department of Employment, consolidated English-language Foreigners' Working Management Emergency Decree indicating the repeal of Sections 70–74 and the revised provisions on work permissions and employer notification.
+
+[^508]: https://tvc.co.th/guides/thailand-service-thailand-marriage-us — Thai Visa Centre, *How US Citizens Get Married in Thailand*, marked reviewed June 2026, claiming an American Embassy Affirmation of Freedom to Marry is necessary before any Thai district office will register the marriage and describing the affidavit as confirmation of eligibility.
+
+[^509]: https://www.bora.dopa.go.th/wp-content/uploads/2026/05/mt03093_v15381.pdf — Thailand Department of Provincial Administration, Circular มท 0309.3/ว15381, May 22, 2026, on preventing fraudulent marriage registration and accepting marital-status evidence from authorities legally competent under foreign national law, not necessarily embassies or consulates.
+
+[^510]: https://www.bora.dopa.go.th/wp-content/uploads/2026/02/mt03093_v43556.pdf — Thailand Department of Provincial Administration, published U.S. Embassy diplomatic correspondence including the May 15 and October 24, 2025 notes regarding intended discontinuation, temporary extension, and alternatives to notarized marriage affidavits.
+
+[^511]: https://fam.state.gov/fam/07FAM/07FAM1450.html — United States Department of State, *Foreign Affairs Manual*, 7 FAM 1450, guidance concerning marriage of U.S. citizens abroad and limits of consular certification of personal marital status.
