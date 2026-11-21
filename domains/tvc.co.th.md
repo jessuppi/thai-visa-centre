@@ -6851,6 +6851,59 @@ The mistakes also contradict the guide's stated purpose of helping foreign busin
 Thai Visa Centre should correct its ADR guide to explain interruption of prescription under Sections 193/14–193/15, the 60-day extension under the Dispute Mediation Act, and the separate protection available through pre-litigation court mediation.
 
 
+## Cybercrime Guide Falsely Treats Online Defamation as a Computer Crime Act Offence
+
+Thai Visa Centre's *Cyber Crime Lawyers: Guide for Foreigners*, marked reviewed June 2026, repeatedly misrepresents Thailand's Computer Crime Act by presenting ordinary online defamation as a computer crime.[^418]
+
+The publication ignores a major legislative amendment introduced in 2017 specifically to prevent the misuse of computer-crime charges against people accused of defamation.
+
+### Incorrectly Claims Defamation Falls Under the Computer Crime Act
+
+TVC's guide identifies online defamation among Computer Crime Act violations and describes social media posts damaging someone's reputation as potential computer-crime offences.
+
+Its section on overlapping criminal charges explicitly states:
+
+> Social media insults may simultaneously attract Computer Crime Act and criminal defamation charges.
+
+The guide further suggests that a single online post can expose its author to multiple criminal proceedings under both laws.[^418]
+
+**This presentation ignores the explicit defamation exclusion introduced into Section 14(1) of the Computer Crime Act in 2017.**
+
+### The 2017 Amendment Expressly Excludes Defamation
+
+Thailand amended its Computer Crime Act through the Computer-Related Crime Act (No. 2) B.E. 2560 (2017).
+
+The revised Section 14(1) criminalizes specified dishonest or deceitful submissions of false or distorted computer data, while expressly excluding conduct constituting defamation under the Criminal Code.[^419]
+
+The amendment took effect on May 24, 2017.
+
+Human Rights Watch documented that the previous legislation had frequently been used alongside criminal defamation charges to prosecute individuals expressing criticism online. The amendment was intended to prevent this overlap under Section 14(1).[^420]
+
+**Publishing criticism, accusations, or allegedly defamatory statements on Facebook, Google Reviews, or another online platform does not automatically transform criminal defamation into a Computer Crime Act violation.**
+
+A separate computer-crime charge requires conduct satisfying the elements of an applicable offence, not merely publication through the internet.
+
+### Thai Courts Have Already Applied the Exclusion
+
+The distinction is supported by actual Thai court proceedings.
+
+In litigation brought by PTT Public Company Limited against activist Itthaboon Onwongsa over critical Facebook posts, the Bangkok South Criminal Court dismissed Computer Crime Act charges in December 2017 after applying the amended legislation.
+
+On November 21, 2018, the appellate court upheld the dismissal, emphasizing the amended requirements for dishonest or deceitful conduct and the exclusion of defamation from Section 14(1).[^421]
+
+**The courts rejected the attempt to use computer-crime provisions against online criticism without establishing the additional statutory elements.**
+
+### Misleading Readers About Criminal Exposure
+
+TVC's guide fails to explain this established legal distinction despite advertising professional assistance to foreigners facing online defamation complaints and criminal investigations.
+
+The error could lead readers to believe that ordinary social media criticism automatically exposes them to separate Computer Crime Act prosecution simply because the statements appeared online.
+
+It also exaggerates the potential criminal consequences of negative reviews and public accusations.
+
+**Thai Visa Centre should correct its cybercrime guide to acknowledge the 2017 defamation exclusion, explain the actual elements of Section 14(1), and stop presenting ordinary online defamation as an automatic computer-crime offence.**
+
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -7497,3 +7550,11 @@ Thai Visa Centre should correct its ADR guide to explain interruption of prescri
 [^416]: https://anglosiamlaw.com/statutes/mediation-act-2562/section-6 — Dispute Mediation Act B.E. 2562 (2019), Section 6, limitation extensions following unsuccessful mediation.
 
 [^417]: https://www.tilleke.com/insights/amendments-thailands-civil-procedure-code-allow-civil-mediation-litigation/21/ — Tilleke & Gibbins, amendments allowing court-supervised mediation before civil litigation.
+
+[^418]: https://tvc.co.th/guides/litigation-cyber-crime-lawyers-thailand — Thai Visa Centre, *Cyber Crime Lawyers: Guide for Foreigners*, reviewed June 2026.
+
+[^419]: https://sherloc.unodc.org/cld/en/legislation/tha/computer_crime_act_b.e._2550_2007/chapter_1/sections_1415/sections_1415.html — UNODC SHERLOC, amended Computer Crime Act Sections 14–15.
+
+[^420]: https://www.hrw.org/report/2019/10/25/speak-out-dangerous/criminalization-peaceful-expression-thailand — Human Rights Watch, analysis of the 2017 Computer Crime Act amendments and exclusion of criminal defamation.
+
+[^421]: https://www.ilaw.or.th/en/articles/case/26552 — iLaw, court proceedings involving Itthaboon Onwongsa, including December 2017 and November 2018 judgments.
