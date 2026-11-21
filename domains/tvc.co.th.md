@@ -7267,6 +7267,60 @@ These requirements were already established when TVC's publication was supposedl
 
 Nevertheless, the guide neither identifies the specialist qualification nor instructs customers to verify it.
 
+### Guides Ignore Thailand's Confirmed Apostille Convention Accession
+
+Thai Visa Centre's document-authentication guidance also omits a major development in Thailand's international legalization system.
+
+Its *Notary Public in Thailand* guide describes Thailand as lacking a comprehensive Apostille system and presents Ministry of Foreign Affairs legalization followed by embassy authentication as the standard process.[^443]
+
+Its separate *Notary Public Services in Thailand* publication similarly states:
+
+> Thailand is not full apostille state for all docs.
+
+Neither guide explains that Thailand has already formally acceded to the Hague Apostille Convention or identifies the scheduled implementation date.[^455]
+
+**Thailand's participation in the convention is no longer merely a proposal. Its accession has been officially completed.**
+
+#### Thailand Deposited Its Instrument of Accession in June 2026
+
+On June 30, 2026, Thailand deposited its instrument of accession to the 1961 Hague Convention Abolishing the Requirement of Legalisation for Foreign Public Documents.
+
+The Hague Conference on Private International Law officially announced the accession that day.[^456]
+
+Thailand's Ministry of Foreign Affairs separately confirmed the deposit and explained that the convention is scheduled to enter into force for Thailand on **February 28, 2027**, following the prescribed eight-month objection period.[^457]
+
+The convention simplifies international authentication of eligible public documents by replacing traditional consular legalization requirements with an Apostille certificate between countries where the convention applies.
+
+Its operation remains subject to the convention's rules, including any objections to Thailand's accession.
+
+#### Current Rules and Upcoming Changes Must Be Distinguished
+
+As of November 2026, Thailand has not yet reached the convention's scheduled entry-into-force date.
+
+Consequently, TVC is not necessarily incorrect to describe existing consular legalization procedures as the current standard.
+
+**The omission is its failure to explain that a confirmed transition is approaching.**
+
+This distinction matters for foreigners preparing documents for international property transactions, immigration applications, marriages, academic qualifications, and corporate registrations.
+
+Applicants whose deadlines fall before February 28, 2027, generally need to follow the existing authentication requirements.
+
+Applicants preparing documents for use after the convention takes effect should check whether the Apostille procedure will apply to their documents and destination country.
+
+Not every document is covered, and the convention does not eliminate separate translation requirements or the receiving authority's substantive documentation rules.
+
+#### Another Gap in TVC's Document-Authentication Guidance
+
+Thai Visa Centre promotes assistance coordinating document preparation and legalization, yet its guides omit one of Thailand's most consequential developments in cross-border document authentication.
+
+The agency's principal notary guide is marked reviewed June 2026. Because the accession occurred on June 30, that review date alone does not establish whether the omission was present when the guide was last reviewed.
+
+Nevertheless, the omission remains relevant to readers consulting the publications in November 2026.
+
+**Thai Visa Centre should update both guides to acknowledge Thailand's completed accession, identify February 28, 2027 as the scheduled effective date, and distinguish current consular legalization procedures from the forthcoming Apostille framework.**
+
+Accurate guidance should explain both what applies today and the confirmed legal changes affecting customers' upcoming document submissions.
+
 ### Misleading Customers About Document Authentication
 
 Foreigners commonly require authenticated documents for international banking, property transactions, immigration applications, corporate filings, and proceedings before foreign authorities.
@@ -8154,3 +8208,9 @@ Presenting optional lawyer involvement as a statutory requirement is particularl
 [^453]: https://canberra.thaiembassy.org/en/content/power-of-attorney — Royal Thai Embassy, Canberra, official instructions and forms for executing powers of attorney overseas.
 
 [^454]: https://osos.boi.go.th/EN/how-to/142/Registering-Property/ — Thailand Board of Investment, One Start One Stop Investment Center, property transfer registration procedures.
+
+[^455]: https://tvc.co.th/guides/legal-services-thailand-notary-service — Thai Visa Centre, *Notary Public Services in Thailand: Document Certification for Visa and Legal Use*, describing Thailand's Apostille limitations without mentioning accession.
+
+[^456]: https://www.hcch.net/en/news-archive/details?varevent=1158 — Hague Conference on Private International Law, *Thailand accedes to the 1961 Apostille Convention*, June 30, 2026.
+
+[^457]: https://www.mfa.go.th/en/content/apostille-convention-eng — Thailand Ministry of Foreign Affairs, confirmation of June 30, 2026 accession and scheduled February 28, 2027 entry into force.
