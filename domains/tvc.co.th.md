@@ -6794,6 +6794,63 @@ The mistakes are particularly serious because the guides target trademark owners
 Thai Visa Centre should correct both intellectual-property guides, remove the misleading references to ordinary civil-court jurisdiction, and explain the actual damages framework established by Section 64 of the Copyright Act.
 
 
+## Alternative Dispute Resolution Guide Misstates Statutory Limitation Periods
+
+Thai Visa Centre's *Alternative Dispute Resolution in Thailand FAQs*, marked reviewed June 2026, incorrectly explains how limitation periods operate during arbitration and mediation.
+
+The publication repeatedly warns foreign businesses that legal deadlines continue running during alternative dispute resolution proceedings, overlooking statutory provisions that expressly protect claimants.[^413]
+
+### Arbitration Directly Interrupts Prescription
+
+The guide states:
+
+> Limitation periods continue during mediation and arbitration.
+
+It subsequently advises readers to determine whether their contracts pause legal deadlines.
+
+**This advice directly contradicts Section 193/14(4) of Thailand's Civil and Commercial Code.**
+
+The provision expressly establishes that prescription is interrupted when a creditor submits a dispute to arbitration.[^414]
+
+Section 193/15 further provides that time elapsed before an interruption does not count toward the limitation period and that a fresh period begins when the interruption ends.[^415]
+
+This protection arises from legislation, not merely from contractual arrangements between the disputing parties.
+
+TVC's blanket claim that limitation periods continue during arbitration ignores this fundamental statutory rule.
+
+### Mediation Also Provides Statutory Deadline Protections
+
+The guide separately tells readers:
+
+> Limitation periods continue running during mediation
+
+However, Section 6 of Thailand's Dispute Mediation Act B.E. 2562 (2019) expressly provides a 60-day extension where qualifying mediation fails and the limitation period expired during mediation or would expire within 60 days afterward.[^416]
+
+The extension runs from the termination of the unsuccessful mediation.
+
+Thailand's Civil Procedure Code also provides protection for qualifying court-supervised mediation before litigation.
+
+Amendments introduced in 2020 allow parties to petition courts for mediation before filing a lawsuit. Where mediation fails and the relevant limitation period has expired or is approaching expiration, the legislation provides an additional 60 days to pursue the claim.[^417]
+
+International law firm Tilleke & Gibbins specifically documented this protection when explaining the amendments.
+
+**TVC's advice fails to distinguish informal settlement negotiations from statutory mediation procedures that provide additional time to initiate litigation.**
+
+### Misleading Businesses About Their Legal Rights
+
+These errors affect one of the most consequential aspects of commercial dispute resolution: whether a creditor or claimant can still pursue a legally enforceable claim.
+
+Foreign investors, contractors, creditors, and business owners rely on limitation rules when choosing between arbitration, mediation, and court proceedings.
+
+TVC's guide incorrectly presents the passage of time during these proceedings as a uniform legal risk while overlooking statutory protections specifically designed to preserve claims.
+
+The mistakes also contradict the guide's stated purpose of helping foreign businesses choose appropriate dispute resolution procedures.
+
+**A commercial visa agency publishing professional litigation guidance should not misstate statutory deadlines that determine whether customers can enforce their legal rights.**
+
+Thai Visa Centre should correct its ADR guide to explain interruption of prescription under Sections 193/14–193/15, the 60-day extension under the Dispute Mediation Act, and the separate protection available through pre-litigation court mediation.
+
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -7430,3 +7487,13 @@ Thai Visa Centre should correct both intellectual-property guides, remove the mi
 [^411]: https://ipat.or.th/chapter-6-litigation-with-respect-to-copyright-and-performers-rights/ — Intellectual Property Association of Thailand, Copyright Act Section 64.
 
 [^412]: https://www.wipo.int/wipolex/en/legislation/details/15713 — WIPO Lex, Copyright Act (No. 2) B.E. 2558 (2015), amendment to Section 64.
+
+[^413]: https://tvc.co.th/guides/litigation-alternative-dispute-resolution-faqs — Thai Visa Centre, *Alternative Dispute Resolution in Thailand FAQs*, reviewed June 2026.
+
+[^414]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-prescriptions-sections-193-9-193-29/ — Civil and Commercial Code, Section 193/14(4), interruption of prescription through arbitration.
+
+[^415]: https://www.thailawonline.com/thai-civil-code/section-193-15/ — Civil and Commercial Code, Section 193/15, consequences of interrupted prescription.
+
+[^416]: https://anglosiamlaw.com/statutes/mediation-act-2562/section-6 — Dispute Mediation Act B.E. 2562 (2019), Section 6, limitation extensions following unsuccessful mediation.
+
+[^417]: https://www.tilleke.com/insights/amendments-thailands-civil-procedure-code-allow-civil-mediation-litigation/21/ — Tilleke & Gibbins, amendments allowing court-supervised mediation before civil litigation.
