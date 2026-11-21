@@ -7347,6 +7347,93 @@ Its debt-recovery publication acknowledges that winning a judgment is insufficie
 This is a basic procedural distinction that a publication offering guidance on Thai debt recovery should not misrepresent.
 
 
+## Power-of-Attorney Guide Invents Mandatory Lawyer Requirements for Property Transfers
+
+Thai Visa Centre's *Power of Attorney in Thailand: Property, Court, and Corporate Uses*, marked reviewed June 2026, incorrectly claims that licensed Thai lawyers are required to prepare powers of attorney and complete property transfers.[^450]
+
+The publication repeatedly promotes lawyer involvement while failing to explain that individuals can execute valid powers of attorney themselves and generally conduct property transactions directly through Thailand's Department of Lands.
+
+### Falsely Claims Licensed Lawyers Are Mandatory
+
+The guide concludes with an explicit assertion:
+
+> POA drafting and property transfers require licensed Thai attorneys.
+
+Its recommended procedure similarly instructs readers to have a lawyer prepare the power of attorney, while its discussion of property transactions emphasizes retaining professional counsel.[^450]
+
+**These statements misrepresent optional legal assistance as a mandatory requirement.**
+
+A power of attorney is a legal authorization allowing one person to act on another person's behalf. It does not inherently require preparation by a lawyer.
+
+Likewise, transferring ownership of property involves registration with the competent Land Office, not a general requirement to retain a licensed attorney.
+
+### The Civil and Commercial Code Does Not Require Lawyer Preparation
+
+Sections 797 and 798 of Thailand's Civil and Commercial Code govern agency appointments and their formal requirements.[^451]
+
+Section 797 establishes that one person may authorize another to act as an agent.
+
+Section 798 requires written authorization where the underlying transaction must itself be made or evidenced in writing.
+
+Neither provision establishes a blanket requirement that the document must be drafted by a licensed lawyer.
+
+Section 801 further distinguishes ordinary management authority from special transactions, including selling or mortgaging immovable property, which require specific authorization.
+
+**The legal issue is whether the agent has valid authority in the required form, not whether a lawyer was paid to prepare the document.**
+
+### Thailand's Department of Lands Provides Official Forms
+
+The Department of Lands publishes standardized power-of-attorney documents directly on its official website.
+
+These include:
+
+- Form Tor Dor 21 for transactions involving titled land.
+- Power-of-attorney forms for condominium transactions.
+- Additional forms for other Land Office registration procedures.
+
+The Department's downloadable forms were available in October 2025, well before TVC's claimed June 2026 review.[^452]
+
+Property owners can complete the appropriate forms and follow the relevant identity verification, witnessing, and certification procedures.
+
+Foreign-executed documents may require additional authentication, but these requirements do not establish mandatory lawyer involvement.
+
+### Thai Embassies Confirm Direct Execution Procedures
+
+The Royal Thai Embassy in Canberra provides instructions and downloadable forms for individuals granting powers of attorney from overseas.
+
+Its guidance specifically covers land transactions using Tor Dor 21 and condominium transactions using Or Chor 21.[^453]
+
+The embassy explains how applicants can sign documents before consular officials or complete the prescribed authentication process when applying by post.
+
+These procedures provide an official route for executing powers of attorney without engaging a Thai lawyer merely to draft the document.
+
+The receiving Land Office ultimately determines whether the completed authorization satisfies its requirements.
+
+### Property Transfers Are Registered by Land Officials
+
+Thailand's Board of Investment also publishes a procedural explanation of property registration.
+
+Its guidance describes applications being submitted to the relevant Land Office, where government officials examine documents, prepare the transfer contract, calculate fees, and register the transaction.[^454]
+
+The buyer and seller sign the documents, pay the applicable charges, and receive the registered title.
+
+The procedure does not prescribe mandatory representation by a licensed Thai lawyer.
+
+Qualified legal assistance may be advisable for complex transactions, disputed ownership, contractual risks, or due diligence. However, **professional advice being advisable does not make it legally compulsory**.
+
+### Misleading Customers About Paid Legal Services
+
+TVC's inaccurate statements could lead property owners and foreign residents to believe they must purchase legal services before preparing a power of attorney or transferring eligible property.
+
+The publication also advertises referrals to Thai legal professionals, creating a direct commercial context for its claims about mandatory representation.
+
+**Thai Visa Centre should correct its guide to distinguish mandatory legal formalities from optional professional assistance.**
+
+It should explain the Department of Lands' official forms, the applicable Civil and Commercial Code provisions, embassy authentication procedures, and the circumstances in which specialist legal advice is useful.
+
+Presenting optional lawyer involvement as a statutory requirement is particularly misleading in a guide supposedly intended to help foreigners understand their legal options.
+
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -8057,3 +8144,13 @@ This is a basic procedural distinction that a publication offering guidance on T
 [^448]: https://wsrlawgroup.com/publications/law-library/thailand-civil-procedure-code/book-3-appeal-and-petition/ — WSR Law Group, English translation of Thailand's Civil Procedure Code, Section 231.
 
 [^449]: https://www.louisgrouplaw.com/en/insight/thailand-civil-litigation-debt-recovery/ — Louis Group, *Debt Recovery in Thailand 2026*, explaining enforcement after judgment and the absence of an automatic stay pending appeal.
+
+[^450]: https://tvc.co.th/guides/legal-services-power-of-attorney-in-thailand — Thai Visa Centre, *Power of Attorney in Thailand: Property, Court, and Corporate Uses*, reviewed June 2026.
+
+[^451]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-agency-section-797-806/ — Thailand Civil and Commercial Code, Sections 797–801, governing agency appointments, written authorization, and special powers.
+
+[^452]: https://www.dol.go.th/en/form-download/power-of-attorney-form/ — Department of Lands, official power-of-attorney forms, including Tor Dor 21 and condominium forms.
+
+[^453]: https://canberra.thaiembassy.org/en/content/power-of-attorney — Royal Thai Embassy, Canberra, official instructions and forms for executing powers of attorney overseas.
+
+[^454]: https://osos.boi.go.th/EN/how-to/142/Registering-Property/ — Thailand Board of Investment, One Start One Stop Investment Center, property transfer registration procedures.
