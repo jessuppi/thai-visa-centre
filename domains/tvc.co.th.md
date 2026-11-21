@@ -8054,15 +8054,7 @@ Section 229 instead sets the ordinary appeal period at one month from pronouncem
 
 The combined instructions risk causing readers to calculate the wrong filing date or believe that no extension can be requested, while presenting lawyer representation as compulsory where Section 60 permits self-representation.
 
-### Misleading Foreigners While Promoting Legal Referrals
-
-The *Trial, Appeals, and Execution of Judgment in Thailand* guide extends Thai Visa Centre’s false mandatory-lawyer claims to appeals and post-judgment enforcement. Its FAQ states: “Appeals and execution require licensed Thai attorneys.”[^512]
-
-Section 60 of Thailand’s Civil Procedure Code permits parties to conduct their own cases and take procedural steps personally, or appoint one or more attorneys.[^442] The statute does not impose a blanket lawyer requirement for civil appeals or execution.
-
-The claim repeats the same misrepresentation already documented in TVC’s *Civil Case Filing in Thailand* and *Civil Procedure in Thailand* guides. Across three legal publications, TVC presents lawyer representation as compulsory even though Section 60 makes it an alternative to self-representation.
-
-### Misleading Foreigners While Promoting Legal Referrals
+### Financial Consequences of Misstating Representation Requirements
 
 The distinction has immediate financial consequences.
 
