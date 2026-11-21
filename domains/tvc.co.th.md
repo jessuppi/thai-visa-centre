@@ -6741,6 +6741,59 @@ Foreign creditors following TVC's guidance could misunderstand the proceedings r
 Thai Visa Centre should correct its litigation, injunction, and debt-recovery guides to explain that ordinary foreign civil judgments require fresh Thai proceedings, while qualifying arbitral awards follow a separate statutory enforcement process.
 
 
+## Intellectual Property Guides Misstate Court Jurisdiction and Copyright Damages
+
+Thai Visa Centre publishes incorrect instructions about intellectual-property litigation in Thailand, misidentifying the courts responsible for infringement cases and suggesting copyright remedies that do not correspond to the country's statutory framework.
+
+The errors appear in two guides marked reviewed June 2026, both intended to help foreign businesses and intellectual-property owners navigate enforcement proceedings.[^408][^409]
+
+### Incorrectly Directs IP Claims Toward Ordinary Civil Courts
+
+TVC's *Intellectual Property: Guide for Foreigners* tells readers:
+
+> IP and Trade Court or Civil Court handles civil damages.
+
+Its separate *Intellectual Property Disputes in Thailand* guide repeats this distinction, presenting the Intellectual Property and International Trade Court and ordinary civil courts as alternative forums for infringement litigation.[^408][^409]
+
+**Thailand established specialized jurisdiction over intellectual-property infringement proceedings through the Intellectual Property and International Trade Court.**
+
+The Central Intellectual Property and International Trade Court handles civil and criminal IP infringement cases under the Act on the Establishment of and Procedure for Intellectual Property and International Trade Court B.E. 2539 (1996).
+
+The Legal 500's Thailand IP litigation guide confirms that this specialized court has jurisdiction over intellectual-property cases.[^410]
+
+**TVC's instructions wrongly suggest that ordinary civil courts provide an interchangeable filing option for IP infringement claims.**
+
+### Misrepresents Statutory Copyright Damages
+
+The *Intellectual Property* guide also states:
+
+> Statutory damages apply in some copyright matters.
+
+This description incorrectly suggests a system of predetermined statutory compensation comparable to copyright regimes in jurisdictions such as the United States.
+
+Thailand's Copyright Act instead provides a different damages framework.
+
+Under Section 64, courts determine appropriate compensation by considering the seriousness of the infringement, lost benefits, and reasonable enforcement expenses.[^411]
+
+The 2015 amendment additionally permits enhanced damages of up to twice the assessed amount in specified circumstances involving intentional infringement and widespread public access.[^412]
+
+**Neither provision establishes a general schedule of fixed statutory copyright damages.**
+
+TVC fails to distinguish judicially assessed compensation and enhanced damages from predetermined statutory awards.
+
+### Consequences for Foreign Rights Holders
+
+These errors concern fundamental aspects of litigation strategy.
+
+A foreign business following TVC's instructions could misunderstand which court has jurisdiction, incorrectly assess available monetary remedies, or pursue legal advice based on expectations unsupported by Thai law.
+
+The mistakes are particularly serious because the guides target trademark owners, copyright holders, franchise operators, and businesses facing potentially expensive disputes.
+
+**A company advertising professional legal referrals should accurately identify the competent court and available remedies before directing customers toward litigation services.**
+
+Thai Visa Centre should correct both intellectual-property guides, remove the misleading references to ordinary civil-court jurisdiction, and explain the actual damages framework established by Section 64 of the Copyright Act.
+
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -7367,3 +7420,13 @@ Thai Visa Centre should correct its litigation, injunction, and debt-recovery gu
 [^406]: https://www.tilleke.com/insights/foreign-court-judgments-vs-foreign-arbitration-awards-in-thailand/ — Tilleke & Gibbins, December 12, 2025, explaining the different treatment of foreign judgments and arbitral awards.
 
 [^407]: https://cms.law/en/int/expert-guides/cms-expert-guide-to-recognition-and-enforcement-of-judgements/thailand — CMS, *Recognition and Enforcement of Foreign Judgments in Thailand*, including relevant Supreme Court decisions.
+
+[^408]: https://tvc.co.th/guides/litigation-intellectual-property-dispute-in-thailand — Thai Visa Centre, *Intellectual Property: Guide for Foreigners*.
+
+[^409]: https://tvc.co.th/guides/legal-intellectual-property-disputes-thailand — Thai Visa Centre, *Intellectual Property Disputes in Thailand*.
+
+[^410]: https://www.legal500.com/intelligence/thailand/intellectual-property/ip-litigation-&-enforcement-guide — The Legal 500, Thailand IP Litigation & Enforcement Guide.
+
+[^411]: https://ipat.or.th/chapter-6-litigation-with-respect-to-copyright-and-performers-rights/ — Intellectual Property Association of Thailand, Copyright Act Section 64.
+
+[^412]: https://www.wipo.int/wipolex/en/legislation/details/15713 — WIPO Lex, Copyright Act (No. 2) B.E. 2558 (2015), amendment to Section 64.
