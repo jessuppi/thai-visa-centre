@@ -4574,6 +4574,67 @@ Nevertheless, the company repeatedly describes a nonexistent general forced-heir
 
 TVC should correct its probate and will-writing guides, distinguish intestate inheritance from testamentary freedom, and accurately explain the separate treatment of marital property and legally ineffective wills.
 
+
+## Estate-Planning Guides Falsely Claim Wills Require Licensed Thai Lawyers
+
+Thai Visa Centre incorrectly presents licensed Thai lawyers as mandatory for preparing wills and administering estates.
+
+Its *Last Will and Testament in Thailand* guide, marked reviewed June 2026, explicitly states:
+
+> Estate planning and probate require licensed Thai attorneys.
+
+Its separate *Thailand Law Firms and TVC Office Locations* guide similarly classifies wills and estate planning as work requiring licensed Thai lawyers.[^465][^48]
+
+**These blanket claims conflict with Thailand's Civil and Commercial Code and the government's official procedures for making wills.**
+
+### Thai Law Expressly Permits Wills Without Lawyers
+
+Section 1656 of the Civil and Commercial Code permits ordinary written wills that are dated and signed by the testator in the presence of two witnesses, who sign at the same time.
+
+Section 1657 separately recognizes holographic wills written entirely in the testator's own handwriting, including the date and signature. Such wills do not require witnesses.
+
+Neither provision requires a lawyer to prepare or witness the will.
+
+Section 1658 provides another option: a public will executed before a competent district official with the required witnesses.[^466]
+
+The law establishes formal requirements for making valid wills. It does not impose a universal requirement to retain licensed legal counsel.
+
+### Government Offers Direct Will-Making Services
+
+Thailand's Department of Provincial Administration published an updated will-writing handbook in 2026, incorporating current ministerial procedures governing testamentary documents.[^239]
+
+The official process permits individuals to apply directly at district offices for public wills, with the testamentary declaration recorded before a district official and the required witnesses.
+
+The handbook identifies a government fee of **250 baht** for preparing a public will at a district office. It separately identifies a higher fee for an official preparing the will outside the office.[^239]
+
+The 2026 procedures also address identity verification for foreign applicants and interpreters when the testator or witnesses cannot communicate in Thai.
+
+**Thailand's government provides a formal will-making procedure without requiring applicants to engage private lawyers.**
+
+### TVC's Own Guide Contradicts Its Claim
+
+TVC's will-writing guide acknowledges that a holographic will can be written entirely by the testator without witnesses.[^465]
+
+Its explanation of legally recognized will forms therefore contradicts its subsequent claim that estate planning requires licensed Thai attorneys.
+
+Professional legal assistance may be prudent for substantial estates, competing wills, foreign beneficiaries, company shares, or cross-border inheritance disputes.
+
+Probate proceedings and contested litigation present separate procedural issues from the act of making a will. Nothing in the government procedures establishes that every will must be drafted by a lawyer.
+
+**Recommending qualified legal assistance is different from claiming that the law makes it compulsory.**
+
+### Misleading Customers About Estate-Planning Costs
+
+TVC advertises referrals to licensed legal professionals while publishing guidance suggesting that customers cannot properly prepare wills without them.
+
+This could encourage foreigners holding Thai property, bank accounts, or other assets to purchase legal services they are not generally required to obtain simply to make a valid will.
+
+The available evidence does not establish that TVC charged individual customers unnecessary legal fees. It establishes that the agency's published statements omit lawful, lawyer-free will-making options.
+
+**Thai Visa Centre should correct its publications to acknowledge ordinary witnessed wills, handwritten wills, and district-office public wills as legally recognized options that do not universally require lawyers.**
+
+It should disclose the government's direct will-making procedure and distinguish optional legal assistance from genuine statutory requirements.
+
 ## Probate Guides Overstate Thai Co-Executor Requirements and Omit Direct Inheritance Transfers
 
 Thai Visa Centre publishes misleading estate-planning guidance concerning the appointment of foreign estate administrators and the procedures available for registering inherited property in Thailand.
@@ -8350,3 +8411,7 @@ A business promoting professional legal referrals should not present optional le
 [^463]: https://osos.boi.go.th/EN/how-to/218/Getting-Visa--Work-Permit/ — Thailand Board of Investment, One Start One Stop Investment Center, guidance on work-permit applications, including filing by prospective employers.
 
 [^464]: https://osos.boi.go.th/EN/faq-group/8/Document-required-for-Work-Permit/ — Thailand Board of Investment, documentation for work-permit submissions through authorized representatives.
+
+[^465]: https://tvc.co.th/guides/legal-last-will-and-testament — Thai Visa Centre, *Last Will and Testament in Thailand*, reviewed June 2026, stating that estate planning and probate require licensed Thai attorneys while acknowledging holographic wills.
+
+[^466]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-wills-section-1655-1672/ — Thailand Civil and Commercial Code, Sections 1656–1658, providing for ordinary written, holographic, and public wills without a blanket lawyer requirement.
