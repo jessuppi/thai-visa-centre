@@ -8333,6 +8333,17 @@ Section 229 sets the ordinary appeal period at one month from pronouncement of t
 
 TVC therefore repeats the same inaccurate deadline and trigger across separate litigation guides: a fixed 30-day approximation running from delivery, instead of the statutory one-month period running from pronouncement. This is a recurring error in the agency’s published legal instructions.
 
+
+### TVC Falsely Says Foreigners Can Never Get an Extension
+
+The guide claims that missing the appeal deadline forfeits the right to appeal “with no extension for foreigners.”[^512]
+
+Section 23 of Thailand’s Civil Procedure Code authorizes courts to extend procedural deadlines, including appeal deadlines, where special circumstances justify an extension. As a rule, the request must be made before the deadline expires; force majeure is an exception.[^515]
+
+Section 23 contains no bar for foreign litigants. An extension is not automatic, but TVC falsely tells foreign readers that the law makes one impossible. This is another material misstatement in the same guide that already gives them the wrong deadline and starting date.
+
+[^515]: https://www.thailawonline.com/thai-civil-procedure-code/section-23/ — Thailand Civil Procedure Code, Section 23, extension of procedural deadlines.
+
 This is not a harmless simplification. A reader who substitutes a fixed 30-day count for the statutory calendar-month calculation may miscalculate the filing deadline and lose the right to appeal.
 
 TVC has therefore published multiple guides that misstate when a judgment may be enforced, and multiple guides that misstate how long a litigant has to appeal. These are basic procedural rules with direct consequences for creditors and litigants. The repeated errors appear in publications TVC presents as reviewed legal guidance.
