@@ -3057,6 +3057,43 @@ Nevertheless, its published guidance omits a substantial financial concession wh
 
 TVC should identify the reduced capital thresholds for qualifying foreign spouses and distinguish Department of Employment requirements from Immigration Bureau extension criteria.
 
+
+### Office Guide Falsely Claims Thai Lawyers Are Mandatory for Work Permits
+
+Thai Visa Centre's *Thailand Law Firms and TVC Office Locations* guide tells prospective foreign workers that obtaining a work permit requires a Thai lawyer.[^461]
+
+Its list of common mistakes warns:
+
+> Work permits require a Thai lawyer and employer coordination, not just an agent.
+
+**Thailand's ordinary work-permit procedures do not impose a blanket requirement to hire a Thai lawyer.**
+
+#### Government Procedures Permit Employer and Worker Applications
+
+Thailand's Ministry of Labour launched the nationwide e-WorkPermit system on October 13, 2025, expressly allowing employers and foreign workers to register and submit work-permit applications through the official platform.[^462]
+
+The Ministry's description of those application channels does not make licensed legal representation a prerequisite.
+
+The Board of Investment's official work-permit instructions also explain that a prospective employer may file an application on behalf of a foreign employee. Its published documentation requirements recognize applications handled through authorized representatives without stating that the representative must be a lawyer.[^463][^464]
+
+The precise filing route depends on the applicant's employment category, applicable requirements, and any current procedural exceptions. None of those distinctions supports TVC's categorical claim that hiring a Thai lawyer is mandatory for work permits.
+
+Legal advice may be valuable for complicated immigration histories, employment disputes, company-formation issues, or questions involving restricted occupations. But the practical value of professional legal assistance does not make it a universal statutory requirement.
+
+#### Confusing Optional Legal Services With Government Requirements
+
+TVC promotes coordination with legal professionals while warning readers that work permits require a Thai lawyer rather than an immigration agent alone.[^461]
+
+That statement could lead foreign workers and employers to believe that they must purchase legal representation before using otherwise available government application channels.
+
+**The distinction is between a legal obligation to obtain appropriate work authorization and an optional decision to hire a lawyer to assist with the process.**
+
+The claim also adds to the problems documented above: TVC's work-permit guides describe outdated filing procedures, fail to clearly explain the e-WorkPermit system, and confuse employment-permit requirements with immigration-extension criteria.
+
+These findings concern TVC's published guidance; they do not establish that the agency has improperly processed any individual customer's application.
+
+Thai Visa Centre should remove its blanket statement that work permits require Thai lawyers, describe the government-authorized application routes, and distinguish mandatory employer and employee obligations from optional legal assistance.
+
 ## Permanent-Residency Guides Misstate Application Dates and Filing Procedures
 
 Thai Visa Centre advertises professional assistance with Thailand's permanent-residency applications, including eligibility assessments, document preparation, and immigration coordination.
@@ -8305,3 +8342,11 @@ A business promoting professional legal referrals should not present optional le
 [^459]: https://www.mdes.go.th/law/detail/3577-Personal-Data-Protection-Act-B-E--2562--201920192026-01-12 — Thailand Ministry of Digital Economy and Society, official publication of the Personal Data Protection Act B.E. 2562 (2019), particularly Sections 37, 39, 40, 41, and 42.
 
 [^460]: https://www.tilleke.com/insights/thailand-proposes-qualification-standards-for-data-protection-officers/ — Tilleke & Gibbins, November 20, 2026, reporting the November 17 public consultation on proposed Data Protection Officer qualification requirements.
+
+[^461]: https://tvc.co.th/guides/thailand-thailand-law-firms — Thai Visa Centre, *Thailand Law Firms and TVC Office Locations*, warning that work permits require a Thai lawyer and employer coordination.
+
+[^462]: https://www.mol.go.th/en/news/labour-minister-launches-e-workpermit-online-system-for-foreign-worker-registration-24-hour-nationwide-service-begins-october-13 — Thailand Ministry of Labour, launch of nationwide e-WorkPermit on October 13, 2025, with employer and foreign-worker registration and applications.
+
+[^463]: https://osos.boi.go.th/EN/how-to/218/Getting-Visa--Work-Permit/ — Thailand Board of Investment, One Start One Stop Investment Center, guidance on work-permit applications, including filing by prospective employers.
+
+[^464]: https://osos.boi.go.th/EN/faq-group/8/Document-required-for-Work-Permit/ — Thailand Board of Investment, documentation for work-permit submissions through authorized representatives.
