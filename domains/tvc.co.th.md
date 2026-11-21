@@ -7627,6 +7627,82 @@ Although representation can be valuable in complicated disputes, it is not a uni
 Thai Visa Centre should correct its civil litigation publications to acknowledge Section 60, remove the false mandatory-lawyer claims, and distinguish the legal right to self-representation from the practical advantages of professional counsel.
 
 
+
+## Civil Case Filing Guide Misidentifies Case Numbers and Omits Mandatory Electronic Procedures
+
+Thai Visa Centre's *Civil Case Filing in Thailand*, marked reviewed June 2026, contains basic errors about how Thai courts register lawsuits and how litigants submit documents.
+
+The guide incorrectly identifies the case number assigned when proceedings begin, calls physical courthouse submission the dominant filing method, and describes electronic filing as limited without explaining the judiciary's established digital procedures.[^489]
+
+**These discrepancies concern fundamental aspects of Thailand's civil justice system, not obscure technicalities.**
+
+### Confuses Black and Red Case Numbers
+
+TVC's filing instructions state:
+
+> Court registers the case and issues a red case number.
+
+This reverses the terminology ordinarily used by Thailand's judiciary.
+
+When a court registers a new case, it assigns a **black case number (คดีหมายเลขดำ)**. A **red case number (คดีหมายเลขแดง)** is assigned when the case is decided or otherwise formally disposed of.
+
+The judiciary's own case-tracking portal identifies the number used to search existing proceedings as the *black case number*, confirming the initial registration terminology.[^490]
+
+**A newly registered lawsuit does not ordinarily receive a red case number merely because a complaint has been filed.**
+
+Case-number terminology matters when litigants contact the court, track hearings, request records, and communicate with counsel.
+
+### Physical Filing Is Not the Dominant Procedure TVC Describes
+
+TVC's procedural summary states:
+
+> Physical filing at court is dominant. E-filing is limited. Your lawyer handles submission.
+
+It subsequently instructs plaintiffs to pay court fees at the filing counter and submit complaints through a lawyer in person.[^489]
+
+Thailand's Office of the Judiciary, however, has operated e-Filing for years. In its January 2026 announcement about a major platform upgrade, the judiciary reported that **more than 85% of civil cases were already being filed electronically** through its existing e-Filing infrastructure.[^491]
+
+That official statistic directly contradicts TVC's categorical assertion that physical filing dominates, although individual court procedures and eligible case types still vary.
+
+### The Judiciary Introduced an Upgraded System in January 2026
+
+On January 5, 2026, Thailand's Office of the Judiciary launched an upgraded e-Filing platform with enhanced identity verification, electronic forms, notifications of court orders and hearings, and expanded digital case management.[^491][^492]
+
+The initial rollout covered two specific categories:
+
+- Consumer cases in which business operators bring claims before courts authorized to hear consumer disputes.
+- Applications for recognition of a child where the mother consents, heard in juvenile and family courts.
+
+For **consumer cases filed by business operators from January 5, 2026**, the judiciary directed new filings through the upgraded e-Filing system. Cases already filed before that date could continue using the previous e-Filing v.3 system until completion.[^491]
+
+For qualifying child-recognition cases, the upgraded electronic channel was introduced as an **additional option**, rather than a universal electronic-filing mandate.
+
+**These distinctions are essential: not every court proceeding became subject to compulsory electronic filing, but certain newly filed consumer claims did.**
+
+### Electronic Preparation and Payment Follow Different Schedules
+
+The judiciary's announcement also distinguishes between preparing an electronic complaint and completing payment or submission steps.
+
+Applicants can enter and save draft complaint information electronically at any time, but payments must be completed during official working hours, generally **8:30 a.m. to 4:30 p.m.** Certain other electronic submissions likewise remain subject to official service hours.[^491]
+
+TVC's blanket instruction to pay at a physical courthouse counter omits these procedures and could mislead applicants about how and when to complete a valid filing.
+
+The changes were already in effect when TVC's guide was supposedly reviewed in June 2026.
+
+### Consequences for Litigants
+
+Black and red case numbers identify different procedural stages. Confusing them can complicate case tracking and communications with courts.
+
+Likewise, incorrectly describing physical filing as dominant and omitting electronic-filing requirements can cause unnecessary courthouse visits, incorrect submission preparations, and confusion about the correct channel.
+
+The evidence does not establish that TVC caused individual customers to miss deadlines or that its own lawyers filed cases improperly.
+
+It establishes that the agency's published guide contains an elementary case-numbering error and overlooks substantial procedures publicly confirmed by the judiciary.
+
+**Thai Visa Centre should correct its black-versus-red case-number explanation, retract its assertion that physical filing dominates, and identify the judiciary's applicable electronic-filing platforms and January 2026 case-specific requirements.**
+
+An agency advertising litigation referrals should accurately explain how Thai courts receive, register, and track proceedings.
+
 ## Notary Guide Omits Mandatory Specialist Registration for Notarial Services Attorneys
 
 Thai Visa Centre's *Notary Public in Thailand: Document Authentication Guide*, marked reviewed June 2026, provides incomplete and potentially misleading advice about the qualifications required to authenticate signatures and documents in Thailand.[^443]
@@ -8772,3 +8848,11 @@ A business promoting professional legal referrals should not present optional le
 [^487]: https://www.tilleke.com/insights/thailands-updated-unfair-trade-practice-guidelines-for-franchising/33/ — Tilleke & Gibbins, July 12, 2022, explaining the franchise priority rule, its exceptions, and required precontractual disclosures under updated competition guidelines.
 
 [^488]: https://www.tilleke.com/insights/franchising-compliance-in-thailand-lessons-from-trade-competition-rulings/ — Tilleke & Gibbins, August 27, 2026, analyzing Trade Competition Commission decisions involving territorial encroachment and unfair franchise practices.
+
+[^489]: https://tvc.co.th/guides/thailand-law-library-legal-library-thai-civil-case-filing — Thai Visa Centre, *Civil Case Filing in Thailand: Complaint, Fees, and Service (2026)*, reviewed June 2026, describing a red case number on filing, physical submission as dominant, and e-Filing as limited.
+
+[^490]: https://cios.coj.go.th/tracking/ — Thailand Office of the Judiciary, official case-tracking system, whose search form explicitly requests the black case number (หมายเลขคดีดำ).
+
+[^491]: https://www.coj.go.th/th/content/category/detail/id/4/cid/8/iid/531927/ — Thailand Office of the Judiciary, January 6, 2026 announcement on the January 5 e-Filing upgrade, reporting over 85% electronic filing in civil cases, specifying eligible initial case types, mandatory new-system filing for business-operator consumer claims, and service hours.
+
+[^492]: https://www.thailand.go.th/public/issue-focus-detail/judiciary-launches-upgraded-e-filing-system-with-enhanced-security-and-user-focus?hl=en — Thailand government's English-language explanation of the January 2026 upgraded e-Filing platform, its features, and initial case categories.
