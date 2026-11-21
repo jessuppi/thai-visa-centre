@@ -3045,6 +3045,53 @@ The marriage-based reduction in work-permit capital does not automatically waive
 
 **These are related but legally distinct decisions, and TVC's guidance does not adequately separate them.**
 
+
+#### Government-Recognized Exceptions to the Four-Employee Ratio
+
+TVC's work-permit guide presents four Thai employees per foreign worker as the standard staffing requirement.[^148]
+
+However, Thailand's official immigration guidance identifies specific business categories that qualify for substantially different requirements.
+
+**Representative Offices, Regional Offices, and Multinational Branches**
+
+Government guidance expressly provides that qualifying representative offices, regional offices, and multinational company branches may receive:
+
+- A reduced ratio of **one permanent Thai employee per foreign employee**.
+- Exemptions from specified employer-capital requirements.
+- Exemptions from certain financial-statement and business-necessity criteria applicable to ordinary company applications.[^502]
+
+These concessions are recognized in published government guidance for employment-based stay extensions, rather than being discretionary promises from private immigration agents.
+
+The precise requirements depend on the employer's legal structure and the applicable immigration category.
+
+Nevertheless, TVC's published work-permit instructions fail to explain these established alternatives.
+
+**Long-Term Resident Visa Holders**
+
+Thailand's Board of Investment separately identifies exemption from the **four-Thai-employees-per-foreigner ratio** as a benefit of the Long-Term Resident (LTR) visa programme.[^503]
+
+This exemption is particularly relevant to qualifying Highly Skilled Professionals employed in Thailand.
+
+LTR applicants remain subject to their own eligibility and employment-authorization rules. The exemption does not establish that every LTR category qualifies for a Thai work permit; for example, the BOI says Work-from-Thailand Professionals do not receive a Thai work permit for their remote employment with overseas employers.[^503]
+
+However, the exemption demonstrates that the ordinary staffing ratio cannot be presented as a universal prerequisite for foreign professionals working legally in Thailand.
+
+**Financial Consequences for Foreign Employers**
+
+A company relying on TVC's general staffing advice could incorrectly assume that sponsoring one foreign professional requires hiring four Thai employees, even where its business structure qualifies for a reduced ratio.
+
+That misunderstanding could influence hiring decisions, company budgets, investment planning, and whether an entrepreneur considers employing a foreign specialist financially viable.
+
+For example, a qualifying representative office employing two foreign professionals may be eligible for a 1:1 arrangement requiring two permanent Thai employees rather than the eight suggested by applying the ordinary 4:1 calculation.
+
+This illustration assumes the office satisfies the applicable eligibility requirements; it does not override other relevant labour or immigration rules.
+
+TVC promotes work-permit coordination and employer-compliance assistance as core commercial services.
+
+**Its guidance should identify the recognized 1:1 categories, explain applicable LTR exemptions, and distinguish immigration staffing conditions from Department of Employment work-permit eligibility.**
+
+Foreign employers should not be led to believe that every qualifying employment arrangement requires the same staffing structure.
+
 #### Consequences for Customers
 
 Incorrectly assuming that every foreign worker requires 2 million baht in employer capital could discourage eligible spouses from applying or lead businesses to arrange unnecessary additional capitalization.
@@ -9028,3 +9075,7 @@ A business promoting professional legal referrals should not present optional le
 [^500]: https://www.dbd.go.th/fileupload/foreign_file/ebook/2568/ARDBD2025ENG.pdf — Thailand Department of Business Development, *Foreign Business Annual Report 2025*, figures for Foreign Business Licenses and Foreign Business Certificates associated with investment promotion and international agreements.
 
 [^501]: https://www.boi.go.th/index.php?current_page=1&group_id=101403&language=en&page=faq — Thailand Board of Investment, official FAQ on foreign ownership, investment promotion, and Foreign Business Act permissions.
+
+[^502]: https://thailand.go.th/public/visit-thailand-detail/001_01_079 — Thailand government, *Application to Stay in Thailand for Business*, based on Immigration Bureau guidance, expressly identifying the 1:1 Thai-to-foreign employee ratio and specified exemptions for qualifying representative offices, regional offices, and multinational company branches.
+
+[^503]: https://ltr.boi.go.th/index.html — Thailand Board of Investment, official Long-Term Resident visa website, listing exemption from the four-Thai-employees-to-one-foreigner ratio and distinguishing work-permit eligibility across LTR categories.
