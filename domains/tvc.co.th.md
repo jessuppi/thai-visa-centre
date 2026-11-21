@@ -7092,6 +7092,63 @@ Yet its discussion of residential lease compliance remains focused on general Ci
 Thai Visa Centre should update its publication to identify the 2025 regulations, distinguish covered rental businesses from smaller private landlords, and explain the mandatory protections governing residential lease agreements.
 
 
+## Civil Litigation Guide Misrepresents Recovery of Court Fees
+
+Thai Visa Centre's *Civil Cases: Guide for Foreigners*, marked reviewed June 2026, misrepresents Thailand's rules governing litigation expenses by suggesting that successful plaintiffs generally cannot recover their court fees.[^436]
+
+The guidance contradicts Section 161 of Thailand's Civil Procedure Code and the cost-recovery principles established under Thai civil procedure.
+
+### Incorrectly Claims Court Fees Are Rarely Recoverable
+
+In its frequently asked questions, TVC states:
+
+> Factor fees into settlement math because they are rarely fully recoverable even if you win.
+
+Elsewhere, the same publication warns readers about spending money on filing fees that opposing parties may never repay.[^436]
+
+These statements present limited recovery as the normal outcome, without explaining the statutory rule governing responsibility for litigation costs.
+
+**Thailand does not operate under a general rule requiring successful civil litigants to absorb their own court fees.**
+
+### Section 161 Establishes the Losing-Party-Pays Principle
+
+Section 161 of Thailand's Civil Procedure Code expressly establishes that the unsuccessful party is generally responsible for court fees and litigation costs.[^437]
+
+The legislation also gives courts discretion to allocate costs differently based on the circumstances, including the reasonableness and good faith of the parties' conduct.
+
+This means a successful litigant may recover court fees through a costs order, while the amount and allocation remain subject to judicial determination.
+
+International law firm DLA Piper confirms that court fees are recoverable in principle when a civil claim succeeds.[^438]
+
+Tilleke & Gibbins likewise identifies the losing-party-pays principle as Thailand's general rule for litigation costs.[^439]
+
+**TVC's suggestion that court fees are rarely fully recoverable reverses the statutory starting position.**
+
+### Confuses Court Fees With Private Legal Expenses
+
+A critical distinction exists between court fees and the actual fees paid to privately retained lawyers.
+
+Thai courts may award legal costs against the losing party, but recoverable attorney fees are commonly limited by statutory schedules and judicial assessment.
+
+Consequently, even successful litigants may recover only a fraction of their actual legal representation expenses.
+
+However, this limitation does not establish that court filing fees are generally unrecoverable.
+
+**TVC's guidance fails to distinguish court fees, recoverable litigation costs, and private attorney fees**, leaving readers with a misleading picture of the financial consequences of civil litigation.
+
+### Financial Consequences for Foreign Litigants
+
+Foreign investors, tenants, creditors, and business owners assessing whether to pursue civil claims need accurate information about potential litigation costs.
+
+Misrepresenting cost recovery can distort settlement calculations and discourage claimants from pursuing legitimate remedies.
+
+The problem is especially relevant because Thai Visa Centre advertises referrals to licensed litigation lawyers while publishing procedural guidance for prospective claimants.
+
+**A business presenting itself as a source of professional legal guidance should accurately explain the statutory cost-recovery framework rather than suggest that winning parties ordinarily cannot recover their court fees.**
+
+Thai Visa Centre should correct its civil litigation guide to explain Section 161, distinguish court fees from privately incurred attorney expenses, and acknowledge the judiciary's discretion when allocating costs.
+
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -7774,3 +7831,11 @@ Thai Visa Centre should update its publication to identify the 2025 regulations,
 [^434]: https://www.ocpb.go.th/news_view.php?nid=17902 — Office of the Consumer Protection Board, deposit limits, refund deadlines, normal wear and tear, and utility billing.
 
 [^435]: https://oneasia.legal/en/6690 — One Asia Lawyers, December 2025 analysis of mandatory residential lease terms, prohibited clauses, and penalties under the 2025 regulations.
+
+[^436]: https://tvc.co.th/guides/litigation-civil-case-thailand — Thai Visa Centre, *Civil Cases: Guide for Foreigners*, reviewed June 2026.
+
+[^437]: https://wsrlawgroup.com/publications/law-library/thailand-civil-procedure-code/book-1-general-provisions/ — Thailand Civil Procedure Code, Section 161, responsibility for court fees and litigation costs.
+
+[^438]: https://www.dlapiperintelligence.com/litigation/insight/index.html?c=TH&t=09-costs — DLA Piper, Thailand litigation costs and recovery of court fees.
+
+[^439]: https://chambers.com/practice-guides/guides/litigation-2026/thailand/law-and-practice — Tilleke & Gibbins, *Litigation 2026: Thailand*, general rules governing litigation costs.
