@@ -4951,6 +4951,51 @@ Preparing an agreement in advance is prudent, particularly when substantial asse
 
 However, the timing of preparation must not be confused with the statutory registration requirement.
 
+
+### Prenuptial Agreement Guides Falsely Claim Licensed Thai Lawyers Are Mandatory
+
+Thai Visa Centre also incorrectly tells couples that licensed Thai lawyers are legally required for prenuptial agreements.
+
+Its *Thailand Law Firms and TVC Office Locations* guide presents a table distinguishing services requiring lawyers from those an immigration agent may coordinate. For marriage to a Thai national, the lawyer column states:
+
+> Required for prenuptial and property agreements
+
+A separate comparison on the same page identifies a prenuptial agreement as a situation in which an attorney is needed, while its legal-coordination section says marriage prenuptials require licensed Thai attorneys.[^467]
+
+TVC's dedicated *Prenuptial Agreement in Thailand* guide repeatedly recommends drafting with a Thai family lawyer and asserts that its guide's subject requires licensed advocates for binding legal work.[^468]
+
+**These statements portray optional legal assistance as a mandatory prerequisite to an enforceable prenuptial agreement.**
+
+#### Section 1466 Does Not Require Legal Representation
+
+As explained above, Section 1466 of Thailand's Civil and Commercial Code identifies two ways to satisfy the registration formalities: record the prenuptial terms in the marriage register at marriage registration, or annex a written agreement signed by the parties and at least two witnesses and record that annexation at the same time.[^332]
+
+Neither route imposes a blanket requirement that a licensed lawyer draft, approve, sign, or register the agreement.
+
+The legal requirements concern the agreement's permissible content and the prescribed execution and registration formalities, not the occupational status of a person helping the couple prepare it.
+
+#### Government Procedures Allow Couples to Present Agreements Directly
+
+Thailand's Department of Provincial Administration includes a prenuptial agreement, *if any*, among the documents couples may bring to a district office when registering their marriage.[^469]
+
+The same government instructions describe the witnesses and identity documents needed for marriage registration. They do not list a lawyer's certificate or legal representation as a universal condition for submitting a prenuptial agreement.
+
+Couples must still comply with the legal requirements for valid terms, execution, registration, and any applicable translation or document authentication.
+
+**The government process does not require couples to hire a private lawyer merely to present and register an otherwise valid prenuptial agreement.**
+
+#### Optional Advice Is Not a Statutory Requirement
+
+Independent legal advice may be especially valuable when a prenuptial agreement affects valuable property, business ownership, overseas assets, or competing national laws. Separate counsel can help each party understand the agreement and reduce the risk of future disputes.
+
+But recommending professional review is fundamentally different from claiming every prenuptial agreement requires a licensed Thai attorney.
+
+TVC advertises referrals to family lawyers while presenting their involvement as compulsory in its office guide. That could mislead international couples into purchasing legal services they are not generally required to obtain.
+
+The available evidence does not establish that TVC charged any particular couple unnecessary legal fees or caused an agreement to be invalid.
+
+**Thai Visa Centre should remove its blanket mandatory-lawyer claim, explain the registration methods recognized by Section 1466, and distinguish optional legal drafting and independent advice from compulsory statutory formalities.**
+
 ### Financial Consequences for International Couples
 
 Prenuptial agreements may govern significant property interests, including condominium ownership, business shares, investment accounts, and the management of marital assets.
@@ -8415,3 +8460,9 @@ A business promoting professional legal referrals should not present optional le
 [^465]: https://tvc.co.th/guides/legal-last-will-and-testament — Thai Visa Centre, *Last Will and Testament in Thailand*, reviewed June 2026, stating that estate planning and probate require licensed Thai attorneys while acknowledging holographic wills.
 
 [^466]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-wills-section-1655-1672/ — Thailand Civil and Commercial Code, Sections 1656–1658, providing for ordinary written, holographic, and public wills without a blanket lawyer requirement.
+
+[^467]: https://tvc.co.th/guides/thailand-thailand-law-firms — Thai Visa Centre, *Thailand Law Firms and TVC Office Locations*, lawyer-versus-agent comparison table and legal practice-area descriptions presenting attorneys as required for prenuptial agreements.
+
+[^468]: https://tvc.co.th/guides/legal-services-thailand-prenuptial-agreement — Thai Visa Centre, *Prenuptial Agreement in Thailand*, recommending family-law counsel for drafting and asserting a need for licensed advocates for binding legal work.
+
+[^469]: https://www.bora.dopa.go.th/callcenter1548/guidebook — Thailand Department of Provincial Administration, official marriage-registration guidance, listing prenuptial agreements as documents to present when applicable and identifying witnesses and other required documents.
