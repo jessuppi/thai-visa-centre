@@ -7488,6 +7488,91 @@ It should explain the Department of Lands' official forms, the applicable Civil 
 Presenting optional lawyer involvement as a statutory requirement is particularly misleading in a guide supposedly intended to help foreigners understand their legal options.
 
 
+## PDPA Guide Falsely Claims Privacy Compliance Requires Licensed Thai Lawyers
+
+Thai Visa Centre's *PDPA Consulting and Training in Thailand*, marked reviewed June 2026, incorrectly presents licensed Thai legal representation as a mandatory requirement for complying with Thailand's Personal Data Protection Act.[^458]
+
+The claim misrepresents who is responsible for privacy compliance and potentially encourages businesses to purchase professional legal services they are not generally required to obtain.
+
+### Explicitly Claims Licensed Lawyers Are Required
+
+The guide concludes:
+
+> PDPA compliance requires licensed Thai attorneys.
+
+Elsewhere, the publication states that PDPA consulting requires licensed Thai advocates for binding legal work.
+
+It repeatedly directs employers and technology businesses toward lawyer referrals while describing routine privacy compliance activities, including data mapping, consent records, staff training, security measures, and vendor agreements.[^458]
+
+**These activities do not inherently require licensed Thai attorneys.**
+
+Qualified legal advice can be valuable when interpreting complicated statutory obligations, handling regulatory investigations, or defending litigation.
+
+However, the practical advantages of legal assistance do not establish a general legal requirement to retain a lawyer.
+
+### The PDPA Assigns Compliance Duties to Organizations
+
+Thailand's Personal Data Protection Act B.E. 2562 (2019) expressly identifies the persons and organizations responsible for compliance.
+
+Section 37 establishes duties for data controllers, including appropriate security measures, data retention and deletion procedures, and reporting qualifying personal data breaches.
+
+Section 39 establishes recordkeeping obligations, subject to applicable exceptions.
+
+Section 40 separately establishes duties for data processors, including following lawful controller instructions, implementing security measures, and maintaining processing records.[^459]
+
+**None of these provisions requires organizations to hire licensed lawyers to perform ordinary compliance activities.**
+
+Companies may implement appropriate policies through their management, information technology departments, human resources personnel, privacy specialists, and other qualified employees or service providers.
+
+The legal obligation concerns compliance with the statute, not purchasing a particular category of professional services.
+
+### Data Protection Officers Are Not Required to Be Lawyers
+
+Section 41 establishes circumstances in which data controllers and processors must designate a Data Protection Officer (DPO).
+
+The statutory triggers concern public authorities, certain large-scale monitoring activities, and processing involving categories of sensitive personal data.
+
+Crucially, Section 41 expressly permits the DPO to be either an employee or an external service provider.[^459]
+
+Section 42 describes the DPO's responsibilities, including advising on compliance, monitoring organizational practices, cooperating with regulators, and maintaining confidentiality.
+
+**The legislation does not require DPOs to hold Thai lawyers' licences.**
+
+On November 17, 2026, Thailand's Personal Data Protection Committee opened public consultation on proposed DPO qualification standards.
+
+The proposal addresses education, privacy expertise, professional experience, training, and continuing development.
+
+It would permit bachelor's degrees or equivalent qualifications in any field rather than requiring a law degree or legal-practice licence.[^460]
+
+These proposed requirements are not yet binding, but they further demonstrate that Thailand's regulatory framework distinguishes professional privacy expertise from attorney licensing.
+
+### Misleading Businesses About Compliance Costs
+
+TVC's assertion could lead employers, website operators, and foreign-owned businesses to believe they must retain lawyers before implementing ordinary privacy protections.
+
+That is particularly misleading because organizations remain responsible for compliance regardless of whether they engage external counsel.
+
+Hiring a lawyer does not replace the need for appropriate technical safeguards, internal policies, data inventories, staff training, or operational procedures.
+
+Indeed, TVC's own guide correctly acknowledges that publishing a privacy policy alone is insufficient.
+
+Yet its concluding assertion about mandatory licensed attorneys incorrectly converts a broader organizational responsibility into an apparent professional-services requirement.
+
+### Commercial Referrals and Editorial Accuracy
+
+Thai Visa Centre advertises referrals to licensed legal professionals while publishing compliance guidance for prospective business customers.
+
+This creates a commercial context in which inaccurate statements about mandatory lawyer involvement deserve scrutiny.
+
+The publication does not distinguish situations requiring qualified courtroom representation from everyday regulatory compliance activities.
+
+**Thai Visa Centre should correct its PDPA guide to acknowledge that organizations can manage compliance internally or through appropriate external specialists without a general obligation to hire licensed Thai attorneys.**
+
+The guide should distinguish statutory DPO appointment requirements, optional legal advice, regulatory representation, and operational privacy responsibilities.
+
+A business promoting professional legal referrals should not present optional legal services as universally mandatory under Thai law.
+
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -8214,3 +8299,9 @@ Presenting optional lawyer involvement as a statutory requirement is particularl
 [^456]: https://www.hcch.net/en/news-archive/details?varevent=1158 — Hague Conference on Private International Law, *Thailand accedes to the 1961 Apostille Convention*, June 30, 2026.
 
 [^457]: https://www.mfa.go.th/en/content/apostille-convention-eng — Thailand Ministry of Foreign Affairs, confirmation of June 30, 2026 accession and scheduled February 28, 2027 entry into force.
+
+[^458]: https://tvc.co.th/guides/legal-services-pdpa-consulting-and-training-services-thailand — Thai Visa Centre, *PDPA Consulting and Training in Thailand: Compliance for Employers and Apps*, reviewed June 2026; statements about mandatory licensed attorneys and recommended compliance activities.
+
+[^459]: https://www.mdes.go.th/law/detail/3577-Personal-Data-Protection-Act-B-E--2562--201920192026-01-12 — Thailand Ministry of Digital Economy and Society, official publication of the Personal Data Protection Act B.E. 2562 (2019), particularly Sections 37, 39, 40, 41, and 42.
+
+[^460]: https://www.tilleke.com/insights/thailand-proposes-qualification-standards-for-data-protection-officers/ — Tilleke & Gibbins, November 20, 2026, reporting the November 17 public consultation on proposed Data Protection Officer qualification requirements.
