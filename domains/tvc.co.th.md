@@ -7028,6 +7028,70 @@ They could also encourage tenants to surrender possession, renegotiate existing 
 The distinction is fundamental to Thai property law and particularly important for foreigners entering expensive residential or commercial leasing arrangements.
 
 
+## Landlord Guide Omits Mandatory Residential Lease Protections Introduced in 2025
+
+Thai Visa Centre's *Becoming a Landlord in Thailand*, marked reviewed June 2026, provides incomplete guidance on residential tenancy law while overlooking major consumer-protection regulations introduced in September 2025.[^432]
+
+The guide advertises advice for foreign condominium owners renting properties in Thailand, covering lease agreements, security deposits, tenant disputes, and landlord obligations.
+
+However, it fails to explain Thailand's updated contract-control regulations despite specifically presenting itself as a guide to landlord compliance.
+
+### Fails to Identify the 2025 Residential Lease Regulations
+
+Thailand's Contract Committee introduced new regulations under the Consumer Protection Act through its Notification on Residential Building Rental Businesses B.E. 2568 (2025).
+
+The regulations replaced the earlier 2019 framework and expanded coverage from landlords operating at least five residential units to those offering **three or more units**, including properties spread across different buildings.[^433]
+
+The rules apply to qualifying residential rental businesses, including houses, condominiums, and apartments, while excluding accommodation regulated separately under hotel and dormitory legislation.
+
+**TVC's guide never identifies this threshold or explains which landlords must comply with the mandatory contract requirements.**
+
+### Omits Mandatory Deposit Limits and Refund Deadlines
+
+TVC's lease checklist describes deposits as:
+
+> Typically two months rent plus one month advance; residential caps apply
+
+It does not explain the actual statutory limits or mandatory refund procedures.
+
+For qualifying residential rentals, the 2025 regulations generally prohibit collecting security deposits and advance rent exceeding three months' monthly rent combined. Different limits apply to qualifying long-term leases with annual payments.[^434]
+
+The Office of the Consumer Protection Board also confirms that security deposits must be returned within seven days where no damage is found, or within 14 days where documented damage requires deductions.
+
+Normal wear and tear cannot be treated as tenant-caused damage.
+
+**These are binding consumer protections, not merely recommended contract practices.**
+
+TVC's guide discusses deposit disputes and warns landlords against retaining deposits without documentation, yet omits the statutory deadlines governing repayment.
+
+### Ignores Prohibited Utility Charges and Contract Terms
+
+The regulations also prohibit covered landlords from:
+
+- Charging electricity or water rates exceeding the amounts billed by utility providers.
+- Increasing rent or service charges during an existing lease.
+- Entering rented premises without appropriate notice, except in emergencies.
+- Seizing tenants' belongings or denying access without lawful grounds.
+- Requiring tenants to pay for ordinary deterioration of the premises.
+- Using prohibited clauses that unfairly restrict tenants' statutory rights.
+
+Qualifying landlords must use contracts incorporating the mandatory provisions of the prescribed standard forms.[^435]
+
+Unlawful contractual clauses can be treated as unenforceable under the Consumer Protection Act.
+
+Violations of applicable contract-control requirements can expose landlords to criminal penalties, including fines of up to 200,000 baht and imprisonment of up to one year.[^435]
+
+### Published Review Dates Raise Further Questions
+
+The regulations had already been in force for approximately nine months when TVC's guide was supposedly reviewed in June 2026.
+
+Yet its discussion of residential lease compliance remains focused on general Civil and Commercial Code requirements, Land Department registration, deposits, and tax reporting.
+
+**A supposedly reviewed landlord guide that overlooks mandatory contract regulations, deposit refund deadlines, and prohibited rental practices fails to explain some of the most important legal obligations facing professional landlords.**
+
+Thai Visa Centre should update its publication to identify the 2025 regulations, distinguish covered rental businesses from smaller private landlords, and explain the mandatory protections governing residential lease agreements.
+
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -7702,3 +7766,11 @@ The distinction is fundamental to Thai property law and particularly important f
 [^430]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-exchange-section-537-545/ — Civil and Commercial Code, Section 538, governing written evidence and registration of leases.
 
 [^431]: https://www.thailawonline.com/thai-civil-code/section-538/ — ThaiLawOnline, analysis of Supreme Court Decision No. 1564/2558 and the application of Sections 538, 569, and 570.
+
+[^432]: https://tvc.co.th/guides/property-becoming-a-landlord-in-thailand — Thai Visa Centre, *Becoming a Landlord in Thailand*, reviewed June 2026.
+
+[^433]: https://www.ocpb.go.th/news_view.php?nid=17828 — Office of the Consumer Protection Board, explanation of the 2025 residential rental regulations and three-unit threshold.
+
+[^434]: https://www.ocpb.go.th/news_view.php?nid=17902 — Office of the Consumer Protection Board, deposit limits, refund deadlines, normal wear and tear, and utility billing.
+
+[^435]: https://oneasia.legal/en/6690 — One Asia Lawyers, December 2025 analysis of mandatory residential lease terms, prohibited clauses, and penalties under the 2025 regulations.
