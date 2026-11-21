@@ -3141,6 +3141,104 @@ These findings concern TVC's published guidance; they do not establish that the 
 
 Thai Visa Centre should remove its blanket statement that work permits require Thai lawyers, describe the government-authorized application routes, and distinguish mandatory employer and employee obligations from optional legal assistance.
 
+
+## Work Permit Guide Repeats Restrictions Abolished by Thailand's 2018 Labour Reform
+
+Thai Visa Centre's *Thailand Work Permit Basics*, marked reviewed June 2026, publishes outdated instructions about carrying work permits, changing job duties, and working at different locations.[^504]
+
+The guide describes restrictions substantially changed by Thailand's 2018 amendments to the Foreigners' Working Management Emergency Decree.
+
+**These are not recent or obscure regulatory changes. The reforms took effect more than eight years before TVC's stated review date.**
+
+### Physical Work-Permit Carrying Requirement Was Removed
+
+TVC instructs foreign employees:
+
+> Keep your work permit on your person or at the office during working hours.
+
+It further claims that failure to comply carries a fine of up to **1,000 baht**.[^504]
+
+This guidance is outdated.
+
+The Foreigners' Working Management Emergency Decree (No. 2) B.E. 2561, effective March 28, 2018, replaced Section 68.
+
+The amended provision requires permit holders to be able to present their work permit to an authorized official or registrar **within a reasonable period** upon request.
+
+It does not universally require the physical permit to remain on the worker's person or at the workplace throughout working hours.
+
+Section 120 establishes a maximum fine of **5,000 baht** for failing to satisfy the actual presentation requirement.[^505][^506]
+
+**TVC identifies the wrong obligation and the wrong penalty.**
+
+### Former Restrictions on Work Duties and Locations Were Repealed
+
+The guide also insists:
+
+> Job title, employer, and location on the permit define legal work.
+
+Its compliance instructions warn that working at another location, undertaking additional duties, or accepting a promotion requires modification or separate authorization.[^504]
+
+These categorical statements conflict with the 2018 amendments.
+
+Section 37 of the amending decree expressly repealed Sections 70, 71, 72, 73, and 74 of the original 2017 legislation.
+
+Those repealed provisions included restrictions on work differing from the type, employer, locality, or conditions specified in a permit.
+
+Amended Section 59 instead permits qualifying work-permit holders to undertake work not otherwise prohibited to foreigners, subject to other applicable legislation.[^505][^507]
+
+**An ordinary foreign worker's legal permission is no longer universally confined to one job title or one registered workplace under the former statutory restrictions.**
+
+### Employer Notification Still Applies
+
+The removal of the former restrictions does not eliminate employment reporting requirements.
+
+Under Section 64/2, ordinary work-permit holders must notify the registrar about their employer, workplace, and characteristics of employment within **15 days** of commencing work. Changes of employer also trigger notification requirements.
+
+Employers have separate notification responsibilities.[^505][^507]
+
+Other rules may still affect particular workers, including immigration conditions, professional licensing, occupations prohibited or conditionally restricted to foreigners, and specific BOI or other statutory authorizations.
+
+Those requirements should not be confused with the repealed general restrictions.
+
+**The proper distinction is between work requiring prior authorization and changes requiring notification or compliance with another applicable law.**
+
+TVC's guide fails to explain it.
+
+### Government and Legal Sources Confirm the Changes
+
+The amended legislation is published by Thailand's Department of Employment.[^505]
+
+Thai law firm Tilleke & Gibbins documented the reforms in May 2018, explaining that changes to job type, employer, location, and working conditions no longer universally required prior approval under the previous procedures. It also confirms the relaxed presentation requirement and **5,000-baht** maximum fine.[^506]
+
+These sources establish that TVC's instructions are not simply an alternative interpretation of recent administrative practice.
+
+They repeat legal restrictions substantially changed in 2018.
+
+### Misleading Foreign Workers About Their Rights
+
+TVC advertises work-permit coordination, renewals, employer changes, and immigration assistance.
+
+Its incorrect instructions could cause foreigners to believe that:
+
+- They risk fines simply by leaving their physical work permit at home.
+- They cannot perform additional lawful job duties without advance permission.
+- They cannot work at another location without applying for a permit modification.
+- Routine employment changes necessarily require additional authorization rather than the applicable notification procedures.
+
+These misunderstandings could create unnecessary administrative work, interfere with legitimate employment, and encourage reliance on paid assistance.
+
+The evidence does not establish that TVC charged particular customers for unnecessary modifications.
+
+It establishes that the agency publishes outdated legal instructions while marketing services intended to help foreigners comply with those same laws.
+
+### Required Corrections
+
+Thai Visa Centre should remove its obsolete physical-carrying requirement and correct the applicable penalty.
+
+It should also revise its descriptions of workplace and job-duty restrictions, explain the 2018 repeal of Sections 70–74, and distinguish employer notification from situations requiring separate authorization.
+
+**A company selling work-permit assistance should not present restrictions abolished in 2018 as current legal requirements in a guide supposedly reviewed in June 2026.**
+
 ## Permanent-Residency Guides Misstate Application Dates and Filing Procedures
 
 Thai Visa Centre advertises professional assistance with Thailand's permanent-residency applications, including eligibility assessments, document preparation, and immigration coordination.
@@ -9079,3 +9177,11 @@ A business promoting professional legal referrals should not present optional le
 [^502]: https://thailand.go.th/public/visit-thailand-detail/001_01_079 — Thailand government, *Application to Stay in Thailand for Business*, based on Immigration Bureau guidance, expressly identifying the 1:1 Thai-to-foreign employee ratio and specified exemptions for qualifying representative offices, regional offices, and multinational company branches.
 
 [^503]: https://ltr.boi.go.th/index.html — Thailand Board of Investment, official Long-Term Resident visa website, listing exemption from the four-Thai-employees-to-one-foreigner ratio and distinguishing work-permit eligibility across LTR categories.
+
+[^504]: https://tvc.co.th/guides/thailand-work-permit-thailand — Thai Visa Centre, *Thailand Work Permit Basics: Quotas, Exceptions, and Rules (2026)*, reviewed June 2026, including the carrying requirement, 1,000-baht fine, permit job-duty and workplace restrictions, and instructions concerning modification.
+
+[^505]: https://www.doe.go.th/prd/assets/upload/files/legal_th/92b6c499912462207f579dea958cf8a2.pdf — Thailand Department of Employment, *Foreigners' Working Management Emergency Decree (No. 2) B.E. 2561 (2018)*, amending Sections 59 and 68, adding Section 64/2, repealing Sections 70–74, and revising work-permit compliance obligations.
+
+[^506]: https://www.tilleke.com/insights/relaxation-work-permit-requirements-thailand/18/ — Tilleke & Gibbins, *Relaxation of Work Permit Requirements in Thailand*, May 24, 2018, confirming removal of the physical-carrying requirement, production on request within a reasonable period, maximum 5,000-baht penalty, and post-change notification procedures.
+
+[^507]: https://www.doe.go.th/prd/download/download_by_pool_file/62501 — Thailand Department of Employment, consolidated English-language Foreigners' Working Management Emergency Decree indicating the repeal of Sections 70–74 and the revised provisions on work permissions and employer notification.
