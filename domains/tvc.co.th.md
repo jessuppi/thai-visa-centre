@@ -4507,6 +4507,65 @@ Both mistakes can affect corporate ownership arrangements, registration costs, l
 
 The agency should correct both guides, identify the applicable Civil and Commercial Code provisions, and distinguish genuine single-owner business structures from private limited companies requiring multiple shareholders.
 
+
+## Corporate-Lawyer Guide Falsely Claims Lawyers Are Mandatory for Company Registration and BOI Applications
+
+Thai Visa Centre's *Contact a Corporate Lawyer in Thailand* guide incorrectly presents licensed legal counsel as mandatory for ordinary company incorporation and Board of Investment applications.[^470]
+
+Its introduction states:
+
+> Company registration, BOI structuring, mergers, and shareholder matters require licensed legal counsel.
+
+The same page repeats that company registration and BOI matters require licensed Thai counsel. It also advertises referrals to partner corporate lawyers while positioning TVC as coordinating the immigration and work-permit aspects of business setup.
+
+**These blanket claims confuse optional professional legal assistance with the administrative filing requirements established by Thailand's government agencies.**
+
+### Department of Business Development Permits Direct Company Registration
+
+Thailand's Department of Business Development operates DBD Biz Regist, the official electronic system for registering private limited companies and partnerships.[^471]
+
+The system allows eligible applicants to prepare and submit registration applications online. In March 2026, the DBD explicitly described entrepreneurs as being able to file juristic-person registration applications around the clock through the system.[^472]
+
+Promoters and authorized company representatives must still comply with the legal requirements governing incorporation, shareholding, corporate documentation, identity verification, and authorized signatures.
+
+**Ordinary company registration does not universally require a licensed Thai lawyer to prepare or submit an application.**
+
+Legal advice may be valuable for complex foreign-ownership structures, restricted business activities, shareholder agreements, or corporate transactions. Those situations do not establish that every incorporation must be handled by an attorney.
+
+### BOI Applications Can Be Submitted Through the Government's Electronic System
+
+Thailand's Board of Investment maintains its e-Investment Promotion system for investment-promotion applications.
+
+The BOI's official *Investment Promotion Guide 2026* expressly directs applicants undertaking eligible activities to submit applications and supporting documents through e-Investment Promotion, while identifying exceptions for specified categories of applications.[^473]
+
+The listed materials concern the business, its financial information, proposed production or activities, machinery, and supporting evidence of eligibility. The BOI's published standard procedure does not impose blanket licensed-lawyer representation.
+
+The official e-Investment Promotion portal likewise provides applicant registration and electronic submission, with specified procedures for incomplete documents.[^474]
+
+**TVC's assertion that BOI structuring requires licensed counsel cannot be treated as a general legal requirement for filing an investment-promotion application.**
+
+### Conflating Legal Advice With Statutory Filing Requirements
+
+TVC's guide groups company registration, BOI matters, mergers, and shareholder disputes together as activities requiring licensed counsel.[^470]
+
+These are not legally interchangeable.
+
+Contested litigation and complicated restructuring may require specialized counsel or representation under applicable procedural rules. Ordinary company incorporation and routine investment-promotion applications, however, are administrative processes for which the responsible authorities provide direct filing channels.
+
+Businesses may sensibly retain lawyers for drafting, negotiations, due diligence, ownership structuring, or specialist regulatory advice. **The decision to purchase professional assistance must not be confused with a universal legal obligation to do so.**
+
+### Misleading Foreign Entrepreneurs About Business Setup Costs
+
+TVC advertises corporate-lawyer referrals while portraying legal involvement as compulsory.
+
+This could discourage foreign investors from using official government filing channels or lead entrepreneurs to believe they must incur private legal fees before registering an otherwise eligible company or applying for investment promotion.
+
+The available evidence does not establish that TVC charged particular customers unnecessary fees or improperly processed corporate applications. It establishes that the company's published guidance overstates the lawyer requirement for ordinary government procedures.
+
+**Thai Visa Centre should correct its corporate-lawyer guide to distinguish optional legal advice from mandatory registration requirements.**
+
+It should acknowledge DBD Biz Regist and BOI e-Investment Promotion as official filing channels and explain which specialized situations genuinely require legal representation instead of describing all company-registration and BOI matters as requiring licensed counsel.
+
 ## Estate-Planning Guides Invent Mandatory Inheritance Shares
 
 Thai Visa Centre publishes incorrect advice about whether Thai law permits people to disinherit children, parents, and other statutory heirs.
@@ -8466,3 +8525,13 @@ A business promoting professional legal referrals should not present optional le
 [^468]: https://tvc.co.th/guides/legal-services-thailand-prenuptial-agreement — Thai Visa Centre, *Prenuptial Agreement in Thailand*, recommending family-law counsel for drafting and asserting a need for licensed advocates for binding legal work.
 
 [^469]: https://www.bora.dopa.go.th/callcenter1548/guidebook — Thailand Department of Provincial Administration, official marriage-registration guidance, listing prenuptial agreements as documents to present when applicable and identifying witnesses and other required documents.
+
+[^470]: https://tvc.co.th/guides/contact-a-corporate-lawyer — Thai Visa Centre, *Contact a Corporate Lawyer in Thailand*, marked reviewed June 2026, asserting that company registration, BOI structuring, mergers, and shareholder matters require licensed legal counsel.
+
+[^471]: https://www.dbd.go.th/en/hotService/online_service — Thailand Department of Business Development, official online services including DBD Biz Regist digital juristic-person registration.
+
+[^472]: https://www.dbd.go.th/news/14605032569 — Thailand Department of Business Development, March 2026 announcement describing round-the-clock electronic applications for company and partnership registration through DBD Biz Regist.
+
+[^473]: https://www.boi.go.th/upload/content/BOI_A_Guide_EN.pdf?v=20260619031127 — Thailand Board of Investment, *Investment Promotion Guide 2026*, page 18, procedures and required documents for e-Investment Promotion applications and listed exceptions.
+
+[^474]: https://boi-investment.boi.go.th/public/index_en.php — Thailand Board of Investment, official e-Investment Promotion registration and application portal.
