@@ -4901,6 +4901,71 @@ Thai Visa Centre should revise its probate and succession publications to explai
 
 **The agency should avoid portraying Thai co-executors and court-appointed probate administration as universal requirements when Thailand's legislation and published Land Department procedures establish more flexible alternatives.**
 
+
+## Family-Law Guide Falsely Claims Marriage Registration Requires Licensed Thai Lawyers
+
+Thai Visa Centre's *Contact a Thai Family Lawyer* guide, marked reviewed June 2026, incorrectly tells prospective spouses that marriage registration in Thailand requires licensed Thai family lawyers.[^475]
+
+The guide states:
+
+> Registration, prenuptials, custody, and divorce require licensed Thai family law counsel.
+
+It repeats the assertion in its FAQ while advertising consultations and referrals to family-law professionals.
+
+**The blanket claim misrepresents Thailand's ordinary marriage-registration procedures, which do not require couples to retain private lawyers.**
+
+### Government Permits Direct Marriage Registration
+
+Thailand's Department of Provincial Administration publishes official instructions for registering marriages at district and municipal district offices. Eligible couples may apply directly to the registrar.[^476]
+
+Its procedures identify required evidence and witnesses, rather than a lawyer's signature or representation as a general condition.
+
+For a marriage involving a foreign national, the government's published guidance addresses:
+
+- Valid identification, including passports for foreign applicants.
+- Evidence of the foreign applicant's marital status.
+- Applicable translation and authentication of foreign-language documents.
+- Two witnesses.
+- Any additional consent or authorization required by the parties' circumstances.[^477]
+
+The registrar examines the documents and legal eligibility, records the marriage, and issues the official marriage certificates.
+
+**The published government procedure does not identify licensed legal counsel as a mandatory participant in ordinary marriage registration.**
+
+### Marriage Registration Is Free at District Offices
+
+The Department of Provincial Administration explicitly states that registering a marriage at a district registration office carries **no government registration fee**.[^476]
+
+The same official fee schedule lists a separate charge for marriage registration performed outside the office and for additional certified copies.
+
+Foreign couples may also incur costs for translations, document authentication, and other preparation. None of those charges is a compulsory lawyer fee.
+
+**A couple satisfying the applicable statutory and documentary requirements can register their marriage without purchasing private legal representation.**
+
+### TVC Confuses Administrative Registration With Legal Disputes
+
+Marriage registration, prenuptial agreements, contested divorce, and child-custody litigation are legally distinct procedures.
+
+Complex property arrangements or contested family-law proceedings may justify qualified professional advice or representation. Ordinary marriage registration, by contrast, is an administrative process handled by a government registrar.
+
+TVC's guide groups these activities together as though they all impose the same professional-representation requirements.[^475]
+
+The distinction matters because the agency advertises assistance with marriage documents, embassy coordination, translation, and marriage-based immigration applications.
+
+**Offering those services does not establish that licensed Thai lawyers are legally required to register marriages.**
+
+### Misleading International Couples About Costs
+
+TVC's statements could lead couples to believe they cannot legally marry in Thailand without hiring a private family lawyer.
+
+That impression may encourage unnecessary professional expenses or discourage eligible couples from using the government's direct registration procedure.
+
+The available evidence does not establish that TVC charged individual couples unnecessary legal fees. It establishes that the agency publishes an incorrect blanket requirement while marketing paid professional coordination.
+
+**Thai Visa Centre should correct its family-law guide to acknowledge that eligible couples can register marriages directly at district offices without hiring licensed Thai lawyers.**
+
+It should disclose the government's free in-office registration procedure and distinguish optional professional assistance from genuine statutory requirements.
+
 ## Remarriage FAQ Denies Statutory Waiting Period and Uses Obsolete Marriage Age
 
 Thai Visa Centre's FAQ *Divorcee Getting Married in Thailand*, marked reviewed June 2026, incorrectly tells foreign customers that Thai law imposes no waiting period after divorce.[^241]
@@ -8535,3 +8600,9 @@ A business promoting professional legal referrals should not present optional le
 [^473]: https://www.boi.go.th/upload/content/BOI_A_Guide_EN.pdf?v=20260619031127 — Thailand Board of Investment, *Investment Promotion Guide 2026*, page 18, procedures and required documents for e-Investment Promotion applications and listed exceptions.
 
 [^474]: https://boi-investment.boi.go.th/public/index_en.php — Thailand Board of Investment, official e-Investment Promotion registration and application portal.
+
+[^475]: https://tvc.co.th/guides/contact-a-thai-family-lawyer — Thai Visa Centre, *Contact a Thai Family Lawyer*, reviewed June 2026, stating that marriage registration, prenuptials, custody, and divorce require licensed Thai family-law counsel.
+
+[^476]: https://www.bora.dopa.go.th/callcenter1548/guidebook — Thailand Department of Provincial Administration, official marriage-registration procedures, documentary requirements, and fee schedule confirming free registration at district offices.
+
+[^477]: https://thailand.go.th/public/issue-focus-detail/---120 — Thailand Government Public Relations Department, guidance on documents, witnesses, and legalization for marriage registration involving foreign nationals.
