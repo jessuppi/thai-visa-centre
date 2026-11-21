@@ -6965,6 +6965,69 @@ The consequences are serious because bail decisions directly affect personal lib
 Thai Visa Centre should correct its bail guide to explain Section 110, disclose the possibility of release without financial security, and acknowledge the commercial bail insurance products available in Thailand.
 
 
+## Property Guides Falsely Claim Unregistered Leases Do Not Bind New Owners
+
+Thai Visa Centre publishes misleading advice about the legal protection afforded to tenants when leased property changes ownership.
+
+Its *Property Lease Agreement in Thailand* and *Property Leases in Thailand* guides, both marked reviewed June 2026, incorrectly suggest that unregistered leases cannot bind subsequent property owners.[^427][^428]
+
+### Incorrectly Claims Unregistered Leases Do Not Survive Property Sales
+
+The property lease agreement guide explicitly states:
+
+> Unregistered leases do not bind future owners or rank against creditors.
+
+Its separate property leases guide similarly warns that an unregistered lease may not survive a sale to a third party.[^427][^428]
+
+**These blanket statements contradict Section 569 of Thailand's Civil and Commercial Code.**
+
+Section 569 expressly provides that a contract for the hire of immovable property is not extinguished when ownership transfers to another person.
+
+The new owner assumes the previous owner's rights and obligations toward the tenant.[^429]
+
+The statute does not categorically exclude unregistered leases from this protection.
+
+### Unregistered Leases Remain Enforceable for Up to Three Years
+
+Section 538 establishes a separate rule governing lease documentation and registration.[^430]
+
+Leases of immovable property require written evidence signed by the party against whom enforcement is sought.
+
+Where an agreement provides for more than three years but has not been registered with the competent authority, it is enforceable for only three years.
+
+**Failure to register a long-term lease does not automatically invalidate the entire agreement or eliminate the tenant's rights when ownership changes.**
+
+For example, a properly documented five-year lease that was never registered may remain enforceable during its first three years, including against a subsequent purchaser under Section 569.
+
+The remaining two years cannot ordinarily be enforced without registration.
+
+TVC's advice incorrectly conflates the inability to enforce an unregistered lease beyond three years with the complete absence of protection against future owners.
+
+### Supreme Court Decision Confirms the Distinction
+
+Thailand's Supreme Court addressed this issue in Decision No. 1564/2558 (2015).
+
+The dispute involved a 15-year land-leasing arrangement structured through five consecutive three-year contracts.
+
+The Supreme Court determined that the arrangement attempted to circumvent Section 538's registration requirements.
+
+Consequently, the lease was enforceable for only three years.
+
+However, the court also applied **Section 569**, recognizing that the purchaser of the property succeeded to the previous owner's position as landlord.[^431]
+
+The ruling demonstrates that registration requirements and the survival of an enforceable lease after a property transfer are distinct legal questions.
+
+### Misleading Foreign Tenants About Their Rights
+
+These errors could lead foreign tenants to believe they automatically lose their right to occupy rented homes, commercial premises, or leased land when a landlord sells the property.
+
+They could also encourage tenants to surrender possession, renegotiate existing agreements, or accept unfavorable financial settlements without understanding their statutory protections.
+
+**Thai Visa Centre should correct its property guides to explain that Section 569 protects enforceable leases following ownership transfers, while Section 538 separately limits the enforceability of unregistered long-term agreements.**
+
+The distinction is fundamental to Thai property law and particularly important for foreigners entering expensive residential or commercial leasing arrangements.
+
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -7629,3 +7692,13 @@ Thai Visa Centre should correct its bail guide to explain Section 110, disclose 
 [^425]: https://thaipat.co.th/en/service/claims-compensation/ — Thai Pattana Insurance Public Company Limited, Bail Bond Insurance claims and guarantee procedures.
 
 [^426]: https://library.siam-legal.com/provisional-release-faq-authorization-and-insurance/ — Siam Legal International, insurance certificates and their use as bail security in Thailand.
+
+[^427]: https://tvc.co.th/guides/property-property-lease-agreement-thailand — Thai Visa Centre, *Property Lease Agreement in Thailand*, reviewed June 2026.
+
+[^428]: https://tvc.co.th/guides/property-leases — Thai Visa Centre, *Property Leases in Thailand*, reviewed June 2026.
+
+[^429]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-exchange-section-564-571/ — Civil and Commercial Code, Section 569, governing leases following property ownership transfers.
+
+[^430]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-exchange-section-537-545/ — Civil and Commercial Code, Section 538, governing written evidence and registration of leases.
+
+[^431]: https://www.thailawonline.com/thai-civil-code/section-538/ — ThaiLawOnline, analysis of Supreme Court Decision No. 1564/2558 and the application of Sections 538, 569, and 570.
