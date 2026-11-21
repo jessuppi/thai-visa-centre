@@ -4473,6 +4473,85 @@ Nevertheless, **its published business-formation guidance presents an explicitly
 
 TVC should remove nominee arrangements from its list of standard company structures, explain the prohibition under Section 36, and reconcile its business guidance with the warnings already published elsewhere on its website.
 
+
+## Business Guide Misrepresents Thai-Majority Ownership as a General Company Requirement
+
+Thai Visa Centre's *Business in Thailand: Company Setup, BOI, Work Permits, and Immigration*, marked reviewed June 2026, misleadingly presents 51% Thai shareholding as the standard requirement for establishing a limited company.
+
+Its FAQ states:
+
+> Most standard limited companies require 51% Thai shareholding unless BOI promotion or another exception applies to your activity.
+
+The same guide suggests that full foreign ownership is generally unavailable, emphasizing BOI promotion and treaty structures as exceptions.[^497]
+
+**These statements confuse legal restrictions on particular business activities with the requirements for incorporating a Thai limited company.**
+
+### Foreign Business Act Does Not Impose Universal 51% Thai Ownership
+
+Thailand's Foreign Business Act B.E. 2542 (1999) regulates the business activities that foreigners and foreign-controlled companies may undertake.
+
+Under Section 4, a Thai-registered company generally qualifies as a foreigner for purposes of the Act when at least half its capital is held by foreign persons.
+
+However, classification as a foreign business does not automatically prohibit the company from operating.
+
+The Act establishes three categories of restricted activities:
+
+- **List 1:** Activities generally prohibited to foreign operators.
+- **List 2:** Activities subject to special government authorization and applicable ownership conditions.
+- **List 3:** Activities generally requiring a Foreign Business License or another legally recognized authorization.
+
+Activities outside these restricted lists do not ordinarily require a Foreign Business License merely because the company is foreign-owned.[^498][^499]
+
+**Foreign investors can therefore own 100% of a Thai limited company's shares without BOI promotion when its proposed activities are not restricted by the Foreign Business Act or another applicable law.**
+
+Many ordinary manufacturing activities fall outside the restricted lists, although particular manufacturing, service, distribution, and other activities may be subject to separate restrictions.
+
+### Restricted Businesses Can Also Qualify Through Licensing
+
+Even when a business activity is restricted under List 2 or List 3, Thai-majority shareholding is not necessarily the only lawful option.
+
+Section 17 of the Foreign Business Act provides a licensing process for qualifying restricted activities. Separate authorization routes include Foreign Business Certificates associated with investment promotion and international agreements.[^498][^500]
+
+The Department of Business Development's 2025 annual foreign-business reporting records:
+
+- **291** Foreign Business Licenses under Section 17.
+- **663** Foreign Business Certificates under investment-promotion arrangements.
+- **124** Foreign Business Certificates under treaty or international-agreement provisions.[^500]
+
+These are different government authorization routes, not evidence of a universal 51% Thai ownership requirement.
+
+**TVC's guide does not adequately explain that a Foreign Business License or another qualifying authorization can provide lawful alternatives to Thai-majority ownership for certain restricted activities.**
+
+### Incorporation and Authorization to Conduct Business Are Separate Questions
+
+A company must satisfy the Civil and Commercial Code's incorporation requirements, including the applicable minimum shareholder count and company-registration procedures.
+
+Separately, its proposed commercial activities must comply with the Foreign Business Act and any industry-specific legislation.[^501]
+
+A Thai limited company may have foreign-majority ownership even when additional permission is required before commencing a restricted activity. Conversely, incorporation alone does not authorize the company to undertake every activity listed in its registered objectives.
+
+**The relevant question is not whether every standard Thai company needs Thai-majority ownership, but whether its actual business activities require a licence, certificate, ownership condition, or other permission.**
+
+### Misleading Entrepreneurs About Corporate Ownership
+
+TVC advertises business-visa coordination, work permits, corporate-lawyer referrals, and company-registration assistance.
+
+Foreign entrepreneurs relying on its broad advice could wrongly believe they must recruit Thai majority shareholders before establishing a company, potentially leading to unnecessary dilution, complex shareholder agreements, or disputes over corporate control.
+
+The issue connects directly to TVC's separate business-structures guide, documented above, which presents lawyer-reviewed nominee arrangements as a possible structure.
+
+**Incorrectly suggesting Thai-majority ownership is generally compulsory can encourage investors to consider shareholding structures they may not need—and, where those structures involve prohibited nominees, expose them to legal risks.**
+
+The available evidence does not establish that TVC created nominee companies or advised individual customers to surrender majority ownership unnecessarily. It establishes that its publications overgeneralize restrictions that actually depend on the activity and applicable authorization route.
+
+### Required Corrections
+
+Thai Visa Centre should explain that company incorporation does not universally require 51% Thai ownership, and that foreign-ownership restrictions depend on the company's actual business activities.
+
+Its guide should identify activities outside the Foreign Business Act's restricted lists, distinguish Section 17 licensing from BOI and treaty arrangements, and separate legitimate Thai shareholders from unlawful nominees.
+
+**An agency advising foreign entrepreneurs should not present Thai-majority ownership as a default legal necessity when Thailand's business-authorization framework provides lawful alternatives.**
+
 ## Company Registration Guides Misstate Shareholder Requirements
 
 Thai Visa Centre's *Thailand Limited Company Registration* guide, marked reviewed June 2026, states that standard private limited companies require three shareholders. It also claims that one-person companies are possible under recent reforms.[^291]
@@ -8939,3 +9018,13 @@ A business promoting professional legal referrals should not present optional le
 [^495]: https://www.rd.go.th/english/37746.html — Thailand Revenue Department, official English text of Revenue Code Sections 29–34, including the 30-day assessment and court appeal periods under Section 30 and the rule against automatic deferral of payment under Section 31.
 
 [^496]: https://www.legal500.com/intelligence/thailand/tax/tax-litigation-in-thailand — Tilleke & Gibbins, *Tax Litigation in Thailand*, December 18, 2025, describing specialized Tax Court jurisdiction, the 2025 Tax Cases Regulation, administrative prerequisites, and the specialized appeal route.
+
+[^497]: https://tvc.co.th/guides/thailand-business — Thai Visa Centre, *Business in Thailand: Company Setup, BOI, Work Permits, and Immigration*, marked reviewed June 2026, stating that most standard limited companies require 51% Thai shareholding unless an exception applies.
+
+[^498]: https://osos.boi.go.th/EN/how-to/147/ — Thailand Board of Investment, One Start One Stop Investment Center, Foreign Business Act restrictions, ownership classifications, and foreign-business authorization routes.
+
+[^499]: https://www.thailand.go.th/public/index.php/useful-information-detail/006-015 — Thailand government, public guidance on foreign shareholding and the Foreign Business Act.
+
+[^500]: https://www.dbd.go.th/fileupload/foreign_file/ebook/2568/ARDBD2025ENG.pdf — Thailand Department of Business Development, *Foreign Business Annual Report 2025*, figures for Foreign Business Licenses and Foreign Business Certificates associated with investment promotion and international agreements.
+
+[^501]: https://www.boi.go.th/index.php?current_page=1&group_id=101403&language=en&page=faq — Thailand Board of Investment, official FAQ on foreign ownership, investment promotion, and Foreign Business Act permissions.
