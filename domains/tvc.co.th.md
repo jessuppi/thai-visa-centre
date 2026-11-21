@@ -8324,9 +8324,18 @@ The *Trial, Appeals, and Execution of Judgment* guide also repeatedly describes 
 
 Section 229 sets the ordinary appeal period at **one month from pronouncement of the judgment or order**.[^513] Under Section 193/5, a period expressed in months is calculated according to the calendar. It is not invariably a fixed 30-day period, and its statutory starting point is pronouncement—not delivery of a copy.[^514]
 
+
+### A Second Litigation Guide Repeats the False 30-Day Deadline
+
+The *Trial, Appeals, and Execution of Judgment* guide is not the only TVC publication to misstate the ordinary civil appeal deadline. *Civil Procedure in Thailand* says that the date on a judgment copy starts the appeal period, “often thirty days.” It also tells readers to file immediately after judgment delivery and describes the deadline as running from delivery.[^441]
+
+Section 229 sets the ordinary appeal period at one month from pronouncement of the judgment or order.[^513] Section 193/5 requires periods expressed in months to be calculated according to the calendar.[^514]
+
+TVC therefore repeats the same inaccurate deadline and trigger across separate litigation guides: a fixed 30-day approximation running from delivery, instead of the statutory one-month period running from pronouncement. This is a recurring error in the agency’s published legal instructions.
+
 This is not a harmless simplification. A reader who substitutes a fixed 30-day count for the statutory calendar-month calculation may miscalculate the filing deadline and lose the right to appeal.
 
-TVC has therefore published multiple guides that misstate when a judgment may be enforced, and a separate guide that misstates how long a litigant has to appeal. These are basic procedural rules with direct consequences for creditors and litigants. The repeated errors appear in publications TVC presents as reviewed legal guidance.
+TVC has therefore published multiple guides that misstate when a judgment may be enforced, and multiple guides that misstate how long a litigant has to appeal. These are basic procedural rules with direct consequences for creditors and litigants. The repeated errors appear in publications TVC presents as reviewed legal guidance.
 
 [^512]: https://tvc.co.th/guides/thailand-law-library-legal-library-thai-trial-proper-thai-execution-of-judgment-thai-appeals — Thai Visa Centre, *Trial, Appeals, and Execution of Judgment in Thailand*, reviewed June 2026.
 
