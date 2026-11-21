@@ -7970,13 +7970,13 @@ The problem is especially relevant because Thai Visa Centre advertises referrals
 Thai Visa Centre should correct its civil litigation guide to explain Section 161, distinguish court fees from privately incurred attorney expenses, and acknowledge the judiciary's discretion when allocating costs.
 
 
-## Civil Procedure Guides Falsely Claim Foreigners Must Hire Thai Lawyers
+## TVC Litigation Guides Misstate Representation, Appeal, and Enforcement Rules
 
-Thai Visa Centre publishes contradictory and legally incorrect instructions about whether foreigners can represent themselves in Thai civil courts.
+Thai Visa Centre's *Civil Case Filing in Thailand*, *Civil Procedure in Thailand*, and *Trial, Appeals, and Execution of Judgment in Thailand* guides make false categorical claims about lawyer requirements, appeal deadlines, extensions, and judgment enforcement.[^440][^441][^512]
 
-Its *Civil Case Filing in Thailand* and *Civil Procedure in Thailand* guides, both marked reviewed June 2026, repeatedly present licensed Thai legal representation as mandatory, directly contradicting Section 60 of Thailand's Civil Procedure Code.[^440][^441]
+The findings below group the claims by guide and statutory issue. The separate debt-recovery investigation below gives the full Section 231 analysis of TVC's instruction to wait until appeals end before enforcing a judgment.
 
-### Falsely Presents Legal Representation as Mandatory
+### Civil Case Filing and Civil Procedure Guides Falsely Present Lawyers as Mandatory
 
 The *Civil Case Filing in Thailand* guide states:
 
@@ -8023,7 +8023,38 @@ The contradiction is especially revealing because both statements appear in a gu
 **TVC acknowledges that self-representation is lawful in one paragraph while presenting legal representation as mandatory elsewhere on the same page.**
 
 
+
 ### Trial and Appeals Guide Falsely Says Lawyers Are Required
+
+The *Trial, Appeals, and Execution of Judgment in Thailand* guide extends TVC's false mandatory-lawyer claims to appeals and post-judgment enforcement. Its FAQ states: “Appeals and execution require licensed Thai attorneys.”[^512]
+
+Section 60 permits parties to conduct their own cases and take procedural steps personally, or appoint one or more attorneys.[^442] It imposes no blanket lawyer requirement for civil appeals or execution.
+
+The claim repeats the same misrepresentation already documented in TVC's *Civil Case Filing in Thailand* and *Civil Procedure in Thailand* guides.
+
+### Trial and Appeals Guide Repeats the False Enforcement Instruction
+
+The guide's checklist warns readers against filing for execution while an appeal is pending, its timeline says execution begins only after final judgment, and its FAQ says execution generally waits until judgment is final.[^512]
+
+This repeats the instruction documented in the separate debt-recovery investigation below. That section sets out the Section 231 conflict and the consequences of telling creditors to wait.
+
+### Trial Guide Misstates the Appeal Deadline and Extension Rule
+
+The guide describes the ordinary civil appeal period as 30 days, refers to judgment delivery or the date printed on a judgment copy as the trigger, and says foreigners receive “no extension” if they miss the deadline.[^512]
+
+Section 229 sets the ordinary appeal period at **one month from pronouncement of the judgment or order**. Section 193/5 requires periods expressed in months to be calculated according to the calendar.[^513][^514] A fixed 30-day count and a delivery-date trigger do not accurately state that rule.
+
+The guide's categorical claim that foreigners cannot obtain an extension is also false. Section 23 authorizes courts to extend procedural deadlines, including appeal deadlines, in special circumstances. As a rule, the request must be made before the deadline expires; force majeure is an exception.[^515] An extension is not automatic, but Section 23 contains no bar for foreign litigants.
+
+### Civil Procedure Guide Repeats the False 30-Day Deadline
+
+*Civil Procedure in Thailand* independently says the judgment copy bears the date that starts the appeal period, “often thirty days.” It also tells readers to file immediately after judgment delivery and describes the deadline as running from delivery.[^441]
+
+Section 229 instead sets the ordinary appeal period at one month from pronouncement, with calendar-based calculation under Section 193/5.[^513][^514] TVC therefore repeats the inaccurate deadline and trigger in separate litigation guides.
+
+The combined instructions risk causing readers to calculate the wrong filing date or believe that no extension can be requested, while presenting lawyer representation as compulsory where Section 60 permits self-representation.
+
+### Misleading Foreigners While Promoting Legal Referrals
 
 The *Trial, Appeals, and Execution of Judgment in Thailand* guide extends Thai Visa Centre’s false mandatory-lawyer claims to appeals and post-judgment enforcement. Its FAQ states: “Appeals and execution require licensed Thai attorneys.”[^512]
 
@@ -8043,7 +8074,7 @@ Although representation can be valuable in complicated disputes, it is not a uni
 
 **A commercial business advertising legal referrals should not misrepresent optional paid legal representation as a statutory requirement.**
 
-Thai Visa Centre should correct its civil litigation publications to acknowledge Section 60, remove the false mandatory-lawyer claims, and distinguish the legal right to self-representation from the practical advantages of professional counsel.
+Thai Visa Centre should correct these civil litigation guides: acknowledge self-representation under Section 60, state the appeal deadline and extension rules accurately, and stop presenting a pending appeal as an automatic bar to enforcement.
 
 
 
@@ -8308,7 +8339,12 @@ This is a basic procedural distinction that a publication offering guidance on T
 
 
 
-### A Second Legal Guide Repeats TVC’s False Enforcement Rule
+
+### The Trial Guide Repeats the Same Enforcement Instruction
+
+The *Trial, Appeals, and Execution of Judgment in Thailand* guide repeats this instruction in its checklist, timeline, and FAQ. Its other false claims about lawyer requirements and appeal deadlines are consolidated in the litigation-guide investigation above.[^512]
+
+[^512]: https://tvc.co.th/guides/thailand-law-library-legal-library-thai-trial-proper-thai-execution-of-judgment-thai-appeals
 
 Thai Visa Centre has published the same false instruction in at least two separate legal guides, both marked reviewed June 2026.
 
@@ -8342,17 +8378,17 @@ Section 23 of Thailand’s Civil Procedure Code authorizes courts to extend proc
 
 Section 23 contains no bar for foreign litigants. An extension is not automatic, but TVC falsely tells foreign readers that the law makes one impossible. This is another material misstatement in the same guide that already gives them the wrong deadline and starting date.
 
-[^515]: https://www.thailawonline.com/thai-civil-procedure-code/section-23/ — Thailand Civil Procedure Code, Section 23, extension of procedural deadlines.
 
 This is not a harmless simplification. A reader who substitutes a fixed 30-day count for the statutory calendar-month calculation may miscalculate the filing deadline and lose the right to appeal.
 
 TVC has therefore published multiple guides that misstate when a judgment may be enforced, and multiple guides that misstate how long a litigant has to appeal. These are basic procedural rules with direct consequences for creditors and litigants. The repeated errors appear in publications TVC presents as reviewed legal guidance.
 
-[^512]: https://tvc.co.th/guides/thailand-law-library-legal-library-thai-trial-proper-thai-execution-of-judgment-thai-appeals — Thai Visa Centre, *Trial, Appeals, and Execution of Judgment in Thailand*, reviewed June 2026.
+[^512]: `https://tvc.co.th/guides/thailand-law-library-legal-library-thai-trial-proper-thai-execution-of-judgment-thai-appeals` — Thai Visa Centre, *Trial, Appeals, and Execution of Judgment in Thailand*, reviewed June 2026.
 
 [^513]: https://www.thailawonline.com/thai-civil-procedure-code/section-229/ — Thailand Civil Procedure Code, Section 229.
 
 [^514]: https://www.thailawonline.com/thai-civil-code/section-193-5/ — Thailand Civil and Commercial Code, Section 193/5.
+[^515]: https://www.thailawonline.com/thai-civil-procedure-code/section-23/ — Thailand Civil Procedure Code, Section 23, extension of procedural deadlines.
 
 ## Power-of-Attorney Guide Invents Mandatory Lawyer Requirements for Property Transfers
 
@@ -9217,9 +9253,9 @@ A business promoting professional legal referrals should not present optional le
 
 [^439]: https://chambers.com/practice-guides/guides/litigation-2026/thailand/law-and-practice — Tilleke & Gibbins, *Litigation 2026: Thailand*, general rules governing litigation costs.
 
-[^440]: https://tvc.co.th/guides/thailand-law-library-legal-library-thai-civil-case-filing — Thai Visa Centre, *Civil Case Filing in Thailand*, reviewed June 2026.
+[^440]: `https://tvc.co.th/guides/thailand-law-library-legal-library-thai-civil-case-filing` — Thai Visa Centre, *Civil Case Filing in Thailand*, reviewed June 2026.
 
-[^441]: https://tvc.co.th/guides/thailand-law-library-legal-library-thai-civil-procedure — Thai Visa Centre, *Civil Procedure in Thailand*, containing contradictory statements about self-representation.
+[^441]: `https://tvc.co.th/guides/thailand-law-library-legal-library-thai-civil-procedure` — Thai Visa Centre, *Civil Procedure in Thailand*, containing contradictory statements about self-representation.
 
 [^442]: https://wsrlawgroup.com/publications/law-library/thailand-civil-procedure-code/book-1-general-provisions/ — Thailand Civil Procedure Code, Section 60, expressly authorizing parties to conduct their own cases or appoint legal counsel.
 
@@ -9229,7 +9265,7 @@ A business promoting professional legal referrals should not present optional le
 
 [^445]: https://www.lawyerscouncil.or.th/api/content/forms/01a1c00c-c882-793e-a121-331c4fe33b85/download — Lawyers Council of Thailand, March 9, 2026 amendment to specialist signature and document certification training regulations.
 
-[^446]: https://tvc.co.th/guides/litigation-debt-recovery-in-thailand — Thai Visa Centre, *Debt Recovery: Guide for Foreigners*, reviewed June 2026; incorrect enforcement instruction appears in both its procedural overview and practical checklist.
+[^446]: `https://tvc.co.th/guides/litigation-debt-recovery-in-thailand` — Thai Visa Centre, *Debt Recovery: Guide for Foreigners*, reviewed June 2026; incorrect enforcement instruction appears in both its procedural overview and practical checklist.
 
 [^447]: https://www.thailawonline.com/thai-civil-procedure-code/section-231/ — Thailand Civil Procedure Code, Section 231, governing enforcement of judgments pending appeal and applications for stays of execution.
 
