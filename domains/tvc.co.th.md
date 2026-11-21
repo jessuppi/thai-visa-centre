@@ -6904,6 +6904,67 @@ It also exaggerates the potential criminal consequences of negative reviews and 
 **Thai Visa Centre should correct its cybercrime guide to acknowledge the 2017 defamation exclusion, explain the actual elements of Section 14(1), and stop presenting ordinary online defamation as an automatic computer-crime offence.**
 
 
+## Bail Guide Falsely Claims Cash or Property Is Mandatory and Denies Insurance Options
+
+Thai Visa Centre's *Bail and Bail Bonds: Guide for Foreigners*, marked reviewed June 2026, incorrectly describes Thailand's criminal bail system, falsely presenting cash deposits and pledged property as mandatory requirements while denying the existence of commercial bail bond insurance.[^422]
+
+These claims contradict Thailand's Criminal Procedure Code, judicial reforms promoting release without financial security, and insurance products publicly offered by Thai companies.
+
+### Incorrectly Claims Bail Requires Cash or Property
+
+The guide states:
+
+> Release requires cash paid at court or pledged registered assets.
+
+It repeats this restriction throughout its explanations of bail applications, payment methods, and release conditions.[^422]
+
+**Section 110 of Thailand's Criminal Procedure Code expressly permits provisional release without a bail bond or financial security in qualifying cases.**[^423]
+
+For offences carrying a maximum imprisonment exceeding ten years, a bail bond is required, but additional financial security is not automatically mandatory.
+
+For other offences, provisional release may be granted without a bond, with a bond alone, or with both a bond and security.
+
+TVC's blanket description incorrectly turns discretionary financial requirements into universal conditions.
+
+### Ignores Judicial Reforms Promoting Release Without Security
+
+Thailand's judiciary has actively promoted alternatives to cash-based bail to reduce unnecessary pretrial detention.
+
+The Thailand Institute of Justice documented a judicial initiative introducing simplified provisional-release applications and risk assessments that do not require applicants to declare assets or provide financial security.[^424]
+
+The initiative specifically sought to reduce unequal treatment between defendants who could afford bail deposits and those who could not.
+
+Courts may instead impose appropriate reporting, supervision, or electronic-monitoring conditions.
+
+**TVC's guide ignores these established alternatives and continues portraying financial deposits as essential to obtaining release.**
+
+### Commercial Bail Bond Insurance Exists in Thailand
+
+The publication also states that Thailand has no commercial bail bond insurance industry and that defendants must instead provide cash or registered assets.[^422]
+
+However, **Thai Pattana Insurance Public Company Limited explicitly advertises Bail Bond Insurance** on its official website.[^425]
+
+The insurer describes policies under which the company guarantees a defendant's provisional release and assumes specified financial obligations if the defendant breaches bail conditions.
+
+It also publishes procedures for premium refunds, court documentation, and insurance claims.
+
+Siam Legal International independently explains that defendants and their families can purchase bail insurance after charges are filed, with insurance certificates potentially serving as security accepted by Thai courts.[^426]
+
+Thailand's arrangements are not identical to the American commercial bail bondsman industry, but that distinction does not justify denying the existence of Thai bail insurance products.
+
+### Consequences for Foreign Defendants
+
+These errors could cause foreign defendants and their families to believe they must urgently raise substantial cash deposits or pledge property before provisional release is possible.
+
+They also conceal alternatives involving unsecured release, insurance-backed guarantees, and judicial risk-assessment procedures.
+
+The consequences are serious because bail decisions directly affect personal liberty, family finances, and the ability to prepare a criminal defence.
+
+**A commercial visa agency advertising criminal-law referrals should not falsely tell defendants that cash or property is mandatory while overlooking legally recognized alternatives.**
+
+Thai Visa Centre should correct its bail guide to explain Section 110, disclose the possibility of release without financial security, and acknowledge the commercial bail insurance products available in Thailand.
+
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -7558,3 +7619,13 @@ It also exaggerates the potential criminal consequences of negative reviews and 
 [^420]: https://www.hrw.org/report/2019/10/25/speak-out-dangerous/criminalization-peaceful-expression-thailand — Human Rights Watch, analysis of the 2017 Computer Crime Act amendments and exclusion of criminal defamation.
 
 [^421]: https://www.ilaw.or.th/en/articles/case/26552 — iLaw, court proceedings involving Itthaboon Onwongsa, including December 2017 and November 2018 judgments.
+
+[^422]: https://tvc.co.th/guides/litigation-bail-and-bail-bonds-in-thailand — Thai Visa Centre, *Bail and Bail Bonds: Guide for Foreigners*, reviewed June 2026.
+
+[^423]: https://www.thailawonline.com/th/thai-criminal-procedure-code/section-110/ — Thailand's Criminal Procedure Code, Section 110, governing bail bonds and security requirements.
+
+[^424]: https://www.tijthailand.org/en/what-we-do/detail/new-normal-court-covid19 — Thailand Institute of Justice, judicial reforms introducing provisional-release applications without financial security.
+
+[^425]: https://thaipat.co.th/en/service/claims-compensation/ — Thai Pattana Insurance Public Company Limited, Bail Bond Insurance claims and guarantee procedures.
+
+[^426]: https://library.siam-legal.com/provisional-release-faq-authorization-and-insurance/ — Siam Legal International, insurance certificates and their use as bail security in Thailand.
