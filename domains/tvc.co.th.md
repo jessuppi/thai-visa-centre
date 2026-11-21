@@ -7216,6 +7216,72 @@ Although representation can be valuable in complicated disputes, it is not a uni
 Thai Visa Centre should correct its civil litigation publications to acknowledge Section 60, remove the false mandatory-lawyer claims, and distinguish the legal right to self-representation from the practical advantages of professional counsel.
 
 
+## Notary Guide Omits Mandatory Specialist Registration for Notarial Services Attorneys
+
+Thai Visa Centre's *Notary Public in Thailand: Document Authentication Guide*, marked reviewed June 2026, provides incomplete and potentially misleading advice about the qualifications required to authenticate signatures and documents in Thailand.[^443]
+
+The publication correctly explains that Thailand does not have a standalone notary public profession equivalent to the American system.
+
+However, it fails to identify Thailand's established system of specially trained and registered **Notarial Services Attorneys**, instead repeatedly presenting ordinary Thai lawyer licensing as the relevant qualification.
+
+### Incorrectly Treats Ordinary Lawyer Licensing as Sufficient
+
+TVC's document-authentication instructions state:
+
+> A licensed Thai lawyer certifies copies or witnesses signatures.
+
+The guide's frequently asked questions also address whether any lawyer can certify documents:
+
+> Licensed Thai lawyers certify copies and witness signatures.
+
+It recommends verifying a lawyer's ordinary professional registration with the Lawyers Council of Thailand.[^443]
+
+**This advice omits a critical distinction between ordinary legal practice and performing formal notarial certification.**
+
+Although lawyers may witness signatures or certify certain documents in other professional contexts, formal notarial services are subject to additional registration requirements.
+
+### Lawyers Council Regulations Establish a Specialist Qualification
+
+Thailand's Lawyers Council maintains a separate regulatory system for lawyers authorized to certify signatures and documents as Notarial Services Attorneys.
+
+Its regulations, published in the Royal Gazette on May 13, 2024, require applicants to:
+
+- Hold qualifications to practise as lawyers.
+- Complete the Lawyers Council's prescribed specialist training.
+- Apply separately for registration as a Notarial Services Attorney.
+- Obtain an official registration certificate, registration number, and seal.
+
+The registration certificate is valid for three years, subject to renewal requirements.[^444]
+
+**An ordinary lawyer's professional licence does not, by itself, establish that the lawyer holds the specialist authorization required for formal notarial services.**
+
+### Requirements Were Reaffirmed in 2026
+
+On March 9, 2026, the Lawyers Council announced amendments to its specialist training regulations.
+
+The revised curriculum covers certified document copies, signature authentication, sworn statements, legal-entity certification, electronic notarization, professional responsibilities, and the use of official seals.
+
+It also addresses the relationship between Thai document certification, international legalization, and the Apostille Convention.[^445]
+
+These requirements were already established when TVC's publication was supposedly reviewed in June 2026.
+
+Nevertheless, the guide neither identifies the specialist qualification nor instructs customers to verify it.
+
+### Misleading Customers About Document Authentication
+
+Foreigners commonly require authenticated documents for international banking, property transactions, immigration applications, corporate filings, and proceedings before foreign authorities.
+
+A person following TVC's advice might verify that a lawyer is licensed without determining whether that lawyer is authorized to perform the particular notarial certification required.
+
+This creates a risk of paying for documents that do not satisfy the receiving authority's requirements.
+
+The distinction also matters because formal notarial certification, Ministry of Foreign Affairs legalization, and embassy authentication are separate procedures. Completing one does not automatically satisfy the others.
+
+**Thai Visa Centre should correct its notary guide to explain the Notarial Services Attorney qualification, distinguish ordinary lawyer certifications from formal notarial acts, and advise customers to verify specialist registration and the requirements of the receiving authority.**
+
+A publication specifically advertising expertise in document authentication should not omit the professional credential central to the service it describes.
+
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -7912,3 +7978,9 @@ Thai Visa Centre should correct its civil litigation publications to acknowledge
 [^441]: https://tvc.co.th/guides/thailand-law-library-legal-library-thai-civil-procedure — Thai Visa Centre, *Civil Procedure in Thailand*, containing contradictory statements about self-representation.
 
 [^442]: https://wsrlawgroup.com/publications/law-library/thailand-civil-procedure-code/book-1-general-provisions/ — Thailand Civil Procedure Code, Section 60, expressly authorizing parties to conduct their own cases or appoint legal counsel.
+
+[^443]: https://tvc.co.th/guides/legal-notary-public-thailand — Thai Visa Centre, *Notary Public in Thailand: Document Authentication Guide*, reviewed June 2026.
+
+[^444]: https://www.lawyerscouncil.or.th/api/content/forms/01a1c00c-c727-79f9-ba85-5e2c5a530c58/download — Lawyers Council of Thailand, Regulations on Registration of Lawyers Certifying Signatures and Documents B.E. 2566 (2023), published in the Royal Gazette May 13, 2024, particularly Clauses 5–8.
+
+[^445]: https://www.lawyerscouncil.or.th/api/content/forms/01a1c00c-c882-793e-a121-331c4fe33b85/download — Lawyers Council of Thailand, March 9, 2026 amendment to specialist signature and document certification training regulations.
