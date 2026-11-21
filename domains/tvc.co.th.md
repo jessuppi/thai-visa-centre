@@ -8298,6 +8298,33 @@ Its debt-recovery publication acknowledges that winning a judgment is insufficie
 This is a basic procedural distinction that a publication offering guidance on Thai debt recovery should not misrepresent.
 
 
+
+### A Second Legal Guide Repeats TVC’s False Enforcement Rule
+
+Thai Visa Centre has published the same false instruction in at least two separate legal guides, both marked reviewed June 2026.
+
+The *Debt Recovery: Guide for Foreigners* tells creditors to wait until appeal periods expire or appeals conclude before enforcing a judgment. The separate *Trial, Appeals, and Execution of Judgment in Thailand* guide repeats the claim. Its checklist says not to file for execution while an appeal is pending, its timeline states that “Execution proceedings begin only after judgment is final,” and its FAQ says execution generally waits for final judgment.[^446][^512]
+
+Section 231 of Thailand’s Civil Procedure Code says the opposite: filing an appeal does not automatically stay enforcement. A party seeking to suspend execution must apply for a stay, which the court may grant subject to conditions.[^447][^448]
+
+TVC’s guides erase that distinction and present a pending appeal as a legal bar to enforcement. That is a substantive misstatement of the governing rule, not a harmless difference in phrasing. Creditors who rely on it may delay enforcement while debtors retain time to move or dispose of assets.
+
+### The Same Guide Misstates the Civil Appeal Deadline
+
+The *Trial, Appeals, and Execution of Judgment* guide also repeatedly describes the ordinary civil appeal period as 30 days. It warns readers about a “30-day appeal window” and tells them to calculate the deadline from judgment delivery or the date printed on a judgment copy.[^512]
+
+Section 229 sets the ordinary appeal period at **one month from pronouncement of the judgment or order**.[^513] Under Section 193/5, a period expressed in months is calculated according to the calendar. It is not invariably a fixed 30-day period, and its statutory starting point is pronouncement—not delivery of a copy.[^514]
+
+This is not a harmless simplification. A reader who substitutes a fixed 30-day count for the statutory calendar-month calculation may miscalculate the filing deadline and lose the right to appeal.
+
+TVC has therefore published multiple guides that misstate when a judgment may be enforced, and a separate guide that misstates how long a litigant has to appeal. These are basic procedural rules with direct consequences for creditors and litigants. The repeated errors appear in publications TVC presents as reviewed legal guidance.
+
+[^512]: https://tvc.co.th/guides/thailand-law-library-legal-library-thai-trial-proper-thai-execution-of-judgment-thai-appeals — Thai Visa Centre, *Trial, Appeals, and Execution of Judgment in Thailand*, reviewed June 2026.
+
+[^513]: https://www.thailawonline.com/thai-civil-procedure-code/section-229/ — Thailand Civil Procedure Code, Section 229.
+
+[^514]: https://www.thailawonline.com/thai-civil-code/section-193-5/ — Thailand Civil and Commercial Code, Section 193/5.
+
 ## Power-of-Attorney Guide Invents Mandatory Lawyer Requirements for Property Transfers
 
 Thai Visa Centre's *Power of Attorney in Thailand: Property, Court, and Corporate Uses*, marked reviewed June 2026, incorrectly claims that licensed Thai lawyers are required to prepare powers of attorney and complete property transfers.[^450]
