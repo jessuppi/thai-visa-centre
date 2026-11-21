@@ -7149,6 +7149,73 @@ The problem is especially relevant because Thai Visa Centre advertises referrals
 Thai Visa Centre should correct its civil litigation guide to explain Section 161, distinguish court fees from privately incurred attorney expenses, and acknowledge the judiciary's discretion when allocating costs.
 
 
+## Civil Procedure Guides Falsely Claim Foreigners Must Hire Thai Lawyers
+
+Thai Visa Centre publishes contradictory and legally incorrect instructions about whether foreigners can represent themselves in Thai civil courts.
+
+Its *Civil Case Filing in Thailand* and *Civil Procedure in Thailand* guides, both marked reviewed June 2026, repeatedly present licensed Thai legal representation as mandatory, directly contradicting Section 60 of Thailand's Civil Procedure Code.[^440][^441]
+
+### Falsely Presents Legal Representation as Mandatory
+
+The *Civil Case Filing in Thailand* guide states:
+
+> Court filing requires licensed Thai attorneys.
+
+Its introductory explanation similarly insists that foreign claimants cannot file effectively without a licensed Thai advocate. The guide's procedural instructions describe lawyers preparing complaints, submitting documents, and conducting all courtroom advocacy.[^440]
+
+The separate *Civil Procedure in Thailand* guide goes further:
+
+> Foreigners must operate through licensed Thai advocates.
+
+It repeats this supposed requirement throughout its discussion of civil litigation.[^441]
+
+**These statements turn optional professional representation into a purported legal obligation.**
+
+### Section 60 Expressly Permits Self-Representation
+
+Section 60 of Thailand's Civil Procedure Code provides that parties may conduct their own cases and undertake procedural steps personally or appoint legal counsel to act on their behalf.[^442]
+
+The provision establishes self-representation and representation through appointed lawyers as alternative lawful methods of conducting civil proceedings.
+
+It does not impose a blanket requirement that foreign plaintiffs or defendants hire Thai lawyers.
+
+Foreign litigants must comply with Thai procedural rules, including language, filing, evidence, and court requirements. Those obligations do not eliminate their statutory right to conduct their own cases.
+
+**TVC's categorical claims about mandatory legal representation directly contradict the governing legislation.**
+
+### TVC Contradicts Itself in the Same Guide
+
+Remarkably, the *Civil Procedure in Thailand* guide acknowledges the correct legal position elsewhere.
+
+Its frequently asked questions include:
+
+**Can I represent myself?**
+
+The answer begins:
+
+> Legally possible but strongly discouraged for foreigners.
+
+This admission directly contradicts the same publication's repeated insistence that foreigners must use licensed Thai advocates.[^441]
+
+The contradiction is especially revealing because both statements appear in a guide supposedly reviewed for legal accuracy in June 2026.
+
+**TVC acknowledges that self-representation is lawful in one paragraph while presenting legal representation as mandatory elsewhere on the same page.**
+
+### Misleading Foreigners While Promoting Legal Referrals
+
+The distinction has immediate financial consequences.
+
+Foreign residents, property owners, creditors, and business operators may believe they cannot initiate or defend ordinary civil proceedings without first paying for professional legal representation.
+
+Thai Visa Centre promotes referrals to licensed litigation lawyers while publishing guidance that exaggerates the necessity of hiring those professionals.
+
+Although representation can be valuable in complicated disputes, it is not a universal prerequisite for civil litigation.
+
+**A commercial business advertising legal referrals should not misrepresent optional paid legal representation as a statutory requirement.**
+
+Thai Visa Centre should correct its civil litigation publications to acknowledge Section 60, remove the false mandatory-lawyer claims, and distinguish the legal right to self-representation from the practical advantages of professional counsel.
+
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -7839,3 +7906,9 @@ Thai Visa Centre should correct its civil litigation guide to explain Section 16
 [^438]: https://www.dlapiperintelligence.com/litigation/insight/index.html?c=TH&t=09-costs — DLA Piper, Thailand litigation costs and recovery of court fees.
 
 [^439]: https://chambers.com/practice-guides/guides/litigation-2026/thailand/law-and-practice — Tilleke & Gibbins, *Litigation 2026: Thailand*, general rules governing litigation costs.
+
+[^440]: https://tvc.co.th/guides/thailand-law-library-legal-library-thai-civil-case-filing — Thai Visa Centre, *Civil Case Filing in Thailand*, reviewed June 2026.
+
+[^441]: https://tvc.co.th/guides/thailand-law-library-legal-library-thai-civil-procedure — Thai Visa Centre, *Civil Procedure in Thailand*, containing contradictory statements about self-representation.
+
+[^442]: https://wsrlawgroup.com/publications/law-library/thailand-civil-procedure-code/book-1-general-provisions/ — Thailand Civil Procedure Code, Section 60, expressly authorizing parties to conduct their own cases or appoint legal counsel.
