@@ -5279,6 +5279,77 @@ Thai Visa Centre should revise its divorce publications to:
 
 These corrections would provide materially more accurate information to couples making significant legal, financial, and immigration decisions.
 
+
+## Property Guides Falsely Claim Licensed Thai Lawyers Are Mandatory for Condominium Purchases
+
+Thai Visa Centre tells foreign property buyers that licensed Thai lawyers are essential for condominium purchases and that legal representation is mandatory before paying a deposit.
+
+Its *Thailand Law Firms and TVC Office Locations* guide identifies condominium and land purchases as requiring a Thai lawyer:
+
+> Licensed Thai lawyer essential
+
+The same table asserts that due diligence and title review must be conducted by a Thai attorney.[^478]
+
+Its separate *Real Estate Lawyer in Thailand* guide expressly answers the question *When is a lawyer mandatory?*:
+
+> Before any deposit on condo, leasehold villa, or land-backed deal.
+
+That publication also directs buyers to instruct a property lawyer before paying any reservation fee and says even simple condominium resales require counsel.[^479]
+
+**These statements present professional legal representation as compulsory when Thailand's ordinary condominium registration procedures impose no blanket requirement to hire a lawyer.**
+
+### Department of Lands Permits Direct Ownership Transfers
+
+The Department of Lands administers registration of condominium ownership through the competent Land Office.
+
+The Thai government's published instructions identify the documents needed for registration by eligible foreign purchasers, including title documentation, identification, information about the parties or their authorized representatives, and applicable evidence of foreign ownership and funding eligibility.[^480]
+
+Condominium transfers may also require the building's foreign-ownership quota confirmation and certification concerning outstanding common-area expenses.
+
+The official documentary requirements do not impose a universal requirement that a licensed Thai lawyer prepare, approve, or attend a condominium transfer.
+
+The Department of Lands separately explains that parties to an ordinary property sale can attend the Land Office themselves with the original registration documents; representation is an option where circumstances require it.[^481]
+
+**Proper Land Office registration, compliance with condominium ownership restrictions, and hiring a private property lawyer are three different matters.**
+
+### TVC's Own Due-Diligence Guide Acknowledges the Distinction
+
+TVC's *10 Things to Look for in a Thai Property Due Diligence Review* provides a revealing contrast.
+
+In response to the question *Is due diligence mandatory by law?*, the guide answers:
+
+> Not legally mandatory, but prudent and standard for any foreign buyer.
+
+It nevertheless tells buyers to commission licensed lawyers and describes standard condominium due-diligence fees of **15,000–40,000 baht**.[^482]
+
+The statement that due diligence is not legally mandatory does not mean due diligence is unimportant. It demonstrates, however, that TVC knows how to distinguish a prudent service from an actual statutory obligation.
+
+Its categorical statements elsewhere about mandatory lawyers fail to make that distinction.
+
+### Independent Legal Advice Can Still Be Valuable
+
+Foreign condominium acquisitions carry substantial financial and legal risks. Independent counsel can help investigate title defects, mortgages, developer obligations, condominium quota restrictions, unpaid common-area charges, and contract provisions.
+
+Such assistance is particularly sensible for off-plan developments, contested transfers, high-value resales, or complex foreign-funding arrangements.
+
+**Recommending independent legal review is sound risk-management advice; claiming that the law universally requires a lawyer is a different assertion.**
+
+The responsible government authority decides whether the transaction satisfies the statutory registration requirements. A lawyer's involvement does not replace those requirements, and their absence does not automatically invalidate an otherwise eligible transaction.
+
+### Potentially Misleading Foreign Buyers About Costs
+
+TVC advertises property-lawyer referrals while describing licensed counsel as essential for condominium purchases.
+
+Its own guides identify professional due-diligence costs in the tens of thousands of baht, before any separately charged transfer-attendance services.[^479][^482]
+
+Foreign buyers could therefore believe they are legally obliged to incur private legal fees before paying a deposit or completing an otherwise lawful condominium acquisition.
+
+The evidence does not establish that TVC charged individual customers unnecessary fees or mishandled their transactions. It establishes that the company's public guidance presents optional legal representation as mandatory, even while acknowledging that due diligence itself is not legally required.
+
+**Thai Visa Centre should correct its property guides to distinguish mandatory ownership and registration requirements from optional independent legal review.**
+
+It should acknowledge that eligible buyers and sellers can use the Department of Lands' prescribed transfer procedures without universally retaining private attorneys, while continuing to explain why professional due diligence may be advisable.
+
 ## Property Guides Omit Statutory Exceptions to Foreign Land Ownership
 
 Thai Visa Centre's *Thailand Property FAQ for Expats*, marked reviewed June 2026, categorically states that foreigners cannot legally own land in Thailand.[^339]
@@ -8606,3 +8677,13 @@ A business promoting professional legal referrals should not present optional le
 [^476]: https://www.bora.dopa.go.th/callcenter1548/guidebook — Thailand Department of Provincial Administration, official marriage-registration procedures, documentary requirements, and fee schedule confirming free registration at district offices.
 
 [^477]: https://thailand.go.th/public/issue-focus-detail/---120 — Thailand Government Public Relations Department, guidance on documents, witnesses, and legalization for marriage registration involving foreign nationals.
+
+[^478]: https://tvc.co.th/guides/thailand-thailand-law-firms — Thai Visa Centre, *Thailand Law Firms and TVC Office Locations*, lawyer-versus-agent table describing licensed Thai lawyers as essential for condominium or land purchases and stating that title review and due diligence must be done by Thai attorneys.
+
+[^479]: https://tvc.co.th/guides/property-real-estate-lawyer-in-thailand — Thai Visa Centre, *Real Estate Lawyer in Thailand*, reviewed June 2026, FAQ asserting a lawyer is mandatory before deposits on condominiums, villas, or land-backed deals, with a stated due-diligence and contract-review price range.
+
+[^480]: https://thailand.go.th/useful-information-detail/010_011 — Thailand government, *Ownership of real estate by foreigners in Thailand: Documents required for registration*, identifying required ownership, identity, and other supporting documents without a blanket requirement for attorney representation.
+
+[^481]: https://www.dol.go.th/rayong/ask-question/faqs-1770282877/ — Rayong Provincial Land Office, Department of Lands, FAQ explaining that buyers and sellers may attend the Land Office together for an ordinary sale and registration with the original documentation; a general property-transfer example, not a condominium-specific checklist.
+
+[^482]: https://tvc.co.th/guides/property-10-things-to-look-for-in-a-thai-property-due-diligence-review — Thai Visa Centre, *10 Things to Look for in a Thai Property Due Diligence Review*, reviewed June 2026, expressly acknowledging that due diligence is not legally mandatory and advertising a typical condominium review cost of 15,000–40,000 baht.
