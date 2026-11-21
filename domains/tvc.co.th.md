@@ -7009,6 +7009,81 @@ Nevertheless, its publications provide procedural instructions that repeatedly n
 
 **TVC should correct the court names in its trade-disputes guide, distinguish ordinary civil litigation from specialized international trade proceedings, explain the Customs Appeal Committee process under Sections 37–48 of the Customs Act, and clarify the separate payment and enforcement consequences of disputing customs duty assessments.**
 
+
+## Administrative Litigation Guide Misidentifies Tax Court Jurisdiction and Appeal Deadlines
+
+Thai Visa Centre's *Administrative Litigation in Thailand*, marked reviewed June 2026, incorrectly presents Revenue Department tax assessments as disputes ordinarily handled through Thailand's Administrative Court system.
+
+The guide opens:
+
+> Administrative litigation challenges government orders such as visa cancellations, licence revocations, and tax assessments in the Administrative Court system, separate from ordinary civil courts.
+
+The publication lists taxpayers disputing Revenue Department assessments among those needing advice about administrative litigation, while prominently advertising **90 days typical** as its filing window.[^493]
+
+**This presentation overlooks Thailand's specialized Tax Court system and could mislead taxpayers about both the correct forum and the time available to appeal.**
+
+### Administrative Court Expressly Excludes Tax Court Cases
+
+Section 9 of the Act on Establishment of Administrative Courts and Administrative Court Procedure B.E. 2542 (1999) defines the Administrative Court's jurisdiction and its statutory exclusions.
+
+Thailand's Administrative Court explains on its official website that it does not hear cases assigned to specialized courts, expressly including the Tax Court, Labour Court, Intellectual Property and International Trade Court, and Bankruptcy Court.[^494]
+
+**A dispute does not automatically belong in Administrative Court merely because the challenged decision was made by a government agency.**
+
+Ordinary disputes arising from Revenue Department assessments generally follow the separate tax appeal and litigation framework, rather than an application to the Administrative Court.
+
+### Revenue Code Establishes Separate 30-Day Appeal Periods
+
+TVC's guide prominently displays a typical **90-day** deadline and explains that many administrative complaints must be filed within 90 days of the written order.[^493]
+
+That general Administrative Court timeframe cannot safely be applied to Revenue Department assessments.
+
+Section 30 of Thailand's Revenue Code generally requires taxpayers challenging assessments outside the separate Amphur-assessment procedure to appeal to the competent Commission of Appeal **within 30 days of receiving the assessment**.[^495]
+
+Subject to applicable conditions, a taxpayer dissatisfied with the Commission of Appeal's decision must generally bring a further appeal to the competent court **within 30 days of receiving that decision**.
+
+The Revenue Code contains different deadlines for certain other assessments, including the 15-day provisions under Section 29. The exact applicable procedure therefore depends on the assessment and governing tax provisions.
+
+**TVC's failure to distinguish these statutory routes creates a risk that taxpayers will mistake a 90-day Administrative Court period for the deadline controlling their actual tax appeal.**
+
+### Specialized Tax Courts Hear Ordinary Assessment Litigation
+
+Thailand's Act for the Establishment of and Procedure for the Tax Court B.E. 2528 (1985) creates a specialized judicial framework for tax disputes, supplemented by the Regulation on Tax Cases B.E. 2568 (2025).[^496]
+
+The Central Tax Court handles qualifying tax-assessment appeals, tax debt claims, refund disputes, and other matters within the Tax Court's statutory jurisdiction. Its jurisdiction and procedures are distinct from those of the Administrative Court.
+
+Taxpayers ordinarily must complete any administrative objection or appeal required by the applicable tax law before bringing an assessment dispute to the Tax Court.
+
+Judgments and orders of the Central Tax Court follow the specialized appellate route through the Court of Appeals for Specialized Cases, with further petitions to the Supreme Court where permitted—not the ordinary path to the Supreme Administrative Court.[^496]
+
+**TVC's guidance conflates two different court systems with different jurisdictions, filing requirements, and deadlines.**
+
+### The Guide Repeatedly Reinforces the Wrong Framework
+
+The problem is not limited to the opening sentence.
+
+TVC groups tax assessments with visa and licence cancellations in its examples of administrative disputes, tells taxpayers disputing Revenue Department assessments to seek advice within its Administrative Court discussion, and includes tax cases in its expected Administrative Court litigation timelines.[^493]
+
+Although its table briefly acknowledges dedicated review paths for tax and customs assessments, it does not identify the Tax Court's specialized jurisdiction or provide the Revenue Code's relevant appeal deadlines.
+
+That partial qualification does not resolve the guide's broader presentation of tax assessment disputes as Administrative Court matters.
+
+### Incorrect Deadlines Can Have Serious Consequences
+
+Foreign residents and business operators may face assessments involving substantial income tax, VAT, penalties, or surcharges.
+
+A taxpayer who assumes that a 90-day filing window applies to an assessment subject to Section 30's 30-day appeal requirement could lose an important opportunity to challenge the assessment.
+
+Section 31 further provides that filing an appeal generally **does not defer payment of assessed taxes**, except where the taxpayer receives the specified permission to await the appeal or court decision.[^495]
+
+That makes accurate guidance concerning both deadlines and financial obligations especially important.
+
+The available evidence does not establish that TVC caused a particular taxpayer to miss an appeal deadline. It establishes that the agency publishes misleading jurisdictional guidance while advertising referrals to licensed litigation professionals.
+
+**Thai Visa Centre should correct its Administrative Litigation guide to identify the Tax Court's specialized jurisdiction, explain the relevant Revenue Code appeal procedures, and distinguish ordinary tax assessments from disputes genuinely within Administrative Court jurisdiction.**
+
+Professional litigation guidance should not direct readers toward the wrong judicial framework or omit statutory deadlines that can determine whether a tax assessment remains challengeable.
+
 ## Labour Litigation Guide Misstates Court Fees, Lawyer Requirements, and Appeals
 
 Thai Visa Centre's *Labor Litigation: Guide for Foreigners*, marked reviewed June 2026, contains several misleading statements about Thailand's Labour Court procedures, including the cost of filing claims, the necessity of legal representation, and the court responsible for hearing appeals.[^398]
@@ -8856,3 +8931,11 @@ A business promoting professional legal referrals should not present optional le
 [^491]: https://www.coj.go.th/th/content/category/detail/id/4/cid/8/iid/531927/ — Thailand Office of the Judiciary, January 6, 2026 announcement on the January 5 e-Filing upgrade, reporting over 85% electronic filing in civil cases, specifying eligible initial case types, mandatory new-system filing for business-operator consumer claims, and service hours.
 
 [^492]: https://www.thailand.go.th/public/issue-focus-detail/judiciary-launches-upgraded-e-filing-system-with-enhanced-security-and-user-focus?hl=en — Thailand government's English-language explanation of the January 2026 upgraded e-Filing platform, its features, and initial case categories.
+
+[^493]: https://tvc.co.th/guides/litigation-administrative-litigation-thailand — Thai Visa Centre, *Administrative Litigation in Thailand*, reviewed June 2026, identifying tax assessments and Revenue Department disputes in its Administrative Court discussion and advertising a typical 90-day filing window.
+
+[^494]: https://en.admincourt.go.th/competence-and-procedures/administrative-courts-of-first-instance — Administrative Court of Thailand, official explanation of jurisdiction and the express exclusion of cases within the jurisdiction of specialized Tax Courts and other specialized courts.
+
+[^495]: https://www.rd.go.th/english/37746.html — Thailand Revenue Department, official English text of Revenue Code Sections 29–34, including the 30-day assessment and court appeal periods under Section 30 and the rule against automatic deferral of payment under Section 31.
+
+[^496]: https://www.legal500.com/intelligence/thailand/tax/tax-litigation-in-thailand — Tilleke & Gibbins, *Tax Litigation in Thailand*, December 18, 2025, describing specialized Tax Court jurisdiction, the 2025 Tax Cases Regulation, administrative prerequisites, and the specialized appeal route.
