@@ -4566,6 +4566,79 @@ The available evidence does not establish that TVC charged particular customers 
 
 It should acknowledge DBD Biz Regist and BOI e-Investment Promotion as official filing channels and explain which specialized situations genuinely require legal representation instead of describing all company-registration and BOI matters as requiring licensed counsel.
 
+
+## Franchise Guide Invents Trademark Preconditions While Omitting Mandatory Franchisee Protections
+
+Thai Visa Centre's *Franchise Lawyers in Thailand*, marked reviewed June 2026, misstates the role of trademark registration in franchising while overlooking important protections for existing franchisees.
+
+The guide begins:
+
+> Franchise agreements in Thailand require Foreign Business Act analysis, trademark registration, and clear disclosure on fees and territory.
+
+It also urges readers to register trademarks before franchising, describes trademark registration as a step to complete before marketing or sublicensing, and discusses territorial exclusivity and franchise-network expansion.[^483]
+
+**This presents an advisable brand-protection measure as a universal legal prerequisite while failing to identify important obligations imposed by Thailand's trade competition rules.**
+
+### Trademark Registration Is Not a Universal Franchise Prerequisite
+
+Thailand does not impose a standalone government registration requirement on every franchise agreement. Franchising is regulated through existing legislation and contractual obligations, including the Civil and Commercial Code, the Trademark Act, and the Trade Competition Act.[^484]
+
+Trademark registration can be commercially important. It provides stronger registered-brand protection and supports the licensing of a registered mark. However, entering into a franchise relationship and registering a licence of an existing registered trademark are distinct legal acts.
+
+Section 68 of Thailand's Trademark Act establishes requirements for licences permitting another person to use a registered trademark. The Department of Intellectual Property explains that such licensing agreements must be in writing and registered with the trademark registrar.[^485]
+
+**These specific trademark-licensing formalities do not establish that all franchise agreements require prior trademark registration.**
+
+TVC's blanket formulation fails to explain that difference.
+
+### Guide Omits Existing Franchisees' Priority Rights for Nearby Outlets
+
+Thailand's Trade Competition Commission established rules concerning unfair trade practices in franchise relationships under the Trade Competition Act B.E. 2560 (2017).
+
+When a franchisor proposes opening another outlet near an existing franchisee, the applicable guidance generally requires notifying the nearest existing franchisee and offering that franchisee priority to operate the proposed outlet.
+
+The franchisor must allow a reasonable response period of **at least 30 days**.[^486][^487]
+
+Exceptions and qualifications apply, including where a franchisee fails previously communicated performance criteria or existing contractual area-development rights prevent the franchisor from offering the outlet to that franchisee.
+
+The assessment of proximity takes account of the demand for goods or services, geographical conditions, and competition in the market—not distance alone.
+
+**TVC's guide discusses franchise territories, sub-franchising, and network expansion without explaining this important priority protection for established franchisees.**[^483]
+
+### Trade Competition Decisions Demonstrate the Consequences
+
+The priority requirement is more than an abstract contractual recommendation.
+
+In decisions concerning parcel-delivery franchises in 2021 and 2024, the Trade Competition Commission found unfair practices where franchisors established competing company-branded outlets near existing franchisees, offered lower shipping prices, and did not provide advance notice or the opportunity for the affected franchisees to expand first.[^488]
+
+These decisions illustrate the commercial consequences of territorial encroachment, particularly where existing franchisees have invested in premises, staff, and customer relationships.
+
+TVC discusses franchise territory disputes without identifying this regulatory protection or the published enforcement record.
+
+### Precontractual Disclosure Rules Are More Specific Than TVC Suggests
+
+Trade competition guidance also requires franchisors to provide material information to prospective franchisees before concluding franchise agreements.
+
+The disclosures cover relevant payments and fee calculations, the franchise business model, assistance and training, nearby existing and proposed outlets, intellectual-property rights and licensing terms, and the conditions governing renewal, amendment, and termination.[^487]
+
+TVC mentions fees, territory, and disclosure in general terms, but it does not explain the governing Trade Competition Commission framework or distinguish required disclosures from matters left to commercial negotiation.
+
+Those omissions are significant for readers evaluating their obligations before investing in or expanding a franchise.
+
+### Misleading Businesses About Their Actual Obligations
+
+TVC emphasizes trademark registration and referrals to licensed Thai lawyers while overlooking protections that can directly affect franchisors' expansion plans and existing franchisees' commercial rights.
+
+The result is guidance that overstates one supposed prerequisite while understating legally significant duties concerning precontractual disclosure and nearby outlet priority.
+
+The available evidence does not establish that TVC improperly advised particular franchise customers or caused violations of the trade competition rules.
+
+It does establish that the company's published guide fails to distinguish recommended brand-protection measures from mandatory franchise competition requirements.
+
+**Thai Visa Centre should correct its blanket trademark-registration claim, explain the separate formalities for licensing registered trademarks, and identify the Trade Competition Commission's disclosure and nearby-franchisee priority rules.**
+
+A business advertising referrals for professional franchise-law services should accurately explain the obligations and protections applicable to both franchisors and franchisees.
+
 ## Estate-Planning Guides Invent Mandatory Inheritance Shares
 
 Thai Visa Centre publishes incorrect advice about whether Thai law permits people to disinherit children, parents, and other statutory heirs.
@@ -8687,3 +8760,15 @@ A business promoting professional legal referrals should not present optional le
 [^481]: https://www.dol.go.th/rayong/ask-question/faqs-1770282877/ — Rayong Provincial Land Office, Department of Lands, FAQ explaining that buyers and sellers may attend the Land Office together for an ordinary sale and registration with the original documentation; a general property-transfer example, not a condominium-specific checklist.
 
 [^482]: https://tvc.co.th/guides/property-10-things-to-look-for-in-a-thai-property-due-diligence-review — Thai Visa Centre, *10 Things to Look for in a Thai Property Due Diligence Review*, reviewed June 2026, expressly acknowledging that due diligence is not legally mandatory and advertising a typical condominium review cost of 15,000–40,000 baht.
+
+[^483]: https://tvc.co.th/guides/legal-services-franchise-lawyers-thailand — Thai Visa Centre, *Franchise Lawyers in Thailand*, reviewed June 2026, stating that franchise agreements require trademark registration and discussing expansion and territory without identifying nearby-franchisee priority rights.
+
+[^484]: https://www.tilleke.com/wp-content/uploads/2025/11/Tilleke-ICLG-Franchise-2026-Thailand.pdf — Tilleke & Gibbins, *Franchise 2026: Thailand*, describing the absence of a general franchise-registration requirement and the separate laws governing franchising.
+
+[^485]: https://webnew.ipthailand.go.th/trademark/mzg2otu-2026-07-28-224332/ — Thailand Department of Intellectual Property, official procedures for registering a trademark licence under Section 68 of the Trademark Act.
+
+[^486]: https://www.tcct.or.th/assets/portals/1/files/NoticeOnUnfairPracticesInFranchise3_Final.pdf — Trade Competition Commission of Thailand, English translation of its notification on unfair trade practices in franchising, including nearby franchisee priority and the minimum 30-day response period.
+
+[^487]: https://www.tilleke.com/insights/thailands-updated-unfair-trade-practice-guidelines-for-franchising/33/ — Tilleke & Gibbins, July 12, 2022, explaining the franchise priority rule, its exceptions, and required precontractual disclosures under updated competition guidelines.
+
+[^488]: https://www.tilleke.com/insights/franchising-compliance-in-thailand-lessons-from-trade-competition-rulings/ — Tilleke & Gibbins, August 27, 2026, analyzing Trade Competition Commission decisions involving territorial encroachment and unfair franchise practices.
