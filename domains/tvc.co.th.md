@@ -8480,13 +8480,9 @@ Section 42 describes the DPO's responsibilities, including advising on complianc
 
 **The legislation does not require DPOs to hold Thai lawyers' licences.**
 
-On November 17, 2026, Thailand's Personal Data Protection Committee opened public consultation on proposed DPO qualification standards.
+On November 17, 2026, Thailand's Personal Data Protection Committee opened public consultation on draft DPO qualification standards. The draft would require a bachelor's degree or equivalent in any field, relevant data-protection knowledge and expertise, at least one year of related work experience, approved DPO training, and continuing professional development. It also proposes a 180-day preparation period after the final notification is published.[^460]
 
-The proposal addresses education, privacy expertise, professional experience, training, and continuing development.
-
-It would permit bachelor's degrees or equivalent qualifications in any field rather than requiring a law degree or legal-practice licence.[^460]
-
-These proposed requirements are not yet binding, but they further demonstrate that Thailand's regulatory framework distinguishes professional privacy expertise from attorney licensing.
+These are proposed DPO qualifications, not requirements currently in force. The listed criteria do not include a Thai lawyer's licence. They concern the qualifications of a Data Protection Officer where an organization must appoint one; they do not turn ordinary PDPA compliance work into a service that only lawyers may perform.
 
 ### Misleading Businesses About Compliance Costs
 
