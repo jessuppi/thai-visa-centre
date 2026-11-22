@@ -1638,7 +1638,10 @@ It should also reconcile those distinctions with its refund provisions and the r
 
 **For an agency advertising professional visa processing, the inability to provide consistent public explanations of who actually submits the application raises significant questions about transparency and accountability.**
 
-## Misleading 90-Day Reporting Instructions for LTR Visa Holders
+## TVC's 90-Day Reporting Guidance Contradicts Immigration Rules and Its Own Pages
+Across its LTR, Thailand Privilege, and paid TM47 reporting guides, TVC publishes contradictory or unsupported instructions about reporting obligations and the consequences of missed reports. The evidence below identifies each discrepancy against the applicable government guidance and TVC's own pages.
+
+### LTR Guide Misstates TM47 Requirements
 
 Thai Visa Centre publishes contradictory instructions concerning the immigration-reporting obligations of Thailand's Long-Term Resident (LTR) visa holders.
 
@@ -1650,7 +1653,7 @@ Thai Visa Centre's own LTR visa service page correctly advertises this annual-re
 
 **The agency therefore tells LTR holders they must complete a reporting procedure that the government expressly replaces with annual reporting for their visa category.**
 
-### The 90-Day Reporting Guide Gives the Wrong Answer
+#### The 90-Day Reporting Guide Gives the Wrong Answer
 
 Thai Visa Centre's dedicated reporting guide describes TM47 as a requirement for long-stay foreigners who remain in Thailand for 90 consecutive days.
 
@@ -1673,7 +1676,7 @@ These are legitimate commercial services for foreigners actually required to sub
 
 **But an LTR holder who relies on the article's answer could incorrectly conclude that quarterly TM47 submissions are mandatory and that purchasing reporting assistance is an appropriate way to satisfy that obligation.**
 
-### The BOI Explicitly Replaces TM47 With TM95
+#### The BOI Explicitly Replaces TM47 With TM95
 
 Thailand's Board of Investment provides an unambiguous explanation in its official LTR frequently asked questions.
 
@@ -1696,7 +1699,7 @@ It does, however, expressly replace the quarterly TM47 procedure.
 
 **The government's instruction is not a discretionary exemption or informal accommodation. It is a published feature of the LTR visa program.**
 
-### Thai Visa Centre's Own LTR Page Gets It Right
+#### Thai Visa Centre's Own LTR Page Gets It Right
 
 The contradiction is particularly revealing because Thai Visa Centre already publishes the correct rule elsewhere.
 
@@ -1715,7 +1718,7 @@ Neither explains why its reporting instructions differ from the other.
 
 **Thai Visa Centre correctly advertises reduced reporting obligations when marketing the LTR visa, but contradicts that benefit when promoting immigration-reporting assistance.**
 
-### Another Guide Recognizes Annual Reporting Exceptions
+#### Another Guide Recognizes Annual Reporting Exceptions
 
 The inconsistency extends to the company's broader immigration guidance.
 
@@ -1731,7 +1734,7 @@ A separate article, *90-Day Reporting Step-by-Step*, also broadly states that an
 
 **The problem is not a recent regulation that the agency has failed to discover. It is inconsistent application of a rule the agency already acknowledges.**
 
-### Financial and Compliance Implications
+#### Financial and Compliance Implications
 
 The discrepancy matters for two reasons.
 
@@ -1755,7 +1758,7 @@ The published evidence does not establish that Thai Visa Centre has actually sol
 
 It establishes that its public guidance creates that risk by presenting contradictory instructions.
 
-### The Broader Accountability Problem
+#### The Broader Accountability Problem
 
 Thai Visa Centre advertises LTR applications and immigration-reporting assistance as specialist services.
 
@@ -1775,7 +1778,7 @@ The company should correct the reporting FAQ, distinguish TM47 from TM95, and en
 
 The discrepancy raises questions about the reliability of its immigration advice and the safeguards used to ensure customers are sold services appropriate to their actual legal obligations.
 
-## Thailand Elite Guides Incorrectly Suggest Annual Reporting Exemptions
+### Thailand Elite Guides Incorrectly Suggest Annual Reporting Exemptions
 
 Thai Visa Centre publishes misleading instructions suggesting that certain Thailand Elite, now Thailand Privilege, visa holders qualify for annual immigration reporting rather than the standard 90-day notification requirement.
 
@@ -1785,7 +1788,7 @@ The same claim appears in its *How to Upgrade Your Thailand Elite Visa* guide.[^
 
 **These instructions incorrectly conflate Thailand Privilege membership benefits with the annual reporting exemption available under the separate LTR visa program.**
 
-### Thailand Privilege Confirms Quarterly Reporting Remains Mandatory
+#### Thailand Privilege Confirms Quarterly Reporting Remains Mandatory
 
 Thailand Privilege Card Co., Ltd., the government-owned program operator, expressly states that members who remain continuously in Thailand for more than 90 days must submit the ordinary 90-day immigration notification.[^297]
 
@@ -1799,7 +1802,7 @@ None of these arrangements creates a general annual-reporting entitlement for Th
 
 Members remain responsible for monitoring deadlines and complying with immigration requirements. Departing Thailand resets the applicable reporting period, but merely possessing an Elite visa does not eliminate quarterly reporting during a continuous stay.
 
-### Thai Visa Centre Contradicts Its Own Bronze Guide
+#### Thai Visa Centre Contradicts Its Own Bronze Guide
 
 The inconsistency is particularly apparent because TVC's dedicated Thailand Privilege Bronze Membership guide correctly explains that 90-day reporting remains necessary during continuous residence.[^298]
 
@@ -1807,7 +1810,7 @@ That publication separately advertises assistance with reporting through Thailan
 
 **The agency therefore acknowledges the correct requirement on its membership sales pages while suggesting nonexistent annual-reporting exceptions in its broader immigration guidance.**
 
-### Consequences for Visa Holders
+#### Consequences for Visa Holders
 
 A Thailand Privilege member relying on the incorrect annual-reporting statement could miss a legally required TM47 notification.
 
@@ -1821,7 +1824,7 @@ The company should correct its published instructions and clearly distinguish th
 
 **The documented problem is not the availability of reporting assistance. It is TVC's suggestion that certain Elite membership tiers change the underlying legal reporting interval when the program operator expressly confirms otherwise.**
 
-## Exaggerated Blacklisting Warnings Used to Promote Paid 90-Day Reporting
+### Paid TM47 Guide Makes Unsupported Blacklisting Claims
 
 Thai Visa Centre publishes warnings about severe immigration consequences for foreigners who fail to complete their 90-day address notifications.
 
@@ -1833,7 +1836,7 @@ However, Thailand's published immigration guidance identifies financial penaltie
 
 The warnings appear in material promoting the company's paid immigration-reporting services.
 
-### The Guide Links Missed Reports to Blacklisting
+#### The Guide Links Missed Reports to Blacklisting
 
 Under the heading *What happens if you miss your 90-day report?*, Thai Visa Centre presents three escalating outcomes.[^118]
 
@@ -1855,7 +1858,7 @@ It also provides no example of a foreigner blacklisted solely because of repeate
 
 **The article places ordinary reporting fines, extension-processing problems, and immigration blacklisting in the same escalation sequence without establishing the legal relationship between them.**
 
-### Official Immigration Guidance Identifies Financial Penalties
+#### Official Immigration Guidance Identifies Financial Penalties
 
 The Royal Thai Consulate-General in Los Angeles publishes official guidance explaining Thailand's 90-day reporting obligations.[^119]
 
@@ -1877,7 +1880,7 @@ A foreigner can hold valid permission to remain in Thailand while being overdue 
 
 That distinction is essential when explaining the risks of failing to report.
 
-### Overstay Blacklisting Is a Different Legal Issue
+#### Overstay Blacklisting Is a Different Legal Issue
 
 Thailand's government separately publishes specific re-entry-ban thresholds for foreigners who remain in the country beyond their authorized period of stay.[^120]
 
@@ -1906,7 +1909,7 @@ It explains that overstay begins when the permitted stay expires and connects bl
 
 **Thai Visa Centre correctly explains the legal basis for overstay-related entry bans in one guide while separately invoking possible blacklisting in its paid reporting guide without establishing an equivalent basis for late TM47 notifications.**
 
-### Visa Extensions May Require Outstanding Fines to Be Cleared
+#### Visa Extensions May Require Outstanding Fines to Be Cleared
 
 The reporting guide also warns that unresolved TM47 violations can delay or prevent visa extensions.
 
@@ -1926,7 +1929,7 @@ Nor does it distinguish temporary processing delays from a substantive rejection
 
 That omission risks making an ordinarily remediable reporting problem appear more severe than the published procedure establishes.
 
-### Thai Visa Centre's Other Guide Describes the Penalties Differently
+#### Thai Visa Centre's Other Guide Describes the Penalties Differently
 
 The company's *Thai Immigration Crackdowns 2026* guide provides another comparison.[^122]
 
@@ -1942,7 +1945,7 @@ Neither publication explains the difference.
 
 **The same agency publishes different descriptions of the consequences of missing TM47 reports, with its dedicated paid-reporting guide presenting the more alarming warning.**
 
-### The Warnings Accompany a Paid Reporting Service
+#### The Warnings Accompany a Paid Reporting Service
 
 The commercial context is important.
 
@@ -1968,7 +1971,7 @@ This does not establish that the business deliberately exaggerated those consequ
 
 It establishes that the claims appear in promotional material and may influence customers' decisions about purchasing reporting assistance.
 
-### Repeated Violations Do Not Eliminate the Need for Evidence
+#### Repeated Violations Do Not Eliminate the Need for Evidence
 
 Repeated reporting failures may legitimately attract additional attention from immigration authorities.
 
@@ -1984,7 +1987,7 @@ Thai Visa Centre has not published the legal provision, official instruction, or
 
 The available government materials do not establish that connection.
 
-### Relevance to the Broader Investigation
+#### Relevance to the Broader Investigation
 
 The existing investigation documents Thai Visa Centre's incorrect instructions for LTR holders, who are generally subject to annual TM95 reporting rather than quarterly TM47 notifications.
 
@@ -3912,6 +3915,8 @@ Thai Visa Centre should correct its tourist-visa financial checklist, distinguis
 Thai Visa Centre's commercial *Thailand One-Year Non-Immigrant Visa* page incorrectly instructs frequent international travelers to continue filing 90-day immigration reports even when they regularly leave and re-enter Thailand.[^176]
 
 This contradicts both the Immigration Bureau's official reporting rules and the agency's own published guidance.
+
+This is another instance of TVC misrepresenting when TM47 reporting applies. The consolidated findings above document its separate LTR, Thailand Privilege, and paid-reporting claims.
 
 **The discrepancy is particularly relevant because Thai Visa Centre also sells paid 90-day reporting assistance through an affiliated service.**
 
@@ -8935,13 +8940,13 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^293]: https://tvc.co.th/guides/thailand-company — Thai Visa Centre, company registration guide repeating the single-shareholder claim.
 [^294]: https://tvc.co.th/guides/ltr-visa-thailand-for-spouses-and-dependents — Thai Visa Centre, LTR dependent guide advertising US$25,000 insurance coverage and quarterly reporting.
-[^295]: https://tvc.co.th/guides/top-10-thai-visa-application-mistakes-to-avoid-in-2025 — Thai Visa Centre, immigration mistakes guide.
+[^295]: `https://tvc.co.th/guides/top-10-thai-visa-application-mistakes-to-avoid-in-2025` — Thai Visa Centre, immigration mistakes guide.
 
-[^296]: https://tvc.co.th/guides/how-to-upgrade-your-thailand-elite-visa — Thai Visa Centre, Thailand Elite membership upgrade guide.
+[^296]: `https://tvc.co.th/guides/how-to-upgrade-your-thailand-elite-visa` — Thai Visa Centre, Thailand Elite membership upgrade guide.
 
 [^297]: https://www.thailandprivilege.co.th/why-thailand/90-day-report — Thailand Privilege Card Co., Ltd., official 90-day reporting requirements.
 
-[^298]: https://tvc.co.th/guides/thailand-privilege-visa-bronze-membership — Thai Visa Centre, Bronze membership guide acknowledging continued quarterly reporting.
+[^298]: `https://tvc.co.th/guides/thailand-privilege-visa-bronze-membership` — Thai Visa Centre, Bronze membership guide acknowledging continued quarterly reporting.
 [^299]: https://tvc.co.th/guides/how-to-travel-to-thailand-as-family — Thai Visa Centre, family travel and TDAC submission instructions.
 
 [^300]: https://tvc.co.th/guides/new-travel-requirement-for-visitors-to-thailand-coming-in-2025 — Thai Visa Centre, TDAC guide instructing families to submit separately.
