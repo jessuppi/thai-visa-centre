@@ -8515,6 +8515,16 @@ The guide should distinguish statutory DPO appointment requirements, optional le
 A business promoting professional legal referrals should not present optional legal services as universally mandatory under Thai law.
 
 
+## TVC Repeatedly Misrepresents Optional Legal Services as Mandatory
+
+TVC makes the same categorical claim across guides covering unrelated services: that customers must hire licensed Thai lawyers to pursue appeals, file labour or consumer claims, register companies, complete property transfers, prepare wills, register marriages, or comply with the PDPA.[^440][^441][^398][^401][^470][^450][^465][^475][^458]
+
+The sections above document the different laws and government procedures governing each subject. Taken together, they show a recurring editorial pattern: TVC presents lawyer involvement as a legal prerequisite even where the cited rules provide no general requirement to hire counsel.
+
+This wording can make readers believe they cannot use available court or government procedures without first paying for private legal services. That is especially significant across guides that also promote referrals to lawyers.
+
+The evidence establishes what TVC’s publications tell readers. It does not establish that a particular customer paid unnecessary fees because of those claims. But the repetition across unrelated legal topics is not an isolated wording error: **TVC repeatedly turns optional professional assistance into an apparent legal mandate.**
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -9122,13 +9132,13 @@ A business promoting professional legal referrals should not present optional le
 
 [^397]: https://www.dol.go.th/nongbualamphu/press-release/news-1791946904/ — Department of Lands, October 2026 explanation distinguishing inheritance-transfer procedures with an administrator from those without one.
 
-[^398]: https://tvc.co.th/guides/litigation-labor-litigation — Thai Visa Centre, *Labor Litigation: Guide for Foreigners*, reviewed June 2026.
+[^398]: `https://tvc.co.th/guides/litigation-labor-litigation` — Thai Visa Centre, *Labor Litigation: Guide for Foreigners*, reviewed June 2026.
 
 [^399]: https://lawplayer.com/th/act/pythainlp_736e0c48e6681788 — Act on the Establishment of Labour Courts and Labour Court Procedure, Sections 27 and 35.
 
 [^400]: https://cacj-ajp.org/thailand/judiciary/description-of-courts/courts-of-appeal/ — Council of ASEAN Chief Justices, Thailand's Court of Appeal for Specialized Cases and Labour Case Division.
 
-[^401]: https://tvc.co.th/guides/litigation-consumer-protection-thailand — Thai Visa Centre, *Consumer Protection Act: Guide for Foreigners*.
+[^401]: `https://tvc.co.th/guides/litigation-consumer-protection-thailand` — Thai Visa Centre, *Consumer Protection Act: Guide for Foreigners*.
 
 [^402]: https://lawplayer.com/th/act/ocs-%E0%B8%A70076-1B-0002/section/chapter-2.section-1 — Consumer Case Procedure Act B.E. 2551 (2008), Sections 18–20.
 
@@ -9226,7 +9236,7 @@ A business promoting professional legal referrals should not present optional le
 
 [^449]: https://www.louisgrouplaw.com/en/insight/thailand-civil-litigation-debt-recovery/ — Louis Group, *Debt Recovery in Thailand 2026*, explaining enforcement after judgment and the absence of an automatic stay pending appeal.
 
-[^450]: https://tvc.co.th/guides/legal-services-power-of-attorney-in-thailand — Thai Visa Centre, *Power of Attorney in Thailand: Property, Court, and Corporate Uses*, reviewed June 2026.
+[^450]: `https://tvc.co.th/guides/legal-services-power-of-attorney-in-thailand` — Thai Visa Centre, *Power of Attorney in Thailand: Property, Court, and Corporate Uses*, reviewed June 2026.
 
 [^451]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-agency-section-797-806/ — Thailand Civil and Commercial Code, Sections 797–801, governing agency appointments, written authorization, and special powers.
 
@@ -9242,7 +9252,7 @@ A business promoting professional legal referrals should not present optional le
 
 [^457]: https://www.mfa.go.th/en/content/apostille-convention-eng — Thailand Ministry of Foreign Affairs, confirmation of June 30, 2026 accession and scheduled February 28, 2027 entry into force.
 
-[^458]: https://tvc.co.th/guides/legal-services-pdpa-consulting-and-training-services-thailand — Thai Visa Centre, *PDPA Consulting and Training in Thailand: Compliance for Employers and Apps*, reviewed June 2026; statements about mandatory licensed attorneys and recommended compliance activities.
+[^458]: `https://tvc.co.th/guides/legal-services-pdpa-consulting-and-training-services-thailand` — Thai Visa Centre, *PDPA Consulting and Training in Thailand: Compliance for Employers and Apps*, reviewed June 2026; statements about mandatory licensed attorneys and recommended compliance activities.
 
 [^459]: https://www.mdes.go.th/law/detail/3577-Personal-Data-Protection-Act-B-E--2562--201920192026-01-12 — Thailand Ministry of Digital Economy and Society, official publication of the Personal Data Protection Act B.E. 2562 (2019), particularly Sections 37, 39, 40, 41, and 42.
 
@@ -9256,7 +9266,7 @@ A business promoting professional legal referrals should not present optional le
 
 [^464]: https://osos.boi.go.th/EN/faq-group/8/Document-required-for-Work-Permit/ — Thailand Board of Investment, documentation for work-permit submissions through authorized representatives.
 
-[^465]: https://tvc.co.th/guides/legal-last-will-and-testament — Thai Visa Centre, *Last Will and Testament in Thailand*, reviewed June 2026, stating that estate planning and probate require licensed Thai attorneys while acknowledging holographic wills.
+[^465]: `https://tvc.co.th/guides/legal-last-will-and-testament` — Thai Visa Centre, *Last Will and Testament in Thailand*, reviewed June 2026, stating that estate planning and probate require licensed Thai attorneys while acknowledging holographic wills.
 
 [^466]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-wills-section-1655-1672/ — Thailand Civil and Commercial Code, Sections 1656–1658, providing for ordinary written, holographic, and public wills without a blanket lawyer requirement.
 
@@ -9266,7 +9276,7 @@ A business promoting professional legal referrals should not present optional le
 
 [^469]: https://www.bora.dopa.go.th/callcenter1548/guidebook — Thailand Department of Provincial Administration, official marriage-registration guidance, listing prenuptial agreements as documents to present when applicable and identifying witnesses and other required documents.
 
-[^470]: https://tvc.co.th/guides/contact-a-corporate-lawyer — Thai Visa Centre, *Contact a Corporate Lawyer in Thailand*, marked reviewed June 2026, asserting that company registration, BOI structuring, mergers, and shareholder matters require licensed legal counsel.
+[^470]: `https://tvc.co.th/guides/contact-a-corporate-lawyer` — Thai Visa Centre, *Contact a Corporate Lawyer in Thailand*, marked reviewed June 2026, asserting that company registration, BOI structuring, mergers, and shareholder matters require licensed legal counsel.
 
 [^471]: https://www.dbd.go.th/en/hotService/online_service — Thailand Department of Business Development, official online services including DBD Biz Regist digital juristic-person registration.
 
@@ -9276,7 +9286,7 @@ A business promoting professional legal referrals should not present optional le
 
 [^474]: https://boi-investment.boi.go.th/public/index_en.php — Thailand Board of Investment, official e-Investment Promotion registration and application portal.
 
-[^475]: https://tvc.co.th/guides/contact-a-thai-family-lawyer — Thai Visa Centre, *Contact a Thai Family Lawyer*, reviewed June 2026, stating that marriage registration, prenuptials, custody, and divorce require licensed Thai family-law counsel.
+[^475]: `https://tvc.co.th/guides/contact-a-thai-family-lawyer` — Thai Visa Centre, *Contact a Thai Family Lawyer*, reviewed June 2026, stating that marriage registration, prenuptials, custody, and divorce require licensed Thai family-law counsel.
 
 [^476]: https://www.bora.dopa.go.th/callcenter1548/guidebook — Thailand Department of Provincial Administration, official marriage-registration procedures, documentary requirements, and fee schedule confirming free registration at district offices.
 
