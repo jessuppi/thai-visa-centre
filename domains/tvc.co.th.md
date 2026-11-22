@@ -2832,7 +2832,7 @@ Finally, the company should distinguish eligibility screening from formal consul
 
 The discrepancy raises legitimate questions about whether prospective customers receive an accurate explanation of the authority, speed, and certainty of the immigration services being advertised.
 
-## Thai Visa Centre's 2026 Work-Permit Guides Omit Thailand's New Electronic System
+## TVC's Work-Permit Guides Misstate Filing Procedures and Legal Requirements
 
 Thai Visa Centre advertises professional work-permit assistance for foreign employees, company directors, and employers operating in Thailand.
 
@@ -3154,7 +3154,7 @@ These findings concern TVC's published guidance; they do not establish that the 
 Thai Visa Centre should remove its blanket statement that work permits require Thai lawyers, describe the government-authorized application routes, and distinguish mandatory employer and employee obligations from optional legal assistance.
 
 
-## Work Permit Guide Repeats Restrictions Abolished by Thailand's 2018 Labour Reform
+### Work Permit Guide Repeats Restrictions Abolished by Thailand's 2018 Labour Reform
 
 Thai Visa Centre's *Thailand Work Permit Basics*, marked reviewed June 2026, publishes outdated instructions about carrying work permits, changing job duties, and working at different locations.[^504]
 
@@ -3162,7 +3162,7 @@ The guide describes restrictions substantially changed by Thailand's 2018 amendm
 
 **These are not recent or obscure regulatory changes. The reforms took effect more than eight years before TVC's stated review date.**
 
-### Physical Work-Permit Carrying Requirement Was Removed
+#### Physical Work-Permit Carrying Requirement Was Removed
 
 TVC instructs foreign employees:
 
@@ -3182,7 +3182,7 @@ Section 120 establishes a maximum fine of **5,000 baht** for failing to satisfy 
 
 **TVC identifies the wrong obligation and the wrong penalty.**
 
-### Former Restrictions on Work Duties and Locations Were Repealed
+#### Former Restrictions on Work Duties and Locations Were Repealed
 
 The guide also insists:
 
@@ -3200,7 +3200,7 @@ Amended Section 59 instead permits qualifying work-permit holders to undertake w
 
 **An ordinary foreign worker's legal permission is no longer universally confined to one job title or one registered workplace under the former statutory restrictions.**
 
-### Employer Notification Still Applies
+#### Employer Notification Still Applies
 
 The removal of the former restrictions does not eliminate employment reporting requirements.
 
@@ -3216,7 +3216,7 @@ Those requirements should not be confused with the repealed general restrictions
 
 TVC's guide fails to explain it.
 
-### Government and Legal Sources Confirm the Changes
+#### Government and Legal Sources Confirm the Changes
 
 The amended legislation is published by Thailand's Department of Employment.[^505]
 
@@ -3226,7 +3226,7 @@ These sources establish that TVC's instructions are not simply an alternative in
 
 They repeat legal restrictions substantially changed in 2018.
 
-### Misleading Foreign Workers About Their Rights
+#### Misleading Foreign Workers About Their Rights
 
 TVC advertises work-permit coordination, renewals, employer changes, and immigration assistance.
 
@@ -3243,7 +3243,7 @@ The evidence does not establish that TVC charged particular customers for unnece
 
 It establishes that the agency publishes outdated legal instructions while marketing services intended to help foreigners comply with those same laws.
 
-### Required Corrections
+#### Required Corrections
 
 Thai Visa Centre should remove its obsolete physical-carrying requirement and correct the applicable penalty.
 
@@ -8694,10 +8694,10 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^146]: `https://tvc.co.th/visas/thailand-destination-visa-dtv`
 [^147]: `https://tvc.co.th/guides/thailand-visa-services`
 
-[^148]: https://tvc.co.th/guides/thailand-work-permit — Thai Visa Centre, *Thailand Work Permit: Requirements, Process, and Renewals*, marked reviewed June 2026.
-[^149]: https://tvc.co.th/guides/thailand-work-permit-requirements — Thai Visa Centre, *Thailand Work Permit Requirements: Documents and Checklist*, marked reviewed June 2026.
-[^150]: https://tvc.co.th/guides/thailand-work-permit-thailand — Thai Visa Centre, *Thailand Work Permit Basics: Quotas, Exceptions, and Rules*, marked reviewed June 2026.
-[^151]: https://tvc.co.th/guides/legal-the-complete-guide-to-obtaining-work-permit-in-thailand — Thai Visa Centre, *Work Permit in Thailand: Complete Legal and Immigration Guide*, marked reviewed June 2026.
+[^148]: `https://tvc.co.th/guides/thailand-work-permit` — Thai Visa Centre, *Thailand Work Permit: Requirements, Process, and Renewals*, marked reviewed June 2026.
+[^149]: `https://tvc.co.th/guides/thailand-work-permit-requirements` — Thai Visa Centre, *Thailand Work Permit Requirements: Documents and Checklist*, marked reviewed June 2026.
+[^150]: `https://tvc.co.th/guides/thailand-work-permit-thailand` — Thai Visa Centre, *Thailand Work Permit Basics: Quotas, Exceptions, and Rules*, marked reviewed June 2026.
+[^151]: `https://tvc.co.th/guides/legal-the-complete-guide-to-obtaining-work-permit-in-thailand` — Thai Visa Centre, *Work Permit in Thailand: Complete Legal and Immigration Guide*, marked reviewed June 2026.
 [^152]: https://www.mol.go.th/en/news/labour-minister-launches-e-workpermit-online-system-for-foreign-worker-registration-24-hour-nationwide-service-begins-october-13 — Ministry of Labour, October 2025, nationwide e-WorkPermit launch.
 [^153]: https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/438002 — Thailand Public Relations Department, November 4, 2025, transitional arrangements allowing qualifying paper applications.
 [^154]: https://www.forvismazars.com/th/en/insights/doing-business-in-thailand/legal/electronic-work-permit-e-wp-system — Forvis Mazars, December 2, 2025, electronic work-permit system and new card format.
@@ -9352,7 +9352,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^503]: https://ltr.boi.go.th/index.html — Thailand Board of Investment, official Long-Term Resident visa website, listing exemption from the four-Thai-employees-to-one-foreigner ratio and distinguishing work-permit eligibility across LTR categories.
 
-[^504]: https://tvc.co.th/guides/thailand-work-permit-thailand — Thai Visa Centre, *Thailand Work Permit Basics: Quotas, Exceptions, and Rules (2026)*, reviewed June 2026, including the carrying requirement, 1,000-baht fine, permit job-duty and workplace restrictions, and instructions concerning modification.
+[^504]: `https://tvc.co.th/guides/thailand-work-permit-thailand` — Thai Visa Centre, *Thailand Work Permit Basics: Quotas, Exceptions, and Rules (2026)*, reviewed June 2026, including the carrying requirement, 1,000-baht fine, permit job-duty and workplace restrictions, and instructions concerning modification.
 
 [^505]: https://www.doe.go.th/prd/assets/upload/files/legal_th/92b6c499912462207f579dea958cf8a2.pdf — Thailand Department of Employment, *Foreigners' Working Management Emergency Decree (No. 2) B.E. 2561 (2018)*, amending Sections 59 and 68, adding Section 64/2, repealing Sections 70–74, and revising work-permit compliance obligations.
 
