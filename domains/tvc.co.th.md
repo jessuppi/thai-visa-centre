@@ -7930,63 +7930,6 @@ Yet its discussion of residential lease compliance remains focused on general Ci
 Thai Visa Centre should update its publication to identify the 2025 regulations, distinguish covered rental businesses from smaller private landlords, and explain the mandatory protections governing residential lease agreements.
 
 
-## Civil Litigation Guide Misrepresents Recovery of Court Fees
-
-Thai Visa Centre's *Civil Cases: Guide for Foreigners*, marked reviewed June 2026, misrepresents Thailand's rules governing litigation expenses by suggesting that successful plaintiffs generally cannot recover their court fees.[^436]
-
-The guidance contradicts Section 161 of Thailand's Civil Procedure Code and the cost-recovery principles established under Thai civil procedure.
-
-### Incorrectly Claims Court Fees Are Rarely Recoverable
-
-In its frequently asked questions, TVC states:
-
-> Factor fees into settlement math because they are rarely fully recoverable even if you win.
-
-Elsewhere, the same publication warns readers about spending money on filing fees that opposing parties may never repay.[^436]
-
-These statements present limited recovery as the normal outcome, without explaining the statutory rule governing responsibility for litigation costs.
-
-**Thailand does not operate under a general rule requiring successful civil litigants to absorb their own court fees.**
-
-### Section 161 Establishes the Losing-Party-Pays Principle
-
-Section 161 of Thailand's Civil Procedure Code expressly establishes that the unsuccessful party is generally responsible for court fees and litigation costs.[^437]
-
-The legislation also gives courts discretion to allocate costs differently based on the circumstances, including the reasonableness and good faith of the parties' conduct.
-
-This means a successful litigant may recover court fees through a costs order, while the amount and allocation remain subject to judicial determination.
-
-International law firm DLA Piper confirms that court fees are recoverable in principle when a civil claim succeeds.[^438]
-
-Tilleke & Gibbins likewise identifies the losing-party-pays principle as Thailand's general rule for litigation costs.[^439]
-
-**TVC's suggestion that court fees are rarely fully recoverable reverses the statutory starting position.**
-
-### Confuses Court Fees With Private Legal Expenses
-
-A critical distinction exists between court fees and the actual fees paid to privately retained lawyers.
-
-Thai courts may award legal costs against the losing party, but recoverable attorney fees are commonly limited by statutory schedules and judicial assessment.
-
-Consequently, even successful litigants may recover only a fraction of their actual legal representation expenses.
-
-However, this limitation does not establish that court filing fees are generally unrecoverable.
-
-**TVC's guidance fails to distinguish court fees, recoverable litigation costs, and private attorney fees**, leaving readers with a misleading picture of the financial consequences of civil litigation.
-
-### Financial Consequences for Foreign Litigants
-
-Foreign investors, tenants, creditors, and business owners assessing whether to pursue civil claims need accurate information about potential litigation costs.
-
-Misrepresenting cost recovery can distort settlement calculations and discourage claimants from pursuing legitimate remedies.
-
-The problem is especially relevant because Thai Visa Centre advertises referrals to licensed litigation lawyers while publishing procedural guidance for prospective claimants.
-
-**A business presenting itself as a source of professional legal guidance should accurately explain the statutory cost-recovery framework rather than suggest that winning parties ordinarily cannot recover their court fees.**
-
-Thai Visa Centre should correct its civil litigation guide to explain Section 161, distinguish court fees from privately incurred attorney expenses, and acknowledge the judiciary's discretion when allocating costs.
-
-
 ## TVC's Civil Litigation Guides Misstate Court Procedure, Representation, Appeals, and Enforcement
 
 TVC's *Civil Case Filing in Thailand*, *Civil Procedure in Thailand*, *Trial, Appeals, and Execution of Judgment in Thailand*, and *Debt Recovery: Guide for Foreigners* give materially inaccurate instructions about court filing, legal representation, appeal deadlines, and enforcement.[^440][^441][^446][^489][^512]
@@ -8225,6 +8168,303 @@ It establishes that the agency's published guide contains an elementary case-num
 **Thai Visa Centre should correct its black-versus-red case-number explanation, retract its assertion that physical filing dominates, and identify the judiciary's applicable electronic-filing platforms and January 2026 case-specific requirements.**
 
 An agency advertising litigation referrals should accurately explain how Thai courts receive, register, and track proceedings.
+
+## TVC's Civil Litigation Guides Misstate Court Costs, Procedure, Representation, Appeals, and Enforcement
+
+TVC's *Civil Cases: Guide for Foreigners*, *Civil Case Filing in Thailand*, *Civil Procedure in Thailand*, *Trial, Appeals, and Execution of Judgment in Thailand*, and *Debt Recovery: Guide for Foreigners* publish inaccurate instructions about court costs, court filing, legal representation, appeal deadlines, and judgment enforcement.[^436][^440][^441][^446][^489][^512]
+
+The findings below compare those publications' instructions with the governing statutes and court procedures.
+
+### Civil Case Filing and Civil Procedure Guides Falsely Present Lawyers as Mandatory
+
+The *Civil Case Filing in Thailand* guide states:
+
+> Court filing requires licensed Thai attorneys.
+
+Its introductory explanation similarly insists that foreign claimants cannot file effectively without a licensed Thai advocate. The guide's procedural instructions describe lawyers preparing complaints, submitting documents, and conducting all courtroom advocacy.[^440]
+
+The separate *Civil Procedure in Thailand* guide goes further:
+
+> Foreigners must operate through licensed Thai advocates.
+
+It repeats this supposed requirement throughout its discussion of civil litigation.[^441]
+
+**These statements turn optional professional representation into a purported legal obligation.**
+
+### Section 60 Expressly Permits Self-Representation
+
+Section 60 of Thailand's Civil Procedure Code provides that parties may conduct their own cases and undertake procedural steps personally or appoint legal counsel to act on their behalf.[^442]
+
+The provision establishes self-representation and representation through appointed lawyers as alternative lawful methods of conducting civil proceedings.
+
+It does not impose a blanket requirement that foreign plaintiffs or defendants hire Thai lawyers.
+
+Foreign litigants must comply with Thai procedural rules, including language, filing, evidence, and court requirements. Those obligations do not eliminate their statutory right to conduct their own cases.
+
+**TVC's categorical claims about mandatory legal representation directly contradict the governing legislation.**
+
+### TVC Contradicts Itself in the Same Guide
+
+Remarkably, the *Civil Procedure in Thailand* guide acknowledges the correct legal position elsewhere.
+
+Its frequently asked questions include:
+
+**Can I represent myself?**
+
+The answer begins:
+
+> Legally possible but strongly discouraged for foreigners.
+
+This admission directly contradicts the same publication's repeated insistence that foreigners must use licensed Thai advocates.[^441]
+
+The contradiction is especially revealing because both statements appear in a guide supposedly reviewed for legal accuracy in June 2026.
+
+**TVC acknowledges that self-representation is lawful in one paragraph while presenting legal representation as mandatory elsewhere on the same page.**
+
+
+
+### Trial and Appeals Guide Falsely Says Lawyers Are Required
+
+The *Trial, Appeals, and Execution of Judgment in Thailand* guide extends TVC's false mandatory-lawyer claims to appeals and post-judgment enforcement. Its FAQ states: “Appeals and execution require licensed Thai attorneys.”[^512]
+
+Section 60 permits parties to conduct their own cases and take procedural steps personally, or appoint one or more attorneys.[^442] It imposes no blanket lawyer requirement for civil appeals or execution.
+
+The claim repeats the same misrepresentation already documented in TVC's *Civil Case Filing in Thailand* and *Civil Procedure in Thailand* guides.
+
+### Trial and Appeals Guide Repeats the False Enforcement Instruction
+
+The guide's checklist warns readers against filing for execution while an appeal is pending, its timeline says execution begins only after final judgment, and its FAQ says execution generally waits until judgment is final.[^512]
+
+
+
+### Trial Guide Misstates the Appeal Deadline and Extension Rule
+
+The guide describes the ordinary civil appeal period as 30 days, refers to judgment delivery or the date printed on a judgment copy as the trigger, and says foreigners receive “no extension” if they miss the deadline.[^512]
+
+Section 229 sets the ordinary appeal period at **one month from pronouncement of the judgment or order**. Section 193/5 requires periods expressed in months to be calculated according to the calendar.[^513][^514] A fixed 30-day count and a delivery-date trigger do not accurately state that rule.
+
+The guide's categorical claim that foreigners cannot obtain an extension is also false. Section 23 authorizes courts to extend procedural deadlines, including appeal deadlines, in special circumstances. As a rule, the request must be made before the deadline expires; force majeure is an exception.[^515] An extension is not automatic, but Section 23 contains no bar for foreign litigants.
+
+### Civil Procedure Guide Repeats the False 30-Day Deadline
+
+*Civil Procedure in Thailand* independently says the judgment copy bears the date that starts the appeal period, “often thirty days.” It also tells readers to file immediately after judgment delivery and describes the deadline as running from delivery.[^441]
+
+Section 229 instead sets the ordinary appeal period at one month from pronouncement, with calendar-based calculation under Section 193/5.[^513][^514] TVC therefore repeats the inaccurate deadline and trigger in separate litigation guides.
+
+The combined instructions risk causing readers to calculate the wrong filing date or believe that no extension can be requested, while presenting lawyer representation as compulsory where Section 60 permits self-representation.
+
+### Financial Consequences of Misstating Representation Requirements
+
+The distinction has immediate financial consequences.
+
+Foreign residents, property owners, creditors, and business operators may believe they cannot initiate or defend ordinary civil proceedings without first paying for professional legal representation.
+
+Thai Visa Centre promotes referrals to licensed litigation lawyers while publishing guidance that exaggerates the necessity of hiring those professionals.
+
+Although representation can be valuable in complicated disputes, it is not a universal prerequisite for civil litigation.
+
+**A commercial business advertising legal referrals should not misrepresent optional paid legal representation as a statutory requirement.**
+
+Thai Visa Centre should correct these civil litigation guides: acknowledge self-representation under Section 60, state the appeal deadline and extension rules accurately, and stop presenting a pending appeal as an automatic bar to enforcement.
+
+
+### Debt-Recovery Guide Falsely Requires Appeals to Finish Before Judgment Enforcement
+
+Thai Visa Centre's *Debt Recovery: Guide for Foreigners*, marked reviewed June 2026, incorrectly tells creditors that they must wait for appeal periods to expire or appeals to conclude before enforcing civil court judgments.[^446]
+
+This advice directly contradicts Section 231 of Thailand's Civil Procedure Code, which establishes that filing an appeal does not automatically suspend enforcement of a judgment.
+
+#### Incorrectly Claims Appeals Must Be Resolved Before Enforcement
+
+In its explanation of the debt-recovery process, TVC states:
+
+> Appeal periods must expire or be resolved before execution begins.
+
+The same instruction appears again in the publication's practical action checklist.[^446]
+
+The guide presents this as a mandatory procedural step between obtaining judgment and commencing enforcement against a debtor's assets.
+
+**There is no general requirement under Thai civil procedure that creditors wait until all appeals have concluded before enforcing a judgment.**
+
+#### Section 231 Expressly Rejects Automatic Suspension
+
+Section 231 of Thailand's Civil Procedure Code provides that filing an appeal does not suspend enforcement of the judgment or order of the court of first instance.[^447]
+
+Instead, an appellant seeking to prevent enforcement must pursue the appropriate procedure for obtaining a stay of execution.
+
+The appellate court may grant a stay where justified, potentially subject to conditions.
+
+Depending on the circumstances, the court may require the appellant to deposit funds, provide security, or give undertakings concerning the disposal of assets.
+
+The law also provides mechanisms involving payment or security sufficient to cover the judgment debt and associated costs.
+
+**The critical distinction is between an appeal, which does not automatically prevent enforcement, and an effective stay of execution, which can suspend enforcement.**
+
+TVC's guide does not explain this distinction.
+
+#### Thai Litigation Practitioners Confirm the Rule
+
+The law firm's published translation of Section 231, reproduced by WSR Law Group, confirms that an appeal does not itself prevent enforcement.[^448]
+
+Louis Group's 2026 debt-recovery guidance independently explains that a creditor may pursue enforcement after judgment where the debtor has failed to comply and no applicable stay prevents execution.[^449]
+
+The firm also identifies the separate procedural steps required to obtain a writ of execution and pursue seizure or attachment through Thailand's Legal Execution Department.
+
+Therefore, a favorable judgment does not mean money is collected automatically, but neither does a pending appeal necessarily prevent collection.
+
+#### Misleading Creditors About Their Enforcement Rights
+
+TVC's incorrect instruction could cause creditors to delay enforcement unnecessarily while debtors continue holding or disposing of assets.
+
+That delay matters particularly in disputes involving insolvent businesses, unpaid commercial invoices, investment losses, and debtors who may move money or property before enforcement.
+
+An unsuccessful defendant's appeal might continue for months or years, but **the existence of that appeal alone does not automatically deprive the successful claimant of enforcement rights**.
+
+The practical consequences of waiting can be substantial if assets disappear or become more difficult to locate.
+
+#### Another Error in a Supposedly Reviewed Legal Guide
+
+Thai Visa Centre advertises referrals to licensed Thai litigation lawyers while publishing instructions that misstate a fundamental rule of civil procedure.
+
+Its debt-recovery publication acknowledges that winning a judgment is insufficient without execution, yet simultaneously instructs creditors to delay that execution until appeal proceedings are complete.
+
+**Thai Visa Centre should correct its debt-recovery guide to explain Section 231, distinguish appeals from stays of execution, and identify the procedures for enforcing first-instance judgments while an appeal is pending.**
+
+This is a basic procedural distinction that a publication offering guidance on Thai debt recovery should not misrepresent.
+
+
+### Civil Case Filing Guide Misidentifies Case Numbers and Omits Mandatory Electronic Procedures
+
+Thai Visa Centre's *Civil Case Filing in Thailand*, marked reviewed June 2026, contains basic errors about how Thai courts register lawsuits and how litigants submit documents.
+
+The guide incorrectly identifies the case number assigned when proceedings begin, calls physical courthouse submission the dominant filing method, and describes electronic filing as limited without explaining the judiciary's established digital procedures.[^489]
+
+**These discrepancies concern fundamental aspects of Thailand's civil justice system, not obscure technicalities.**
+
+#### Confuses Black and Red Case Numbers
+
+TVC's filing instructions state:
+
+> Court registers the case and issues a red case number.
+
+This reverses the terminology ordinarily used by Thailand's judiciary.
+
+When a court registers a new case, it assigns a **black case number (คดีหมายเลขดำ)**. A **red case number (คดีหมายเลขแดง)** is assigned when the case is decided or otherwise formally disposed of.
+
+The judiciary's own case-tracking portal identifies the number used to search existing proceedings as the *black case number*, confirming the initial registration terminology.[^490]
+
+**A newly registered lawsuit does not ordinarily receive a red case number merely because a complaint has been filed.**
+
+Case-number terminology matters when litigants contact the court, track hearings, request records, and communicate with counsel.
+
+#### Physical Filing Is Not the Dominant Procedure TVC Describes
+
+TVC's procedural summary states:
+
+> Physical filing at court is dominant. E-filing is limited. Your lawyer handles submission.
+
+It subsequently instructs plaintiffs to pay court fees at the filing counter and submit complaints through a lawyer in person.[^489]
+
+Thailand's Office of the Judiciary, however, has operated e-Filing for years. In its January 2026 announcement about a major platform upgrade, the judiciary reported that **more than 85% of civil cases were already being filed electronically** through its existing e-Filing infrastructure.[^491]
+
+That official statistic directly contradicts TVC's categorical assertion that physical filing dominates, although individual court procedures and eligible case types still vary.
+
+#### The Judiciary Introduced an Upgraded System in January 2026
+
+On January 5, 2026, Thailand's Office of the Judiciary launched an upgraded e-Filing platform with enhanced identity verification, electronic forms, notifications of court orders and hearings, and expanded digital case management.[^491][^492]
+
+The initial rollout covered two specific categories:
+
+- Consumer cases in which business operators bring claims before courts authorized to hear consumer disputes.
+- Applications for recognition of a child where the mother consents, heard in juvenile and family courts.
+
+For **consumer cases filed by business operators from January 5, 2026**, the judiciary directed new filings through the upgraded e-Filing system. Cases already filed before that date could continue using the previous e-Filing v.3 system until completion.[^491]
+
+For qualifying child-recognition cases, the upgraded electronic channel was introduced as an **additional option**, rather than a universal electronic-filing mandate.
+
+**These distinctions are essential: not every court proceeding became subject to compulsory electronic filing, but certain newly filed consumer claims did.**
+
+#### Electronic Preparation and Payment Follow Different Schedules
+
+The judiciary's announcement also distinguishes between preparing an electronic complaint and completing payment or submission steps.
+
+Applicants can enter and save draft complaint information electronically at any time, but payments must be completed during official working hours, generally **8:30 a.m. to 4:30 p.m.** Certain other electronic submissions likewise remain subject to official service hours.[^491]
+
+TVC's blanket instruction to pay at a physical courthouse counter omits these procedures and could mislead applicants about how and when to complete a valid filing.
+
+The changes were already in effect when TVC's guide was supposedly reviewed in June 2026.
+
+#### Consequences for Litigants
+
+Black and red case numbers identify different procedural stages. Confusing them can complicate case tracking and communications with courts.
+
+Likewise, incorrectly describing physical filing as dominant and omitting electronic-filing requirements can cause unnecessary courthouse visits, incorrect submission preparations, and confusion about the correct channel.
+
+The evidence does not establish that TVC caused individual customers to miss deadlines or that its own lawyers filed cases improperly.
+
+It establishes that the agency's published guide contains an elementary case-numbering error and overlooks substantial procedures publicly confirmed by the judiciary.
+
+**Thai Visa Centre should correct its black-versus-red case-number explanation, retract its assertion that physical filing dominates, and identify the judiciary's applicable electronic-filing platforms and January 2026 case-specific requirements.**
+
+An agency advertising litigation referrals should accurately explain how Thai courts receive, register, and track proceedings.
+
+
+### Civil Litigation Guide Misrepresents Recovery of Court Fees
+
+Thai Visa Centre's *Civil Cases: Guide for Foreigners*, marked reviewed June 2026, misrepresents Thailand's rules governing litigation expenses by suggesting that successful plaintiffs generally cannot recover their court fees.[^436]
+
+The guidance contradicts Section 161 of Thailand's Civil Procedure Code and the cost-recovery principles established under Thai civil procedure.
+
+#### Incorrectly Claims Court Fees Are Rarely Recoverable
+
+In its frequently asked questions, TVC states:
+
+> Factor fees into settlement math because they are rarely fully recoverable even if you win.
+
+Elsewhere, the same publication warns readers about spending money on filing fees that opposing parties may never repay.[^436]
+
+These statements present limited recovery as the normal outcome, without explaining the statutory rule governing responsibility for litigation costs.
+
+**Thailand does not operate under a general rule requiring successful civil litigants to absorb their own court fees.**
+
+#### Section 161 Establishes the Losing-Party-Pays Principle
+
+Section 161 of Thailand's Civil Procedure Code expressly establishes that the unsuccessful party is generally responsible for court fees and litigation costs.[^437]
+
+The legislation also gives courts discretion to allocate costs differently based on the circumstances, including the reasonableness and good faith of the parties' conduct.
+
+This means a successful litigant may recover court fees through a costs order, while the amount and allocation remain subject to judicial determination.
+
+International law firm DLA Piper confirms that court fees are recoverable in principle when a civil claim succeeds.[^438]
+
+Tilleke & Gibbins likewise identifies the losing-party-pays principle as Thailand's general rule for litigation costs.[^439]
+
+**TVC's suggestion that court fees are rarely fully recoverable reverses the statutory starting position.**
+
+#### Confuses Court Fees With Private Legal Expenses
+
+A critical distinction exists between court fees and the actual fees paid to privately retained lawyers.
+
+Thai courts may award legal costs against the losing party, but recoverable attorney fees are commonly limited by statutory schedules and judicial assessment.
+
+Consequently, even successful litigants may recover only a fraction of their actual legal representation expenses.
+
+However, this limitation does not establish that court filing fees are generally unrecoverable.
+
+**TVC's guidance fails to distinguish court fees, recoverable litigation costs, and private attorney fees**, leaving readers with a misleading picture of the financial consequences of civil litigation.
+
+#### Financial Consequences for Foreign Litigants
+
+Foreign investors, tenants, creditors, and business owners assessing whether to pursue civil claims need accurate information about potential litigation costs.
+
+Misrepresenting cost recovery can distort settlement calculations and discourage claimants from pursuing legitimate remedies.
+
+The problem is especially relevant because Thai Visa Centre advertises referrals to licensed litigation lawyers while publishing procedural guidance for prospective claimants.
+
+**A business presenting itself as a source of professional legal guidance should accurately explain the statutory cost-recovery framework rather than suggest that winning parties ordinarily cannot recover their court fees.**
+
+Thai Visa Centre should correct its civil litigation guide to explain Section 161, distinguish court fees from privately incurred attorney expenses, and acknowledge the judiciary's discretion when allocating costs.
+
 
 ## Notary Guide Omits Mandatory Specialist Registration for Notarial Services Attorneys
 
@@ -9207,7 +9447,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^435]: https://oneasia.legal/en/6690 — One Asia Lawyers, December 2025 analysis of mandatory residential lease terms, prohibited clauses, and penalties under the 2025 regulations.
 
-[^436]: https://tvc.co.th/guides/litigation-civil-case-thailand — Thai Visa Centre, *Civil Cases: Guide for Foreigners*, reviewed June 2026.
+[^436]: `https://tvc.co.th/guides/litigation-civil-case-thailand` — Thai Visa Centre, *Civil Cases: Guide for Foreigners*, reviewed June 2026.
 
 [^437]: https://wsrlawgroup.com/publications/law-library/thailand-civil-procedure-code/book-1-general-provisions/ — Thailand Civil Procedure Code, Section 161, responsibility for court fees and litigation costs.
 
