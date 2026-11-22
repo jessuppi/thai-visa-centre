@@ -7987,11 +7987,11 @@ The problem is especially relevant because Thai Visa Centre advertises referrals
 Thai Visa Centre should correct its civil litigation guide to explain Section 161, distinguish court fees from privately incurred attorney expenses, and acknowledge the judiciary's discretion when allocating costs.
 
 
-## TVC Litigation Guides Misstate Representation, Appeal, and Enforcement Rules
+## TVC's Civil Litigation Guides Misstate Court Procedure, Representation, Appeals, and Enforcement
 
-Thai Visa Centre's *Civil Case Filing in Thailand*, *Civil Procedure in Thailand*, and *Trial, Appeals, and Execution of Judgment in Thailand* guides make false categorical claims about lawyer requirements, appeal deadlines, extensions, and judgment enforcement.[^440][^441][^512]
+TVC's *Civil Case Filing in Thailand*, *Civil Procedure in Thailand*, *Trial, Appeals, and Execution of Judgment in Thailand*, and *Debt Recovery: Guide for Foreigners* give materially inaccurate instructions about court filing, legal representation, appeal deadlines, and enforcement.[^440][^441][^446][^489][^512]
 
-The findings below compare TVC's claims with the governing rules, including its repeated instruction that creditors must wait for enforcement until an appeal concludes.
+The findings below compare those publications' instructions with the governing statutes and court procedures.
 
 ### Civil Case Filing and Civil Procedure Guides Falsely Present Lawyers as Mandatory
 
@@ -8151,7 +8151,7 @@ Its debt-recovery publication acknowledges that winning a judgment is insufficie
 This is a basic procedural distinction that a publication offering guidance on Thai debt recovery should not misrepresent.
 
 
-## Civil Case Filing Guide Misidentifies Case Numbers and Omits Mandatory Electronic Procedures
+### Civil Case Filing Guide Misidentifies Case Numbers and Omits Mandatory Electronic Procedures
 
 Thai Visa Centre's *Civil Case Filing in Thailand*, marked reviewed June 2026, contains basic errors about how Thai courts register lawsuits and how litigants submit documents.
 
@@ -8159,7 +8159,7 @@ The guide incorrectly identifies the case number assigned when proceedings begin
 
 **These discrepancies concern fundamental aspects of Thailand's civil justice system, not obscure technicalities.**
 
-### Confuses Black and Red Case Numbers
+#### Confuses Black and Red Case Numbers
 
 TVC's filing instructions state:
 
@@ -8175,7 +8175,7 @@ The judiciary's own case-tracking portal identifies the number used to search ex
 
 Case-number terminology matters when litigants contact the court, track hearings, request records, and communicate with counsel.
 
-### Physical Filing Is Not the Dominant Procedure TVC Describes
+#### Physical Filing Is Not the Dominant Procedure TVC Describes
 
 TVC's procedural summary states:
 
@@ -8187,7 +8187,7 @@ Thailand's Office of the Judiciary, however, has operated e-Filing for years. In
 
 That official statistic directly contradicts TVC's categorical assertion that physical filing dominates, although individual court procedures and eligible case types still vary.
 
-### The Judiciary Introduced an Upgraded System in January 2026
+#### The Judiciary Introduced an Upgraded System in January 2026
 
 On January 5, 2026, Thailand's Office of the Judiciary launched an upgraded e-Filing platform with enhanced identity verification, electronic forms, notifications of court orders and hearings, and expanded digital case management.[^491][^492]
 
@@ -8202,7 +8202,7 @@ For qualifying child-recognition cases, the upgraded electronic channel was intr
 
 **These distinctions are essential: not every court proceeding became subject to compulsory electronic filing, but certain newly filed consumer claims did.**
 
-### Electronic Preparation and Payment Follow Different Schedules
+#### Electronic Preparation and Payment Follow Different Schedules
 
 The judiciary's announcement also distinguishes between preparing an electronic complaint and completing payment or submission steps.
 
@@ -8212,7 +8212,7 @@ TVC's blanket instruction to pay at a physical courthouse counter omits these pr
 
 The changes were already in effect when TVC's guide was supposedly reviewed in June 2026.
 
-### Consequences for Litigants
+#### Consequences for Litigants
 
 Black and red case numbers identify different procedural stages. Confusing them can complicate case tracking and communications with courts.
 
@@ -9313,7 +9313,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^488]: https://www.tilleke.com/insights/franchising-compliance-in-thailand-lessons-from-trade-competition-rulings/ — Tilleke & Gibbins, August 27, 2026, analyzing Trade Competition Commission decisions involving territorial encroachment and unfair franchise practices.
 
-[^489]: https://tvc.co.th/guides/thailand-law-library-legal-library-thai-civil-case-filing — Thai Visa Centre, *Civil Case Filing in Thailand: Complaint, Fees, and Service (2026)*, reviewed June 2026, describing a red case number on filing, physical submission as dominant, and e-Filing as limited.
+[^489]: `https://tvc.co.th/guides/thailand-law-library-legal-library-thai-civil-case-filing` — Thai Visa Centre, *Civil Case Filing in Thailand: Complaint, Fees, and Service (2026)*, reviewed June 2026, describing a red case number on filing, physical submission as dominant, and e-Filing as limited.
 
 [^490]: https://cios.coj.go.th/tracking/ — Thailand Office of the Judiciary, official case-tracking system, whose search form explicitly requests the black case number (หมายเลขคดีดำ).
 
