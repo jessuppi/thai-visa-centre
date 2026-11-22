@@ -7991,7 +7991,7 @@ Thai Visa Centre should correct its civil litigation guide to explain Section 16
 
 Thai Visa Centre's *Civil Case Filing in Thailand*, *Civil Procedure in Thailand*, and *Trial, Appeals, and Execution of Judgment in Thailand* guides make false categorical claims about lawyer requirements, appeal deadlines, extensions, and judgment enforcement.[^440][^441][^512]
 
-The findings below group the claims by guide and statutory issue. The separate debt-recovery investigation below gives the full Section 231 analysis of TVC's instruction to wait until appeals end before enforcing a judgment.
+The findings below compare TVC's claims with the governing rules, including its repeated instruction that creditors must wait for enforcement until an appeal concludes.
 
 ### Civil Case Filing and Civil Procedure Guides Falsely Present Lawyers as Mandatory
 
@@ -8053,7 +8053,7 @@ The claim repeats the same misrepresentation already documented in TVC's *Civil 
 
 The guide's checklist warns readers against filing for execution while an appeal is pending, its timeline says execution begins only after final judgment, and its FAQ says execution generally waits until judgment is final.[^512]
 
-This repeats the instruction documented in the separate debt-recovery investigation below. That section sets out the Section 231 conflict and the consequences of telling creditors to wait.
+
 
 ### Trial Guide Misstates the Appeal Deadline and Extension Rule
 
@@ -8085,6 +8085,70 @@ Although representation can be valuable in complicated disputes, it is not a uni
 
 Thai Visa Centre should correct these civil litigation guides: acknowledge self-representation under Section 60, state the appeal deadline and extension rules accurately, and stop presenting a pending appeal as an automatic bar to enforcement.
 
+
+### Debt-Recovery Guide Falsely Requires Appeals to Finish Before Judgment Enforcement
+
+Thai Visa Centre's *Debt Recovery: Guide for Foreigners*, marked reviewed June 2026, incorrectly tells creditors that they must wait for appeal periods to expire or appeals to conclude before enforcing civil court judgments.[^446]
+
+This advice directly contradicts Section 231 of Thailand's Civil Procedure Code, which establishes that filing an appeal does not automatically suspend enforcement of a judgment.
+
+#### Incorrectly Claims Appeals Must Be Resolved Before Enforcement
+
+In its explanation of the debt-recovery process, TVC states:
+
+> Appeal periods must expire or be resolved before execution begins.
+
+The same instruction appears again in the publication's practical action checklist.[^446]
+
+The guide presents this as a mandatory procedural step between obtaining judgment and commencing enforcement against a debtor's assets.
+
+**There is no general requirement under Thai civil procedure that creditors wait until all appeals have concluded before enforcing a judgment.**
+
+#### Section 231 Expressly Rejects Automatic Suspension
+
+Section 231 of Thailand's Civil Procedure Code provides that filing an appeal does not suspend enforcement of the judgment or order of the court of first instance.[^447]
+
+Instead, an appellant seeking to prevent enforcement must pursue the appropriate procedure for obtaining a stay of execution.
+
+The appellate court may grant a stay where justified, potentially subject to conditions.
+
+Depending on the circumstances, the court may require the appellant to deposit funds, provide security, or give undertakings concerning the disposal of assets.
+
+The law also provides mechanisms involving payment or security sufficient to cover the judgment debt and associated costs.
+
+**The critical distinction is between an appeal, which does not automatically prevent enforcement, and an effective stay of execution, which can suspend enforcement.**
+
+TVC's guide does not explain this distinction.
+
+#### Thai Litigation Practitioners Confirm the Rule
+
+The law firm's published translation of Section 231, reproduced by WSR Law Group, confirms that an appeal does not itself prevent enforcement.[^448]
+
+Louis Group's 2026 debt-recovery guidance independently explains that a creditor may pursue enforcement after judgment where the debtor has failed to comply and no applicable stay prevents execution.[^449]
+
+The firm also identifies the separate procedural steps required to obtain a writ of execution and pursue seizure or attachment through Thailand's Legal Execution Department.
+
+Therefore, a favorable judgment does not mean money is collected automatically, but neither does a pending appeal necessarily prevent collection.
+
+#### Misleading Creditors About Their Enforcement Rights
+
+TVC's incorrect instruction could cause creditors to delay enforcement unnecessarily while debtors continue holding or disposing of assets.
+
+That delay matters particularly in disputes involving insolvent businesses, unpaid commercial invoices, investment losses, and debtors who may move money or property before enforcement.
+
+An unsuccessful defendant's appeal might continue for months or years, but **the existence of that appeal alone does not automatically deprive the successful claimant of enforcement rights**.
+
+The practical consequences of waiting can be substantial if assets disappear or become more difficult to locate.
+
+#### Another Error in a Supposedly Reviewed Legal Guide
+
+Thai Visa Centre advertises referrals to licensed Thai litigation lawyers while publishing instructions that misstate a fundamental rule of civil procedure.
+
+Its debt-recovery publication acknowledges that winning a judgment is insufficient without execution, yet simultaneously instructs creditors to delay that execution until appeal proceedings are complete.
+
+**Thai Visa Centre should correct its debt-recovery guide to explain Section 231, distinguish appeals from stays of execution, and identify the procedures for enforcing first-instance judgments while an appeal is pending.**
+
+This is a basic procedural distinction that a publication offering guidance on Thai debt recovery should not misrepresent.
 
 
 ## Civil Case Filing Guide Misidentifies Case Numbers and Omits Mandatory Electronic Procedures
@@ -8281,84 +8345,6 @@ The distinction also matters because formal notarial certification, Ministry of 
 
 A publication specifically advertising expertise in document authentication should not omit the professional credential central to the service it describes.
 
-
-## Debt-Recovery Guide Falsely Requires Appeals to Finish Before Judgment Enforcement
-
-Thai Visa Centre's *Debt Recovery: Guide for Foreigners*, marked reviewed June 2026, incorrectly tells creditors that they must wait for appeal periods to expire or appeals to conclude before enforcing civil court judgments.[^446]
-
-This advice directly contradicts Section 231 of Thailand's Civil Procedure Code, which establishes that filing an appeal does not automatically suspend enforcement of a judgment.
-
-### Incorrectly Claims Appeals Must Be Resolved Before Enforcement
-
-In its explanation of the debt-recovery process, TVC states:
-
-> Appeal periods must expire or be resolved before execution begins.
-
-The same instruction appears again in the publication's practical action checklist.[^446]
-
-The guide presents this as a mandatory procedural step between obtaining judgment and commencing enforcement against a debtor's assets.
-
-**There is no general requirement under Thai civil procedure that creditors wait until all appeals have concluded before enforcing a judgment.**
-
-### Section 231 Expressly Rejects Automatic Suspension
-
-Section 231 of Thailand's Civil Procedure Code provides that filing an appeal does not suspend enforcement of the judgment or order of the court of first instance.[^447]
-
-Instead, an appellant seeking to prevent enforcement must pursue the appropriate procedure for obtaining a stay of execution.
-
-The appellate court may grant a stay where justified, potentially subject to conditions.
-
-Depending on the circumstances, the court may require the appellant to deposit funds, provide security, or give undertakings concerning the disposal of assets.
-
-The law also provides mechanisms involving payment or security sufficient to cover the judgment debt and associated costs.
-
-**The critical distinction is between an appeal, which does not automatically prevent enforcement, and an effective stay of execution, which can suspend enforcement.**
-
-TVC's guide does not explain this distinction.
-
-### Thai Litigation Practitioners Confirm the Rule
-
-The law firm's published translation of Section 231, reproduced by WSR Law Group, confirms that an appeal does not itself prevent enforcement.[^448]
-
-Louis Group's 2026 debt-recovery guidance independently explains that a creditor may pursue enforcement after judgment where the debtor has failed to comply and no applicable stay prevents execution.[^449]
-
-The firm also identifies the separate procedural steps required to obtain a writ of execution and pursue seizure or attachment through Thailand's Legal Execution Department.
-
-Therefore, a favorable judgment does not mean money is collected automatically, but neither does a pending appeal necessarily prevent collection.
-
-### Misleading Creditors About Their Enforcement Rights
-
-TVC's incorrect instruction could cause creditors to delay enforcement unnecessarily while debtors continue holding or disposing of assets.
-
-That delay matters particularly in disputes involving insolvent businesses, unpaid commercial invoices, investment losses, and debtors who may move money or property before enforcement.
-
-An unsuccessful defendant's appeal might continue for months or years, but **the existence of that appeal alone does not automatically deprive the successful claimant of enforcement rights**.
-
-The practical consequences of waiting can be substantial if assets disappear or become more difficult to locate.
-
-### Another Error in a Supposedly Reviewed Legal Guide
-
-Thai Visa Centre advertises referrals to licensed Thai litigation lawyers while publishing instructions that misstate a fundamental rule of civil procedure.
-
-Its debt-recovery publication acknowledges that winning a judgment is insufficient without execution, yet simultaneously instructs creditors to delay that execution until appeal proceedings are complete.
-
-**Thai Visa Centre should correct its debt-recovery guide to explain Section 231, distinguish appeals from stays of execution, and identify the procedures for enforcing first-instance judgments while an appeal is pending.**
-
-This is a basic procedural distinction that a publication offering guidance on Thai debt recovery should not misrepresent.
-
-
-
-
-### The Trial Guide Repeats the Same Enforcement Instruction
-
-The *Trial, Appeals, and Execution of Judgment in Thailand* guide repeats this instruction in its checklist, timeline, and FAQ. Its other false claims about lawyer requirements and appeal deadlines are consolidated in the litigation-guide investigation above.[^512]
-
-[^512]: `https://tvc.co.th/guides/thailand-law-library-legal-library-thai-trial-proper-thai-execution-of-judgment-thai-appeals` — Thai Visa Centre, *Trial, Appeals, and Execution of Judgment in Thailand*, reviewed June 2026.
-
-[^513]: https://www.thailawonline.com/thai-civil-procedure-code/section-229/ — Thailand Civil Procedure Code, Section 229.
-
-[^514]: https://www.thailawonline.com/thai-civil-code/section-193-5/ — Thailand Civil and Commercial Code, Section 193/5.
-[^515]: https://www.thailawonline.com/thai-civil-procedure-code/section-23/ — Thailand Civil Procedure Code, Section 23, extension of procedural deadlines.
 
 ## Power-of-Attorney Guide Invents Mandatory Lawyer Requirements for Property Transfers
 
