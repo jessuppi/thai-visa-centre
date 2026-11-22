@@ -2944,6 +2944,18 @@ TVC does not explain the electronic system, distinguish normal procedures from t
 
 That omission matters particularly in publications marked as reviewed in June 2026, when the electronic system and the transitional arrangements were already established.
 
+### TVC's Paper-Filing Instructions Outlasted the General Exception
+
+The latest general extension identified in the cited sources allowed manual work-permit submissions only when technical problems prevented use of e-WorkPermit, with proof of the problem required. The deadline was October 28, 2026.[^156] That deadline has passed.
+
+TVC's four work-permit guides, each marked reviewed June 2026, describe office-based filing and physical work-permit booklets without explaining that manual submission was a limited, time-bound exception or identifying e-WorkPermit as the new system.[^148][^149][^150][^151]
+
+The Department of Employment's SupportEWP notice says its issue-reporting service closed on October 1 and directs users to report problems through e-WorkPermit.[^516]
+
+A separate government renewal window remains open through December 11, 2026 for qualifying Lao, Myanmar, and Vietnamese workers. Those applications must be submitted electronically through e-WorkPermit.[^517] That limited renewal program does not extend the general paper-filing exception.
+
+**TVC's guides leave readers with an outdated filing process and omit the deadline that ended the general paper exception.**
+
 ### The New Permit Format Creates Further Confusion
 
 In December 2025, professional-services firm Forvis Mazars analyzed the electronic work-permit system and its standardized smart-card format.[^154]
@@ -9355,3 +9367,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^510]: https://www.bora.dopa.go.th/wp-content/uploads/2026/02/mt03093_v43556.pdf — Thailand Department of Provincial Administration, published U.S. Embassy diplomatic correspondence including the May 15 and October 24, 2025 notes regarding intended discontinuation, temporary extension, and alternatives to notarized marriage affidavits.
 
 [^511]: https://fam.state.gov/fam/07FAM/07FAM1450.html — United States Department of State, *Foreign Affairs Manual*, 7 FAM 1450, guidance concerning marriage of U.S. citizens abroad and limits of consular certification of personal marital status.
+
+[^516]: `https://supportewp.doe.go.th/` — Department of Employment, SupportEWP notice that issue reporting through that service closed October 1, 2026, with users directed to e-WorkPermit.
+
+[^517]: `https://www.thaigov.go.th/th/news/168593` — Thai Government, September 7, 2026 notice on electronic work-permit renewals through December 11, 2026 for qualifying Lao, Myanmar, and Vietnamese workers.
