@@ -1168,7 +1168,7 @@ TVC should revise its family guides to distinguish individual traveler records f
 
 ## Misleading Foreign-Visa Requirements, Applications, and Fees
 
-Thai Visa Centre promotes assistance for foreign visa applications from Thailand, but several of its published service guides contradict official entry requirements, omit simpler travel authorizations, or present incorrect government fees. The problems involve both **whether an applicant needs a visa at all** and **what the correct application route or cost would be**. The examples below cover Schengen fees and overseas-territory visa procedures; visitor entry requirements for Singapore, South Korea, China, and Japan; India's fee-free e-Tourist visa; Canada's conditional eTA route; and U.S. visa fees. They distinguish exemptions from application rules and actual government charges.
+Thai Visa Centre promotes assistance for foreign visa applications from Thailand, but several of its published service guides contradict official entry requirements, omit simpler travel authorizations, or present incorrect government fees. The problems involve both **whether an applicant needs a visa at all** and **what the correct application route or cost would be**. The examples below cover Schengen fees and overseas-territory visa procedures; visitor entry requirements for Singapore, South Korea, China, and Japan; India's fee-free e-Tourist visa; Canada's conditional eTA route; French visa-application appointments; Australia's prospective marriage visa validity; UK digital immigration documentation; and U.S. visa fees. They distinguish exemptions from application rules and actual government charges.
 
 ### Schengen Area: Outdated Visa Application Fees Despite Claimed 2026 Reviews
 
@@ -1221,6 +1221,16 @@ TVC's *New Caledonia Visa Thailand* page repeatedly claims that a France-issued 
 Eligibility for an overseas-territory exemption can depend on nationality, residence status, qualifying long-stay visas, or specific multiple-entry visas. **The documented failure is TVC's identification of an ordinary Schengen visa as the correct authorization**, not a claim that every Thai passport holder must apply for a new visa.
 
 TVC advertises document preparation based on the wrong visa rules, potentially causing unnecessary applications or travel disruption. The page claims a June 2026 review while using Schengen policies for a destination outside the Schengen Area. No specific paid applications or refused entries have been established.
+
+### France: Visa Appointment Guidance Names the Wrong Provider in Thailand
+
+TVC's *French Embassy Bangkok - Apply from Thailand* guide tells applicants that most French visa applications are completed with an appointment at the **French Embassy Bangkok or VFS**, presenting VFS as an official application route.[^593]
+
+**France-Visas directs applicants in Thailand to register with TLScontact**, the designated application centre for French visa submissions in Bangkok. Its country-specific instructions identify the French Embassy and TLScontact—not VFS—as the relevant channels.[^594]
+
+A traveler following TVC's VFS instructions could search for a non-existent French application appointment there, waste time, or be misdirected to an unrelated provider. This is separate from whether the traveler requires a French visa: the documented error is **which provider receives visa applications in Thailand**.
+
+TVC claims the guide was reviewed in June 2026 and sells translation and document-preparation assistance alongside its appointment guidance. The available evidence does not establish that TVC booked incorrect appointments for particular clients.
 
 ### Singapore: Visa Requirements Invented for Thai Tourists
 
@@ -1308,6 +1318,28 @@ This is a **conditional** exemption, unlike the broader short-visit arrangements
 
 **The omission could direct eligible travelers toward more expensive government applications and professional assistance that they do not need.** It does not prove that TVC intentionally concealed eTA eligibility or sold unnecessary services to particular customers. The page's claimed June 2026 review came three years after Canada introduced the program.
 
+### Australia: Prospective Marriage Visa Timeline Incorrectly Fixed at Nine Months
+
+TVC's *Australian Visa: Apply from Thailand* guide lists the **subclass 300 Prospective Marriage visa** for fiancés marrying in Australia **“within 9 months.”**[^591]
+
+Australia's Department of Home Affairs instead states that subclass 300 visas permit eligible holders to live, work and study in Australia for **9 to 15 months from the date of grant**, and the holder must marry the specified partner while the visa remains valid.[^592] The exact period is determined by the grant, not a universal nine-month deadline.
+
+**TVC's fixed nine-month description understates the potential permitted period and omits the need to check the individual visa's expiry date.** That distinction can affect wedding planning, international travel, and when a couple must pursue a subsequent partner visa.
+
+The error is a misstatement of visa conditions, not evidence that a Thai fiancé can enter Australia without a visa or that TVC has mishandled an individual application.
+
+### United Kingdom: Obsolete BRP Collection and Physical Visa-Sticker Instructions
+
+TVC's *UK Visa from Thailand - Guide for Thai Citizens* includes **“Receive UKVI decision with vignette in passport if approved”** and **“Collect BRP in UK”** as sequential application steps.[^589]
+
+These instructions do not reflect the UK's digital immigration system. The Home Office ceased issuing new biometric residence permits (BRPs) in **October 2024** and has replaced physical immigration status documents with **eVisas**. UK government guidance updated in October 2026 confirms that eVisas are now issued to successful applicants, with physical visa vignettes no longer used as the ordinary evidence of permission following the 2026 transition.[^590]
+
+Applicants generally need a UK Visas and Immigration account to access their eVisa and ensure their current travel document is linked to the digital record. They should follow any individual grant instructions or exceptional documentation requirements rather than expect a new BRP collection appointment.
+
+**TVC's checklist directs new applicants toward an obsolete physical-document process while omitting the digital status steps that ordinarily matter in 2026.** The page advertises document preparation and claims its references were verified in June 2026, but the BRP phase-out was already established before that review.
+
+This does not establish that clients were denied boarding or charged unnecessarily. It documents outdated entry and status-management guidance on a commercial visa service page.
+
 ### United States: K-1 Fiancé and Immigrant Spouse Visa Fees
 
 Thai Visa Centre's FAQ *US Spouse Visa Cost: CR-1, IR-1, and K-1 Fees*, marked reviewed June 2026, presents a combined breakdown of U.S. government charges for couples pursuing different immigration pathways.[^251]
@@ -1384,9 +1416,9 @@ The $50 difference is relatively modest, but it illustrates the same problem: th
 
 ### Commercial Significance of the Foreign-Visa Guidance Errors
 
-Across these guides, TVC presents visas as mandatory for travelers who may qualify for visa-free entry or simpler electronic authorization, recommends a Schengen visa route that does not authorize travel to New Caledonia, quotes outdated Schengen and Indian tourist-visa fees, and conflates separate U.S. visa charges. Its advertised preparation and translation services make these errors commercially consequential.
+Across these guides, TVC presents visas as mandatory for travelers who may qualify for visa-free entry or simpler electronic authorization, recommends a Schengen route that does not authorize travel to New Caledonia, quotes outdated Schengen and Indian tourist-visa fees, misidentifies the French visa appointment provider, and gives outdated Australian and UK application instructions while conflating separate U.S. visa charges. Its advertised preparation and translation services make these errors commercially consequential.
 
-Singapore, South Korea, China, and Japan involve short-visit entry exemptions, with Japan limited to qualifying Thai IC passport holders and stays up to 15 days. Canada's eTA route depends on additional travel and visa-history criteria. India's 30-day e-Tourist visa still requires approval, but no visa fee under its specific current scheme. New Caledonia has distinct French overseas-territory visa rules. The Italy, Spain, Sweden, and Netherlands pages repeat **one EU-wide fee mistake**, while U.S. examples concern different visa-category costs and procedures.
+Singapore, South Korea, China, and Japan involve short-visit entry exemptions, with Japan limited to qualifying Thai IC passport holders and stays up to 15 days. Canada's eTA route depends on additional travel and visa-history criteria. India's 30-day e-Tourist visa still requires approval, but no visa fee under its specific current scheme. New Caledonia has distinct French overseas-territory visa rules. The Italy, Spain, Sweden, and Netherlands pages repeat **one EU-wide fee mistake**; France, Australia, and UK examples concern application procedures or visa-document validity, while U.S. examples concern different visa-category costs and procedures.
 
 **The evidence documents inaccurate commercial guidance and potential unnecessary costs; it does not establish deliberate deception, completed unnecessary sales, or incorrect charges in private consultations.** Additional verified foreign-visa errors should be incorporated as subsections here, with their individual official sources, instead of multiplying top-level investigations.
 
@@ -10662,3 +10694,15 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^587]: `https://tvc.co.th/foreign-visas/netherlands/dutch-tourist-visa-thailand` — TVC, *Netherlands Tourist Visa*, advertised €80 standard adult Schengen fee.
 
 [^588]: `https://tvc.co.th/foreign-visas/schengen/schengen-visa-italian-schengen-visa-in-thailand` — TVC, *Italian Schengen Visa*, advertised €80 standard adult fee plus service charges.
+
+[^589]: `https://tvc.co.th/foreign-visas/united-kingdom/uk-visa-from-thailand` — Thai Visa Centre, *UK Visa from Thailand - Guide for Thai Citizens*, accessed November 24, 2026; instructions to collect a UK biometric residence permit after arrival and receive a visa vignette, and claimed June 2026 verification.
+
+[^590]: https://www.gov.uk/government/publications/online-immigration-status-evisa-ukvi-account-creation-data/evisa-facts-and-figures — UK Home Office, *eVisa Facts and Figures*, updated October 12, 2026; replacement of physical immigration documents with eVisas and issue of digital status to successful applicants.
+
+[^591]: `https://tvc.co.th/foreign-visas/australia/australian-visa` — Thai Visa Centre, *Australian Visa: Apply from Thailand*, accessed November 24, 2026; prospective marriage subclass 300 described as marrying in Australia within nine months.
+
+[^592]: https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/prospective-marriage-300 — Australian Department of Home Affairs, *Prospective Marriage Visa (Subclass 300)*; visa validity of 9–15 months from grant and marriage requirement before expiry.
+
+[^593]: `https://tvc.co.th/foreign-visas/france/french-embassy-in-thailand` — Thai Visa Centre, *French Embassy Bangkok - Apply from Thailand*, accessed November 24, 2026; repeated appointment guidance naming VFS and claiming a June 2026 review.
+
+[^594]: https://france-visas.gouv.fr/en/thailande — France-Visas, *Thailand: Visa Application Procedures*; official instructions directing applicants to TLScontact for French visa applications from Thailand.
