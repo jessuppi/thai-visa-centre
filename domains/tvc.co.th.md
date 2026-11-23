@@ -3491,6 +3491,66 @@ It should also revise its descriptions of workplace and job-duty restrictions, e
 
 **A company selling work-permit assistance should not present restrictions abolished in 2018 as current legal requirements in a guide supposedly reviewed in June 2026.**
 
+## E-Visa FAQ Falsely Claims Most Thai Embassies Still Issue Physical Visa Stickers
+
+Thai Visa Centre's *Do Thai Embassies Accept Online Applications?* FAQ, marked reviewed June 2026, publishes incorrect instructions concerning the issuance of Thai electronic visas.[^530]
+
+Although the article correctly identifies Thailand's centralized e-Visa application system, its section describing procedures after approval claims that mailing passports to embassies remains common in the United States and Europe.
+
+It further states that some diplomatic missions require applicants to appear for biometric processing or physical visa stickers, while characterizing digital approvals as rare and claiming that most embassies still place visas directly into passports.
+
+**These assertions fundamentally misrepresent Thailand's stickerless e-Visa procedures, which had already operated at major diplomatic missions for several years before TVC's claimed June 2026 review.**
+
+### Official Embassy Instructions Explicitly Contradict TVC
+
+The Royal Thai Embassy in Washington confirms that its electronic visa system does not require applicants to mail passports or submit original supporting documents in person.[^531]
+
+The embassy explains that successful applicants receive their approved visas electronically and should present the confirmation to airline personnel and Thai immigration authorities.
+
+The Royal Thai Embassy in Budapest, Hungary, provides equivalent instructions.[^532]
+
+Its published guidance, updated January 13, 2026, confirms that applicants have been required to use the online e-Visa system since November 2022. It explicitly states that passports and original supporting documents are no longer submitted by post or in person.
+
+Successful applicants receive confirmation electronically.
+
+Thailand's official e-Visa platform also describes a digital approval process in which confirmation documents are delivered by email.[^533]
+
+**TVC's assertion that most embassies still affix physical visa stickers is incompatible with these official procedures. Its claim that passport mailing remains common at American and European posts is directly contradicted by the diplomatic missions responsible for those applications.**
+
+An embassy may still request additional documents or an interview in particular circumstances. Such exceptions do not make physical passport submission the ordinary method for obtaining an approved e-Visa.
+
+### The Misinformation Creates Unnecessary Document-Handling Risks
+
+Incorrectly instructing visa applicants to mail original passports has consequences beyond administrative inconvenience.
+
+Passports are essential identity and travel documents. Unnecessary international mailing creates avoidable risks of loss, theft, delayed travel, and additional courier expenses.
+
+Applicants following TVC's instructions could also attempt to send passports to diplomatic missions that explicitly no longer accept them for ordinary e-Visa processing.
+
+The error is particularly serious because TVC presents the article as guidance for applicants navigating embassy jurisdiction, document uploads, and application approval.
+
+**A commercial visa agency advertising professional assistance should not direct customers toward obsolete passport-handling procedures that the responsible embassies expressly discontinued years earlier.**
+
+### The Same FAQ Also Denies the Availability of Online Work Permits
+
+TVC's inaccurate description of electronic government services extends beyond visa issuance.
+
+In the same FAQ, its table of procedures that cannot be completed online lists work permits as unavailable electronically, directing readers instead to Thailand's Department of Employment.[^530]
+
+However, the Ministry of Labour launched its nationwide e-WorkPermit system on October 13, 2025, permitting employers and foreign workers to register and submit applications electronically.[^152]
+
+Physical identity verification and permit collection may still be required after approval, but these steps do not negate the availability of electronic applications.
+
+The existing investigation documents TVC's failure to explain e-WorkPermit in several other guides. This FAQ supplies another explicit example of the same outdated claim.
+
+**TVC therefore incorrectly describes two established electronic government procedures within a single article supposedly reviewed in June 2026.**
+
+The evidence does not establish that individual customers actually mailed unnecessary passports or paid avoidable service charges because of these instructions.
+
+It establishes that Thai Visa Centre continues publishing obsolete application procedures despite readily available government guidance contradicting them.
+
+The combination of incorrect passport-mailing instructions and the categorical denial of online work-permit applications raises substantial questions about the accuracy of TVC's claimed editorial reviews and the reliability of its professional immigration advice.
+
 ## Permanent-Residency Guides Misstate Application Dates and Filing Procedures
 
 Thai Visa Centre advertises professional assistance with Thailand's permanent-residency applications, including eligibility assessments, document preparation, and immigration coordination.
@@ -10012,3 +10072,11 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^528]: https://tm47.immigration.go.th/tm47/
 
 [^529]: `https://tvc.co.th/90day.in.th`
+
+[^530]: `https://tvc.co.th/faq/do-thai-embassies-accept-online-applications` — Thai Visa Centre, *Do Thai Embassies Accept Online Applications?*, marked reviewed June 2026.
+
+[^531]: https://washingtondc.thaiembassy.org/en/page/common-questions-faqs — Royal Thai Embassy, Washington, official visa FAQ confirming stickerless e-Visas and electronic approval.
+
+[^532]: https://budapest.thaiembassy.org/en/publicservice/%E0%B8%A7%E0%B8%B5%E0%B8%8B%E0%B9%88%E0%B8%B2-visa — Royal Thai Embassy, Budapest, visa instructions updated January 13, 2026.
+
+[^533]: https://www.thaievisa.go.th/evisaservice — Ministry of Foreign Affairs, official Thailand e-Visa application platform and approval procedure.
