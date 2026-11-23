@@ -10069,6 +10069,14 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^511]: https://fam.state.gov/fam/07FAM/07FAM1450.html — United States Department of State, *Foreign Affairs Manual*, 7 FAM 1450, guidance concerning marriage of U.S. citizens abroad and limits of consular certification of personal marital status.
 
+[^512]: `https://tvc.co.th/guides/thailand-law-library-legal-library-thai-trial-proper-thai-execution-of-judgment-thai-appeals` — Thai Visa Centre, *Trial, Appeals, and Execution of Judgment in Thailand*, reviewed June 2026; claims concerning mandatory lawyers, appeal deadlines, extensions, and judgment enforcement.
+
+[^513]: https://wsrlawgroup.com/publications/law-library/thailand-civil-procedure-code/book-3-appeal-and-petition/ — Thailand Civil Procedure Code, Section 229, establishing the ordinary one-month appeal period from pronouncement of judgment.
+
+[^514]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-juristic-act-sections-172-193/ — Thailand Civil and Commercial Code, Section 193/5, requiring calendar-based calculation of periods expressed in months.
+
+[^515]: https://wsrlawgroup.com/publications/law-library/thailand-civil-procedure-code/book-1-general-provisions/ — Thailand Civil Procedure Code, Section 23, permitting courts to extend procedural deadlines in special circumstances, subject to the applicable timing requirements.
+
 [^516]: `https://supportewp.doe.go.th/` — Department of Employment, SupportEWP notice that issue reporting through that service closed October 1, 2026, with users directed to e-WorkPermit.
 
 [^517]: `https://www.thaigov.go.th/th/news/168593` — Thai Government, September 7, 2026 notice on electronic work-permit renewals through December 11, 2026 for qualifying Lao, Myanmar, and Vietnamese workers.
