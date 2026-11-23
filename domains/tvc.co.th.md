@@ -673,6 +673,30 @@ A review date does not necessarily mean every statement was revised. However, Th
 
 **The concern is not simply that individual articles contain mistakes, but that the agency uses recent review dates to support the credibility of commercially important immigration guidance without demonstrating that the underlying information has been checked against current requirements.**
 
+### TVC Disclaims Responsibility for the Accuracy of Its Professional Guidance
+
+Thai Visa Centre markets professional immigration assistance, including visa strategy consultations, document reviews, embassy liaison services, and guidance on immigration compliance.[^147]
+
+Yet its published Disclaimer states that website information is provided without guarantees of accuracy, completeness, or timeliness. It further denies responsibility for errors, omissions, and decisions made in reliance on that information.[^518]
+
+Most notably, **TVC explicitly states that information published on its website is not intended to provide professional advice.**
+
+This disclaimer stands in striking contrast to the agency's commercial presentation.
+
+TVC publishes extensive immigration and legal guidance, advertises specialist assistance, and attaches recent editorial review dates to articles covering complex government procedures.
+
+As documented throughout this investigation, those publications contain repeated errors concerning visa eligibility, application fees, immigration forms, statutory deadlines, and legal requirements.
+
+**TVC therefore uses its published guidance to demonstrate professional expertise and attract customers while simultaneously attempting to disclaim responsibility for the reliability of that information.**
+
+Its Terms & Conditions reinforce this position by disclaiming any general obligation to correct or update published information, except where legally required.[^185]
+
+A distinction exists between freely published information and individualized paid professional services. The disclaimer does not establish that TVC can lawfully exclude responsibility for negligent paid services, nor does it establish that the agency knowingly published false information.
+
+However, **the agency's documented inaccuracies make its broad disclaimers especially consequential: customers are encouraged to trust information that the company itself refuses to guarantee.**
+
+The published documents do not adequately explain where TVC's responsibility for its advertised immigration expertise begins and where its disclaimers concerning inaccurate advice end.
+
 ## Four Advertised Offices Match Siam Legal's Locations
 
 Thai Visa Centre publishes a guide titled *Thailand Law Firms and TVC Office Locations*, claiming to operate immigration and legal-coordination offices in **Bangkok, Phuket, Pattaya, and Chiang Mai**.[^48]
