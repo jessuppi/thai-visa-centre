@@ -8633,6 +8633,40 @@ These activities demonstrate that TVC determines at least some purposes for proc
 
 **The company cannot accurately characterize every customer submitting personal information as its data controller while simultaneously describing independent decisions about how that information is used.**
 
+### Published Privacy Policies Omit Required Retention and Data-Subject Rights Information
+
+Thai Visa Centre's published Privacy Policy describes the personal information it collects and identifies various purposes for processing that information. However, it omits important disclosures expressly required by Thailand's Personal Data Protection Act.[^520]
+
+Section 23 of the PDPA generally requires data controllers to inform individuals, before or when collecting personal information, about:
+
+- The purposes and necessity of collection.
+- The categories of information collected and applicable retention periods.
+- The categories of recipients to whom information may be disclosed.
+- The identity and contact details of the responsible data controller.
+- The statutory rights available to the individual.[^459]
+
+**TVC's Privacy Policy identifies no retention period or expected retention standard for the personal information it collects.**
+
+The document also fails to explain the full range of statutory data-subject rights, including rights concerning erasure, objection, restriction of processing, and data portability.
+
+Although the introduction mentions accessing and updating information, and the policy separately discusses deletion requests involving children, these limited references do not adequately explain the broader rights established by the PDPA.
+
+### Separate Data Protection Policy Does Not Resolve the Omissions
+
+Thai Visa Centre also publishes a *Data Protection Policy*, updated February 9, 2025, promising internal safeguards, responsible management of personal information, and compliance with Thailand's PDPA.[^521]
+
+However, that document likewise provides no specific retention periods, expected retention standards, or meaningful explanation of the statutory rights available to customers.
+
+**Publishing general assurances about data protection does not substitute for disclosing the information required by Section 23.**
+
+This omission is particularly significant for a visa agency handling identity documents, immigration applications, financial information, and other sensitive customer records.
+
+The available evidence does not establish whether TVC provides additional privacy notices during individual applications or through separate customer agreements.
+
+It does establish that **neither of its publicly published privacy policies supplies several disclosures specifically contemplated by Thailand's data-protection legislation**.
+
+Thai Visa Centre should identify the responsible controller, explain its applicable retention standards, and publish a clear account of customers' statutory rights.
+
 ### Consequences for Customer Privacy and Accountability
 
 The distinction matters because data controllers have statutory responsibilities concerning lawful processing, security, retention, data-subject requests, and qualifying breach notifications.
@@ -9501,3 +9535,5 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^519]: `https://tvc.co.th/policy/terms-and-conditions` — Thai Visa Centre, *Terms & Conditions*, updated February 9, 2025.
 
 [^520]: `https://tvc.co.th/policy/privacy` — Thai Visa Centre, *Privacy Policy*, updated February 9, 2025.
+
+[^521]: `https://tvc.co.th/policy/data-protection` — Thai Visa Centre, *Data Protection Policy*, updated February 9, 2025.
