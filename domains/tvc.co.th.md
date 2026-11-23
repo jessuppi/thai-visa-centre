@@ -4215,20 +4215,45 @@ Specific diplomatic missions may request additional documentation in individual 
 
 Nevertheless, TVC's categorical requirement is inconsistent with both the general government guidance and its own published explanation.
 
+### Tourist Visa Guide Falsely Promises a Guaranteed 60-Day Stay
+
+Thai Visa Centre's *Single-Entry Tourist Visa Thailand* guide repeatedly describes the TR visa as an option for travelers seeking a **"guaranteed 60-day stay with extension options."**[^534]
+
+The claim appears in the article's introduction, eligibility explanation, application stages, and multiple additional-guidance sections.
+
+**This guarantee directly contradicts Thailand's official visa and immigration procedures.**
+
+The Royal Thai Consulate-General in Mumbai explicitly states that possession of a visa does not guarantee entry into Thailand. Immigration officers determine whether travelers are admitted and the period of stay authorized upon arrival.[^535]
+
+For tourist visas, the ordinary authorized period is **up to 60 days**, not an unconditional entitlement to remain for the full period.
+
+TVC's own guide acknowledges this distinction elsewhere. Its requirements table describes the permitted stay as "Up to 60 days," while another paragraph acknowledges that final decisions rest with Thai immigration and consular authorities.[^534]
+
+**The company therefore repeatedly advertises a guaranteed outcome while publishing contradictory qualifications on the same page.**
+
+This distinction matters to travelers making financial commitments based on their expected immigration status. An approved tourist visa does not eliminate the possibility of refused entry or guarantee the duration of the permission granted at the border.
+
+The evidence does not establish that TVC has caused a traveler to be refused entry or that any customer relied on the inaccurate guarantee.
+
+It establishes that **a commercial immigration agency repeatedly promises a guaranteed stay that Thai authorities expressly do not guarantee**.
+
+TVC should remove the unconditional guarantee and accurately distinguish visa issuance, permission to enter Thailand, and the maximum period of stay ordinarily available to tourist-visa holders.
+
 ### Implications for Applicants
 
-These errors concern two basic questions applicants must resolve before paying for professional visa assistance:
+These errors concern three basic questions applicants must resolve before paying for professional visa assistance:
 
 1. How much financial evidence must they prepare?
 2. Is purchasing travel insurance compulsory or optional?
+3. Does an approved tourist visa guarantee entry and a full 60-day stay?
 
-TVC's financial guidance could leave customers underprepared, while its insurance statement could lead customers to believe they must purchase coverage to satisfy an immigration requirement that does not generally exist.
+TVC's financial guidance could leave customers underprepared, while its insurance statement could lead customers to believe they must purchase coverage to satisfy an immigration requirement that does not generally exist. Its separate guaranteed-stay claim could also lead travelers to mistake a visa's ordinary maximum stay period for an unconditional immigration entitlement.
 
-The available evidence does not establish that TVC has sold unnecessary insurance, caused visa refusals, or submitted applications with insufficient financial evidence.
+The available evidence does not establish that TVC has sold unnecessary insurance, caused visa refusals, submitted applications with insufficient financial evidence, or caused travelers to rely on its guaranteed-stay claim.
 
-It establishes that **the agency's commercial tourist-visa page contains financial thresholds inconsistent with Ministry of Foreign Affairs requirements and an insurance obligation contradicted by its own guidance**.
+It establishes that **TVC publishes financial thresholds inconsistent with Ministry of Foreign Affairs requirements, an insurance obligation contradicted by its own guidance, and a guaranteed-stay claim that conflicts with official entry procedures**.
 
-Thai Visa Centre should correct its tourist-visa financial checklist, distinguish tourist visas from Visa on Arrival requirements, and explain insurance as a recommendation except where a specific applicable rule requires it.
+Thai Visa Centre should correct its tourist-visa financial checklist, distinguish tourist visas from Visa on Arrival requirements, explain insurance as a recommendation except where a specific applicable rule requires it, and remove the unconditional 60-day stay guarantee.
 
 
 ## One-Year Visa Page Incorrectly Requires 90-Day Reports After Re-Entry
@@ -10112,3 +10137,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^532]: https://budapest.thaiembassy.org/en/publicservice/%E0%B8%A7%E0%B8%B5%E0%B8%8B%E0%B9%88%E0%B8%B2-visa — Royal Thai Embassy, Budapest, visa instructions updated January 13, 2026.
 
 [^533]: https://www.thaievisa.go.th/evisaservice — Ministry of Foreign Affairs, official Thailand e-Visa application platform and approval procedure.
+
+[^534]: `https://tvc.co.th/guides/single-entry-tourist-visa-for-thailand` — Thai Visa Centre, *Single-Entry Tourist Visa Thailand*, reviewed June 2026; repeated guaranteed 60-day stay claims.
+
+[^535]: https://mumbai.thaiembassy.org/en/publicservice/59444-what-does-the-visa-expiration-date-mean — Royal Thai Consulate-General, Mumbai, official guidance distinguishing visa validity, immigration admission, and the authorized period of stay.
