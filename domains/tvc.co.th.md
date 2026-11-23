@@ -8557,6 +8557,45 @@ The guide should distinguish statutory DPO appointment requirements, optional le
 A business promoting professional legal referrals should not present optional legal services as universally mandatory under Thai law.
 
 
+## TVC's Age Requirements Contradict Its Own Privacy Policy
+
+Thai Visa Centre publishes conflicting eligibility requirements in its Terms & Conditions and Privacy Policy, both updated February 9, 2025.[^519][^520]
+
+The Terms & Conditions expressly permit individuals aged 16 and older to use the website and services.
+
+However, the Privacy Policy's *Privacy of Children* section instructs individuals under 20 not to submit personal information through those same services.
+
+**TVC therefore permits 16- to 19-year-olds to use its services while simultaneously instructing them not to provide the personal information necessary to obtain many of those services.**
+
+### Thailand's PDPA Does Not Establish a Universal Prohibition
+
+Section 20 of Thailand's Personal Data Protection Act establishes specific rules for obtaining consent involving minors.[^459]
+
+These rules distinguish between circumstances requiring parental authorization and activities for which minors can lawfully act independently. Special provisions apply to children younger than ten.
+
+The law does not establish a universal prohibition against collecting information concerning everyone under 20.
+
+Indeed, TVC's own Privacy Policy acknowledges that parents may submit their children's information when applying for immigration services.
+
+### Conflicting Instructions for Customers and Families
+
+The company's published policies fail to distinguish clearly between:
+
+- Individuals permitted to browse the website.
+- Minors permitted to purchase or request services.
+- Individuals authorized to submit personal information.
+- Parents or legal guardians submitting information for children.
+
+These distinctions are particularly important for immigration services involving families and dependent applicants.
+
+**TVC's policies leave eligible teenage users with contradictory instructions about whether they may actually use the services advertised to them.**
+
+The evidence does not establish unlawful processing of minors' information or improper handling of any particular application.
+
+It establishes that the company's published contractual and privacy requirements are inconsistent.
+
+Thai Visa Centre should reconcile its minimum service age with its personal-information submission rules and explain how parental authorization and applications involving minors are handled under Thailand's PDPA.
+
 ## TVC's Privacy Policy Incorrectly Assigns Data Controller Responsibilities to Customers
 
 Thai Visa Centre's Privacy Policy, updated February 9, 2025, incorrectly describes the legal relationship between the company and customers submitting personal information through its website.[^520]
