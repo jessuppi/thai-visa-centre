@@ -1384,6 +1384,120 @@ The evidence does not prove deliberate deception or completed unnecessary sales.
 
 It does establish another serious commercial misinformation problem: **TVC repeatedly directs eligible travelers toward an unnecessary visa application while presenting itself as a professionally reviewed immigration advisory service.**
 
+## China Tourist Visa Service Falsely Claims Thai Citizens Need Entry Visas
+
+Thai Visa Centre advertises a *Chinese Tourist Visa - Apply from Thailand* service that incorrectly tells Thai passport holders they must obtain L-category tourist visas before visiting China.[^566]
+
+The page repeatedly instructs Thai travelers to:
+
+- Apply through the Chinese Visa Application Service Center in Bangkok.
+- Complete an L-category tourist visa application.
+- Prepare financial statements, employer letters, itineraries, and accommodation records.
+- Attend an application appointment and pay government visa fees.
+- Obtain a visa sticker before departing Thailand.
+
+It explicitly claims that Thailand is not visa-exempt for Chinese tourism and identifies L visas as the standard route for Thai holidaymakers.
+
+**These claims contradict the permanent China–Thailand visa-exemption agreement that entered into force on March 1, 2024.**
+
+### Thai Citizens Have Qualified for Visa-Free Entry Since March 2024
+
+On January 28, 2024, Thailand and China signed an agreement establishing reciprocal visa exemptions for ordinary passport holders.
+
+Thailand's Ministry of Foreign Affairs confirmed that the agreement took effect on March 1, 2024.[^567]
+
+Under the agreement, Thai ordinary passport holders may enter China without obtaining visas for qualifying visits, subject to:
+
+- A maximum stay of 30 days per entry.
+- A cumulative maximum of 90 days within any 180-day period.
+- Restrictions on employment, study, residence, media activities, and other purposes requiring prior authorization.
+
+The Chinese Embassy in Bangkok independently confirms these requirements in its official visa application guidance.[^568]
+
+Travelers exceeding the permitted duration or undertaking activities outside the agreement must obtain appropriate visas.
+
+**Ordinary Thai tourists visiting China within the exemption limits do not need the L-category visas TVC presents as mandatory.**
+
+The distinction is especially significant because the bilateral agreement had already been operating for more than two years when TVC claimed to have reviewed its guidance in June 2026.
+
+### TVC Directs Visa-Exempt Tourists Through an Unnecessary Paid Process
+
+TVC's page provides a detailed application sequence involving online forms, appointments, financial documentation, visa fees, biometric procedures, and passport collection.[^566]
+
+It instructs Thai tourists to use the Chinese Visa Application Service Center in Bangkok, describes four-to-five-working-day processing, and recommends preparing employer leave letters and bank statements.
+
+TVC also advertises its own document-preparation, certified-translation, and application-review assistance.
+
+**For qualifying Thai tourists visiting China visa-free, these embassy visa application steps are unnecessary.**
+
+Following TVC's guidance could cause travelers to:
+
+- Pay professional document-preparation fees for an unnecessary visa.
+- Incur unnecessary government application or service-center charges.
+- Disclose financial and employment information not required for a visa-exempt visit.
+- Delay departure while arranging appointments or awaiting visa processing.
+
+The evidence does not establish that TVC collected payments from particular customers for unnecessary applications.
+
+It does establish that the agency commercially promotes a process based on an incorrect statement of Thai passport holders' visa eligibility.
+
+### TVC's Visa-Waiver Guide Contradicts Its Own Sales Page
+
+The discrepancy is particularly revealing because Thai Visa Centre publishes a separate article titled *Thailand and China Visa Waiver: From March 2024 to 2026 Rules*.[^569]
+
+That article acknowledges the permanent bilateral agreement and expressly recognizes that the reciprocal exemption benefits Thai passport holders visiting China.
+
+**TVC therefore publishes two incompatible explanations of the same immigration agreement.**
+
+Its visa-waiver guide correctly acknowledges that Thai travelers benefit from the reciprocal arrangement.
+
+Its commercial Chinese tourist visa page instead claims Thailand is not visa-exempt and repeatedly directs Thai tourists toward embassy-issued L visas.
+
+The contradiction cannot be explained simply by differences in trip duration or purpose.
+
+The commercial page specifically describes ordinary tourism, short holidays, and standard Thai holidaymakers. Those are precisely the circumstances in which the bilateral exemption ordinarily applies.
+
+### Misleading Claims About Transit and Tourist Entry
+
+The commercial page further describes visa-free transit as a limited alternative involving 24-hour or 144-hour arrangements, adding that such exemptions are not valid for full tourism itineraries.[^566]
+
+This presentation omits the separate bilateral visa waiver applicable to Thai ordinary passport holders.
+
+The omission is consequential because it suggests that even Thai travelers visiting China for ordinary tourism must obtain L visas unless they qualify for a restricted transit arrangement.
+
+**The bilateral agreement permits qualifying Thai passport holders to visit China without obtaining an embassy tourist visa. It is not merely a transit concession.**
+
+TVC's explanation therefore misrepresents both the existence and practical usefulness of the exemption.
+
+### Visa Exemption Remains in Force in 2026
+
+The Chinese Embassy in Thailand reaffirmed in September 2026 that the bilateral visa-exemption agreement effective March 1, 2024, remained in force despite changes to Thailand's separate unilateral exemption scheme.[^570]
+
+This confirms the continuing operation of the bilateral arrangement after TVC's claimed June 2026 editorial review.
+
+Although a visa remains necessary for certain longer stays and regulated activities, the agency's categorical statement that ordinary Thai holidaymakers require visa stickers is incorrect.
+
+### Commercial and Editorial Significance
+
+The evidence establishes four important facts:
+
+- **TVC's commercial page:** Presents L tourist visas as the standard requirement for Thai holidaymakers.
+- **Thailand's Ministry of Foreign Affairs:** Confirms the bilateral agreement effective March 1, 2024.
+- **Chinese Embassy in Bangkok:** Explicitly confirms visa-free entry for qualifying Thai ordinary passport holders.
+- **TVC's separate visa-waiver guide:** Acknowledges that Thai passport holders benefit from the reciprocal exemption.
+
+This is now the third identified outbound-visa service page on which Thai Visa Centre misrepresents whether ordinary Thai tourists need visas.
+
+The Singapore, South Korea, and China findings concern different immigration systems, but share the same commercially significant problem: **TVC directs visa-exempt Thai travelers toward unnecessary visa application services.**
+
+In China's case, the misrepresentation is especially difficult to reconcile with the agency's claimed professional review because its own website contains an explanation acknowledging the very exemption its commercial service page denies.
+
+The available evidence does not establish deliberate deception or completed unnecessary sales.
+
+It does establish a serious factual failure in commercially oriented immigration guidance, reinforced by contradictory information on TVC's own website.
+
+**Thai Visa Centre is advertising paid document-preparation assistance for Chinese tourist visas while falsely telling qualifying Thai holidaymakers that they cannot visit China without those visas.**
+
 ## Misleading Five-Year O-A Retirement Extension Claims
 
 Thai Visa Centre repeatedly advertises a supposed **five-year extension of the Non-Immigrant O-A retirement visa**, claiming that foreigners become eligible after holding O-A status for three years.
@@ -10698,3 +10812,13 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^564]: https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=450&vcontsId=140769 — Korea Tourism Organization, *Visa & Travel Requirements*, updated September 18, 2026; K-ETA requirements, nationality exemption list through December 31, 2026, and distinction between K-ETA authorization and embassy visas.
 
 [^565]: https://overseas.mofa.go.kr/th-ko/brd/m_3179/view.do?page=1&seq=1319917 — Embassy of the Republic of Korea in Thailand, *Visa Application Guide*, updated July 7, 2026; C-3-9 application requirements specifying prior K-ETA refusal for K-ETA-eligible applicants.
+
+[^566]: `https://tvc.co.th/foreign-visas/china/chinese-tourist-visa` — Thai Visa Centre, *Chinese Tourist Visa - Apply from Thailand*, accessed November 24, 2026; false claims concerning Thai nationality visa eligibility, L-category application instructions, commercial document-preparation services, and claimed June 2026 review.
+
+[^567]: https://www.mfa.go.th/en/content/thcn280124?page=5d5bd3da15e39c306002aaf9 — Thailand Ministry of Foreign Affairs, January 28, 2024; signing and March 1, 2024 commencement of the bilateral visa-exemption agreement, including 30-day and 90-in-180-day limits.
+
+[^568]: https://th.china-embassy.gov.cn/eng/zgqz/va/202305/t20230521_11080898.htm — Embassy of the People's Republic of China in Thailand, *Requirements and Procedures for Chinese Visa Application*, May 14, 2025; explicit exemption for Thai ordinary passports and exceptions requiring visas.
+
+[^569]: `https://tvc.co.th/guides/thailand-and-china-set-for-visa-waivers` — Thai Visa Centre, *Thailand and China Visa Waiver: From March 2024 to 2026 Rules*, accessed November 24, 2026; acknowledgment that reciprocal visa exemption benefits Thai passport holders visiting China.
+
+[^570]: https://th.china-embassy.gov.cn/sgxw/202609/t20260902_12014753.html — Embassy of the People's Republic of China in Thailand, September 2, 2026; confirmation that the March 2024 bilateral visa-exemption agreement remains effective despite changes to Thailand's unilateral exemption scheme.
