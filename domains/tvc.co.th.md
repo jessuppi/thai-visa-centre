@@ -552,6 +552,50 @@ TVC's guidance could lead travelers to shorten their itineraries, pursue unneces
 
 The discrepancy is particularly concerning because the agency advertises visa consultation and border-related immigration assistance while presenting these instructions as professional guidance.
 
+### Main Visa-Exemption Service Page Advertises Abolished Stay Periods and Work Benefits
+
+
+Thai Visa Centre's commercial *Thailand Visa Exemption* page continues advertising a **60-day visa-free stay for nationals of 93 countries**, despite the cancellation of that scheme on September 15, 2026.[^555]
+
+The page does not merely describe historical immigration rules. It presents the former exemption as a currently available service, displays a 60-day validity and stay period, lists eligible nationalities, and invites visitors to begin an application.
+
+**The advertised service no longer corresponds to Thailand's current visa-exemption framework.**
+
+#### Mauritius Travelers Are Given the Wrong Stay Period
+
+The page explicitly includes **Mauritius** among nationalities eligible for its advertised 60-day exemption.[^555]
+
+However, Thailand's September 2026 reforms assign Mauritius and Seychelles to a separate **15-day visa-exemption category**.[^556]
+
+For an ordinary Mauritian tourist, TVC's advertised 60-day entitlement therefore exceeds the current standard exemption by **45 days**.
+
+This is not a minor administrative discrepancy. A traveler relying on the advertised duration could plan an extended holiday without obtaining the necessary permission to stay beyond the initial 15 days.
+
+#### The Page Also Advertises Employment Benefits
+
+Under its list of visa-exemption benefits, TVC includes **"Opportunity for urgent or temporary employment."**[^555]
+
+This representation reflects aspects of Thailand's previous 60-day exemption arrangements, which accommodated certain short-term business and urgent-work activities.
+
+The revised 30-day and 15-day exemption schemes effective September 15, 2026, are expressly limited to **tourism purposes**.[^556]
+
+Thailand separately maintains a narrowly defined procedure for necessary, urgent, or ad-hoc work lasting no longer than 15 days. That procedure requires notification to the Department of Employment under the applicable rules.[^557]
+
+**Visa-exempt tourist admission does not, by itself, grant a general right to undertake employment.**
+
+TVC's service page does not explain this distinction. Instead, it presents employment opportunities alongside ordinary tourist-entry benefits and states only that employment restrictions *may* apply.
+
+#### Commercial Significance
+
+The page ends by encouraging customers to obtain expert assistance and begin their visa-exemption application.
+
+**TVC is therefore using a commercial service page to advertise an abolished 60-day entry arrangement and inadequately qualified employment benefits.**
+
+The agency separately published the government's revised September 2026 requirements elsewhere on its website.[^34]
+
+Its failure to apply those requirements to the principal visa-exemption service page raises a direct question about the reliability of the immigration products and benefits it markets to prospective customers.
+
+
 ## Incorrect Visa on Arrival Eligibility After September 2026
 
 Thai Visa Centre continues advertising outdated Visa on Arrival (VOA) eligibility information despite publishing the correct September 2026 changes elsewhere on its website.
@@ -10447,3 +10491,9 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^553]: `https://tvc.co.th/guides/travel-to-thailand-from-india` — Thai Visa Centre, *Travel to Thailand from India*, accessed November 23, 2026; incorrect visa-exemption eligibility, VOA recommendations, and 2,000-baht fee.
 
 [^554]: https://newdelhi.thaiembassy.org/en/content/the-revision-of-thailand-s-visa-exemption-and-voa — Royal Thai Embassy, New Delhi, September 15, 2026; confirmation of 30-day visa exemption for Indian ordinary passport holders.
+
+[^555]: `https://tvc.co.th/visas/thailand-visa-exemption` — Thai Visa Centre, *Thailand Visa Exemption*, accessed November 24, 2026; 60-day stay advertisement, eligibility list including Mauritius, employment benefits, and application CTA.
+
+[^556]: https://www.mfa.go.th/en/content/pb-summary-03092026-en — Thailand Ministry of Foreign Affairs, September 3, 2026; revised visa-exemption arrangements effective September 15, 2026, including tourism-only scope.
+
+[^557]: https://www.doe.go.th/prd/download/download_by_pool_file/65691 — Thailand Department of Employment, official urgent or necessary work notification procedure, Form W.P.34.
