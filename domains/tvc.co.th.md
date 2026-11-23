@@ -195,6 +195,14 @@ Both websites prominently recommend Thai Visa Centre as a trusted visa agent. Th
 
 This distinction is material. Thailand's DTV and LTR programs involve different eligibility criteria, government procedures, and application requirements. A successful DTV application does not demonstrate experience securing LTR approvals.
 
+Thai Visa Centre's own published disclaimer states that customer testimonials are reproduced "verbatim" except for grammatical or typing corrections. It additionally permits edits for clarity and the removal of irrelevant material.[^518]
+
+**Changing a customer's reported visa from DTV to LTR is not a grammatical correction, clarification, or harmless abbreviation.** It changes the substance of the testimonial and presents experience with one immigration program as evidence of success with another.
+
+This directly contradicts TVC's stated testimonial practices. The agency's own review archive identifies the customer's application as a DTV, while a website operated by its acknowledged digital-services affiliate presents the same endorsement as an LTR success story.
+
+The evidence does not identify who made the substitution or whether the customer approved it. Nevertheless, **the altered testimonial is publicly displayed as a five-star endorsement for a service the original review does not describe.** TVC should explain why its published testimonial standards are not reflected in this affiliated marketing material.
+
 The discrepancy is especially relevant because `ltr.in.th` promotes Thai Visa Centre against competing immigration agencies, including officially BOI-certified LTR service providers.
 
 The available evidence does not establish who edited the testimonial or whether the original customer authorized the change.
@@ -9363,3 +9371,5 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^516]: `https://supportewp.doe.go.th/` — Department of Employment, SupportEWP notice that issue reporting through that service closed October 1, 2026, with users directed to e-WorkPermit.
 
 [^517]: `https://www.thaigov.go.th/th/news/168593` — Thai Government, September 7, 2026 notice on electronic work-permit renewals through December 11, 2026 for qualifying Lao, Myanmar, and Vietnamese workers.
+
+[^518]: `https://tvc.co.th/policy/disclaimer` — Thai Visa Centre, *Disclaimer*, sections "Compensation and sponsorship" and "Reviews and testimonials", updated February 9, 2025.
