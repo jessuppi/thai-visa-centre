@@ -32,6 +32,44 @@ This does not establish that the agreements are invalid. It establishes a materi
 
 **Thai Visa Centre should identify the registered entity behind its contractual commitments and explain how responsibility is divided between its physical visa services and affiliated digital platforms.**
 
+### Third-Party Liability Waiver Obscures Responsibility for Affiliated Digital Services
+
+Thai Visa Centre's published Terms & Conditions contain a sweeping disclaimer concerning services operated by third parties.[^519]
+
+Under *Third party services*, TVC states that it does not endorse or accept responsibility for those services, including their handling of customer information.
+
+The agreement goes further, requiring customers to **irrevocably waive claims against Thai Visa Centre concerning such services**.
+
+It also states that enabling third-party services constitutes permission for TVC to disclose customer information as necessary to facilitate their use.
+
+### TVC's Digital Services Are Operated by a Separate Company
+
+Thai Visa Centre publicly identifies AGENTS CO., LTD. as the operator of its digital immigration services, including `evisa.tvc.co.th`, `90day.in.th`, and TDAC processing.[^3]
+
+These platforms are presented as components of TVC's own commercial service network, rather than unrelated businesses linked for general information.
+
+However, AGENTS CO., LTD. publishes separate Terms & Conditions expressly identifying itself as the contracting party.[^524]
+
+Its agreement includes its own liability limitations, indemnification provisions, and restrictions concerning third-party services.
+
+**Customers are therefore directed through one commercial service network while encountering legal agreements that attribute responsibility to different entities.**
+
+### The Third-Party Waiver Creates an Accountability Gap
+
+TVC's published agreements do not clearly explain whether AGENTS-operated services fall within its broad third-party liability disclaimer.
+
+Nor do they establish whether both companies accept contractual responsibility for services promoted under the Thai Visa Centre name.
+
+This distinction matters when customers encounter problems involving immigration documents, application processing, payments, or personal information.
+
+**TVC promotes its affiliated digital operations as part of its service offering while publishing contractual language that attempts to exclude responsibility for separately operated services.**
+
+The available evidence does not establish that TVC has successfully invoked this waiver against customers of AGENTS CO., LTD., that the waiver necessarily applies to those services, or that either company has unlawfully avoided responsibility.
+
+What is documented is an unresolved contractual boundary between the two companies.
+
+Thai Visa Centre should explicitly identify which legal entity accepts responsibility for each digital service, whether its third-party waiver applies to AGENTS-operated platforms, and which company customers may hold accountable for service failures or improper handling of personal information.
+
 ## Visa Agency Promotes Cannabis Delivery Despite Regulatory Restrictions
 
 Thai Visa Centre's website contains a dedicated **Cannabis tourism** section linking visitors to four commercial platforms: `og.th`, `rollingpapers.in.th`, `card.weed.th`, and `weed.th`. These links appear across its homepage, immigration-service pages, and reputation-defense material.[^276]
@@ -9705,3 +9743,5 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^522]: `https://tvc.co.th/guides/contact-us` — Thai Visa Centre, *Contact Thai Visa Centre*, reviewed June 2026, describing required consultation documents and the document-upload workflow.
 
 [^523]: https://www.aseanconsumer.org/cterms-businesses/unfair-contract-terms — ASEAN Committee on Consumer Protection, *Unfair Contract Terms*, explaining Thailand's Unfair Contract Terms Act and Section 4.
+
+[^524]: `https://agents.co.th/tdac-apply/policy/terms-and-conditions/` — AGENTS CO., LTD., *Terms & Conditions*, updated April 2, 2025, identifying AGENTS as the contracting entity and establishing separate liability and third-party-service provisions.
