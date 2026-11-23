@@ -8651,6 +8651,47 @@ The document also fails to explain the full range of statutory data-subject righ
 
 Although the introduction mentions accessing and updating information, and the policy separately discusses deletion requests involving children, these limited references do not adequately explain the broader rights established by the PDPA.
 
+### Privacy Policy Omits Passport and Financial Documents Requested From Customers
+
+Thai Visa Centre's Privacy Policy describes the personal information it collects using three general categories:
+
+- Account details, including usernames and passwords.
+- Contact information.
+- Basic personal information, including names and countries of residence.[^520]
+
+However, the agency's own *Contact Thai Visa Centre* guide directs prospective customers to prepare substantially more detailed documentation before beginning immigration services.[^522]
+
+Its published consultation workflow requests:
+
+- Copies of passport identification pages.
+- Current visa stamps and immigration records.
+- Embassy or immigration refusal notices.
+- Supporting financial or employment records.
+
+The guide also explicitly describes a document-upload stage during which customers provide passport and immigration documentation.
+
+**None of these immigration-specific document categories is explicitly identified in TVC's published Privacy Policy.**
+
+### Terms & Conditions Authorize Additional Financial Documentation
+
+TVC's Terms & Conditions introduce another category of potentially sensitive customer records.
+
+Under *Billing and payments*, the company reserves the right to demand copies of government-issued photo identification and recent bank statements when it classifies a purchase as a high-risk transaction.[^519]
+
+These records go beyond the basic account and contact information emphasized in its Privacy Policy.
+
+Although the policy's examples are not presented as an exhaustive list, **TVC does not clearly explain the categories of identity, immigration, and financial documentation its own service instructions contemplate collecting**.
+
+Section 23 of Thailand's Personal Data Protection Act requires appropriate disclosure of the personal information being collected, its purposes, and applicable retention periods.[^459]
+
+The discrepancy is significant because passport records, immigration histories, and financial documents can expose customers to identity theft, financial fraud, and other harms if improperly disclosed.
+
+The available evidence does not establish that TVC has mishandled these records or that additional notices are absent from its private application process.
+
+It establishes that **TVC's public-facing Privacy Policy does not adequately describe several important categories of documentation its own published customer instructions request**.
+
+Thai Visa Centre should reconcile its privacy disclosures with its actual document-collection procedures, including the purposes, retention standards, and responsible legal entity for handling immigration and financial records.
+
 ### Separate Data Protection Policy Does Not Resolve the Omissions
 
 Thai Visa Centre also publishes a *Data Protection Policy*, updated February 9, 2025, promising internal safeguards, responsible management of personal information, and compliance with Thailand's PDPA.[^521]
@@ -9537,3 +9578,5 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^520]: `https://tvc.co.th/policy/privacy` — Thai Visa Centre, *Privacy Policy*, updated February 9, 2025.
 
 [^521]: `https://tvc.co.th/policy/data-protection` — Thai Visa Centre, *Data Protection Policy*, updated February 9, 2025.
+
+[^522]: `https://tvc.co.th/guides/contact-us` — Thai Visa Centre, *Contact Thai Visa Centre*, reviewed June 2026, describing required consultation documents and the document-upload workflow.
