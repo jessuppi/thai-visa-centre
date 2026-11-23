@@ -4190,6 +4190,57 @@ Alternatively, a customer's agreement might expressly make approval a condition 
 
 The separately advertised written deposit agreements might contain additional protections or exceptions. Their individual terms have not been examined in this investigation.
 
+### Refund Policy Omits Applications Handled by Thai Immigration Offices
+
+Thai Visa Centre's published Refund Policy contains a significant omission concerning the immigration services it sells to foreigners already living in Thailand.[^184]
+
+Under *Visa Services Refunds*, the agency repeatedly describes applications submitted to embassies or consulates.
+
+Its refund conditions distinguish between:
+
+- Applications cancelled before submission to an embassy or consulate.
+- Applications rejected after submission.
+- Government fees retained by an embassy or consulate.
+- Agency service fees refundable following an unsuccessful application.
+
+**The policy does not explain how these conditions apply to applications handled by Thailand's Immigration Bureau rather than overseas diplomatic missions.**
+
+### TVC Advertises Domestic Extensions as Core Services
+
+Thai Visa Centre's own retirement-visa service page describes a process involving an initial Non-Immigrant visa followed by an application for a one-year extension.[^163]
+
+Its marriage-visa service page similarly advertises annual extensions without requiring applicants to leave Thailand.[^162]
+
+These are not simply embassy visa applications.
+
+Retirement and marriage extensions are ordinarily decided by Thai immigration offices inside the country.
+
+TVC explicitly promotes assistance with those procedures.
+
+**Yet the published Refund Policy does not distinguish the government's domestic extension fees from embassy or consular application fees, or explain whether the same refund guarantees apply.**
+
+### Unanswered Questions About Failed Domestic Applications
+
+For customers purchasing domestic immigration services, the policy leaves several important questions unresolved:
+
+1. Is the agency fee fully refundable if Immigration refuses an extension?
+2. Are government extension fees excluded from refunds under the same conditions as embassy application fees?
+3. Does cancellation before an Immigration Bureau submission qualify for a full refund?
+4. What happens when TVC has performed document preparation but has not completed the promised extension?
+5. Does the advertised full-deposit guarantee apply to all domestic immigration services or only selected application categories?
+
+These distinctions matter because TVC's homepage presents refundable deposits as a general protection for customers purchasing visa services.[^183]
+
+The individual written agreements advertised by TVC may establish additional rules. Those agreements have not been examined.
+
+The published omission does not establish that TVC refuses refunds for unsuccessful domestic applications or that it has improperly retained customer payments.
+
+It establishes that **TVC markets in-country immigration services while publishing refund conditions framed around a different government application process**.
+
+An agency selling retirement extensions, marriage extensions, and other domestic immigration assistance should clearly identify which refund conditions apply when the relevant government authority is Thailand's Immigration Bureau rather than an embassy or consulate.
+
+**Customers should not have to discover after paying that the public refund policy fails to address the particular government procedure they purchased.**
+
 ### Liability Clause Can Reduce the Contractual Compensation Cap to One Dollar
 
 Thai Visa Centre's Terms & Conditions contain a sweeping financial liability restriction that is not explained alongside its advertised refundable-deposit guarantee.[^185]
