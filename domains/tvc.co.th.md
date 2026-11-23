@@ -1279,6 +1279,111 @@ Although the evidence does not prove deliberate deception or completed unnecessa
 
 **A commercial visa agency that cannot correctly identify whether its target customers need a visa is failing at the most fundamental part of the service it claims to provide.**
 
+## South Korea Visa Service Falsely Claims Thai Tourists Require Embassy Visas
+
+Thai Visa Centre advertises a *South Korea Visa Thailand - Apply from Thailand* service that repeatedly tells Thai passport holders they must obtain C-3 embassy visas before traveling to South Korea.[^561]
+
+The page explicitly claims:
+
+- Thailand does not qualify for South Korea's visa-exemption arrangements.
+- Thai citizens must obtain C-3 tourist visas before traveling.
+- K-ETA cannot replace an embassy visa for Thai nationals.
+- Applying for K-ETA instead of a C-3 visa is a common mistake.
+- Thai tourists must prepare financial records, employment certificates, itineraries, and embassy application documents.
+
+**These instructions contradict South Korea's longstanding visa-waiver agreement with Thailand and the Korean Embassy's own published requirements.**
+
+### Thai Passport Holders Qualify for 90-Day Visa-Free Entry
+
+South Korea's Ministry of Foreign Affairs identifies Thailand as a country covered by a bilateral visa-waiver agreement.
+
+The official list expressly includes ordinary Thai passports and permits qualifying visits of up to **90 days without a visa**.[^562]
+
+The Korean Embassy in Bangkok independently confirms that travelers entering through the K-ETA system remain eligible for the standard 90-day stay.[^563]
+
+K-ETA is an electronic travel authorization for eligible visa-exempt travelers, not an embassy-issued visa.
+
+For ordinary Thai tourists, the appropriate route is therefore generally visa-free travel with approved K-ETA, subject to applicable exemptions and entry conditions.
+
+Thailand is not among the nationalities benefiting from South Korea's temporary K-ETA exemption through December 31, 2026. Most adult Thai travelers using visa-free entry must consequently obtain K-ETA authorization before departure.[^564]
+
+K-ETA approval does not guarantee admission. Korean immigration authorities retain discretion to refuse entry, and travelers intending to work or undertake activities outside the visa waiver must obtain appropriate authorization.
+
+**None of these conditions supports TVC's assertion that Thai citizens are categorically ineligible for visa-free entry.**
+
+### Korean Embassy Requires K-ETA Refusal Before Certain Visa Applications
+
+The most significant contradiction comes from the Korean Embassy in Bangkok.
+
+Its visa application guidance, updated July 7, 2026, identifies K-ETA eligibility as a relevant prerequisite for short-term visa applications.[^565]
+
+For C-3-9 tourist visas, the embassy states that applicants from K-ETA-eligible nationalities may submit embassy visa applications only after their K-ETA applications have been refused.
+
+Applicants must provide documentation of that refusal.
+
+**TVC recommends the embassy visa application process as the normal first step, while the Korean Embassy generally requires eligible travelers to attempt K-ETA before applying for that visa.**
+
+This reverses the actual application sequence.
+
+The difference is consequential. A Thai tourist who qualifies for visa-free entry and receives K-ETA approval ordinarily has no need to complete the embassy C-3 tourist visa application promoted by TVC.
+
+An embassy visa remains relevant in circumstances such as K-ETA refusal or travel purposes requiring another visa category. Those exceptions do not make C-3 visas mandatory for all Thai tourists.
+
+### Unnecessary Documents and Commercial Assistance
+
+TVC promotes its Bangkok document-preparation services alongside instructions requiring applicants to assemble:
+
+- Completed embassy visa applications and passport photographs.
+- Detailed travel itineraries and accommodation evidence.
+- Bank statements demonstrating financial capacity.
+- Employment certificates and supporting documentation.
+- Embassy appointments and visa application procedures.
+
+The page also tells applicants to pay official visa fees and collect visa stickers before traveling.[^561]
+
+For eligible Thai tourists who can travel with approved K-ETA, these embassy application steps are unnecessary.
+
+**TVC is promoting professional document-preparation assistance for a visa that many of its intended customers do not need.**
+
+Customers relying on this guidance could spend money on unnecessary assistance, prepare extensive financial and employment documents, or delay travel while attempting to obtain embassy appointments.
+
+The available evidence does not establish that particular customers purchased unnecessary services or that TVC deliberately misrepresented Korean entry requirements.
+
+It establishes that the agency markets assistance based on a false statement about Thai nationality eligibility.
+
+### Repeated K-ETA Misinformation Despite Claimed Review
+
+The incorrect requirement is not confined to an isolated sentence.
+
+TVC repeats it in the page's introductory explanation, requirements table, application instructions, additional guidance, common-mistakes section, and frequently asked questions.[^561]
+
+The agency also claims that using K-ETA instead of an embassy visa is a frequent mistake encountered during its Bangkok consultations.
+
+That claim is especially concerning because K-ETA is precisely the authorization system applicable to eligible Thai tourists entering South Korea without visas.
+
+TVC identifies **June 2026** as the page's latest review and directs readers to official Korean immigration resources.
+
+However, its central instructions contradict those resources, including the Korean Embassy in Bangkok's own published application requirements.
+
+### Commercial and Editorial Significance
+
+The official position is clear:
+
+- **TVC claims:** Thai citizens are not visa-exempt and must obtain C-3 embassy visas.
+- **South Korean government confirms:** Ordinary Thai passport holders qualify for visa-free visits of up to 90 days.
+- **Korean Embassy in Bangkok confirms:** K-ETA travelers retain the 90-day stay entitlement, and K-ETA-eligible tourist visa applicants generally must first receive a K-ETA refusal.
+- **Current K-ETA guidance confirms:** Thailand is not included in the temporary nationality-wide K-ETA exemption, so authorization remains the normal route for eligible adult Thai tourists.
+
+This is the second identified outbound-visa service page on which Thai Visa Centre categorically misrepresents whether Thai citizens need an entry visa.
+
+The Singapore page incorrectly advertises mandatory visas for visa-exempt Thai tourists. The South Korea page repeats the same fundamental failure while explicitly discouraging travelers from using the correct electronic authorization system.
+
+**Thai Visa Centre is marketing embassy visa assistance to Thai tourists who are ordinarily entitled to travel without those visas.**
+
+The evidence does not prove deliberate deception or completed unnecessary sales.
+
+It does establish another serious commercial misinformation problem: **TVC repeatedly directs eligible travelers toward an unnecessary visa application while presenting itself as a professionally reviewed immigration advisory service.**
+
 ## Misleading Five-Year O-A Retirement Extension Claims
 
 Thai Visa Centre repeatedly advertises a supposed **five-year extension of the Non-Immigrant O-A retirement visa**, claiming that foreigners become eligible after holding O-A status for three years.
@@ -10583,3 +10688,13 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^559]: https://www.ica.gov.sg/information-and-e-services/entry-and-departure/entering-singapore/visa-guidelines — Singapore Immigration & Checkpoints Authority, *Visa Guidelines*, updated October 28, 2026; official list of visa-required nationalities and travel documents, excluding ordinary Thai passports.
 
 [^560]: https://image.mfa.go.th/mfa/0/XS0Mt9WAaq/ข้อมูลประเทศ/ปท.ที่ผู้ถือ_นสดท._ไทย_ไม่ต้องขอ_VISA_สถานะ_2_พ.ค._2568.pdf — Thailand Ministry of Foreign Affairs, Department of Consular Affairs, *List of Countries and Territories Where Thai Nationals May Enter Without a Visa*, May 2, 2025; ordinary passport table, Singapore, 30-day visa exemption.
+
+[^561]: `https://tvc.co.th/foreign-visas/south-korea/korea-visa-thailand` — Thai Visa Centre, *South Korea Visa Thailand - Apply from Thailand*, accessed November 24, 2026; categorical C-3 visa requirements, denial of Thai K-ETA eligibility, commercial document-preparation promotion, and claimed June 2026 review.
+
+[^562]: https://overseas.mofa.go.kr/at-en/wpge/m_8372/contents.do — Embassy of the Republic of Korea in Austria, *Visa-Free Entry*; official bilateral visa-waiver table identifying Thailand, ordinary passports, and 90-day permitted stays.
+
+[^563]: https://overseas.mofa.go.kr/th-ko/brd/m_28336/view.do?seq=30 — Embassy of the Republic of Korea in Thailand, *Additional Notice Regarding Tourist Visa (C-3-9)*, August 5, 2025; explicit confirmation in Korean, English, and Thai that K-ETA entrants retain 90-day stay eligibility.
+
+[^564]: https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=450&vcontsId=140769 — Korea Tourism Organization, *Visa & Travel Requirements*, updated September 18, 2026; K-ETA requirements, nationality exemption list through December 31, 2026, and distinction between K-ETA authorization and embassy visas.
+
+[^565]: https://overseas.mofa.go.kr/th-ko/brd/m_3179/view.do?page=1&seq=1319917 — Embassy of the Republic of Korea in Thailand, *Visa Application Guide*, updated July 7, 2026; C-3-9 application requirements specifying prior K-ETA refusal for K-ETA-eligible applicants.
