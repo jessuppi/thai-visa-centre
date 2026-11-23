@@ -12,6 +12,26 @@ However, no Thai company registration under the exact name **Thai Visa Centre** 
 
 Elsewhere on the page, the agency acknowledges operating [aq.in.th](aq.in.th.md) and [tp.in.th](tp.in.th.md) during the COVID-19 pandemic. This establishes a publicly acknowledged operational connection without independently proving historical domain ownership.[^3]
 
+### Legally Binding Agreements Do Not Identify the Registered Contracting Entity
+
+Thai Visa Centre's published Terms & Conditions expressly describe themselves as a legally binding agreement between customers and **THAI VISA CENTRE**. The agreement covers website services, billing, payments, liability limitations, and disputes.[^519]
+
+Its Privacy Policy likewise identifies **THAI VISA CENTRE** as the contracting party and describes the company's responsibilities for collecting and processing customer information.[^520]
+
+The separately published Disclaimer uses the same contractual identity.[^518]
+
+**None of these documents identifies the registered Thai company legally responsible for the obligations attributed to THAI VISA CENTRE.**
+
+This omission is significant because the company's own reputation-defense material identifies AGENTS CO., LTD. as its digital-services operator, while THNIC separately confirmed that the `tvc.co.th` domain qualified for registration through TVC. Visa Agent Co., Ltd.
+
+A trading name can legitimately appear in commercial contracts. However, **using a trading name without identifying the responsible legal entity leaves customers unable to determine from these agreements which registered company is accepting their payments, handling their information, and assuming contractual responsibility.**
+
+The published documents do not establish whether TVC. Visa Agent Co., Ltd., AGENTS CO., LTD., or another legally recognized operator is the contracting party for particular services.
+
+This does not establish that the agreements are invalid. It establishes a material gap in the company's published legal identity disclosures.
+
+**Thai Visa Centre should identify the registered entity behind its contractual commitments and explain how responsibility is divided between its physical visa services and affiliated digital platforms.**
+
 ## Visa Agency Promotes Cannabis Delivery Despite Regulatory Restrictions
 
 Thai Visa Centre's website contains a dedicated **Cannabis tourism** section linking visitors to four commercial platforms: `og.th`, `rollingpapers.in.th`, `card.weed.th`, and `weed.th`. These links appear across its homepage, immigration-service pages, and reputation-defense material.[^276]
@@ -9387,3 +9407,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^517]: `https://www.thaigov.go.th/th/news/168593` — Thai Government, September 7, 2026 notice on electronic work-permit renewals through December 11, 2026 for qualifying Lao, Myanmar, and Vietnamese workers.
 
 [^518]: `https://tvc.co.th/policy/disclaimer` — Thai Visa Centre, *Disclaimer*, sections "Compensation and sponsorship" and "Reviews and testimonials", updated February 9, 2025.
+
+[^519]: `https://tvc.co.th/policy/terms-and-conditions` — Thai Visa Centre, *Terms & Conditions*, updated February 9, 2025.
+
+[^520]: `https://tvc.co.th/policy/privacy` — Thai Visa Centre, *Privacy Policy*, updated February 9, 2025.
