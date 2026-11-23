@@ -1199,304 +1199,47 @@ Applicants following TVC's figures would underestimate the standard government f
 
 The repetition across four separate pages raises questions about the agency's claimed editorial reviews and whether its outbound visa guidance is actually checked against current immigration regulations.
 
-## Singapore Visa Service Falsely Claims Thai Citizens Need Entry Visas
+## Misleading Foreign-Visa Requirements in Commercial Guides for Thai Travelers
 
-Thai Visa Centre advertises a *Singapore Visa for Thailand - Apply from Thailand* service based on the false premise that Thai passport holders must obtain entry visas before visiting Singapore.[^558]
+Thai Visa Centre markets document preparation and application assistance for foreign visas while publishing destination-specific guidance that incorrectly presents embassy visas as mandatory for ordinary Thai passport holders. Its Singapore, South Korea, and China service pages each direct qualifying visa-exempt travelers toward applications they generally do not need.
 
-The page repeatedly claims that:
+### Singapore: Visa Requirements Invented for Thai Tourists
 
-- Thai citizens require Singapore visas for tourism, business visits, and certain transit arrangements.
-- Thailand is included on Singapore's list of visa-required nationalities.
-- Thai travelers flying from Bangkok without advance visa approval risk being denied boarding.
-- Applicants must submit Form 14A, financial records, employment evidence, and supporting documents through authorized visa agents.
+TVC's *Singapore Visa for Thailand - Apply from Thailand* page claims Thai citizens need advance Singapore visas for tourism, business visits, and certain transit arrangements. It says Thailand is a visa-required nationality, warns that travelers departing Bangkok without visa approval could be denied boarding, and directs applicants through Form 14A, financial documentation, authorized agents, and government processing fees.[^558]
 
-**These claims directly contradict Singapore's official immigration requirements.**
+**Singapore's Immigration & Checkpoints Authority (ICA) does not include Thailand on its visa-required nationality list.**[^559] Thailand's Ministry of Foreign Affairs independently confirms visa-free visits of up to **30 days** for qualifying Thai ordinary passport holders.[^560] Travelers still must meet Singapore's entry conditions, including submitting the SG Arrival Card where applicable; immigration officers determine admission and permitted stay. The exemption does not authorize employment or other activities requiring separate permission.
 
-### Singapore Grants Thai Citizens Visa-Free Entry
+The same commercial page includes a **Schengen Area “main destination” rule** and **€30,000 Schengen medical insurance requirement** in its Singapore application instructions.[^558] Singapore is not in the Schengen Area, and neither requirement applies to an ordinary Singapore tourist visit. The unrelated material raises additional questions about the page's claimed June 2026 editorial review.
 
-Singapore's Immigration & Checkpoints Authority (ICA) publishes the nationalities and travel documents requiring entry visas. **Thailand is not on that list.**[^559]
+For qualifying Thai tourists, the promoted Singapore visa application and accompanying professional preparation are unnecessary.
 
-Thailand's Ministry of Foreign Affairs independently confirms that ordinary Thai passport holders qualify for visa-free visits to Singapore of up to **30 days**.[^560]
+### South Korea: Denial of Visa-Free Entry and Incorrect K-ETA Advice
 
-Thai tourists therefore do not ordinarily require a Singapore entry visa for qualifying short visits.
+TVC's *South Korea Visa Thailand - Apply from Thailand* page says Thai passport holders cannot use K-ETA, must obtain C-3 embassy visas for tourism, and make a mistake if they pursue K-ETA instead. Its instructions promote visa forms, financial and employment records, appointments, and document-preparation assistance.[^561]
 
-They must still satisfy Singapore's general entry requirements, including submitting the SG Arrival Card where applicable. Immigration officers determine admission and the permitted period of stay. Employment and other activities requiring separate authorization are not covered simply by visa-free visitor eligibility.
+**South Korea has a bilateral visa-waiver agreement with Thailand covering qualifying ordinary passport holders for visits of up to 90 days.**[^562] The Korean Embassy in Bangkok confirms that eligible K-ETA travelers retain the 90-day stay entitlement.[^563] K-ETA is an electronic travel authorization, not an embassy visa. Thailand is not covered by the temporary nationality-wide K-ETA exemption through December 31, 2026, so eligible adult Thai tourists ordinarily require approved K-ETA before boarding, subject to individual exceptions and admission requirements.[^564]
 
-None of these conditions supports TVC's categorical assertion that Thai citizens must obtain Singapore visas before boarding flights.
+The Korean Embassy's July 2026 C-3-9 tourist-visa guidance additionally requires eligible applicants to show a **prior K-ETA refusal** before pursuing that visa route.[^565] TVC therefore not only misidentifies Thai travelers as needing visas; it presents the embassy application as the normal first step when the embassy ordinarily requires an unsuccessful K-ETA application first.
 
-**TVC is presenting an unnecessary visa application as a mandatory travel requirement.**
+A C-3 visa or another appropriate visa may still be necessary after K-ETA refusal or for activities outside the visa waiver. That does not support TVC's categorical claim that Thai tourists cannot use visa-free entry.
 
-### Commercially Promoting an Unnecessary Application Process
+### China: Tourist-Visa Sales Page Contradicts a Bilateral Waiver and TVC's Own Guide
 
-TVC's page does more than misstate an immigration rule. It provides a detailed application process directing Thai travelers to authorized visa agents, requiring financial documentation, government processing fees, and advance approval letters.[^558]
+TVC's *Chinese Tourist Visa - Apply from Thailand* page claims Thai holidaymakers need L-category visa stickers. It directs travelers to complete visa applications, prepare employer letters and bank statements, attend appointments, pay fees, and use document-preparation and translation services. Its discussion of limited visa-free transit also omits the separate exemption for ordinary Thai tourists.[^566]
 
-The agency also advertises its own document-preparation assistance and invites visitors to arrange appointments.
+**Thailand and China have had a reciprocal visa-exemption agreement in force since March 1, 2024.** Thailand's Ministry of Foreign Affairs confirms that qualifying ordinary passport holders may visit without visas for **up to 30 days per entry**, subject to a cumulative **90 days in any 180-day period**.[^567] The Chinese Embassy in Bangkok confirms the exemption and distinguishes activities or longer stays that require visas.[^568]
 
-For ordinary Thai tourists eligible for visa-free entry, the advertised visa application process is unnecessary.
+TVC's separate *Thailand and China Visa Waiver* guide itself acknowledges that Thai passport holders benefit from this bilateral arrangement.[^569] Its commercial Chinese tourist-visa page therefore contradicts another page on the same website.
 
-Travelers relying on TVC's instructions could:
+The Chinese Embassy reaffirmed in September 2026 that the bilateral exemption remained effective.[^570] The exemption is not merely a transit concession. Qualifying Thai tourists do not need the L-category visas presented as standard requirements by TVC's commercial page.
 
-- Pay for professional visa assistance they do not need.
-- Prepare unnecessary employment records, financial statements, and supporting documents.
-- Postpone travel while waiting for a visa approval that is not required.
-- Mistakenly believe airlines will deny boarding because they have not obtained a Singapore visa.
+### Repeated Commercial Significance
 
-TVC states that it prepares documents rather than submitting Singapore visa applications directly to ICA. The available evidence does not establish that particular customers purchased unnecessary assistance or that TVC deliberately misrepresented the rules.
+These are distinct factual errors across three foreign-visa sales pages, not a single outdated fee or application detail. Each incorrectly tells qualifying Thai travelers to obtain an embassy visa despite official visa-free routes. The pages promote document preparation, appointments, supporting paperwork, and fees that may be unnecessary for those travelers.
 
-However, **the published service page promotes commercial assistance by repeatedly telling an eligible visa-exempt population that visas are mandatory.**
+The evidence establishes the published claims, their contradictions with official government guidance, and TVC's commercial promotion of application assistance. **It does not establish deliberate deception, that specific customers paid for unnecessary applications, or that every Thai traveler is exempt from all visas.** Eligibility depends on destination, length and purpose of travel, and applicable entry authorization.
 
-That is a material factual misrepresentation with potential financial consequences for prospective customers.
-
-### Singapore Guide Includes Unrelated Schengen Visa Requirements
-
-The same page contains instructions that belong to European Schengen visa applications, not Singapore travel.[^558]
-
-Its *Main destination rule* tells applicants to select an embassy based on where they intend to spend the longest period within the Schengen Area.
-
-Its pre-lodgement checklist also specifies **€30,000 in Schengen medical insurance coverage**, including repatriation.
-
-Singapore is not part of the Schengen Area. Neither the Schengen main-destination rule nor its medical insurance requirement applies to ordinary Singapore visitor entry.
-
-The inclusion of these unrelated requirements strongly suggests that material intended for European visa applications was reused without adequate destination-specific verification.
-
-This is particularly concerning because the page presents itself as professional immigration guidance, includes an official-source verification claim, and identifies **June 2026** as its most recent review.
-
-### Significance of the False Visa Requirement
-
-The contradiction is straightforward:
-
-- **TVC claims:** Thai citizens must obtain Singapore entry visas through authorized agents before traveling.
-- **Singapore ICA confirms:** Thailand is not a visa-required nationality.
-- **Thailand's Ministry of Foreign Affairs confirms:** Ordinary Thai passport holders qualify for visa-free visits of up to 30 days.
-
-This is not a minor discrepancy involving processing times or supporting documents.
-
-**Thai Visa Centre is advertising assistance for an entry visa that its intended Thai tourist customers do not ordinarily need.**
-
-The unrelated Schengen requirements further undermine the credibility of its claimed editorial review and professional immigration guidance.
-
-Although the evidence does not prove deliberate deception or completed unnecessary visa sales, it establishes that TVC publicly promotes a visa application process based on a demonstrably false requirement.
-
-**A commercial visa agency that cannot correctly identify whether its target customers need a visa is failing at the most fundamental part of the service it claims to provide.**
-
-## South Korea Visa Service Falsely Claims Thai Tourists Require Embassy Visas
-
-Thai Visa Centre advertises a *South Korea Visa Thailand - Apply from Thailand* service that repeatedly tells Thai passport holders they must obtain C-3 embassy visas before traveling to South Korea.[^561]
-
-The page explicitly claims:
-
-- Thailand does not qualify for South Korea's visa-exemption arrangements.
-- Thai citizens must obtain C-3 tourist visas before traveling.
-- K-ETA cannot replace an embassy visa for Thai nationals.
-- Applying for K-ETA instead of a C-3 visa is a common mistake.
-- Thai tourists must prepare financial records, employment certificates, itineraries, and embassy application documents.
-
-**These instructions contradict South Korea's longstanding visa-waiver agreement with Thailand and the Korean Embassy's own published requirements.**
-
-### Thai Passport Holders Qualify for 90-Day Visa-Free Entry
-
-South Korea's Ministry of Foreign Affairs identifies Thailand as a country covered by a bilateral visa-waiver agreement.
-
-The official list expressly includes ordinary Thai passports and permits qualifying visits of up to **90 days without a visa**.[^562]
-
-The Korean Embassy in Bangkok independently confirms that travelers entering through the K-ETA system remain eligible for the standard 90-day stay.[^563]
-
-K-ETA is an electronic travel authorization for eligible visa-exempt travelers, not an embassy-issued visa.
-
-For ordinary Thai tourists, the appropriate route is therefore generally visa-free travel with approved K-ETA, subject to applicable exemptions and entry conditions.
-
-Thailand is not among the nationalities benefiting from South Korea's temporary K-ETA exemption through December 31, 2026. Most adult Thai travelers using visa-free entry must consequently obtain K-ETA authorization before departure.[^564]
-
-K-ETA approval does not guarantee admission. Korean immigration authorities retain discretion to refuse entry, and travelers intending to work or undertake activities outside the visa waiver must obtain appropriate authorization.
-
-**None of these conditions supports TVC's assertion that Thai citizens are categorically ineligible for visa-free entry.**
-
-### Korean Embassy Requires K-ETA Refusal Before Certain Visa Applications
-
-The most significant contradiction comes from the Korean Embassy in Bangkok.
-
-Its visa application guidance, updated July 7, 2026, identifies K-ETA eligibility as a relevant prerequisite for short-term visa applications.[^565]
-
-For C-3-9 tourist visas, the embassy states that applicants from K-ETA-eligible nationalities may submit embassy visa applications only after their K-ETA applications have been refused.
-
-Applicants must provide documentation of that refusal.
-
-**TVC recommends the embassy visa application process as the normal first step, while the Korean Embassy generally requires eligible travelers to attempt K-ETA before applying for that visa.**
-
-This reverses the actual application sequence.
-
-The difference is consequential. A Thai tourist who qualifies for visa-free entry and receives K-ETA approval ordinarily has no need to complete the embassy C-3 tourist visa application promoted by TVC.
-
-An embassy visa remains relevant in circumstances such as K-ETA refusal or travel purposes requiring another visa category. Those exceptions do not make C-3 visas mandatory for all Thai tourists.
-
-### Unnecessary Documents and Commercial Assistance
-
-TVC promotes its Bangkok document-preparation services alongside instructions requiring applicants to assemble:
-
-- Completed embassy visa applications and passport photographs.
-- Detailed travel itineraries and accommodation evidence.
-- Bank statements demonstrating financial capacity.
-- Employment certificates and supporting documentation.
-- Embassy appointments and visa application procedures.
-
-The page also tells applicants to pay official visa fees and collect visa stickers before traveling.[^561]
-
-For eligible Thai tourists who can travel with approved K-ETA, these embassy application steps are unnecessary.
-
-**TVC is promoting professional document-preparation assistance for a visa that many of its intended customers do not need.**
-
-Customers relying on this guidance could spend money on unnecessary assistance, prepare extensive financial and employment documents, or delay travel while attempting to obtain embassy appointments.
-
-The available evidence does not establish that particular customers purchased unnecessary services or that TVC deliberately misrepresented Korean entry requirements.
-
-It establishes that the agency markets assistance based on a false statement about Thai nationality eligibility.
-
-### Repeated K-ETA Misinformation Despite Claimed Review
-
-The incorrect requirement is not confined to an isolated sentence.
-
-TVC repeats it in the page's introductory explanation, requirements table, application instructions, additional guidance, common-mistakes section, and frequently asked questions.[^561]
-
-The agency also claims that using K-ETA instead of an embassy visa is a frequent mistake encountered during its Bangkok consultations.
-
-That claim is especially concerning because K-ETA is precisely the authorization system applicable to eligible Thai tourists entering South Korea without visas.
-
-TVC identifies **June 2026** as the page's latest review and directs readers to official Korean immigration resources.
-
-However, its central instructions contradict those resources, including the Korean Embassy in Bangkok's own published application requirements.
-
-### Commercial and Editorial Significance
-
-The official position is clear:
-
-- **TVC claims:** Thai citizens are not visa-exempt and must obtain C-3 embassy visas.
-- **South Korean government confirms:** Ordinary Thai passport holders qualify for visa-free visits of up to 90 days.
-- **Korean Embassy in Bangkok confirms:** K-ETA travelers retain the 90-day stay entitlement, and K-ETA-eligible tourist visa applicants generally must first receive a K-ETA refusal.
-- **Current K-ETA guidance confirms:** Thailand is not included in the temporary nationality-wide K-ETA exemption, so authorization remains the normal route for eligible adult Thai tourists.
-
-This is the second identified outbound-visa service page on which Thai Visa Centre categorically misrepresents whether Thai citizens need an entry visa.
-
-The Singapore page incorrectly advertises mandatory visas for visa-exempt Thai tourists. The South Korea page repeats the same fundamental failure while explicitly discouraging travelers from using the correct electronic authorization system.
-
-**Thai Visa Centre is marketing embassy visa assistance to Thai tourists who are ordinarily entitled to travel without those visas.**
-
-The evidence does not prove deliberate deception or completed unnecessary sales.
-
-It does establish another serious commercial misinformation problem: **TVC repeatedly directs eligible travelers toward an unnecessary visa application while presenting itself as a professionally reviewed immigration advisory service.**
-
-## China Tourist Visa Service Falsely Claims Thai Citizens Need Entry Visas
-
-Thai Visa Centre advertises a *Chinese Tourist Visa - Apply from Thailand* service that incorrectly tells Thai passport holders they must obtain L-category tourist visas before visiting China.[^566]
-
-The page repeatedly instructs Thai travelers to:
-
-- Apply through the Chinese Visa Application Service Center in Bangkok.
-- Complete an L-category tourist visa application.
-- Prepare financial statements, employer letters, itineraries, and accommodation records.
-- Attend an application appointment and pay government visa fees.
-- Obtain a visa sticker before departing Thailand.
-
-It explicitly claims that Thailand is not visa-exempt for Chinese tourism and identifies L visas as the standard route for Thai holidaymakers.
-
-**These claims contradict the permanent China–Thailand visa-exemption agreement that entered into force on March 1, 2024.**
-
-### Thai Citizens Have Qualified for Visa-Free Entry Since March 2024
-
-On January 28, 2024, Thailand and China signed an agreement establishing reciprocal visa exemptions for ordinary passport holders.
-
-Thailand's Ministry of Foreign Affairs confirmed that the agreement took effect on March 1, 2024.[^567]
-
-Under the agreement, Thai ordinary passport holders may enter China without obtaining visas for qualifying visits, subject to:
-
-- A maximum stay of 30 days per entry.
-- A cumulative maximum of 90 days within any 180-day period.
-- Restrictions on employment, study, residence, media activities, and other purposes requiring prior authorization.
-
-The Chinese Embassy in Bangkok independently confirms these requirements in its official visa application guidance.[^568]
-
-Travelers exceeding the permitted duration or undertaking activities outside the agreement must obtain appropriate visas.
-
-**Ordinary Thai tourists visiting China within the exemption limits do not need the L-category visas TVC presents as mandatory.**
-
-The distinction is especially significant because the bilateral agreement had already been operating for more than two years when TVC claimed to have reviewed its guidance in June 2026.
-
-### TVC Directs Visa-Exempt Tourists Through an Unnecessary Paid Process
-
-TVC's page provides a detailed application sequence involving online forms, appointments, financial documentation, visa fees, biometric procedures, and passport collection.[^566]
-
-It instructs Thai tourists to use the Chinese Visa Application Service Center in Bangkok, describes four-to-five-working-day processing, and recommends preparing employer leave letters and bank statements.
-
-TVC also advertises its own document-preparation, certified-translation, and application-review assistance.
-
-**For qualifying Thai tourists visiting China visa-free, these embassy visa application steps are unnecessary.**
-
-Following TVC's guidance could cause travelers to:
-
-- Pay professional document-preparation fees for an unnecessary visa.
-- Incur unnecessary government application or service-center charges.
-- Disclose financial and employment information not required for a visa-exempt visit.
-- Delay departure while arranging appointments or awaiting visa processing.
-
-The evidence does not establish that TVC collected payments from particular customers for unnecessary applications.
-
-It does establish that the agency commercially promotes a process based on an incorrect statement of Thai passport holders' visa eligibility.
-
-### TVC's Visa-Waiver Guide Contradicts Its Own Sales Page
-
-The discrepancy is particularly revealing because Thai Visa Centre publishes a separate article titled *Thailand and China Visa Waiver: From March 2024 to 2026 Rules*.[^569]
-
-That article acknowledges the permanent bilateral agreement and expressly recognizes that the reciprocal exemption benefits Thai passport holders visiting China.
-
-**TVC therefore publishes two incompatible explanations of the same immigration agreement.**
-
-Its visa-waiver guide correctly acknowledges that Thai travelers benefit from the reciprocal arrangement.
-
-Its commercial Chinese tourist visa page instead claims Thailand is not visa-exempt and repeatedly directs Thai tourists toward embassy-issued L visas.
-
-The contradiction cannot be explained simply by differences in trip duration or purpose.
-
-The commercial page specifically describes ordinary tourism, short holidays, and standard Thai holidaymakers. Those are precisely the circumstances in which the bilateral exemption ordinarily applies.
-
-### Misleading Claims About Transit and Tourist Entry
-
-The commercial page further describes visa-free transit as a limited alternative involving 24-hour or 144-hour arrangements, adding that such exemptions are not valid for full tourism itineraries.[^566]
-
-This presentation omits the separate bilateral visa waiver applicable to Thai ordinary passport holders.
-
-The omission is consequential because it suggests that even Thai travelers visiting China for ordinary tourism must obtain L visas unless they qualify for a restricted transit arrangement.
-
-**The bilateral agreement permits qualifying Thai passport holders to visit China without obtaining an embassy tourist visa. It is not merely a transit concession.**
-
-TVC's explanation therefore misrepresents both the existence and practical usefulness of the exemption.
-
-### Visa Exemption Remains in Force in 2026
-
-The Chinese Embassy in Thailand reaffirmed in September 2026 that the bilateral visa-exemption agreement effective March 1, 2024, remained in force despite changes to Thailand's separate unilateral exemption scheme.[^570]
-
-This confirms the continuing operation of the bilateral arrangement after TVC's claimed June 2026 editorial review.
-
-Although a visa remains necessary for certain longer stays and regulated activities, the agency's categorical statement that ordinary Thai holidaymakers require visa stickers is incorrect.
-
-### Commercial and Editorial Significance
-
-The evidence establishes four important facts:
-
-- **TVC's commercial page:** Presents L tourist visas as the standard requirement for Thai holidaymakers.
-- **Thailand's Ministry of Foreign Affairs:** Confirms the bilateral agreement effective March 1, 2024.
-- **Chinese Embassy in Bangkok:** Explicitly confirms visa-free entry for qualifying Thai ordinary passport holders.
-- **TVC's separate visa-waiver guide:** Acknowledges that Thai passport holders benefit from the reciprocal exemption.
-
-This is now the third identified outbound-visa service page on which Thai Visa Centre misrepresents whether ordinary Thai tourists need visas.
-
-The Singapore, South Korea, and China findings concern different immigration systems, but share the same commercially significant problem: **TVC directs visa-exempt Thai travelers toward unnecessary visa application services.**
-
-In China's case, the misrepresentation is especially difficult to reconcile with the agency's claimed professional review because its own website contains an explanation acknowledging the very exemption its commercial service page denies.
-
-The available evidence does not establish deliberate deception or completed unnecessary sales.
-
-It does establish a serious factual failure in commercially oriented immigration guidance, reinforced by contradictory information on TVC's own website.
-
-**Thai Visa Centre is advertising paid document-preparation assistance for Chinese tourist visas while falsely telling qualifying Thai holidaymakers that they cannot visit China without those visas.**
+**The recurring failure is that a business selling visa assistance incorrectly tells eligible Thai travelers they need the very visa applications it offers to help prepare.** Additional verified country-specific examples should be documented under this consolidated section rather than duplicated as separate top-level investigations.
 
 ## Misleading Five-Year O-A Retirement Extension Claims
 
