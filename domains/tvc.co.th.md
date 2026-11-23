@@ -4152,6 +4152,49 @@ Alternatively, a customer's agreement might expressly make approval a condition 
 
 The separately advertised written deposit agreements might contain additional protections or exceptions. Their individual terms have not been examined in this investigation.
 
+### Liability Clause Can Reduce the Contractual Compensation Cap to One Dollar
+
+Thai Visa Centre's Terms & Conditions contain a sweeping financial liability restriction that is not explained alongside its advertised refundable-deposit guarantee.[^185]
+
+Under *Limitation of liability*, the agreement caps the company's aggregate liability at the greater of:
+
+- One dollar.
+- Amounts actually paid to TVC during the one-month period preceding the event giving rise to liability.
+
+**This means that, under the company's stated formula, a customer who paid substantial fees more than one month before a disputed event could face a contractual liability cap of just one dollar.**
+
+### Immigration Services Frequently Extend Beyond One Month
+
+Visa applications, extensions, and related immigration services can involve processing periods extending weeks or months after customers make their initial payments.
+
+Consider a customer who pays a substantial deposit and encounters a serious service failure two months later.
+
+If the customer made no additional payments during the preceding month, TVC's contractual formula would produce a liability ceiling of only one dollar.
+
+**The restriction measures liability against recent payments rather than the total amount paid for the disputed service.**
+
+The Terms & Conditions also attempt to exclude numerous categories of consequential damages, including lost revenue, business interruption, and lost business opportunities.
+
+These exclusions could be particularly consequential for immigration customers whose unsuccessful applications affect employment, international travel, accommodation, or business commitments.
+
+### The Relationship With Full Refunds Is Unexplained
+
+Thai Visa Centre prominently advertises refundable deposits and promises that customers will recover their deposits if the agency fails to complete the agreed service.[^183]
+
+Its Refund Policy separately provides for refunds of qualifying agency fees, subject to stated exclusions.[^184]
+
+However, the published documents do not explain how those refund obligations interact with the one-month liability cap.
+
+A contractual refund obligation is not necessarily equivalent to a damages claim. The liability clause therefore does not, by itself, establish that TVC can legally reduce an otherwise valid refund entitlement to one dollar.
+
+**Nevertheless, TVC advertises substantial financial protection while simultaneously publishing a contractual formula that could drastically restrict other compensation claims.**
+
+The enforceability of that limitation under applicable Thai law has not been established.
+
+The documented issue is the company's attempt to impose an exceptionally restrictive financial liability formula without explaining its relationship to the refunds and customer protections used in its marketing.
+
+Thai Visa Centre should disclose whether its liability cap applies to deposit refunds, distinguish contractual repayment obligations from claims for damages, and explain why compensation is calculated using only the preceding month's payments rather than the amount paid for the affected service.
+
 ### Implications for Customers Paying in Advance
 
 Immigration applications can involve substantial agency fees, government charges, and additional expenses for supporting documentation.
@@ -4162,7 +4205,7 @@ The distinction between receiving a full deposit refund and receiving only the r
 
 Thai Visa Centre's Terms & Conditions introduce further uncertainty by identifying the contracting party only as THAI VISA CENTRE and imposing broad limitations of financial liability.[^185]
 
-The existing investigation separately examines those contractual provisions.
+The specific liability formula and its potential consequences for compensation claims are examined above.
 
 The available evidence does not establish that Thai Visa Centre has unlawfully withheld refunds, failed to honor a customer's individual agreement, or deliberately misrepresented its payment protections.
 
