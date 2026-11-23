@@ -185,7 +185,7 @@ This does not rule out an earlier business or review history. TVC does not, howe
 
 The earlier total included **1,191 historical five-star Facebook ratings** as well as 471 written Facebook reviews. The historical ratings alone represented more than 27% of the 4,351 advertised entries, despite providing no accompanying account of the service purchased.[^14]
 
-Trustpilot also displayed sharply different ratings for domains associated with the same service network on November 17, 2026:[^17][^18]
+Trustpilot also displayed sharply different ratings for domains associated with the same service network on November 17, 2026:[^17][^18][^19][^20]
 
 | Domain | Trustpilot rating | Reviews |
 |---|---:|---:|
@@ -9250,10 +9250,10 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^14]: `https://tvc.co.th/`
 [^15]: `https://tvc.co.th/reviews/fake-reviews`
 [^16]: https://www.dataforthai.com/company/0115563017485/
-[^17]: `https://www.trustpilot.com/review/tvc.co.th`
-[^18]: `https://www.trustpilot.com/review/tvc.in.th`
-[^19]: `https://www.trustpilot.com/review/tdac.in.th`
-[^20]: `https://www.trustpilot.com/review/dtv.in.th`
+[^17]: https://www.trustpilot.com/review/tvc.co.th
+[^18]: https://www.trustpilot.com/review/tvc.in.th
+[^19]: https://www.trustpilot.com/review/tdac.in.th
+[^20]: https://www.trustpilot.com/review/dtv.in.th
 [^21]: `https://tvc.co.th/faq/retirement-funds-must-stay-in-bank-account`
 [^22]: https://www.thailand.go.th/public/visit-thailand-detail/001_01_134
 [^23]: https://www.thailawonline.com/thailand-retirement-visa-requirements/
