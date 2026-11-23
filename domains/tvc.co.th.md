@@ -4320,7 +4320,7 @@ It establishes that **TVC publishes financial thresholds inconsistent with Minis
 Thai Visa Centre should correct its tourist-visa financial checklist, distinguish tourist visas from Visa on Arrival requirements, explain insurance as a recommendation except where a specific applicable rule requires it, and remove the unconditional 60-day stay guarantee.
 
 
-## One-Year Visa Page Incorrectly Requires 90-Day Reports After Re-Entry
+## One-Year Visa Page Misstates Reporting and Eligibility Requirements
 
 Thai Visa Centre's commercial *Thailand One-Year Non-Immigrant Visa* page incorrectly instructs frequent international travelers to continue filing 90-day immigration reports even when they regularly leave and re-enter Thailand.[^176]
 
@@ -4388,6 +4388,39 @@ However, **its commercial service page incorrectly presents a conditional immigr
 
 The agency should correct the FAQ, distinguish continuous residence from repeated short visits, and reconcile its commercial visa guidance with its own accurate explanation of the reporting clock.
 
+
+### One-Year Visa Page Falsely Presents Retirement-Visa Conditions as Universal Requirements
+
+Thai Visa Centre's commercial *Thailand One-Year Non-Immigrant Visa* page advertises assistance for business, education, retirement, and family applicants while imposing a single set of eligibility conditions across these distinct immigration categories.[^176]
+
+Its general eligibility checklist requires applicants to have:
+
+- A passport valid for at least 18 months.
+- No criminal record.
+- Valid travel insurance.
+- An application submitted from outside Thailand.
+
+The page's documentation section repeats the 18-month passport requirement and states that insurance must cover the entire stay.
+
+**These are not universal requirements for the Non-Immigrant visa categories TVC advertises.**
+
+Thailand's Ministry of Foreign Affairs specifies a minimum passport validity of six months for ordinary Non-B business and employment applications.[^543]
+
+Official Non-O family-visa guidance likewise specifies six months and does not impose a general mandatory health-insurance condition.[^544]
+
+By contrast, the separate Non-O-A long-stay retirement category expressly requires an 18-month-valid passport, qualifying medical insurance, and a criminal-record clearance certificate.[^545]
+
+**TVC therefore appears to have generalized requirements associated with the O-A retirement category across unrelated immigration programs.**
+
+The company's instruction that all applicants must apply from outside Thailand introduces another discrepancy. As documented separately in this investigation, Thailand permits qualifying applicants to request certain Non-Immigrant visa conversions through the Immigration Bureau without leaving the country.[^167]
+
+Individual embassies may impose additional documentation, police-clearance, or insurance requirements depending on the visa category, nationality, and application circumstances. These exceptions do not establish a blanket requirement applicable to every category advertised on TVC's page.
+
+The consequences are practical. Applicants could incorrectly believe their passports are ineligible, purchase insurance that is not generally required, or pursue unnecessary overseas applications.
+
+**The company markets specialized immigration expertise while presenting materially different visa categories under a misleading common eligibility checklist.**
+
+TVC should distinguish category-specific requirements rather than treating conditions associated with one visa program as mandatory for all applicants.
 
 ## Five-Year Retirement Visa Page Advertises Work Rights Contrary to Official Restrictions
 
@@ -10219,3 +10252,9 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^541]: https://doha.thaiembassy.org/en/publicservice/tourist-visa-exemption-visa-on-arrival?cate=5d7e40bb15e39c032c0056ec — Royal Thai Embassy, Doha, tourist visa exemption requirements updated September 16, 2026, confirming the 30-day scheme and eligible nationalities.
 
 [^542]: `https://tvc.co.th/faq/can-i-stay-in-thailand-for-32-days` — Thai Visa Centre, *Can I Stay in Thailand for 32 Days?*, reviewed June 2026; outdated 60-day exemption advice and explicit instructions for 32-day trips.
+
+[^543]: https://www.mfa.go.th/en/page/non-immigrant-visa-b — Thailand Ministry of Foreign Affairs, Non-Immigrant B visa requirements, including six-month passport validity and category-specific supporting documents.
+
+[^544]: https://helsinki.thaiembassy.org/en/publicservice/non-immigrant-visa-o-visiting-thai-spouse-family?cate=5f50ecaef894a206cc360022 — Royal Thai Embassy, Helsinki, Non-Immigrant O family visa requirements.
+
+[^545]: https://hochiminh.thaiembassy.org/en/publicservice/non-immigrant-o-staying-with-family-members-long-s — Royal Thai Consulate-General, Ho Chi Minh City, separate Non-O and Non-O-A requirements, including passport validity, insurance, and criminal-record checks.
