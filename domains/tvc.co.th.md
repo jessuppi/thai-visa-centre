@@ -8697,67 +8697,67 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^156]: https://www.fragomen.com/insights/thailand-mandatory-online-work-permit-and-foreign-worker-registration-system-forthcoming.html — Fragomen, successive 2026 updates concerning extensions to manual submission arrangements.
 [^157]: https://www.fragomen.com/insights/thailand-new-work-permit-submission-options-for-companies-eligible-for-the-rapid-process.html — Fragomen, April 28, 2026, manual and electronic filing arrangements for eligible employers.
 
-[^158]: https://tvc.co.th/visas/thailand-permanent-residency — Thai Visa Centre, permanent-residency service page, including October–December application claims.
-[^159]: https://tvc.co.th/guides/permanent-residence-thailand — Thai Visa Centre, permanent-residence guide, marked reviewed June 2026.
+[^158]: `https://tvc.co.th/visas/thailand-permanent-residency` — Thai Visa Centre, permanent-residency service page, including October–December application claims.
+[^159]: `https://tvc.co.th/guides/permanent-residence-thailand` — Thai Visa Centre, permanent-residence guide, marked reviewed June 2026.
 [^160]: https://www.phangngaimmigration.go.th/news/06-03-2026 — Phang Nga Immigration, March 6, 2026, official announcement of permanent-residency quota, application dates, and submission locations.
-[^161]: https://tvc.co.th/guides/thailand-e-visa — Thai Visa Centre, e-Visa guide acknowledging that permanent residence follows separate application procedures.
+[^161]: `https://tvc.co.th/guides/thailand-e-visa` — Thai Visa Centre, e-Visa guide acknowledging that permanent residence follows separate application procedures.
 
-[^162]: https://tvc.co.th/visas/thailand-marriage-visa — Thai Visa Centre, marriage-visa service page, renewal instructions and bank-deposit requirements.
-[^163]: https://tvc.co.th/visas/thailand-retirement-visa — Thai Visa Centre, retirement-visa service page, annual renewal instructions.
+[^162]: `https://tvc.co.th/visas/thailand-marriage-visa` — Thai Visa Centre, marriage-visa service page, renewal instructions and bank-deposit requirements.
+[^163]: `https://tvc.co.th/visas/thailand-retirement-visa` — Thai Visa Centre, retirement-visa service page, annual renewal instructions.
 [^164]: https://pathumthani.imm.police.go.th/wp-content/uploads/2025/09/1.6.2-Wife.pdf — Pathum Thani Immigration, September 2025, official marriage-extension checklist specifying TM7, two-month deposit maintenance, and supporting documents.
 [^165]: https://www.samutprakanimmigration.go.th/download-forms/ — Samut Prakan Immigration, official form directory distinguishing TM7 extension applications from TM47 address notifications.
 
-[^166]: https://tvc.co.th/visas/thailand-business-visa — Thai Visa Centre, business-visa service page, eligibility criteria, application instructions, and FAQ.
+[^166]: `https://tvc.co.th/visas/thailand-business-visa` — Thai Visa Centre, business-visa service page, eligibility criteria, application instructions, and FAQ.
 [^167]: https://thailand.go.th/visit-thailand-detail/001-01-005-2 — Thailand government, Immigration Division 1, application for change of visa type to Non-Immigrant B for employment with a company or partnership.
 [^168]: https://www.mfa.go.th/en/publicservice/non-immigrant-visa-b-for-business-and-work — Ministry of Foreign Affairs, Non-Immigrant Visa B guidance, section 3.3, recognizing in-country changes of visa status.
 
-[^169]: https://tvc.co.th/visas/thailand-smart-visa — Thai Visa Centre, SMART Visa service page advertising Talent, Investor, Executive, and Startup categories.
+[^169]: `https://tvc.co.th/visas/thailand-smart-visa` — Thai Visa Centre, SMART Visa service page advertising Talent, Investor, Executive, and Startup categories.
 [^170]: https://smart-visa.boi.go.th/smart/document/related/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_5_2568_EN.pdf — Thailand Board of Investment, Announcement No. Por 5/2568, February 18, 2025, replacing the former SMART Visa eligibility framework for new applications.
 
-[^171]: https://tvc.co.th/visas/thailand-tourist-visa — Thai Visa Centre, tourist-visa service page, financial requirements and insurance restrictions.
+[^171]: `https://tvc.co.th/visas/thailand-tourist-visa` — Thai Visa Centre, tourist-visa service page, financial requirements and insurance restrictions.
 [^172]: https://www.mfa.go.th/en/page/issuance-of-visa — Ministry of Foreign Affairs, official tourist-visa requirements specifying 20,000 baht per person and 40,000 baht per family.
 [^173]: https://budapest.thaiembassy.org/en/publicservice/tourist-visa-tr?cate=698497c323290a095267d1c3 — Royal Thai Embassy, Budapest, February 6, 2026, tourist-visa financial requirements.
 [^174]: https://doha.thaiembassy.org/en/publicservice/tourist-visa-exemption-visa-on-arrival — Royal Thai Embassy, Doha, distinguishing Visa on Arrival financial requirements.
-[^175]: https://tvc.co.th/faq/do-i-need-health-insurance-for-thailand — Thai Visa Centre, insurance FAQ distinguishing mandatory coverage from recommended tourist insurance.
+[^175]: `https://tvc.co.th/faq/do-i-need-health-insurance-for-thailand` — Thai Visa Centre, insurance FAQ distinguishing mandatory coverage from recommended tourist insurance.
 
-[^176]: https://tvc.co.th/visas/thailand-one-year-visa — Thai Visa Centre, One-Year Non-Immigrant Visa service page, restrictions and 90-day reporting FAQ.
+[^176]: `https://tvc.co.th/visas/thailand-one-year-visa` — Thai Visa Centre, One-Year Non-Immigrant Visa service page, restrictions and 90-day reporting FAQ.
 [^177]: https://thailand.go.th/public/useful-information-detail/001-01-018 — Thailand government, Immigration Division 1, official guidance confirming that the 90-day reporting count resets upon re-entry.
 [^178]: https://thaiconsulatela.thaiembassy.org/en/publicservice/foreigners-staying-in-thailand-more-than-90-days — Royal Thai Consulate-General, Los Angeles, official 90-day reporting instructions.
-[^179]: https://tvc.co.th/faq/90-day-reporting-while-outside-of-thailand — Thai Visa Centre, FAQ correctly explaining reporting exemptions following departure and re-entry.
+[^179]: `https://tvc.co.th/faq/90-day-reporting-while-outside-of-thailand` — Thai Visa Centre, FAQ correctly explaining reporting exemptions following departure and re-entry.
 
-[^180]: https://tvc.co.th/visas/thailand-five-year-retirement-visa — Thai Visa Centre, five-year O-X retirement visa service page, advertised remote-work and volunteer benefits.
+[^180]: `https://tvc.co.th/visas/thailand-five-year-retirement-visa` — Thai Visa Centre, five-year O-X retirement visa service page, advertised remote-work and volunteer benefits.
 [^181]: https://thaiconsulatela.thaiembassy.org/en/publicservice/non-immigrant-visa-category-o-x — Royal Thai Consulate-General, Los Angeles, O-X visa requirements, updated October 1, 2026.
 [^182]: https://kualalumpur.thaiembassy.org/en/publicservice/non-immigrant-visa-o-x-for-long-stay-10-years — Royal Thai Embassy, Kuala Lumpur, O-X visa guidance, updated July 17, 2026.
 
-[^183]: https://tvc.co.th/ — Thai Visa Centre homepage, *Transparent payments, refundable deposits, and nationwide service*, including its full-refund guarantee.
-[^184]: https://tvc.co.th/policy/refund — Thai Visa Centre, Refund Policy, updated February 9, 2025, including government-fee exclusions and transaction-charge deductions.
-[^185]: https://tvc.co.th/policy/terms-and-conditions — Thai Visa Centre, Terms & Conditions, updated February 9, 2025, including contractual identity and liability provisions.
+[^183]: `https://tvc.co.th/` — Thai Visa Centre homepage, *Transparent payments, refundable deposits, and nationwide service*, including its full-refund guarantee.
+[^184]: `https://tvc.co.th/policy/refund` — Thai Visa Centre, Refund Policy, updated February 9, 2025, including government-fee exclusions and transaction-charge deductions.
+[^185]: `https://tvc.co.th/policy/terms-and-conditions` — Thai Visa Centre, Terms & Conditions, updated February 9, 2025, including contractual identity and liability provisions.
 
-[^186]: https://tvc.co.th/visas/thailand-privilege-visa — Thai Visa Centre, Thailand Privilege Visa service page, membership duration, permitted stay, and claim that extensions are unnecessary.
+[^186]: `https://tvc.co.th/visas/thailand-privilege-visa` — Thai Visa Centre, Thailand Privilege Visa service page, membership duration, permitted stay, and claim that extensions are unnecessary.
 [^187]: https://www.thailandprivilege.co.th/living-in-thailand — Thailand Privilege Card Co., Ltd., official stay-extension requirements, including TM7, personal attendance, and the 1,900-baht fee.
-[^188]: https://tvc.co.th/guides/thailand-privilege-visa — Thai Visa Centre, 2026 Thailand Privilege guide acknowledging the choice between re-entry and an in-country stay extension.
+[^188]: `https://tvc.co.th/guides/thailand-privilege-visa` — Thai Visa Centre, 2026 Thailand Privilege guide acknowledging the choice between re-entry and an in-country stay extension.
 
-[^189]: https://tvc.co.th/visas/thailand-retirement-visa — Thai Visa Centre, standard retirement-visa service page, advertising permanent residency as a benefit.
-[^190]: https://tvc.co.th/visas/thailand-five-year-retirement-visa — Thai Visa Centre, O-X retirement-visa service page, claiming a clearer path to permanent residency.
+[^189]: `https://tvc.co.th/visas/thailand-retirement-visa` — Thai Visa Centre, standard retirement-visa service page, advertising permanent residency as a benefit.
+[^190]: `https://tvc.co.th/visas/thailand-five-year-retirement-visa` — Thai Visa Centre, O-X retirement-visa service page, claiming a clearer path to permanent residency.
 [^191]: https://www.thailand.go.th/useful-information-detail/001_01_150 — Thailand government, Immigration Bureau guidance on permanent-residence eligibility and application categories.
 [^192]: https://london.thaiembassy.org/en/publicservice/84402-residence-permit — Royal Thai Embassy, London, official residence-permit qualifications and application categories.
 
-[^193]: https://tvc.co.th/visas/thailand-permanent-residency — Thai Visa Centre, permanent-residency service page, annual reporting claims and advertised reporting assistance.
+[^193]: `https://tvc.co.th/visas/thailand-permanent-residency` — Thai Visa Centre, permanent-residency service page, annual reporting claims and advertised reporting assistance.
 [^194]: https://phrae.immigration.go.th/wp-content/uploads/2024/06/Immigration_Act_B.E._2522.pdf — Immigration Act B.E. 2522 (1979), Sections 37, 48, and 50, as published by Phrae Immigration.
 [^195]: https://ltr.boi.go.th/page/how-to-manage.html — Thailand Board of Investment, official annual reporting requirements for LTR visa holders.
 [^196]: https://thailand.go.th/issue-focus-detail/001-01-053?hl=en — Thai government, alien identity certificates, police registration, and one-year or five-year renewals.
 
-[^197]: https://tvc.co.th/visas/thailand-long-term-resident-visa-ltr — Thai Visa Centre, LTR commercial service page, including outdated income and work-experience requirements.
+[^197]: `https://tvc.co.th/visas/thailand-long-term-resident-visa-ltr` — Thai Visa Centre, LTR commercial service page, including outdated income and work-experience requirements.
 [^198]: https://ltr.boi.go.th/documents/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_3_2568_%28EN%29.pdf — Thailand Board of Investment, Announcement Por. 3/2568, effective February 4, 2025.
 [^199]: https://www.boi.go.th/index.php?_module=news&from_page=press_releases&language=en&page=press_releases_detail&topic_id=136393 — Thailand Board of Investment, official announcement explaining changes to LTR eligibility.
-[^200]: https://tvc.co.th/guides/ltr-visa-thailand-eases-eligibility-requirements — Thai Visa Centre, guide correctly explaining the 2025 LTR reforms.
+[^200]: `https://tvc.co.th/guides/ltr-visa-thailand-eases-eligibility-requirements` — Thai Visa Centre, guide correctly explaining the 2025 LTR reforms.
 
-[^201]: https://tvc.co.th/faq/do-i-get-thai-nationality-after-marriage — Thai Visa Centre, *Do I Get Thai Nationality After Marriage?*, reviewed June 2026, including its PR requirements, comparison table, and citizenship timeline.
+[^201]: `https://tvc.co.th/faq/do-i-get-thai-nationality-after-marriage` — Thai Visa Centre, *Do I Get Thai Nationality After Marriage?*, reviewed June 2026, including its PR requirements, comparison table, and citizenship timeline.
 [^202]: https://report.dopa.go.th/laws/document/2/226.pdf — Department of Provincial Administration, *Nationality Act B.E. 2508 (1965)*, consolidated English translation, Sections 9–12, including the 2008 amendment to Section 11.
 [^203]: https://callcenter1548.bora.dopa.go.th/คู่มือปฏิบัติงานสำหรับ/ — Department of Provincial Administration, Bureau of Registration Administration, public-service guidance for acquisition of Thai nationality under Section 9.
 [^204]: https://www.bora.dopa.go.th/wp-content/uploads/2022/01/mt03091_v4041.pdf — Department of Provincial Administration, Ministry of Interior Circular มท 0309.1/ว 4041, guidance covering naturalization under Section 11, including foreign husbands of Thai citizens.
 
-[^205]: https://tvc.co.th/visas/thailand-long-term-resident-visa-ltr — Thai Visa Centre, commercial LTR service page, identifying 50,000 baht as a non-refundable application fee.
+[^205]: `https://tvc.co.th/visas/thailand-long-term-resident-visa-ltr` — Thai Visa Centre, commercial LTR service page, identifying 50,000 baht as a non-refundable application fee.
 
 [^206]: https://ltr.boi.go.th/page/faq.html — Thailand Board of Investment, official LTR FAQ, confirming free application processing and payment of 50,000 baht after approval.
 
@@ -8765,21 +8765,21 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^208]: https://ltr.boi.go.th/ — Thailand Board of Investment, LTR application and issuance overview, explaining overseas consular-fee variations.
 
-[^209]: https://tvc.co.th/visas/thailand-marriage-visa — Thai Visa Centre, commercial marriage-visa service page, including its generalized bank-deposit and income requirements.
+[^209]: `https://tvc.co.th/visas/thailand-marriage-visa` — Thai Visa Centre, commercial marriage-visa service page, including its generalized bank-deposit and income requirements.
 
-[^210]: https://tvc.co.th/faq/thai-marriage-visa-requirements — Thai Visa Centre, *Thai Marriage Visa Requirements*, reviewed June 2026, including financial evidence in the applicant's name.
+[^210]: `https://tvc.co.th/faq/thai-marriage-visa-requirements` — Thai Visa Centre, *Thai Marriage Visa Requirements*, reviewed June 2026, including financial evidence in the applicant's name.
 
 [^211]: https://roiet.imm.police.go.th/wp-content/uploads/2025/02/3-3-new.pdf — Immigration Bureau Order No. 12/2568, Clause 2.18(6)–(7), establishing separate financial criteria for marriages between men and women and marriages between persons of diverse genders.
 
-[^212]: https://tvc.co.th/visas/thailand-90-day-non-immigrant-visa — Thai Visa Centre, 90-day Non-Immigrant visa service page, FAQ requiring Non-B conversion and work-permit approval before employment.
+[^212]: `https://tvc.co.th/visas/thailand-90-day-non-immigrant-visa` — Thai Visa Centre, 90-day Non-Immigrant visa service page, FAQ requiring Non-B conversion and work-permit approval before employment.
 
 [^213]: https://www.mol.go.th/wp-content/uploads/sites/2/2021/03/คู่มือการรับเรื่องร้องทุกข์-ปี-2564-ไฟล์-PDF.pdf — Ministry of Labour, 2021 public-service guidance, page 22, recognizing work-permit applications by Non-B and Non-O Thai-spouse visa holders.
 
 [^214]: https://surat.boi.go.th/public/upload/center_6/2567/100267/Single%20Window%20for%20Visa%20and%20Work%20Permit.pdf — Thailand Board of Investment, Single Window for Visas and Work Permit guidance, pages 40–41, identifying Non-O (Thai Spouse) as an eligible category subject to additional conditions.
 
-[^215]: https://tvc.co.th/visas/thailand-marriage-visa — Thai Visa Centre, marriage-visa service page, confirming work-permit eligibility for qualifying Non-O marriage-visa holders.
+[^215]: `https://tvc.co.th/visas/thailand-marriage-visa` — Thai Visa Centre, marriage-visa service page, confirming work-permit eligibility for qualifying Non-O marriage-visa holders.
 
-[^216]: https://tvc.co.th/guides/ltr-visa-thailand-eases-eligibility-requirements — Thai Visa Centre, 2025 LTR reform guide, claiming that parents and legal dependents can now apply without numerical restrictions.
+[^216]: `https://tvc.co.th/guides/ltr-visa-thailand-eases-eligibility-requirements` — Thai Visa Centre, 2025 LTR reform guide, claiming that parents and legal dependents can now apply without numerical restrictions.
 
 [^217]: https://ltr.boi.go.th/ — Thailand Board of Investment, official LTR program website, continuing to publish spouse-and-children eligibility and a four-dependent maximum.
 
@@ -8787,25 +8787,25 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^219]: https://ltr.boi.go.th/documents/Announcement%20of%20Ministry%20of%20Interior%20Affairs%20(TH).pdf — Ministry of Interior announcement, Royal Gazette, June 2, 2022, Clause 1(2), limiting LTR dependents to spouses and qualifying children, with a maximum of four.
 
-[^220]: https://tvc.co.th/guides/ltr-visa-thailand-for-spouses-and-dependents — Thai Visa Centre, separate dependent-visa guide advising verification of expanded eligibility and warning that parents generally do not qualify under standard rules.
+[^220]: `https://tvc.co.th/guides/ltr-visa-thailand-for-spouses-and-dependents` — Thai Visa Centre, separate dependent-visa guide advising verification of expanded eligibility and warning that parents generally do not qualify under standard rules.
 
-[^221]: https://tvc.co.th/visas/thailand-destination-visa-dtv — Thai Visa Centre, commercial DTV page, including its 1,900–10,000-baht extension-fee range and corresponding FAQ.
+[^221]: `https://tvc.co.th/visas/thailand-destination-visa-dtv` — Thai Visa Centre, commercial DTV page, including its 1,900–10,000-baht extension-fee range and corresponding FAQ.
 
 [^222]: https://image.mfa.go.th/mfa/0/pFxDf7ZYQ7/Visa-consular_information/วารสารออนไลน์_กรมการกงสุล_ฉบับที่_7_ไตรมาส_3_ปี_2567_(1)-compressed.pdf — Ministry of Foreign Affairs, Department of Consular Affairs, quarterly newsletter No. 7 (2024), page 9, distinguishing the 10,000-baht DTV visa fee from the 1,900-baht immigration extension fee.
 
-[^223]: https://tvc.co.th/dtv — Thai Visa Centre, DTV Visa VIP Services & Pricing, explicitly separating the government extension fee from private service charges.
+[^223]: `https://tvc.co.th/dtv` — Thai Visa Centre, DTV Visa VIP Services & Pricing, explicitly separating the government extension fee from private service charges.
 
-[^224]: https://tvc.co.th/guides/dtv-visa-thailand — Thai Visa Centre, *DTV Visa Thailand Requirements 2026*, identifying approximately 1,900 baht for in-country extensions.
+[^224]: `https://tvc.co.th/guides/dtv-visa-thailand` — Thai Visa Centre, *DTV Visa Thailand Requirements 2026*, identifying approximately 1,900 baht for in-country extensions.
 
-[^225]: https://tvc.co.th/guides/thailand-business-types-of-business-in-thailand — Thai Visa Centre, *Types of Business in Thailand: FBA Lists and Foreign Ownership*, reviewed June 2026, describing nominee arrangements reviewed by corporate counsel.
+[^225]: `https://tvc.co.th/guides/thailand-business-types-of-business-in-thailand` — Thai Visa Centre, *Types of Business in Thailand: FBA Lists and Foreign Ownership*, reviewed June 2026, describing nominee arrangements reviewed by corporate counsel.
 
 [^226]: https://www.thailand.go.th/public/issue-focus-detail/006-003 — Thailand Government Public Relations Department, *The Use of Thais as Nominee Shareholders by Foreigners Is Strictly Prohibited*, explaining Section 36 of the Foreign Business Act and its penalties.
 
-[^227]: https://tvc.co.th/guides/business-in-thailand — Thai Visa Centre, *Doing Business in Thailand*, identifying nominee Thai shareholders as illegal and high-risk.
+[^227]: `https://tvc.co.th/guides/business-in-thailand` — Thai Visa Centre, *Doing Business in Thailand*, identifying nominee Thai shareholders as illegal and high-risk.
 
-[^228]: https://tvc.co.th/guides/property-buying-property-in-thailand — Thai Visa Centre, *Buying Property in Thailand*, warning against nominee structures and explaining restrictions on foreign ownership.
+[^228]: `https://tvc.co.th/guides/property-buying-property-in-thailand` — Thai Visa Centre, *Buying Property in Thailand*, warning against nominee structures and explaining restrictions on foreign ownership.
 
-[^229]: https://tvc.co.th/guides/re-entry-permit-thailand — Thai Visa Centre, *Re-Entry Permit Thailand Guide*, reviewed June 2026, explaining ordinary TM8 re-entry permits without addressing the separate permanent-residence procedure.
+[^229]: `https://tvc.co.th/guides/re-entry-permit-thailand` — Thai Visa Centre, *Re-Entry Permit Thailand Guide*, reviewed June 2026, explaining ordinary TM8 re-entry permits without addressing the separate permanent-residence procedure.
 
 [^230]: https://www.samutprakanimmigration.go.th/download-forms/ — Samut Prakan Immigration, official forms directory separately listing TM8, TM13, and TM22.
 
@@ -8817,11 +8817,11 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^234]: https://www.thailand.go.th/public/useful-information-detail/001_01_079 — Thai government, *Application to Stay in Thailand for Business*, explaining the four-Thai-employees-per-foreigner ratio as part of employment-based immigration extension requirements, with specified exceptions.
 
-[^235]: https://tvc.co.th/guides/legal-services-probate-and-succession-thailand — Thai Visa Centre, *Probate and Succession in Thailand*, June 2026 review, repeatedly claiming mandatory shares and forced-heirship restrictions.
+[^235]: `https://tvc.co.th/guides/legal-services-probate-and-succession-thailand` — Thai Visa Centre, *Probate and Succession in Thailand*, June 2026 review, repeatedly claiming mandatory shares and forced-heirship restrictions.
 
-[^236]: https://tvc.co.th/guides/property-thai-probate-and-inheritance-law — Thai Visa Centre, *Thai Probate and Inheritance Law*, claiming that forced heirship limits valid testamentary dispositions.
+[^236]: `https://tvc.co.th/guides/property-thai-probate-and-inheritance-law` — Thai Visa Centre, *Thai Probate and Inheritance Law*, claiming that forced heirship limits valid testamentary dispositions.
 
-[^237]: https://tvc.co.th/guides/property-foreigner-making-a-will-in-thailand — Thai Visa Centre, *Foreigner Making a Will in Thailand*, claiming mandatory inheritance shares for spouses, children, and parents.
+[^237]: `https://tvc.co.th/guides/property-foreigner-making-a-will-in-thailand` — Thai Visa Centre, *Foreigner Making a Will in Thailand*, claiming mandatory inheritance shares for spouses, children, and parents.
 
 [^238]: https://www.senate.go.th/view/386/News/Latest/182/TH-TH — Thai Senate, official explanation of will-making and Section 1608, including Supreme Court guidance recognizing disinheritance through a will disposing of the entire estate.
 
@@ -8829,27 +8829,27 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^240]: https://www.thailandlawonline.com/thai-family-and-marriage-law/civil-law-on-succession-inheritance-heirs-and-wills — Civil and Commercial Code, Book VI, Sections 1620, 1625, and 1629–1635, distinguishing intestate inheritance, marital-property division, and statutory succession.
 
-[^241]: https://tvc.co.th/faq/divorcee-getting-married-in-thailand — Thai Visa Centre, *Divorcee Getting Married in Thailand*, repeatedly denying any statutory remarriage waiting period and describing marriage from age 17 with parental consent.
+[^241]: `https://tvc.co.th/faq/divorcee-getting-married-in-thailand` — Thai Visa Centre, *Divorcee Getting Married in Thailand*, repeatedly denying any statutory remarriage waiting period and describing marriage from age 17 with parental consent.
 
 [^242]: https://www.rd.go.th/fileadmin/user_upload/sorpor/GENDER/Doc/2567/Civil-and-Commercial-Code-Act-No24_2567.pdf — Royal Gazette, Civil and Commercial Code Amendment Act (No. 24), B.E. 2567 (2024), amending Sections 1448 and 1453, effective January 23, 2025.
 
 [^243]: https://thailand.prd.go.th/en/content/category/detail/id/52/iid/356952 — Thailand Government Public Relations Department, January 20, 2025, explaining marriage eligibility, the 18-year minimum age, and the continuing 310-day remarriage restriction.
 
-[^244]: https://tvc.co.th/faq/waiting-period-after-divorce — Thai Visa Centre, *Waiting Period After Divorce - Remarriage in Thailand*, correctly explaining the 310-day restriction and medical-certificate exception.
+[^244]: `https://tvc.co.th/faq/waiting-period-after-divorce` — Thai Visa Centre, *Waiting Period After Divorce - Remarriage in Thailand*, correctly explaining the 310-day restriction and medical-certificate exception.
 
-[^245]: https://tvc.co.th/guides/marriage-in-thailand — Thai Visa Centre, *Marriage in Thailand: A Complete Guide for Foreigners*, marked reviewed June 2026, continuing to identify age 17 as the minimum marriage age.
+[^245]: `https://tvc.co.th/guides/marriage-in-thailand` — Thai Visa Centre, *Marriage in Thailand: A Complete Guide for Foreigners*, marked reviewed June 2026, continuing to identify age 17 as the minimum marriage age.
 
-[^246]: https://tvc.co.th/guides/property-condo — Thai Visa Centre, *Condo in Thailand*, reviewed June 2026, presenting FET documentation and overseas remittances as mandatory for foreign condominium purchasers.
+[^246]: `https://tvc.co.th/guides/property-condo` — Thai Visa Centre, *Condo in Thailand*, reviewed June 2026, presenting FET documentation and overseas remittances as mandatory for foreign condominium purchasers.
 
-[^247]: https://tvc.co.th/guides/property-thailand-property-faq — Thai Visa Centre, *Thailand Property FAQ for Expats*, requiring foreign-currency remittances and FET documentation without explaining the permanent-resident exception.
+[^247]: `https://tvc.co.th/guides/property-thailand-property-faq` — Thai Visa Centre, *Thailand Property FAQ for Expats*, requiring foreign-currency remittances and FET documentation without explaining the permanent-resident exception.
 
 [^248]: https://www.thailand.go.th/issue-focus-detail/002_015?hl=en — Thai government, *Procedure for Accepting Foreign Money Transfers to Buy Assets in Thailand*, expressly confirming that permanent residents may purchase condominiums using Thai baht without an FET form.
 
 [^249]: https://library.siam-legal.com/thai-law/condominium-act-ownership-sections-19-1-19-11/ — Condominium Act B.E. 2522, Sections 19 and 19 ter, English reproduction distinguishing permanent-resident eligibility from remittance-based eligibility.
 
-[^250]: https://tvc.co.th/guides/property-thailand-property-legal-services — Thai Visa Centre, *Thailand Property Legal Services*, identifying overseas remittances and FET compliance as standard requirements in its advertised property-assistance workflow.
+[^250]: `https://tvc.co.th/guides/property-thailand-property-legal-services` — Thai Visa Centre, *Thailand Property Legal Services*, identifying overseas remittances and FET compliance as standard requirements in its advertised property-assistance workflow.
 
-[^251]: https://tvc.co.th/faq/us-spouse-visa-cost — Thai Visa Centre, *US Spouse Visa Cost: CR-1, IR-1, and K-1 Fees*, reviewed June 2026, combining fiancé and immigrant spouse visa charges in one fee breakdown.
+[^251]: `https://tvc.co.th/faq/us-spouse-visa-cost` — Thai Visa Centre, *US Spouse Visa Cost: CR-1, IR-1, and K-1 Fees*, reviewed June 2026, combining fiancé and immigrant spouse visa charges in one fee breakdown.
 
 [^252]: https://travel.state.gov/content/travel/en/us-visas/immigrate/family-immigration/nonimmigrant-visa-for-a-fiance-k-1.html — U.S. Department of State, *Nonimmigrant Visa for a Fiancé(e) (K-1)*, explaining DS-160, NVC petition forwarding, Form I-134, and post-marriage adjustment of status.
 
@@ -8859,9 +8859,9 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^255]: https://www.uscis.gov/g-1055 — U.S. Citizenship and Immigration Services, *Form G-1055, Fee Schedule*, identifying $675 paper and $625 online filing fees for Form I-130.
 
-[^256]: https://tvc.co.th/guides/property-thailand-property-transfer-tax — Thai Visa Centre, *Thailand Property Transfer Tax and Fees*, reviewed June 2026, including its Specific Business Tax exemption checklist.
+[^256]: `https://tvc.co.th/guides/property-thailand-property-transfer-tax` — Thai Visa Centre, *Thailand Property Transfer Tax and Fees*, reviewed June 2026, including its Specific Business Tax exemption checklist.
 
-[^257]: https://tvc.co.th/guides/legal-taxes-and-fees-in-thailand — Thai Visa Centre, *Property Transfer Taxes and Fees in Thailand*, reviewed June 2026, combining the five-year ownership and primary-residence criteria and generalizing Land Office valuation rules.
+[^257]: `https://tvc.co.th/guides/legal-taxes-and-fees-in-thailand` — Thai Visa Centre, *Property Transfer Taxes and Fees in Thailand*, reviewed June 2026, combining the five-year ownership and primary-residence criteria and generalizing Land Office valuation rules.
 
 [^258]: https://www.rd.go.th/683.html — Thailand Revenue Department, *Businesses Subject to Specific Business Tax*, explaining taxable property sales within five years and the applicable statutory exclusions.
 
@@ -8869,7 +8869,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^260]: https://www.dol.go.th/rayong_klaeng/faq/ — Department of Lands, Rayong Province, Klaeng Branch, official fee guidance distinguishing assessed-value calculations from charges based on the higher of assessed value and declared price.
 
-[^261]: https://tvc.co.th/guides/thailand-income-tax — Thai Visa Centre, *Personal Income Tax Rates in Thailand*, reviewed June 2026, stating that foreign income is taxable when remitted in the year earned.
+[^261]: `https://tvc.co.th/guides/thailand-income-tax` — Thai Visa Centre, *Personal Income Tax Rates in Thailand*, reviewed June 2026, stating that foreign income is taxable when remitted in the year earned.
 
 [^262]: https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/dn161A.pdf — Thailand Revenue Department, Order P.161/2566, September 15, 2023, concerning foreign-source assessable income remitted into Thailand in any subsequent tax year.
 
@@ -8879,9 +8879,9 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^265]: https://www.pwc.com/th/en/tax/assets/thai-tax/2026-2027/thai-tax-booklet-2026-27.pdf — PwC Thailand, *Thai Tax 2026/27 Booklet*, personal income tax section, confirming the continuing application of Orders P.161/2566 and P.162/2566.
 
-[^266]: https://tvc.co.th/guides/thailand-accounting — Thai Visa Centre, *Accounting and Tax Compliance in Thailand*, reviewed June 2026, describing startup audit exemptions, twice-yearly PND.51 prepayments, and combined monthly filing deadlines.
+[^266]: `https://tvc.co.th/guides/thailand-accounting` — Thai Visa Centre, *Accounting and Tax Compliance in Thailand*, reviewed June 2026, describing startup audit exemptions, twice-yearly PND.51 prepayments, and combined monthly filing deadlines.
 
-[^267]: https://tvc.co.th/guides/corporate-tax-in-thailand — Thai Visa Centre, *Corporate Tax in Thailand*, reviewed June 2026, describing size-based audit requirements and two midyear corporate tax installments.
+[^267]: `https://tvc.co.th/guides/corporate-tax-in-thailand` — Thai Visa Centre, *Corporate Tax in Thailand*, reviewed June 2026, describing size-based audit requirements and two midyear corporate tax installments.
 
 [^268]: https://www.boi.go.th/index.php?language=en&page=accounting_and_reporting_requirements_05_auditing_requirements_and_standards — Thailand Board of Investment, *Auditing Requirements and Standards*, distinguishing mandatory audits for limited companies from exemptions for qualifying registered partnerships.
 
@@ -8891,42 +8891,42 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^271]: https://osos.boi.go.th/en/how-to/150/Paying-Taxes/ — Thailand Board of Investment, One Start One Stop Investment Center, *Social Security Contributions*, confirming the fifteenth-day monthly contribution deadline.
 
-[^272]: https://tvc.co.th/reviews/review/28e1be33-98bd-4821-8e40-810c36f14419 — Thai Visa Centre, review attributed to James Y., dated November 29, 2023, displaying a five-star rating alongside allegations concerning immigration stamps.
-[^273]: https://tvc.co.th/guides/thai-immigration-forms — Thai Visa Centre, immigration-forms guide, describing fines and delays for missing TDAC registration.
+[^272]: `https://tvc.co.th/reviews/review/28e1be33-98bd-4821-8e40-810c36f14419` — Thai Visa Centre, review attributed to James Y., dated November 29, 2023, displaying a five-star rating alongside allegations concerning immigration stamps.
+[^273]: `https://tvc.co.th/guides/thai-immigration-forms` — Thai Visa Centre, immigration-forms guide, describing fines and delays for missing TDAC registration.
 
 [^274]: https://tdac.immigration.go.th/manual/en/faq.html — Immigration Bureau, official TDAC FAQ, including airport assistance and registration requirements.
 
 [^275]: https://hongkong.thaiembassy.org/en/page/entry-regulation — Royal Thai Embassy, Hong Kong, instructions for travelers unable to complete TDAC registration before arrival.
-[^276]: https://tvc.co.th/ — Thai Visa Centre homepage, including its Cannabis tourism links.
+[^276]: `https://tvc.co.th/` — Thai Visa Centre homepage, including its Cannabis tourism links.
 
 [^277]: https://og.th/thailand-cannabis-delivery — OG.TH, advertised online cannabis ordering, payment, and delivery services.
 
 [^278]: https://thailand.prd.go.th/en/content/page/index/id/401785 — Thailand Government Public Relations Department, June 2025 cannabis restrictions.
-[^279]: https://tvc.co.th/faq/visa-on-arrival-by-air-and-land-different — Thai Visa Centre, air-versus-land visa guidance.
+[^279]: `https://tvc.co.th/faq/visa-on-arrival-by-air-and-land-different` — Thai Visa Centre, air-versus-land visa guidance.
 
-[^280]: https://tvc.co.th/faq/thai-visa-on-a-one-way-ticket — Thai Visa Centre, one-way-ticket FAQ repeating land-border restrictions.
+[^280]: `https://tvc.co.th/faq/thai-visa-on-a-one-way-ticket` — Thai Visa Centre, one-way-ticket FAQ repeating land-border restrictions.
 
 [^281]: https://london.thaiembassy.org/en/page/exemp-visa — Royal Thai Embassy, London, visa-exemption requirements effective September 15, 2026, including land-border entry limits.
 [^282]: https://www.austchamthailand.com/resources/news/changing-employers-thailand-non-b-visa-transfer-guide — Australian-Thai Chamber of Commerce, June 24, 2026, employer-transfer procedures.
 
-[^283]: https://tvc.co.th/faq/changing-jobs-requires-a-new-work-permit — Thai Visa Centre, employer-change FAQ.
+[^283]: `https://tvc.co.th/faq/changing-jobs-requires-a-new-work-permit` — Thai Visa Centre, employer-change FAQ.
 
 [^284]: https://thailand.go.th/public/useful-information-detail/001-01-045 — Thai government, employer-change and employment-termination procedures.
-[^285]: https://tvc.co.th/reviews — Thai Visa Centre, aggregated review archive displaying identical Google and Facebook testimonials attributed to Robert Z. and Robert Zorc.
-[^286]: https://tvc.co.th/guides/thailand-immigration-blacklist-appeal — Thai Visa Centre, blacklist appeal and overstay guidance.
+[^285]: `https://tvc.co.th/reviews` — Thai Visa Centre, aggregated review archive displaying identical Google and Facebook testimonials attributed to Robert Z. and Robert Zorc.
+[^286]: `https://tvc.co.th/guides/thailand-immigration-blacklist-appeal` — Thai Visa Centre, blacklist appeal and overstay guidance.
 
 [^287]: https://www.thailand.go.th/public/guide-book-detail/001_01_211 — Thai government, official overstay penalties distinguishing voluntary surrender from arrest and prosecution.
-[^288]: https://tvc.co.th/reviews/review/fcfea34b-8468-48a1-a543-0f4d959b7d17 — Thai Visa Centre, original Luca G. review dated September 25, 2024.
+[^288]: `https://tvc.co.th/reviews/review/fcfea34b-8468-48a1-a543-0f4d959b7d17` — Thai Visa Centre, original Luca G. review dated September 25, 2024.
 
 [^289]: https://dtv.in.th/ — DTV promotional website displaying Luca G.'s DTV testimonial.
 
 [^290]: https://ltr.in.th/ — LTR promotional website displaying the altered visa category.
-[^291]: https://tvc.co.th/guides/thailand-limited-company — Thai Visa Centre, limited company registration guide.
+[^291]: `https://tvc.co.th/guides/thailand-limited-company` — Thai Visa Centre, limited company registration guide.
 
 [^292]: https://www.forvismazars.com/th/en/insights/doing-business-in-thailand/legal/amendments-to-provisions-of-the-ccc — Forvis Mazars, 2023 Civil and Commercial Code amendments concerning Sections 1097 and 1237.
 
-[^293]: https://tvc.co.th/guides/thailand-company — Thai Visa Centre, company registration guide repeating the single-shareholder claim.
-[^294]: https://tvc.co.th/guides/ltr-visa-thailand-for-spouses-and-dependents — Thai Visa Centre, LTR dependent guide advertising US$25,000 insurance coverage and quarterly reporting.
+[^293]: `https://tvc.co.th/guides/thailand-company` — Thai Visa Centre, company registration guide repeating the single-shareholder claim.
+[^294]: `https://tvc.co.th/guides/ltr-visa-thailand-for-spouses-and-dependents` — Thai Visa Centre, LTR dependent guide advertising US$25,000 insurance coverage and quarterly reporting.
 [^295]: `https://tvc.co.th/guides/top-10-thai-visa-application-mistakes-to-avoid-in-2025` — Thai Visa Centre, immigration mistakes guide.
 
 [^296]: `https://tvc.co.th/guides/how-to-upgrade-your-thailand-elite-visa` — Thai Visa Centre, Thailand Elite membership upgrade guide.
@@ -8934,21 +8934,21 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^297]: https://www.thailandprivilege.co.th/why-thailand/90-day-report — Thailand Privilege Card Co., Ltd., official 90-day reporting requirements.
 
 [^298]: `https://tvc.co.th/guides/thailand-privilege-visa-bronze-membership` — Thai Visa Centre, Bronze membership guide acknowledging continued quarterly reporting.
-[^299]: https://tvc.co.th/guides/how-to-travel-to-thailand-as-family — Thai Visa Centre, family travel and TDAC submission instructions.
+[^299]: `https://tvc.co.th/guides/how-to-travel-to-thailand-as-family` — Thai Visa Centre, family travel and TDAC submission instructions.
 
-[^300]: https://tvc.co.th/guides/new-travel-requirement-for-visitors-to-thailand-coming-in-2025 — Thai Visa Centre, TDAC guide instructing families to submit separately.
+[^300]: `https://tvc.co.th/guides/new-travel-requirement-for-visitors-to-thailand-coming-in-2025` — Thai Visa Centre, TDAC guide instructing families to submit separately.
 
 [^301]: https://tdac.immigration.go.th/manual/en/faq.html — Immigration Bureau, official TDAC FAQ confirming group submissions and exemptions.
 
-[^302]: https://tvc.co.th/faq/do-i-need-a-visa-for-thailand — Thai Visa Centre, FAQ recognizing the immigration-clearance distinction for transit passengers.
+[^302]: `https://tvc.co.th/faq/do-i-need-a-visa-for-thailand` — Thai Visa Centre, FAQ recognizing the immigration-clearance distinction for transit passengers.
 
-[^303]: https://tvc.co.th/faq/do-i-need-a-re-entry-permit — Thai Visa Centre, re-entry FAQ categorically excluding tourists from TM8.
+[^303]: `https://tvc.co.th/faq/do-i-need-a-re-entry-permit` — Thai Visa Centre, re-entry FAQ categorically excluding tourists from TM8.
 
 [^304]: https://london.thaiembassy.org/en/page/after-e-visa-approval — Royal Thai Embassy in London, official guidance on single-entry visas, extensions, and re-entry permits, updated November 18, 2026.
 
-[^305]: https://tvc.co.th/guides/re-entry-permit-thailand — Thai Visa Centre, separate re-entry permit guide acknowledging that permits for tourist extensions are uncommon.
+[^305]: `https://tvc.co.th/guides/re-entry-permit-thailand` — Thai Visa Centre, separate re-entry permit guide acknowledging that permits for tourist extensions are uncommon.
 
-[^306]: https://tvc.co.th/guides/property — Thai Visa Centre, property law guide advertising 30+30+30-year leasehold terms.
+[^306]: `https://tvc.co.th/guides/property` — Thai Visa Centre, property law guide advertising 30+30+30-year leasehold terms.
 
 [^307]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-exchange-section-537-545/ — Civil and Commercial Code, Section 540.
 
@@ -8956,17 +8956,17 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^309]: https://practiceguides.chambers.com/practice-guides/real-estate-2026/thailand/trends-and-developments/O25414 — Chambers and Partners, *Real Estate 2026: Thailand*, analysis of the Supreme Court ruling.
 
-[^310]: https://tvc.co.th/guides/property-leases — Thai Visa Centre, separate lease guide acknowledging the limitations of 90-year lease marketing.
+[^310]: `https://tvc.co.th/guides/property-leases` — Thai Visa Centre, separate lease guide acknowledging the limitations of 90-year lease marketing.
 
-[^311]: https://tvc.co.th/faq/thai-nationality-by-birth — Thai Visa Centre, nationality-by-birth FAQ, marked reviewed June 2026.
+[^311]: `https://tvc.co.th/faq/thai-nationality-by-birth` — Thai Visa Centre, nationality-by-birth FAQ, marked reviewed June 2026.
 
 [^312]: https://report.dopa.go.th/laws/document/2/226.pdf — Department of Provincial Administration, English translation of Thailand's Nationality Act B.E. 2508, Sections 7, 7 bis, and 8.
 
 [^313]: https://www.thailand.go.th/issue-focus-detail/foreign-nationals-giving-birth-in-thailand-have-the-right-to-apply-for-nationality — Royal Thai Government, official explanation of nationality eligibility under Section 23.
 
-[^314]: https://tvc.co.th/guides/property-foreigner-making-a-will-in-thailand — Thai Visa Centre, foreigner will-writing guide describing foreign quota and FET requirements for heirs.
+[^314]: `https://tvc.co.th/guides/property-foreigner-making-a-will-in-thailand` — Thai Visa Centre, foreigner will-writing guide describing foreign quota and FET requirements for heirs.
 
-[^315]: https://tvc.co.th/guides/property-last-will-and-testament-under-thai-law — Thai Visa Centre, succession guide warning that foreign heirs must qualify for ownership or sell.
+[^315]: `https://tvc.co.th/guides/property-last-will-and-testament-under-thai-law` — Thai Visa Centre, succession guide warning that foreign heirs must qualify for ownership or sell.
 
 [^316]: https://library.siam-legal.com/thai-law/condominium-act-ownership-sections-19-1-19-11/ — Condominium Act, Sections 19, 19 bis, 19 quinquies, and 19 septies.
 
@@ -8976,7 +8976,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^319]: https://www.thailand.go.th/useful-information-detail/010_011 — Royal Thai Government, documentary requirements for foreign property registration and inheritance transfers.
 
-[^320]: https://tvc.co.th/guides/tax-residency-certificates-thailand — Thai Visa Centre, tax residency certificate guide repeatedly identifying Form 205, marked reviewed June 2026.
+[^320]: `https://tvc.co.th/guides/tax-residency-certificates-thailand` — Thai Visa Centre, tax residency certificate guide repeatedly identifying Form 205, marked reviewed June 2026.
 
 [^321]: https://www.rd.go.th/region/02/48.html — Revenue Department Region 2, official English-language certificate procedures identifying R.O.01 and R.O.22.
 
@@ -8984,11 +8984,11 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^323]: https://www.rd.go.th/english/21974.html — Revenue Department, English-language guidance on tax certificates, issuing authorities, and application procedures.
 
-[^324]: https://tvc.co.th/guides/thailand-adoption — Thai Visa Centre, adoption overview incorrectly describing mandatory court procedures.
+[^324]: `https://tvc.co.th/guides/thailand-adoption` — Thai Visa Centre, adoption overview incorrectly describing mandatory court procedures.
 
-[^325]: https://tvc.co.th/guides/thailand-adoption-requirements — Thai Visa Centre, adoption requirements guide prescribing family-court petitions and judgments.
+[^325]: `https://tvc.co.th/guides/thailand-adoption-requirements` — Thai Visa Centre, adoption requirements guide prescribing family-court petitions and judgments.
 
-[^326]: https://tvc.co.th/guides/legal-services-thailand-adoption — Thai Visa Centre, adoption guide repeatedly advertising required court proceedings and legal referrals.
+[^326]: `https://tvc.co.th/guides/legal-services-thailand-adoption` — Thai Visa Centre, adoption guide repeatedly advertising required court proceedings and legal referrals.
 
 [^327]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-adoption-section-1598-19-1598-37/ — Civil and Commercial Code, Sections 1598/21–1598/27, addressing consent, exceptional court intervention, and adoption registration.
 
@@ -8998,13 +8998,13 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^330]: https://washingtondc.thaiembassy.org/en/page/thaichildadoption — Royal Thai Embassy in Washington, official Child Adoption Board procedures and registration requirements.
 
-[^331]: https://tvc.co.th/guides/family-law — Thai Visa Centre, family-law guide stating that prenuptial registration must be completed before the wedding day.
+[^331]: `https://tvc.co.th/guides/family-law` — Thai Visa Centre, family-law guide stating that prenuptial registration must be completed before the wedding day.
 
 [^332]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-marriage-section-1465-1493/ — Civil and Commercial Code, Sections 1466 and 1467, governing prenuptial registration and subsequent alteration.
 
-[^333]: https://tvc.co.th/guides/prenuptial-agreement-thailand — Thai Visa Centre, specialist prenuptial guide correctly describing registration alongside marriage.
+[^333]: `https://tvc.co.th/guides/prenuptial-agreement-thailand` — Thai Visa Centre, specialist prenuptial guide correctly describing registration alongside marriage.
 
-[^334]: https://tvc.co.th/guides/regional-operating-headquarters-roh-in-thailand — Thai Visa Centre, ROH tax and visa guide, marked reviewed June 2026, advertising new ROH applications.
+[^334]: `https://tvc.co.th/guides/regional-operating-headquarters-roh-in-thailand` — Thai Visa Centre, ROH tax and visa guide, marked reviewed June 2026, advertising new ROH applications.
 
 [^335]: https://thailand.go.th/public/issue-focus-detail/001_03_129 — Royal Thai Government, *Getting to Know the International Business Centers*, confirming replacement of ROH, IHQ, and ITC incentives.
 
@@ -9014,11 +9014,11 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^338]: https://taxsummaries.pwc.com/thailand/corporate/tax-credits-and-incentives — PwC, Thailand corporate-tax incentives, including current IBC eligibility and preferential tax rates.
 
-[^339]: https://tvc.co.th/guides/property-thailand-property-faq — Thai Visa Centre, property FAQ categorically denying foreign land ownership.
+[^339]: `https://tvc.co.th/guides/property-thailand-property-faq` — Thai Visa Centre, property FAQ categorically denying foreign land ownership.
 
-[^340]: https://tvc.co.th/guides/property-thailand-buying-house — Thai Visa Centre, house-buying guide describing foreign freehold land ownership as prohibited.
+[^340]: `https://tvc.co.th/guides/property-thailand-buying-house` — Thai Visa Centre, house-buying guide describing foreign freehold land ownership as prohibited.
 
-[^341]: https://tvc.co.th/guides/property — Thai Visa Centre, property-law overview categorizing foreign land ownership as unavailable.
+[^341]: `https://tvc.co.th/guides/property` — Thai Visa Centre, property-law overview categorizing foreign land ownership as unavailable.
 
 [^342]: https://www.thailand.go.th/issue-focus-detail/010_007?hl=en — Royal Thai Government, foreign land-ownership requirements under Section 96 bis.
 
@@ -9028,9 +9028,9 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^345]: https://en.thairath.co.th/scoop/interview/2935311 — Thairath, May 26, 2026, reporting on Land Department scrutiny and statutory foreign land-ownership exceptions.
 
-[^346]: https://tvc.co.th/guides/legal-services-thailand-divorce — Thai Visa Centre, general divorce guide requiring joint attendance, suggesting the original marriage district, and identifying court proceedings as necessary when one spouse cannot attend.
+[^346]: `https://tvc.co.th/guides/legal-services-thailand-divorce` — Thai Visa Centre, general divorce guide requiring joint attendance, suggesting the original marriage district, and identifying court proceedings as necessary when one spouse cannot attend.
 
-[^347]: https://tvc.co.th/guides/legal-services-faqs-on-thailand-divorce — Thai Visa Centre, divorce FAQs presenting joint attendance as mandatory.
+[^347]: `https://tvc.co.th/guides/legal-services-faqs-on-thailand-divorce` — Thai Visa Centre, divorce FAQs presenting joint attendance as mandatory.
 
 [^348]: https://www.bora.dopa.go.th/callcenter1548/guidebook — Bureau of Registration Administration, Department of Provincial Administration, official divorce-registration procedures covering same-office, different-office, and court-ordered registration.
 
@@ -9038,13 +9038,13 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^350]: https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country/Thailand.html — U.S. Department of State, Thailand civil-document guidance identifying authorized divorce-certificate issuing offices.
 
-[^351]: https://tvc.co.th/guides/thai-divorce-law — Thai Visa Centre, divorce-law guide incorrectly assigning mutual-consent proceedings to Section 1516.
+[^351]: `https://tvc.co.th/guides/thai-divorce-law` — Thai Visa Centre, divorce-law guide incorrectly assigning mutual-consent proceedings to Section 1516.
 
 [^352]: https://www.thailawonline.com/thai-civil-code/section-1514/ — Civil and Commercial Code, Section 1514, governing mutual-consent divorce and referencing Section 1515 registration requirements.
 
 [^353]: https://www.thailawonline.com/thai-civil-code/section-1516/ — Civil and Commercial Code, Section 1516, establishing grounds for judicial divorce.
 
-[^354]: https://tvc.co.th/guides/litigation-bankruptcy-in-thailand — Thai Visa Centre, bankruptcy guide combining creditor and debtor petitions, receivership, rehabilitation, and automatic-stay descriptions.
+[^354]: `https://tvc.co.th/guides/litigation-bankruptcy-in-thailand` — Thai Visa Centre, bankruptcy guide combining creditor and debtor petitions, receivership, rehabilitation, and automatic-stay descriptions.
 
 [^355]: https://www.led.go.th/doing/pdf/ba2483.pdf — Thailand Legal Execution Department, Bankruptcy Act B.E. 2483, Sections 9, 14, and 22, governing creditor-initiated bankruptcy and receivership.
 
@@ -9056,7 +9056,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^359]: https://www.led.go.th/dbases/pdf/manual_eng02022561.pdf — Legal Execution Department, Ministry of Justice, official business rehabilitation flowchart identifying court acceptance and Section 90/12 protection.
 
-[^360]: https://tvc.co.th/guides/litigation-class-action-lawsuit-thailand — Thai Visa Centre, class-action guide incorrectly presenting statute-specific opt-in requirements and failing to identify the general Civil Procedure Code framework.
+[^360]: `https://tvc.co.th/guides/litigation-class-action-lawsuit-thailand` — Thai Visa Centre, class-action guide incorrectly presenting statute-specific opt-in requirements and failing to identify the general Civil Procedure Code framework.
 
 [^361]: https://www.sec.or.th/EN/Pages/LAWANDREGULATIONS/CLASSACTION.aspx — Securities and Exchange Commission of Thailand, official explanation of the Civil Procedure Code class-action framework, automatic membership, and opt-out rights.
 
@@ -9070,7 +9070,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^366]: https://www.dlapiperintelligence.com/litigation/insight/index.html?c=TH&t=10-class-actions — DLA Piper, international litigation guidance confirming Thailand's general civil class-action framework and opt-out membership.
 
-[^367]: https://tvc.co.th/guides/litigation-trade-disputes-in-thailand — Thai Visa Centre, trade-disputes guide repeatedly naming a Bangkok Commercial Court and directing customs disputes toward administrative-court proceedings.
+[^367]: `https://tvc.co.th/guides/litigation-trade-disputes-in-thailand` — Thai Visa Centre, trade-disputes guide repeatedly naming a Bangkok Commercial Court and directing customs disputes toward administrative-court proceedings.
 
 [^368]: https://www.coj.go.th/th/content/page/index/id/91994 — Thailand Office of the Judiciary, official description of the Court of Justice system and its specialized courts.
 
@@ -9084,7 +9084,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^373]: https://www.legal500.com/intelligence/thailand/tax/tax-litigation-in-thailand — Legal 500, Thailand tax litigation guidance covering Central Tax Court jurisdiction and customs-related disputes.
 
-[^374]: https://tvc.co.th/guides/company-dissolution-thailand — Thai Visa Centre, company-dissolution guide requiring a second confirmation meeting before DBD registration and omitting initial statutory filing deadlines.
+[^374]: `https://tvc.co.th/guides/company-dissolution-thailand` — Thai Visa Centre, company-dissolution guide requiring a second confirmation meeting before DBD registration and omitting initial statutory filing deadlines.
 
 [^375]: https://www.thailawonline.com/th/thai-civil-code/section-1194/ — Civil and Commercial Code, amended Section 1194, establishing the three-quarters majority required for a special resolution.
 
@@ -9098,29 +9098,29 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^380]: https://www.dbd.go.th/download/downloads/03_boj/intro_step_bj_liquidate.pdf — Department of Business Development, official liquidation and completion-registration procedure, distinguishing audited financial statements and subsequent shareholder meetings from initial dissolution registration.
 
-[^381]: https://tvc.co.th/guides/property-condominium-rights-in-thailand — Thai Visa Centre, condominium-rights guide incorrectly suggesting that foreign-to-foreign resales require an additional available foreign ownership allocation.
+[^381]: `https://tvc.co.th/guides/property-condominium-rights-in-thailand` — Thai Visa Centre, condominium-rights guide incorrectly suggesting that foreign-to-foreign resales require an additional available foreign ownership allocation.
 
 [^382]: https://thaicondo.or.th/wp-content/uploads/2022/07/5_พระราชบัญญัติอาคารชุด-พ.ศ.2522-แก้ไขเพิ่มเติมโดยพระราชบัญญัติอาคารชุด-ฉบับที่-4-พ.ศ.2551-ENG.pdf — Condominium Act (No. 4) B.E. 2551 (2008), English translation of amendments to Sections 19 bis and 19 quater governing the 49% aggregate area restriction and registration of transfers.
 
 [^383]: https://reflexion.asia/en/insights/selling-condo-thailand — Reflexion, November 2026 analysis of condominium resales, foreign ownership calculations, and transfers between qualifying foreign owners.
 
-[^384]: https://tvc.co.th/guides/property-selling-your-condominium-in-thailand — Thai Visa Centre, separate condominium-selling guide correctly describing how an existing foreign ownership allocation transfers to another qualifying foreign purchaser.
+[^384]: `https://tvc.co.th/guides/property-selling-your-condominium-in-thailand` — Thai Visa Centre, separate condominium-selling guide correctly describing how an existing foreign ownership allocation transfers to another qualifying foreign purchaser.
 
 [^385]: https://www.thailand.go.th/issue-focus-detail/010_013 — Royal Thai Government, condominium ownership registration procedures and foreign ownership confirmation requirements.
 
-[^386]: https://tvc.co.th/guides/legal-thailand-employment-contract — Thai Visa Centre, employment-contract guide containing an unrelated administrative-divorce workflow introduction and repeated generic litigation material.
+[^386]: `https://tvc.co.th/guides/legal-thailand-employment-contract` — Thai Visa Centre, employment-contract guide containing an unrelated administrative-divorce workflow introduction and repeated generic litigation material.
 
-[^387]: https://tvc.co.th/guides/legal-services-thailand-visa-services — Thai Visa Centre, immigration legal-services guide reproducing the administrative-divorce heading and introductory paragraph before visa-application steps.
+[^387]: `https://tvc.co.th/guides/legal-services-thailand-visa-services` — Thai Visa Centre, immigration legal-services guide reproducing the administrative-divorce heading and introductory paragraph before visa-application steps.
 
-[^388]: https://tvc.co.th/guides/legal-taxes-and-fees-in-thailand — Thai Visa Centre, property-transfer tax guide inserting divorce-registration instructions before property-valuation and tax-payment procedures.
+[^388]: `https://tvc.co.th/guides/legal-taxes-and-fees-in-thailand` — Thai Visa Centre, property-transfer tax guide inserting divorce-registration instructions before property-valuation and tax-payment procedures.
 
-[^389]: https://tvc.co.th/guides/legal-services-franchise-lawyers-thailand — Thai Visa Centre, franchise-law guide containing the same administrative-divorce introduction before franchise and trademark procedures.
+[^389]: `https://tvc.co.th/guides/legal-services-franchise-lawyers-thailand` — Thai Visa Centre, franchise-law guide containing the same administrative-divorce introduction before franchise and trademark procedures.
 
-[^390]: https://tvc.co.th/guides/legal-services-probate-and-estate-administration — Thai Visa Centre, probate guide reproducing the divorce-registration introduction before estate-administration instructions.
+[^390]: `https://tvc.co.th/guides/legal-services-probate-and-estate-administration` — Thai Visa Centre, probate guide reproducing the divorce-registration introduction before estate-administration instructions.
 
-[^391]: https://tvc.co.th/guides/legal-services-probate-and-succession-thailand — Thai Visa Centre, probate and succession guide advising appointment of Thai co-executors and identifying foreign-only executors as a common planning mistake.
+[^391]: `https://tvc.co.th/guides/legal-services-probate-and-succession-thailand` — Thai Visa Centre, probate and succession guide advising appointment of Thai co-executors and identifying foreign-only executors as a common planning mistake.
 
-[^392]: https://tvc.co.th/guides/legal-services-probate-and-estate-administration — Thai Visa Centre, probate guide stating that foreign executors often need Thai co-executors and emphasizing court-supervised inheritance procedures.
+[^392]: `https://tvc.co.th/guides/legal-services-probate-and-estate-administration` — Thai Visa Centre, probate guide stating that foreign executors often need Thai co-executors and emphasizing court-supervised inheritance procedures.
 
 [^393]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-administration-of-estate-section-1711-1718/ — Civil and Commercial Code, Sections 1711–1718, governing estate administrator appointments, court applications, and statutory disqualifications.
 
@@ -9142,19 +9142,19 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^402]: https://lawplayer.com/th/act/ocs-%E0%B8%A70076-1B-0002/section/chapter-2.section-1 — Consumer Case Procedure Act B.E. 2551 (2008), Sections 18–20.
 
-[^403]: https://tvc.co.th/guides/litigation-injunction-and-restraining-order-thailand — Thai Visa Centre, *Injunction and Restraining Order: Guide for Foreigners*.
+[^403]: `https://tvc.co.th/guides/litigation-injunction-and-restraining-order-thailand` — Thai Visa Centre, *Injunction and Restraining Order: Guide for Foreigners*.
 
-[^404]: https://tvc.co.th/guides/litigation-litigation-in-thailand-faqs — Thai Visa Centre, *Litigation in Thailand FAQs*.
+[^404]: `https://tvc.co.th/guides/litigation-litigation-in-thailand-faqs` — Thai Visa Centre, *Litigation in Thailand FAQs*.
 
-[^405]: https://tvc.co.th/guides/litigation-debt-recovery-in-thailand — Thai Visa Centre, *Debt Recovery: Guide for Foreigners*.
+[^405]: `https://tvc.co.th/guides/litigation-debt-recovery-in-thailand` — Thai Visa Centre, *Debt Recovery: Guide for Foreigners*.
 
 [^406]: https://www.tilleke.com/insights/foreign-court-judgments-vs-foreign-arbitration-awards-in-thailand/ — Tilleke & Gibbins, December 12, 2025, explaining the different treatment of foreign judgments and arbitral awards.
 
 [^407]: https://cms.law/en/int/expert-guides/cms-expert-guide-to-recognition-and-enforcement-of-judgements/thailand — CMS, *Recognition and Enforcement of Foreign Judgments in Thailand*, including relevant Supreme Court decisions.
 
-[^408]: https://tvc.co.th/guides/litigation-intellectual-property-dispute-in-thailand — Thai Visa Centre, *Intellectual Property: Guide for Foreigners*.
+[^408]: `https://tvc.co.th/guides/litigation-intellectual-property-dispute-in-thailand` — Thai Visa Centre, *Intellectual Property: Guide for Foreigners*.
 
-[^409]: https://tvc.co.th/guides/legal-intellectual-property-disputes-thailand — Thai Visa Centre, *Intellectual Property Disputes in Thailand*.
+[^409]: `https://tvc.co.th/guides/legal-intellectual-property-disputes-thailand` — Thai Visa Centre, *Intellectual Property Disputes in Thailand*.
 
 [^410]: https://www.legal500.com/intelligence/thailand/intellectual-property/ip-litigation-&-enforcement-guide — The Legal 500, Thailand IP Litigation & Enforcement Guide.
 
@@ -9162,7 +9162,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^412]: https://www.wipo.int/wipolex/en/legislation/details/15713 — WIPO Lex, Copyright Act (No. 2) B.E. 2558 (2015), amendment to Section 64.
 
-[^413]: https://tvc.co.th/guides/litigation-alternative-dispute-resolution-faqs — Thai Visa Centre, *Alternative Dispute Resolution in Thailand FAQs*, reviewed June 2026.
+[^413]: `https://tvc.co.th/guides/litigation-alternative-dispute-resolution-faqs` — Thai Visa Centre, *Alternative Dispute Resolution in Thailand FAQs*, reviewed June 2026.
 
 [^414]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-prescriptions-sections-193-9-193-29/ — Civil and Commercial Code, Section 193/14(4), interruption of prescription through arbitration.
 
@@ -9172,7 +9172,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^417]: https://www.tilleke.com/insights/amendments-thailands-civil-procedure-code-allow-civil-mediation-litigation/21/ — Tilleke & Gibbins, amendments allowing court-supervised mediation before civil litigation.
 
-[^418]: https://tvc.co.th/guides/litigation-cyber-crime-lawyers-thailand — Thai Visa Centre, *Cyber Crime Lawyers: Guide for Foreigners*, reviewed June 2026.
+[^418]: `https://tvc.co.th/guides/litigation-cyber-crime-lawyers-thailand` — Thai Visa Centre, *Cyber Crime Lawyers: Guide for Foreigners*, reviewed June 2026.
 
 [^419]: https://sherloc.unodc.org/cld/en/legislation/tha/computer_crime_act_b.e._2550_2007/chapter_1/sections_1415/sections_1415.html — UNODC SHERLOC, amended Computer Crime Act Sections 14–15.
 
@@ -9180,7 +9180,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^421]: https://www.ilaw.or.th/en/articles/case/26552 — iLaw, court proceedings involving Itthaboon Onwongsa, including December 2017 and November 2018 judgments.
 
-[^422]: https://tvc.co.th/guides/litigation-bail-and-bail-bonds-in-thailand — Thai Visa Centre, *Bail and Bail Bonds: Guide for Foreigners*, reviewed June 2026.
+[^422]: `https://tvc.co.th/guides/litigation-bail-and-bail-bonds-in-thailand` — Thai Visa Centre, *Bail and Bail Bonds: Guide for Foreigners*, reviewed June 2026.
 
 [^423]: https://www.thailawonline.com/th/thai-criminal-procedure-code/section-110/ — Thailand's Criminal Procedure Code, Section 110, governing bail bonds and security requirements.
 
@@ -9190,9 +9190,9 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^426]: https://library.siam-legal.com/provisional-release-faq-authorization-and-insurance/ — Siam Legal International, insurance certificates and their use as bail security in Thailand.
 
-[^427]: https://tvc.co.th/guides/property-property-lease-agreement-thailand — Thai Visa Centre, *Property Lease Agreement in Thailand*, reviewed June 2026.
+[^427]: `https://tvc.co.th/guides/property-property-lease-agreement-thailand` — Thai Visa Centre, *Property Lease Agreement in Thailand*, reviewed June 2026.
 
-[^428]: https://tvc.co.th/guides/property-leases — Thai Visa Centre, *Property Leases in Thailand*, reviewed June 2026.
+[^428]: `https://tvc.co.th/guides/property-leases` — Thai Visa Centre, *Property Leases in Thailand*, reviewed June 2026.
 
 [^429]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-exchange-section-564-571/ — Civil and Commercial Code, Section 569, governing leases following property ownership transfers.
 
@@ -9200,7 +9200,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^431]: https://www.thailawonline.com/thai-civil-code/section-538/ — ThaiLawOnline, analysis of Supreme Court Decision No. 1564/2558 and the application of Sections 538, 569, and 570.
 
-[^432]: https://tvc.co.th/guides/property-becoming-a-landlord-in-thailand — Thai Visa Centre, *Becoming a Landlord in Thailand*, reviewed June 2026.
+[^432]: `https://tvc.co.th/guides/property-becoming-a-landlord-in-thailand` — Thai Visa Centre, *Becoming a Landlord in Thailand*, reviewed June 2026.
 
 [^433]: https://www.ocpb.go.th/news_view.php?nid=17828 — Office of the Consumer Protection Board, explanation of the 2025 residential rental regulations and three-unit threshold.
 
@@ -9222,7 +9222,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^442]: https://wsrlawgroup.com/publications/law-library/thailand-civil-procedure-code/book-1-general-provisions/ — Thailand Civil Procedure Code, Section 60, expressly authorizing parties to conduct their own cases or appoint legal counsel.
 
-[^443]: https://tvc.co.th/guides/legal-notary-public-thailand — Thai Visa Centre, *Notary Public in Thailand: Document Authentication Guide*, reviewed June 2026.
+[^443]: `https://tvc.co.th/guides/legal-notary-public-thailand` — Thai Visa Centre, *Notary Public in Thailand: Document Authentication Guide*, reviewed June 2026.
 
 [^444]: https://www.lawyerscouncil.or.th/api/content/forms/01a1c00c-c727-79f9-ba85-5e2c5a530c58/download — Lawyers Council of Thailand, Regulations on Registration of Lawyers Certifying Signatures and Documents B.E. 2566 (2023), published in the Royal Gazette May 13, 2024, particularly Clauses 5–8.
 
@@ -9246,7 +9246,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^454]: https://osos.boi.go.th/EN/how-to/142/Registering-Property/ — Thailand Board of Investment, One Start One Stop Investment Center, property transfer registration procedures.
 
-[^455]: https://tvc.co.th/guides/legal-services-thailand-notary-service — Thai Visa Centre, *Notary Public Services in Thailand: Document Certification for Visa and Legal Use*, describing Thailand's Apostille limitations without mentioning accession.
+[^455]: `https://tvc.co.th/guides/legal-services-thailand-notary-service` — Thai Visa Centre, *Notary Public Services in Thailand: Document Certification for Visa and Legal Use*, describing Thailand's Apostille limitations without mentioning accession.
 
 [^456]: https://www.hcch.net/en/news-archive/details?varevent=1158 — Hague Conference on Private International Law, *Thailand accedes to the 1961 Apostille Convention*, June 30, 2026.
 
@@ -9258,7 +9258,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^460]: https://www.tilleke.com/insights/thailand-proposes-qualification-standards-for-data-protection-officers/ — Tilleke & Gibbins, November 20, 2026, reporting the November 17 public consultation on proposed Data Protection Officer qualification requirements.
 
-[^461]: https://tvc.co.th/guides/thailand-thailand-law-firms — Thai Visa Centre, *Thailand Law Firms and TVC Office Locations*, warning that work permits require a Thai lawyer and employer coordination.
+[^461]: `https://tvc.co.th/guides/thailand-thailand-law-firms` — Thai Visa Centre, *Thailand Law Firms and TVC Office Locations*, warning that work permits require a Thai lawyer and employer coordination.
 
 [^462]: https://www.mol.go.th/en/news/labour-minister-launches-e-workpermit-online-system-for-foreign-worker-registration-24-hour-nationwide-service-begins-october-13 — Thailand Ministry of Labour, launch of nationwide e-WorkPermit on October 13, 2025, with employer and foreign-worker registration and applications.
 
@@ -9270,9 +9270,9 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^466]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-wills-section-1655-1672/ — Thailand Civil and Commercial Code, Sections 1656–1658, providing for ordinary written, holographic, and public wills without a blanket lawyer requirement.
 
-[^467]: https://tvc.co.th/guides/thailand-thailand-law-firms — Thai Visa Centre, *Thailand Law Firms and TVC Office Locations*, lawyer-versus-agent comparison table and legal practice-area descriptions presenting attorneys as required for prenuptial agreements.
+[^467]: `https://tvc.co.th/guides/thailand-thailand-law-firms` — Thai Visa Centre, *Thailand Law Firms and TVC Office Locations*, lawyer-versus-agent comparison table and legal practice-area descriptions presenting attorneys as required for prenuptial agreements.
 
-[^468]: https://tvc.co.th/guides/legal-services-thailand-prenuptial-agreement — Thai Visa Centre, *Prenuptial Agreement in Thailand*, recommending family-law counsel for drafting and asserting a need for licensed advocates for binding legal work.
+[^468]: `https://tvc.co.th/guides/legal-services-thailand-prenuptial-agreement` — Thai Visa Centre, *Prenuptial Agreement in Thailand*, recommending family-law counsel for drafting and asserting a need for licensed advocates for binding legal work.
 
 [^469]: https://www.bora.dopa.go.th/callcenter1548/guidebook — Thailand Department of Provincial Administration, official marriage-registration guidance, listing prenuptial agreements as documents to present when applicable and identifying witnesses and other required documents.
 
@@ -9292,17 +9292,17 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^477]: https://thailand.go.th/public/issue-focus-detail/---120 — Thailand Government Public Relations Department, guidance on documents, witnesses, and legalization for marriage registration involving foreign nationals.
 
-[^478]: https://tvc.co.th/guides/thailand-thailand-law-firms — Thai Visa Centre, *Thailand Law Firms and TVC Office Locations*, lawyer-versus-agent table describing licensed Thai lawyers as essential for condominium or land purchases and stating that title review and due diligence must be done by Thai attorneys.
+[^478]: `https://tvc.co.th/guides/thailand-thailand-law-firms` — Thai Visa Centre, *Thailand Law Firms and TVC Office Locations*, lawyer-versus-agent table describing licensed Thai lawyers as essential for condominium or land purchases and stating that title review and due diligence must be done by Thai attorneys.
 
-[^479]: https://tvc.co.th/guides/property-real-estate-lawyer-in-thailand — Thai Visa Centre, *Real Estate Lawyer in Thailand*, reviewed June 2026, FAQ asserting a lawyer is mandatory before deposits on condominiums, villas, or land-backed deals, with a stated due-diligence and contract-review price range.
+[^479]: `https://tvc.co.th/guides/property-real-estate-lawyer-in-thailand` — Thai Visa Centre, *Real Estate Lawyer in Thailand*, reviewed June 2026, FAQ asserting a lawyer is mandatory before deposits on condominiums, villas, or land-backed deals, with a stated due-diligence and contract-review price range.
 
 [^480]: https://thailand.go.th/useful-information-detail/010_011 — Thailand government, *Ownership of real estate by foreigners in Thailand: Documents required for registration*, identifying required ownership, identity, and other supporting documents without a blanket requirement for attorney representation.
 
 [^481]: https://www.dol.go.th/rayong/ask-question/faqs-1770282877/ — Rayong Provincial Land Office, Department of Lands, FAQ explaining that buyers and sellers may attend the Land Office together for an ordinary sale and registration with the original documentation; a general property-transfer example, not a condominium-specific checklist.
 
-[^482]: https://tvc.co.th/guides/property-10-things-to-look-for-in-a-thai-property-due-diligence-review — Thai Visa Centre, *10 Things to Look for in a Thai Property Due Diligence Review*, reviewed June 2026, expressly acknowledging that due diligence is not legally mandatory and advertising a typical condominium review cost of 15,000–40,000 baht.
+[^482]: `https://tvc.co.th/guides/property-10-things-to-look-for-in-a-thai-property-due-diligence-review` — Thai Visa Centre, *10 Things to Look for in a Thai Property Due Diligence Review*, reviewed June 2026, expressly acknowledging that due diligence is not legally mandatory and advertising a typical condominium review cost of 15,000–40,000 baht.
 
-[^483]: https://tvc.co.th/guides/legal-services-franchise-lawyers-thailand — Thai Visa Centre, *Franchise Lawyers in Thailand*, reviewed June 2026, stating that franchise agreements require trademark registration and discussing expansion and territory without identifying nearby-franchisee priority rights.
+[^483]: `https://tvc.co.th/guides/legal-services-franchise-lawyers-thailand` — Thai Visa Centre, *Franchise Lawyers in Thailand*, reviewed June 2026, stating that franchise agreements require trademark registration and discussing expansion and territory without identifying nearby-franchisee priority rights.
 
 [^484]: https://www.tilleke.com/wp-content/uploads/2025/11/Tilleke-ICLG-Franchise-2026-Thailand.pdf — Tilleke & Gibbins, *Franchise 2026: Thailand*, describing the absence of a general franchise-registration requirement and the separate laws governing franchising.
 
@@ -9322,7 +9322,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^492]: https://www.thailand.go.th/public/issue-focus-detail/judiciary-launches-upgraded-e-filing-system-with-enhanced-security-and-user-focus?hl=en — Thailand government's English-language explanation of the January 2026 upgraded e-Filing platform, its features, and initial case categories.
 
-[^493]: https://tvc.co.th/guides/litigation-administrative-litigation-thailand — Thai Visa Centre, *Administrative Litigation in Thailand*, reviewed June 2026, identifying tax assessments and Revenue Department disputes in its Administrative Court discussion and advertising a typical 90-day filing window.
+[^493]: `https://tvc.co.th/guides/litigation-administrative-litigation-thailand` — Thai Visa Centre, *Administrative Litigation in Thailand*, reviewed June 2026, identifying tax assessments and Revenue Department disputes in its Administrative Court discussion and advertising a typical 90-day filing window.
 
 [^494]: https://en.admincourt.go.th/competence-and-procedures/administrative-courts-of-first-instance — Administrative Court of Thailand, official explanation of jurisdiction and the express exclusion of cases within the jurisdiction of specialized Tax Courts and other specialized courts.
 
@@ -9330,7 +9330,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^496]: https://www.legal500.com/intelligence/thailand/tax/tax-litigation-in-thailand — Tilleke & Gibbins, *Tax Litigation in Thailand*, December 18, 2025, describing specialized Tax Court jurisdiction, the 2025 Tax Cases Regulation, administrative prerequisites, and the specialized appeal route.
 
-[^497]: https://tvc.co.th/guides/thailand-business — Thai Visa Centre, *Business in Thailand: Company Setup, BOI, Work Permits, and Immigration*, marked reviewed June 2026, stating that most standard limited companies require 51% Thai shareholding unless an exception applies.
+[^497]: `https://tvc.co.th/guides/thailand-business` — Thai Visa Centre, *Business in Thailand: Company Setup, BOI, Work Permits, and Immigration*, marked reviewed June 2026, stating that most standard limited companies require 51% Thai shareholding unless an exception applies.
 
 [^498]: https://osos.boi.go.th/EN/how-to/147/ — Thailand Board of Investment, One Start One Stop Investment Center, Foreign Business Act restrictions, ownership classifications, and foreign-business authorization routes.
 
@@ -9352,7 +9352,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^507]: https://www.doe.go.th/prd/download/download_by_pool_file/62501 — Thailand Department of Employment, consolidated English-language Foreigners' Working Management Emergency Decree indicating the repeal of Sections 70–74 and the revised provisions on work permissions and employer notification.
 
-[^508]: https://tvc.co.th/guides/thailand-service-thailand-marriage-us — Thai Visa Centre, *How US Citizens Get Married in Thailand*, marked reviewed June 2026, claiming an American Embassy Affirmation of Freedom to Marry is necessary before any Thai district office will register the marriage and describing the affidavit as confirmation of eligibility.
+[^508]: `https://tvc.co.th/guides/thailand-service-thailand-marriage-us` — Thai Visa Centre, *How US Citizens Get Married in Thailand*, marked reviewed June 2026, claiming an American Embassy Affirmation of Freedom to Marry is necessary before any Thai district office will register the marriage and describing the affidavit as confirmation of eligibility.
 
 [^509]: https://www.bora.dopa.go.th/wp-content/uploads/2026/05/mt03093_v15381.pdf — Thailand Department of Provincial Administration, Circular มท 0309.3/ว15381, May 22, 2026, on preventing fraudulent marriage registration and accepting marital-status evidence from authorities legally competent under foreign national law, not necessarily embassies or consulates.
 
