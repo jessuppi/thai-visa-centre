@@ -36,6 +36,44 @@ The advertised guarantee is therefore not automatically secured when a customer 
 
 For qualifying purchases from August 29, 2026 onward, the ordinary guarantee also covers only the company's service fee, excluding government application fees and other third-party charges.[^5]
 
+### Issa Compass Warns Against the Same Weak Refund Guarantees It Sells
+
+Issa Compass's October 17, 2026 article *Document Pre-Checks, Money-Back Guarantees, and Expert Support* advises consumers how to identify misleading visa-service guarantees.[^6]
+
+Its comparison table explicitly classifies:
+
+- **Weak guarantee:** Service credit only.
+- **Strong guarantee:** Refund of the service fee.
+
+The article also warns that excessive conditions can make recovering money nearly impossible.
+
+**Yet Issa Compass's own Terms of Service contain precisely the weak refund arrangement it warns consumers against.**
+
+Under Section 7.3.7, applicable to purchases beginning November 14, 2026, customers can pay for plans advertised with money-back protection before the company confirms whether their applications qualify.[^5]
+
+If Issa Compass's legal team subsequently denies guarantee eligibility, customers who abandon their applications do not receive an ordinary cash refund.
+
+Instead:
+
+- Issa Compass retains their service fees as credit toward another visa service.
+- The credit expires 12 months after the original payment.
+- The Initial Assessment Fee remains non-refundable.
+- The company can withhold detailed reasons for rejecting guarantee eligibility when it considers those reasons proprietary.
+
+**Issa Compass accepts payment while advertising refund protection, reserves the right to deny that protection afterward, and substitutes the exact service-credit remedy its own consumer guide labels a weak guarantee.**
+
+The company's standard guarantee promises service-fee refunds for qualifying government refusals. But the contract allows Issa Compass to decide that a paying customer never qualified for that protection in the first place.
+
+That distinction is central to the problem: **the company controls whether the advertised cash-refund guarantee applies after the customer has already paid.**
+
+Its October consumer guide tells readers to scrutinize conditional guarantees and reject service-credit-only protection. Its November contract then authorizes both practices.
+
+**Issa Compass's published consumer advice condemns refund arrangements that its own contractual terms expressly permit.**
+
+Customers deserve to know before payment whether they are purchasing genuine cash-refund protection or merely the possibility of receiving it, subject to a later internal decision.
+
+The contradiction directly undermines Issa Compass's marketing of its money-back guarantee as a reason to trust its paid visa services.
+
 ## Document Verification Claims Versus Contractual Disclaimers
 
 Issa Compass advertises an AI-powered verification system that checks application documents against published and unpublished embassy requirements. Its promotional material describes comprehensive document verification as the foundation of its money-back guarantee.[^4]
@@ -55,6 +93,7 @@ The company also disclaims responsibility for inaccurate or falsified customer d
 [^3]: `https://www.issacompass.com/security/fake-visa-service-websites`
 [^4]: `https://www.issacompass.com/insights/how-issa-compass-pre-qualification-supports-its-money-back-guarantee`
 [^5]: `https://www.issacompass.com/terms`
+[^6]: `https://www.issacompass.com/insights/document-pre-checks-approval-guarantees-and-expert-support-what-to-demand-from-a` — Issa Compass, *Document Pre-Checks, Money-Back Guarantees, and Expert Support*, updated October 17, 2026; identifies service-credit-only refunds as weak guarantees.
 
 ## Additional Sources
 
