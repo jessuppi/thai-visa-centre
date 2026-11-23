@@ -1199,6 +1199,86 @@ Applicants following TVC's figures would underestimate the standard government f
 
 The repetition across four separate pages raises questions about the agency's claimed editorial reviews and whether its outbound visa guidance is actually checked against current immigration regulations.
 
+## Singapore Visa Service Falsely Claims Thai Citizens Need Entry Visas
+
+Thai Visa Centre advertises a *Singapore Visa for Thailand - Apply from Thailand* service based on the false premise that Thai passport holders must obtain entry visas before visiting Singapore.[^558]
+
+The page repeatedly claims that:
+
+- Thai citizens require Singapore visas for tourism, business visits, and certain transit arrangements.
+- Thailand is included on Singapore's list of visa-required nationalities.
+- Thai travelers flying from Bangkok without advance visa approval risk being denied boarding.
+- Applicants must submit Form 14A, financial records, employment evidence, and supporting documents through authorized visa agents.
+
+**These claims directly contradict Singapore's official immigration requirements.**
+
+### Singapore Grants Thai Citizens Visa-Free Entry
+
+Singapore's Immigration & Checkpoints Authority (ICA) publishes the nationalities and travel documents requiring entry visas. **Thailand is not on that list.**[^559]
+
+Thailand's Ministry of Foreign Affairs independently confirms that ordinary Thai passport holders qualify for visa-free visits to Singapore of up to **30 days**.[^560]
+
+Thai tourists therefore do not ordinarily require a Singapore entry visa for qualifying short visits.
+
+They must still satisfy Singapore's general entry requirements, including submitting the SG Arrival Card where applicable. Immigration officers determine admission and the permitted period of stay. Employment and other activities requiring separate authorization are not covered simply by visa-free visitor eligibility.
+
+None of these conditions supports TVC's categorical assertion that Thai citizens must obtain Singapore visas before boarding flights.
+
+**TVC is presenting an unnecessary visa application as a mandatory travel requirement.**
+
+### Commercially Promoting an Unnecessary Application Process
+
+TVC's page does more than misstate an immigration rule. It provides a detailed application process directing Thai travelers to authorized visa agents, requiring financial documentation, government processing fees, and advance approval letters.[^558]
+
+The agency also advertises its own document-preparation assistance and invites visitors to arrange appointments.
+
+For ordinary Thai tourists eligible for visa-free entry, the advertised visa application process is unnecessary.
+
+Travelers relying on TVC's instructions could:
+
+- Pay for professional visa assistance they do not need.
+- Prepare unnecessary employment records, financial statements, and supporting documents.
+- Postpone travel while waiting for a visa approval that is not required.
+- Mistakenly believe airlines will deny boarding because they have not obtained a Singapore visa.
+
+TVC states that it prepares documents rather than submitting Singapore visa applications directly to ICA. The available evidence does not establish that particular customers purchased unnecessary assistance or that TVC deliberately misrepresented the rules.
+
+However, **the published service page promotes commercial assistance by repeatedly telling an eligible visa-exempt population that visas are mandatory.**
+
+That is a material factual misrepresentation with potential financial consequences for prospective customers.
+
+### Singapore Guide Includes Unrelated Schengen Visa Requirements
+
+The same page contains instructions that belong to European Schengen visa applications, not Singapore travel.[^558]
+
+Its *Main destination rule* tells applicants to select an embassy based on where they intend to spend the longest period within the Schengen Area.
+
+Its pre-lodgement checklist also specifies **€30,000 in Schengen medical insurance coverage**, including repatriation.
+
+Singapore is not part of the Schengen Area. Neither the Schengen main-destination rule nor its medical insurance requirement applies to ordinary Singapore visitor entry.
+
+The inclusion of these unrelated requirements strongly suggests that material intended for European visa applications was reused without adequate destination-specific verification.
+
+This is particularly concerning because the page presents itself as professional immigration guidance, includes an official-source verification claim, and identifies **June 2026** as its most recent review.
+
+### Significance of the False Visa Requirement
+
+The contradiction is straightforward:
+
+- **TVC claims:** Thai citizens must obtain Singapore entry visas through authorized agents before traveling.
+- **Singapore ICA confirms:** Thailand is not a visa-required nationality.
+- **Thailand's Ministry of Foreign Affairs confirms:** Ordinary Thai passport holders qualify for visa-free visits of up to 30 days.
+
+This is not a minor discrepancy involving processing times or supporting documents.
+
+**Thai Visa Centre is advertising assistance for an entry visa that its intended Thai tourist customers do not ordinarily need.**
+
+The unrelated Schengen requirements further undermine the credibility of its claimed editorial review and professional immigration guidance.
+
+Although the evidence does not prove deliberate deception or completed unnecessary visa sales, it establishes that TVC publicly promotes a visa application process based on a demonstrably false requirement.
+
+**A commercial visa agency that cannot correctly identify whether its target customers need a visa is failing at the most fundamental part of the service it claims to provide.**
+
 ## Misleading Five-Year O-A Retirement Extension Claims
 
 Thai Visa Centre repeatedly advertises a supposed **five-year extension of the Non-Immigrant O-A retirement visa**, claiming that foreigners become eligible after holding O-A status for three years.
@@ -10497,3 +10577,9 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^556]: https://www.mfa.go.th/en/content/pb-summary-03092026-en — Thailand Ministry of Foreign Affairs, September 3, 2026; revised visa-exemption arrangements effective September 15, 2026, including tourism-only scope.
 
 [^557]: https://www.doe.go.th/prd/download/download_by_pool_file/65691 — Thailand Department of Employment, official urgent or necessary work notification procedure, Form W.P.34.
+
+[^558]: `https://tvc.co.th/foreign-visas/singapore/singapore-visa-thailand` — Thai Visa Centre, *Singapore Visa for Thailand - Apply from Thailand*, accessed November 24, 2026; false Thai nationality visa requirements, authorized-agent application instructions, commercial document-preparation promotion, unrelated Schengen requirements, and claimed June 2026 review.
+
+[^559]: https://www.ica.gov.sg/information-and-e-services/entry-and-departure/entering-singapore/visa-guidelines — Singapore Immigration & Checkpoints Authority, *Visa Guidelines*, updated October 28, 2026; official list of visa-required nationalities and travel documents, excluding ordinary Thai passports.
+
+[^560]: https://image.mfa.go.th/mfa/0/XS0Mt9WAaq/ข้อมูลประเทศ/ปท.ที่ผู้ถือ_นสดท._ไทย_ไม่ต้องขอ_VISA_สถานะ_2_พ.ค._2568.pdf — Thailand Ministry of Foreign Affairs, Department of Consular Affairs, *List of Countries and Territories Where Thai Nationals May Enter Without a Visa*, May 2, 2025; ordinary passport table, Singapore, 30-day visa exemption.
