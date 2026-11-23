@@ -1168,7 +1168,7 @@ TVC should revise its family guides to distinguish individual traveler records f
 
 ## Misleading Foreign-Visa Requirements, Applications, and Fees
 
-Thai Visa Centre promotes assistance for foreign visa applications from Thailand, but several of its published service guides contradict official entry requirements, omit simpler travel authorizations, or present incorrect government fees. The problems involve both **whether an applicant needs a visa at all** and **what the correct application route or cost would be**. The examples below cover Schengen fees; visitor entry requirements for Singapore, South Korea, China, and Japan; Canada's conditional eTA pathway; and U.S. visa fees, while distinguishing nationality-wide visa waivers from conditional eligibility exceptions.
+Thai Visa Centre promotes assistance for foreign visa applications from Thailand, but several of its published service guides contradict official entry requirements, omit simpler travel authorizations, or present incorrect government fees. The problems involve both **whether an applicant needs a visa at all** and **what the correct application route or cost would be**. The examples below cover Schengen fees and overseas-territory visa procedures; visitor entry requirements for Singapore, South Korea, China, and Japan; India's fee-free e-Tourist visa; Canada's conditional eTA route; and U.S. visa fees. They distinguish exemptions from application rules and actual government charges.
 
 ### Schengen Area: Outdated Visa Application Fees Despite Claimed 2026 Reviews
 
@@ -1182,6 +1182,15 @@ Nevertheless, TVC continues publishing the former €80 adult fee across multipl
 - **Schengen Visa FAQs:** Repeats the €80 fee in its requirements table, additional guidance, and FAQ.[^67]
 - **How to Apply for a Schengen Visa in Thailand:** Advertises €80 plus service charges.[^68]
 - **How Do I Apply for a Schengen Visa From Thailand?:** Repeatedly identifies €80 as the standard short-stay application fee.[^69]
+
+Additional country-specific sales pages repeat the same obsolete **€80 standard adult fee**, despite the EU-wide €90 rate:
+
+- **Italy:** The *Italy Tourist Visa* page quotes €80 for most adults, while the separate *Italian Schengen Visa* guide also advertises €80 plus service charges.[^584][^588]
+- **Spain:** The *Spain Tourist Visa* page quotes €80.[^585]
+- **Sweden:** The *Sweden Tourist Visa* page quotes €80.[^586]
+- **Netherlands:** The *Netherlands Tourist Visa* page quotes €80.[^587]
+
+These are **additional published instances of one Schengen-wide fee error**, not different national fees. The European Commission's standard short-stay adult fee has been €90 since June 11, 2024, subject to exemptions and reduced categories.[^65]
 
 These are not obscure historical articles. They are active service guides intended to attract customers seeking European visas from Thailand.
 
@@ -1202,6 +1211,16 @@ Applicants following TVC's figures would underestimate the standard government f
 **Thai Visa Centre markets professional Schengen application assistance while publishing a government fee that has been incorrect for more than two years.**
 
 The repetition across four separate pages raises questions about the agency's claimed editorial reviews and whether its outbound visa guidance is actually checked against current immigration regulations.
+
+### New Caledonia: Schengen Visa Advice for a Territory Outside Schengen
+
+TVC's *New Caledonia Visa Thailand* page repeatedly claims that a France-issued **Schengen short-stay visa covers New Caledonia**. It instructs Thai visitors to treat the French overseas collectivity as their main Schengen destination, obtain €30,000 Schengen medical insurance, pay Schengen visa fees, and observe the Schengen 90/180-day stay limit.[^582]
+
+**France's official visa authority explicitly states that a Schengen visa does not by itself authorize entry to France's non-European territories, including New Caledonia.** Travelers who need visas for these territories must obtain the appropriate French overseas-territory visa. Someone visiting mainland France and an overseas territory may need two distinct visas.[^583]
+
+Eligibility for an overseas-territory exemption can depend on nationality, residence status, qualifying long-stay visas, or specific multiple-entry visas. **The documented failure is TVC's identification of an ordinary Schengen visa as the correct authorization**, not a claim that every Thai passport holder must apply for a new visa.
+
+TVC advertises document preparation based on the wrong visa rules, potentially causing unnecessary applications or travel disruption. The page claims a June 2026 review while using Schengen policies for a destination outside the Schengen Area. No specific paid applications or refused entries have been established.
 
 ### Singapore: Visa Requirements Invented for Thai Tourists
 
@@ -1266,6 +1285,16 @@ TVC claims its guidance was reviewed in June 2026, more than 12 years after Japa
 The available evidence does not establish deliberate deception or completed unnecessary sales.
 
 However, **TVC commercially promotes Japanese tourist visa assistance while categorically denying a visa exemption that Japan's government has officially recognized since 2013.**
+
+### India: Official Visa-Fee Instructions Omit Free Tourist e-Visas Introduced in September 2026
+
+TVC's *Indian Visa for Thai Citizens* page correctly explains that Thai tourists can apply for Indian electronic tourist visas. Its application process nevertheless instructs travelers to **“Pay official visa fee”** and says to pay online for e-Visa applications, without identifying the free short-stay option for Thai citizens.[^579]
+
+The Embassy of India in Bangkok announced on **September 11, 2026** that Thai nationals could receive **30-day, double-entry e-Tourist visas without a visa fee** until **December 31, 2027**, unless the government issues further orders.[^580] **Travelers must still apply for and obtain the visa** through the official government portal; this is a fee exemption, not visa-free entry. Other visa categories and durations can have different charges.[^581]
+
+For eligible Thai tourists using the 30-day e-Tourist category, TVC's categorical payment step is outdated. The page also promotes its own document-preparation assistance, although India's official electronic application guidance states that intermediaries are not needed to submit an e-Visa application.[^581]
+
+The page's latest claimed review was **June 2026**, before the September announcement, so this is a **failure to update later guidance**, not evidence that its earlier review ignored a rule that had not yet been announced. The evidence does not establish that TVC charged customers the waived government fee or intentionally concealed the change.
 
 ### Canada: Mandatory Visitor-Visa Claims Omit an eTA Alternative
 
@@ -1355,9 +1384,9 @@ The $50 difference is relatively modest, but it illustrates the same problem: th
 
 ### Commercial Significance of the Foreign-Visa Guidance Errors
 
-Across these guides, TVC incorrectly presents visas as mandatory for travelers who may qualify for visa-free entry or simpler electronic authorization, publishes outdated Schengen fees, and conflates distinct U.S. visa application charges. Its advertised preparation and translation services can make these errors financially consequential for prospective customers.
+Across these guides, TVC presents visas as mandatory for travelers who may qualify for visa-free entry or simpler electronic authorization, recommends a Schengen visa route that does not authorize travel to New Caledonia, quotes outdated Schengen and Indian tourist-visa fees, and conflates separate U.S. visa charges. Its advertised preparation and translation services make these errors commercially consequential.
 
-For Singapore, South Korea, China, and Japan, the central discrepancy concerns visa requirements for qualifying Thai short-term visitors. Japan's exemption specifically covers stays of up to 15 days by holders of ordinary Thai electronic passports. Canada's eTA route is more limited and requires specific travel and visa-history qualifications. Schengen and U.S. examples involve application-cost and procedural misinformation rather than a general exemption from the visa requirement.
+Singapore, South Korea, China, and Japan involve short-visit entry exemptions, with Japan limited to qualifying Thai IC passport holders and stays up to 15 days. Canada's eTA route depends on additional travel and visa-history criteria. India's 30-day e-Tourist visa still requires approval, but no visa fee under its specific current scheme. New Caledonia has distinct French overseas-territory visa rules. The Italy, Spain, Sweden, and Netherlands pages repeat **one EU-wide fee mistake**, while U.S. examples concern different visa-category costs and procedures.
 
 **The evidence documents inaccurate commercial guidance and potential unnecessary costs; it does not establish deliberate deception, completed unnecessary sales, or incorrect charges in private consultations.** Additional verified foreign-visa errors should be incorporated as subsections here, with their individual official sources, instead of multiplying top-level investigations.
 
@@ -10613,3 +10642,23 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^577]: https://www.mofa.go.jp/press/release/press6e_000126.html — Japan Ministry of Foreign Affairs, June 25, 2013; announcement of the July 1, 2013 visa exemption for Thai ordinary IC passport holders visiting for up to 15 days.
 
 [^578]: https://www.th.emb-japan.go.jp/itpr_en/visaindex.html — Embassy of Japan in Thailand, official consular guidance; confirmation of the 15-day visa exemption for Thai IC passport holders and current visa application procedures.
+
+[^579]: `https://tvc.co.th/foreign-visas/india/indian-visa-for-thai` — Thai Visa Centre, *Indian Visa for Thai Citizens - Apply from Thailand*, accessed November 24, 2026; instruction to pay an official e-Visa fee, document-preparation assistance, and June 2026 review claim.
+
+[^580]: https://www.nationthailand.com/news/tourism/40070938 — *The Nation*, September 12, 2026, reporting the Indian Embassy in Bangkok's September 11 announcement of a gratis 30-day double-entry e-Tourist visa for Thai nationals until December 31, 2027, or further orders.
+
+[^581]: https://indianvisaonline.gov.in/evisa/tvoa.html — Government of India, official e-Visa portal instructions and FAQ explaining electronic visa categories and that no agent or intermediary is required for applying.
+
+[^582]: `https://tvc.co.th/foreign-visas/other/new-caledonia-visa-thailand` — Thai Visa Centre, *New Caledonia Visa Thailand*, accessed November 24, 2026; repeated claims that Schengen visas cover New Caledonia, Schengen visa procedures, fees, insurance, and claimed June 2026 review.
+
+[^583]: https://www.france-visas.gouv.fr/en/web/france-visas/visa-de-court-sejour — French Government, *Short-stay visa*, section on non-European French territories confirming that Schengen visas do not themselves authorize entry and distinct visas can be necessary.
+
+[^584]: `https://tvc.co.th/foreign-visas/italy/italian-tourist-visa-thailand` — TVC, *Italy Tourist Visa*, advertised €80 standard adult Schengen fee.
+
+[^585]: `https://tvc.co.th/foreign-visas/spain/foreign-spanish-tourist-visa` — TVC, *Spain Tourist Visa*, advertised €80 standard adult Schengen fee.
+
+[^586]: `https://tvc.co.th/foreign-visas/sweden/swedish-tourist-visa` — TVC, *Sweden Tourist Visa*, advertised €80 standard adult Schengen fee.
+
+[^587]: `https://tvc.co.th/foreign-visas/netherlands/dutch-tourist-visa-thailand` — TVC, *Netherlands Tourist Visa*, advertised €80 standard adult Schengen fee.
+
+[^588]: `https://tvc.co.th/foreign-visas/schengen/schengen-visa-italian-schengen-visa-in-thailand` — TVC, *Italian Schengen Visa*, advertised €80 standard adult fee plus service charges.
