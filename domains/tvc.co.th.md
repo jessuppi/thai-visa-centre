@@ -1904,6 +1904,59 @@ The company should correct its published instructions and clearly distinguish th
 
 **The documented problem is not the availability of reporting assistance. It is TVC's suggestion that certain Elite membership tiers change the underlying legal reporting interval when the program operator expressly confirms otherwise.**
 
+### TM47 Guide Incorrectly Treats Day 91 as Automatically Overdue
+
+Thai Visa Centre's *90-Day Reporting Step-by-Step* guide publishes an inaccurate deadline table for foreigners completing Thailand's mandatory TM47 address notifications.[^111]
+
+The guide instructs readers that:
+
+- **Day 80:** Submit the report online, by post, or through an agent.
+- **Day 90:** The reporting deadline expires.
+- **Day 90+:** The report is overdue, with a potential 2,000-baht fine.
+
+**This presentation incorrectly suggests that a foreigner becomes liable for late reporting immediately after the 90th day.**
+
+### Immigration Officially Allows Seven Days After the Reporting Date
+
+Thailand's Immigration Bureau provides a broader notification window.
+
+Its published procedure allows qualifying foreigners to notify Immigration:
+
+- Up to 15 days before the 90-day reporting date.
+- Up to seven days after that date.[^525]
+
+A person submitting the required notification within the permitted seven-day period is not automatically overdue simply because Day 90 has passed.
+
+The distinction concerns the permitted TM47 notification window. It does not extend the validity of a visa or permission to remain in Thailand.
+
+Different submission channels have separate procedural restrictions. In particular, postal and online reporting may require earlier submission, and the availability of those methods should not be confused with the permitted in-person reporting window.
+
+**TVC's deadline table fails to explain these distinctions and instead treats every day following Day 90 as a reporting violation.**
+
+### The Incorrect Deadline Accompanies Commercial Reporting Assistance
+
+Thai Visa Centre markets paid TM47 reporting services involving document preparation, deadline reminders, and submissions handled on customers' behalf.[^111]
+
+Accurate deadline information is particularly important when a business charges customers to help them avoid penalties.
+
+Someone consulting TVC's guide on Day 91 could incorrectly believe they have already missed the permitted reporting period and face an immediate fine.
+
+The government's procedure provides a different answer.
+
+This does not establish that TVC has charged customers unnecessary penalties or misrepresented an individual customer's filing status.
+
+It establishes that **the agency publishes a deadline warning that omits an express allowance in the Immigration Bureau's reporting procedure**.
+
+### The Error Reinforces TVC's Other TM47 Warnings
+
+The same investigation documents TVC's unsupported suggestions that repeated TM47 violations can lead to blacklisting.
+
+The inaccurate Day 90 deadline creates an additional problem: readers may misunderstand when a reporting violation has occurred in the first place.
+
+**TVC combines an unnecessarily restrictive reporting deadline with warnings about immigration penalties while promoting commercial assistance for the same procedure.**
+
+Thai Visa Centre should distinguish the 90-day reporting date from the permitted seven-day notification period and explain the separate requirements for in-person, postal, and online submissions.
+
 ### Paid TM47 Guide Makes Unsupported Blacklisting Claims
 
 Thai Visa Centre publishes warnings about severe immigration consequences for foreigners who fail to complete their 90-day address notifications.
@@ -9845,3 +9898,5 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^523]: https://www.aseanconsumer.org/cterms-businesses/unfair-contract-terms — ASEAN Committee on Consumer Protection, *Unfair Contract Terms*, explaining Thailand's Unfair Contract Terms Act and Section 4.
 
 [^524]: `https://agents.co.th/tdac-apply/policy/terms-and-conditions/` — AGENTS CO., LTD., *Terms & Conditions*, updated April 2, 2025, identifying AGENTS as the contracting entity and establishing separate liability and third-party-service provisions.
+
+[^525]: https://www.samutprakanimmigration.go.th/notification-of-staying-in-the-kingdom-over-90-days/ — Samut Prakan Immigration, *Notification of Staying in the Kingdom Over 90 Days*, official procedure allowing notification within 15 days before or seven days after the 90-day reporting date.
