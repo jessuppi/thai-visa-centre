@@ -498,6 +498,32 @@ It establishes that **TVC continues distributing incorrect entry-duration advice
 
 This is a broader editorial failure than one outdated article. The same superseded policy appears across several travel markets, raising further doubts about the effectiveness of the agency's claimed immigration-information review process.
 
+### TVC's 32-Day Travel FAQ Recommends an Entry Arrangement That No Longer Covers the Trip
+
+Thai Visa Centre's FAQ *Can I Stay in Thailand for 32 Days?* tells travelers that eligible passport holders can enter Thailand visa-free for up to 60 days, making a 32-day holiday straightforward without obtaining a visa or applying for an extension.[^542]
+
+The guide explicitly recommends booking flights for 32 days, entering under visa exemption, and expecting a 60-day arrival stamp.
+
+Its comparison table also describes visa exemption as permitting 60 days, with an additional 30-day extension potentially allowing approximately 90 days in total.
+
+**These instructions became incorrect when Thailand abolished its 60-day exemption scheme on September 15, 2026.**
+
+The Royal Thai Embassy's updated requirements establish a standard 30-day visa exemption for 60 countries and territories, including the United Kingdom, United States, Canada, Australia, Germany, and France.[^541]
+
+Travelers entering under that arrangement who intend to stay 32 days must instead obtain an appropriate visa or successfully apply for an extension before their initial permission expires. Extensions remain subject to immigration approval.
+
+**TVC's specific advice to book a 32-day trip and rely on visa exemption therefore creates a risk of overstaying by two days.**
+
+The distinction is especially serious because the article presents itself as an answer to precisely this travel-planning question, rather than a general historical explanation of visa policy.
+
+TVC's own warning against overstaying a 30-day stamp appears elsewhere in the same FAQ, contradicting its primary recommendation.
+
+**The agency therefore acknowledges that exceeding a 30-day admission is an immigration violation while instructing readers to expect a 60-day exemption that no longer applies to the relevant nationalities.**
+
+The available evidence does not establish that any traveler overstayed because of this advice. However, it establishes that TVC's published instructions could expose customers to precisely the immigration-compliance problem the agency claims to help them avoid.
+
+Thai Visa Centre should correct the FAQ's central recommendation, its entry-duration table, and its instructions for travelers planning stays exceeding 30 days.
+
 ### Risks for Travelers
 
 The contradiction goes beyond an outdated technical detail.
@@ -10191,3 +10217,5 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^540]: `https://tvc.co.th/guides/travel-to-thailand-from-france` — Thai Visa Centre, France travel guide, including repeated outdated exemption instructions.
 
 [^541]: https://doha.thaiembassy.org/en/publicservice/tourist-visa-exemption-visa-on-arrival?cate=5d7e40bb15e39c032c0056ec — Royal Thai Embassy, Doha, tourist visa exemption requirements updated September 16, 2026, confirming the 30-day scheme and eligible nationalities.
+
+[^542]: `https://tvc.co.th/faq/can-i-stay-in-thailand-for-32-days` — Thai Visa Centre, *Can I Stay in Thailand for 32 Days?*, reviewed June 2026; outdated 60-day exemption advice and explicit instructions for 32-day trips.
