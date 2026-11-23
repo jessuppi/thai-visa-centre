@@ -5705,7 +5705,11 @@ Nevertheless, its published guidance repeatedly identifies judicial procedures a
 
 **TVC should correct its adoption guides to distinguish Child Adoption Board approval, statutory registration, receiving-country requirements, and the exceptional circumstances in which Thai court intervention may actually be necessary.**
 
-## Business-Formation Guide Presents Prohibited Nominee Shareholding as an Option
+## Misleading Company Formation, Foreign Ownership, and Legal-Service Requirements
+
+Four TVC guides present related errors about lawful shareholding structures, foreign ownership, company-registration requirements, and when professional lawyers are compulsory. Examining them together shows how incorrect incorporation advice can steer readers toward unnecessary shareholders or legal services while obscuring the prohibition on unlawful nominee arrangements.
+
+### Business-Formation Guide Presents Prohibited Nominee Shareholding as an Option
 
 Thai Visa Centre's guide *Types of Business in Thailand: FBA Lists and Foreign Ownership*, marked reviewed June 2026, identifies Thai-majority limited companies as a standard structure involving genuine Thai partners or nominee arrangements reviewed by corporate counsel.[^225]
 
@@ -5715,7 +5719,7 @@ These statements suggest that nominee arrangements can be acceptable when docume
 
 However, Thailand's Foreign Business Act expressly prohibits nominee shareholding used to circumvent restrictions on foreign business ownership.
 
-### Foreign Business Act Section 36 Prohibits Nominee Arrangements
+#### Foreign Business Act Section 36 Prohibits Nominee Arrangements
 
 Section 36 of the Foreign Business Act B.E. 2542 (1999) prohibits Thai nationals and qualifying legal entities from holding shares on behalf of foreigners to facilitate businesses that foreigners are not legally permitted to operate.[^226]
 
@@ -5727,7 +5731,20 @@ Legitimate Thai-majority companies with genuine Thai shareholders are permitted.
 
 **Legal advice and shareholder documentation do not convert prohibited nominee arrangements into lawful ownership structures.**
 
-### TVC's Other Guides Explicitly Warn Against Nominees
+#### Thailand's 2026 Enforcement Expansion Targets Nominee Structures and Intermediaries
+
+Government enforcement has become more extensive since TVC's claimed June 2026 review. In a September 23, 2026 announcement, Thailand's Public Relations Department confirmed that **from August 1, 2026, nominee screening expanded beyond incorporation to changes in shareholders, directors, and authorized signatories**. Where screening criteria apply, officials may demand financial evidence to verify investment sources and actual investment capacity.[^632]
+
+The government also emphasized that a company is not automatically unlawful merely because it has foreign shareholders or meets a risk-screening criterion. Authorities must examine the underlying facts, including whether Thai shareholders genuinely invest or are acting on behalf of foreigners to evade applicable restrictions.
+
+In November 2026, the Department of Business Development described further coordinated action against nominee arrangements, expressly including scrutiny of **accounting firms and law firms that may facilitate prohibited structures**. The department said it was examining professional intermediaries and coordinating information about accountants and lawyers associated with suspect companies.[^633]
+
+These developments do not create a general prohibition on legitimate Thai-majority companies or professional legal advice. They reinforce the distinction TVC's guide blurs: **legal review, paperwork, and a nominal Thai shareholding percentage do not make an unlawful nominee arrangement permissible**.
+
+Neither announcement establishes that TVC or any of its advisers has engaged in prohibited nominee activity. The documented failure is TVC's public suggestion that lawyer-reviewed nominee arrangements can be treated as a standard business-formation option.
+
+
+#### TVC's Other Guides Explicitly Warn Against Nominees
 
 The inconsistency is particularly conspicuous because Thai Visa Centre correctly explains the prohibition elsewhere.
 
@@ -5739,7 +5756,7 @@ These publications contradict the business-structures guide's presentation of la
 
 The company therefore publishes opposing explanations of a fundamental restriction under Thai business law.
 
-### Relevance to TVC's Commercial Services
+#### Relevance to TVC's Commercial Services
 
 Thai Visa Centre advertises business-visa assistance, work-permit coordination, corporate-document preparation, and referrals to company-registration advisers.
 
@@ -5754,7 +5771,7 @@ Nevertheless, **its published business-formation guidance presents an explicitly
 TVC should remove nominee arrangements from its list of standard company structures, explain the prohibition under Section 36, and reconcile its business guidance with the warnings already published elsewhere on its website.
 
 
-## Business Guide Misrepresents Thai-Majority Ownership as a General Company Requirement
+### Business Guide Misrepresents Thai-Majority Ownership as a General Company Requirement
 
 Thai Visa Centre's *Business in Thailand: Company Setup, BOI, Work Permits, and Immigration*, marked reviewed June 2026, misleadingly presents 51% Thai shareholding as the standard requirement for establishing a limited company.
 
@@ -5766,7 +5783,7 @@ The same guide suggests that full foreign ownership is generally unavailable, em
 
 **These statements confuse legal restrictions on particular business activities with the requirements for incorporating a Thai limited company.**
 
-### Foreign Business Act Does Not Impose Universal 51% Thai Ownership
+#### Foreign Business Act Does Not Impose Universal 51% Thai Ownership
 
 Thailand's Foreign Business Act B.E. 2542 (1999) regulates the business activities that foreigners and foreign-controlled companies may undertake.
 
@@ -5786,7 +5803,7 @@ Activities outside these restricted lists do not ordinarily require a Foreign Bu
 
 Many ordinary manufacturing activities fall outside the restricted lists, although particular manufacturing, service, distribution, and other activities may be subject to separate restrictions.
 
-### Restricted Businesses Can Also Qualify Through Licensing
+#### Restricted Businesses Can Also Qualify Through Licensing
 
 Even when a business activity is restricted under List 2 or List 3, Thai-majority shareholding is not necessarily the only lawful option.
 
@@ -5802,7 +5819,7 @@ These are different government authorization routes, not evidence of a universal
 
 **TVC's guide does not adequately explain that a Foreign Business License or another qualifying authorization can provide lawful alternatives to Thai-majority ownership for certain restricted activities.**
 
-### Incorporation and Authorization to Conduct Business Are Separate Questions
+#### Incorporation and Authorization to Conduct Business Are Separate Questions
 
 A company must satisfy the Civil and Commercial Code's incorporation requirements, including the applicable minimum shareholder count and company-registration procedures.
 
@@ -5812,7 +5829,7 @@ A Thai limited company may have foreign-majority ownership even when additional 
 
 **The relevant question is not whether every standard Thai company needs Thai-majority ownership, but whether its actual business activities require a licence, certificate, ownership condition, or other permission.**
 
-### Misleading Entrepreneurs About Corporate Ownership
+#### Misleading Entrepreneurs About Corporate Ownership
 
 TVC advertises business-visa coordination, work permits, corporate-lawyer referrals, and company-registration assistance.
 
@@ -5824,7 +5841,7 @@ The issue connects directly to TVC's separate business-structures guide, documen
 
 The available evidence does not establish that TVC created nominee companies or advised individual customers to surrender majority ownership unnecessarily. It establishes that its publications overgeneralize restrictions that actually depend on the activity and applicable authorization route.
 
-### Required Corrections
+#### Required Corrections
 
 Thai Visa Centre should explain that company incorporation does not universally require 51% Thai ownership, and that foreign-ownership restrictions depend on the company's actual business activities.
 
@@ -5832,13 +5849,13 @@ Its guide should identify activities outside the Foreign Business Act's restrict
 
 **An agency advising foreign entrepreneurs should not present Thai-majority ownership as a default legal necessity when Thailand's business-authorization framework provides lawful alternatives.**
 
-## Company Registration Guides Misstate Shareholder Requirements
+### Company Registration Guides Misstate Shareholder Requirements
 
 Thai Visa Centre's *Thailand Limited Company Registration* guide, marked reviewed June 2026, states that standard private limited companies require three shareholders. It also claims that one-person companies are possible under recent reforms.[^291]
 
 Both assertions conflict with Thailand's current company law.
 
-### The 2023 Amendment Reduced the Minimum to Two
+#### The 2023 Amendment Reduced the Minimum to Two
 
 Section 1097 of Thailand's Civil and Commercial Code was amended effective **February 7, 2023**, reducing the minimum number of company promoters from three to two.[^292]
 
@@ -5848,7 +5865,7 @@ Under Section 1237, a company whose shareholders are reduced to one may face cou
 
 **Thai Visa Centre simultaneously overstates the minimum number of shareholders and advertises a one-person company structure that the current law does not generally permit.**
 
-### The Error Appears in Multiple Guides
+#### The Error Appears in Multiple Guides
 
 TVC's separate *Company Registration in Thailand* guide also claims that single-shareholder companies are possible in certain circumstances.[^293]
 
@@ -5856,7 +5873,7 @@ Neither guide identifies an enacted legal provision establishing the supposed ex
 
 Foreign ownership approval under the Foreign Business Act, BOI promotion, or treaty arrangements must be distinguished from the minimum number of shareholders required to incorporate an ordinary Thai private limited company.
 
-### Consequences for Entrepreneurs
+#### Consequences for Entrepreneurs
 
 Foreign entrepreneurs relying on TVC's guidance could unnecessarily recruit a third shareholder or incorrectly assume that they can establish a limited company without any additional shareholder.
 
@@ -5867,7 +5884,7 @@ Both mistakes can affect corporate ownership arrangements, registration costs, l
 The agency should correct both guides, identify the applicable Civil and Commercial Code provisions, and distinguish genuine single-owner business structures from private limited companies requiring multiple shareholders.
 
 
-## Corporate-Lawyer Guide Falsely Claims Lawyers Are Mandatory for Company Registration and BOI Applications
+### Corporate-Lawyer Guide Falsely Claims Lawyers Are Mandatory for Company Registration and BOI Applications
 
 Thai Visa Centre's *Contact a Corporate Lawyer in Thailand* guide incorrectly presents licensed legal counsel as mandatory for ordinary company incorporation and Board of Investment applications.[^470]
 
@@ -5879,7 +5896,7 @@ The same page repeats that company registration and BOI matters require licensed
 
 **These blanket claims confuse optional professional legal assistance with the administrative filing requirements established by Thailand's government agencies.**
 
-### Department of Business Development Permits Direct Company Registration
+#### Department of Business Development Permits Direct Company Registration
 
 Thailand's Department of Business Development operates DBD Biz Regist, the official electronic system for registering private limited companies and partnerships.[^471]
 
@@ -5891,7 +5908,7 @@ Promoters and authorized company representatives must still comply with the lega
 
 Legal advice may be valuable for complex foreign-ownership structures, restricted business activities, shareholder agreements, or corporate transactions. Those situations do not establish that every incorporation must be handled by an attorney.
 
-### BOI Applications Can Be Submitted Through the Government's Electronic System
+#### BOI Applications Can Be Submitted Through the Government's Electronic System
 
 Thailand's Board of Investment maintains its e-Investment Promotion system for investment-promotion applications.
 
@@ -5903,7 +5920,7 @@ The official e-Investment Promotion portal likewise provides applicant registrat
 
 **TVC's assertion that BOI structuring requires licensed counsel cannot be treated as a general legal requirement for filing an investment-promotion application.**
 
-### Conflating Legal Advice With Statutory Filing Requirements
+#### Conflating Legal Advice With Statutory Filing Requirements
 
 TVC's guide groups company registration, BOI matters, mergers, and shareholder disputes together as activities requiring licensed counsel.[^470]
 
@@ -5913,7 +5930,7 @@ Contested litigation and complicated restructuring may require specialized couns
 
 Businesses may sensibly retain lawyers for drafting, negotiations, due diligence, ownership structuring, or specialist regulatory advice. **The decision to purchase professional assistance must not be confused with a universal legal obligation to do so.**
 
-### Misleading Foreign Entrepreneurs About Business Setup Costs
+#### Misleading Foreign Entrepreneurs About Business Setup Costs
 
 TVC advertises corporate-lawyer referrals while portraying legal involvement as compulsory.
 
@@ -10887,3 +10904,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^630]: `https://tvc.co.th/foreign-visas/other/romania-tourist-visa` — Thai Visa Centre, *Romania Tourist Visa*; indexed version displayed “Foreign visas hub” as related navigation, with current page rendering differing from indexed content.
 
 [^631]: `https://tvc.co.th/foreign-visas` — Thai Visa Centre, foreign-visa directory target, checked November 24, 2026; redirects to `https://tvc.co.th/` instead of displaying a foreign-visa directory.
+
+[^632]: https://thailand.prd.go.th/en/content/category/detail/id/48/iid/544203 — Thailand Public Relations Department, *Government Steps Up Crackdown on Nominee Businesses as Urgent Priority*, September 23, 2026; expanded post-registration screening effective August 1, 2026, investment-evidence checks, and safeguards for legitimate foreign-invested companies.
+
+[^633]: https://www.dbd.go.th/news/02513112569 — Thailand Department of Business Development, November 2026 nominee-enforcement announcement; coordinated investigation of potentially complicit accounting and law firms and scrutiny of professional intermediaries.
