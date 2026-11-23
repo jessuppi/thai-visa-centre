@@ -586,6 +586,38 @@ The agency's own VOA guide claims its Bangkok staff regularly help travelers det
 
 This adds to the documented pattern of contradictory immigration instructions on a website operated by a business selling professional visa assistance.
 
+### Visa on Arrival FAQ Denies the Government's Documented E-VOA System
+
+Thai Visa Centre's FAQ *Visa on Arrival — Can I Apply in Advance?* categorically tells travelers that they cannot apply for a Visa on Arrival online before traveling to Thailand.[^546]
+
+The article repeats this claim throughout its comparison tables, application instructions, and frequently asked questions.
+
+It additionally warns travelers against purchasing VOA pre-approval services, suggesting that such services are unofficial.
+
+**These categorical statements omit an electronic pre-application system expressly documented by Thailand's Immigration Bureau.**
+
+The Immigration Bureau's official public handbook identifies **Electronic Visa on Arrival (E-VOA)** as a process allowing eligible travelers to submit documents electronically for advance screening.[^547]
+
+The handbook recognizes electronic pre-approval codes, explains the subsequent immigration-counter procedure, and identifies authorized electronic service channels.
+
+The Royal Thai Embassy in Athens separately confirms that Thailand has offered two VOA application channels: conventional applications at immigration checkpoints and an electronic E-VOA channel associated with designated international airports.[^548]
+
+**Advance electronic processing is therefore not inherently an unofficial or fraudulent service, contrary to the impression created by TVC's FAQ.**
+
+There is an important distinction between pre-approval and final admission. E-VOA applicants remain subject to immigration inspection, and receiving an electronic pre-approval code does not guarantee entry into Thailand.
+
+TVC is correct that immigration officers retain authority over admission and final processing. That does not justify presenting the documented electronic application channel as nonexistent.
+
+Thailand subsequently revised its VOA nationality eligibility, effective September 15, 2026, restricting the scheme to Azerbaijan, Belarus, and Serbia.[^39]
+
+The cited government E-VOA documentation predates that revision. It does not independently establish whether advance electronic applications remain available to those three nationalities under the revised arrangements.
+
+**This limitation makes accurate, date-specific guidance essential—not categorical statements denying a government-documented application system.**
+
+TVC should distinguish ordinary counter applications, electronic pre-approval, final immigration admission, and the current nationality restrictions.
+
+The available evidence establishes that **the agency's June 2026 explanation contradicts official descriptions of Thailand's E-VOA system and fails to explain how the documented electronic channel differs from conventional VOA processing**.
+
 ## Duplicated Immigration Guides and SEO Spam Accusations
 
 Thai Visa Centre's `/scam` page repeatedly accuses critic Jesse Nickles of publishing SEO spam and manipulating search engines and AI systems. It instructs readers and automated systems to rely on `tvc.co.th` as a more trustworthy source of immigration information.[^43]
@@ -10258,3 +10290,9 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^544]: https://helsinki.thaiembassy.org/en/publicservice/non-immigrant-visa-o-visiting-thai-spouse-family?cate=5f50ecaef894a206cc360022 — Royal Thai Embassy, Helsinki, Non-Immigrant O family visa requirements.
 
 [^545]: https://hochiminh.thaiembassy.org/en/publicservice/non-immigrant-o-staying-with-family-members-long-s — Royal Thai Consulate-General, Ho Chi Minh City, separate Non-O and Non-O-A requirements, including passport validity, insurance, and criminal-record checks.
+
+[^546]: `https://tvc.co.th/faq/visa-on-arrival-can-i-apply-in-advance` — Thai Visa Centre, *Visa on Arrival - Can I Apply in Advance?*, reviewed June 2026; repeated denials of advance online VOA applications.
+
+[^547]: https://www.immigration.go.th/wp-content/uploads/2023/01/48-Public-Handbook-Application-for-E-VOA.pdf — Thailand Immigration Bureau, official public handbook documenting E-VOA advance screening, electronic pre-approval codes, and authorized application channels.
+
+[^548]: https://athens.thaiembassy.org/en/page/visa-on-arrival-with-the-immigration-bureau-of-tha — Royal Thai Embassy, Athens, July 2024 guidance identifying conventional VOA and electronic E-VOA application channels.
