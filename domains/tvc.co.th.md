@@ -1168,7 +1168,7 @@ TVC should revise its family guides to distinguish individual traveler records f
 
 ## Misleading Foreign-Visa Requirements, Applications, and Fees
 
-Thai Visa Centre promotes assistance for foreign visa applications from Thailand, but several of its published service guides contradict official entry requirements, omit simpler travel authorizations, or present incorrect government fees. The problems involve both **whether an applicant needs a visa at all** and **what the correct application route or cost would be**. The examples below cover Schengen fees, application jurisdictions and appointment providers, ETIAS rules, Romania and Bulgaria's Schengen integration, and French overseas-territory procedures; visitor entry requirements for Singapore, South Korea, China, and Japan; India's fee-free e-Tourist visa; Canada's conditional eTA route; Italian family-visa categories, French appointments, and Portuguese embassy links; Australia's prospective marriage visa validity; UK digital documentation and fiancé-visa fees; and U.S. visa fees. They distinguish exemptions from application rules and actual government charges.
+Thai Visa Centre promotes assistance for foreign visa applications from Thailand, but several of its published service guides contradict official entry requirements, omit simpler travel authorizations, or present incorrect government fees. The problems involve both **whether an applicant needs a visa at all** and **what the correct application route or cost would be**. The examples below cover Schengen fees, application jurisdictions and appointment providers, Greek embassy booking instructions, misleading foreign-visa directory links, ETIAS rules, Romania and Bulgaria's Schengen integration, and French overseas-territory procedures; visitor entry requirements for Singapore, South Korea, China, and Japan; India's fee-free e-Tourist visa; Canada's conditional eTA route; Italian family-visa categories, French appointments, and Portuguese embassy links; Australia's prospective marriage visa validity; UK digital documentation and fiancé-visa fees; and U.S. visa fees. They distinguish exemptions from application rules and actual government charges.
 
 ### Schengen Area: Outdated Visa Application Fees Despite Claimed 2026 Reviews
 
@@ -1224,6 +1224,14 @@ Other entries in the table, including Germany, do use VFS Global; the problem is
 
 **An applicant following the table could try to book the wrong provider rather than the authorized centre for the intended destination.** The difference is practical, not merely a branding detail, because appointment platforms and submission procedures are country-specific.
 
+#### Greece: VFS Appointment Instructions Contradict Embassy Booking Guidance
+
+TVC's *Greece Tourist Visa* page repeatedly describes the lodging route as **“Embassy or VFS Bangkok”** and instructs applicants to book a VFS or embassy slot. It uses this formulation in the summary, application stages, and step-by-step appointment instructions, despite also telling applicants to follow the official Greek mission appointment system.[^626]
+
+The **Embassy of Greece in Bangkok** instead directs visa applicants through its own **“Book an appointment”** link on the embassy's official website, last updated October 20, 2025.[^627] Its published procedure identifies an embassy-specific booking service; the official instructions reviewed do not identify VFS Global as an alternative Greek visa appointment provider in Thailand.
+
+**TVC's repeated VFS recommendation is not supported by the embassy's published instructions and could send applicants to the wrong appointment platform.** The discrepancy should not be interpreted as proof that no third-party appointment arrangements have ever existed, nor that specific customers lost money or missed appointments. The page claims a June 2026 review, after the embassy had already published its booking instructions.
+
 #### First Entry Is Not a General Alternative to the Main-Destination Rule
 
 The same FAQ reduces the choice of consulate to **“Country of main destination or first entry,”** without qualifying when first entry determines jurisdiction.[^618] TVC's separate ETIAS/Schengen travel guide likewise says travelers can apply through the first Schengen entry country when touring multiple states.[^625]
@@ -1241,6 +1249,14 @@ TVC's Schengen FAQ explicitly answers **“Yes”** to whether someone visiting 
 For example, France-Visas states that foreign applicants who are not ordinarily resident in Thailand, including those with less than three months' local residence, need **unforeseeable and compelling reasons** to request filing in Bangkok.[^624] Thus, a valid Thai tourist entry or extension does not by itself make a Schengen application acceptable there.
 
 **TVC's unconditional answer risks directing foreign tourists in Thailand toward appointments that they are not eligible to use without additional justification.** This does not mean every non-resident application is prohibited: justified exceptions exist and requirements depend on the competent member state's practice.
+
+#### Foreign-Visa Directory Link Redirects to the Homepage
+
+TVC's commercial *Schengen Visa - Short-Stay Travel from Thailand* page displays a **“Foreign visas hub”** navigation link to the agency's `/foreign-visas` section.[^628] Indexed versions of its Greece, Croatia, and Romania tourist-visa pages also advertised a foreign-visa hub or **“All foreign visas”** navigation option.[^626][^629][^630]
+
+However, **requesting `https://tvc.co.th/foreign-visas` redirects to the main TVC homepage**, rather than presenting the advertised directory of outbound visa guides.[^631] The destination is not a 404 error, but it does not provide the country-by-country directory the link promises.
+
+Some of the indexed examples are older than the currently retrievable page renderings, so the evidence does **not** prove that every historically displayed directory link remains visible. The live Schengen guide and the redirecting destination are sufficient to establish a current navigation inconsistency. It can frustrate users attempting to compare destination requirements, but does not by itself establish incorrect visa advice or charges.
 
 ### Italy: Family-Visa Sales Page Conflates Visits With Family Reunification
 
@@ -1507,7 +1523,7 @@ The $50 difference is relatively modest, but it illustrates the same problem: th
 
 ### Commercial Significance of the Foreign-Visa Guidance Errors
 
-Across these guides, TVC presents visas as mandatory for travelers who may qualify for visa-free entry or simpler electronic authorization, recommends a Schengen route that does not authorize travel to New Caledonia, quotes outdated Schengen and Indian tourist-visa fees, repeats superseded ETIAS pricing and Schengen-border information, misstates Schengen filing jurisdiction and appointment providers, misdirects Portuguese embassy enquiries, misidentifies the French visa appointment provider, conflates Italian family reunification with ordinary Schengen visits, and gives outdated Australian and UK instructions (including incorrect UK fiancé surcharge advice) while conflating separate U.S. visa charges. Its advertised preparation and translation services make these errors commercially consequential.
+Across these guides, TVC presents visas as mandatory for travelers who may qualify for visa-free entry or simpler electronic authorization, recommends a Schengen route that does not authorize travel to New Caledonia, quotes outdated Schengen and Indian tourist-visa fees, repeats superseded ETIAS pricing and Schengen-border information, misstates Schengen filing jurisdiction and appointment providers, directs Greece applicants toward an unsupported VFS route, advertises a foreign-visa hub that redirects to its homepage, misdirects Portuguese embassy enquiries, misidentifies the French visa appointment provider, conflates Italian family reunification with ordinary Schengen visits, and gives outdated Australian and UK instructions (including incorrect UK fiancé surcharge advice) while conflating separate U.S. visa charges. Its advertised preparation and translation services make these errors commercially consequential.
 
 Singapore, South Korea, China, and Japan involve short-visit entry exemptions, with Japan limited to qualifying Thai IC passport holders and stays up to 15 days. Canada's eTA route depends on additional travel and visa-history criteria. India's 30-day e-Tourist visa still requires approval, but no visa fee under its specific current scheme. New Caledonia has distinct French overseas-territory visa rules. The Italy, Spain, Sweden, and Netherlands tourist-visa pages repeat **one EU-wide fee mistake**; Italy's family-visa page separately misstates the protected family-member filing route and fee. Romania and Bulgaria's Schengen integration and ETIAS illustrate outdated European entry guidance; Portugal and France illustrate faulty application links or procedures. Australia, the UK, and U.S. examples concern visa conditions, documents or costs.
 
@@ -10859,3 +10875,15 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^624]: https://www.france-visas.gouv.fr/en/web/france-visas/thailande — France-Visas, *Thailand: Visa Application Procedures*; ordinarily resident applicants and justification required of non-residents seeking to file in Bangkok.
 
 [^625]: `https://tvc.co.th/guides/new-travel-authorization-system-and-schengen-visa-updates` — Thai Visa Centre, *Thailand TDAC vs Schengen ETIAS: Travel Authorization Guide 2026*; advice suggesting the first-entry country is an alternative to the main destination for multi-country itineraries.
+
+[^626]: `https://tvc.co.th/foreign-visas/other/greece-tourist-visa` — Thai Visa Centre, *Greece Tourist Visa*, accessed November 24, 2026; repeatedly recommends embassy or VFS appointments in Bangkok; earlier indexed copies included foreign-visa directory navigation.
+
+[^627]: https://www.mfa.gr/missionsabroad/en/thailand-en/visas/book-an-appointment-for-visa-application.html — Embassy of Greece in Thailand, *Book an appointment for visa application*, last updated October 20, 2025; official embassy appointment-booking link.
+
+[^628]: `https://tvc.co.th/foreign-visas/schengen/schengen-visa` — Thai Visa Centre, *Schengen Visa - Short-Stay Travel from Thailand*, accessed November 24, 2026; displays “Foreign visas hub” in its page navigation.
+
+[^629]: `https://tvc.co.th/foreign-visas/other/croatia-tourist-visa` — Thai Visa Centre, *Croatia Tourist Visa*; indexed version displayed “Foreign visas hub” as related navigation, with current page rendering differing from indexed content.
+
+[^630]: `https://tvc.co.th/foreign-visas/other/romania-tourist-visa` — Thai Visa Centre, *Romania Tourist Visa*; indexed version displayed “Foreign visas hub” as related navigation, with current page rendering differing from indexed content.
+
+[^631]: `https://tvc.co.th/foreign-visas` — Thai Visa Centre, foreign-visa directory target, checked November 24, 2026; redirects to `https://tvc.co.th/` instead of displaying a foreign-visa directory.
