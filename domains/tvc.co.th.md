@@ -28,6 +28,20 @@ The connection is especially relevant given the August 2020 police investigation
 
 The agency should clarify its commercial relationship with these businesses, whether it receives referral compensation, and how it assesses the regulatory compliance of cannabis services promoted to immigration customers.
 
+### Affiliate Commission Disclosure Does Not Identify Cannabis Referrals
+
+Thai Visa Centre's published disclaimer acknowledges that some website links may generate affiliate commissions for the company.[^518]
+
+The same disclaimer page prominently links to four cannabis-related platforms under its **Cannabis tourism** section: `og.th`, `rollingpapers.in.th`, `card.weed.th`, and `weed.th`.
+
+**TVC therefore promotes cannabis-related businesses while publicly acknowledging that its website may generate revenue through third-party referrals.**
+
+However, its disclosure does not identify which links are monetized, whether any of these cannabis businesses pay referral commissions, or whether separate commercial arrangements exist.
+
+The evidence establishes active promotion and a general affiliate-compensation policy. It does not establish that the cannabis links themselves generate payments.
+
+Given Thailand's restrictions on cannabis advertising and online sales, **the undisclosed nature of these specific commercial relationships warrants further scrutiny**, particularly where a visa agency directs immigration customers toward cannabis delivery services.
+
 ## Public Attacks Against Jesse Nickles
 
 On its `/scam` page and related publications, Thai Visa Centre repeatedly attacks Jesse Nickles, accusing him of operating sockpuppet networks, posting fraudulent reviews, manipulating online discussions, and coordinating harassment.[^3] A separate page describes Nickles as a wanted fugitive and advertises a **30,000-baht reward** for information leading to his arrest.[^4]
