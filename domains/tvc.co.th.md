@@ -1168,7 +1168,7 @@ TVC should revise its family guides to distinguish individual traveler records f
 
 ## Misleading Foreign-Visa Requirements, Applications, and Fees
 
-Thai Visa Centre promotes assistance for foreign visa applications from Thailand, but several of its published service guides contradict official entry requirements, omit simpler travel authorizations, or present incorrect government fees. The problems involve both **whether an applicant needs a visa at all** and **what the correct application route or cost would be**. The examples below distinguish unconditional claims from country-specific eligibility exceptions.
+Thai Visa Centre promotes assistance for foreign visa applications from Thailand, but several of its published service guides contradict official entry requirements, omit simpler travel authorizations, or present incorrect government fees. The problems involve both **whether an applicant needs a visa at all** and **what the correct application route or cost would be**. The examples below cover Schengen fees; visitor entry requirements for Singapore, South Korea, China, and Japan; Canada's conditional eTA pathway; and U.S. visa fees, while distinguishing nationality-wide visa waivers from conditional eligibility exceptions.
 
 ### Schengen Area: Outdated Visa Application Fees Despite Claimed 2026 Reviews
 
@@ -1232,6 +1232,40 @@ TVC's *Chinese Tourist Visa - Apply from Thailand* page claims Thai holidaymaker
 TVC's separate *Thailand and China Visa Waiver* guide itself acknowledges that Thai passport holders benefit from this bilateral arrangement.[^569] Its commercial Chinese tourist-visa page therefore contradicts another page on the same website.
 
 The Chinese Embassy reaffirmed in September 2026 that the bilateral exemption remained effective.[^570] The exemption is not merely a transit concession. Qualifying Thai tourists do not need the L-category visas presented as standard requirements by TVC's commercial page.
+
+### Japan: Tourist Visa Sales Page Denies Exemption in Force Since 2013
+
+Thai Visa Centre's *Japan Visa for Thai Citizens - Apply from Thailand* page falsely claims that Thai passport holders must obtain temporary visitor visas before traveling to Japan for tourism or short family visits.[^576]
+
+The page explicitly states that Japan does not grant Thai citizens visa-free entry and repeatedly directs travelers to obtain visa stickers through the Japanese Embassy or accredited travel agencies.
+
+**Japan has permitted qualifying Thai ordinary electronic passport holders to enter visa-free for short visits of up to 15 days since July 1, 2013.**[^577]
+
+The Embassy of Japan in Thailand confirms that the exemption covers tourism, visits to relatives, and qualifying short-term business activities.[^578]
+
+The exemption requires a valid ordinary IC passport, an eligible short-term purpose, and a stay not exceeding 15 days. Travelers intending longer stays, employment, or activities outside the exemption must obtain appropriate visas.
+
+Immigration officers may request evidence of return travel, accommodation, sufficient funds, and an itinerary. Visa exemption does not guarantee admission.
+
+TVC's commercial page nevertheless instructs ordinary Thai tourists to:
+
+- Complete Japanese visitor visa application forms.
+- Prepare bank statements, employment certificates, and detailed itineraries.
+- Arrange visa application appointments.
+- Pay application charges and wait for visa processing.
+- Collect embassy-issued visa stickers before departure.
+
+TVC promotes its own document-preparation, translation, and application-review assistance alongside these requirements.[^576]
+
+**For Thai tourists qualifying for Japan's 15-day visa exemption, the advertised embassy visa application process is unnecessary.**
+
+The page also describes direct applications at the Japanese Embassy in Bangkok as a standard option, despite the embassy's published instructions directing ordinary visa applications through the Japan Visa Application Centre (JVAC) and designated intake centres.[^578]
+
+TVC claims its guidance was reviewed in June 2026, more than 12 years after Japan introduced the exemption.
+
+The available evidence does not establish deliberate deception or completed unnecessary sales.
+
+However, **TVC commercially promotes Japanese tourist visa assistance while categorically denying a visa exemption that Japan's government has officially recognized since 2013.**
 
 ### Canada: Mandatory Visitor-Visa Claims Omit an eTA Alternative
 
@@ -1323,7 +1357,7 @@ The $50 difference is relatively modest, but it illustrates the same problem: th
 
 Across these guides, TVC incorrectly presents visas as mandatory for travelers who may qualify for visa-free entry or simpler electronic authorization, publishes outdated Schengen fees, and conflates distinct U.S. visa application charges. Its advertised preparation and translation services can make these errors financially consequential for prospective customers.
 
-For Singapore, South Korea, and China, the central discrepancy concerns visa requirements for qualifying Thai short-term visitors. Canada's eTA route is more limited and requires specific travel and visa-history qualifications. Schengen and U.S. examples involve application-cost and procedural misinformation rather than a general exemption from the visa requirement.
+For Singapore, South Korea, China, and Japan, the central discrepancy concerns visa requirements for qualifying Thai short-term visitors. Japan's exemption specifically covers stays of up to 15 days by holders of ordinary Thai electronic passports. Canada's eTA route is more limited and requires specific travel and visa-history qualifications. Schengen and U.S. examples involve application-cost and procedural misinformation rather than a general exemption from the visa requirement.
 
 **The evidence documents inaccurate commercial guidance and potential unnecessary costs; it does not establish deliberate deception, completed unnecessary sales, or incorrect charges in private consultations.** Additional verified foreign-visa errors should be incorporated as subsections here, with their individual official sources, instead of multiplying top-level investigations.
 
@@ -10573,3 +10607,9 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^574]: https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply.html — Immigration, Refugees and Citizenship Canada, official eTA application instructions; CAD $7 application fee.
 
 [^575]: https://ircc.canada.ca/english/information/fees/fees.asp — Immigration, Refugees and Citizenship Canada, official fee schedule; CAD $100 visitor visa and CAD $85 individual biometric fee.
+
+[^576]: `https://tvc.co.th/foreign-visas/japan/japan-visa-for-thai-citizen` — Thai Visa Centre, *Japan Visa for Thai Citizens - Apply from Thailand*, accessed November 24, 2026; false denial of visa-free entry, mandatory visitor visa instructions, commercial document-preparation assistance, and claimed June 2026 review.
+
+[^577]: https://www.mofa.go.jp/press/release/press6e_000126.html — Japan Ministry of Foreign Affairs, June 25, 2013; announcement of the July 1, 2013 visa exemption for Thai ordinary IC passport holders visiting for up to 15 days.
+
+[^578]: https://www.th.emb-japan.go.jp/itpr_en/visaindex.html — Embassy of Japan in Thailand, official consular guidance; confirmation of the 15-day visa exemption for Thai IC passport holders and current visa application procedures.
