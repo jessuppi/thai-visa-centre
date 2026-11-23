@@ -8692,6 +8692,50 @@ It establishes that **TVC's public-facing Privacy Policy does not adequately des
 
 Thai Visa Centre should reconcile its privacy disclosures with its actual document-collection procedures, including the purposes, retention standards, and responsible legal entity for handling immigration and financial records.
 
+### Disclaimer Claims Perpetual Publication Rights Over Submitted Information
+
+Thai Visa Centre's published Disclaimer contains an extraordinarily broad provision granting the agency rights over information submitted through its website or otherwise provided to the company.[^518]
+
+Under *Content and postings*, the company claims an **unlimited, perpetual right** to distribute, display, publish, reproduce, reuse, and copy submitted information.
+
+**The provision does not expressly exclude confidential customer records, passport documents, immigration applications, or financial information.**
+
+### The Agency Requests Confidential Immigration Documents
+
+Thai Visa Centre's own consultation instructions ask prospective customers to submit passport copies, visa stamps, immigration refusal notices, and supporting financial or employment records.[^522]
+
+These are not ordinary public comments or marketing testimonials. They are confidential documents provided for specific immigration and professional-service purposes.
+
+Although the disputed provision appears under a heading concerning website content and postings, its wording refers broadly to information uploaded or otherwise made available to the company.
+
+**That wording creates an alarming ambiguity over whether TVC claims publication and reuse rights extending beyond public testimonials to confidential customer submissions.**
+
+The available evidence does not establish that TVC has actually published private immigration documents under this clause.
+
+### Perpetual Publication Rights Conflict With Privacy Protections
+
+Thailand's Personal Data Protection Act imposes restrictions on collecting, using, and disclosing personal information.
+
+Section 19 establishes requirements for valid consent, including clear disclosure of processing purposes and the ability to withdraw consent, subject to applicable exceptions.[^459]
+
+Section 21 generally restricts processing to previously notified purposes unless a lawful exception applies.
+
+**A sweeping contractual permission to publish submitted information does not automatically override these statutory protections.**
+
+TVC's Privacy Policy separately describes its commitment to safeguarding customer information and limiting unauthorized disclosures.[^520]
+
+However, neither document clearly reconciles those assurances with the Disclaimer's unlimited, perpetual publication language.
+
+### The Agency Must Clarify What Information Is Excluded
+
+Thai Visa Centre should explain whether its publication rights apply solely to voluntary public comments, testimonials, and other material expressly intended for publication.
+
+It should also explicitly exclude confidential customer documents and personal information submitted for immigration services.
+
+**A visa agency handling passports, financial records, and sensitive immigration histories should not leave customers guessing whether its legal terms reserve perpetual rights to publish their submissions.**
+
+The documented problem is the breadth and ambiguity of TVC's contractual language, not proof that confidential customer information has already been improperly disclosed.
+
 ### Separate Data Protection Policy Does Not Resolve the Omissions
 
 Thai Visa Centre also publishes a *Data Protection Policy*, updated February 9, 2025, promising internal safeguards, responsible management of personal information, and compliance with Thailand's PDPA.[^521]
