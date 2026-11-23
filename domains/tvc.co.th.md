@@ -618,6 +618,37 @@ TVC should distinguish ordinary counter applications, electronic pre-approval, f
 
 The available evidence establishes that **the agency's June 2026 explanation contradicts official descriptions of Thailand's E-VOA system and fails to explain how the documented electronic channel differs from conventional VOA processing**.
 
+
+### Indian Travel Guide Promotes an Unnecessary 2,000-Baht Visa on Arrival
+
+Thai Visa Centre's *Travel to Thailand from India* guide incorrectly tells Indian passport holders that they generally do not qualify for visa exemption and should instead obtain a tourist e-Visa or pay for Visa on Arrival (VOA).[^553]
+
+The guide specifically recommends a **15-day VOA costing 2,000 baht** for Indian tourists taking short holidays. It repeats this recommendation in its entry-options table, airport instructions, common-mistakes section, and frequently asked questions.
+
+**These instructions directly contradict Thailand's current immigration rules.**
+
+Effective September 15, 2026, Indian ordinary passport holders became eligible for **30-day visa exemption for tourism**. The Royal Thai Embassy in New Delhi expressly confirms this arrangement and states that it remains effective until further announcement.[^554]
+
+Under the revised rules, India is no longer eligible for the Visa on Arrival scheme.[^39]
+
+TVC's guide therefore promotes an entry arrangement that is both **unavailable to Indian tourists under the revised VOA rules and unnecessary for ordinary qualifying tourist visits of up to 30 days**.
+
+The consequences are financial as well as practical:
+
+- Indian tourists could incorrectly believe they must pay a 2,000-baht government VOA fee for a short holiday.
+- Travelers could purchase an unnecessary tourist e-Visa for visits already covered by the 30-day exemption.
+- Customers could plan around a nonexistent 15-day VOA limit instead of the applicable 30-day visa-free stay.
+- Travelers could arrive expecting VOA processing rather than proceeding under the correct exemption arrangement.
+
+The article identifies June 2026 as its last review date but remains publicly available as a 2026 travel guide.
+
+**Thai Visa Centre sells immigration assistance to Indian travelers while publishing incorrect advice about their most basic entry entitlement.**
+
+The discrepancy is particularly serious because the agency separately acknowledges Thailand's September 2026 changes elsewhere on its website.[^40]
+
+This is not merely an outdated technical reference. It is an explicit recommendation to pursue a paid government visa procedure that Indian tourists no longer need for qualifying short visits.
+
+
 ## Paid Visa-Run Service Downplays Restrictions on Same-Day Re-Entry
 
 Thai Visa Centre advertises a paid one-day visa-run service promising a convenient border crossing and return to Bangkok on the same day.[^549]
@@ -10412,3 +10443,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^551]: https://roiet.imm.police.go.th/wp-content/uploads/2024/02/02-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%AF.pdf — Thailand Immigration Division 2, official bilingual handbook, pp. 48 and 50; exemption from overstay fines for children under 15 and re-entry-ban thresholds.
 
 [^552]: https://hochiminh.thaiembassy.org/en/publicservice/64058-thailand-overstay-measures?cate=5d809e6e15e39c2fe80078a5 — Royal Thai Consulate-General, Ho Chi Minh City, Thailand Overstay Measures; one-year re-entry ban following voluntary surrender requires more than 90 days of overstay.
+
+[^553]: `https://tvc.co.th/guides/travel-to-thailand-from-india` — Thai Visa Centre, *Travel to Thailand from India*, accessed November 23, 2026; incorrect visa-exemption eligibility, VOA recommendations, and 2,000-baht fee.
+
+[^554]: https://newdelhi.thaiembassy.org/en/content/the-revision-of-thailand-s-visa-exemption-and-voa — Royal Thai Embassy, New Delhi, September 15, 2026; confirmation of 30-day visa exemption for Indian ordinary passport holders.
