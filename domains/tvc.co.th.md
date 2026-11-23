@@ -8768,6 +8768,55 @@ The document also fails to explain the full range of statutory data-subject righ
 
 Although the introduction mentions accessing and updating information, and the policy separately discusses deletion requests involving children, these limited references do not adequately explain the broader rights established by the PDPA.
 
+### Privacy Policy Permits Collection From Unidentified Marketing Partners
+
+Thai Visa Centre's Privacy Policy expressly permits the company to collect personal information from sources other than its customers.[^520]
+
+Under *Collection of Personal Information*, the company identifies two additional sources:
+
+- Public databases.
+- Joint marketing partners.
+
+**The policy does not identify those marketing partners, explain what categories of personal information they provide, or describe the arrangements under which customer information is obtained from them.**
+
+This disclosure deserves scrutiny because it potentially extends TVC's information collection beyond individuals who knowingly contact the agency or submit immigration applications.
+
+### Thailand's PDPA Restricts Indirect Collection
+
+Section 25 of Thailand's Personal Data Protection Act specifically regulates collecting personal information from sources other than the data subject.[^459]
+
+The provision generally requires a data controller to:
+
+- Inform the individual about the indirect collection without delay, within 30 days.
+- Obtain the individual's consent, unless an exception under Sections 24 or 26 applies.
+- Provide the applicable information notices required under Sections 21 and 23, subject to statutory exceptions.
+
+**The fact that information is available in a public database or obtained through a commercial marketing relationship does not automatically exempt its collection from the PDPA.**
+
+TVC's published Privacy Policy does not explain how it satisfies these requirements when obtaining information from marketing partners or public databases.
+
+Nor does it distinguish information collected for an existing immigration-service relationship from information acquired for marketing or customer acquisition.
+
+### The Disclosure Leaves Important Questions Unanswered
+
+The company's published wording raises several questions:
+
+1. Which marketing partners provide personal information to TVC?
+2. What information is obtained from those partners?
+3. What lawful basis supports the collection?
+4. How are affected individuals notified?
+5. Can information about individuals who have never contacted TVC be added to its customer or marketing records?
+
+These questions are especially relevant because the same Privacy Policy identifies customer communications, feedback requests, testimonials, and service updates among its processing purposes.[^520]
+
+**TVC publicly reserves the ability to collect information from outside sources without adequately explaining the accompanying privacy safeguards or notification procedures.**
+
+The available evidence does not establish that TVC has actually purchased marketing databases, collected information without a lawful basis, or failed to notify particular individuals. Additional private notices or consent procedures may exist.
+
+What is established is that the company expressly contemplates indirect collection while its public privacy disclosures leave the applicable procedures unexplained.
+
+For an immigration business handling identity and financial records, **unidentified marketing partnerships should not obscure where personal information originates or which organization is accountable for collecting it lawfully**.
+
 ### Privacy Policy Omits Passport and Financial Documents Requested From Customers
 
 Thai Visa Centre's Privacy Policy describes the personal information it collects using three general categories:
