@@ -618,6 +618,58 @@ TVC should distinguish ordinary counter applications, electronic pre-approval, f
 
 The available evidence establishes that **the agency's June 2026 explanation contradicts official descriptions of Thailand's E-VOA system and fails to explain how the documented electronic channel differs from conventional VOA processing**.
 
+## Paid Visa-Run Service Downplays Restrictions on Same-Day Re-Entry
+
+Thai Visa Centre advertises a paid one-day visa-run service promising a convenient border crossing and return to Bangkok on the same day.[^549]
+
+The agency's published itinerary involves:
+
+- Flying from Bangkok to Hat Yai.
+- Traveling by private taxi to the Sadao border crossing.
+- Completing a purported five-minute motorbike crossing and return.
+- Returning to Hat Yai Airport for a 2:00 p.m. flight to Bangkok.
+
+TVC markets the arrangement as a fast, hassle-free visa renewal and describes it as suitable for anyone seeking a convenient one-day visa run.
+
+Its advertised service fee ranges from **9,000 to 15,000 baht**, excluding domestic flights.[^549]
+
+**However, the agency's sales page fails to explain that departing Thailand and immediately returning does not guarantee a new admission or permission to stay.**
+
+### Government Restrictions Directly Affect the Advertised Service
+
+On November 18, 2025, Thailand's Government Public Relations Department confirmed Immigration Bureau measures targeting repeated visa runs.[^550]
+
+The measures include increased scrutiny of foreigners repeatedly using visa exemptions to remain in Thailand, with entry refusal possible where officers identify excessive visa-run activity without valid justification.
+
+Thailand subsequently introduced revised visa-exemption requirements effective September 15, 2026.
+
+Under those rules, most eligible nationalities receive up to 30 days of visa-exempt stay, with land-border exemption entries generally limited to **two per calendar year**.[^541]
+
+Exceptions apply to nationals of Malaysia, Brunei, Indonesia, and Singapore, and potentially other nationalities designated by the government.
+
+**A paid border crossing therefore cannot be treated as an automatic renewal of an existing stay or a guaranteed new admission.**
+
+### Commercial Marketing Omits Material Risks
+
+TVC's service page describes the border crossing as a five-minute procedure and advertises smooth coordination for a same-day return flight.
+
+Yet immigration officers retain authority to examine a traveler's previous entries, purpose of travel, and eligibility before granting admission.
+
+A customer refused re-entry after departing Thailand could face substantial disruption, including losing the planned domestic return flight.
+
+The agency does acknowledge that its fees depend on visa history and individual circumstances, and invites customers to request an eligibility check.
+
+**That qualification does not replace a clear explanation of the government restrictions governing the service being sold.**
+
+The page does not identify the two-entry land-border exemption limit, explain the risk of refusal based on repeated visa-run patterns, or distinguish a new visa-exempt admission from renewal of an existing visa.
+
+Customers considering a service costing thousands of baht should understand these restrictions before purchasing transportation and professional assistance.
+
+The evidence does not establish that TVC has arranged unlawful crossings, guaranteed admission, or caused any customer to be refused entry.
+
+It establishes that **TVC markets an expensive same-day border-run service without adequately disclosing government restrictions that directly determine whether the advertised itinerary can succeed**.
+
+
 ## Duplicated Immigration Guides and SEO Spam Accusations
 
 Thai Visa Centre's `/scam` page repeatedly accuses critic Jesse Nickles of publishing SEO spam and manipulating search engines and AI systems. It instructs readers and automated systems to rely on `tvc.co.th` as a more trustworthy source of immigration information.[^43]
@@ -10296,3 +10348,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^547]: https://www.immigration.go.th/wp-content/uploads/2023/01/48-Public-Handbook-Application-for-E-VOA.pdf — Thailand Immigration Bureau, official public handbook documenting E-VOA advance screening, electronic pre-approval codes, and authorized application channels.
 
 [^548]: https://athens.thaiembassy.org/en/page/visa-on-arrival-with-the-immigration-bureau-of-tha — Royal Thai Embassy, Athens, July 2024 guidance identifying conventional VOA and electronic E-VOA application channels.
+
+[^549]: `https://tvc.co.th/visa-run` — Thai Visa Centre, *1-Day Visa Run Service - Bangkok*, accessed November 23, 2026; same-day Sadao itinerary, advertised five-minute border crossing, and service fees of 9,000–15,000 baht excluding flights.
+
+[^550]: https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/444048 — Thailand Government Public Relations Department, November 18, 2025, *Visa Runs Limited to 2 Under New Thailand Immigration Measures*, documenting increased scrutiny and potential refusal of repeated visa-run entries.
