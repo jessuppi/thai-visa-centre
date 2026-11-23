@@ -1166,7 +1166,11 @@ Nevertheless, **a business commercially promoting immigration-registration assis
 
 TVC should revise its family guides to distinguish individual traveler records from group submissions and consistently identify the official exemptions for qualifying transit passengers and crew.
 
-## Incorrect Schengen Visa Fees Despite Claimed 2026 Reviews
+## Misleading Foreign-Visa Requirements, Applications, and Fees
+
+Thai Visa Centre promotes assistance for foreign visa applications from Thailand, but several of its published service guides contradict official entry requirements, omit simpler travel authorizations, or present incorrect government fees. The problems involve both **whether an applicant needs a visa at all** and **what the correct application route or cost would be**. The examples below distinguish unconditional claims from country-specific eligibility exceptions.
+
+### Schengen Area: Outdated Visa Application Fees Despite Claimed 2026 Reviews
 
 Thai Visa Centre advertises document preparation and application assistance for European Schengen visas, but repeatedly publishes application fees that became obsolete in June 2024.
 
@@ -1181,7 +1185,7 @@ Nevertheless, TVC continues publishing the former €80 adult fee across multipl
 
 These are not obscure historical articles. They are active service guides intended to attract customers seeking European visas from Thailand.
 
-### Contradiction With Official EU Requirements
+#### Contradiction With Official EU Requirements
 
 The revised fees are established by Commission Delegated Regulation (EU) 2024/1415 and remain reflected in the European Commission's published visa guidance.[^65]
 
@@ -1189,7 +1193,7 @@ Certain applicants qualify for exemptions or reduced fees under specific arrange
 
 TVC's guides do not explain that their €80 figure is outdated. Instead, they present it as the applicable standard fee while claiming their information was reviewed in **June 2026**.
 
-### Misleading Application Costs
+#### Misleading Application Costs
 
 The discrepancy directly affects customers budgeting for visa applications.
 
@@ -1198,10 +1202,6 @@ Applicants following TVC's figures would underestimate the standard government f
 **Thai Visa Centre markets professional Schengen application assistance while publishing a government fee that has been incorrect for more than two years.**
 
 The repetition across four separate pages raises questions about the agency's claimed editorial reviews and whether its outbound visa guidance is actually checked against current immigration regulations.
-
-## Misleading Foreign-Visa Requirements in Commercial Guides for Thai Travelers
-
-Thai Visa Centre markets document preparation and application assistance for foreign visas while publishing destination-specific guidance that incorrectly presents embassy visas as mandatory for ordinary Thai passport holders. Its Singapore, South Korea, and China service pages each direct qualifying visa-exempt travelers toward applications they generally do not need.
 
 ### Singapore: Visa Requirements Invented for Thai Tourists
 
@@ -1233,13 +1233,99 @@ TVC's separate *Thailand and China Visa Waiver* guide itself acknowledges that T
 
 The Chinese Embassy reaffirmed in September 2026 that the bilateral exemption remained effective.[^570] The exemption is not merely a transit concession. Qualifying Thai tourists do not need the L-category visas presented as standard requirements by TVC's commercial page.
 
-### Repeated Commercial Significance
+### Canada: Mandatory Visitor-Visa Claims Omit an eTA Alternative
 
-These are distinct factual errors across three foreign-visa sales pages, not a single outdated fee or application detail. Each incorrectly tells qualifying Thai travelers to obtain an embassy visa despite official visa-free routes. The pages promote document preparation, appointments, supporting paperwork, and fees that may be unnecessary for those travelers.
+TVC's *Canada Tourist Visa: Apply from Thailand* page labels Thai passport holders as **“Visa required”**, states that they need an approved Temporary Resident Visa (TRV) before boarding, and marks tourism and family visits **“Yes: TRV”** in its eligibility table.[^571] The guide promotes document preparation, certified translations, financial evidence, and biometric appointments, although it also contains a general reminder to confirm eligibility with Immigration, Refugees and Citizenship Canada (IRCC).
 
-The evidence establishes the published claims, their contradictions with official government guidance, and TVC's commercial promotion of application assistance. **It does not establish deliberate deception, that specific customers paid for unnecessary applications, or that every Thai traveler is exempt from all visas.** Eligibility depends on destination, length and purpose of travel, and applicable entry authorization.
+**Canada has permitted certain Thai passport holders to fly to Canada with an electronic travel authorization (eTA), instead of a visitor visa, since June 6, 2023.**[^572] IRCC confirms that eligible travelers must fly to or transit through a Canadian airport, intend a temporary visit (normally up to six months), and have held a Canadian visitor visa in the preceding 10 years **or** hold a valid U.S. nonimmigrant visa when applying for eTA.[^573]
 
-**The recurring failure is that a business selling visa assistance incorrectly tells eligible Thai travelers they need the very visa applications it offers to help prepare.** Additional verified country-specific examples should be documented under this consolidated section rather than duplicated as separate top-level investigations.
+The eTA costs **CAD $7**, while a visitor visa application ordinarily costs **CAD $100**, plus **CAD $85** for biometrics when required.[^574][^575] An eligible eTA traveler generally need not complete the full TRV application or attend a biometric appointment.
+
+This is a **conditional** exemption, unlike the broader short-visit arrangements for Singapore, South Korea, and China. Thai travelers who do not meet eTA criteria, or who plan to enter Canada by land or sea, ordinarily still require a visitor visa. TVC's introductory mention of alternative authorization does not correct its categorical nationality table or explain the eTA route for eligible Thai tourists.
+
+**The omission could direct eligible travelers toward more expensive government applications and professional assistance that they do not need.** It does not prove that TVC intentionally concealed eTA eligibility or sold unnecessary services to particular customers. The page's claimed June 2026 review came three years after Canada introduced the program.
+
+### United States: K-1 Fiancé and Immigrant Spouse Visa Fees
+
+Thai Visa Centre's FAQ *US Spouse Visa Cost: CR-1, IR-1, and K-1 Fees*, marked reviewed June 2026, presents a combined breakdown of U.S. government charges for couples pursuing different immigration pathways.[^251]
+
+The guide identifies two routes:
+
+- K-1 fiancé visas for couples intending to marry in the United States.
+- CR-1/IR-1 immigrant spouse visas for couples already legally married.
+
+However, its consolidated fee table lists charges without adequately distinguishing which apply to each route.
+
+**The resulting guidance could lead applicants to budget for the wrong government fees or overlook charges actually required for their visa category.**
+
+#### K-1 Applicants Do Not Pay the Standard NVC Immigrant-Visa Fees
+
+TVC's government-fee table lists:
+
+| Fee | TVC's quoted amount |
+|---|---:|
+| Form I-129F petition | $675 |
+| NVC immigrant-visa processing | $325 |
+| NVC Affidavit of Support processing | $120 |
+
+The FAQ describes the $325 fee as covering Form DS-260 processing and the $120 fee as covering Form I-864 financial-document review.[^251]
+
+These NVC fees relate to immigrant-visa processing, including applicable CR-1/IR-1 cases.
+
+**K-1 fiancé applicants follow a different consular process.**
+
+The U.S. Department of State confirms that K-1 applicants complete Form DS-160 rather than the immigrant-visa Form DS-260.[^252]
+
+They pay the K-category nonimmigrant visa application fee, currently $265 per applicant.[^253]
+
+The National Visa Center still assigns and forwards approved K-1 petitions to the appropriate embassy. However, this administrative role does not make the ordinary NVC immigrant-visa processing and Affidavit of Support fees applicable to K-1 cases.
+
+TVC's fee breakdown fails to clearly explain that distinction.
+
+#### Its Fee Table Omits the $265 K-1 Consular Charge
+
+The Department of State's published fee schedule expressly identifies $265 for K-category visa applications.[^253]
+
+That charge is separate from the initial USCIS Form I-129F petition fee.
+
+TVC identifies the I-129F fee but omits the $265 K-1 consular charge from its table of typical government fees.
+
+It instead directs attention to the $325 immigrant-visa processing fee and $120 NVC Affidavit of Support fee.
+
+**The problem is not merely a missing fee: the table places charges from different visa procedures together without a clear indication of which customers must pay them.**
+
+#### Financial-Support Forms Apply at Different Stages
+
+The same confusion affects the financial-support requirements.
+
+The Department of State explains that K-1 applicants may be asked to provide Form I-134 during consular processing.[^252]
+
+Form I-864 ordinarily becomes relevant later, when the K-1 beneficiary marries the petitioner and applies for adjustment of status in the United States.
+
+By contrast, qualifying CR-1/IR-1 immigrant-visa cases use Form I-864 during the immigrant-visa process and may require payment of the NVC Affidavit of Support fee.[^254]
+
+TVC correctly acknowledges that K-1 beneficiaries ordinarily need adjustment of status after marriage.
+
+However, it does not adequately separate the financial-support documentation and fees applicable before entry from those arising after marriage.
+
+#### I-130 Online Filing Is Also Cheaper Than TVC States
+
+TVC quotes $675 as the Form I-130 filing fee without distinguishing paper and online submissions.[^251]
+
+USCIS's official fee schedule identifies:
+
+- **Paper filing:** $675.
+- **Online filing:** $625.[^255]
+
+The $50 difference is relatively modest, but it illustrates the same problem: the FAQ presents a single government charge where the official schedule provides different options.
+
+### Commercial Significance of the Foreign-Visa Guidance Errors
+
+Across these guides, TVC incorrectly presents visas as mandatory for travelers who may qualify for visa-free entry or simpler electronic authorization, publishes outdated Schengen fees, and conflates distinct U.S. visa application charges. Its advertised preparation and translation services can make these errors financially consequential for prospective customers.
+
+For Singapore, South Korea, and China, the central discrepancy concerns visa requirements for qualifying Thai short-term visitors. Canada's eTA route is more limited and requires specific travel and visa-history qualifications. Schengen and U.S. examples involve application-cost and procedural misinformation rather than a general exemption from the visa requirement.
+
+**The evidence documents inaccurate commercial guidance and potential unnecessary costs; it does not establish deliberate deception, completed unnecessary sales, or incorrect charges in private consultations.** Additional verified foreign-visa errors should be incorporated as subsections here, with their individual official sources, instead of multiplying top-level investigations.
 
 ## Misleading Five-Year O-A Retirement Extension Claims
 
@@ -7077,94 +7163,6 @@ Nevertheless, the agency markets property-law referrals and succession-planning 
 
 **Thai Visa Centre should update its condominium inheritance guidance to distinguish original purchase requirements, inherited Section 19(5) rights, foreign-ownership quota restrictions, and the circumstances in which mandatory disposal provisions actually apply.**
 
-## U.S. Fiancé Visa Cost Guide Confuses K-1 and Immigrant Spouse Fees
-
-Thai Visa Centre's FAQ *US Spouse Visa Cost: CR-1, IR-1, and K-1 Fees*, marked reviewed June 2026, presents a combined breakdown of U.S. government charges for couples pursuing different immigration pathways.[^251]
-
-The guide identifies two routes:
-
-- K-1 fiancé visas for couples intending to marry in the United States.
-- CR-1/IR-1 immigrant spouse visas for couples already legally married.
-
-However, its consolidated fee table lists charges without adequately distinguishing which apply to each route.
-
-**The resulting guidance could lead applicants to budget for the wrong government fees or overlook charges actually required for their visa category.**
-
-### K-1 Applicants Do Not Pay the Standard NVC Immigrant-Visa Fees
-
-TVC's government-fee table lists:
-
-| Fee | TVC's quoted amount |
-|---|---:|
-| Form I-129F petition | $675 |
-| NVC immigrant-visa processing | $325 |
-| NVC Affidavit of Support processing | $120 |
-
-The FAQ describes the $325 fee as covering Form DS-260 processing and the $120 fee as covering Form I-864 financial-document review.[^251]
-
-These NVC fees relate to immigrant-visa processing, including applicable CR-1/IR-1 cases.
-
-**K-1 fiancé applicants follow a different consular process.**
-
-The U.S. Department of State confirms that K-1 applicants complete Form DS-160 rather than the immigrant-visa Form DS-260.[^252]
-
-They pay the K-category nonimmigrant visa application fee, currently $265 per applicant.[^253]
-
-The National Visa Center still assigns and forwards approved K-1 petitions to the appropriate embassy. However, this administrative role does not make the ordinary NVC immigrant-visa processing and Affidavit of Support fees applicable to K-1 cases.
-
-TVC's fee breakdown fails to clearly explain that distinction.
-
-### Its Fee Table Omits the $265 K-1 Consular Charge
-
-The Department of State's published fee schedule expressly identifies $265 for K-category visa applications.[^253]
-
-That charge is separate from the initial USCIS Form I-129F petition fee.
-
-TVC identifies the I-129F fee but omits the $265 K-1 consular charge from its table of typical government fees.
-
-It instead directs attention to the $325 immigrant-visa processing fee and $120 NVC Affidavit of Support fee.
-
-**The problem is not merely a missing fee: the table places charges from different visa procedures together without a clear indication of which customers must pay them.**
-
-### Financial-Support Forms Apply at Different Stages
-
-The same confusion affects the financial-support requirements.
-
-The Department of State explains that K-1 applicants may be asked to provide Form I-134 during consular processing.[^252]
-
-Form I-864 ordinarily becomes relevant later, when the K-1 beneficiary marries the petitioner and applies for adjustment of status in the United States.
-
-By contrast, qualifying CR-1/IR-1 immigrant-visa cases use Form I-864 during the immigrant-visa process and may require payment of the NVC Affidavit of Support fee.[^254]
-
-TVC correctly acknowledges that K-1 beneficiaries ordinarily need adjustment of status after marriage.
-
-However, it does not adequately separate the financial-support documentation and fees applicable before entry from those arising after marriage.
-
-### I-130 Online Filing Is Also Cheaper Than TVC States
-
-TVC quotes $675 as the Form I-130 filing fee without distinguishing paper and online submissions.[^251]
-
-USCIS's official fee schedule identifies:
-
-- **Paper filing:** $675.
-- **Online filing:** $625.[^255]
-
-The $50 difference is relatively modest, but it illustrates the same problem: the FAQ presents a single government charge where the official schedule provides different options.
-
-### Relevance to TVC's Commercial Services
-
-Thai Visa Centre advertises document preparation, marriage-registration coordination, translations, and U.S. visa assistance for Thai-American couples.
-
-Choosing between K-1 and CR-1/IR-1 involves significant differences in costs, processing stages, and the applicant's immigration status after arrival.
-
-Customers could misunderstand which fees they must pay, budget for inapplicable NVC charges, or overlook mandatory consular expenses.
-
-The available evidence does not establish that TVC has charged clients these government fees incorrectly or deliberately misrepresented costs during private consultations.
-
-Nevertheless, **its published fee comparison conflates distinct U.S. visa procedures while presenting itself as current guidance reviewed in June 2026**.
-
-TVC should publish separate, itemized government-fee tables for K-1 and CR-1/IR-1 applicants, identify the $265 K-category consular fee, distinguish I-134 from I-864 requirements, and update its I-130 filing options.
-
 ## Property Tax Guides Misstate Exemptions and Calculation Rules
 
 Thai Visa Centre's guide *Thailand Property Transfer Tax and Fees*, marked reviewed June 2026, presents incomplete guidance about when sellers owe Thailand's 3.3% Specific Business Tax (SBT).[^256]
@@ -10565,3 +10563,13 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^569]: `https://tvc.co.th/guides/thailand-and-china-set-for-visa-waivers` — Thai Visa Centre, *Thailand and China Visa Waiver: From March 2024 to 2026 Rules*, accessed November 24, 2026; acknowledgment that reciprocal visa exemption benefits Thai passport holders visiting China.
 
 [^570]: https://th.china-embassy.gov.cn/sgxw/202609/t20260902_12014753.html — Embassy of the People's Republic of China in Thailand, September 2, 2026; confirmation that the March 2024 bilateral visa-exemption agreement remains effective despite changes to Thailand's unilateral exemption scheme.
+
+[^571]: `https://tvc.co.th/foreign-visas/canada/canada-tourist-visa` — Thai Visa Centre, *Canada Tourist Visa: Apply from Thailand*, accessed November 24, 2026; “Visa required” label, TRV eligibility table for Thai tourists, document-preparation promotion, and claimed June 2026 official-source review.
+
+[^572]: https://www.canada.ca/en/immigration-refugees-citizenship/news/2023/06/eligible-travellers-from-13-more-countries-now-qualify-for-an-electronic-travel-authorization.html — Immigration, Refugees and Citizenship Canada, June 6, 2023; expansion of eTA eligibility to qualifying Thai passport holders.
+
+[^573]: https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/eligibility/eta-x.html — Immigration, Refugees and Citizenship Canada, updated October 30, 2026; Thailand listed, eTA criteria, and visa requirements for land or sea entry.
+
+[^574]: https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply.html — Immigration, Refugees and Citizenship Canada, official eTA application instructions; CAD $7 application fee.
+
+[^575]: https://ircc.canada.ca/english/information/fees/fees.asp — Immigration, Refugees and Citizenship Canada, official fee schedule; CAD $100 visitor visa and CAD $85 individual biometric fee.
