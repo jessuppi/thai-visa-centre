@@ -1957,6 +1957,68 @@ The inaccurate Day 90 deadline creates an additional problem: readers may misund
 
 Thai Visa Centre should distinguish the 90-day reporting date from the permitted seven-day notification period and explain the separate requirements for in-person, postal, and online submissions.
 
+### TVC Mislabels Paid In-Person Reporting as an Online TM47 Filing Method
+
+Thai Visa Centre publishes misleading instructions that blur the distinction between Thailand's official online immigration-reporting system and the agency's own paid reporting service.
+
+Its *How to Do the 90-Day Report with a Thailand Elite Visa* guide explicitly presents `90day.in.th` as the destination for online TM47 filing.[^526]
+
+The guide's comparison table identifies three supposedly distinct options:
+
+- **Online TM47:** Directs eligible users to `90day.in.th`.
+- **In-person reporting:** Directs users to Immigration.
+- **TVC filing service:** Directs users to TVC's separate service page.
+
+Its *Important Immigration Forms in Thailand* guide repeats the claim, identifying online TM47 reporting as available through `90day.in.th`.[^527]
+
+**These instructions incorrectly present a private, paid intermediary as the online filing channel while treating the same company's in-person submission service as a separate option.**
+
+### TVC's Own Operator Admits the Service Works Differently
+
+The actual `90day.in.th` service is operated by AGENTS CO., LTD., which Thai Visa Centre publicly identifies as its affiliated digital-services company.[^3]
+
+On its own service-information page, AGENTS explains that its product is a physical proxy service. Customers purchase reporting credits and submit requests through an online dashboard, after which company representatives attend immigration offices and submit TM47 notifications on their behalf.[^98]
+
+The company further acknowledges that Thailand already operates a separate official online reporting portal, which applicants can use without purchasing its assistance.
+
+That government service is available through the Immigration Bureau's TM47 system.[^528]
+
+**Submitting a service request through an intermediary's website is not the same as submitting a TM47 notification electronically through the Immigration Bureau's official system.**
+
+TVC's own explanation of its commercial reporting service recognizes this distinction. Its dedicated service page describes the product as in-person proxy reporting intended particularly for customers experiencing problems with the government's online channel.
+
+The contradiction therefore cannot be explained merely as a technical distinction that TVC's publishers were unaware of. The company's own website already explains the difference correctly elsewhere.
+
+### Customers Are Directed Toward a Paid Alternative
+
+The distinction matters because `90day.in.th` charges customers for services that differ materially from free direct online filing.
+
+Its published prices include 500 baht for individual reports and 375 baht per report when purchasing qualifying packages.[^98]
+
+Those charges can be justified when a customer knowingly purchases physical submission assistance, document handling, and the return of official reporting receipts.
+
+**They are not charges for accessing Thailand's official online reporting system.**
+
+Yet TVC's immigration guides direct readers searching for online TM47 filing toward its affiliated commercial platform without consistently explaining that customers are purchasing a separate service.
+
+A reader could reasonably mistake `90day.in.th` for the appropriate online submission portal rather than a private intermediary that may send an employee to Immigration.
+
+The misleading distinction also affects what customers understand about processing methods, document handling, and which organization receives their personal information.
+
+### Contradictory Instructions Undermine TVC's Claimed Expertise
+
+This discrepancy is particularly revealing because TVC's different publications describe the same service in incompatible ways.
+
+The immigration guides label it online TM47 filing. The service operator identifies it as physical proxy reporting. TVC's dedicated service page correctly distinguishes its paid assistance from free government filing.
+
+**The company knows how to describe its own service accurately, yet continues publishing guides that misidentify the commercial intermediary as an online immigration-filing channel.**
+
+The available evidence does not establish that customers were deliberately deceived or that AGENTS failed to perform purchased reporting services.
+
+It does establish that TVC's published guidance obscures a financially important distinction between a free government filing method and a paid private intermediary.
+
+For an agency presenting itself as an immigration specialist, repeatedly confusing those services is an unacceptable failure of accuracy in information used to attract paying customers.
+
 ### Paid TM47 Guide Makes Unsupported Blacklisting Claims
 
 Thai Visa Centre publishes warnings about severe immigration consequences for foreigners who fail to complete their 90-day address notifications.
@@ -9900,3 +9962,9 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^524]: `https://agents.co.th/tdac-apply/policy/terms-and-conditions/` — AGENTS CO., LTD., *Terms & Conditions*, updated April 2, 2025, identifying AGENTS as the contracting entity and establishing separate liability and third-party-service provisions.
 
 [^525]: https://www.samutprakanimmigration.go.th/notification-of-staying-in-the-kingdom-over-90-days/ — Samut Prakan Immigration, *Notification of Staying in the Kingdom Over 90 Days*, official procedure allowing notification within 15 days before or seven days after the 90-day reporting date.
+
+[^526]: `https://tvc.co.th/guides/how-to-do-the-thailand-90-day-report-with-a-thailand-elite-visa`
+
+[^527]: `https://tvc.co.th/guides/important-immigration-forms-in-thailand-tm30-tdac-tm88-tm87-tm7-tm8-tm47-and-tm28`
+
+[^528]: https://tm47.immigration.go.th/tm47/
