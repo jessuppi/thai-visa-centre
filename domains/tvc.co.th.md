@@ -1168,7 +1168,7 @@ TVC should revise its family guides to distinguish individual traveler records f
 
 ## Misleading Foreign-Visa Requirements, Applications, and Fees
 
-Thai Visa Centre promotes assistance for foreign visa applications from Thailand, but several of its published service guides contradict official entry requirements, omit simpler travel authorizations, or present incorrect government fees. The problems involve both **whether an applicant needs a visa at all** and **what the correct application route or cost would be**. The examples below cover Schengen fees and overseas-territory visa procedures; visitor entry requirements for Singapore, South Korea, China, and Japan; India's fee-free e-Tourist visa; Canada's conditional eTA route; Italian family-visa categories and French visa-application appointments; Australia's prospective marriage visa validity; UK digital immigration documentation and fiancé-visa fees; and U.S. visa fees. They distinguish exemptions from application rules and actual government charges.
+Thai Visa Centre promotes assistance for foreign visa applications from Thailand, but several of its published service guides contradict official entry requirements, omit simpler travel authorizations, or present incorrect government fees. The problems involve both **whether an applicant needs a visa at all** and **what the correct application route or cost would be**. The examples below cover Schengen fees, ETIAS rules, Romania and Bulgaria's Schengen integration, and French overseas-territory procedures; visitor entry requirements for Singapore, South Korea, China, and Japan; India's fee-free e-Tourist visa; Canada's conditional eTA route; Italian family-visa categories, French appointments, and Portuguese embassy links; Australia's prospective marriage visa validity; UK digital documentation and fiancé-visa fees; and U.S. visa fees. They distinguish exemptions from application rules and actual government charges.
 
 ### Schengen Area: Outdated Visa Application Fees Despite Claimed 2026 Reviews
 
@@ -1221,6 +1221,30 @@ TVC's *Family Visa for Thai - Apply from Thailand* page presents the route as a 
 The **Italian Embassy in Bangkok** also specifies that qualifying Article 2 family members accompanying or joining an Italian or EU citizen may submit directly at the embassy's Visa Office **without an appointment**, while ordinary short-stay Schengen applications use VFS. National type D visa applications are submitted at the embassy, not at the ordinary Schengen VAC.[^610]
 
 Not every person visiting relatives in Italy qualifies for these family-member protections, and not every family visit involves permanent reunification. The failure is TVC's **one-size-fits-all presentation** of a family-visa service using standard tourist-visa fees, insurance, and appointment rules without distinguishing the protected family categories or the national family-reunification route. Following those instructions could result in an incorrect application category, unnecessary fees, or the wrong filing channel.
+
+#### Romania and Bulgaria: Partial-Schengen Wording Retained After Full Accession
+
+TVC's *Romania Tourist Visa* page describes Romanian Schengen participation specifically for **air and sea borders**.[^612] Its *Thailand TDAC vs Schengen ETIAS* guide repeats that **Bulgaria and Romania joined air and sea borders in early 2024**, telling travelers to verify the land-border rules.[^613]
+
+**The EU removed internal land-border checks with and between Romania and Bulgaria on January 1, 2025, completing both countries' full Schengen integration.**[^614] Neither page explains that subsequent change despite claiming a June 2026 review.
+
+The problem is incomplete historical guidance for overland travel and Schengen itinerary planning. The pages do not explicitly say that land travel is prohibited, and this evidence does not establish unnecessary visa sales.
+
+#### ETIAS: Outdated €7 Fee and Unconfirmed Launch
+
+TVC's *Thailand TDAC vs Schengen ETIAS* guide describes ETIAS as a **“rolling launch”** and estimates the application fee at **roughly €7**.[^613]
+
+**The European Commission's live notice says ETIAS is not yet operating, applications are not being accepted, and a confirmed launch date will be announced in advance.** The official fee has increased from €7 to **€20**, payable when ETIAS becomes operational.[^615]
+
+ETIAS is a future travel authorization for **visa-exempt** travelers to participating European countries, not a substitute for the Schengen visa generally required of ordinary Thai tourists. TVC's launch wording and obsolete fee risk confusing readers about whether they can apply today and what the authorization will cost.
+
+The Commission announced the higher fee in 2025, before TVC's claimed June 2026 review. The available evidence does not indicate that TVC actually sold ETIAS authorizations.
+
+#### Portugal: Embassy Information Link Opens British Government Website
+
+TVC's *Portuguese Embassy Bangkok* page has a prominent **“Embassy information”** link directing readers to `https://www.gov.uk/world/thailand`—the UK government's services page for Thailand, **not the Portuguese Embassy**.[^616][^617]
+
+The TVC page elsewhere names Portuguese government visa resources, but the incorrect embassy link can send applicants seeking Portugal's official instructions to an unrelated government. This is a verifiable destination-link mistake on the commercial service guide, not proof of incorrect visa decisions or charges.
 
 ### New Caledonia: Schengen Visa Advice for a Territory Outside Schengen
 
@@ -1453,9 +1477,9 @@ The $50 difference is relatively modest, but it illustrates the same problem: th
 
 ### Commercial Significance of the Foreign-Visa Guidance Errors
 
-Across these guides, TVC presents visas as mandatory for travelers who may qualify for visa-free entry or simpler electronic authorization, recommends a Schengen route that does not authorize travel to New Caledonia, quotes outdated Schengen and Indian tourist-visa fees, misidentifies the French visa appointment provider, conflates Italian family reunification with ordinary Schengen visits, and gives outdated Australian and UK instructions (including incorrect UK fiancé surcharge advice) while conflating separate U.S. visa charges. Its advertised preparation and translation services make these errors commercially consequential.
+Across these guides, TVC presents visas as mandatory for travelers who may qualify for visa-free entry or simpler electronic authorization, recommends a Schengen route that does not authorize travel to New Caledonia, quotes outdated Schengen and Indian tourist-visa fees, repeats superseded ETIAS pricing and Schengen-border information, misdirects Portuguese embassy enquiries, misidentifies the French visa appointment provider, conflates Italian family reunification with ordinary Schengen visits, and gives outdated Australian and UK instructions (including incorrect UK fiancé surcharge advice) while conflating separate U.S. visa charges. Its advertised preparation and translation services make these errors commercially consequential.
 
-Singapore, South Korea, China, and Japan involve short-visit entry exemptions, with Japan limited to qualifying Thai IC passport holders and stays up to 15 days. Canada's eTA route depends on additional travel and visa-history criteria. India's 30-day e-Tourist visa still requires approval, but no visa fee under its specific current scheme. New Caledonia has distinct French overseas-territory visa rules. The Italy, Spain, Sweden, and Netherlands tourist-visa pages repeat **one EU-wide fee mistake**; Italy's family-visa page separately misstates the protected family-member filing route and fee. France, Australia, and UK examples concern procedures, visa-document validity or payments, while U.S. examples concern different visa-category costs and procedures.
+Singapore, South Korea, China, and Japan involve short-visit entry exemptions, with Japan limited to qualifying Thai IC passport holders and stays up to 15 days. Canada's eTA route depends on additional travel and visa-history criteria. India's 30-day e-Tourist visa still requires approval, but no visa fee under its specific current scheme. New Caledonia has distinct French overseas-territory visa rules. The Italy, Spain, Sweden, and Netherlands tourist-visa pages repeat **one EU-wide fee mistake**; Italy's family-visa page separately misstates the protected family-member filing route and fee. Romania and Bulgaria's Schengen integration and ETIAS illustrate outdated European entry guidance; Portugal and France illustrate faulty application links or procedures. Australia, the UK, and U.S. examples concern visa conditions, documents or costs.
 
 **The evidence documents inaccurate commercial guidance and potential unnecessary costs; it does not establish deliberate deception, completed unnecessary sales, or incorrect charges in private consultations.** Additional verified foreign-visa errors should be incorporated as subsections here, with their individual official sources, instead of multiplying top-level investigations.
 
@@ -10777,3 +10801,15 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^610]: https://ambbangkok.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/dove-chiedere-un-visto/ — Embassy of Italy in Bangkok, *Where to apply for a visa*; direct embassy filing for qualifying Article 2 family members and national type D visas.
 
 [^611]: https://ambsingapore.esteri.it/en/news/dall_ambasciata/2024/05/foreign-family-members-of-italian-and-eu-citizens-reintroduction-of-national-visa-for-family-reasons/ — Embassy of Italy in Singapore, May 30, 2024; free national family-reunification visas from June 1, 2024, and fee-free qualifying short family visits.
+
+[^612]: `https://tvc.co.th/foreign-visas/other/romania-tourist-visa` — Thai Visa Centre, *Romania Tourist Visa*, accessed November 24, 2026; incomplete air/sea Schengen integration statement.
+
+[^613]: `https://tvc.co.th/guides/new-travel-authorization-system-and-schengen-visa-updates` — Thai Visa Centre, *Thailand TDAC vs Schengen ETIAS: Travel Authorization Guide 2026*, accessed November 24, 2026; Bulgaria/Romania air/sea wording, ETIAS “rolling launch” and approximate €7 fee.
+
+[^614]: https://home-affairs.ec.europa.eu/news/bulgaria-and-romania-join-schengen-area-2025-01-03_en — European Commission, January 3, 2025; complete Schengen integration after removal of internal land-border controls effective January 1, 2025.
+
+[^615]: https://home-affairs.ec.europa.eu/policies/schengen/smart-borders/european-travel-information-authorisation-system_en — European Commission, live ETIAS notice accessed November 24, 2026; system not operating, no current applications, and planned €20 fee.
+
+[^616]: `https://tvc.co.th/foreign-visas/other/portuguese-embassy-in-thailand` — Thai Visa Centre, *Portuguese Embassy Bangkok*, accessed November 24, 2026; “Embassy information” links to a UK government website.
+
+[^617]: https://www.gov.uk/world/thailand — UK Government, *UK help and services in Thailand*; destination of the Portuguese Embassy information link.
