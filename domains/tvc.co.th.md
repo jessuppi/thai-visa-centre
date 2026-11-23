@@ -4195,6 +4195,42 @@ The documented issue is the company's attempt to impose an exceptionally restric
 
 Thai Visa Centre should disclose whether its liability cap applies to deposit refunds, distinguish contractual repayment obligations from claims for damages, and explain why compensation is calculated using only the preceding month's payments rather than the amount paid for the affected service.
 
+### TVC Caps Its Own Liability While Imposing Uncapped Indemnification Obligations on Customers
+
+Thai Visa Centre's Terms & Conditions contain another striking imbalance in the financial obligations imposed on the company and its customers.[^185]
+
+Under *Limitation of liability*, TVC attempts to restrict its own aggregate financial exposure to the greater of one dollar or payments received during the preceding month.
+
+However, the immediately following *Indemnification* provision requires customers to protect TVC, its affiliates, directors, employees, agents, suppliers, and licensors against certain third-party claims and associated expenses.
+
+The provision expressly includes losses, damages, liabilities, and reasonable attorneys' fees arising from allegations or disputes connected to customer-submitted content, use of the website and services, or willful misconduct.
+
+**TVC therefore attempts to sharply limit its own financial liability while imposing a customer indemnification obligation with no corresponding dollar ceiling.**
+
+### The Financial Protections Are Unequal
+
+The indemnification provision is not a blanket requirement for customers to cover every loss the agency incurs. Its stated scope concerns specified categories of third-party claims.
+
+Nevertheless, qualifying claims could involve substantial legal expenses, particularly where several parties or prolonged proceedings are involved.
+
+The contract does not explain why TVC's financial responsibility should be measured using only the previous month's customer payments while the customer's indemnification exposure has no comparable contractual limitation.
+
+**The imbalance is especially notable for an immigration agency handling consequential legal and administrative matters on behalf of paying customers.**
+
+### Thailand's Unfair Contract Terms Act Is Relevant
+
+Thailand's Unfair Contract Terms Act B.E. 2540 (1997) addresses contractual provisions that give businesses an unreasonable advantage over consumers.
+
+Section 4 provides that unfair terms in qualifying consumer and standard-form contracts are enforceable only to the extent considered fair and reasonable under the circumstances.[^523]
+
+The Act therefore provides a relevant framework for examining one-sided contractual limitations and financial burdens.
+
+The available evidence does not establish that a Thai court has reviewed TVC's specific indemnification or liability clauses, or that either provision has been declared unenforceable.
+
+However, **the published contract plainly attempts to allocate financial risk asymmetrically: severe restrictions on the company's liability, without equivalent protection against potentially substantial customer indemnification obligations.**
+
+Thai Visa Centre should explain why its customers face broader contractual financial exposure than the company accepts for itself, and whether these provisions have been assessed against Thailand's consumer-protection legislation.
+
 ### Implications for Customers Paying in Advance
 
 Immigration applications can involve substantial agency fees, government charges, and additional expenses for supporting documentation.
@@ -9667,3 +9703,5 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^521]: `https://tvc.co.th/policy/data-protection` — Thai Visa Centre, *Data Protection Policy*, updated February 9, 2025.
 
 [^522]: `https://tvc.co.th/guides/contact-us` — Thai Visa Centre, *Contact Thai Visa Centre*, reviewed June 2026, describing required consultation documents and the document-upload workflow.
+
+[^523]: https://www.aseanconsumer.org/cterms-businesses/unfair-contract-terms — ASEAN Committee on Consumer Protection, *Unfair Contract Terms*, explaining Thailand's Unfair Contract Terms Act and Section 4.
