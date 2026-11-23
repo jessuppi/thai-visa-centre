@@ -1985,9 +1985,51 @@ That government service is available through the Immigration Bureau's TM47 syste
 
 **Submitting a service request through an intermediary's website is not the same as submitting a TM47 notification electronically through the Immigration Bureau's official system.**
 
-TVC's own explanation of its commercial reporting service recognizes this distinction. Its dedicated service page describes the product as in-person proxy reporting intended particularly for customers experiencing problems with the government's online channel.
+### TVC Explicitly Claims Its Paid Service Uses the Government's Online Portal
 
-The contradiction therefore cannot be explained merely as a technical distinction that TVC's publishers were unaware of. The company's own website already explains the difference correctly elsewhere.
+Thai Visa Centre's *90-Day Report Online: Thailand TM47 Filing Guide* goes further than merely confusing its private reporting website with the official immigration portal.[^113]
+
+Under *Option 1: Online via the official TM47 portal*, the guide identifies the Immigration Bureau's online reporting system and then states that TVC's commercial reporting service uses that same official portal.
+
+Later, under *Professional 90-day reporting in Bangkok*, the company advertises **online submission through the official system** as an included feature of its paid service.
+
+These are explicit representations about how the agency handles customers' reporting applications.
+
+**However, TVC's own service page directly contradicts them.**
+
+### The Actual Service Is Advertised as Physical Immigration Reporting
+
+On its dedicated reporting-service page, TVC describes `90day.in.th` as a physical proxy service in which its representatives attend immigration offices and submit TM47 notifications in person.[^529]
+
+The page specifically distinguishes its commercial product from free online filing through the government's portal.
+
+It explains that the service is intended particularly for customers who have experienced online filing rejections, technical problems, or other difficulties requiring personal assistance.
+
+The affiliated operator, AGENTS CO., LTD., confirms that its standard procedure involves purchasing reporting credits, submitting a request through an online dashboard, and having company representatives physically visit Immigration.[^98]
+
+**The company's service descriptions therefore contradict each other on a fundamental point: whether customers are paying for online submission through the government portal or physical submission by an authorized representative.**
+
+Submitting a request through TVC's dashboard does not itself constitute electronic submission to the Immigration Bureau.
+
+### This Is a Material Difference in the Service Being Sold
+
+The distinction is not merely technical.
+
+Customers who cannot successfully use Immigration's online portal may specifically purchase professional assistance because they need a different submission method.
+
+For those customers, physical filing can provide a legitimate service that differs substantially from submitting the same information electronically.
+
+Yet TVC's reporting guide tells readers that its paid service uses the official online system, while its dedicated commercial page identifies in-person filing as the product's defining feature.
+
+A provider could potentially offer both methods. However, **TVC does not explain in these conflicting descriptions whether different customers receive different submission methods or when either procedure applies.**
+
+The available evidence does not establish that TVC has failed to submit reports, charged customers for services it did not perform, or exclusively uses one filing channel in every case.
+
+It establishes something simpler and directly verifiable: **TVC publishes incompatible explanations of the method used to deliver a paid immigration-compliance service.**
+
+That contradiction undermines the company's claims of transparent service descriptions and reliable immigration expertise.
+
+Customers should be told whether their reports will be submitted electronically through Immigration's official portal or physically by an authorized representative. TVC's published materials should consistently identify the actual service being purchased.
 
 ### Customers Are Directed Toward a Paid Alternative
 
@@ -9968,3 +10010,5 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^527]: `https://tvc.co.th/guides/important-immigration-forms-in-thailand-tm30-tdac-tm88-tm87-tm7-tm8-tm47-and-tm28`
 
 [^528]: https://tm47.immigration.go.th/tm47/
+
+[^529]: `https://tvc.co.th/90day.in.th`
