@@ -460,6 +460,44 @@ Nevertheless, as of November 17, 2026, several guides on `tvc.co.th` continued p
 
 The guides generally identify June 2026 as their last review date. Their information was relevant to the earlier policy, but they remain publicly available without adequately distinguishing those historical rules from the changes effective September 15.
 
+### Country-Specific Travel Guides Repeat Superseded 60-Day Visa Exemption Rules
+
+Thai Visa Centre's failure to update its immigration guidance extends beyond general visa articles. Its country-specific travel guides continue advertising Thailand's abolished 60-day visa exemption to travelers from multiple countries.
+
+As examined on November 23, 2026, the following guides retained the superseded requirements:
+
+- **United Kingdom:** Advertises visa-exempt holidays of up to 60 days and states that British visitors typically receive 60-day arrival stamps.[^536]
+- **Germany:** Describes 60-day visa exemption as the applicable 2026 policy, repeating the claim in its eligibility instructions and frequently asked questions.[^537]
+- **Australia:** Instructs Australian travelers to expect 60-day visa-exempt admission and recommends exemption for holidays lasting up to 60 days.[^538]
+- **Canada:** Tells Canadian visitors that the ordinary visa-exempt stay remains 60 days per entry in 2026.[^539]
+- **France:** Repeatedly advertises 60-day visa exemption, including in the guide's summary, entry requirements, and frequently asked questions.[^540]
+
+**All five guides continue presenting a visa-exemption period that Thailand revoked effective September 15, 2026.**
+
+The Royal Thai Embassy's updated eligibility list expressly identifies Australia, Canada, France, Germany, and the United Kingdom as countries covered by the revised 30-day exemption.[^541]
+
+These are not five different immigration rules requiring separate interpretations. They are repeated instances of the same outdated instruction across nationality-specific publications.
+
+The guides prominently identify themselves as 2026 travel resources, although their June 2026 review dates predate the regulatory change.
+
+**TVC's failure to revise them after September 15 leaves readers with obsolete instructions even though the agency separately published an explanation of the new rules.[^34]**
+
+The distinction between visa exemption and an issued tourist visa is particularly important. A qualifying tourist visa may still permit an initial stay of up to 60 days, but that does not restore the abolished 60-day exemption for ordinary visitors.
+
+Travelers admitted under the previous scheme before September 15 may also retain the stay period already granted on their immigration stamps.[^33]
+
+Neither exception justifies presenting 60-day visa exemption as the ordinary current rule for new arrivals.
+
+**The repeated inaccuracies demonstrate that TVC has failed to propagate a major regulatory change across its own nationality-specific immigration guides.**
+
+The consequences are practical: travelers relying on these articles could plan stays longer than their permitted exemption, purchase inappropriate onward tickets, or arrive without the visa required for their intended trip length.
+
+The available evidence does not establish that particular travelers overstayed or suffered immigration penalties because of these publications.
+
+It establishes that **TVC continues distributing incorrect entry-duration advice across multiple commercially oriented guides despite acknowledging the correct government requirements elsewhere on its website**.
+
+This is a broader editorial failure than one outdated article. The same superseded policy appears across several travel markets, raising further doubts about the effectiveness of the agency's claimed immigration-information review process.
+
 ### Risks for Travelers
 
 The contradiction goes beyond an outdated technical detail.
@@ -10141,3 +10179,15 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^534]: `https://tvc.co.th/guides/single-entry-tourist-visa-for-thailand` — Thai Visa Centre, *Single-Entry Tourist Visa Thailand*, reviewed June 2026; repeated guaranteed 60-day stay claims.
 
 [^535]: https://mumbai.thaiembassy.org/en/publicservice/59444-what-does-the-visa-expiration-date-mean — Royal Thai Consulate-General, Mumbai, official guidance distinguishing visa validity, immigration admission, and the authorized period of stay.
+
+[^536]: `https://tvc.co.th/guides/travel-to-thailand-from-the-uk` — Thai Visa Centre, UK travel guide, retaining 60-day visa exemption advice.
+
+[^537]: `https://tvc.co.th/guides/travel-to-thailand-from-germany` — Thai Visa Centre, Germany travel guide, including outdated exemption eligibility and FAQs.
+
+[^538]: `https://tvc.co.th/guides/travel-to-thailand-from-australia` — Thai Visa Centre, Australia travel guide, retaining outdated exemption and arrival-stamp instructions.
+
+[^539]: `https://tvc.co.th/guides/travel-to-thailand-from-canada` — Thai Visa Centre, Canada travel guide, retaining outdated exemption advice.
+
+[^540]: `https://tvc.co.th/guides/travel-to-thailand-from-france` — Thai Visa Centre, France travel guide, including repeated outdated exemption instructions.
+
+[^541]: https://doha.thaiembassy.org/en/publicservice/tourist-visa-exemption-visa-on-arrival?cate=5d7e40bb15e39c032c0056ec — Royal Thai Embassy, Doha, tourist visa exemption requirements updated September 16, 2026, confirming the 30-day scheme and eligible nationalities.
