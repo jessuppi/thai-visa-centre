@@ -2441,6 +2441,62 @@ The omission is especially concerning because TVC expressly markets professional
 
 The agency should distinguish voluntary departure from arrest and prosecution, explain the applicable penalty schedules, and avoid presenting surrender-based penalties as general blacklist durations.
 
+## Overstay Guide Misstates Penalties for Children and Re-Entry Ban Thresholds
+
+Thai Visa Centre's *Visa Overstay in Thailand* guide contains incorrect statements about financial penalties for children and the duration of overstays triggering re-entry bans.[^121]
+
+These errors appear in a guide through which TVC advertises urgent immigration assistance for people facing overstays, deportation, and potential blacklisting.
+
+### Falsely Claims Overstay Fines Apply to Children
+
+Under *Special Categories*, TVC tells readers that parents are responsible for children and that overstay fines still apply.
+
+**This blanket warning contradicts the Immigration Bureau's express exemption for children under 15.**
+
+Thailand's official Immigration Division 2 bilingual handbook states that children younger than 15 are not charged an overstay fine.[^551]
+
+The handbook separately identifies the ordinary fine of 500 baht per day, capped at 20,000 baht.
+
+**TVC therefore presents a financial penalty as applicable to children whom Immigration expressly exempts from that penalty.**
+
+This exemption does not mean that minors automatically possess lawful immigration status, that parents are exempt from penalties for their own overstays, or that families can disregard immigration requirements.
+
+Those are separate questions that professional guidance should distinguish.
+
+Instead, TVC's categorical warning could lead families to believe they must pay fines that Immigration does not impose on children under 15.
+
+### Incorrectly Includes Exactly 90 Days in the One-Year Ban Threshold
+
+The same guide's re-entry-ban table identifies overstays of **90–365 days** as triggering a one-year ban.[^121]
+
+However, Thailand's official rules establish the one-year exclusion threshold for voluntary surrender at **more than 90 days**.[^552]
+
+The Immigration Division 2 handbook confirms the same distinction.[^551]
+
+**Exactly 90 days and more than 90 days are not interchangeable legal thresholds.**
+
+A person who voluntarily surrenders after exactly 90 days of overstay does not automatically fall within the one-year ban category merely because of that duration.
+
+The distinction is particularly important because the guide advertises emergency assistance and advises customers to determine whether a re-entry ban applies before making further visa applications.
+
+Separate, substantially harsher restrictions apply when an overstayer is arrested and prosecuted rather than voluntarily surrendering, as documented elsewhere in this investigation.[^287]
+
+### Consequences for Customers
+
+These errors concern two practical questions that customers may reasonably rely on a professional immigration agency to answer correctly:
+
+- Whether an overstaying child is subject to a financial penalty.
+- Whether a particular overstay duration triggers a mandatory re-entry ban.
+
+**TVC provides inaccurate answers to both questions while marketing assistance to foreigners facing serious immigration consequences.**
+
+The evidence does not establish that TVC collected unnecessary fines, caused a customer to be blacklisted, or deliberately misstated these rules.
+
+It establishes that **the agency publishes penalty information inconsistent with express Immigration Bureau guidance, including an exemption protecting children and a precisely defined re-entry-ban threshold**.
+
+TVC should correct its explanation of children's overstay penalties and distinguish exactly 90 days from more than 90 days when explaining voluntary-surrender restrictions.
+
+
 ## Digital Work Permits Advertised for LTR Applicants Who Are Ineligible to Receive Them
 
 Thai Visa Centre repeatedly advertises digital work permits as a benefit of Thailand's Long-Term Resident (LTR) visa for Work-from-Thailand Professionals.
@@ -10352,3 +10408,7 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^549]: `https://tvc.co.th/visa-run` — Thai Visa Centre, *1-Day Visa Run Service - Bangkok*, accessed November 23, 2026; same-day Sadao itinerary, advertised five-minute border crossing, and service fees of 9,000–15,000 baht excluding flights.
 
 [^550]: https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/444048 — Thailand Government Public Relations Department, November 18, 2025, *Visa Runs Limited to 2 Under New Thailand Immigration Measures*, documenting increased scrutiny and potential refusal of repeated visa-run entries.
+
+[^551]: https://roiet.imm.police.go.th/wp-content/uploads/2024/02/02-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%AF.pdf — Thailand Immigration Division 2, official bilingual handbook, pp. 48 and 50; exemption from overstay fines for children under 15 and re-entry-ban thresholds.
+
+[^552]: https://hochiminh.thaiembassy.org/en/publicservice/64058-thailand-overstay-measures?cate=5d809e6e15e39c2fe80078a5 — Royal Thai Consulate-General, Ho Chi Minh City, Thailand Overstay Measures; one-year re-entry ban following voluntary surrender requires more than 90 days of overstay.
