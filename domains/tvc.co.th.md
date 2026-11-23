@@ -8557,6 +8557,57 @@ The guide should distinguish statutory DPO appointment requirements, optional le
 A business promoting professional legal referrals should not present optional legal services as universally mandatory under Thai law.
 
 
+## TVC's Privacy Policy Incorrectly Assigns Data Controller Responsibilities to Customers
+
+Thai Visa Centre's Privacy Policy, updated February 9, 2025, incorrectly describes the legal relationship between the company and customers submitting personal information through its website.[^520]
+
+Under *Use and Processing of Collected Information*, the policy states:
+
+> In such instances, the User providing Personal Information acts as a data controller.
+
+The same passage claims that TVC acts merely as a data processor when users submit personal information through its services, because the company supposedly does not control that information.
+
+### Thailand's PDPA Establishes Different Legal Responsibilities
+
+Section 6 of Thailand's Personal Data Protection Act defines a **data controller** as the person or organization responsible for deciding how personal information is collected, used, or disclosed.
+
+A **data processor** handles information under the instructions of a separate data controller.[^459]
+
+**A customer does not become a data controller merely by submitting their own personal information to a commercial service.**
+
+Ordinary visa applicants supplying their personal details are generally data subjects, not organizations directing TVC's processing activities.
+
+Different arrangements may apply where a business customer supplies information about other individuals under a genuine controller-processor relationship. However, TVC's broad statement does not explain that distinction.
+
+### TVC's Own Policy Contradicts Its Processor Classification
+
+Elsewhere, the Privacy Policy explicitly states that TVC determines the purposes and methods of processing information necessary for access to its services.
+
+The company also identifies its own purposes for collecting customer information, including:
+
+- Managing accounts and service orders.
+- Processing payments and delivering services.
+- Publishing customer testimonials.
+- Marketing, customer feedback, and service improvements.
+
+These activities demonstrate that TVC determines at least some purposes for processing personal information.
+
+**The company cannot accurately characterize every customer submitting personal information as its data controller while simultaneously describing independent decisions about how that information is used.**
+
+### Consequences for Customer Privacy and Accountability
+
+The distinction matters because data controllers have statutory responsibilities concerning lawful processing, security, retention, data-subject requests, and qualifying breach notifications.
+
+Misidentifying customers as controllers obscures which organization is responsible for those obligations.
+
+The problem is particularly significant for a visa agency handling sensitive identity documents and immigration-related information.
+
+The published wording does not establish that TVC has unlawfully processed customer data or violated particular individuals' privacy rights.
+
+It does establish that **the agency's own Privacy Policy misrepresents a fundamental distinction under Thailand's data-protection legislation**.
+
+Thai Visa Centre should identify the legal entity acting as controller for its ordinary customer services, explain circumstances involving genuine third-party processors, and stop presenting routine customers as controllers merely because they submit their information.
+
 ## TVC Repeatedly Misrepresents Optional Legal Services as Mandatory
 
 TVC makes the same categorical claim across guides covering unrelated services: that customers must hire licensed Thai lawyers to pursue appeals, file labour or consumer claims, register companies, complete property transfers, prepare wills, register marriages, or comply with the PDPA.[^440][^441][^398][^401][^470][^450][^465][^475][^458]
