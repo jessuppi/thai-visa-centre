@@ -1168,7 +1168,7 @@ TVC should revise its family guides to distinguish individual traveler records f
 
 ## Misleading Foreign-Visa Requirements, Applications, and Fees
 
-Thai Visa Centre promotes assistance for foreign visa applications from Thailand, but several of its published service guides contradict official entry requirements, omit simpler travel authorizations, or present incorrect government fees. The problems involve both **whether an applicant needs a visa at all** and **what the correct application route or cost would be**. The examples below cover Schengen fees and overseas-territory visa procedures; visitor entry requirements for Singapore, South Korea, China, and Japan; India's fee-free e-Tourist visa; Canada's conditional eTA route; French visa-application appointments; Australia's prospective marriage visa validity; UK digital immigration documentation; and U.S. visa fees. They distinguish exemptions from application rules and actual government charges.
+Thai Visa Centre promotes assistance for foreign visa applications from Thailand, but several of its published service guides contradict official entry requirements, omit simpler travel authorizations, or present incorrect government fees. The problems involve both **whether an applicant needs a visa at all** and **what the correct application route or cost would be**. The examples below cover Schengen fees and overseas-territory visa procedures; visitor entry requirements for Singapore, South Korea, China, and Japan; India's fee-free e-Tourist visa; Canada's conditional eTA route; Italian family-visa categories and French visa-application appointments; Australia's prospective marriage visa validity; UK digital immigration documentation and fiancé-visa fees; and U.S. visa fees. They distinguish exemptions from application rules and actual government charges.
 
 ### Schengen Area: Outdated Visa Application Fees Despite Claimed 2026 Reviews
 
@@ -1211,6 +1211,16 @@ Applicants following TVC's figures would underestimate the standard government f
 **Thai Visa Centre markets professional Schengen application assistance while publishing a government fee that has been incorrect for more than two years.**
 
 The repetition across four separate pages raises questions about the agency's claimed editorial reviews and whether its outbound visa guidance is actually checked against current immigration regulations.
+
+### Italy: Family-Visa Sales Page Conflates Visits With Family Reunification
+
+TVC's *Family Visa for Thai - Apply from Thailand* page presents the route as a routine **Schengen short-stay visa** for up to 90 days, advertises a **€80 adult fee**, and instructs applicants to book an embassy or VFS appointment, pay the Schengen fee, and prepare €30,000 travel insurance. Its page title and family-visa branding do not explain the different rules applicable to qualifying relatives joining Italian or EU citizens.[^609]
+
+**Italy distinguishes temporary family visits from actual family reunification.** Since June 1, 2024, qualifying non-EU spouses and other family members who intend to reunite with an Italian or EU citizen permanently residing in Italy must generally apply for a **national type D visa for family reasons**, rather than a short-stay tourist/visit visa. The Italian government's consular guidance says this qualifying visa is **issued without a visa fee**; qualifying short visits by those family members likewise receive the applicable visa free of charge.[^611]
+
+The **Italian Embassy in Bangkok** also specifies that qualifying Article 2 family members accompanying or joining an Italian or EU citizen may submit directly at the embassy's Visa Office **without an appointment**, while ordinary short-stay Schengen applications use VFS. National type D visa applications are submitted at the embassy, not at the ordinary Schengen VAC.[^610]
+
+Not every person visiting relatives in Italy qualifies for these family-member protections, and not every family visit involves permanent reunification. The failure is TVC's **one-size-fits-all presentation** of a family-visa service using standard tourist-visa fees, insurance, and appointment rules without distinguishing the protected family categories or the national family-reunification route. Following those instructions could result in an incorrect application category, unnecessary fees, or the wrong filing channel.
 
 ### New Caledonia: Schengen Visa Advice for a Territory Outside Schengen
 
@@ -1328,17 +1338,44 @@ Australia's Department of Home Affairs instead states that subclass 300 visas pe
 
 The error is a misstatement of visa conditions, not evidence that a Thai fiancé can enter Australia without a visa or that TVC has mishandled an individual application.
 
-### United Kingdom: Obsolete BRP Collection and Physical Visa-Sticker Instructions
+### United Kingdom: Repeated Physical-Visa Instructions and Incorrect Fiancé IHS Charges
 
-TVC's *UK Visa from Thailand - Guide for Thai Citizens* includes **“Receive UKVI decision with vignette in passport if approved”** and **“Collect BRP in UK”** as sequential application steps.[^589]
+TVC's *UK Visa from Thailand - Guide for Thai Citizens* directs new applicants to receive a passport **vignette** and then **collect a biometric residence permit (BRP) in the UK**.[^589] This is not an isolated outdated checklist; the same physical-document assumptions recur across the agency's UK service guides.
 
-These instructions do not reflect the UK's digital immigration system. The Home Office ceased issuing new biometric residence permits (BRPs) in **October 2024** and has replaced physical immigration status documents with **eVisas**. UK government guidance updated in October 2026 confirms that eVisas are now issued to successful applicants, with physical visa vignettes no longer used as the ordinary evidence of permission following the 2026 transition.[^590]
+#### Physical Visa Vignettes and BRP Collection Repeated Across UK Guides
 
-Applicants generally need a UK Visas and Immigration account to access their eVisa and ensure their current travel document is linked to the digital record. They should follow any individual grant instructions or exceptional documentation requirements rather than expect a new BRP collection appointment.
+The following pages direct applicants to collect a visa vignette, receive a passport entry sticker, or travel on a newly issued vignette:
 
-**TVC's checklist directs new applicants toward an obsolete physical-document process while omitting the digital status steps that ordinarily matter in 2026.** The page advertises document preparation and claims its references were verified in June 2026, but the BRP phase-out was already established before that review.
+- **UK Visa Overview:** Describes the successful application as a passport returned with a vignette.[^595]
+- **UK Visitor Visa:** Directs approved applicants to collect a passport with vignette.[^596]
+- **UK Tourist Visa:** Instructs applicants to collect an entry vignette and travel during its validity.[^597]
+- **UK Visa Application Centre / VFS Thailand:** Describes passport collection as receiving a vignette or refusal.[^598]
+- **British Embassy Thailand:** Includes collecting a passport with a vignette in its UKVI application sequence.[^599]
+- **British Embassy Visa Applications:** Repeats vignette collection as the normal result of approval.[^600]
+- **UK Family Visa:** Directs approved applicants to receive a vignette and then collect a BRP after arrival.[^601]
+- **UK Spouse Visa:** Again instructs visa holders to collect a vignette and a BRP.[^602]
+- **UK Unmarried/De Facto Partner Visa:** Describes approval as receiving a passport vignette.[^603]
+- **Both dedicated UK Fiancé Visa guides:** Tell applicants to enter the UK using an issued vignette.[^604][^605]
 
-This does not establish that clients were denied boarding or charged unnecessarily. It documents outdated entry and status-management guidance on a commercial visa service page.
+**The UK Home Office confirms that new visa vignette stickers stopped being issued to successful applicants on July 1, 2026.** Successful new applicants instead receive an **eVisa**, accessed through a UK Visas and Immigration (UKVI) account. The Home Office had already stopped issuing new BRPs in 2024.[^590][^607] Applicants should check their UKVI account and link their current travel document, rather than expect a fresh entry sticker or a new BRP collection appointment.
+
+Legacy physical documents can remain valid until expiry, and certain exceptional travelers may receive a **form accompanying an eVisa (FAV)** that requires collection at a Visa Application Centre. Those exceptions do not support presenting an ordinary new passport sticker and BRP as the standard route for all applicants.
+
+TVC's separate *UK Visa Vignette Transfer* service also describes replacing an expired 30-day entry sticker and then collecting a BRP in the UK.[^606] Cases involving still-valid legacy documents require individual verification against UKVI rules; the guide should not imply that vignette replacement and BRP collection remain routine features of new visa grants.
+
+#### Fiancé-Visa Guides Incorrectly Require the Immigration Health Surcharge
+
+TVC's two dedicated fiancé-visa pages explicitly instruct Thai applicants to **pay the visa fee and Immigration Health Surcharge (IHS)** when applying from Thailand for six-month permission to enter the UK to marry.[^604][^605]
+
+**GOV.UK expressly exempts applications made from outside the UK for visas lasting six months or less from the IHS.**[^608] A qualifying initial six-month fiancé or proposed civil partner entry visa therefore does **not** require this payment. If the person marries and subsequently applies inside the UK for further permission under the spouse or partner route, the IHS may then become payable as part of that later application.
+
+The distinction directly affects cost planning. TVC conflates the initial temporary fiancé entry process with the later in-country family-visa application, despite presenting the fee instruction as a mandatory step in the initial route.
+
+#### Significance Across the UK Service Pages
+
+The pattern spans visitor, spouse, fiancé, family, embassy, and VAC guides. The eVisa change took effect **after** the pages' claimed June 2026 reviews, so the absence of a later update is the issue for new vignette claims; the discontinued BRP process was already obsolete before those reviews. The fiancé IHS exemption is a separate longstanding rule, not a consequence of the digital transition.
+
+These pages market document preparation and checklist reviews while giving applicants outdated instructions about visa evidence or incorrect payment obligations. The evidence documents the errors, **not** specific unnecessary payments, actual immigration refusals, or intentional deception.
 
 ### United States: K-1 Fiancé and Immigrant Spouse Visa Fees
 
@@ -1416,9 +1453,9 @@ The $50 difference is relatively modest, but it illustrates the same problem: th
 
 ### Commercial Significance of the Foreign-Visa Guidance Errors
 
-Across these guides, TVC presents visas as mandatory for travelers who may qualify for visa-free entry or simpler electronic authorization, recommends a Schengen route that does not authorize travel to New Caledonia, quotes outdated Schengen and Indian tourist-visa fees, misidentifies the French visa appointment provider, and gives outdated Australian and UK application instructions while conflating separate U.S. visa charges. Its advertised preparation and translation services make these errors commercially consequential.
+Across these guides, TVC presents visas as mandatory for travelers who may qualify for visa-free entry or simpler electronic authorization, recommends a Schengen route that does not authorize travel to New Caledonia, quotes outdated Schengen and Indian tourist-visa fees, misidentifies the French visa appointment provider, conflates Italian family reunification with ordinary Schengen visits, and gives outdated Australian and UK instructions (including incorrect UK fiancé surcharge advice) while conflating separate U.S. visa charges. Its advertised preparation and translation services make these errors commercially consequential.
 
-Singapore, South Korea, China, and Japan involve short-visit entry exemptions, with Japan limited to qualifying Thai IC passport holders and stays up to 15 days. Canada's eTA route depends on additional travel and visa-history criteria. India's 30-day e-Tourist visa still requires approval, but no visa fee under its specific current scheme. New Caledonia has distinct French overseas-territory visa rules. The Italy, Spain, Sweden, and Netherlands pages repeat **one EU-wide fee mistake**; France, Australia, and UK examples concern application procedures or visa-document validity, while U.S. examples concern different visa-category costs and procedures.
+Singapore, South Korea, China, and Japan involve short-visit entry exemptions, with Japan limited to qualifying Thai IC passport holders and stays up to 15 days. Canada's eTA route depends on additional travel and visa-history criteria. India's 30-day e-Tourist visa still requires approval, but no visa fee under its specific current scheme. New Caledonia has distinct French overseas-territory visa rules. The Italy, Spain, Sweden, and Netherlands tourist-visa pages repeat **one EU-wide fee mistake**; Italy's family-visa page separately misstates the protected family-member filing route and fee. France, Australia, and UK examples concern procedures, visa-document validity or payments, while U.S. examples concern different visa-category costs and procedures.
 
 **The evidence documents inaccurate commercial guidance and potential unnecessary costs; it does not establish deliberate deception, completed unnecessary sales, or incorrect charges in private consultations.** Additional verified foreign-visa errors should be incorporated as subsections here, with their individual official sources, instead of multiplying top-level investigations.
 
@@ -10706,3 +10743,37 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^593]: `https://tvc.co.th/foreign-visas/france/french-embassy-in-thailand` — Thai Visa Centre, *French Embassy Bangkok - Apply from Thailand*, accessed November 24, 2026; repeated appointment guidance naming VFS and claiming a June 2026 review.
 
 [^594]: https://france-visas.gouv.fr/en/thailande — France-Visas, *Thailand: Visa Application Procedures*; official instructions directing applicants to TLScontact for French visa applications from Thailand.
+
+[^595]: `https://tvc.co.th/foreign-visas/united-kingdom/uk-visa` — Thai Visa Centre, *UK Visa - Apply from Thailand*; describes approved applications as passports returned with vignettes.
+
+[^596]: `https://tvc.co.th/foreign-visas/united-kingdom/uk-visa-visitor` — Thai Visa Centre, *UK Visitor Visa*; instructs approved visitors to collect passports with vignettes.
+
+[^597]: `https://tvc.co.th/foreign-visas/united-kingdom/uk-visa-uk-tourist-visa` — Thai Visa Centre, *UK Tourist Visa*; describes collecting a vignette and traveling during its validity.
+
+[^598]: `https://tvc.co.th/foreign-visas/united-kingdom/uk-visa-vfs-uk-thailand` — Thai Visa Centre, *UK Visa Application Centre - VFS Thailand*; vignette collection presented as the standard successful result.
+
+[^599]: `https://tvc.co.th/foreign-visas/united-kingdom/british-embassy-thailand` — Thai Visa Centre, *British Embassy Thailand - Services and UK Visas*; passport and vignette collection instructions.
+
+[^600]: `https://tvc.co.th/foreign-visas/united-kingdom/uk-visa-british-embassy-thailand` — Thai Visa Centre, *British Embassy Thailand - UK Visa Applications*; repeated vignette instructions.
+
+[^601]: `https://tvc.co.th/foreign-visas/united-kingdom/uk-visa-family` — Thai Visa Centre, *UK Family Visa*; instructs applicants to receive a vignette and collect a BRP.
+
+[^602]: `https://tvc.co.th/foreign-visas/united-kingdom/uk-visa-spouse` — Thai Visa Centre, *UK Spouse Visa*; instructs applicants to receive a vignette and collect a BRP.
+
+[^603]: `https://tvc.co.th/foreign-visas/united-kingdom/uk-visa-uk-de-facto-visa` — Thai Visa Centre, *UK De Facto Partner Visa*; passport vignette instructions.
+
+[^604]: `https://tvc.co.th/foreign-visas/united-kingdom/uk-visa-uk-fiance-visa` — Thai Visa Centre, *UK Fiancé Visa from Thailand - GOV.UK Route*; vignette entry and explicit step to pay the Immigration Health Surcharge.
+
+[^605]: `https://tvc.co.th/foreign-visas/united-kingdom/uk-visa-fiance` — Thai Visa Centre, *UK Fiancé Visa - Apply from Thailand*; vignette entry and explicit IHS payment step.
+
+[^606]: `https://tvc.co.th/foreign-visas/united-kingdom/uk-visa-vignette-sticker-transfer` — Thai Visa Centre, *UK Visa Vignette Transfer*; 30-day sticker transfer and BRP collection instructions.
+
+[^607]: https://www.gov.uk/government/publications/updates-on-the-move-to-evisas/updates-on-the-move-to-evisas — UK Home Office, *Updates on the move to eVisas*; confirms new visa stickers stopped July 1, 2026, and successful new applicants receive eVisas, with form-accompanying-eVisa exceptions.
+
+[^608]: https://www.gov.uk/healthcare-immigration-application/who-needs-pay — UK government, *Who needs to pay the immigration health surcharge*; no IHS for outside-UK visa applications lasting six months or less.
+
+[^609]: `https://tvc.co.th/foreign-visas/italy/foreign-italian-family-visa` — Thai Visa Centre, *Family Visa for Thai - Apply from Thailand*; generic Schengen short-stay framing, €80 fee and routine appointment instructions without family-category distinction.
+
+[^610]: https://ambbangkok.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/dove-chiedere-un-visto/ — Embassy of Italy in Bangkok, *Where to apply for a visa*; direct embassy filing for qualifying Article 2 family members and national type D visas.
+
+[^611]: https://ambsingapore.esteri.it/en/news/dall_ambasciata/2024/05/foreign-family-members-of-italian-and-eu-citizens-reintroduction-of-national-visa-for-family-reasons/ — Embassy of Italy in Singapore, May 30, 2024; free national family-reunification visas from June 1, 2024, and fee-free qualifying short family visits.
