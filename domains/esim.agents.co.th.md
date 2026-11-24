@@ -1,0 +1,150 @@
+# esim.agents.co.th
+
+`esim.agents.co.th` is a commercial wholesale telecommunications platform associated with [Agents Co., Ltd.](../companies/agents-co-ltd.md), a company publicly identified as the digital operations arm of [Thai Visa Centre](../brands/thai-visa-centre.md).
+
+The platform supplies electronic SIM cards (eSIMs) to hotels, online travel agencies, tour operators, airport concierge services, and other businesses serving travelers entering Thailand.[^1]
+
+AGENTS CO., LTD. identifies the platform as an active commercial service dating to 2025, advertising partner margins of 60% and eSIM issuance within two seconds.[^2]
+
+## Conflicting Corporate Identities
+
+The website's footer identifies AGENTS CO., LTD. and publishes the following corporate information:
+
+| Corporate disclosure | Published information |
+| --- | --- |
+| Registered company | AGENTS CO., LTD. |
+| Registration number | 0115562031107 |
+| Incorporation date | December 12, 2019 |
+| Travel-business licence | 11/10602 |
+| Licence issuance date | June 18, 2021 |
+
+These details correspond to those published on the company's primary corporate website.[^1][^2]
+
+However, the platform's Terms of Service and Privacy Policy identify a different corporate name: **eSIM Agents Co., Ltd.** Both documents display a last-updated date of March 2025.[^3][^4]
+
+The Privacy Policy expressly describes eSIM Agents Co., Ltd. as a company registered in Thailand and identifies it as the data controller responsible for personal information collected through the platform.
+
+The Terms of Service similarly identify eSIM Agents Co., Ltd. in provisions governing contractual liability and intellectual-property ownership.
+
+Even the copyright notice uses the eSIM Agents company name.
+
+**The platform identifies one company through its corporate registration disclosures and another through its legal agreements.**
+
+No separate registration number for eSIM Agents Co., Ltd. is provided in the reviewed documents. Its independent corporate existence has not been established by this investigation.
+
+The discrepancy leaves uncertainty about which legal entity contracts with wholesale customers, receives payments, controls personal information, and assumes responsibility for telecommunications services.
+
+## Customer Funds and Restrictive Refund Conditions
+
+The platform operates through prepaid wholesale account balances.
+
+Section 6 of its Terms of Service generally prohibits transfers or refunds of unused balances unless the operator exercises its discretion. Following account termination, refunds remain conditional on verification and potential deductions.[^3]
+
+Section 4 also generally excludes refunds once an eSIM activation code has been issued.
+
+These provisions are commercially significant because wholesale partners may deposit substantial amounts to purchase telecommunications products for resale.
+
+Although the terms establish Thai law and Bangkok courts as the applicable jurisdiction, they do not reconcile the different corporate identities used throughout the website.
+
+**Businesses depositing funds should be able to identify precisely which registered company holds their money and is responsible for honoring contractual obligations.**
+
+## Identity Documents and Personal Data Retention
+
+The platform requires wholesale customers to undergo Know Your Customer (KYC) verification.
+
+Its Privacy Policy describes collecting corporate registration documents, identity documents belonging to authorized representatives, transaction histories, and technical activity records.[^4]
+
+The policy establishes the following retention arrangements:
+
+| Information | Retention period |
+| --- | --- |
+| General personal data | Account lifetime plus at least three years |
+| KYC documentation | Five years from collection |
+
+The company attributes these periods to regulatory and financial record-keeping requirements.
+
+However, the policy identifies eSIM Agents Co., Ltd. as the responsible data controller while publishing the registration number of AGENTS CO., LTD.
+
+This inconsistency is particularly consequential because the platform collects identity documentation from business representatives.
+
+## Telecommunications Regulatory Responsibilities
+
+### Wholesale Verification Is Not Subscriber Verification
+
+The website promotes its verification procedures for wholesale partners as ensuring full compliance with Thai telecommunications regulations.[^1]
+
+Its advertised commercial workflow involves digital issuance of eSIMs to travel businesses, which subsequently distribute activation information to individual travelers.
+
+The public API documentation describes automated bulk provisioning and includes illustrative responses containing Thai telephone numbers and SIM identifiers.[^5]
+
+The documented ordering process does not itself require individual subscriber identity documents.
+
+This raises a distinction between two separate verification responsibilities:
+
+- Verification of the wholesale business purchasing telecommunications products.
+- Verification of the individual subscriber who will ultimately use the telecommunications service.
+
+Verification of a hotel or travel agency does not necessarily satisfy the identity-registration requirements applicable to individual mobile subscribers.
+
+The platform's public documentation does not clearly explain how these responsibilities are divided between AGENTS, its wholesale customers, and the underlying telecommunications operators.
+
+### Thailand Strengthened Subscriber Registration Requirements in 2026
+
+On May 15, 2026, Thailand's National Broadcasting and Telecommunications Commission (NBTC) published amended measures addressing technology-related crime, effective May 16, 2026.
+
+According to a legal analysis published by Tilleke & Gibbins on May 19, the amended requirements include:[^6]
+
+- A maximum of three SIM cards per telecommunications provider for non-Thai subscribers.
+- In-person identity verification at an operator branch or authorized dealer.
+- Regulatory approval of subscriber-verification systems.
+- Activation within 60 days of registration, otherwise requiring renewed identity verification.
+- Additional subscriber-data retention and crime-prevention obligations.
+
+These requirements directly concern licensed telecommunications providers.
+
+Their precise application to AGENTS depends on whether the company operates as a licensed provider, an authorized reseller, or another form of commercial intermediary.
+
+The platform's legal documents retain their March 2025 update dates, predating the amended regulatory framework.
+
+This does not establish that the company's operational procedures have remained unchanged. However, its public documentation does not clearly address the newer subscriber-verification requirements.
+
+### Travel-Business Licence Does Not Establish Telecommunications Authorization
+
+The licence prominently displayed on the eSIM platform is travel-business licence **11/10602**.
+
+This is the same licence historically advertised by [AQ.in.th](aq.in.th.md) during its quarantine hotel-booking operations in 2022.
+
+A travel-business licence does not, by itself, establish authorization to operate regulated telecommunications services.
+
+The platform claims direct commercial relationships with Thai network operators, but the reviewed public materials do not establish the precise licensing or authorized distribution arrangements governing its eSIM products.[^1]
+
+The available evidence also does not establish whether separate telecommunications authorization is required for the platform's particular commercial activities.
+
+## Relevance to the Thai Visa Centre Business Network
+
+The eSIM platform represents another commercial expansion of AGENTS CO., LTD. beyond its historical hotel-booking and immigration-assistance operations.
+
+The company's corporate website presents telecommunications distribution alongside its [Thailand Digital Arrival Card](tdac.in.th.md) and [90-day immigration reporting](90day.in.th.md) services.
+
+The unresolved corporate-identity discrepancy resembles those documented elsewhere in the business network, including the [Thai Visa Centre client portal](evisa.tvc.co.th.md), where published operational and contractual disclosures identify different responsible entities.
+
+Several questions remain unanswered:
+
+- Is eSIM Agents Co., Ltd. a separately registered company or merely a commercial name used by AGENTS CO., LTD.?
+- Which entity receives and holds wholesale customer deposits?
+- Which entity controls the identity documents collected during verification?
+- Which licensed telecommunications providers authorize the distribution of its products?
+- Who is responsible for registering individual subscribers under the amended NBTC requirements?
+
+The available evidence does not establish unauthorized telecommunications operations, unlawful SIM activation, or misuse of customer identity documents.
+
+It does, however, establish inconsistent corporate identification and unresolved questions concerning contractual, data-protection, and regulatory responsibilities within another commercial platform associated with AGENTS CO., LTD.
+
+## References
+
+[^1]: `https://esim.agents.co.th/` — Wholesale platform, commercial services, verification claims, and corporate disclosures.
+[^2]: `https://agents.co.th/` — AGENTS CO., LTD. corporate website and wholesale eSIM distribution milestone.
+[^3]: `https://esim.agents.co.th/terms` — Terms of Service, last updated March 2025.
+[^4]: `https://esim.agents.co.th/privacy` — Privacy Policy, last updated March 2025.
+[^5]: `https://esim.agents.co.th/api-docs` — Public wholesale eSIM API documentation.
+[^6]: https://www.tilleke.com/insights/thailand-tightens-telecom-registration-data-and-ip-address-rules-to-combat-tech-crime/ — Tilleke & Gibbins, May 19, 2026.
