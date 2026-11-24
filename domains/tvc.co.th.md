@@ -1447,7 +1447,7 @@ The pattern spans visitor, spouse, fiancé, family, embassy, and VAC guides. The
 
 These pages market document preparation and checklist reviews while giving applicants outdated instructions about visa evidence or incorrect payment obligations. The evidence documents the errors, **not** specific unnecessary payments, actual immigration refusals, or intentional deception.
 
-### United States: K-1 Fiancé and Immigrant Spouse Visa Fees
+### United States: K-1 and Immigrant Spouse Visa Application and Fee Errors
 
 Thai Visa Centre's FAQ *US Spouse Visa Cost: CR-1, IR-1, and K-1 Fees*, marked reviewed June 2026, presents a combined breakdown of U.S. government charges for couples pursuing different immigration pathways.[^251]
 
@@ -1521,9 +1521,29 @@ USCIS's official fee schedule identifies:
 
 The $50 difference is relatively modest, but it illustrates the same problem: the FAQ presents a single government charge where the official schedule provides different options.
 
+#### CR-1 Spouse-Visa Guide Repeatedly Directs Applicants to the Wrong Form
+
+TVC's *US CR1 Visa Thailand - Apply from Thailand* guide, marked reviewed June 2026, repeatedly tells immigrant-spouse applicants to complete **Form DS-160**. The instruction appears in its visa-journey overview, numbered application process, detailed walkthrough, and FAQ.[^634]
+
+**The U.S. Department of State instead requires Form DS-260, the Immigrant Visa and Alien Registration Application, for CR-1 and IR-1 immigrant spouse visas.** DS-160 is the application form used for nonimmigrant visas, including K-1 fiancé visas.[^635][^252]
+
+TVC's separate *US Spousal CR1 Visa Requirements in Thailand* guide correctly identifies DS-260, including in its National Visa Center checklist and step-by-step instructions.[^636]
+
+**The same agency consequently publishes contradictory instructions about the principal government application required for the same immigrant-spouse procedure.** This is particularly relevant because TVC advertises paid document preparation, certified translations, and checklist reviews. The evidence does not establish that any customer actually submitted the wrong form or incurred a processing delay.
+
+#### CR-1 and IR-1 Guidance Misstates the Two-Year Marriage Cutoff
+
+TVC's dedicated CR-1 guide describes CR-1 as appropriate when the marriage is under two years old **at visa issuance** and IR-1 as appropriate once the marriage has reached two years at issuance.[^634] Its separate spouse-visa requirements guide repeats that issuance-date distinction and associates the categories with conditional or unconditional residence on entry.[^636]
+
+The State Department explains that a spouse's permanent resident status is **conditional if the marriage is less than two years old when the spouse enters the United States on an immigrant visa**. For conditional residents, the spouses generally must petition USCIS to remove conditions during the 90-day period preceding the second anniversary of admission.[^635]
+
+Visa classification printed at issuance and the legal consequences of admission should not be conflated. If the couple reaches its second wedding anniversary after the visa is issued but before the immigrant spouse enters the United States, the two dates produce different answers to TVC's simplified rule.
+
+**TVC should distinguish visa classification at issuance from conditional permanent-resident status at admission**, and advise applicants to verify the correct classification when the relevant anniversary falls between those events. This discrepancy does not establish that a particular applicant received the wrong status.
+
 ### Commercial Significance of the Foreign-Visa Guidance Errors
 
-Across these guides, TVC presents visas as mandatory for travelers who may qualify for visa-free entry or simpler electronic authorization, recommends a Schengen route that does not authorize travel to New Caledonia, quotes outdated Schengen and Indian tourist-visa fees, repeats superseded ETIAS pricing and Schengen-border information, misstates Schengen filing jurisdiction and appointment providers, directs Greece applicants toward an unsupported VFS route, advertises a foreign-visa hub that redirects to its homepage, misdirects Portuguese embassy enquiries, misidentifies the French visa appointment provider, conflates Italian family reunification with ordinary Schengen visits, and gives outdated Australian and UK instructions (including incorrect UK fiancé surcharge advice) while conflating separate U.S. visa charges. Its advertised preparation and translation services make these errors commercially consequential.
+Across these guides, TVC presents visas as mandatory for travelers who may qualify for visa-free entry or simpler electronic authorization, recommends a Schengen route that does not authorize travel to New Caledonia, quotes outdated Schengen and Indian tourist-visa fees, repeats superseded ETIAS pricing and Schengen-border information, misstates Schengen filing jurisdiction and appointment providers, directs Greece applicants toward an unsupported VFS route, advertises a foreign-visa hub that redirects to its homepage, misdirects Portuguese embassy enquiries, misidentifies the French visa appointment provider, conflates Italian family reunification with ordinary Schengen visits, and gives outdated Australian and UK instructions (including incorrect UK fiancé surcharge advice) while conflating separate U.S. visa charges, repeatedly directing CR-1 applicants to the wrong application form, and misstating the conditional-residence cutoff. Its advertised preparation and translation services make these errors commercially consequential.
 
 Singapore, South Korea, China, and Japan involve short-visit entry exemptions, with Japan limited to qualifying Thai IC passport holders and stays up to 15 days. Canada's eTA route depends on additional travel and visa-history criteria. India's 30-day e-Tourist visa still requires approval, but no visa fee under its specific current scheme. New Caledonia has distinct French overseas-territory visa rules. The Italy, Spain, Sweden, and Netherlands tourist-visa pages repeat **one EU-wide fee mistake**; Italy's family-visa page separately misstates the protected family-member filing route and fee. Romania and Bulgaria's Schengen integration and ETIAS illustrate outdated European entry guidance; Portugal and France illustrate faulty application links or procedures. Australia, the UK, and U.S. examples concern visa conditions, documents or costs.
 
@@ -10908,3 +10928,9 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^632]: https://thailand.prd.go.th/en/content/category/detail/id/48/iid/544203 — Thailand Public Relations Department, *Government Steps Up Crackdown on Nominee Businesses as Urgent Priority*, September 23, 2026; expanded post-registration screening effective August 1, 2026, investment-evidence checks, and safeguards for legitimate foreign-invested companies.
 
 [^633]: https://www.dbd.go.th/news/02513112569 — Thailand Department of Business Development, November 2026 nominee-enforcement announcement; coordinated investigation of potentially complicit accounting and law firms and scrutiny of professional intermediaries.
+
+[^634]: `https://tvc.co.th/foreign-visas/united-states/us-visa-cr1-visa` — Thai Visa Centre, *US CR1 Visa Thailand - Apply from Thailand*, accessed November 24, 2026; repeated DS-160 instructions and CR-1/IR-1 cutoff stated as marriage duration at visa issuance.
+
+[^635]: https://travel.state.gov/content/travel/en/us-visas/immigrate/family-immigration/immigrant-visa-for-spouse.html — U.S. Department of State, *Immigrant Visa for a Spouse of a U.S. Citizen (IR1 or CR1)*; required DS-260 application and conditional residence based on marriage duration when the immigrant spouse enters the United States.
+
+[^636]: `https://tvc.co.th/foreign-visas/other/cr1-visa-requirements` — Thai Visa Centre, *US Spousal CR1 Visa Requirements in Thailand*, accessed November 24, 2026; correctly identifies DS-260 but repeats the visa-issuance-date rule for CR-1 versus IR-1.
