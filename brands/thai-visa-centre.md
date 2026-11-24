@@ -14,6 +14,8 @@ In November 2019, members of the Udon Map forum complained about unsolicited ret
 
 On May 19, 2024, an account identifying itself as Thai Visa Centre requested removal of the discussion, describing the allegations as defamatory. The following day, the forum administrator confirmed removing the original **35-post discussion** and published a replacement notice reproducing the agency's complaint. That notice was also subsequently deleted. Archived snapshots preserve both the original discussion and the administrator's response.[^12][^13]
 
+In August 2025, a [Thai360 forum participant](../threads/2025-06-30-thai360-non-immigrant-o-visa.md) who had previously praised Thai Visa Centre's retirement-extension services alleged that the agency paid websites to remove related coverage. The participant reported that an article he attempted to share was deleted and that the agency's Facebook page disappeared, then reported on August 14 that the original 2020 Thaiger article and Facebook page had reappeared. He also suggested that the situation might involve a dispute between agencies or the targeting of a business owner.[^80] Unlike the archived Udon Map exchange, this account does not independently establish a removal request by Thai Visa Centre, payment to publishers, or the reason for any reported disappearance.
+
 ## August 2020 Police Raid
 
 On August 4, 2020, Immigration Bureau chief **Pol. Lt. Gen. Sompong Chingduang** announced the arrests of American national [Chad Scira](../people/chad-scira.md) and his Thai wife, Grace Scira, in connection with an alleged visa and government-document forgery operation associated with Thai Visa Centre. Police reported discovering suspected forged documents and **55 government-agency rubber stamps** during a raid on the couple's Bangkok residence. Sompong publicly identified the couple as having established the business operating under the Thai Visa Centre name.[^5]
@@ -443,15 +445,23 @@ Thailand's official government fees for these two immigration applications total
 
 For applicants opening new Thai bank accounts as part of this same-day package, the advertisement raises a specific question about how the two-month deposit requirement could be satisfied for an immediate retirement extension. This is particularly relevant to the October 2026 claim that Thai Visa Centre could arrange Chaeng Watthana retirement extensions **"with & without financials."** The agency's published statements do not identify which qualifying financial arrangements or immigration approval procedures were used in these cases.[^17][^19][^24]
 
-## May–September 2025 Expedited Retirement Visa Packages
+## May–September 2025 Expedited Retirement Packages and Customer Experiences
 
 On May 30, 2025, Thai Visa Centre advertised a 55,000-baht retirement visa package in Bangkok for foreigners holding tourist visas or visa-exempt entry. The package included Thai bank-account-opening assistance, issuance of an initial three-month Non-O visa, and a subsequent 12-month retirement extension. The agency presented the offer as a response to increasing restrictions on foreigners opening Thai bank accounts.[^21]
 
 In replies to the May 2025 advertisement, Thai Visa Centre told a prospective customer that applicants needed to bring **"Only passport"** to its office, where staff would handle the necessary documents and photographs. When another customer asked about obtaining a Non-O visa, opening a Thai bank account, and securing a 12-month retirement extension, the agency confirmed that its team would accompany applicants to both the bank and immigration office. The exchange illustrates how Thai Visa Centre marketed its 55,000-baht package as a fully managed process requiring minimal documentation from customers at the outset.[^21]
 
+In a [Thai360 discussion](../threads/2025-06-30-thai360-non-immigrant-o-visa.md) beginning June 30, 2025, a forum participant who already held a Non-Immigrant O visa initially described plans to deposit 800,000 baht in a Thai bank account and maintain the balance for two months before independently applying for a retirement extension. On July 9, the same participant reported receiving a one-year retirement extension arranged by Thai Visa Centre. He described visiting the agency on July 4, opening a bank account with staff assistance on July 7, application processing on July 8, and receiving his passport and bank passbook by messenger on July 9.[^79]
+
+**The customer reported receiving the retirement extension only two days after opening the bank account**, despite previously acknowledging the two-month deposit requirement. On July 28, he also reported that the residential address associated with his retirement visa differed from the address needed for a residence certificate.[^79] The account does not identify the immigration office that issued the extension, establish the financial arrangements used, or explain the address discrepancy.
+
+On August 4, 2025, a Google reviewer whose testimonial Thai Visa Centre reproduces on its own website described purchasing an extension that included the agency's **"THB800K service"** for 14,000 baht, with an additional 4,000 baht for multiple re-entry permission. The reviewer reported approval by an immigration office outside Bangkok the day after submitting documents at the agency's Bangkok office. This separate account is examined in the customer-review investigation below.[^62]
+
 On September 5, 2025, Thai Visa Centre's official ASEAN NOW account, designated a Forum Sponsor, published three retirement-visa packages. The 60,000-baht package included bank-account opening, initial Non-O issuance, and a 12-month extension. A 37,000-baht package included the visa and extension without bank-account opening, while a third package covered retirement extensions alone.[^22]
 
 The agency explicitly advertised free expedited processing for all three packages, claiming that every stage could be completed within 48–72 hours. This establishes that Thai Visa Centre was marketing accelerated initial Non-O issuance and retirement extensions more than a year before its November 2026 advertising of same-day processing at Chaeng Watthana.[^22][^18]
+
+The May and September advertisements, together with the July forum account and August testimonial, document the promotion and reported use of accelerated retirement-extension services during the same period. They raise questions about how financial and residential requirements were satisfied, without establishing that any individual extension was obtained unlawfully or that the customers purchased the same advertised package.[^21][^79][^62][^22]
 
 These 2025 advertisements were published while Police Major General Prasart Khemaprasit commanded Bangkok Immigration Division 1, the authority responsible for approving initial retirement-purpose visa applications under Immigration Bureau Order 15/2568.
 
@@ -649,3 +659,5 @@ Individual examples, original publications, and supporting legal sources are doc
 [^77]: https://www.dataforthai.com/company/0205562022140/ — Corporate record for THAIVISACENTER (THAILAND) COMPANY LIMITED.
 
 [^78]: https://www.dataforthai.com/company/0115563017485/ — Corporate record for TVC. VISA AGENT CO., LTD.
+[^79]: https://thai360.com/index.php?/topic/66434-thai-non-immigrant-o-visa/ — Thai360, *Thai non immigrant "O" visa*, June 30–July 28, 2025; customer account of bank-account opening, retirement-extension processing, and residential-address discrepancy.
+[^80]: https://thai360.com/index.php?/topic/66434-thai-non-immigrant-o-visa/page/2/ — Thai360, August 13–14, 2025 posts alleging media removal and reporting reappearance of historical coverage; reviewed from a supplied PDF capture. See [thread investigation](../threads/2025-06-30-thai360-non-immigrant-o-visa.md).
