@@ -26,6 +26,50 @@ The platform also introduces an additional layer of editorial control by generat
 
 Nevertheless, the operation warrants closer examination of **publication permissions, personal-data handling, historical content preservation, editorial independence, and the commercial reuse of community discussions**.[^1][^4][^5]
 
+## Asymmetric Content-Reuse Restrictions and Personal Data Obligations
+
+Ask Thailand's published Disclaimer, dated July 16, 2024, imposes extensive restrictions on the reproduction and redistribution of content appearing on its website.[^6]
+
+AGENTS CO., LTD. prohibits copying website content for commercial purposes and incorporating that content into other publications or websites without its express permission.
+
+The Disclaimer also grants AGENTS unlimited and perpetual rights to reproduce, distribute, publish, and reuse information submitted to the company.
+
+**These provisions are particularly remarkable because Ask Thailand itself aggregates and republishes extensive historical discussions originating in Facebook communities.**
+
+The reviewed policies do not explain whether the original Facebook contributors granted AGENTS equivalent publication rights or whether the company obtained separate authorization to reproduce their contributions.
+
+A contractual licence applicable to people submitting content directly to Ask Thailand does not automatically establish permission to reproduce material obtained from another platform.
+
+### Obligations Under Section 25 of Thailand's PDPA
+
+Section 25 of Thailand's Personal Data Protection Act B.E. 2562 (2019) specifically regulates the collection of personal information from sources other than the individuals concerned.[^7]
+
+Where consent is required, the data controller must inform the affected individual without delay and within 30 days of collection and obtain consent. The legislation provides exceptions under Sections 24 and 26, alongside specified exceptions to notification requirements.
+
+Ask Thailand's Privacy Policy acknowledges obtaining personal information from external sources, including public databases and marketing partners.[^4]
+
+However, it does not specifically explain the legal basis for collecting and republishing identifiable Facebook contributions or how affected contributors are notified.
+
+### Website Visitors Are Not Necessarily the Original Contributors
+
+The platform's legal policies primarily address individuals accessing its website, submitting information, or purchasing services.
+
+However, people whose historical Facebook contributions appear on Ask Thailand may never have visited the website or accepted its legal agreements.
+
+Acceptance of Ask Thailand's terms by its visitors does not establish consent from the original contributors whose information has been republished.
+
+### Commercial Control Over Community Content
+
+The platform's Disclaimer additionally reserves the right to edit or remove submitted content and acknowledges that the website may generate affiliate commissions.[^6]
+
+These provisions reinforce the distinction between an independent community archive and a commercially controlled publication maintained by Thai Visa Centre.
+
+The available evidence does not establish that AGENTS lacks valid publication permissions or an applicable lawful basis for processing personal information.
+
+Nevertheless, the company should clarify how its extensive republication of community discussions complies with the copyright, consent, notification, and personal-data obligations that apply to content obtained from external platforms.
+
+**AGENTS expressly restricts third-party reproduction of its website content while leaving unresolved the permissions governing its own extensive reproduction of third-party community discussions.**
+
 ## References
 
 - `https://asq.in.th/policy/terms-and-conditions`
@@ -37,3 +81,5 @@ Nevertheless, the operation warrants closer examination of **publication permiss
 [^3]: `https://asq.in.th/question/what-are-the-implications-of-thai-visa-centre-buying-the-thai-visa-advice-facebook-group-1`
 [^4]: `https://asq.in.th/policy/privacy`
 [^5]: `https://asq.in.th/policy/data-protection`
+[^6]: `https://asq.in.th/policy/disclaimer` — Disclaimer, last updated July 16, 2024.
+[^7]: https://mdes.go.th/law/detail/3577-Personal-Data-Protection-Act-B-E--2562--2019 — Thailand's Personal Data Protection Act, particularly Sections 24–26.
