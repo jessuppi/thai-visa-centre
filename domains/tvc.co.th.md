@@ -6035,7 +6035,11 @@ It does establish that the company's published guide fails to distinguish recomm
 
 A business advertising referrals for professional franchise-law services should accurately explain the obligations and protections applicable to both franchisors and franchisees.
 
-## Estate-Planning Guides Invent Mandatory Inheritance Shares
+## Misleading Estate-Planning, Inheritance, and Probate Requirements
+
+Thai Visa Centre's estate-planning and probate publications misstate three connected issues: whether statutory heirs must receive reserved inheritance shares despite a valid will, whether licensed Thai lawyers are universally required to prepare wills, and whether foreign estate administrators or heirs must use Thai co-executors and court-appointed administrators. Together, the errors present lawful estate-planning and property-transfer options as more restrictive or dependent on paid professional services than the governing rules generally require.
+
+### Estate-Planning Guides Invent Mandatory Inheritance Shares
 
 Thai Visa Centre publishes incorrect advice about whether Thai law permits people to disinherit children, parents, and other statutory heirs.
 
@@ -6049,7 +6053,7 @@ It further advises readers that disinheritance is permitted only partially becau
 
 **These claims conflict with Thailand's Civil and Commercial Code, which does not generally impose mandatory reserved inheritance shares.**
 
-### Section 1608 Expressly Permits Disinheritance
+#### Section 1608 Expressly Permits Disinheritance
 
 Section 1608 of the Civil and Commercial Code B.E. 2468 permits a person to disinherit statutory heirs through:
 
@@ -6062,7 +6066,7 @@ Thailand's Department of Provincial Administration confirms these principles in 
 
 This differs fundamentally from forced-heirship systems that reserve fixed portions of an estate for children or other relatives regardless of testamentary instructions.
 
-### The Same Error Appears Across Multiple Guides
+#### The Same Error Appears Across Multiple Guides
 
 TVC's *Thai Probate and Inheritance Law* guide claims that valid wills override intestate succession only partially because of forced-heirship restrictions.[^236]
 
@@ -6074,7 +6078,7 @@ These are not isolated references to ordinary intestate succession. They describ
 
 The latter guide also contradicts itself by separately acknowledging that statutory heir rules apply when a person dies intestate.
 
-### Marital Property Is Not Forced Heirship
+#### Marital Property Is Not Forced Heirship
 
 There are important qualifications that TVC's guidance fails to distinguish.
 
@@ -6088,7 +6092,7 @@ Wills must still satisfy legal formalities, and questions involving marital prop
 
 **These genuine legal restrictions should not be confused with nonexistent mandatory inheritance shares for every spouse, child, or parent.**
 
-### Consequences for Customers
+#### Consequences for Customers
 
 TVC promotes estate-planning coordination, probate assistance referrals, and property-related legal services to foreigners holding Thai assets.
 
@@ -6103,7 +6107,7 @@ Nevertheless, the company repeatedly describes a nonexistent general forced-heir
 TVC should correct its probate and will-writing guides, distinguish intestate inheritance from testamentary freedom, and accurately explain the separate treatment of marital property and legally ineffective wills.
 
 
-## Estate-Planning Guides Falsely Claim Wills Require Licensed Thai Lawyers
+### Estate-Planning Guides Falsely Claim Wills Require Licensed Thai Lawyers
 
 Thai Visa Centre incorrectly presents licensed Thai lawyers as mandatory for preparing wills and administering estates.
 
@@ -6115,7 +6119,7 @@ Its separate *Thailand Law Firms and TVC Office Locations* guide similarly class
 
 **These blanket claims conflict with Thailand's Civil and Commercial Code and the government's official procedures for making wills.**
 
-### Thai Law Expressly Permits Wills Without Lawyers
+#### Thai Law Expressly Permits Wills Without Lawyers
 
 Section 1656 of the Civil and Commercial Code permits ordinary written wills that are dated and signed by the testator in the presence of two witnesses, who sign at the same time.
 
@@ -6127,7 +6131,7 @@ Section 1658 provides another option: a public will executed before a competent 
 
 The law establishes formal requirements for making valid wills. It does not impose a universal requirement to retain licensed legal counsel.
 
-### Government Offers Direct Will-Making Services
+#### Government Offers Direct Will-Making Services
 
 Thailand's Department of Provincial Administration published an updated will-writing handbook in 2026, incorporating current ministerial procedures governing testamentary documents.[^239]
 
@@ -6139,7 +6143,7 @@ The 2026 procedures also address identity verification for foreign applicants an
 
 **Thailand's government provides a formal will-making procedure without requiring applicants to engage private lawyers.**
 
-### TVC's Own Guide Contradicts Its Claim
+#### TVC's Own Guide Contradicts Its Claim
 
 TVC's will-writing guide acknowledges that a holographic will can be written entirely by the testator without witnesses.[^465]
 
@@ -6151,7 +6155,7 @@ Probate proceedings and contested litigation present separate procedural issues 
 
 **Recommending qualified legal assistance is different from claiming that the law makes it compulsory.**
 
-### Misleading Customers About Estate-Planning Costs
+#### Misleading Customers About Estate-Planning Costs
 
 TVC advertises referrals to licensed legal professionals while publishing guidance suggesting that customers cannot properly prepare wills without them.
 
@@ -6163,7 +6167,7 @@ The available evidence does not establish that TVC charged individual customers 
 
 It should disclose the government's direct will-making procedure and distinguish optional legal assistance from genuine statutory requirements.
 
-## Probate Guides Overstate Thai Co-Executor Requirements and Omit Direct Inheritance Transfers
+### Probate Guides Overstate Thai Co-Executor Requirements and Omit Direct Inheritance Transfers
 
 Thai Visa Centre publishes misleading estate-planning guidance concerning the appointment of foreign estate administrators and the procedures available for registering inherited property in Thailand.
 
@@ -6177,7 +6181,7 @@ Both publications strongly emphasize court-supervised estate administration and 
 
 **These instructions fail to distinguish practical assistance from legal requirements and overlook official procedures permitting qualifying inheritance transfers without a court-appointed estate administrator.**
 
-### Thai Law Does Not Generally Require Estate Administrators to Be Thai Nationals
+#### Thai Law Does Not Generally Require Estate Administrators to Be Thai Nationals
 
 Sections 1711–1718 of Thailand's Civil and Commercial Code govern the appointment and eligibility of estate administrators.
 
@@ -6201,7 +6205,7 @@ However, practical convenience does not make joint appointment legally mandatory
 
 TVC's warnings do not adequately explain that distinction.
 
-### Supreme Court Decision 626/2541 Recognizes Foreign Administrators
+#### Supreme Court Decision 626/2541 Recognizes Foreign Administrators
 
 Thailand's Supreme Court has directly addressed whether foreign nationality prevents a person from administering an estate.
 
@@ -6227,7 +6231,7 @@ Nationality alone does not determine the outcome.
 
 **TVC's advice presents Thai co-administration as a routine necessity without identifying the statutory rules or the Supreme Court decision recognizing foreign administrators.**
 
-### Appointing Joint Administrators Can Create Additional Complications
+#### Appointing Joint Administrators Can Create Additional Complications
 
 Naming a local co-administrator may be sensible in some circumstances.
 
@@ -6251,7 +6255,7 @@ A testator should therefore consider:
 
 The recommendation to appoint a Thai co-administrator should be presented as a possible estate-planning choice, not an unavoidable condition imposed on foreigners.
 
-### The Land Department Allows Inheritance Transfers Without an Estate Administrator
+#### The Land Department Allows Inheritance Transfers Without an Estate Administrator
 
 TVC's probate publications also leave out an important alternative to court-supervised administration.
 
@@ -6286,11 +6290,13 @@ The procedure includes:
 
 The Department of Lands has also published explanatory guidance distinguishing inheritance transfers with an administrator from transfers without one.[^397]
 
-It identifies the latter as an established procedure involving additional verification and notification requirements.
+In its October 2026 guidance, a provincial Land Office describes the procedure without an administrator as involving an heir's application, examination of inheritance rights, a **30-day public notice**, confirmation by the heir, and registration. It gives an **approximate total of 47 days, including the notice period**, for that administrative route.[^397] This is an illustrative processing estimate rather than a guarantee for every estate; disputes, incomplete evidence, or complex inheritance rights can require additional steps or court proceedings.
+
+The guidance treats direct registration without an administrator as an established process involving additional verification and notification requirements.
 
 **TVC's court-focused presentation overlooks this officially recognized alternative.**
 
-### Court-Appointed Administrators Remain Necessary in Many Cases
+#### Court-Appointed Administrators Remain Necessary in Many Cases
 
 The existence of direct inheritance registration does not mean that heirs can always avoid court proceedings.
 
@@ -6314,7 +6320,7 @@ Accordingly, TVC is not necessarily wrong when it states that many inheritance m
 
 **The problem is its failure to explain that court appointment is not invariably required and that the correct procedure depends on the assets, beneficiaries, and circumstances of the estate.**
 
-### Administrative Authority Is Different From Beneficial Ownership
+#### Administrative Authority Is Different From Beneficial Ownership
 
 TVC's discussion also risks confusing the nationality of the estate administrator with the nationality of the heir.
 
@@ -6336,7 +6342,7 @@ Conversely, restrictions on a foreigner's right to own particular property do no
 
 **The correct legal analysis separates the administrator's eligibility, the beneficiaries' inheritance rights, and the registration requirements for each asset.**
 
-### Financial Consequences for Foreign Families
+#### Financial Consequences for Foreign Families
 
 These distinctions matter for foreign retirees, spouses, and families holding Thai property, bank deposits, company shares, and other investments.
 
@@ -6356,7 +6362,7 @@ The available evidence does not establish that Thai Visa Centre has charged cust
 
 Nevertheless, **its published instructions can create an exaggerated impression of the legal barriers facing foreigners administering Thai estates.**
 
-### Recommended Corrections
+#### Recommended Corrections
 
 Thai Visa Centre should revise its probate and succession publications to explain:
 
@@ -6370,6 +6376,13 @@ Thai Visa Centre should revise its probate and succession publications to explai
 
 **The agency should avoid portraying Thai co-executors and court-appointed probate administration as universal requirements when Thailand's legislation and published Land Department procedures establish more flexible alternatives.**
 
+### Commercial Significance Across Estate Planning and Probate
+
+TVC promotes estate-planning coordination, legal-service referrals, and assistance with inherited Thai assets while publishing blanket statements about compulsory inheritance shares, lawyers, Thai co-administrators, and court proceedings. The underlying legal questions differ: a testator's freedom to dispose of an estate, the formal requirements for making a will, eligibility to administer an estate, and the transfer process for particular property must each be assessed on their own terms.
+
+**The cumulative problem is that the agency presents optional professional assistance and procedures needed in some cases as generally unavoidable legal requirements.** That can discourage lawful testamentary choices or encourage unnecessary paid services, additional administrators, and court applications. The published material does not establish that TVC has charged particular customers for unnecessary services, administered estates improperly, or caused financial losses.
+
+TVC should correct the cited guides together, identify when lawyers and court procedures are genuinely needed, and disclose the government alternatives rather than leaving mutually reinforcing overstatements scattered across its publications.
 
 ## Family-Law Guide Falsely Claims Marriage Registration Requires Licensed Thai Lawyers
 
