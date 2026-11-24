@@ -6873,7 +6873,13 @@ Thai Visa Centre should revise its divorce publications to:
 These corrections would provide materially more accurate information to couples making significant legal, financial, and immigration decisions.
 
 
-## Property Guides Falsely Claim Licensed Thai Lawyers Are Mandatory for Condominium Purchases
+## Misleading Foreign Property Ownership, Leasehold, and Condominium Transfer Requirements
+
+Thai Visa Centre publishes misleading and sometimes contradictory guidance about foreign property ownership, leasehold security, condominium purchases, resale, and inheritance in Thailand. Across its guides, the agency presents optional legal services as mandatory, omits narrow exceptions to foreign land-ownership restrictions, exaggerates the security of prearranged lease renewals, and applies documentation or ownership-quota requirements to transactions that follow different legal rules.
+
+TVC advertises property-related legal referrals and due-diligence assistance. **The recurring problem is its failure to distinguish general restrictions from statutory exceptions, and mandatory registration requirements from optional professional assistance.** The findings below address six related errors without suggesting that the same rules govern every type of property transaction.
+
+### Property Guides Falsely Claim Licensed Thai Lawyers Are Mandatory for Condominium Purchases
 
 Thai Visa Centre tells foreign property buyers that licensed Thai lawyers are essential for condominium purchases and that legal representation is mandatory before paying a deposit.
 
@@ -6891,7 +6897,7 @@ That publication also directs buyers to instruct a property lawyer before paying
 
 **These statements present professional legal representation as compulsory when Thailand's ordinary condominium registration procedures impose no blanket requirement to hire a lawyer.**
 
-### Department of Lands Permits Direct Ownership Transfers
+#### Department of Lands Permits Direct Ownership Transfers
 
 The Department of Lands administers registration of condominium ownership through the competent Land Office.
 
@@ -6905,7 +6911,7 @@ The Department of Lands separately explains that parties to an ordinary property
 
 **Proper Land Office registration, compliance with condominium ownership restrictions, and hiring a private property lawyer are three different matters.**
 
-### TVC's Own Due-Diligence Guide Acknowledges the Distinction
+#### TVC's Own Due-Diligence Guide Acknowledges the Distinction
 
 TVC's *10 Things to Look for in a Thai Property Due Diligence Review* provides a revealing contrast.
 
@@ -6919,7 +6925,7 @@ The statement that due diligence is not legally mandatory does not mean due dili
 
 Its categorical statements elsewhere about mandatory lawyers fail to make that distinction.
 
-### Independent Legal Advice Can Still Be Valuable
+#### Independent Legal Advice Can Still Be Valuable
 
 Foreign condominium acquisitions carry substantial financial and legal risks. Independent counsel can help investigate title defects, mortgages, developer obligations, condominium quota restrictions, unpaid common-area charges, and contract provisions.
 
@@ -6929,7 +6935,7 @@ Such assistance is particularly sensible for off-plan developments, contested tr
 
 The responsible government authority decides whether the transaction satisfies the statutory registration requirements. A lawyer's involvement does not replace those requirements, and their absence does not automatically invalidate an otherwise eligible transaction.
 
-### Potentially Misleading Foreign Buyers About Costs
+#### Potentially Misleading Foreign Buyers About Costs
 
 TVC advertises property-lawyer referrals while describing licensed counsel as essential for condominium purchases.
 
@@ -6943,7 +6949,7 @@ The evidence does not establish that TVC charged individual customers unnecessar
 
 It should acknowledge that eligible buyers and sellers can use the Department of Lands' prescribed transfer procedures without universally retaining private attorneys, while continuing to explain why professional due diligence may be advisable.
 
-## Property Guides Omit Statutory Exceptions to Foreign Land Ownership
+### Property Guides Omit Statutory Exceptions to Foreign Land Ownership
 
 Thai Visa Centre's *Thailand Property FAQ for Expats*, marked reviewed June 2026, categorically states that foreigners cannot legally own land in Thailand.[^339]
 
@@ -6957,7 +6963,7 @@ The agency's broader *Property Law in Thailand for Expats* guide also categorize
 
 **These categorical statements omit express statutory exceptions under which qualifying foreigners can legally acquire land in Thailand.**
 
-### Land Code Section 96 Bis Permits Limited Foreign Freehold Ownership
+#### Land Code Section 96 Bis Permits Limited Foreign Freehold Ownership
 
 Section 96 bis of Thailand's Land Code establishes a specific exception to the ordinary restrictions on foreign land ownership.
 
@@ -6977,7 +6983,7 @@ These requirements are exceptionally restrictive, and obtaining approval is not 
 
 Nevertheless, **the law expressly permits foreign freehold land ownership in circumstances that TVC's guides describe as categorically impossible.**
 
-### Government Publishes Registration Procedures for Foreign Owners
+#### Government Publishes Registration Procedures for Foreign Owners
 
 The omission is particularly significant because Thailand's government publishes specific documentation requirements for foreigners seeking land ownership under the permitted exceptions.[^343]
 
@@ -6996,7 +7002,7 @@ The existence of the procedure does not guarantee approval or establish that ord
 
 However, it directly contradicts an explanation that excludes all foreign individuals from freehold land ownership.
 
-### BOI-Promoted Foreign Companies Have Separate Land Rights
+#### BOI-Promoted Foreign Companies Have Separate Land Rights
 
 A second exception exists under Thailand's Investment Promotion Act.
 
@@ -7014,7 +7020,7 @@ Likewise, ordinary Thai companies using nominee shareholders to conceal foreign 
 
 Nevertheless, the BOI framework establishes another legally recognized category of foreign land ownership that should be distinguished from prohibited nominee arrangements.
 
-### Land Department Recognizes the Exceptions
+#### Land Department Recognizes the Exceptions
 
 The distinction is not merely theoretical.
 
@@ -7032,7 +7038,7 @@ Rather, they underscore the importance of distinguishing legitimate, expressly a
 
 **A comprehensive property guide should explain both the prohibition and its narrowly defined legal exceptions.**
 
-### Financial Implications for Foreign Buyers
+#### Financial Implications for Foreign Buyers
 
 The distinction matters particularly for wealthy foreign investors, business owners, and long-term residents considering substantial property investments in Thailand.
 
@@ -7052,7 +7058,7 @@ Indeed, for many foreigners, a registered condominium or carefully structured le
 
 Nevertheless, the existence of substantial eligibility requirements does not justify describing a lawful ownership route as nonexistent.
 
-### Relevance to Thai Visa Centre's Commercial Services
+#### Relevance to Thai Visa Centre's Commercial Services
 
 Thai Visa Centre advertises property-related legal referrals, immigration coordination, and assistance for foreign investors establishing businesses in Thailand.
 
@@ -7064,7 +7070,7 @@ However, its categorical explanations fail to distinguish the general prohibitio
 
 **Thai Visa Centre should revise its property guides to explain Section 96 bis, identify the applicable investment and ministerial-approval requirements, distinguish BOI-promoted corporate ownership from personal freehold rights, and clarify that nominee structures remain unlawful.**
 
-## Property Guide Promotes 90-Year Lease Structure Despite Supreme Court Ruling
+### Property Guide Promotes 90-Year Lease Structure Despite Supreme Court Ruling
 
 Thai Visa Centre's *Property Law in Thailand for Expats* guide, marked reviewed June 2026, prominently advertises **30+30+30 years** as a leasehold term available to foreign property buyers.[^306]
 
@@ -7072,7 +7078,7 @@ The guide states that registered leases can extend in successive blocks but does
 
 **This presentation risks giving foreign buyers an exaggerated impression of the security provided by prearranged lease renewals.**
 
-### Civil and Commercial Code Limits Ordinary Leases to 30 Years
+#### Civil and Commercial Code Limits Ordinary Leases to 30 Years
 
 Section 540 of Thailand's Civil and Commercial Code generally limits ordinary immovable-property leases to 30 years, while permitting subsequent renewals subject to legal requirements.[^307]
 
@@ -7080,7 +7086,7 @@ The distinction between a valid initial lease and promised future renewals is fu
 
 A registered 30-year lease does not automatically secure another 60 years of legally enforceable occupancy.
 
-### Supreme Court Invalidated a 30+30+30 Arrangement
+#### Supreme Court Invalidated a 30+30+30 Arrangement
 
 In **Supreme Court Decision 4655/2566**, issued in 2023, the court examined a Phuket property lease involving:
 
@@ -7099,7 +7105,7 @@ The decision does not establish that every future renewal agreement is invalid. 
 
 **The legally important distinction is between a renewable 30-year lease and a supposedly secured 90-year property interest.**
 
-### TVC's Separate Lease Guide Acknowledges the Problem
+#### TVC's Separate Lease Guide Acknowledges the Problem
 
 The inconsistency is especially apparent because Thai Visa Centre's dedicated *Property Leases in Thailand* guide expressly warns against trusting 90-year lease marketing.[^310]
 
@@ -7111,7 +7117,7 @@ TVC therefore gives readers conflicting impressions:
 
 Its property overview advertises **30+30+30 years** as a prominent leasehold term, while its specialist guide recognizes that the additional periods are not assured.
 
-### Financial Implications for Foreign Buyers
+#### Financial Implications for Foreign Buyers
 
 The distinction matters particularly for foreigners considering expensive leasehold villas in Phuket, Samui, Pattaya, and other property markets.
 
@@ -7125,7 +7131,7 @@ Nevertheless, the agency advertises property-related legal referrals and immigra
 
 **Thai Visa Centre should replace its simplified 30+30+30-year presentation with an explanation distinguishing enforceable registered lease terms, conditional renewal agreements, and arrangements that courts may invalidate as attempts to evade Section 540.**
 
-## Condominium Guides Incorrectly Require Overseas Remittances From Permanent Residents
+### Condominium Guides Incorrectly Require Overseas Remittances From Permanent Residents
 
 Thai Visa Centre's guide *Condo in Thailand*, marked reviewed June 2026, presents foreign-currency remittances and Foreign Exchange Transaction (FET) documentation as mandatory requirements for every foreign condominium purchase.[^246]
 
@@ -7135,7 +7141,7 @@ Its separate *Thailand Property FAQ for Expats* repeats that foreigners must rem
 
 **These categorical instructions omit an express exception for foreign permanent residents under Thailand's Condominium Act.**
 
-### Government Confirms Permanent Residents Can Use Thai Baht
+#### Government Confirms Permanent Residents Can Use Thai Baht
 
 Thailand's official government website explains that foreign buyers holding permanent-resident status may purchase condominium units using Thai baht without requesting an FET form.[^248]
 
@@ -7153,7 +7159,7 @@ All applicants remain subject to applicable ownership restrictions, including th
 
 **The government's FET exemption does not eliminate ordinary property-registration requirements. It establishes that overseas remittance is not universally mandatory.**
 
-### TVC Repeats the Requirement in Its Legal-Services Advertising
+#### TVC Repeats the Requirement in Its Legal-Services Advertising
 
 The discrepancy extends beyond general property information.
 
@@ -7165,7 +7171,7 @@ These publications promote document preparation, property-lawyer referrals, bank
 
 However, they do not adequately distinguish permanent residents from foreign purchasers who must establish eligibility through qualifying remittances.
 
-### Financial Consequences for Buyers
+#### Financial Consequences for Buyers
 
 Incorrectly presenting overseas remittance as compulsory could lead foreign permanent residents to arrange unnecessary international transfers.
 
@@ -7182,7 +7188,7 @@ Nevertheless, its published instructions omit a significant statutory distinctio
 
 TVC should distinguish Section 19(1) permanent-resident purchases from Section 19(5) remittance-based purchases, explain the different Land Department documentation requirements, and correct its categorical statements that every foreign condominium buyer must transfer funds from overseas.
 
-## Condominium Resale Guide Incorrectly Requires Unused Foreign Quota for Existing Foreign-Owned Units
+### Condominium Resale Guide Incorrectly Requires Unused Foreign Quota for Existing Foreign-Owned Units
 
 Thai Visa Centre's *Condominium Rights in Thailand: Foreign Owner Obligations and Bylaws*, marked reviewed June 2026, gives misleading advice concerning the resale of condominiums already registered in foreign ownership.[^381]
 
@@ -7194,7 +7200,7 @@ The same publication lists buying when foreign ownership approaches 49% as a com
 
 **These statements confuse the acquisition of additional foreign-owned condominium floor area with transferring an existing foreign-owned unit to another qualifying foreign purchaser.**
 
-### Condominium Act Limits Aggregate Foreign Ownership, Not Successive Foreign Owners
+#### Condominium Act Limits Aggregate Foreign Ownership, Not Successive Foreign Owners
 
 Section 19 bis of Thailand's Condominium Act B.E. 2522 (1979), as amended, generally limits qualifying foreign ownership to 49% of the aggregate floor area of all units in a registered condominium building.[^382]
 
@@ -7214,7 +7220,7 @@ The same floor area remains included in the building's foreign ownership total.
 
 **The transaction does not ordinarily increase the foreign-owned proportion and therefore does not require additional unused quota merely because the building has already reached 49%.**
 
-### A Full Foreign Quota Does Not Automatically Prevent Foreign-to-Foreign Resale
+#### A Full Foreign Quota Does Not Automatically Prevent Foreign-to-Foreign Resale
 
 Consider a condominium building with 10,000 square metres of total unit floor area.
 
@@ -7241,7 +7247,7 @@ If the building has already exhausted the permitted allocation, that additional 
 
 The distinction is confirmed in published analyses of condominium resale procedures, which explain that an existing foreign-owned unit can ordinarily pass to another qualifying foreign purchaser without increasing the foreign ownership ratio.[^383]
 
-### TVC's Separate Selling Guide Contradicts Its Own Warning
+#### TVC's Separate Selling Guide Contradicts Its Own Warning
 
 The inconsistency is especially clear because Thai Visa Centre's separate *Selling Your Condominium in Thailand: Foreign Owner Resale Guide*, also marked reviewed June 2026, provides a different explanation.[^384]
 
@@ -7260,7 +7266,7 @@ Both guides target foreign condominium owners making property and investment dec
 
 **The company should reconcile these instructions rather than presenting the foreign ownership ceiling as an additional restriction on the resale of units already counted within that ceiling.**
 
-### Foreign Buyers Must Still Satisfy Independent Registration Requirements
+#### Foreign Buyers Must Still Satisfy Independent Registration Requirements
 
 The fact that a foreign-to-foreign resale does not ordinarily increase aggregate foreign ownership does not make registration automatic.
 
@@ -7284,7 +7290,7 @@ The buyer and seller should also confirm the current registration position, part
 
 **The important distinction is that a purchaser's separate eligibility and documentation requirements are not the same as a requirement for newly available foreign-owned floor area.**
 
-### Selling to a Thai National Has Different Quota Consequences
+#### Selling to a Thai National Has Different Quota Consequences
 
 The ownership ratio can change when a foreign-owned condominium unit is sold to a Thai national.
 
@@ -7306,7 +7312,7 @@ A clear explanation should address all three situations:
 
 The Land Office must ultimately verify the relevant ownership and registration requirements.
 
-### Financial Implications for Foreign Property Owners
+#### Financial Implications for Foreign Property Owners
 
 The distinction can materially affect a foreign owner's understanding of their property rights and resale options.
 
@@ -7326,7 +7332,7 @@ The available evidence does not establish that Thai Visa Centre has caused a fai
 
 Nevertheless, its published advice could mislead owners about the legal marketability of property they already hold.
 
-### Recommended Corrections
+#### Recommended Corrections
 
 Thai Visa Centre should amend its condominium-rights guide to distinguish:
 
@@ -7340,7 +7346,7 @@ The company should also remove its categorical implication that a foreign owner 
 
 **TVC should reconcile its condominium-rights guide with its own dedicated condominium-selling guide, which already acknowledges that an existing foreign ownership allocation can pass to the next qualifying purchaser.**
 
-## Condominium Inheritance Guides Omit Land Department Ruling Protecting Foreign Heirs
+### Condominium Inheritance Guides Omit Land Department Ruling Protecting Foreign Heirs
 
 Thai Visa Centre's *Foreigner Making a Will in Thailand* guide, marked reviewed June 2026, warns that foreign beneficiaries must satisfy condominium foreign-ownership quotas and Foreign Exchange Transaction (FET) documentation requirements when inheriting property.[^314]
 
@@ -7350,7 +7356,7 @@ TVC's separate *Last Will and Testament Under Thai Law* guide similarly presents
 
 **These descriptions omit a significant Land Department interpretation recognizing that certain foreign heirs succeed to the deceased owner's existing condominium ownership rights.**
 
-### Land Department Recognizes Inherited Ownership Rights
+#### Land Department Recognizes Inherited Ownership Rights
 
 Section 19 of Thailand's Condominium Act B.E. 2522 (1979) establishes several categories of foreigners eligible to own condominium units, including persons who acquire property using qualifying foreign-currency remittances under Section 19(5).[^316]
 
@@ -7368,7 +7374,7 @@ This interpretation was examined by the Thai law firm Tilleke & Gibbins in its a
 
 The analysis confirms that heirs may succeed to the deceased owner's qualifying rights rather than necessarily establishing an entirely new foreign-currency-funded acquisition.
 
-### Foreign Ownership Quotas Still Apply
+#### Foreign Ownership Quotas Still Apply
 
 The Land Department's interpretation does not eliminate Thailand's condominium foreign-ownership restrictions.
 
@@ -7384,7 +7390,7 @@ Nevertheless, inheritance registration, evidence of the deceased owner's ownersh
 
 The government also identifies specific documentation for inherited property transfers, including death certificates, wills, heir identification, and condominium ownership records.[^319]
 
-### Foreign-Currency Requirements Are Not Automatically Repeated
+#### Foreign-Currency Requirements Are Not Automatically Repeated
 
 TVC's assertion that foreign heirs must satisfy FET requirements also fails to distinguish an ordinary condominium purchase from inheritance.
 
@@ -7398,7 +7404,7 @@ Evidence supporting the deceased owner's original qualification may remain relev
 
 TVC's guidance does not adequately explain this difference.
 
-### Financial Implications for Foreign Families
+#### Financial Implications for Foreign Families
 
 These omissions matter because condominiums often represent substantial portions of foreign residents' estates in Bangkok, Pattaya, Phuket, and other Thai property markets.
 
@@ -7414,6 +7420,23 @@ The available evidence does not establish that Thai Visa Centre has caused an in
 Nevertheless, the agency markets property-law referrals and succession-planning coordination while omitting a legally significant interpretation that directly affects the rights of foreign heirs.
 
 **Thai Visa Centre should update its condominium inheritance guidance to distinguish original purchase requirements, inherited Section 19(5) rights, foreign-ownership quota restrictions, and the circumstances in which mandatory disposal provisions actually apply.**
+
+### Distinguishing Four Condominium Acquisition Scenarios
+
+The requirements for a qualifying foreigner to acquire or retain a condominium depend on **how the person qualifies under the Condominium Act and how the unit changes hands**:
+
+1. **Purchase supported by qualifying overseas funds:** A foreign purchaser relying on Section 19(5) must supply the applicable evidence of foreign-currency remittances or other permitted transactions. The purchase remains subject to the building's foreign-ownership limit and ordinary registration requirements.[^249]
+2. **Purchase by a foreign permanent resident:** A qualifying permanent resident may rely on Section 19(1) and evidence of permanent residence rather than Section 19(5) remittance documentation; Thai-baht funds may be used. The foreign-ownership quota and other registration rules still apply.[^248][^249]
+3. **Foreign-to-foreign resale of an existing foreign-owned unit:** Replacing one qualifying foreign owner with another ordinarily does not consume *additional* foreign-owned floor area, even where the building's ordinary quota is fully allocated. The incoming buyer must nevertheless establish independent eligibility and satisfy Land Office documentation and verification requirements.[^382][^385]
+4. **Inheritance by a qualifying foreign heir:** The Land Department's published interpretation permits certain heirs to succeed to the deceased foreign owner's existing Section 19(5) rights without making a new purchase or automatically becoming subject to the one-year disposal rule. That interpretation does not dispense with applicable inheritance documentation, ownership limits, or examination of the particular circumstances.[^317][^319]
+
+**These are not interchangeable transactions.** An ordinary purchase's funding documentation should not automatically be imposed on permanent residents or qualifying heirs; likewise, a foreign-to-foreign resale should not be treated as an acquisition requiring a new, unused slice of the building's quota. None of these distinctions eliminates the need to verify lawful ownership and registration.
+
+### Commercial Significance of the Property Guidance Errors
+
+TVC markets professional property-law referrals, document reviews, and related assistance while publishing statements that could cause foreign buyers or heirs to misunderstand their rights or incur unnecessary steps or costs. The evidence establishes misleading public guidance, **not** that any specific customer paid unnecessary fees, lost property rights, or received incorrect individual advice.
+
+TVC should correct the source guides consistently: distinguish optional legal review from mandatory Land Office requirements, identify the narrow land-ownership exceptions, avoid presenting contingent lease renewals as a secured 90-year right, and explain the different condominium eligibility and transfer scenarios described above.
 
 ## Property Tax Guides Misstate Exemptions and Calculation Rules
 
