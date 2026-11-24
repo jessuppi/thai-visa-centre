@@ -86,6 +86,111 @@ The company also disclaims responsibility for inaccurate or falsified customer d
 
 **Checking whether documents satisfy application requirements is not the same as independently authenticating those documents.** The distinction is important because the company's promotional emphasis on comprehensive verification is considerably broader than the responsibility it accepts under its contract.
 
+## Paid Scripted Social Media Promotions and Singapore Consumer-Protection Law
+
+Issa Compass operates a commercial user-generated content (UGC) program that recruits individuals to produce and publish scripted promotional videos concerning Thailand's immigration requirements and the company's visa services.[^7]
+
+The program does not require participants to have an established audience. Its public recruitment page does not identify previous experience using Issa Compass as an eligibility condition, and the company offers the same compensation rates to newly created social media accounts.
+
+Issa Compass supplies scripts, tracks video performance, and compensates participants according to the number of views their content generates.
+
+### Financial Incentives for Mass Promotional Content
+
+Issa Compass advertises two alternative compensation schemes:
+
+| Video views | Milestone payment | Performance payment |
+| ---: | ---: | ---: |
+| 2,000 | $30 | $6 |
+| 10,000 | $75 | $30 |
+| 100,000 | $250 | $300 |
+| 1,000,000 | $2,000 | $1,600 |
+
+The performance-based scheme also offers a one-time $25 launch bonus when a creator's first qualifying video exceeds 2,000 views.
+
+Participants can publish unlimited videos, cross-post content to TikTok and Instagram, and receive compensation based on the better-performing platform.[^7]
+
+**The program financially incentivizes the widespread distribution of company-scripted visa promotions through individually operated social media accounts.**
+
+### Company-Scripted Content in a Personal Style
+
+Issa Compass provides participants with a library of prepared scripts and encourages them to film videos casually using their phones.
+
+The program does not require an established following or prior approval of individual videos before publication.
+
+Participants are therefore not necessarily existing Issa Compass customers sharing independent experiences. They may be individuals recruited specifically to deliver commercially prepared promotional messages in exchange for compensation.
+
+The publicly accessible recruitment page does not explain whether participants must prominently disclose their financial relationship with Issa Compass in every video.[^7]
+
+Although the company links to a separate creator agreement, its contents could not be independently reviewed.
+
+### Singapore Prohibits Misleading Commercial Endorsements
+
+Issa Compass operates partly through [Issara Platforms Pte. Ltd.](../companies/issara-platforms-pte-ltd.md), a Singapore-registered company.
+
+Section 4 of Singapore's Consumer Protection (Fair Trading) Act 2003 establishes that false claims and commercial representations or omissions capable of reasonably misleading consumers constitute unfair practices.[^8]
+
+**Presenting compensated promotional content as independent customer recommendations can constitute an unlawful unfair trade practice under Singapore law.**
+
+The geographical location of the advertised immigration services does not necessarily exclude Singapore's consumer-protection jurisdiction. Section 3 addresses transactions involving Singapore-resident suppliers or consumers, as well as offers or acceptances made in or sent from Singapore.
+
+Where the statutory requirements are satisfied, businesses cannot avoid consumer-protection obligations merely by distributing their advertisements through individually operated social media accounts.
+
+### Singapore Advertising Standards Require Sponsorship Disclosure
+
+The Advertising Standards Authority of Singapore (ASAS) introduced its Guidelines for Interactive Marketing Communication and Social Media in August 2016.[^9]
+
+These guidelines require marketers to distinguish commercial communications from independent personal opinions and editorial content.
+
+They specifically address:
+
+- Financial relationships between advertisers and endorsers.
+- Commercially produced content presented as impartial commentary.
+- Prominent and understandable sponsorship disclosures.
+- Marketers' responsibilities when exercising control over promotional content.
+- Fraudulent methods of artificially increasing social media engagement.
+
+**Issa Compass's use of individually operated accounts, company-provided scripts, and casual video formats does not remove the commercial nature of its paid promotional content.**
+
+These advertising standards complement Singapore's statutory consumer protections, although the advertising code itself is a self-regulatory framework rather than criminal legislation.
+
+### Singapore Took Enforcement Action Against Paid Fake Reviews in 2026
+
+On September 30, 2026, the Competition and Consumer Commission of Singapore (CCS) announced enforcement action against 45 businesses and a provider of fabricated online reviews.[^10]
+
+The investigation documented an operation involving prepared review content, paid contributors, automated content generation, and an online dashboard for managing promotional activity.
+
+The participating businesses had purchased reviews presented as genuine customer experiences despite those reviews not being authentic.
+
+Following regulatory intervention, the businesses committed to stopping the practice, removing fabricated reviews, and publishing public apologies for six months.
+
+**The enforcement action demonstrates that Singapore's consumer-protection authorities actively investigate commercial arrangements that manufacture apparently independent endorsements.**
+
+Issa Compass was not identified as a participant in that enforcement case. Its creator program is not necessarily equivalent to the fake-review operation investigated by CCS.
+
+Nevertheless, the case establishes the regulatory significance of concealing commercial relationships and manufacturing misleading customer endorsements.
+
+### Relevance to Reported Social Media Manipulation
+
+The creator program is particularly relevant to previously reported concerns about apparently independent social media recommendations promoting Issa Compass and [Thai Visa Centre](thai-visa-centre.md).
+
+Unlike allegations concerning unidentified promotional accounts, **the existence of Issa Compass's paid, scripted content-production program is directly established by the company's own published recruitment material.**
+
+The program provides a documented commercial mechanism through which large volumes of promotional content can be distributed by individually operated social media accounts, including newly created accounts without established audiences.
+
+This raises several important questions:
+
+- Does Issa Compass require prominent sponsorship disclosures in every promotional video?
+- Are creators permitted to describe personal visa experiences they have never actually had?
+- Are published videos monitored for misleading claims and undisclosed advertising?
+- Which registered company administers creator contracts and payments?
+- Are compensated recommendations subsequently presented as evidence of independent customer satisfaction?
+
+Paid creator marketing is not inherently unlawful. However, concealing compensation, fabricating customer experiences, or presenting company-scripted advertising as independent recommendations could violate Singapore's Consumer Protection (Fair Trading) Act.
+
+**Issa Compass should publicly explain how its financially incentivized content-production program complies with Singapore's advertising and consumer-protection requirements.**
+
+The available evidence establishes the existence of the commercial program, but does not yet establish that individual participants have published undisclosed advertisements or fabricated testimonials.
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -94,6 +199,11 @@ The company also disclaims responsibility for inaccurate or falsified customer d
 [^4]: `https://www.issacompass.com/insights/how-issa-compass-pre-qualification-supports-its-money-back-guarantee`
 [^5]: `https://www.issacompass.com/terms`
 [^6]: `https://www.issacompass.com/insights/document-pre-checks-approval-guarantees-and-expert-support-what-to-demand-from-a` — Issa Compass, *Document Pre-Checks, Money-Back Guarantees, and Expert Support*, updated October 17, 2026; identifies service-credit-only refunds as weak guarantees.
+
+[^7]: `https://www.issacompass.com/influencer` — Issa Compass UGC Program, including compensation schedules, company-provided scripts, creator eligibility, and social media publication arrangements; accessed November 24, 2026.
+[^8]: https://sso.agc.gov.sg/act/cpfta2003?ProvIds=P12- — Singapore Consumer Protection (Fair Trading) Act 2003, particularly Sections 3 and 4. See also https://www.ccs.gov.sg/resources/faqs/consumer-protection/ for the regulator's explanation of unfair practices.
+[^9]: https://asas.org.sg/About/Social-Media — Advertising Standards Authority of Singapore, Guidelines for Interactive Marketing Communication and Social Media, effective August 29, 2016, particularly Sections 3.1 and 3.5.
+[^10]: https://www.ccs.gov.sg/media-and-events/newsroom/announcements-and-media-releases/ccs-takes-action-against-45-businesses-and-a-fake-review-provider-for-fabricating-online-reviews/ — Competition and Consumer Commission of Singapore, September 30, 2026 enforcement announcement concerning fabricated online reviews.
 
 ## Additional Sources
 
