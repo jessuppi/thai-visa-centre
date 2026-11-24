@@ -143,6 +143,40 @@ The repetition indicates that AGENTS and Thai Visa Centre use substantially simi
 
 The published documents warrant scrutiny of contractual transparency, consumer protections, and data-processing responsibilities. They do not independently establish improper fee collection, unauthorized data sharing, or actual customer losses.
 
+## November 2026 Corrections to Previously Published Immigration Guidance
+
+The English-language homepage of `dtv.in.th`, displaying an update date of November 24, 2026, explicitly acknowledges several deficiencies in its previously published Destination Thailand Visa guidance.[^1]
+
+Among the acknowledged changes are:
+
+| Subject | Previous website guidance, as described by the operator | Revised guidance |
+| --- | --- | --- |
+| Employment documentation | Six months of salary slips | Documents specified by the current application checklist |
+| Company registration | Embassy-legalized corporate documentation | Not listed as a universal national requirement |
+| Spousal eligibility | Six months of residence in Thailand | Not listed as a national requirement |
+| Dependent finances | Dependents could avoid the financial qualification requirement | Financial evidence or sponsorship required for visa applications |
+| Extension fees | Potentially up to 10,000 baht | Visa issuance and extension fees are separate |
+
+The revised website distinguishes national application requirements from additional documentation that individual embassies and consulates may request. It also distinguishes dependent visa applications from the Bangkok immigration checklist for dependent extensions, which does not repeat the 500,000-baht requirement.[^1]
+
+### Revised Application Requirements
+
+The website also incorporates the government's August 2026 changes requiring evidence of permanent residence and criminal-record clearance for DTV applications submitted from August 31, 2026 onward.[^10][^11]
+
+These government changes should be distinguished from corrections to the website's earlier interpretation of existing requirements.
+
+### Relevance to Commercial Immigration Advice
+
+The corrections are significant because `dtv.in.th` simultaneously promotes Thai Visa Centre as a trusted specialist immigration agency and directs prospective applicants toward its commercial services.
+
+**The operator's own revised guidance acknowledges that its earlier publications contained requirements and fee information that were not supported by the relevant national documentation.**
+
+The revisions represent an improvement in the accuracy and transparency of the website's immigration guidance.
+
+However, the available material does not establish how long the earlier statements remained published, whether customers received commercial advice based on them, or whether affected applicants were subsequently notified.
+
+The corrections should therefore be preserved as part of the historical record without presenting the superseded guidance as information that remains currently published.
+
 ## References
 
 [^1]: `https://dtv.in.th/`
@@ -155,6 +189,9 @@ The published documents warrant scrutiny of contractual transparency, consumer p
 [^7]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-obligations-section-369-376/ — Civil and Commercial Code, Section 373.
 [^8]: https://www.pdpathailand.com/pdpa/content_eng/article6_eng.php — Personal Data Protection Act, Section 6.
 [^9]: `https://ltr.in.th/policy/refund` — Refund Policy, updated July 16, 2024.
+
+[^10]: https://consular.mfa.go.th/th/content/28-8-69-00 — Department of Consular Affairs, August 2026 announcement concerning revised DTV documentation requirements.
+[^11]: https://osaka.thaiembassy.org/en/content/announcement-updated-requirements-dtv — Royal Thai Consulate-General, Osaka, August 28, 2026.
 
 ### Additional Existing Sources
 
