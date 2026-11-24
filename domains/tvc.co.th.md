@@ -9422,7 +9422,13 @@ Thai Visa Centre should correct its civil litigation guide to explain Section 16
 
 Across these guides, TVC misstates court-registration and electronic-filing procedures, presents lawyers as mandatory, describes the appeal deadline as 30 days instead of one month, tells creditors they must wait for appeals to end before enforcing judgments, and says court fees are rarely recoverable.[^436][^440][^441][^446][^447][^489][^512][^513][^514] Several of the pages carry June 2026 review dates.
 
-## Notary Guide Omits Mandatory Specialist Registration for Notarial Services Attorneys
+## Misleading Document Authentication, Notarial Services, and Power-of-Attorney Requirements
+
+TVC's document-authentication and power-of-attorney guides misstate professional requirements in opposite directions. Its notary guidance omits the specialist registration required for formal notarial services, while its power-of-attorney guidance presents lawyer involvement as a prerequisite without explaining when individuals can complete the relevant documents and transactions directly.[^443][^450]
+
+These distinctions matter because preparing a legal authorization, certifying a signature or document, registering a property transfer, and legalizing documents for international use are separate procedures governed by different requirements. The forthcoming Apostille framework adds a further distinction between present and future international authentication procedures.[^444][^451][^452][^453][^454][^456][^457]
+
+### Notary Guide Omits Mandatory Specialist Registration for Notarial Services Attorneys
 
 Thai Visa Centre's *Notary Public in Thailand: Document Authentication Guide*, marked reviewed June 2026, provides incomplete and potentially misleading advice about the qualifications required to authenticate signatures and documents in Thailand.[^443]
 
@@ -9430,7 +9436,7 @@ The publication correctly explains that Thailand does not have a standalone nota
 
 However, it fails to identify Thailand's established system of specially trained and registered **Notarial Services Attorneys**, instead repeatedly presenting ordinary Thai lawyer licensing as the relevant qualification.
 
-### Incorrectly Treats Ordinary Lawyer Licensing as Sufficient
+#### Incorrectly Treats Ordinary Lawyer Licensing as Sufficient
 
 TVC's document-authentication instructions state:
 
@@ -9446,7 +9452,7 @@ It recommends verifying a lawyer's ordinary professional registration with the L
 
 Although lawyers may witness signatures or certify certain documents in other professional contexts, formal notarial services are subject to additional registration requirements.
 
-### Lawyers Council Regulations Establish a Specialist Qualification
+#### Lawyers Council Regulations Establish a Specialist Qualification
 
 Thailand's Lawyers Council maintains a separate regulatory system for lawyers authorized to certify signatures and documents as Notarial Services Attorneys.
 
@@ -9461,7 +9467,7 @@ The registration certificate is valid for three years, subject to renewal requir
 
 **An ordinary lawyer's professional licence does not, by itself, establish that the lawyer holds the specialist authorization required for formal notarial services.**
 
-### Requirements Were Reaffirmed in 2026
+#### Requirements Were Reaffirmed in 2026
 
 On March 9, 2026, the Lawyers Council announced amendments to its specialist training regulations.
 
@@ -9527,7 +9533,7 @@ Nevertheless, the omission remains relevant to readers consulting the publicatio
 
 Accurate guidance should explain both what applies today and the confirmed legal changes affecting customers' upcoming document submissions.
 
-### Misleading Customers About Document Authentication
+#### Misleading Customers About Document Authentication
 
 Foreigners commonly require authenticated documents for international banking, property transactions, immigration applications, corporate filings, and proceedings before foreign authorities.
 
@@ -9542,27 +9548,29 @@ The distinction also matters because formal notarial certification, Ministry of 
 A publication specifically advertising expertise in document authentication should not omit the professional credential central to the service it describes.
 
 
-## Power-of-Attorney Guide Invents Mandatory Lawyer Requirements for Property Transfers
+### Power-of-Attorney Guide Misrepresents Lawyer Requirements for Property Transfers
 
-Thai Visa Centre's *Power of Attorney in Thailand: Property, Court, and Corporate Uses*, marked reviewed June 2026, incorrectly claims that licensed Thai lawyers are required to prepare powers of attorney and complete property transfers.[^450]
+Thai Visa Centre's *Power of Attorney in Thailand: Property, Court, and Corporate Uses*, previously marked reviewed June 2026, presents lawyer involvement as a requirement for document preparation and binding legal work without adequately distinguishing optional advice from mandatory formalities.[^450]
 
 The publication repeatedly promotes lawyer involvement while failing to explain that individuals can execute valid powers of attorney themselves and generally conduct property transactions directly through Thailand's Department of Lands.
 
-### Falsely Claims Licensed Lawyers Are Mandatory
+#### Presents Licensed Lawyers as a Prerequisite
 
-The guide concludes with an explicit assertion:
+The earlier version of this investigation recorded the following statement from the guide:
 
 > POA drafting and property transfers require licensed Thai attorneys.
 
-Its recommended procedure similarly instructs readers to have a lawyer prepare the power of attorney, while its discussion of property transactions emphasizes retaining professional counsel.[^450]
+That exact sentence could not be reproduced in the accessible version checked on November 24, 2026, and should not be treated as a verified current quotation.
 
-**These statements misrepresent optional legal assistance as a mandatory requirement.**
+However, the accessible guide still directs readers to draft their power of attorney with Thai counsel as a step in its recommended procedure. It also says the subject requires licensed Thai advocates for binding legal work, recommends retaining counsel before filing at an amphoe or court, and advertises referrals to partner firms.[^450]
+
+**The guide still fails to distinguish optional legal assistance from the mandatory formalities applicable to the particular transaction.**
 
 A power of attorney is a legal authorization allowing one person to act on another person's behalf. It does not inherently require preparation by a lawyer.
 
 Likewise, transferring ownership of property involves registration with the competent Land Office, not a general requirement to retain a licensed attorney.
 
-### The Civil and Commercial Code Does Not Require Lawyer Preparation
+#### The Civil and Commercial Code Does Not Require Lawyer Preparation
 
 Sections 797 and 798 of Thailand's Civil and Commercial Code govern agency appointments and their formal requirements.[^451]
 
@@ -9576,7 +9584,7 @@ Section 801 further distinguishes ordinary management authority from special tra
 
 **The legal issue is whether the agent has valid authority in the required form, not whether a lawyer was paid to prepare the document.**
 
-### Thailand's Department of Lands Provides Official Forms
+#### Thailand's Department of Lands Provides Official Forms
 
 The Department of Lands publishes standardized power-of-attorney documents directly on its official website.
 
@@ -9592,7 +9600,7 @@ Property owners can complete the appropriate forms and follow the relevant ident
 
 Foreign-executed documents may require additional authentication, but these requirements do not establish mandatory lawyer involvement.
 
-### Thai Embassies Confirm Direct Execution Procedures
+#### Thai Embassies Confirm Direct Execution Procedures
 
 The Royal Thai Embassy in Canberra provides instructions and downloadable forms for individuals granting powers of attorney from overseas.
 
@@ -9604,7 +9612,7 @@ These procedures provide an official route for executing powers of attorney with
 
 The receiving Land Office ultimately determines whether the completed authorization satisfies its requirements.
 
-### Property Transfers Are Registered by Land Officials
+#### Property Transfers Are Registered by Land Officials
 
 Thailand's Board of Investment also publishes a procedural explanation of property registration.
 
@@ -9616,17 +9624,34 @@ The procedure does not prescribe mandatory representation by a licensed Thai law
 
 Qualified legal assistance may be advisable for complex transactions, disputed ownership, contractual risks, or due diligence. However, **professional advice being advisable does not make it legally compulsory**.
 
-### Misleading Customers About Paid Legal Services
+#### Misleading Customers About Paid Legal Services
 
-TVC's inaccurate statements could lead property owners and foreign residents to believe they must purchase legal services before preparing a power of attorney or transferring eligible property.
+TVC's broad instructions could lead property owners and foreign residents to believe they must purchase legal services before preparing a power of attorney or transferring eligible property.
 
-The publication also advertises referrals to Thai legal professionals, creating a direct commercial context for its claims about mandatory representation.
+The publication also advertises referrals to Thai legal professionals, creating a direct commercial context for its instructions concerning lawyer involvement.
 
 **Thai Visa Centre should correct its guide to distinguish mandatory legal formalities from optional professional assistance.**
 
 It should explain the Department of Lands' official forms, the applicable Civil and Commercial Code provisions, embassy authentication procedures, and the circumstances in which specialist legal advice is useful.
 
 Presenting optional lawyer involvement as a statutory requirement is particularly misleading in a guide supposedly intended to help foreigners understand their legal options.
+
+
+### Distinguishing Mandatory Formalities From Optional Legal Assistance
+
+| Procedure | Actual requirement |
+| --- | --- |
+| Preparing a power of attorney | Valid authorization in the required form, including specific authority where necessary; no general requirement for lawyer drafting.[^451][^452] |
+| Formal notarial certification | A lawyer holding the specialist Notarial Services Attorney registration where that form of certification is required.[^444][^445] |
+| Property ownership transfer | Compliance with ownership and transaction requirements and registration by the competent Land Office; no general requirement for lawyer representation.[^454] |
+| Overseas document execution | The applicable witnessing, consular authentication or legalization requirements of the receiving authority.[^453] |
+| Apostille certification | A forthcoming framework for eligible public documents between applicable countries, scheduled to take effect for Thailand on February 28, 2027, subject to the Convention's rules.[^456][^457] |
+
+### Commercial Significance for Customers
+
+The guides promote professional referrals but do not consistently explain which qualifications and formalities the relevant procedures actually require. A customer may therefore overlook a necessary specialist credential when seeking formal notarial certification or mistakenly believe that ordinary document preparation and property registration require private legal representation.
+
+TVC should distinguish the scope of each service, the receiving authority's requirements, and the circumstances in which professional assistance is useful or legally necessary. The published guidance establishes these risks of misunderstanding, not evidence that a particular customer incurred unnecessary costs or submitted an invalid document.
 
 
 ## Misleading Privacy Policies, Data Protection Responsibilities, and PDPA Compliance
