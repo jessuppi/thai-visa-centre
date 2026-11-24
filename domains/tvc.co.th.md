@@ -6384,7 +6384,13 @@ TVC promotes estate-planning coordination, legal-service referrals, and assistan
 
 TVC should correct the cited guides together, identify when lawyers and court procedures are genuinely needed, and disclose the government alternatives rather than leaving mutually reinforcing overstatements scattered across its publications.
 
-## Family-Law Guide Falsely Claims Marriage Registration Requires Licensed Thai Lawyers
+## Misleading Marriage, Prenuptial, and Divorce Requirements
+
+Thai Visa Centre publishes misleading and sometimes contradictory instructions concerning marriage registration, remarriage, prenuptial agreements, and divorce in Thailand. Across its family-law guides, the agency presents optional legal representation as mandatory, gives outdated or overly restrictive registration instructions, misstates statutory marriage conditions, and overlooks administrative procedures available to qualifying couples seeking an uncontested divorce.
+
+These are distinct legal requirements, but the recurring problem is that **TVC presents administrative procedures as more restrictive, expensive, or dependent on professional intervention than Thai law generally requires**. The inaccuracies are commercially relevant because the agency advertises marriage-related immigration assistance, certified translations, document preparation, and referrals to family-law professionals.
+
+### Family-Law Guide Falsely Claims Marriage Registration Requires Licensed Thai Lawyers
 
 Thai Visa Centre's *Contact a Thai Family Lawyer* guide, marked reviewed June 2026, incorrectly tells prospective spouses that marriage registration in Thailand requires licensed Thai family lawyers.[^475]
 
@@ -6396,7 +6402,7 @@ It repeats the assertion in its FAQ while advertising consultations and referral
 
 **The blanket claim misrepresents Thailand's ordinary marriage-registration procedures, which do not require couples to retain private lawyers.**
 
-### Government Permits Direct Marriage Registration
+#### Government Permits Direct Marriage Registration
 
 Thailand's Department of Provincial Administration publishes official instructions for registering marriages at district and municipal district offices. Eligible couples may apply directly to the registrar.[^476]
 
@@ -6414,7 +6420,7 @@ The registrar examines the documents and legal eligibility, records the marriage
 
 **The published government procedure does not identify licensed legal counsel as a mandatory participant in ordinary marriage registration.**
 
-### Marriage Registration Is Free at District Offices
+#### Marriage Registration Is Free at District Offices
 
 The Department of Provincial Administration explicitly states that registering a marriage at a district registration office carries **no government registration fee**.[^476]
 
@@ -6424,7 +6430,7 @@ Foreign couples may also incur costs for translations, document authentication, 
 
 **A couple satisfying the applicable statutory and documentary requirements can register their marriage without purchasing private legal representation.**
 
-### TVC Confuses Administrative Registration With Legal Disputes
+#### TVC Confuses Administrative Registration With Legal Disputes
 
 Marriage registration, prenuptial agreements, contested divorce, and child-custody litigation are legally distinct procedures.
 
@@ -6436,7 +6442,7 @@ The distinction matters because the agency advertises assistance with marriage d
 
 **Offering those services does not establish that licensed Thai lawyers are legally required to register marriages.**
 
-### Misleading International Couples About Costs
+#### Misleading International Couples About Costs
 
 TVC's statements could lead couples to believe they cannot legally marry in Thailand without hiring a private family lawyer.
 
@@ -6449,7 +6455,7 @@ The available evidence does not establish that TVC charged individual couples un
 It should disclose the government's free in-office registration procedure and distinguish optional professional assistance from genuine statutory requirements.
 
 
-## American Marriage Guide Ignores 2026 Registration Rules and Embassy Affidavit Changes
+### American Marriage Guide Ignores 2026 Registration Rules and Embassy Affidavit Changes
 
 Thai Visa Centre's *How US Citizens Get Married in Thailand*, marked reviewed June 2026, gives American couples categorical instructions about obtaining an Affirmation of Freedom to Marry from the U.S. Embassy in Bangkok.
 
@@ -6463,7 +6469,7 @@ It further warns:
 
 **These instructions fail to reflect Thailand's May 2026 civil-registration guidance and the U.S. Embassy's documented effort to replace its marriage-affidavit procedure.**
 
-### Thailand's May 2026 Circular Does Not Universally Require Embassy-Issued Evidence
+#### Thailand's May 2026 Circular Does Not Universally Require Embassy-Issued Evidence
 
 On May 22, 2026, Thailand's Department of Provincial Administration issued Circular มท 0309.3/ว15381 concerning measures to prevent fraudulent marriage registration.[^509]
 
@@ -6481,7 +6487,7 @@ The precise documents accepted may depend on the foreign applicant's nationality
 
 It means the embassy-only requirement cannot accurately be presented as universal.
 
-### U.S. Embassy Announced Plans to Discontinue Marriage Affidavits
+#### U.S. Embassy Announced Plans to Discontinue Marriage Affidavits
 
 The U.S. Embassy had already identified problems with the traditional affidavit procedure.
 
@@ -6499,7 +6505,7 @@ The proposed letter would explain that the U.S. government does not issue the ty
 
 The diplomatic correspondence does not establish that notarization had permanently ceased by June 2026. It establishes that the Embassy had formally announced plans to discontinue the practice and that Thai authorities were already considering alternatives.
 
-### Embassy Notarization Does Not Independently Verify Marital Status
+#### Embassy Notarization Does Not Independently Verify Marital Status
 
 TVC states:
 
@@ -6519,7 +6525,7 @@ U.S. Department of State guidance similarly distinguishes the documentation and 
 
 That distinction is especially important in a process designed to prevent fraudulent or bigamous marriages.
 
-### The Problem Extends Beyond One Guide
+#### The Problem Extends Beyond One Guide
 
 TVC's general marriage-registration publications repeatedly present a fixed sequence involving an embassy affirmation, Thai translation, MFA legalization, and district-office registration.
 
@@ -6531,7 +6537,7 @@ TVC's American-specific guide goes further by insisting that no Thai district of
 
 That categorical assertion is not justified by the government's published guidance.
 
-### Potential Consequences for American Couples
+#### Potential Consequences for American Couples
 
 Americans planning marriages in Thailand may rely on TVC to coordinate embassy appointments, translations, legalization, and district-office registration.
 
@@ -6547,7 +6553,7 @@ The available evidence does not establish that TVC charged particular customers 
 
 It establishes that the agency publishes categorical instructions inconsistent with the government's more flexible documentary framework and omits substantial diplomatic developments affecting Americans seeking marriage registration.
 
-### Required Corrections
+#### Required Corrections
 
 Thai Visa Centre should revise its American marriage guide to acknowledge the May 22, 2026 Department of Provincial Administration circular.
 
@@ -6559,7 +6565,7 @@ Finally, it should clarify that notarizing a self-sworn declaration is not equiv
 
 **An agency claiming to coordinate American marriage registration daily should not insist that a particular embassy document is universally mandatory when Thailand's own registration authority has issued broader instructions and the Embassy has formally sought to replace that procedure.**
 
-## Remarriage FAQ Denies Statutory Waiting Period and Uses Obsolete Marriage Age
+### Remarriage FAQ Denies Statutory Waiting Period and Uses Obsolete Marriage Age
 
 Thai Visa Centre's FAQ *Divorcee Getting Married in Thailand*, marked reviewed June 2026, incorrectly tells foreign customers that Thai law imposes no waiting period after divorce.[^241]
 
@@ -6571,7 +6577,7 @@ It also describes marriage as available from age 17 with parental consent.
 
 **Both statements conflict with Thailand's Civil and Commercial Code as amended by the Marriage Equality Act, effective January 23, 2025.**
 
-### Section 1453 Retains a 310-Day Remarriage Restriction
+#### Section 1453 Retains a 310-Day Remarriage Restriction
 
 Section 1453 establishes a 310-day waiting period for women remarrying men following the termination of a previous marriage, subject to four statutory exceptions:[^242]
 
@@ -6586,7 +6592,7 @@ Thailand's Government Public Relations Department confirmed the continuing 310-d
 
 **TVC's assurance that no statutory waiting period exists is therefore incorrect for applicants covered by Section 1453.**
 
-### TVC's Own Separate FAQ Explains the Rule Correctly
+#### TVC's Own Separate FAQ Explains the Rule Correctly
 
 The contradiction is particularly clear because TVC publishes another FAQ titled *Waiting Period After Divorce - Remarriage in Thailand*.[^244]
 
@@ -6598,7 +6604,7 @@ Both FAQs claim to reflect June 2026 requirements, yet they provide opposite ans
 
 The incorrect FAQ further provides a suggested 10–14-day remarriage timeline without incorporating the applicable waiting-period requirements.
 
-### Marriage Age Was Raised to 18 in January 2025
+#### Marriage Age Was Raised to 18 in January 2025
 
 The incorrect FAQ also describes the ordinary marriage-age threshold as 17 with parental consent.[^241]
 
@@ -6612,7 +6618,7 @@ Separate consent requirements may still apply to persons aged 18 or 19.
 
 **TVC therefore continues publishing pre-2025 marriage-age guidance in materials claiming to explain current registration requirements.**
 
-### Consequences for Customers
+#### Consequences for Customers
 
 These discrepancies matter because TVC advertises marriage-document preparation, embassy coordination, district-office registration, and immigration assistance.
 
@@ -6626,7 +6632,7 @@ Nevertheless, the company presents contradictory legal instructions while advert
 
 TVC should correct its remarriage FAQ, identify the scope and exceptions of Section 1453, update its minimum-age guidance, and reconcile its published marriage-registration instructions.
 
-## Family-Law Guide Misstates Prenuptial Registration Timing
+### Family-Law Guide Misstates Prenuptial Registration Timing
 
 Thai Visa Centre's *Thailand Family Law Questions – Marriage, Divorce, and Visas* guide, marked reviewed June 2026, advises couples that a prenuptial agreement must be registered at the same district office as their marriage and completed before the wedding day.[^331]
 
@@ -6634,7 +6640,7 @@ The guidance repeats this requirement in its family-property overview.
 
 **This wording confuses preparing a prenuptial agreement before marriage with the legally required registration of its terms at the time of marriage registration.**
 
-### Civil and Commercial Code Requires Registration at Marriage
+#### Civil and Commercial Code Requires Registration at Marriage
 
 Section 1466 of Thailand's Civil and Commercial Code establishes two methods for recording a valid prenuptial agreement.[^332]
 
@@ -6651,7 +6657,7 @@ Indeed, an agreement prepared beforehand without the prescribed registration for
 
 **The legally significant deadline is the registration of the marriage, not the preceding calendar day.**
 
-### TVC's Specialist Guide Gives Different Instructions
+#### TVC's Specialist Guide Gives Different Instructions
 
 The inconsistency is particularly apparent in Thai Visa Centre's dedicated *Prenuptial Agreements in Thailand* guide.[^333]
 
@@ -6669,7 +6675,7 @@ Preparing an agreement in advance is prudent, particularly when substantial asse
 However, the timing of preparation must not be confused with the statutory registration requirement.
 
 
-### Prenuptial Agreement Guides Falsely Claim Licensed Thai Lawyers Are Mandatory
+#### Prenuptial Agreement Guides Falsely Claim Licensed Thai Lawyers Are Mandatory
 
 Thai Visa Centre also incorrectly tells couples that licensed Thai lawyers are legally required for prenuptial agreements.
 
@@ -6683,7 +6689,7 @@ TVC's dedicated *Prenuptial Agreement in Thailand* guide repeatedly recommends d
 
 **These statements portray optional legal assistance as a mandatory prerequisite to an enforceable prenuptial agreement.**
 
-#### Section 1466 Does Not Require Legal Representation
+##### Section 1466 Does Not Require Legal Representation
 
 As explained above, Section 1466 of Thailand's Civil and Commercial Code identifies two ways to satisfy the registration formalities: record the prenuptial terms in the marriage register at marriage registration, or annex a written agreement signed by the parties and at least two witnesses and record that annexation at the same time.[^332]
 
@@ -6691,7 +6697,7 @@ Neither route imposes a blanket requirement that a licensed lawyer draft, approv
 
 The legal requirements concern the agreement's permissible content and the prescribed execution and registration formalities, not the occupational status of a person helping the couple prepare it.
 
-#### Government Procedures Allow Couples to Present Agreements Directly
+##### Government Procedures Allow Couples to Present Agreements Directly
 
 Thailand's Department of Provincial Administration includes a prenuptial agreement, *if any*, among the documents couples may bring to a district office when registering their marriage.[^469]
 
@@ -6701,7 +6707,7 @@ Couples must still comply with the legal requirements for valid terms, execution
 
 **The government process does not require couples to hire a private lawyer merely to present and register an otherwise valid prenuptial agreement.**
 
-#### Optional Advice Is Not a Statutory Requirement
+##### Optional Advice Is Not a Statutory Requirement
 
 Independent legal advice may be especially valuable when a prenuptial agreement affects valuable property, business ownership, overseas assets, or competing national laws. Separate counsel can help each party understand the agreement and reduce the risk of future disputes.
 
@@ -6713,7 +6719,7 @@ The available evidence does not establish that TVC charged any particular couple
 
 **Thai Visa Centre should remove its blanket mandatory-lawyer claim, explain the registration methods recognized by Section 1466, and distinguish optional legal drafting and independent advice from compulsory statutory formalities.**
 
-### Financial Consequences for International Couples
+#### Financial Consequences for International Couples
 
 Prenuptial agreements may govern significant property interests, including condominium ownership, business shares, investment accounts, and the management of marital assets.
 
@@ -6732,7 +6738,7 @@ Nevertheless, its conflicting instructions concern a legally significant propert
 
 **TVC should correct its family-law overview to explain that prenuptial terms must be recorded simultaneously with marriage registration, distinguish advance preparation from official registration, and reconcile the instructions across its published guides.**
 
-## Divorce Guides Incorrectly Require Joint Attendance and Misstate Court Procedures
+### Divorce Guides Incorrectly Require Joint Attendance and Misstate Court Procedures
 
 Thai Visa Centre's *Divorce in Thailand: Amphoe and Family Court Options for Foreigners* guide, marked reviewed June 2026, repeatedly instructs couples that both spouses must attend the same district office to register a divorce by mutual consent.[^346]
 
@@ -6744,7 +6750,7 @@ TVC's separate *Thailand Divorce FAQs* and *Uncontested Divorce in Thailand* gui
 
 **These instructions omit an established government procedure allowing mutually consenting spouses to register their divorce at separate registry offices, including qualifying cases involving different countries.**
 
-### Government Expressly Permits Divorce Registration at Different Offices
+#### Government Expressly Permits Divorce Registration at Different Offices
 
 Thailand's Bureau of Registration Administration, under the Department of Provincial Administration, publishes official instructions for registering divorce.[^348]
 
@@ -6769,7 +6775,7 @@ Both spouses must still participate in the legally prescribed registration proce
 
 However, they are not categorically required to appear together at the same office.
 
-### Thai Embassy Confirms Cross-Border Registration
+#### Thai Embassy Confirms Cross-Border Registration
 
 The Royal Thai Embassy in Washington publishes separate instructions for divorces registered at different registrar offices.[^349]
 
@@ -6792,7 +6798,7 @@ This is an important limitation: a divorce validly registered under Thai procedu
 
 **Nevertheless, the embassy's published procedure directly contradicts TVC's categorical suggestion that spouses unable to attend the same office must obtain a contested Thai court divorce.**
 
-### Couples Do Not Have to Return to Their Original Marriage District
+#### Couples Do Not Have to Return to Their Original Marriage District
 
 TVC's general divorce guide also suggests that couples should normally register their divorce at the district where they originally married.
 
@@ -6808,7 +6814,7 @@ Nevertheless, those practical arrangements do not establish a general legal requ
 
 TVC should distinguish obtaining historical marriage-registration documents from choosing an authorized office to register a divorce.
 
-### Separate Guide Misidentifies the Governing Civil Code Section
+#### Separate Guide Misidentifies the Governing Civil Code Section
 
 The problems extend to TVC's *Thai Divorce Law: Grounds, Property Division, and Court Procedure* guide.[^351]
 
@@ -6828,7 +6834,7 @@ Indeed, TVC's separate contested-divorce guide correctly identifies Section 1516
 
 The inconsistent citations reinforce a broader failure to distinguish consensual administrative registration from litigation involving contested divorce.
 
-### Civil Registration Is Not Administered by the Judiciary
+#### Civil Registration Is Not Administered by the Judiciary
 
 TVC's general divorce guide also describes district-office divorce registration as operating under the Office of the Judiciary's civil-registration system.[^346]
 
@@ -6840,7 +6846,7 @@ The Office of the Judiciary has a separate role in proceedings requiring judicia
 
 Confusing the responsible authorities can make already complicated family-law procedures harder for foreign residents to navigate.
 
-### Financial and Immigration Consequences
+#### Financial and Immigration Consequences
 
 These errors matter particularly for Thai-foreign couples living in different provinces or countries.
 
@@ -6859,7 +6865,7 @@ Nor does the separate-office procedure apply automatically in every internationa
 
 Nevertheless, **TVC repeatedly presents joint attendance and contested litigation as mandatory alternatives while omitting an established administrative procedure expressly recognized by Thai government authorities.**
 
-### Recommended Corrections
+#### Recommended Corrections
 
 Thai Visa Centre should revise its divorce publications to:
 
@@ -6872,6 +6878,13 @@ Thai Visa Centre should revise its divorce publications to:
 
 These corrections would provide materially more accurate information to couples making significant legal, financial, and immigration decisions.
 
+### Commercial Significance for International Couples
+
+TVC's guidance does not consistently distinguish ordinary civil registration from contested legal proceedings or optional professional advice from compulsory statutory requirements. Eligible couples can pursue administrative marriage registration directly, while requirements for remarriage, prenuptial registration, and consensual divorce depend on the applicable law and the couple's circumstances. A lawyer may be useful for complex documents, disputed rights, or litigation without being a universal prerequisite for straightforward registry procedures.
+
+The difference matters especially for cross-border couples: registration under Thai law does not automatically settle whether another country will recognize a marriage, divorce, or related documentation for immigration or other purposes. Embassy practices, eligibility for separate-office or consular registration, and foreign recognition must be assessed separately rather than assumed.
+
+**Taken together, the five findings could cause couples to misunderstand their legal options or purchase unnecessary assistance, but they do not establish that TVC actually charged any particular customer unnecessary fees, caused failed registrations, or directed customers into avoidable litigation.** The agency should reconcile the source guides and clearly distinguish mandatory formalities, permitted administrative alternatives, and circumstances warranting specialist legal advice.
 
 ## Misleading Foreign Property Ownership, Leasehold, and Condominium Transfer Requirements
 
