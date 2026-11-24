@@ -20,6 +20,24 @@ A THNIC WHOIS record dated October 24, 2026 also identifies AGENTS CO., LTD. as 
 
 The company's website describes 90day.in.th as an immigration reporting service and identifies [asq.in.th](../domains/asq.in.th.md) as its Ask Thailand community platform.[^4]
 
+## Expansion Into Wholesale Telecommunications and Conflicting Corporate Identities
+
+In 2025, AGENTS CO., LTD. expanded into wholesale telecommunications through [esim.agents.co.th](../domains/esim.agents.co.th.md), a platform supplying electronic SIM cards to hotels, travel agencies, tour operators, and other businesses serving international travelers.
+
+The platform advertises partner margins of 60%, automated eSIM issuance within two seconds, and direct relationships with Thai telecommunications operators.[^10][^14]
+
+Although the website displays AGENTS CO., LTD.'s corporate registration number and travel-business licence 11/10602, its Terms of Service and Privacy Policy identify a different company, **eSIM Agents Co., Ltd.**[^14][^15][^16]
+
+The Privacy Policy expressly describes eSIM Agents Co., Ltd. as a registered Thai company and the responsible data controller. However, the reviewed documents provide no separate corporate registration number for that entity.
+
+This discrepancy is particularly consequential because the platform accepts prepaid wholesale customer deposits and collects corporate registration documents and identity documents from authorized business representatives.
+
+The platform also claims compliance with Thai telecommunications regulations, although its published documentation does not clearly identify the licensing arrangements or division of responsibility for individual subscriber verification.
+
+**The conflicting corporate identities extend the legal-accountability concerns documented across AGENTS' immigration platforms into its telecommunications business.**
+
+The available evidence does not establish that the platform operates without required authorization or that eSIM Agents Co., Ltd. is an unregistered company. It does establish uncertainty concerning which legal entity receives customer funds, controls personal information, and assumes contractual and regulatory responsibilities.
+
 ## Contradictory Corporate History
 
 Thai Visa Centre's official website describes AGENTS CO., LTD. as its digital subsidiary and claims the company was **originally registered during COVID-19** to develop hotel-booking systems for Thailand's Alternative State Quarantine (ASQ) program.[^8]
@@ -66,6 +84,8 @@ However, AGENTS does not provide a government announcement, formal partnership a
 
 **Acceptance of a hotel reservation during Thailand Pass registration is not, by itself, evidence that the booking platform received official government accreditation or special processing privileges.**
 
+The detailed [AQ.in.th investigation](../domains/aq.in.th.md) further documents the company's historical use of travel-business licence 11/10602 and distinguishes hotel-reservation authentication from government application approval. The same licence now appears on its wholesale eSIM platform, establishing continuity in the company's published commercial credentials across substantially different business activities.
+
 ### Relevance to Current Immigration Services
 
 These historical claims now form part of the credibility narrative behind AGENTS CO., LTD.'s commercial TDAC platform, 90-day reporting services, and other immigration-related websites.
@@ -89,3 +109,6 @@ The documented incorporation-date contradiction, retroactive community milestone
 [^11]: `https://asq.in.th/question/what-does-the-acquisition-of-the-thai-visa-advice-group-by-thai-visa-centre-mean-for-its-members-1`
 [^12]: https://www.mfa.go.th/en/content/thailand-pass-faqs
 [^13]: `https://thethaiger.com/travel/thailand-travel/apply-for-your-tdac-early-today-with-agents`
+[^14]: `https://esim.agents.co.th/`
+[^15]: `https://esim.agents.co.th/terms`
+[^16]: `https://esim.agents.co.th/privacy`
