@@ -9595,13 +9595,19 @@ It should explain the Department of Lands' official forms, the applicable Civil 
 Presenting optional lawyer involvement as a statutory requirement is particularly misleading in a guide supposedly intended to help foreigners understand their legal options.
 
 
-## PDPA Guide Falsely Claims Privacy Compliance Requires Licensed Thai Lawyers
+## Misleading Privacy Policies, Data Protection Responsibilities, and PDPA Compliance
+
+Thai Visa Centre publishes conflicting and incomplete guidance concerning legal representation for privacy compliance, eligibility of younger customers to submit personal data, and the responsibilities of organizations that collect and process customer information. Its own policies also raise unresolved questions about retention, indirect collection, immigration documents, and rights claimed over submitted material.
+
+These issues involve different provisions of Thailand's Personal Data Protection Act (PDPA) and different contractual documents. **The common problem is that TVC advertises services handling confidential immigration information and professional privacy-related assistance while its public guidance does not consistently explain the agency's obligations or customers' rights.** The findings below distinguish contradictions in published terms from evidence of actual misuse of personal information.
+
+### PDPA Guide Falsely Claims Privacy Compliance Requires Licensed Thai Lawyers
 
 Thai Visa Centre's *PDPA Consulting and Training in Thailand*, marked reviewed June 2026, incorrectly presents licensed Thai legal representation as a mandatory requirement for complying with Thailand's Personal Data Protection Act.[^458]
 
 The claim misrepresents who is responsible for privacy compliance and potentially encourages businesses to purchase professional legal services they are not generally required to obtain.
 
-### Explicitly Claims Licensed Lawyers Are Required
+#### Explicitly Claims Licensed Lawyers Are Required
 
 The guide concludes:
 
@@ -9617,7 +9623,7 @@ Qualified legal advice can be valuable when interpreting complicated statutory o
 
 However, the practical advantages of legal assistance do not establish a general legal requirement to retain a lawyer.
 
-### The PDPA Assigns Compliance Duties to Organizations
+#### The PDPA Assigns Compliance Duties to Organizations
 
 Thailand's Personal Data Protection Act B.E. 2562 (2019) expressly identifies the persons and organizations responsible for compliance.
 
@@ -9633,7 +9639,7 @@ Companies may implement appropriate policies through their management, informati
 
 The legal obligation concerns compliance with the statute, not purchasing a particular category of professional services.
 
-### Data Protection Officers Are Not Required to Be Lawyers
+#### Data Protection Officers Are Not Required to Be Lawyers
 
 Section 41 establishes circumstances in which data controllers and processors must designate a Data Protection Officer (DPO).
 
@@ -9649,7 +9655,7 @@ On November 17, 2026, Thailand's Personal Data Protection Committee opened publi
 
 These are proposed DPO qualifications, not requirements currently in force. The listed criteria do not include a Thai lawyer's licence. They concern the qualifications of a Data Protection Officer where an organization must appoint one; they do not turn ordinary PDPA compliance work into a service that only lawyers may perform.
 
-### Misleading Businesses About Compliance Costs
+#### Misleading Businesses About Compliance Costs
 
 TVC's assertion could lead employers, website operators, and foreign-owned businesses to believe they must retain lawyers before implementing ordinary privacy protections.
 
@@ -9661,7 +9667,7 @@ Indeed, TVC's own guide correctly acknowledges that publishing a privacy policy 
 
 Yet its concluding assertion about mandatory licensed attorneys incorrectly converts a broader organizational responsibility into an apparent professional-services requirement.
 
-### Commercial Referrals and Editorial Accuracy
+#### Commercial Referrals and Editorial Accuracy
 
 Thai Visa Centre advertises referrals to licensed legal professionals while publishing compliance guidance for prospective business customers.
 
@@ -9676,7 +9682,7 @@ The guide should distinguish statutory DPO appointment requirements, optional le
 A business promoting professional legal referrals should not present optional legal services as universally mandatory under Thai law.
 
 
-## TVC's Age Requirements Contradict Its Own Privacy Policy
+### TVC's Age Requirements Contradict Its Own Privacy Policy
 
 Thai Visa Centre publishes conflicting eligibility requirements in its Terms & Conditions and Privacy Policy, both updated February 9, 2025.[^519][^520]
 
@@ -9686,7 +9692,7 @@ However, the Privacy Policy's *Privacy of Children* section instructs individual
 
 **TVC therefore permits 16- to 19-year-olds to use its services while simultaneously instructing them not to provide the personal information necessary to obtain many of those services.**
 
-### Thailand's PDPA Does Not Establish a Universal Prohibition
+#### Thailand's PDPA Does Not Establish a Universal Prohibition
 
 Section 20 of Thailand's Personal Data Protection Act establishes specific rules for obtaining consent involving minors.[^459]
 
@@ -9696,7 +9702,7 @@ The law does not establish a universal prohibition against collecting informatio
 
 Indeed, TVC's own Privacy Policy acknowledges that parents may submit their children's information when applying for immigration services.
 
-### Conflicting Instructions for Customers and Families
+#### Conflicting Instructions for Customers and Families
 
 The company's published policies fail to distinguish clearly between:
 
@@ -9715,7 +9721,7 @@ It establishes that the company's published contractual and privacy requirements
 
 Thai Visa Centre should reconcile its minimum service age with its personal-information submission rules and explain how parental authorization and applications involving minors are handled under Thailand's PDPA.
 
-## TVC's Privacy Policy Incorrectly Assigns Data Controller Responsibilities to Customers
+### TVC's Privacy Policy Incorrectly Assigns Data Controller Responsibilities to Customers
 
 Thai Visa Centre's Privacy Policy, updated February 9, 2025, incorrectly describes the legal relationship between the company and customers submitting personal information through its website.[^520]
 
@@ -9725,7 +9731,7 @@ Under *Use and Processing of Collected Information*, the policy states:
 
 The same passage claims that TVC acts merely as a data processor when users submit personal information through its services, because the company supposedly does not control that information.
 
-### Thailand's PDPA Establishes Different Legal Responsibilities
+#### Thailand's PDPA Establishes Different Legal Responsibilities
 
 Section 6 of Thailand's Personal Data Protection Act defines a **data controller** as the person or organization responsible for deciding how personal information is collected, used, or disclosed.
 
@@ -9737,7 +9743,7 @@ Ordinary visa applicants supplying their personal details are generally data sub
 
 Different arrangements may apply where a business customer supplies information about other individuals under a genuine controller-processor relationship. However, TVC's broad statement does not explain that distinction.
 
-### TVC's Own Policy Contradicts Its Processor Classification
+#### TVC's Own Policy Contradicts Its Processor Classification
 
 Elsewhere, the Privacy Policy explicitly states that TVC determines the purposes and methods of processing information necessary for access to its services.
 
@@ -9752,7 +9758,7 @@ These activities demonstrate that TVC determines at least some purposes for proc
 
 **The company cannot accurately characterize every customer submitting personal information as its data controller while simultaneously describing independent decisions about how that information is used.**
 
-### Published Privacy Policies Omit Required Retention and Data-Subject Rights Information
+#### Published Privacy Policies Omit Required Retention and Data-Subject Rights Information
 
 Thai Visa Centre's published Privacy Policy describes the personal information it collects and identifies various purposes for processing that information. However, it omits important disclosures expressly required by Thailand's Personal Data Protection Act.[^520]
 
@@ -9770,7 +9776,7 @@ The document also fails to explain the full range of statutory data-subject righ
 
 Although the introduction mentions accessing and updating information, and the policy separately discusses deletion requests involving children, these limited references do not adequately explain the broader rights established by the PDPA.
 
-### Privacy Policy Permits Collection From Unidentified Marketing Partners
+#### Privacy Policy Permits Collection From Unidentified Marketing Partners
 
 Thai Visa Centre's Privacy Policy expressly permits the company to collect personal information from sources other than its customers.[^520]
 
@@ -9783,7 +9789,7 @@ Under *Collection of Personal Information*, the company identifies two additiona
 
 This disclosure deserves scrutiny because it potentially extends TVC's information collection beyond individuals who knowingly contact the agency or submit immigration applications.
 
-### Thailand's PDPA Restricts Indirect Collection
+#### Thailand's PDPA Restricts Indirect Collection
 
 Section 25 of Thailand's Personal Data Protection Act specifically regulates collecting personal information from sources other than the data subject.[^459]
 
@@ -9799,7 +9805,7 @@ TVC's published Privacy Policy does not explain how it satisfies these requireme
 
 Nor does it distinguish information collected for an existing immigration-service relationship from information acquired for marketing or customer acquisition.
 
-### The Disclosure Leaves Important Questions Unanswered
+#### The Disclosure Leaves Important Questions Unanswered
 
 The company's published wording raises several questions:
 
@@ -9819,7 +9825,7 @@ What is established is that the company expressly contemplates indirect collecti
 
 For an immigration business handling identity and financial records, **unidentified marketing partnerships should not obscure where personal information originates or which organization is accountable for collecting it lawfully**.
 
-### Privacy Policy Omits Passport and Financial Documents Requested From Customers
+#### Privacy Policy Omits Passport and Financial Documents Requested From Customers
 
 Thai Visa Centre's Privacy Policy describes the personal information it collects using three general categories:
 
@@ -9840,7 +9846,7 @@ The guide also explicitly describes a document-upload stage during which custome
 
 **None of these immigration-specific document categories is explicitly identified in TVC's published Privacy Policy.**
 
-### Terms & Conditions Authorize Additional Financial Documentation
+#### Terms & Conditions Authorize Additional Financial Documentation
 
 TVC's Terms & Conditions introduce another category of potentially sensitive customer records.
 
@@ -9860,7 +9866,7 @@ It establishes that **TVC's public-facing Privacy Policy does not adequately des
 
 Thai Visa Centre should reconcile its privacy disclosures with its actual document-collection procedures, including the purposes, retention standards, and responsible legal entity for handling immigration and financial records.
 
-### Disclaimer Claims Perpetual Publication Rights Over Submitted Information
+#### Disclaimer Claims Perpetual Publication Rights Over Submitted Information
 
 Thai Visa Centre's published Disclaimer contains an extraordinarily broad provision granting the agency rights over information submitted through its website or otherwise provided to the company.[^518]
 
@@ -9868,7 +9874,7 @@ Under *Content and postings*, the company claims an **unlimited, perpetual right
 
 **The provision does not expressly exclude confidential customer records, passport documents, immigration applications, or financial information.**
 
-### The Agency Requests Confidential Immigration Documents
+#### The Agency Requests Confidential Immigration Documents
 
 Thai Visa Centre's own consultation instructions ask prospective customers to submit passport copies, visa stamps, immigration refusal notices, and supporting financial or employment records.[^522]
 
@@ -9880,7 +9886,7 @@ Although the disputed provision appears under a heading concerning website conte
 
 The available evidence does not establish that TVC has actually published private immigration documents under this clause.
 
-### Perpetual Publication Rights Conflict With Privacy Protections
+#### Perpetual Publication Rights Conflict With Privacy Protections
 
 Thailand's Personal Data Protection Act imposes restrictions on collecting, using, and disclosing personal information.
 
@@ -9894,7 +9900,7 @@ TVC's Privacy Policy separately describes its commitment to safeguarding custome
 
 However, neither document clearly reconciles those assurances with the Disclaimer's unlimited, perpetual publication language.
 
-### The Agency Must Clarify What Information Is Excluded
+#### The Agency Must Clarify What Information Is Excluded
 
 Thai Visa Centre should explain whether its publication rights apply solely to voluntary public comments, testimonials, and other material expressly intended for publication.
 
@@ -9904,7 +9910,7 @@ It should also explicitly exclude confidential customer documents and personal i
 
 The documented problem is the breadth and ambiguity of TVC's contractual language, not proof that confidential customer information has already been improperly disclosed.
 
-### Separate Data Protection Policy Does Not Resolve the Omissions
+#### Separate Data Protection Policy Does Not Resolve the Omissions
 
 Thai Visa Centre also publishes a *Data Protection Policy*, updated February 9, 2025, promising internal safeguards, responsible management of personal information, and compliance with Thailand's PDPA.[^521]
 
@@ -9920,7 +9926,7 @@ It does establish that **neither of its publicly published privacy policies supp
 
 Thai Visa Centre should identify the responsible controller, explain its applicable retention standards, and publish a clear account of customers' statutory rights.
 
-### Consequences for Customer Privacy and Accountability
+#### Consequences for Customer Privacy and Accountability
 
 The distinction matters because data controllers have statutory responsibilities concerning lawful processing, security, retention, data-subject requests, and qualifying breach notifications.
 
@@ -9933,6 +9939,29 @@ The published wording does not establish that TVC has unlawfully processed custo
 It does establish that **the agency's own Privacy Policy misrepresents a fundamental distinction under Thailand's data-protection legislation**.
 
 Thai Visa Centre should identify the legal entity acting as controller for its ordinary customer services, explain circumstances involving genuine third-party processors, and stop presenting routine customers as controllers merely because they submit their information.
+
+### Conflicting Customer Protections Across TVC's Published Policies
+
+The discrepancies are easier to see when the agency's documents are compared directly:
+
+| TVC document | Documented concern |
+|---|---|
+| Terms & Conditions | Permits use of its website and services from age 16, without reconciling that permission with the Privacy Policy's different age instruction.[^519] |
+| Privacy Policy — children | Instructs individuals under 20 not to submit personal information, creating a conflict for some customers aged 16–19.[^520] |
+| Privacy Policy — data processing | Broadly labels users who submit information as controllers and TVC as a processor, despite describing the agency's own decisions about processing purposes.[^520][^459] |
+| Privacy Policy and Data Protection Policy | Do not clearly disclose retention standards and several data-subject rights in the published text examined here.[^520][^521] |
+| Disclaimer — submitted material | Claims broad perpetual publication and reuse rights without expressly excluding confidential immigration and financial documents.[^518][^522] |
+| PDPA consulting guide | Portrays licensed Thai lawyers as legally required for ordinary compliance work, despite no general statutory lawyer-licensing requirement for such activities.[^458][^459][^460] |
+
+**The existence of these clauses does not establish that TVC actually publishes confidential records, unlawfully collects information, or refuses data-subject requests.** The concern is that its public-facing documents do not explain their respective scopes and legal responsibilities consistently.
+
+### Commercial Significance for Immigration Customers
+
+Immigration assistance can involve passports, visa and residence records, financial statements, family information, and other confidential supporting documents. Clear explanations of who determines processing purposes, what information is collected, how long it is retained, and when it may be disclosed therefore matter to prospective customers.
+
+TVC should harmonize its age restrictions and consent arrangements, identify the controller for its ordinary customer services, distinguish genuine processor relationships, clarify notices for direct and indirect collection, and expressly exclude private client records from any blanket publication licence unless a separate lawful basis and appropriate authorization apply. It should also correct its assertion that all ordinary PDPA compliance activities require licensed lawyers.
+
+**The evidence establishes contradictions, ambiguities, and gaps in the agency's published guidance; it does not prove a violation affecting a particular customer.** Private application notices or contractual terms could provide further detail not covered by these public documents.
 
 ## TVC Repeatedly Misrepresents Optional Legal Services as Mandatory
 
