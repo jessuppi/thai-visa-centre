@@ -71,7 +71,7 @@ Its homepage promises to refund the company's service fee when it files a pre-qu
 
 The website also describes every Full Service application as being pre-qualified before submission.
 
-However, the company's Terms of Service, last updated November 13, 2026, establish additional conditions that substantially limit this protection.[^8]
+However, the company's Terms of Service, previously dated November 13, 2026 and updated November 24, 2026, establish additional conditions that substantially limit this protection.[^8]
 
 **Customers can pay for a plan advertised with a money-back guarantee before learning whether Issa Compass will actually grant them that protection.**
 
@@ -155,6 +155,34 @@ This does not establish that Issa Compass makes arbitrary decisions.
 It establishes that the published contract permits important eligibility decisions to be based on criteria customers may not be able to examine or independently challenge.
 
 That discretion becomes more consequential when the customer has already paid.
+
+### Issa Compass's Refund Terms Contradict Its Own Consumer Advice
+
+Issa Compass's article *Document Pre-Checks, Money-Back Guarantees, and Expert Support: What to Demand From Any Thailand Visa Platform Before You Apply*, published April 8, 2026, was previously recorded as updated October 17 and now identifies November 14, 2026 as its latest update.[^12]
+
+The article advises prospective visa customers to evaluate the credibility of refund guarantees. Its comparison table classifies a service-credit-only remedy as weak and reimbursement of the service fee as strong. It also criticizes excessively restrictive conditions and emphasizes transparent eligibility criteria.
+
+**The company's own contractual arrangements provide the type of service-credit remedy that its consumer guide warns against.**
+
+| Consumer guide's standard | Contractual qualification |
+| --- | --- |
+| Cash reimbursement rather than credit alone | Section 7.3.7 permits time-limited credit when coverage is denied after payment and the customer chooses not to apply. |
+| Government refusal of a pre-qualified application as the trigger | Purchasing a plan advertising the guarantee does not establish individual coverage; a separate legal-team decision is required. |
+| Transparent conditions | Section 7.3.7(b) permits the company to withhold specific reasons for a negative assessment to protect its internal methods. |
+
+The guide does disclose that the company's guarantee concerns pre-qualified applications filed by Issa Compass, excludes government charges, and is subject to its terms.[^12]
+
+However, it does not explain the distinct financial risk of paying before the company confirms coverage. The guarantee for a covered application refused by the government and the remedy available when the company itself denies eligibility are different contractual mechanisms.
+
+Under Section 7.3.7(c)–(f), a customer who does not proceed following a negative eligibility assessment generally receives a 12-month credit for service fees and the Initial Assessment Fee, with unpaid government charges returned. The assessment fee cannot be recovered in cash under those options. If the customer fails to communicate a choice within 30 days of notice, the contract automatically treats the customer as having chosen not to apply.[^8]
+
+The credit is not necessarily lost in full: if used for a cheaper alternative service, the terms allow reimbursement of the difference, excluding the assessment fee. The provisions also remain subject to applicable law.
+
+Thailand Privilege (Thailand Elite) applications are expressly excluded from Section 7.3.7 and instead follow the separate deposit arrangement in Section 7.3.6. Earlier purchases before November 14 are likewise outside Section 7.3.7.[^8]
+
+**The inconsistency is not that every covered visa refusal results in service credit. It is that the company promotes cash-refund protection as a mark of credibility without explaining in this consumer guide that a paying customer can subsequently be denied that protection and receive the weaker remedy it criticizes.**
+
+Both the consumer comparison and these contractual restrictions remained published when checked on November 24, 2026. The corresponding finding is also documented in the [Issa Compass brand investigation](../brands/issa-compass.md).
 
 ### Refund Exclusions Extend Beyond Visa Eligibility
 
@@ -395,8 +423,9 @@ That discrepancy warrants clearer disclosure before customers commit money to a 
 [^6]: `https://90day.in.th/`
 [^7]: `https://tdac.agents.co.th/`
 
-[^8]: `https://www.issacompass.com/terms` — Terms of Service, last updated November 13, 2026, particularly Sections 7.3–7.3.7.
+[^8]: `https://www.issacompass.com/terms` — Terms of Service, previously recorded November 13, 2026; updated November 24, 2026 and accessed that day, particularly Sections 7.3–7.3.7.
 
 [^9]: `https://www.issacompass.com/insights/dtv-visa-thailand` — *Thailand DTV Visa 2026: Requirements, Documents and How to Apply*, updated August 18, 2026.
 [^10]: `https://www.issacompass.com/insights/do-you-need-a-dtv-visa-agent-how-to-choose-one` — Updated October 18, 2026.
 [^11]: `https://www.issacompass.com/insights/how-issa-compass-prepares-your-thai-visa-application-before-it-ever-reaches-the-` — Updated September 30, 2026.
+[^12]: `https://www.issacompass.com/insights/document-pre-checks-approval-guarantees-and-expert-support-what-to-demand-from-a` — *Document Pre-Checks, Money-Back Guarantees, and Expert Support: What to Demand From Any Thailand Visa Platform Before You Apply*, published April 8, 2026, updated November 14, 2026; accessed November 24, 2026.
