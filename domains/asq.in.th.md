@@ -70,6 +70,36 @@ Nevertheless, the company should clarify how its extensive republication of comm
 
 **AGENTS expressly restricts third-party reproduction of its website content while leaving unresolved the permissions governing its own extensive reproduction of third-party community discussions.**
 
+## Commercial Advertising Within Republished Community Discussions
+
+Ask Thailand's republication of Facebook discussions also creates commercial advertising opportunities for its operator, Thai Visa Centre. The following examples are based on historical indexed page captures rather than a verified current advertising layout.
+
+### December 2022: Guaranteed Entry and Border Runs
+
+A discussion dated December 29, 2022 concerns a foreign national seeking a visa-run company capable of arranging guaranteed entry into Thailand.
+
+One participant recommends contacting the Facebook group's owner for VIP airport-entry assistance and claims that the service can ensure successful entry.
+
+The republished page incorporates additional promotional material identifying Thai Visa Centre as a trusted visa agency, displaying favorable customer testimonials and advertising its experience serving more than 100,000 expatriates.[^8]
+
+### May 2025: Retirement Applicants Without Required Funds
+
+A discussion dated May 12, 2025 concerns a prospective retirement visa applicant who explicitly states that he lacks the required 800,000-baht bank balance but can afford agency fees.
+
+The discussion contains competing recommendations, criticism of agent-arranged financial assistance, and warnings about immigration compliance.
+
+However, the republished page inserts a separate commercial resources section encouraging readers to contact Thai Visa Centre directly, complete the qualification test on [dtv.in.th](dtv.in.th.md), and join an associated Facebook community. It also displays favorable testimonials promoting the agency.[^9]
+
+### Commercial Reuse of Historical Community Contributions
+
+These examples demonstrate how historical discussions concerning immigration difficulties can be repackaged as pages promoting the operator's commercial services.
+
+The advertising material is distinct from the original participants' contributions and should not be interpreted as an endorsement by those participants.
+
+**Ask Thailand uses historical community discussions to attract prospective immigration customers while incorporating commercial recommendations for the visa agency responsible for maintaining the platform.**
+
+The available evidence does not establish that individual contributors authorized this commercial reuse or that the advertisements appeared in the original Facebook discussions.
+
 ## References
 
 - `https://asq.in.th/policy/terms-and-conditions`
@@ -83,3 +113,5 @@ Nevertheless, the company should clarify how its extensive republication of comm
 [^5]: `https://asq.in.th/policy/data-protection`
 [^6]: `https://asq.in.th/policy/disclaimer` — Disclaimer, last updated July 16, 2024.
 [^7]: https://mdes.go.th/law/detail/3577-Personal-Data-Protection-Act-B-E--2562--2019 — Thailand's Personal Data Protection Act, particularly Sections 24–26.
+[^8]: `https://asq.in.th/question/what-are-the-best-visa-run-companies-in-thailand-and-how-can-i-find-a-reliable-fixer`
+[^9]: `https://asq.in.th/question/what-are-the-options-for-obtaining-a-retirement-visa-in-thailand-without-the-required-funds`
