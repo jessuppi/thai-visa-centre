@@ -145,6 +145,60 @@ The issue is especially relevant because both websites promote Thai Visa Centre 
 
 The unresolved question is whether these are obsolete legal templates left online without review or operative terms governing commercial visa-processing services that the websites' disclaimers do not acknowledge.
 
+## Misleading Employment Rights and Foreign-Income Tax Guidance
+
+The English-language homepage of `ltr.in.th`, displaying a last-updated date of November 24, 2026, contains misleading summaries of employment rights and tax benefits under Thailand's Long-Term Resident visa program.[^1]
+
+### Work-Permit Eligibility for Investors and Pensioners
+
+In its LTR category comparison, the website describes the Wealthy Global Citizen category as **"Not a work category"** and the Wealthy Pensioner category as **"Not for employment."**[^1]
+
+However, the Board of Investment's official FAQ expressly identifies holders of both categories as eligible to apply for work permits.[^5]
+
+| LTR category | Eligibility to apply for a work permit according to BOI |
+| --- | --- |
+| Wealthy Global Citizen | Eligible |
+| Wealthy Pensioner | Eligible |
+| Highly-Skilled Professional | Eligible |
+| Dependent | Eligible, subject to applicable requirements |
+| Work-from-Thailand Professional | Not eligible |
+
+Eligibility to apply for a work permit is not automatic permission to undertake employment. Applicants must meet the relevant work-permit requirements and continue satisfying the conditions of their LTR category. In particular, employment income does not count toward the passive-income qualification for Wealthy Pensioners.
+
+The website correctly distinguishes the Work-from-Thailand Professional category, which does not provide access to a Thai work permit. Its separate employment guidance also describes how LTR holders can apply for work permits.[^1]
+
+Nevertheless, **the category comparison obscures the distinction between qualifying for an LTR visa on the basis of employment and being eligible to obtain permission to work after receiving the visa.** Neither investor nor pensioner status is a categorical exclusion from work-permit eligibility under the BOI's published guidance.[^5]
+
+### Foreign-Income Exemption Does Not Extend to Highly-Skilled Professionals Under Section 5
+
+In its employment guidance, the website places a discussion of the overseas-income exemption within a table row specifically labeled **"Highly-Skilled tax."** It describes the preferential 17% employment-income tax rate and then states that LTR holders may also receive an exemption on overseas income, without identifying the categories eligible for that exemption.[^1]
+
+Sections 3–5 of Royal Decree No. 743 B.E. 2565 (2022) distinguish two separate tax benefits:[^13]
+
+| LTR category | Foreign-source income exemption under Section 5 | Preferential 17% employment-income arrangement under Sections 3–4 |
+| --- | --- | --- |
+| Wealthy Global Citizen | Eligible | Not under this category |
+| Wealthy Pensioner | Eligible | Not under this category |
+| Work-from-Thailand Professional | Eligible | Not under this category |
+| Highly-Skilled Professional | Not under this category | Eligible |
+| Dependent | Not under this category | Not under this category |
+
+Section 5 concerns qualifying assessable income earned abroad in a previous tax year and brought into Thailand. Section 6 makes the benefits subject to the prescribed qualifications and procedures. The 17% arrangement concerns qualifying employment income in targeted industries, not every form of income earned by a Highly-Skilled Professional.[^13]
+
+**Highly-Skilled Professionals are not among the three categories expressly eligible for the foreign-income exemption established by Section 5.** Other exemptions or treaty provisions may apply independently of LTR status, depending on individual circumstances.
+
+The website acknowledges that tax benefits have conditions and recommends consulting a tax adviser. Its general statement that some LTR holders can receive an overseas-income exemption is not inherently false. The problem is its placement within the Highly-Skilled tax guidance without specifying the statutory category restriction.
+
+### Thai Visa Centre's Own Legal Archive Identifies the Correct Categories
+
+Thai Visa Centre's separate legal archive on foreign-sourced income explicitly identifies Wealthy Global Citizens, Wealthy Pensioners, and Work-from-Thailand Professionals as the categories benefiting from the foreign-income exemption under Royal Decree No. 743.[^14]
+
+The agency's legal archive therefore provides the category distinction missing from the associated LTR website's employment-tax summary.
+
+These discrepancies are particularly consequential because `ltr.in.th` promotes Thai Visa Centre's commercial immigration services while offering prospective applicants guidance on visa selection. Readers could make substantial employment, investment, or tax-planning decisions on the basis of incomplete or misleading category comparisons.
+
+The reviewed material does not establish that the operator intentionally misrepresented these requirements or that a customer suffered a financial loss. It establishes specific deficiencies in the website's presentation of official eligibility rules and statutory tax benefits.
+
 ## References
 
 [^1]: `https://ltr.in.th/`
@@ -160,3 +214,6 @@ The unresolved question is whether these are obsolete legal templates left onlin
 [^10]: `https://dtv.in.th/policy/refund`
 [^11]: `https://dtv.in.th/policy/terms-and-conditions`
 [^12]: https://ltr.boi.go.th/page/faq.html
+
+[^13]: https://ltr.boi.go.th/documents/Royal%20Decree%20issued%20under%20the%20Revenue%20Code%20No.743%20%28EN%29.pdf — BOI-hosted English translation of Royal Decree No. 743 B.E. 2565, Sections 3–6.
+[^14]: `https://tvc.co.th/law/foreign-income-tax` — Thai Visa Centre legal archive, *Foreign-sourced income & tax residency*, reviewed November 24, 2026.
