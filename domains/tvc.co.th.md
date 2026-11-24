@@ -7879,7 +7879,13 @@ The findings concern different kinds of compliance: transfer taxes depend on the
 
 **Treating these requirements as interchangeable or repeating superseded instructions risks misdirecting both individual residents and foreign-owned businesses.** TVC should reconcile its commercial guides with its own legal archive and current government instructions, identify which legal rules apply to each customer situation, and avoid implying that optional professional services substitute for correct filing procedures. The evidence documents published inaccuracies and inconsistencies, not actual unnecessary payments, tax penalties, or incorrect applications by individual customers.
 
-## Company-Dissolution Guide Misstates Shareholder Meetings and Statutory Filing Deadlines
+## Misleading Company Dissolution, Liquidation, and Insolvency Procedures
+
+Thai Visa Centre's company-dissolution and bankruptcy guides describe closely connected but legally distinct procedures affecting foreign business owners, creditors, directors, and employees. The former misstates the sequence and deadlines for closing a private limited company, while the latter conflates ordinary bankruptcy and business rehabilitation.[^374][^354]
+
+The connection between the guides is particularly important when liquidators discover that a company's assets cannot satisfy its debts. Thailand's Civil and Commercial Code establishes a specific duty to seek bankruptcy in qualifying circumstances, rather than allowing ordinary liquidation to continue as though the company could settle all its obligations.[^378][^639]
+
+### Company-Dissolution Guide Misstates Shareholder Meetings and Statutory Filing Deadlines
 
 Thai Visa Centre's *Company Dissolution in Thailand: Liquidation and Deregistration Guide*, marked reviewed June 2026, presents an incorrect sequence for voluntarily dissolving a Thai private limited company.[^374]
 
@@ -7896,7 +7902,7 @@ It also repeatedly suggests that the company becomes legally dissolved only afte
 
 **These instructions confuse the shareholder resolution that dissolves a company, the subsequent winding-up process, and the registration that completes liquidation.**
 
-### Thailand Abolished the Two-Meeting Special Resolution Requirement in 2008
+#### Thailand Abolished the Two-Meeting Special Resolution Requirement in 2008
 
 Section 1194 of Thailand's Civil and Commercial Code establishes the voting threshold for special resolutions.[^375]
 
@@ -7920,7 +7926,7 @@ The company's articles of association may impose additional governance requireme
 
 However, those possibilities do not establish a general statutory obligation to repeat the dissolution vote.
 
-### Dissolution Registration Must Occur Within 14 Days
+#### Dissolution Registration Must Occur Within 14 Days
 
 The more consequential omission concerns the first statutory filing deadline.
 
@@ -7946,7 +7952,7 @@ A company cannot safely postpone initial dissolution registration while arrangin
 
 **TVC gives the correct general instruction to register dissolution but omits the deadline and places an additional meeting before that registration.**
 
-### Creditor Notifications Have Their Own 14-Day Deadline
+#### Creditor Notifications Have Their Own 14-Day Deadline
 
 Section 1253 imposes separate duties on the liquidator following dissolution.[^378]
 
@@ -7968,7 +7974,7 @@ However, its published checklist does not clearly explain when the notification 
 
 **A guide claiming to describe company closure in strict chronological order should identify these mandatory deadlines at the start of the process, rather than focusing almost exclusively on the final registration deadline.**
 
-### The Later Shareholders' Meeting Serves a Different Purpose
+#### The Later Shareholders' Meeting Serves a Different Purpose
 
 The existence of a later shareholders' meeting requires careful distinction.
 
@@ -7992,7 +7998,7 @@ A company may also need annual meetings while liquidation remains unfinished and
 
 Those meetings have different statutory purposes and should not be combined into one generic confirmation requirement.
 
-### Dissolution and Completion of Liquidation Are Different Legal Events
+#### Dissolution and Completion of Liquidation Are Different Legal Events
 
 TVC's guide states that a company is not fully dissolved after the first shareholders' resolution.
 
@@ -8020,7 +8026,21 @@ Nor does its legal personality necessarily disappear immediately upon dissolutio
 
 TVC should use those terms consistently rather than suggesting that the special resolution has no legal dissolving effect until the entire liquidation is finished.
 
-### Potential Financial and Compliance Consequences
+#### Insolvent Liquidation Requires an Immediate Bankruptcy Application
+
+TVC's dissolution checklist correctly includes calling unpaid share capital and applying to the bankruptcy court if company assets are insufficient to pay debts. However, it does not explain the statutory conditions or urgency of that obligation.[^374]
+
+Section 1265 of the Civil and Commercial Code permits liquidators to call outstanding capital contributions. Section 1266 requires them to apply immediately to the court for bankruptcy if assets still cannot meet liabilities after all contributions or shares have been fully paid.[^378][^639]
+
+This is not simply an optional strategy for directors deciding whether to close or reorganize a business. It is a specific statutory duty imposed on the liquidators in the circumstances defined by Section 1266.
+
+Section 1269 also limits distributions to shareholders to property not required to discharge the company's obligations.[^378]
+
+**A company undergoing voluntary dissolution cannot treat final deregistration or distribution of shareholder assets as a substitute for the bankruptcy procedure where the statutory conditions require a liquidator's application.**
+
+This provides the legal connection between the dissolution procedure and the separate bankruptcy investigation below.
+
+#### Potential Financial and Compliance Consequences
 
 The errors could matter for foreign entrepreneurs, directors, shareholders, and creditors involved in closing Thai businesses.
 
@@ -8040,33 +8060,17 @@ Company dissolution, termination of employment, and immigration permissions do n
 
 Each requires separate review under the applicable rules.
 
-### Relevance to Thai Visa Centre's Commercial Services
-
-Thai Visa Centre advertises immigration coordination and work-permit assistance for foreign directors and employees whose companies are winding down.
-
-Its dissolution guide encourages business owners to contact the agency before cancelling employment-linked immigration permissions.
-
-The company does not claim to act as the official company registrar.
-
-The available evidence does not establish that Thai Visa Centre has caused late DBD filings, failed to notify creditors, improperly arranged shareholder meetings, or charged customers for unnecessary corporate procedures.
-
-Nevertheless, its published instructions create confusion about a process governed by specific statutory requirements and deadlines.
-
-**Thai Visa Centre should correct the dissolution guide to distinguish the single special resolution under Section 1194, initial DBD registration under Section 1254, creditor notifications under Section 1253, subsequent audited-balance-sheet approval under Sections 1255–1256, and completion of liquidation under Section 1270.**
-
-The revised guide should explain that dissolution and final liquidation registration are separate legal milestones, and that an unnecessary confirmation meeting must not delay mandatory filings.
-
-## Bankruptcy Guide Conflates Liquidation, Rehabilitation, and Automatic Stay Protections
+### Bankruptcy Guide Conflates Liquidation, Rehabilitation, and Automatic Stay Protections
 
 Thai Visa Centre's *Bankruptcy: Guide for Foreigners*, marked reviewed June 2026, presents Thailand's bankruptcy and business rehabilitation procedures as parts of a generalized insolvency process.[^354]
 
 Its procedural overview states that either a creditor or debtor files a petition with the Central Bankruptcy Court, followed by an absolute receivership order, creditor meetings, and either reorganization or liquidation.
 
-The guide also prominently claims that filing triggers an automatic stay on most creditor enforcement while an official receiver or rehabilitation planner administers the estate.
+The guide also prominently claims that filing triggers a stay on most creditor enforcement while a receiver or planner administers the estate. Elsewhere, its table and FAQ instead describe enforcement restrictions arising after a bankruptcy order.[^354]
 
 **These explanations fail to distinguish ordinary bankruptcy liquidation from business rehabilitation, which have different filing rights, legal requirements, and consequences for creditors.**
 
-### Ordinary Bankruptcy Is Generally Initiated by Creditors
+#### Ordinary Bankruptcy Is Generally Initiated by Creditors
 
 Section 9 of Thailand's Bankruptcy Act B.E. 2483 (1940) establishes the ordinary bankruptcy petition procedure.[^355]
 
@@ -8083,13 +8087,13 @@ The court must examine the statutory conditions before ordering absolute receive
 
 Chambers and Partners confirms that ordinary Thai bankruptcy proceedings are creditor-initiated rather than a voluntary bankruptcy procedure available to debtors.[^357]
 
-A separate statutory exception exists where the liquidator of a company undergoing winding-up applies for bankruptcy after discovering that its liabilities exceed its assets.
+The statutory liquidator application described above is a separate exception: Section 1266 requires immediate application when liabilities remain greater than assets after all contributions or shares have been paid up.[^639]
 
 That exception should not be confused with a general right for individuals or company directors to initiate ordinary bankruptcy proceedings.
 
 TVC's generalized petition-filing sequence fails to explain these distinctions.
 
-### Business Rehabilitation Uses a Separate Statutory Procedure
+#### Business Rehabilitation Uses a Separate Statutory Procedure
 
 Sections 90/2, 90/3, and 90/4 of the Bankruptcy Act establish a separate procedure for business rehabilitation.[^356]
 
@@ -8113,11 +8117,13 @@ KPMG's May 2026 analysis independently identifies the debtor, creditors, and rel
 
 TVC's guide acknowledges that rehabilitation can preserve a business, but its combined procedural explanation does not adequately distinguish the separate statutory pathways.
 
-### Automatic Stay Does Not Arise From Every Bankruptcy Filing
+#### Automatic Stay Does Not Arise From Every Bankruptcy Filing
 
 The discrepancy is particularly significant in TVC's description of creditor enforcement.
 
-The guide's summary prominently states that filing triggers a stay on most collection activity.
+The guide's summary prominently states that filing triggers a stay on most collection activity, while its comparison table and FAQ tie the restriction to a bankruptcy order and its process overview refers to an order being issued.[^354]
+
+These descriptions give different answers about the event that triggers protection. The guide does distinguish rehabilitation from liquidation in its FAQ, but it does not consistently identify which order and which statutory procedure govern the respective enforcement restrictions.
 
 However, Section 90/12 of the Bankruptcy Act specifically establishes automatic-stay protections in business rehabilitation proceedings.[^356]
 
@@ -8139,13 +8145,13 @@ Ordinary bankruptcy proceedings operate differently.
 
 The filing of a creditor's bankruptcy petition does not automatically create the broad rehabilitation moratorium under Section 90/12.
 
-The court may impose specific provisional measures where statutory conditions are met. An absolute receivership order subsequently transfers control of the debtor's assets to the official receiver under Section 22.
+The court may impose specific provisional measures where statutory conditions are met. A receivership order gives the official receiver statutory authority over the debtor's assets under Section 22; an absolute receivership order also triggers the separate bankruptcy claims procedure.
 
 These measures are legally distinct from the automatic stay applicable during business rehabilitation.
 
 TVC's generalized descriptions risk obscuring that distinction.
 
-### Receivership and Rehabilitation Planning Are Different Stages
+#### Receivership and Rehabilitation Planning Are Different Stages
 
 The guide's procedural sequence also places absolute receivership before discussions of either rehabilitation or asset distribution.
 
@@ -8161,7 +8167,7 @@ The existence of a bankruptcy petition does not mean a company automatically pro
 
 **These are different statutory processes, not interchangeable outcomes of a single filing sequence.**
 
-### Financial Consequences for Foreign Creditors and Business Owners
+#### Financial Consequences for Foreign Creditors and Business Owners
 
 The distinction matters for foreign entrepreneurs, investors, directors, lenders, and employees involved with financially distressed Thai businesses.
 
@@ -8180,21 +8186,29 @@ Potential consequences include:
 
 These are substantial financial and legal risks, particularly where company assets, employee wages, personal guarantees, or immigration sponsorship depend on the outcome.
 
-### Relevance to Thai Visa Centre's Commercial Services
+### Distinguishing Corporate Closure From Insolvency Proceedings
 
-Thai Visa Centre advertises immigration coordination and referrals to licensed Thai insolvency lawyers for foreign business owners affected by bankruptcy or company restructuring.
+| Procedure | Legal framework and effect |
+| --- | --- |
+| Voluntary dissolution | A valid special resolution under Sections 1194 and 1236 triggers dissolution; initial registration and creditor notices follow within 14 days under Sections 1253–1254.[^375][^377][^378] |
+| Ordinary liquidation | The dissolved company continues to exist for winding-up purposes under Section 1249. Liquidators settle obligations and register completion under Section 1270.[^378] |
+| Insolvent liquidation and bankruptcy | Section 1266 mandates an immediate court application by liquidators if assets remain insufficient after all capital contributions have been paid. Ordinary bankruptcy otherwise generally begins with a qualifying creditor petition under Section 9 of the Bankruptcy Act.[^639][^355][^357] |
+| Business rehabilitation | A separate court-supervised restructuring procedure for qualifying businesses, with distinct petitioner eligibility and automatic-stay protections arising on acceptance of the petition under Section 90/12.[^356][^358][^359] |
 
-The company expressly states that it is not a law firm and does not represent customers in bankruptcy proceedings.
+These procedures are not successive stages of every company closure. A solvent company may complete ordinary liquidation without bankruptcy, while a qualifying distressed business may pursue rehabilitation under the applicable statutory framework.
 
-That distinction limits what can reasonably be inferred about its involvement in individual cases.
+### Commercial Significance for Foreign Business Owners and Creditors
 
-The available evidence does not establish that Thai Visa Centre has filed improper bankruptcy petitions, advised customers to disregard creditor enforcement, or caused financial losses through these publications.
+Thai Visa Centre advertises immigration coordination, work-permit assistance, and referrals to Thai insolvency lawyers for foreign directors and employees affected by company closure or financial distress. Its bankruptcy guide expressly states that it is not a law firm and does not handle bankruptcy court representation.[^374][^354]
 
-Nevertheless, **its guide presents legally distinct insolvency procedures through an oversimplified sequence while directing foreign business owners toward professional assistance.**
+The guides should identify the separate statutory events that determine when a company dissolves, when initial filings and creditor notifications are due, when liquidation is completed, when liquidators must seek bankruptcy, and when creditor-enforcement restrictions take effect. In particular, an unnecessary second dissolution vote must not delay initial registration, and the mere filing of an ordinary bankruptcy petition must not be confused with the automatic stay applicable to accepted rehabilitation petitions.
 
-TVC should revise the guide to distinguish ordinary creditor-initiated bankruptcy, qualifying corporate rehabilitation, statutory liquidator applications, and the separate conditions under which automatic-stay or receivership protections take effect.
+The timing of corporate closure, employment termination, work-permit changes, and immigration permissions also requires separate assessment. These events do not necessarily occur simultaneously.
 
-It should also identify the applicable filing thresholds and statutory provisions rather than implying that all forms of insolvency follow the same petition and enforcement procedure.
+The available evidence establishes misleading procedural descriptions, not that TVC has caused late filings, failed to notify creditors, filed improper petitions, arranged unnecessary paid procedures, advised customers to disregard enforcement restrictions, or caused financial losses.
+
+**TVC should distinguish the statutory routes for voluntary dissolution, ordinary liquidation, mandatory liquidator bankruptcy applications, creditor-initiated bankruptcy, and qualifying rehabilitation rather than presenting them as interchangeable corporate closure or insolvency procedures.**
+
 
 ## Misleading Court Procedures, Jurisdiction, and Litigant Rights
 
@@ -11120,3 +11134,4 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^637]: `https://tvc.co.th/th/law/foreign-income-tax` — Thai Visa Centre, *Foreign-sourced income & tax residency*, law archive accessed November 24, 2026; acknowledges Revenue Department Orders P.161/2566 and P.162/2566 and later-year remittance taxation of qualifying post-2023 income.
 
 [^638]: `https://tvc.co.th/law/tenants-rights-ocpb` — Thai Visa Centre, *Tenants' Rights, Residential Leases & Property Tax*, accessed November 24, 2026; correctly identifies the September 2025 notification but its plain-English summary continues to say residential landlords operating five or more units are covered, excepting a reference to digital platforms; its source list identifies the five-unit threshold as part of the superseded 2019 notification.
+[^639]: https://www.thailawonline.com/thai-civil-code/section-1266/ — Civil and Commercial Code, Section 1266, requiring an immediate bankruptcy application by liquidators where assets remain insufficient after all capital contributions or shares have been fully paid; accessed November 24, 2026.
