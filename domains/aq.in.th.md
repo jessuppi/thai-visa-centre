@@ -207,6 +207,56 @@ The available evidence does not establish misuse of the licence, financial wrong
 
 This strengthens the historical record of the commercial network that subsequently developed into Thai Visa Centre's present immigration-information, TDAC, and paid reporting services.
 
+## Claims of Official Government Recognition and Expedited Approval Arrangements
+
+AGENTS CO., LTD.'s corporate website makes two distinct claims about its historical quarantine-booking and Thailand Pass operations.[^3]
+
+Under its hotel-booking milestone, the company describes its instant booking confirmations as officially recognized and accepted by Thailand Pass, claiming that this accelerated entry approvals.
+
+Under a separate Thailand Pass Integration milestone dated 2021, it states:
+
+> Our systems were officially recognized by the Thailand Pass program, allowing for expedited processing and approvals for international travelers entering Thailand.
+
+The company also advertises more than **40,000 travelers assisted** through this integration, separately from the more than 200,000 travelers attributed to its hotel-booking platform.[^3]
+
+These are retrospective corporate claims. The published website does not identify the government authority that granted the claimed recognition, the instrument establishing it, or the technical and administrative arrangements involved.
+
+### Hotel Authentication Was Distinct From Government Approval
+
+Thailand's Ministry of Foreign Affairs published an updated Thailand Pass FAQ on April 18, 2022, shortly after the AQ.in.th promotional articles appeared.
+
+Its explanation of the approval process distinguished the authentication of hotel reservations from the subsequent government review. Applicants were advised to register at least seven days before travel, with ordinary processing taking three to seven days.[^5]
+
+| Stage | Responsibility |
+| --- | --- |
+| Booking and preparation of supporting documents | Traveler, hotel, or commercial intermediary |
+| Authentication of the reservation | Eligible SHA Extra+ or Alternative Quarantine hotel |
+| Subsequent application review and approval | Department of Disease Control |
+
+The ministry also explained that processing times could differ even for applications submitted simultaneously.[^5]
+
+**Faster hotel confirmation could facilitate an application without giving a commercial booking intermediary authority to approve Thailand Pass registrations.**
+
+The official FAQ does not identify AQ.in.th or AGENTS CO., LTD. as a recognized integration partner, nor does it describe a preferential approval channel for customers of either business. This does not establish that a separate integration or recognition arrangement never existed.
+
+### Contemporaneous Advertising Emphasized Speed and Reliability
+
+The April 7, 2022 AQ.in.th press release published by *The Thaiger* promoted instant hotel confirmations, consolidated travel documents, and the ability to apply immediately after booking. It suggested that customers could avoid concerns about delays or rejection, while separately advertising full-service and VIP application assistance.[^2]
+
+The advertisement therefore documents how AQ.in.th marketed the convenience of its platform while Thailand Pass remained subject to government review.
+
+It does not provide a government authorization or technical specification establishing that AQ.in.th controlled the approval stage. Instant confirmation of a hotel booking is also not equivalent to authentication of that reservation within the government system.
+
+### Scope of the Claimed Official Recognition
+
+The unresolved issue is whether the claimed recognition referred to ordinary acceptance of accommodation documents, a formally authorized technical integration, or a distinct expedited government-processing arrangement.
+
+To clarify the distinction, AGENTS could publish the relevant government confirmation, the dates and scope of any integration, the authorities involved, and the basis for its claimed processing-time improvements and traveler totals.
+
+The available documents establish that AGENTS publicly claims official recognition and that AQ.in.th historically advertised expedited assistance. They do not independently substantiate a preferential government approval channel, improper influence, or unlawful processing.
+
+The [related Thailand Pass investigation](tp.in.th.md) documents the agency's contemporaneous promotion of expedited application assistance, government warnings concerning unofficial registration websites, and the subsequent transition to automatic QR-code issuance.
+
 ## Related Records
 
 - [Anybody used AQ.in.th? (January 2022)](../threads/2022-01-01-reddit-anybody-used-the-aq-in-th.md)
@@ -227,3 +277,4 @@ This strengthens the historical record of the commercial network that subsequent
 [^2]: https://thethaiger.com/guides/press-room/aq-in-th-simplifies-and-speeds-up-the-process-of-entering-thailand-for-tourists — Press release published April 7, 2022.
 [^3]: https://agents.co.th/ — Corporate information and travel-business licence disclosure.
 [^4]: https://www.dataforthai.com/company/0115562031107/ — AGENTS CO., LTD. corporate registration and business activities.
+[^5]: https://image.mfa.go.th/mfa/0/zE6021nSnu/%E0%B8%81%E0%B8%AD%E0%B8%87_0302/Thailand_Pass_FAQs_THAI-ENG__18_Apr_2022_12.00.pdf — Ministry of Foreign Affairs, Thailand Pass FAQs, April 18, 2022, Q1, question 2, page 1.
