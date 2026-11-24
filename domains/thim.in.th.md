@@ -18,6 +18,48 @@ The website acknowledges that it is not affiliated with the Thai government and 
 
 Nevertheless, the absence of independently verified procurement details and the broader commercialization of immigration-related services justify further investigation into **contract transparency, corporate relationships, data access, financial interests, and potential conflicts of interest**.
 
+## Commercial Collection and Marketing Use of Immigration Data
+
+The commercial implications of `thim.in.th` extend beyond its use of government immigration branding.
+
+The website's prominent TDAC application button directs travelers to an AGENTS CO., LTD. submission form that requests extensive personal information, including passport numbers, dates of birth, telephone numbers, occupations, travel itineraries, accommodation addresses, and health-declaration information.[^6]
+
+Although the submission form identifies itself as a private agency service, travelers using it disclose their immigration information to a commercial intermediary rather than directly to Thailand's Immigration Bureau.
+
+### Personal Information Used for Affiliated Business Marketing
+
+The Privacy Policy linked from `thim.in.th` expressly identifies the marketing of AGENTS' own services and those of its sister companies as purposes for processing personal information.[^7]
+
+The policy also permits sharing personal information with companies under common ownership or control for marketing purposes.
+
+AGENTS' separate Data Protection Policy, last updated April 2, 2025, explicitly reiterates this exception to its general restrictions on disclosing personal information to third parties.[^8]
+
+Neither document identifies the specific sister companies eligible to receive this information or clearly distinguishes immigration application records from ordinary customer contact information for marketing purposes.
+
+### Contrast With Official Immigration Data Processing
+
+Thailand's Immigration Bureau states in its official TDAC FAQ that information submitted through its system is restricted to relevant immigration and border-security authorities and used for government border-control purposes.[^5]
+
+The commercial intermediary's published policies establish substantially broader potential uses of personal information.
+
+**Travelers completing the same immigration requirement through AGENTS are therefore subject to a different data-processing arrangement that expressly accommodates commercial marketing and affiliated-company information sharing.**
+
+The Immigration Bureau acknowledges that authorized travel agencies may submit TDAC information on behalf of customers. However, authorization to submit an arrival card does not automatically establish authorization to use the underlying personal information for unrelated commercial purposes.
+
+### Relevance to Historical Customer-Data Complaints
+
+These provisions are particularly relevant to the previously documented [May 2022 customer complaint](../threads/2022-05-04-reddit-extending-visa-thai-visa-centre.md) involving a traveler who reported receiving Thai Visa Centre promotional emails referencing an earlier quarantine accommodation booking through `aq.in.th`.
+
+The current policies do not establish the source of historical mailing lists or retrospectively establish consent for earlier marketing activities.
+
+Nevertheless, they explicitly document a commercial framework permitting affiliated-company marketing using personal information collected through AGENTS' services.
+
+The available evidence does not establish that passport numbers, health declarations, or other immigration records have actually been transferred to affiliated businesses for marketing purposes.
+
+The unresolved questions concern which companies receive customer information, which categories of information are shared, how long immigration records are retained, and how travelers authorize or decline secondary commercial uses.
+
+**The distinction between mandatory government immigration reporting and optional commercial data processing should be prominently communicated before travelers disclose their personal information.**
+
 ## References
 
 [^1]: https://www.whoxy.com/thim.in.th
@@ -25,3 +67,7 @@ Nevertheless, the absence of independently verified procurement details and the 
 [^3]: https://press.aboutamazon.com/aws/2026/5/digital-identity-co-modernizes-thailand-immigration-bureau-services-with-aws
 [^4]: https://thim.immigration.go.th/privacy-notice
 [^5]: https://tdac.immigration.go.th/manual/en/faq.html
+
+[^6]: `https://agents.co.th/tdac-apply` — Commercial TDAC submission form operated by AGENTS CO., LTD.
+[^7]: `https://agents.co.th/tdac-apply/policy/privacy/` — AGENTS Privacy Policy, updated April 2, 2025.
+[^8]: `https://agents.co.th/tdac-apply/policy/data-protection/` — AGENTS Data Protection Policy, updated April 2, 2025.
