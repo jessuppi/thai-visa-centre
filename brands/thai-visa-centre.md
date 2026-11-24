@@ -495,6 +495,36 @@ He described sending his passport by post, paying the agency through an ATM thre
 
 Thai Visa Centre reproduces both testimonials on its own website, presenting them as verified endorsements of its immigration services.
 
+### March 2026 Same-Day Processing and Extensions Without Personal Attendance
+
+On March 6, 2026, a Google reviewer identified as John M. described purchasing Thai Visa Centre's express retirement visa service.
+
+The customer reported being collected from his hotel, accompanied to a bank to open an account, and subsequently taken to immigration. He stated that he received his retirement visa with multiple re-entry permission approximately six hours later.[^81]
+
+This account predates Thai Visa Centre's August 2026 advertisements promoting its 55,000-baht same-day retirement package by approximately five months.
+
+The review does not specify the duration of the immigration permission granted or establish whether both initial Non-O issuance and a subsequent annual extension were completed that day.
+
+On March 10, 2026, another Google reviewer identified as Jack J. described using Thai Visa Centre for several years to handle his retirement extensions and other immigration requirements.
+
+The customer explicitly stated:
+
+> I haven't been in an immigration office since I started using them.
+
+He explained that the agency arranged retirement extensions, residence certificates, passport stamp transfers, and other immigration procedures remotely through online communication and postal services.[^81]
+
+This account raises separate questions concerning personal attendance during retirement-extension applications.
+
+The Immigration Bureau's public retirement-extension handbook, published November 8, 2019, describes an ordinary application procedure involving personal attendance at the immigration office responsible for the applicant's residential area, document inspection, and photographic recording of the applicant.[^82]
+
+Although exceptions or subsequent procedural changes may apply in particular circumstances, the customer's account describes the absence of personal immigration visits as a recurring commercial convenience rather than an exceptional arrangement.
+
+Both testimonials also appear in the review archive published by [thaivisacentrereviews.com](../domains/thaivisacentrereviews.com.md).[^83]
+
+**Thai Visa Centre itself promotes customer experiences describing accelerated retirement visa processing immediately after bank-account opening and repeated retirement extensions without personal immigration visits.**
+
+The available evidence does not establish the precise financial arrangements, immigration offices, or applicable exceptions involved in these cases. Nevertheless, the accounts reinforce existing questions concerning how the agency satisfies published immigration requirements while offering expedited and remotely managed retirement services.
+
 ### Conflict With Published Immigration Requirements
 
 Thailand's published requirements for annual retirement extensions generally provide three financial qualification routes:
@@ -661,3 +691,6 @@ Individual examples, original publications, and supporting legal sources are doc
 [^78]: https://www.dataforthai.com/company/0115563017485/ — Corporate record for TVC. VISA AGENT CO., LTD.
 [^79]: https://thai360.com/index.php?/topic/66434-thai-non-immigrant-o-visa/ — Thai360, *Thai non immigrant "O" visa*, June 30–July 28, 2025; customer account of bank-account opening, retirement-extension processing, and residential-address discrepancy.
 [^80]: https://thai360.com/index.php?/topic/66434-thai-non-immigrant-o-visa/page/2/ — Thai360, August 13–14, 2025 posts alleging media removal and reporting reappearance of historical coverage; reviewed from a supplied PDF capture. See [thread investigation](../threads/2025-06-30-thai360-non-immigrant-o-visa.md).
+[^81]: `https://tvc.co.th/reviews/retirement?page=2` — Customer reviews dated March 6 and March 10, 2026.
+[^82]: https://hatyaiimmigration.go.th/ITA/ita68/8/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%9E%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B8%B0/New%2050%20Handbooks/23-Public-Handbook-2.22-retirement.pdf — Immigration Bureau public handbook, Section 2.22, retirement extensions, published November 8, 2019; copy hosted by Hat Yai Immigration.
+[^83]: `https://www.thaivisacentrereviews.com/reviews` — Historical review archive reproducing both customer testimonials.
