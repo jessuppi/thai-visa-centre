@@ -1,48 +1,133 @@
 # tp.in.th
 
-[Thai Visa Centre](../brands/thai-visa-centre.md) has publicly
-acknowledged operating `tp.in.th` alongside
-[aq.in.th](aq.in.th.md) during the COVID-19 pandemic.
+`tp.in.th` was a privately operated website offering commercial assistance with Thailand Pass applications, insurance requirements, and related entry procedures during the COVID-19 pandemic.
 
-On its [`tvc.co.th/scam`](tvc.co.th.md) page, the agency states:
+[Thai Visa Centre](../brands/thai-visa-centre.md) publicly acknowledges operating the website alongside [aq.in.th](aq.in.th.md), its quarantine hotel-booking platform. On its [`tvc.co.th/scam`](tvc.co.th.md) page, the agency states:
 
-> Chris featured Thai Visa Centre in his Thailand Weekly
-> coverage when we also operated AQ.IN.TH and TP.IN.TH
-> during COVID.
+> Chris featured Thai Visa Centre in his Thailand Weekly coverage when we also operated AQ.IN.TH and TP.IN.TH during COVID.
 
-This statement establishes that Thai Visa Centre has
-publicly claimed responsibility for operating both websites.
-However, it does not independently establish the legal
-registrant of `tp.in.th`, the corporate entity responsible,
-or its precise operational dates.
+This admission establishes the agency's publicly acknowledged operational connection to both websites, although it does not independently establish their historical domain registrants, the precise corporate entities responsible for their services, or their full operational dates.[^1]
 
 ## 2021–2022 Paid Thailand Pass Processing and Expedited Approvals
 
-During Thailand's COVID-19 entry restrictions, [Thai Visa Centre](../brands/thai-visa-centre.md) operated `tp.in.th` as a commercial service assisting travelers with Thailand Pass applications, insurance requirements, and related entry procedures. The agency has subsequently acknowledged operating the website alongside [aq.in.th](aq.in.th.md), its quarantine hotel-booking platform.[^1]
+On November 29, 2021, the official **ThaiVisaCentre** account, identified as a Forum Sponsor on ASEAN NOW, publicly promoted `tp.in.th` to travelers seeking Thailand Pass approvals.
 
-On November 29, 2021, the official **ThaiVisaCentre** account, identified as a Forum Sponsor on ASEAN NOW, publicly promoted `tp.in.th` to travelers seeking Thailand Pass approvals. Responding to a question about entry requirements for unvaccinated visitors, the agency claimed to have obtained approvals for **more than 50 individuals** entering under the Alternative Quarantine scheme without vaccination documentation.[^2]
+Responding to a question about entry requirements for unvaccinated visitors, the agency claimed to have obtained approvals for more than 50 individuals entering under the Alternative Quarantine scheme without vaccination documentation.[^2]
 
-The agency also advertised expedited processing, stating that travelers seeking their Thailand Pass QR codes early could use its services and that it accepted applications **up to three months before the intended arrival date**. These statements establish that the domain was being actively promoted for commercial application assistance by November 2021, considerably earlier than the agency's retrospective acknowledgment of its operation.[^2]
+The agency also advertised expedited processing, stating that travelers seeking their Thailand Pass QR codes early could use its services and that it accepted applications up to three months before their intended arrival dates.
 
-In January 2022, travelers discussing Thailand Pass delays on Reddit identified `tp.in.th` as an expedited processing service associated with `aq.in.th`. One participant estimated that emergency application assistance through this service or a competing agency cost approximately **US$200–275 per application**. This was an individual user's estimate rather than a verified published price list, and the available discussion does not establish the precise amount charged by `tp.in.th`.[^3]
+These statements establish that Thai Visa Centre was actively promoting commercial Thailand Pass assistance by November 2021.[^2]
 
-Another traveler reported using an AQ-branded agency during a March 2022 Thailand Pass emergency, paying approximately **9,000 baht** for urgent assistance. The traveler stated that the agency nearly completed the application within two and a half hours but that the approval arrived too late to prevent a missed flight. The same account praised the agency's responsiveness and assistance coordinating with a hotel. The surviving discussion does not conclusively identify the precise website used, and therefore does not establish that the payment was processed directly through `tp.in.th`.[^4]
+In January 2022, travelers discussing Thailand Pass delays on Reddit identified `tp.in.th` as an expedited processing service associated with `aq.in.th`.
 
-These private-sector charges are significant because **Thailand Pass applications through the official government system were free of charge**. Thai consular guidance explicitly confirmed that applicants could register without paying an application fee. Commercial agencies could charge separately for assistance, document preparation, or expedited handling, but their fees did not represent government application charges.[^5]
+One participant estimated that emergency application assistance through this service or a competing agency cost approximately **US$200–275 per application**. This was an individual estimate rather than a verified published price list.[^3]
 
-Thailand discontinued the Thailand Pass entry requirement effective **July 1, 2022**, ending the underlying mandatory registration procedure. The available evidence establishes Thai Visa Centre's promotion of paid assistance during the program's operation but does not establish the agency's internal processing arrangements, whether any official received preferential payments, or whether particular approvals were obtained through improper influence.[^6]
+Another traveler reported using an AQ-branded agency during a March 2022 Thailand Pass emergency, paying approximately **9,000 baht** for urgent assistance.
 
-**The episode documents an earlier example of Thai Visa Centre commercializing assistance with a free government immigration procedure.** Its later paid TDAC early-submission services followed a broadly comparable commercial model: travelers could use the official registration system without an intermediary, while the agency promoted paid assistance, convenience, and earlier preparation.
+The traveler stated that the agency nearly completed the application within two and a half hours but that the approval arrived too late to prevent a missed flight. The same account praised the agency's responsiveness and assistance coordinating with a hotel.
 
-The documented promotional statements and customer discussions warrant scrutiny of **historical pricing transparency, expedited-processing representations, customer outcomes, and any arrangements underlying claimed unusually rapid approvals**. They do not, by themselves, establish corruption, government impersonation, or unlawful processing.
+The discussion does not conclusively identify the website through which the payment was processed.[^4]
+
+## Government Warnings, Free Registration, and Commercial Expedited Processing
+
+### October 2021 Government Privacy Assurances
+
+Thailand's Ministry of Foreign Affairs published official Thailand Pass guidance dated October 31, 2021, immediately before the registration system became operational.
+
+The ministry identified `tp.consular.go.th` as the official registration platform and explained the documentation required from travelers.
+
+It also stated that personal information submitted through the official system was encrypted and used exclusively for processing and facilitating travelers' arrivals in Thailand.[^7]
+
+These assurances concerned the government-operated system, not independently operated commercial intermediaries.
+
+The available historical evidence does not establish which privacy policies, retention periods, or third-party data-sharing arrangements governed the collection of immigration documents through `tp.in.th`.
+
+### November 2021 Warning Against Government Impersonation
+
+On November 5, 2021, Thailand's Ministry of Digital Economy and Society issued a warning concerning an unofficial website, `thailandpass.org`, that purported to provide government registration services.
+
+Following verification with the Ministry of Foreign Affairs, authorities confirmed that the website was not connected to any government agency.
+
+The ministry reiterated that the official Thailand Pass registration system was operated through `tp.consular.go.th`.[^8]
+
+**Thai authorities were therefore already addressing misleading Thailand Pass websites within the first week of the official system's operation.**
+
+Thai Visa Centre subsequently promoted `tp.in.th` through its official ASEAN NOW account on November 29, 2021.
+
+The government warning specifically concerned `thailandpass.org`, not `tp.in.th`. It does not establish that Thai Visa Centre was responsible for the website identified by authorities or that its own website was subject to an equivalent enforcement determination.
+
+### May 2022 Government Fact-Check Concerning Registration Fees
+
+On May 22, 2022, Thailand's Anti-Fake News Center published a fact-check addressing misleading claims that travelers were required to pay a registration fee for Thailand Pass.
+
+The Digital Government Development Agency confirmed that official Thailand Pass registration involved no charges.
+
+The announcement also expressly distinguished government registration from voluntarily purchased commercial agency assistance, explaining that fees paid to private intermediaries were unrelated to government charges.[^9]
+
+The Royal Thai Consulate-General in Jeddah likewise confirmed that official Thailand Pass applications were free of charge.[^5]
+
+This distinction is important when evaluating Thai Visa Centre's historical commercial services.
+
+Private agencies could charge for voluntary assistance, but those payments did not represent mandatory Thailand Pass registration fees.
+
+**The relevant consumer-protection questions concern pricing transparency, government-affiliation claims, and whether commercial intermediaries accurately explained the availability of free direct registration.**
+
+The government publications do not establish that Thai Visa Centre misrepresented its own charges as government fees.
+
+### June 2022 Introduction of Automatic QR-Code Issuance
+
+On May 25, 2022, Thailand's Ministry of Foreign Affairs announced further changes to the Thailand Pass system, effective June 1.
+
+Thai nationals would no longer need to register, while foreign travelers would continue using a simplified registration procedure.
+
+The ministry confirmed that QR codes would be generated automatically following registration, rather than requiring the previous approval process.[^10]
+
+This change substantially reduced the practical need for commercial expedited-processing services.
+
+The available evidence does not establish whether Thai Visa Centre subsequently revised its pricing, discontinued expedited-processing options, or informed customers of the government's simplified procedure.
+
+### July 2022 Abolition of Thailand Pass
+
+On June 17, 2022, the Tourism Authority of Thailand announced that the Centre of COVID-19 Situation Administration had approved the removal of the remaining Thailand Pass registration requirement, effective July 1, 2022.[^6]
+
+The abolition ended the mandatory government registration procedure underlying the commercial assistance offered through `tp.in.th`.
+
+## Relevance to Subsequent Commercial TDAC Services
+
+Thai Visa Centre's Thailand Pass business represents an earlier example of its commercialization of assistance with free government entry-registration procedures.
+
+Several comparable features subsequently appeared in the agency's Thailand Digital Arrival Card services:
+
+| Feature | Thailand Pass | Thailand Digital Arrival Card |
+| --- | --- | --- |
+| Government registration | Free | Free |
+| Private immigration website | `tp.in.th` | [tdac.in.th](tdac.in.th.md) |
+| Commercial assistance | Paid application assistance | Paid submission assistance |
+| Early registration | Applications accepted ahead of travel | Commercial early-submission options |
+| Government warnings | Misleading websites and registration fees | Unofficial websites, payments, and personal information |
+
+The underlying government systems differ substantially. Thailand Pass originally involved an approval procedure associated with pandemic-era entry restrictions, whereas TDAC is an arrival-card registration system rather than a visa or immigration approval.[^11]
+
+Nevertheless, both commercial services offered travelers paid assistance with procedures available directly through government websites without registration fees.
+
+The historical government announcements also establish that concerns about unofficial registration websites, personal information, and confusion over commercial fees existed years before the introduction of TDAC.
+
+**Thai Visa Centre's Thailand Pass activities therefore provide important historical context for the subsequent commercial immigration platforms operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md).**
+
+The available evidence does not establish that `tp.in.th` was officially classified as fraudulent, that the agency improperly obtained government approvals, or that immigration officials received preferential payments.
+
+It does, however, establish a historical pattern of commercializing free government registration procedures through privately operated immigration websites, warranting scrutiny of pricing transparency, customer-data handling, and representations concerning government processing.
 
 ## References
-
-- `https://tvc.co.th/scam`
 
 [^1]: `https://tvc.co.th/scam`
 [^2]: https://aseannow.com/topic/1241174-ten-day-quarantine-for-non-vaxxed/
 [^3]: https://www.reddit.com/r/ThailandTourism/comments/s9eegm/
 [^4]: https://www.reddit.com/r/ThailandTourism/comments/t7ttil/
 [^5]: https://jeddah.thaiembassy.org/en/page/visitthailandtestandgo
-[^6]: https://tteo.thaiembassy.org/cn/content/2021-11-01-measurements?menu=5d7dc71915e39c072c004ef8&page=5d7dc71915e39c072c004ef6
+[^6]: https://www.tatnews.org/2022/06/thailand-pass-registration-scheme-to-be-lifted-from-1-july-2022/ — Tourism Authority of Thailand, June 17, 2022.
+[^7]: https://www.mfa.go.th/en/content/thailand-pass-faqs — Ministry of Foreign Affairs, Thailand Pass FAQs, October 31, 2021.
+[^8]: https://mdes.go.th/news/detail/4919-%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%B5%E0%B9%80%E0%B8%AD%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%87%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95%E0%B9%8C%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%A1-www-thailandpass-org-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95%E0%B9%8C%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%90-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2 — Ministry of Digital Economy and Society, November 5, 2021, official warning concerning `thailandpass.org`.
+[^9]: https://www.antifakenewscenter.com/%E0%B8%99%E0%B9%82%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9A%E0%B8%B2%E0%B8%A5-%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%A3/%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%A1-%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%8A%E0%B8%A3%E0%B9%8C-%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95%E0%B9%8C-thailand-pass-%E0%B8%A1%E0%B8%B5%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%A1-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8/ — Anti-Fake News Center Thailand, May 22, 2022, government fact-check concerning Thailand Pass registration fees, verified by the Digital Government Development Agency.
+[^10]: https://www.mfa.go.th/en/content/press-briefing-25may22?cate=5d5bcb4e15e39c306000683e — Ministry of Foreign Affairs press briefing, May 25, 2022.
+[^11]: https://tdac.immigration.go.th/manual/en/faq.html — Immigration Bureau's official TDAC FAQ.
