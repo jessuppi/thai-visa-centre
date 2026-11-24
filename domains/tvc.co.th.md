@@ -7451,7 +7451,13 @@ TVC markets professional property-law referrals, document reviews, and related a
 
 TVC should correct the source guides consistently: distinguish optional legal review from mandatory Land Office requirements, identify the narrow land-ownership exceptions, avoid presenting contingent lease renewals as a secured 90-year right, and explain the different condominium eligibility and transfer scenarios described above.
 
-## Property Tax Guides Misstate Exemptions and Calculation Rules
+## Misleading Tax, Accounting, and Corporate Incentive Guidance
+
+Thai Visa Centre publishes inaccurate and sometimes contradictory instructions concerning Thai property-transfer charges, the taxation of foreign-source income, tax-residency documentation, company audits and filing deadlines, and discontinued corporate tax incentives. Though these subjects involve separate statutes and agencies, the errors share a practical consequence: customers may misunderstand obligations, miscalculate costs, or purchase professional assistance on the basis of outdated government procedures.
+
+TVC advertises immigration, relocation, property-related legal referrals, work-permit coordination, and links to accounting or other professional services. The five investigations below retain their distinct legal requirements while examining the reliability of the financial guidance presented alongside those services.
+
+### Property Tax Guides Misstate Exemptions and Calculation Rules
 
 Thai Visa Centre's guide *Thailand Property Transfer Tax and Fees*, marked reviewed June 2026, presents incomplete guidance about when sellers owe Thailand's 3.3% Specific Business Tax (SBT).[^256]
 
@@ -7461,7 +7467,7 @@ Its separate *Property Transfer Taxes and Fees in Thailand* guide also presents 
 
 **These instructions obscure important distinctions that can materially affect the cost of selling Thai property.**
 
-### The Five-Year and Principal-Residence Rules Are Separate
+#### The Five-Year and Principal-Residence Rules Are Separate
 
 Thailand's Revenue Department identifies ordinary private property sales made within five years of acquisition as potentially subject to Specific Business Tax, subject to statutory exceptions.[^258]
 
@@ -7476,7 +7482,7 @@ These rules are not universally applicable to every transaction. Developer sales
 
 **TVC's checklist presents independent tax considerations together without explaining that satisfying both is not generally necessary.**
 
-### The Land Office Does Not Use One Valuation Rule for Every Charge
+#### The Land Office Does Not Use One Valuation Rule for Every Charge
 
 TVC's property-tax FAQ also states:
 
@@ -7500,7 +7506,7 @@ Certain transactions may qualify for reduced transfer-registration rates or othe
 
 TVC correctly identifies some individual charges elsewhere in its guides, but its general explanation does not clearly distinguish their respective tax bases.
 
-### Financial Consequences for Customers
+#### Financial Consequences for Customers
 
 The errors matter because SBT can represent a substantial expense when property changes hands.
 
@@ -7518,7 +7524,7 @@ Nevertheless, **its published guidance fails to distinguish important statutory 
 
 TVC should explain the separate five-year and principal-residence rules, identify transactions that remain taxable, and distinguish the valuation bases applicable to registration fees, SBT, stamp duty, and withholding tax.
 
-## Personal Income Tax Guide Repeats Foreign-Remittance Rule Abolished in 2024
+### Personal Income Tax Guide Repeats Foreign-Remittance Rule Abolished in 2024
 
 Thai Visa Centre's guide *Personal Income Tax Rates in Thailand*, marked reviewed June 2026, incorrectly describes the taxation of foreign-source income brought into Thailand by tax residents.[^261]
 
@@ -7530,7 +7536,7 @@ The guide's FAQ repeats the same limitation.
 
 **This wording reflects an obsolete interpretation of Thailand's Revenue Code that ceased to apply to qualifying income earned from January 1, 2024.**
 
-### Revenue Department Removed the Same-Year Restriction
+#### Revenue Department Removed the Same-Year Restriction
 
 Revenue Department Order P.161/2566, issued September 15, 2023, changed the administrative interpretation of Section 41, paragraph two, of the Revenue Code.[^262]
 
@@ -7554,7 +7560,7 @@ Tax treaties, exemptions, foreign tax credits, and the nature of the funds may a
 
 **Simply delaying a remittance into a subsequent calendar year no longer automatically removes qualifying foreign income from Thai taxation.**
 
-### Official 2026 Guidance Confirms the Rule
+#### Official 2026 Guidance Confirms the Rule
 
 PwC Thailand's *Thai Tax 2026/27 Booklet* independently confirms that assessable foreign income earned from January 1, 2024, may be taxable when remitted in the same year or a later year.[^265]
 
@@ -7564,7 +7570,15 @@ TVC's personal-income-tax guide therefore continues presenting an outdated restr
 
 Its June 2026 review date makes the discrepancy particularly notable.
 
-### Potential Consequences for Foreign Residents
+#### TVC's Own Law Archive Contradicts Its Commercial Tax Guide
+
+The error is especially clear when compared with TVC's own separate *Foreign-sourced income & tax residency* law archive.[^637] That archive explicitly discusses Revenue Department Orders P.161/2566 and P.162/2566 and explains that qualifying foreign-source assessable income earned from January 1, 2024, may be taxed when a Thai tax resident remits it in a subsequent calendar year.
+
+By contrast, TVC's *Personal Income Tax Rates in Thailand* guide—marked reviewed June 2026—continues to say that residents may owe personal income tax on foreign income remitted **in the year earned**, repeating the limitation in its FAQ.[^261]
+
+**TVC thus publishes conflicting descriptions of the same foreign-income rule on its commercial guidance page and its own legal-reference archive.** The correct legal treatment still depends on the taxpayer's residence in the relevant year, the type and timing of income, applicable exemptions and treaty provisions, and the evidence supporting a remittance. The contradiction does not establish that TVC prepared incorrect returns or caused any customer to underpay tax.
+
+#### Potential Consequences for Foreign Residents
 
 The error could materially affect retirees, foreign employees, business owners, and other long-term residents maintaining income or investments overseas.
 
@@ -7576,7 +7590,7 @@ Incorrect planning could lead to omitted assessable income, inaccurate personal 
 
 Not every international transfer is taxable income. Previously accumulated savings, qualifying pre-2024 income, exempt funds, and applicable treaty relief must be assessed separately.
 
-### Relevance to Thai Visa Centre's Services
+#### Relevance to Thai Visa Centre's Services
 
 Thai Visa Centre advertises immigration, relocation, work-permit, and tax-document coordination for foreigners living in Thailand.
 
@@ -7588,7 +7602,7 @@ Nevertheless, **its June 2026 guide repeats a superseded interpretation of forei
 
 TVC should remove the same-year limitation, explain Orders P.161/2566 and P.162/2566, distinguish pre-2024 income from later earnings, and clarify that the tax treatment depends on residence status in the year the income arises and the applicable remittance rules.
 
-## Tax Residency Certificate Guide Repeatedly Identifies the Wrong Government Form
+### Tax Residency Certificate Guide Repeatedly Identifies the Wrong Government Form
 
 Thai Visa Centre's *Tax Residency Certificates in Thailand: Form 205 Guide*, marked reviewed June 2026, repeatedly identifies **Form 205** as the official document used to apply for or establish Thai tax residency.[^320]
 
@@ -7598,7 +7612,7 @@ Its application checklist and frequently asked questions repeat this designation
 
 **These instructions contradict the Revenue Department's published application procedures and certificate classifications.**
 
-### Revenue Department Identifies R.O.01 and R.O.22
+#### Revenue Department Identifies R.O.01 and R.O.22
 
 Thailand's Revenue Department distinguishes between the application used to request an English-language tax certificate and the certificate subsequently issued.
 
@@ -7618,7 +7632,7 @@ None of these official instructions identifies Form 205 as the application or ce
 
 **TVC's use of Form 205 is therefore unsupported by the published Revenue Department procedures.**
 
-### Application and Certificate Are Different Documents
+#### Application and Certificate Are Different Documents
 
 The distinction is important because applying for a certificate and receiving one involve separate administrative steps.
 
@@ -7641,7 +7655,7 @@ TVC's guide does not clearly explain these official distinctions.
 
 Instead, it repeatedly presents Form 205 as though the same numbered document serves both the application and certification functions.
 
-### Treaty Benefits Depend on Correct Documentation
+#### Treaty Benefits Depend on Correct Documentation
 
 Thai tax residency certificates can be important when individuals or companies claim relief under double-taxation agreements.
 
@@ -7657,7 +7671,7 @@ Applicants following incorrect form instructions could:
 
 The consequences may be particularly significant when a taxpayer faces filing deadlines or needs a certificate to support reduced foreign withholding taxes.
 
-### Relevance to TVC's Professional Services
+#### Relevance to TVC's Professional Services
 
 Thai Visa Centre markets immigration coordination, relocation planning, and related administrative guidance to foreign residents.
 
@@ -7669,13 +7683,13 @@ Nevertheless, the agency presents an incorrect or unsupported form designation t
 
 **TVC should replace its repeated references to Form 205 with the Revenue Department's documented R.O.01 application and R.O.22 Certificate of Residence, clearly distinguish the two documents, and provide accurate supporting-document instructions for individuals and companies.**
 
-## Corporate Compliance Guides Misstate Mandatory Audits and Tax Deadlines
+### Corporate Compliance Guides Misstate Mandatory Audits and Tax Deadlines
 
 Thai Visa Centre's guides *Accounting and Tax Compliance in Thailand* and *Corporate Tax in Thailand*, both marked reviewed June 2026, contain incorrect instructions concerning mandatory audits, corporate tax prepayments, and social-security contributions.[^266][^267]
 
 These discrepancies are significant because TVC advertises company-registration coordination, work-permit assistance, and referrals to accounting professionals.
 
-### Thai Limited Companies Are Not Exempt From Annual Audits Based on Size
+#### Thai Limited Companies Are Not Exempt From Annual Audits Based on Size
 
 TVC's accounting guide answers its FAQ about mandatory audits by stating that the requirement depends on company size and that many startups are initially exempt.[^266]
 
@@ -7695,7 +7709,7 @@ It does not establish a general audit exemption for newly incorporated or small 
 
 Consequently, a newly registered limited company cannot dispense with its annual statutory audit merely because it has few employees, modest assets, limited revenue, or has not yet begun significant operations.
 
-### TVC Also Misstates the Annual Filing Schedule
+#### TVC Also Misstates the Annual Filing Schedule
 
 TVC's accounting guide combines the statutory audit, corporate income tax return, and Department of Business Development (DBD) financial-statement submission under a single deadline of 150 days after the accounting year ends.[^266]
 
@@ -7709,7 +7723,7 @@ These deadlines are related but should not be presented as identical.
 
 The DBD deadline follows shareholder approval, whereas PND.50 has its own statutory filing period.
 
-### PND.51 Is Not Payable in Two Midyear Installments
+#### PND.51 Is Not Payable in Two Midyear Installments
 
 TVC's accounting guide describes PND.51 corporate income tax prepayments as occurring twice yearly.[^266]
 
@@ -7727,7 +7741,7 @@ The prepayment is subsequently credited against the company's annual tax liabili
 
 This distinction matters for cash-flow forecasting and scheduling corporate tax payments.
 
-### Social-Security Payments Follow a Separate Deadline
+#### Social-Security Payments Follow a Separate Deadline
 
 TVC's accounting FAQ states that withholding tax, VAT, and social-security contributions are due by the seventh day of the following month, or the fifteenth when filed electronically.[^266]
 
@@ -7739,7 +7753,7 @@ The fifteenth is the ordinary contribution deadline, not merely an electronic-fi
 
 Different Revenue Department forms also have different filing schedules, so combining all three obligations under one generalized deadline is misleading.
 
-### Consequences for Foreign Business Owners
+#### Consequences for Foreign Business Owners
 
 Incorrect compliance guidance could expose foreign entrepreneurs to avoidable problems.
 
@@ -7757,7 +7771,7 @@ Nevertheless, **its published corporate-compliance guidance gives incorrect expl
 
 TVC should remove the supposed general startup audit exemption, distinguish limited companies from qualifying registered partnerships, correct the PND.51 schedule, and separate DBD, Revenue Department, and Social Security Office filing deadlines.
 
-## Regional Operating Headquarters Guide Advertises Tax Incentives Abolished Years Earlier
+### Regional Operating Headquarters Guide Advertises Tax Incentives Abolished Years Earlier
 
 Thai Visa Centre's *Regional Operating Headquarters (ROH) in Thailand: Tax and Visa Guide*, marked reviewed June 2026, presents Thailand's former Regional Operating Headquarters program as an active tax-incentive scheme available to businesses.[^334]
 
@@ -7769,7 +7783,7 @@ The guide also advertises Thai Visa Centre's assistance with visas and work perm
 
 **These instructions present a discontinued tax-incentive regime as though new companies could still obtain approval in 2026.**
 
-### Thailand Replaced ROH With the International Business Centre Regime
+#### Thailand Replaced ROH With the International Business Centre Regime
 
 Thailand originally established Regional Operating Headquarters incentives to encourage multinational businesses to locate management and support functions in the country.
 
@@ -7787,7 +7801,7 @@ Grant Thornton Thailand documented the March 2019 Cabinet decision withdrawing t
 
 **TVC's instructions for obtaining new ROH tax status are therefore incompatible with the government's replacement of that program years before its purported June 2026 review.**
 
-### BOI Directs New Headquarters Projects Toward IBC
+#### BOI Directs New Headquarters Projects Toward IBC
 
 Thailand's Board of Investment provides guidance addressing businesses previously promoted under ROH or IHQ arrangements.[^337]
 
@@ -7803,7 +7817,7 @@ However, those historical arrangements do not establish a currently available RO
 
 **TVC makes no meaningful distinction between legacy ROH operations and applications for incentives under the replacement IBC framework.**
 
-### IBC Has Different Eligibility and Tax Requirements
+#### IBC Has Different Eligibility and Tax Requirements
 
 The International Business Centre regime is not merely the old ROH program operating under a different name.
 
@@ -7823,7 +7837,7 @@ These incentives differ materially from the historical ROH benefits advertised i
 
 Consequently, companies following TVC's ROH checklist could misunderstand both the relevant application authority and the financial qualifications necessary to obtain available tax benefits.
 
-### TVC Advertises Professional Immigration Coordination for the Obsolete Program
+#### TVC Advertises Professional Immigration Coordination for the Obsolete Program
 
 The discrepancy extends beyond historical corporate-tax commentary.
 
@@ -7839,7 +7853,7 @@ However, **these possibilities do not make the discontinued ROH tax-approval pro
 
 TVC should distinguish ordinary employment authorization and legacy corporate permissions from incentives newly obtainable through the IBC framework.
 
-### Financial Implications for Multinational Businesses
+#### Financial Implications for Multinational Businesses
 
 Incorrect advice concerning investment incentives can have substantial financial consequences.
 
@@ -7858,6 +7872,12 @@ The available evidence does not establish that Thai Visa Centre has submitted in
 Nevertheless, the agency presents detailed instructions for an abolished tax-incentive arrangement while advertising professional visa and work-permit coordination for businesses using that structure.
 
 **Thai Visa Centre should withdraw its ROH application instructions for new companies, identify the historical termination of the program, distinguish legacy approvals from currently available incentives, and direct prospective headquarters investors toward the applicable IBC framework.**
+
+### Commercial Significance of the Financial-Guidance Errors
+
+The findings concern different kinds of compliance: transfer taxes depend on the transaction and the applicable tax base; personal income tax on foreign-source remittances depends on residency, timing, and exemptions; residency certificates require the proper Revenue Department procedure; ordinary limited companies have statutory audit and filing obligations; and newly established headquarters cannot obtain incentives through an obsolete ROH application route.
+
+**Treating these requirements as interchangeable or repeating superseded instructions risks misdirecting both individual residents and foreign-owned businesses.** TVC should reconcile its commercial guides with its own legal archive and current government instructions, identify which legal rules apply to each customer situation, and avoid implying that optional professional services substitute for correct filing procedures. The evidence documents published inaccuracies and inconsistencies, not actual unnecessary payments, tax penalties, or incorrect applications by individual customers.
 
 ## Company-Dissolution Guide Misstates Shareholder Meetings and Statutory Filing Deadlines
 
@@ -10983,3 +11003,5 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^635]: https://travel.state.gov/content/travel/en/us-visas/immigrate/family-immigration/immigrant-visa-for-spouse.html — U.S. Department of State, *Immigrant Visa for a Spouse of a U.S. Citizen (IR1 or CR1)*; required DS-260 application and conditional residence based on marriage duration when the immigrant spouse enters the United States.
 
 [^636]: `https://tvc.co.th/foreign-visas/other/cr1-visa-requirements` — Thai Visa Centre, *US Spousal CR1 Visa Requirements in Thailand*, accessed November 24, 2026; correctly identifies DS-260 but repeats the visa-issuance-date rule for CR-1 versus IR-1.
+
+[^637]: `https://tvc.co.th/th/law/foreign-income-tax` — Thai Visa Centre, *Foreign-sourced income & tax residency*, law archive accessed November 24, 2026; acknowledges Revenue Department Orders P.161/2566 and P.162/2566 and later-year remittance taxation of qualifying post-2023 income.
