@@ -131,6 +131,30 @@ However, **the directory presents the result as independent recognition while it
 
 Its Terms of Service separately disclaim verification of individual reviewer identities and experiences, despite the award promoting its large verified review base.[^8]
 
+### Promoting Immigration Processing Without Personal Attendance
+
+Thai Visa Reviews identifies nationwide passport collection and delivery as one of the reasons it selected Thai Visa Centre for its June 2026 Agency of the Month award.
+
+Its editorial endorsement explicitly states that customers in Phuket and other provinces:
+
+> never have to visit immigration in person.
+
+The award also praises the agency's retirement-extension processing, citing passport turnaround times of 48 hours to five days.[^9]
+
+These representations are significant because the Immigration Bureau's published retirement-extension handbook describes an ordinary application procedure involving personal attendance, document inspection, and photographic recording of the applicant.[^22]
+
+The [Thai Visa Centre investigation](../brands/thai-visa-centre.md) separately documents a March 2026 customer testimonial describing repeated retirement extensions without visiting an immigration office.
+
+Rather than examining how such arrangements comply with published immigration procedures, Thai Visa Reviews presents the absence of personal attendance as a reason to recommend the agency.
+
+Its own homepage advises consumers to exercise caution when agencies claim special government connections and acknowledges that commercial intermediaries cannot accelerate official government processing times.[^1]
+
+**The directory promotes unusually convenient immigration-processing arrangements without explaining the official requirements that ordinarily apply to those procedures.**
+
+Applicable exceptions or subsequent procedural changes may permit certain applications without personal attendance. The available evidence does not establish that individual extensions were obtained unlawfully.
+
+Nevertheless, a publication claiming to independently evaluate immigration agencies should distinguish ordinary administrative assistance from arrangements that appear to depart from published government procedures.
+
 ### Credibility of the Award
 
 The problem is not simply that Thai Visa Centre received a favorable review.
@@ -421,3 +445,4 @@ Combined with its previously documented incorrect corporate information and unsu
 [^19]: `https://thaivisareviews.com/agency/tmt-thailand`
 [^20]: `https://thaivisareviews.com/agency/tvs-visa-services-pattaya`
 [^21]: `https://thaivisareviews.com/agency/thai-visa-expert`
+[^22]: https://hatyaiimmigration.go.th/ITA/ita68/8/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%9E%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B8%B0/New%2050%20Handbooks/23-Public-Handbook-2.22-retirement.pdf — Immigration Bureau public handbook, Section 2.22, retirement extensions, published November 8, 2019; copy hosted by Hat Yai Immigration.
