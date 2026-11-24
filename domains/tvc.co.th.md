@@ -8964,13 +8964,19 @@ The consequences are serious because bail decisions directly affect personal lib
 Thai Visa Centre should correct its bail guide to explain Section 110, disclose the possibility of release without financial security, and acknowledge the commercial bail insurance products available in Thailand.
 
 
-## Property Guides Falsely Claim Unregistered Leases Do Not Bind New Owners
+## Misleading Lease Enforceability, Landlord Obligations, and Tenant Protections
+
+Thai Visa Centre publishes misleading and incomplete guidance about two distinct aspects of renting property in Thailand: whether an enforceable lease survives a change of ownership, and when additional consumer-protection rules govern residential rental businesses. Its lease guides wrongly suggest that unregistered leases do not bind new owners, while its landlord guidance omits important contract-control requirements introduced in 2025.
+
+**General lease-enforceability rules and the additional requirements imposed on qualifying residential landlords are not interchangeable.** The findings below distinguish tenants' rights under the Civil and Commercial Code from the statutory obligations of covered rental businesses, including the three-unit threshold under the updated regulations.
+
+### Property Guides Falsely Claim Unregistered Leases Do Not Bind New Owners
 
 Thai Visa Centre publishes misleading advice about the legal protection afforded to tenants when leased property changes ownership.
 
 Its *Property Lease Agreement in Thailand* and *Property Leases in Thailand* guides, both marked reviewed June 2026, incorrectly suggest that unregistered leases cannot bind subsequent property owners.[^427][^428]
 
-### Incorrectly Claims Unregistered Leases Do Not Survive Property Sales
+#### Incorrectly Claims Unregistered Leases Do Not Survive Property Sales
 
 The property lease agreement guide explicitly states:
 
@@ -8986,7 +8992,7 @@ The new owner assumes the previous owner's rights and obligations toward the ten
 
 The statute does not categorically exclude unregistered leases from this protection.
 
-### Unregistered Leases Remain Enforceable for Up to Three Years
+#### Unregistered Leases Remain Enforceable for Up to Three Years
 
 Section 538 establishes a separate rule governing lease documentation and registration.[^430]
 
@@ -9002,7 +9008,7 @@ The remaining two years cannot ordinarily be enforced without registration.
 
 TVC's advice incorrectly conflates the inability to enforce an unregistered lease beyond three years with the complete absence of protection against future owners.
 
-### Supreme Court Decision Confirms the Distinction
+#### Supreme Court Decision Confirms the Distinction
 
 Thailand's Supreme Court addressed this issue in Decision No. 1564/2558 (2015).
 
@@ -9016,7 +9022,7 @@ However, the court also applied **Section 569**, recognizing that the purchaser 
 
 The ruling demonstrates that registration requirements and the survival of an enforceable lease after a property transfer are distinct legal questions.
 
-### Misleading Foreign Tenants About Their Rights
+#### Misleading Foreign Tenants About Their Rights
 
 These errors could lead foreign tenants to believe they automatically lose their right to occupy rented homes, commercial premises, or leased land when a landlord sells the property.
 
@@ -9027,7 +9033,7 @@ They could also encourage tenants to surrender possession, renegotiate existing 
 The distinction is fundamental to Thai property law and particularly important for foreigners entering expensive residential or commercial leasing arrangements.
 
 
-## Landlord Guide Omits Mandatory Residential Lease Protections Introduced in 2025
+### Landlord Guide Omits Mandatory Residential Lease Protections Introduced in 2025
 
 Thai Visa Centre's *Becoming a Landlord in Thailand*, marked reviewed June 2026, provides incomplete guidance on residential tenancy law while overlooking major consumer-protection regulations introduced in September 2025.[^432]
 
@@ -9035,7 +9041,7 @@ The guide advertises advice for foreign condominium owners renting properties in
 
 However, it fails to explain Thailand's updated contract-control regulations despite specifically presenting itself as a guide to landlord compliance.
 
-### Fails to Identify the 2025 Residential Lease Regulations
+#### Fails to Identify the 2025 Residential Lease Regulations
 
 Thailand's Contract Committee introduced new regulations under the Consumer Protection Act through its Notification on Residential Building Rental Businesses B.E. 2568 (2025).
 
@@ -9045,7 +9051,7 @@ The rules apply to qualifying residential rental businesses, including houses, c
 
 **TVC's guide never identifies this threshold or explains which landlords must comply with the mandatory contract requirements.**
 
-### Omits Mandatory Deposit Limits and Refund Deadlines
+#### Omits Mandatory Deposit Limits and Refund Deadlines
 
 TVC's lease checklist describes deposits as:
 
@@ -9063,7 +9069,7 @@ Normal wear and tear cannot be treated as tenant-caused damage.
 
 TVC's guide discusses deposit disputes and warns landlords against retaining deposits without documentation, yet omits the statutory deadlines governing repayment.
 
-### Ignores Prohibited Utility Charges and Contract Terms
+#### Ignores Prohibited Utility Charges and Contract Terms
 
 The regulations also prohibit covered landlords from:
 
@@ -9080,7 +9086,17 @@ Unlawful contractual clauses can be treated as unenforceable under the Consumer 
 
 Violations of applicable contract-control requirements can expose landlords to criminal penalties, including fines of up to 200,000 baht and imprisonment of up to one year.[^435]
 
-### Published Review Dates Raise Further Questions
+#### TVC's Legal Archive Repeats the Superseded Five-Unit Threshold
+
+TVC's separate *Tenants' Rights, Residential Leases & Property Tax* law archive expressly identifies the 2025 residential rental notification and its September 4, 2025 effective date.[^638] Nevertheless, its *In plain English* summary says that the contract-control rules bind residential landlords operating **five or more rental units**, with an additional reference to digital rental platforms.
+
+That numerical threshold belongs to the superseded 2019 framework. The 2025 notification expanded coverage to qualifying residential rental businesses offering **three or more units**, whether located together or across different properties.[^433][^435] The archive itself identifies the older 2019 notification as regulating landlords with five or more units, yet repeats that figure in the summary of the rules currently in force.[^638]
+
+**The misleading summary could cause an operator renting three or four qualifying residential units to believe the mandatory contract rules do not apply.** The agency's commercial landlord guide omits the revised threshold altogether, while the law archive acknowledges the new notification but retains the old numerical test.
+
+The evidence does not establish that TVC has advised any particular landlord to disregard these requirements or caused a tenant to lose legal protections. It establishes contradictory and incomplete public guidance about which landlords are subject to the rules.
+
+#### Published Review Dates Raise Further Questions
 
 The regulations had already been in force for approximately nine months when TVC's guide was supposedly reviewed in June 2026.
 
@@ -9090,6 +9106,24 @@ Yet its discussion of residential lease compliance remains focused on general Ci
 
 Thai Visa Centre should update its publication to identify the 2025 regulations, distinguish covered rental businesses from smaller private landlords, and explain the mandatory protections governing residential lease agreements.
 
+### Distinguishing Ordinary Lease Rights From Residential Contract Controls
+
+The two legal frameworks address different questions:
+
+| Situation | Relevant legal protection or obligation |
+|---|---|
+| An enforceable lease when a property is sold | Section 569 generally preserves the lease against the new owner; the absence of long-term registration does not alone extinguish the enforceable portion of the lease.[^429] |
+| A lease for more than three years that was not registered | Section 538 generally limits enforceability to three years despite a longer written term.[^430][^431] |
+| A qualifying residential rental business offering three or more units | The 2025 contract-control notification imposes additional requirements concerning rental terms, deposits, refunds, utilities, and prohibited landlord conduct.[^433][^434][^435] |
+| A smaller landlord outside the contract-control notification | The notification's additional duties do not automatically apply merely because premises are rented; applicable Civil and Commercial Code provisions and other legal obligations may still protect the tenant. |
+
+**A lease can be enforceable after a property sale without the landlord falling within the three-unit residential-business regime; likewise, mandatory residential contract terms do not replace the separate registration rules for long leases.** TVC should explain both distinctions consistently across its property guides and law archive.
+
+### Commercial Significance for Landlords and Tenants
+
+Misstating lease survival could lead tenants to abandon enforceable rights after a sale. Omitting or misstating the scope of residential contract controls could lead covered landlords to use noncompliant terms, with consequences for deposits, utility bills, and disputes. Both problems can affect foreign residents and property owners seeking reliable compliance advice.
+
+The available evidence documents published inaccuracies, not particular unlawful rental transactions, financial losses, or lost tenancy rights caused by TVC. Its publications should accurately explain Sections 538 and 569, the 2025 three-unit threshold, and the additional protections available to tenants of qualifying residential rental businesses.
 
 ## TVC's Civil Litigation Guides Misstate Court Costs, Procedure, Representation, Appeals, and Enforcement
 
@@ -11059,3 +11093,5 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 [^636]: `https://tvc.co.th/foreign-visas/other/cr1-visa-requirements` — Thai Visa Centre, *US Spousal CR1 Visa Requirements in Thailand*, accessed November 24, 2026; correctly identifies DS-260 but repeats the visa-issuance-date rule for CR-1 versus IR-1.
 
 [^637]: `https://tvc.co.th/th/law/foreign-income-tax` — Thai Visa Centre, *Foreign-sourced income & tax residency*, law archive accessed November 24, 2026; acknowledges Revenue Department Orders P.161/2566 and P.162/2566 and later-year remittance taxation of qualifying post-2023 income.
+
+[^638]: `https://tvc.co.th/law/tenants-rights-ocpb` — Thai Visa Centre, *Tenants' Rights, Residential Leases & Property Tax*, accessed November 24, 2026; correctly identifies the September 2025 notification but its plain-English summary continues to say residential landlords operating five or more units are covered, excepting a reference to digital platforms; its source list identifies the five-unit threshold as part of the superseded 2019 notification.
