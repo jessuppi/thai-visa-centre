@@ -86,6 +86,40 @@ The company also disclaims responsibility for inaccurate or falsified customer d
 
 **Checking whether documents satisfy application requirements is not the same as independently authenticating those documents.** The distinction is important because the company's promotional emphasis on comprehensive verification is considerably broader than the responsibility it accepts under its contract.
 
+## Prohibiting Customer Review of Visa Applications Before Submission
+
+Issa Compass's Terms of Service, updated November 24, 2026, expressly prohibit customers using its submission services from reviewing application materials prepared on their behalf.
+
+Section 6.8(a) prevents customers from inspecting, commenting on, or approving application forms, cover letters, declarations, and other submission materials before they are sent to government authorities.[^5]
+
+Section 6.8(e) further establishes that being denied access to these materials before submission does not entitle customers to a refund.
+
+### Contradiction With Official Thai Embassy Guidance
+
+On November 19, 2026, the Royal Thai Embassy in Moscow published detailed consumer guidance specifically addressing commercial visa application services.[^11]
+
+The embassy explicitly advises customers:
+
+> Ask the company to show you the completed application before submission.
+
+It also recommends checking personal information, passport details, travel dates, and the declared purpose of travel, while warning against allowing intermediaries to submit false information or altered documents.
+
+**Issa Compass's contractual restrictions directly contradict this official consumer-protection recommendation.**
+
+### Customer Responsibility Without Prior Approval
+
+Section 6.6 of Issa Compass's contract places responsibility on customers for the accuracy, completeness, and authenticity of the information and documents they provide.
+
+However, Section 6.8 prevents those customers from reviewing how that information is ultimately presented in applications prepared and submitted by the company.
+
+This creates a significant accountability imbalance: customers remain responsible for their supplied information while being denied the opportunity to verify how the intermediary incorporates it into government submissions.
+
+The contractual restriction excludes self-submission plans and expressly preserves applicable data-protection rights.
+
+The available evidence does not establish that Issa Compass has submitted inaccurate or fraudulent applications, nor that its contractual restriction is itself unlawful.
+
+Nevertheless, denying customers an opportunity to review immigration declarations made on their behalf is difficult to reconcile with the safeguards explicitly recommended by Thai authorities.
+
 ## Paid Scripted Social Media Promotions and Singapore Consumer-Protection Law
 
 Issa Compass operates a commercial user-generated content (UGC) program that recruits individuals to produce and publish scripted promotional videos concerning Thailand's immigration requirements and the company's visa services.[^7]
@@ -204,6 +238,7 @@ The available evidence establishes the existence of the commercial program, but 
 [^8]: https://sso.agc.gov.sg/act/cpfta2003?ProvIds=P12- — Singapore Consumer Protection (Fair Trading) Act 2003, particularly Sections 3 and 4. See also https://www.ccs.gov.sg/resources/faqs/consumer-protection/ for the regulator's explanation of unfair practices.
 [^9]: https://asas.org.sg/About/Social-Media — Advertising Standards Authority of Singapore, Guidelines for Interactive Marketing Communication and Social Media, effective August 29, 2016, particularly Sections 3.1 and 3.5.
 [^10]: https://www.ccs.gov.sg/media-and-events/newsroom/announcements-and-media-releases/ccs-takes-action-against-45-businesses-and-a-fake-review-provider-for-fabricating-online-reviews/ — Competition and Consumer Commission of Singapore, September 30, 2026 enforcement announcement concerning fabricated online reviews.
+[^11]: https://moscow.thaiembassy.org/en/publicservice/thai-e-visa-application-procedures-recommendations — Royal Thai Embassy in Moscow, *Thai e-Visa Application Procedures, Recommendations and Precautions*, November 19, 2026.
 
 ## Additional Sources
 
