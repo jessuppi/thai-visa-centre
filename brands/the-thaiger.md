@@ -62,6 +62,32 @@ The current publisher should clarify whether previously published promotional im
 
 **The issue is not the mere publication of sponsored material, but whether readers can readily distinguish commercial immigration promotions from independently researched consumer guidance.**
 
+## June 2019 Investigation Into Undisclosed Visa-Agent Commissions
+
+On June 13, 2019, The Thaiger published an article examining the commercial network surrounding Thai visa applications in Penang, Malaysia.[^9]
+
+The article documented the experience of an anonymized applicant who reportedly spent more than 40,000 baht on a visa application process that could have been completed independently for substantially less.
+
+According to the applicant, his case had passed through four additional agents, each collecting a commission.
+
+The publisher criticized the resulting network of undisclosed intermediaries, additional charges, expensive accommodation packages, and commercial exploitation of inconsistent immigration requirements.
+
+It also warned readers that advice supplied by visa agents could reflect their own financial interests rather than those of their customers.
+
+### Contrast With Subsequent Commercial Activities
+
+The Thaiger subsequently incorporated visa referrals into its own commercial operations.
+
+Its published Terms of Use expressly identify visa services among its third-party referral programs, while disclaiming responsibility for the quality, accuracy, legality, and outcomes of services provided by those businesses.[^10]
+
+Its 2026 Destination Thailand Visa guide actively solicits prospective applicants' contact information for referral to an immigration specialist whose identity is not specified on the enquiry form.[^11]
+
+**The publisher has therefore transitioned from investigating undisclosed commercial intermediaries within Thailand's immigration industry to operating its own immigration referral service.**
+
+Commercial referrals are not inherently improper. However, the publisher's earlier reporting provides an important benchmark against which to evaluate its own transparency concerning referral compensation, intermediary relationships, and commercial recommendations.
+
+The 2019 article does not identify Thai Visa Centre as a participant in the reported commission arrangements, and its allegations concerning individual agents have not been independently verified.
+
 ## References
 
 [^1]: https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand
@@ -72,3 +98,9 @@ The current publisher should clarify whether previously published promotional im
 [^6]: https://thethaiger.com/guides/visa-information/thailand-digital-arrival-card-tdac-scams-and-how-to-protect-yourself
 [^7]: `https://thethaiger.com/editorial-standards` — Editorial Standards, last reviewed September 2026; accessed November 25, 2026.
 [^8]: https://asas.org.sg/About/Code — Advertising Standards Authority of Singapore, Singapore Code of Advertising Practice and associated guidelines.
+
+[^9]: `https://thethaiger.com/thai-life/visa-run-to-penang-a-personal-experience-1` — The Thaiger, June 13, 2019, historical reporting on visa-agent commissions.
+
+[^10]: `https://thethaiger.com/terms-of-use` — Sections 2 and 3, third-party liability and commercial referral arrangements.
+
+[^11]: `https://thethaiger.com/visas/dtv/` — Commercial immigration enquiry form, guide dated August 26, 2026.
