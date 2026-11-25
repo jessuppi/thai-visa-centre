@@ -77,6 +77,60 @@ The published policies do not establish unlawful international transfers, unauth
 
 **They establish a cross-border immigration-data processing arrangement whose division of legal and operational responsibilities is not fully explained in the customer-facing documents.**
 
+## Singapore Jurisdiction and Cross-Border Consumer Accountability
+
+Although Issa Systems Co., Ltd. provides in-person immigration assistance in Thailand, Issa Compass's Terms of Service identify Singapore-registered Issara Platforms Pte. Ltd. as the contractual service provider.[^7]
+
+Sections 16–18 establish the following dispute-resolution arrangements:
+
+- Singapore law governs the agreement.
+- Singapore courts have exclusive contractual jurisdiction.
+- Customers must first attempt informal dispute resolution, with the company undertaking to attempt resolution within 30 days.
+- Formal contractual notices are directed to the Singapore office.
+
+The Privacy Policy separately identifies Issa Systems as the company handling physical documentation and in-person customer interactions in Thailand.[^3]
+
+### Practical Implications for Customers
+
+This corporate arrangement raises questions about responsibility when disputes arise from activities performed at the company's Bangkok office.
+
+For example, customers may experience disputes concerning physical documents, staff instructions, application preparation, or payments associated with locally delivered services.
+
+The published documents do not clearly distinguish which obligations Issa Systems assumes independently and which it performs on behalf of Issara Platforms.
+
+**Customers receiving immigration assistance in Thailand are nevertheless presented with contractual terms directing disputes to Singapore.**
+
+### Singapore's Small Claims Tribunals
+
+Singapore's judiciary provides a relatively accessible mechanism for resolving qualifying consumer and service-contract disputes through its Small Claims Tribunals.[^8]
+
+The published eligibility requirements include:
+
+| Requirement | Condition |
+| --- | --- |
+| Ordinary claim limit | S$20,000 |
+| Extended limit with mutual consent | S$30,000 |
+| Filing deadline | Two years from the relevant cause of action |
+| Respondent | Must be served in Singapore |
+
+Identifying the correct contracting entity is therefore particularly important.
+
+A qualifying claim against the Singapore company may fall within the tribunal's jurisdiction, whereas a claim solely against the Thai company could encounter jurisdictional restrictions.
+
+### Mandatory Consumer Protections
+
+Section 35 of Singapore's Consumer Protection (Fair Trading) Act prevents businesses from contractually removing protections conferred by that legislation, subject to its applicable provisions and exceptions.[^9]
+
+The company's choice of Singapore law does not independently establish that every contractual restriction is enforceable or that mandatory Thai consumer protections cease to apply to locally delivered services.
+
+### Unresolved Corporate Responsibilities
+
+Issa Compass should clarify which company receives customer payments, employs or contracts the personnel delivering immigration assistance, assumes responsibility for physical documents, and administers refunds.
+
+The available evidence does not establish that the company has improperly prevented customers from pursuing legal remedies.
+
+Nevertheless, its cross-border corporate structure makes clear identification of contractual responsibilities particularly important for customers seeking financial redress.
+
 ## References
 
 [^1]: https://www.dataforthai.com/company/0105565194414/
@@ -86,3 +140,7 @@ The published policies do not establish unlawful international transfers, unauth
 [^5]: https://sso.agc.gov.sg/Act/PDPA2012?WholeDoc=1 — Singapore Personal Data Protection Act 2012, Section 26.
 [^6]: https://sso.agc.gov.sg/SL/PDPA2012-S63-2021?WholeDoc=1 — Singapore Personal Data Protection Regulations 2021, Regulations 10–12.
 [^7]: `https://www.issacompass.com/terms` — Terms of Service, updated November 24, 2026, particularly Section 6.3.
+
+[^8]: https://www.judiciary.gov.sg/civil/cases-eligible-small-claim — Singapore Judiciary, eligibility requirements for Small Claims Tribunals.
+
+[^9]: https://sso.agc.gov.sg/Act/CPFTA2003 — Singapore Consumer Protection (Fair Trading) Act 2003, particularly Section 35.
