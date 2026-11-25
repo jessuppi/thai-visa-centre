@@ -291,6 +291,40 @@ The available evidence does not establish that the government's online reporting
 
 It establishes specific discrepancies between the operator's promotional representations and the government's documented reporting features.
 
+## Perpetual Content Rights and Contradictory Data-Deletion Promises
+
+The Disclaimer published by AGENTS CO., LTD., dated April 2, 2025, contains a broad provision granting the company an indefinite license over information supplied through its website.[^21]
+
+Under its Content and Postings section, the company claims an "unlimited, perpetual right" to reproduce, distribute, publish, and reuse submitted information.
+
+Although the provision appears in a section discussing user-generated content, it does not expressly exclude private immigration documents uploaded through the reporting service.
+
+### Contradictory Retention and Deletion Provisions
+
+The company's published policies provide three different descriptions of its rights over customer information:
+
+| Document | Published provision |
+| --- | --- |
+| Disclaimer | Perpetual rights over submitted information. |
+| Data Protection Policy | Retention limited to service delivery and applicable legal obligations. |
+| Privacy Policy | Permanent account and personal-data deletion, with an exception for required payment transaction identifiers. |
+
+The Data Protection Policy additionally acknowledges that certain immigration records may require continued retention under legal or regulatory obligations.[^11][^12]
+
+The account-deletion promise does not expressly identify those additional exceptions.
+
+### Relevance to Immigration Customers
+
+AGENTS collects passport information, residential addresses, visa records, and identification photographs to perform paid immigration-reporting services.
+
+A general content-publication license may be appropriate for public comments or voluntarily submitted testimonials. Its application to confidential immigration documentation would raise substantially different privacy considerations.
+
+The operator should explicitly exclude confidential customer records from its content-publication license, identify applicable retention obligations, and reconcile its account-deletion assurances with those obligations.
+
+The available evidence does not establish that AGENTS has exercised its content-publication rights over private immigration documents or failed to honor a deletion request.
+
+The concern is the unresolved scope of its published contractual provisions.
+
 ## References
 
 [^1]: https://www.reddit.com/r/expatsinbangkok/comments/1tdqdc8/thailand_90_day_online_reporting/
@@ -314,3 +348,5 @@ It establishes specific discrepancies between the operator's promotional represe
 [^18]: https://www.mdes.go.th/law/detail/1905-Personal-Data-Protection-Act--B-E--2562--2019-
 [^19]: `https://90day.in.th/your-application-for-staying-longer-than-90-days-has-been-rejected` — Commercial rejection-resolution landing page, accessed November 25, 2026.
 [^20]: https://uttaradit.immigration.go.th/การรับแจ้งอยู่ในราชอาณา/ — Uttaradit Immigration, official 90-day reporting instructions, including application tracking, notifications, and passport replacement procedures.
+
+[^21]: `https://90day.in.th/policy/disclaimer` — Disclaimer, updated April 2, 2025, Content and Postings section.
