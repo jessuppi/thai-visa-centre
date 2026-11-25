@@ -199,6 +199,32 @@ These discrepancies are particularly consequential because `ltr.in.th` promotes 
 
 The reviewed material does not establish that the operator intentionally misrepresented these requirements or that a customer suffered a financial loss. It establishes specific deficiencies in the website's presentation of official eligibility rules and statutory tax benefits.
 
+## Contradictory Income Requirements for Remote Workers
+
+The November 25, 2026 revision of `ltr.in.th` provides updated eligibility guidance for applicants seeking the Work-from-Thailand Professional category of Thailand's LTR visa.[^15]
+
+Although the website correctly identifies the two-year average income requirement, it subsequently states:
+
+> One strong year does not erase a year under the line.
+
+This additional restriction is not supported by Section 3.3.1 of BOI Announcement Por. 3/2568, effective February 4, 2025.[^16]
+
+The official Thai announcement expressly uses the term เฉลี่ย (average) when establishing the income thresholds.
+
+For example, an applicant earning US$70,000 in one qualifying year and US$90,000 in the other would mathematically satisfy the US$80,000 average annual income threshold, subject to all remaining eligibility and evidentiary requirements.
+
+The same distinction applies to the reduced US$40,000 average income threshold available to applicants with specified additional qualifications.
+
+### Commercial Qualification Testing
+
+The discrepancy is relevant because the website offers an unofficial qualification test and promotes Thai Visa Centre's commercial immigration services.
+
+The reviewed guidance could cause prospective applicants with fluctuating annual earnings to incorrectly conclude that they fail the income requirement.
+
+The website does not identify a separate government provision requiring the applicable threshold to be met independently in each year.
+
+Whether its automated qualification test implements the same restrictive interpretation has not been independently established.
+
 ## References
 
 [^1]: `https://ltr.in.th/`
@@ -217,3 +243,7 @@ The reviewed material does not establish that the operator intentionally misrepr
 
 [^13]: https://ltr.boi.go.th/documents/Royal%20Decree%20issued%20under%20the%20Revenue%20Code%20No.743%20%28EN%29.pdf — BOI-hosted English translation of Royal Decree No. 743 B.E. 2565, Sections 3–6.
 [^14]: `https://tvc.co.th/law/foreign-income-tax` — Thai Visa Centre legal archive, *Foreign-sourced income & tax residency*, reviewed November 24, 2026.
+
+[^15]: `https://ltr.in.th/` — Work-from-Thailand Professionals guidance, updated November 25, 2026.
+
+[^16]: https://ltr.boi.go.th/documents/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_3_2568_(TH).pdf — Official Thai-language BOI Announcement Por. 3/2568, Section 3.3.1, page 3.
