@@ -138,6 +138,38 @@ The available evidence does not establish unauthorized data transfers or undiscl
 
 **It establishes that AGENTS operates a commercial ecosystem in which immigration assistance, hospitality partnerships, telecommunications, and additional travel services are deliberately interconnected.**
 
+### Contractual Liability Restrictions and Consumer Protection
+
+The Terms & Conditions governing AGENTS CO., LTD.'s commercial TDAC submission platform, last updated April 2, 2025, attempt to limit the company's aggregate liability to the greater of one dollar or the amount the customer paid in cash during the month preceding the event giving rise to liability.[^24]
+
+**For travelers using the company's free TDAC submission service without making other qualifying payments, the contractual liability ceiling would therefore be just $1, insofar as legally enforceable.**
+
+The agreement also excludes various categories of consequential damages, including those arising from negligence and breaches of statutory duties.
+
+These restrictions are particularly significant because AGENTS actively encourages travelers, hotels, travel agencies, and tour operators to use its platform to process passport information and immigration declarations, including unlimited group submissions.[^21]
+
+#### Commercial Partnerships Without Corresponding Accountability
+
+The agreement acknowledges that AGENTS may receive affiliate commissions from purchases made through external links.
+
+However, it simultaneously requires customers to waive claims against AGENTS concerning third-party services, including matters involving their privacy practices and data security.[^24]
+
+The company therefore reserves the ability to benefit financially from commercial referrals while attempting to restrict its responsibility for the associated risks.
+
+#### Statutory Compensation Under Thai Law
+
+Thailand's Unfair Contract Terms Act B.E. 2540 (1997), particularly Sections 4 and 8, restricts the enforceability of unreasonable contractual exclusions and limitations of liability.[^25]
+
+Furthermore, Sections 77 and 78 of Thailand's Personal Data Protection Act B.E. 2562 (2019) establish civil compensation provisions for damages resulting from violations of the Act, subject to specified statutory exceptions.
+
+Courts may also award additional punitive damages of up to twice the actual compensation.[^26]
+
+**AGENTS' contractual liability ceiling should not be interpreted as overriding these statutory protections.**
+
+The company's commercial model combines extensive personal-information collection, affiliated-business marketing, and third-party product distribution with contractual provisions attempting to minimize its financial accountability.
+
+This arrangement warrants scrutiny by Thailand's consumer-protection and personal-data protection authorities.
+
 ## Insurance Distribution Partnerships and Regulatory Accountability
 
 On September 24, 2025, a sponsored article published by The Thaiger identified several commercial partnerships integrated into AGENTS CO., LTD.'s Thailand Digital Arrival Card submission platform.[^20]
@@ -221,3 +253,9 @@ Nevertheless, the documented partnerships demonstrate that AGENTS' immigration p
 [^22]: `https://customer.bolttech.co.th/en/login` — Bolttech's corporate identity and insurance licensing disclosures.
 
 [^23]: https://www.tilleke.com/insights/thailand-amends-rules-on-insurance-policy-delivery-sales-and-advertising/ — September 24, 2026, legal analysis of upcoming insurance regulations.
+
+[^24]: `https://agents.co.th/tdac-apply/policy/terms-and-conditions/` — Terms & Conditions, April 2, 2025, particularly the third-party services and limitation of liability provisions.
+
+[^25]: https://www.thailandlawonline.com/translations/unfair-contract-terms-act — Unfair Contract Terms Act B.E. 2540 (1997), Sections 4 and 8, English translation.
+
+[^26]: https://mdes.go.th/law/detail/1905-Personal-Data-Protection-Act--B-E--2562--2019- — Ministry of Digital Economy and Society, English translation of the Personal Data Protection Act, Sections 77–78, pages 29–30.
