@@ -634,6 +634,38 @@ Prospective customers relying on these articles could unnecessarily restrict acc
 
 The available evidence does not establish that individual customers were rejected by Issa Compass on these grounds.
 
+## Contradictory Retirement Visa Financial Requirements
+
+Issa Compass publishes inconsistent explanations of the financial conditions governing retirement-based extensions of stay.
+
+### Incorrect Deposit Maintenance Period
+
+Immigration consultant Kat Hewett's retirement visa comparison guide, updated October 17, 2026, states that applicants must maintain 800,000 baht in their Thai bank accounts for three months before each annual renewal.[^38]
+
+However, Uttaradit Immigration's official published criteria specify a two-month period before application, followed by three months after approval and a minimum balance of 400,000 baht thereafter.[^39]
+
+Issa Compass's separate retirement cost guide contradicts itself by identifying both two-month and three-month pre-renewal requirements within consecutive paragraphs.[^40]
+
+### Overstating Combined Income and Savings Requirements
+
+Hewett's retirement comparison guide and her guide for American applicants identify a combination of 400,000 baht in savings and 40,000 baht in monthly income.[^38][^41]
+
+This combination amounts to 880,000 baht over a year.
+
+However, the Immigration Bureau's published criteria establish a combined annual income and bank deposit threshold of 800,000 baht, subject to applicable deposit-maintenance conditions.[^39]
+
+The official criteria do not prescribe Hewett's particular combination as the exclusive qualifying arrangement.
+
+A more recent guide attributed to immigration consultant Nic Bunpamee, updated November 13, 2026, correctly identifies the combined 800,000-baht threshold.[^42]
+
+### Commercial Significance
+
+Prospective retirement applicants relying on the company's inconsistent guidance could unnecessarily restrict access to their savings or incorrectly assess their financial eligibility.
+
+The available evidence does not establish that individual immigration offices accept every possible combination of savings and income, or that customers suffered financial losses because of these articles.
+
+Nevertheless, the company's published guidance should distinguish national eligibility criteria from local administrative practices.
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -700,3 +732,13 @@ The available evidence does not establish that individual customers were rejecte
 [^36]: https://www.thailand.go.th/issue-focus-detail/001_01_124-2 — Official government guidance concerning extensions for foreign family members of Thai nationals.
 
 [^37]: https://phitsanulok.immigration.go.th/คู่มือการให้บริการประชาชน/ — Immigration Bureau public handbook, Section 18.
+
+[^38]: `https://www.issacompass.com/insights/best-retirement-visas-for-thailand-which-option-is-right-for-you` — Kat Hewett, updated October 17, 2026.
+
+[^39]: https://uttaradit.immigration.go.th/การขออยู่ต่อ-2/ — Official retirement extension criteria, Section 22.
+
+[^40]: `https://www.issacompass.com/insights/non-immigrant-o-visa-for-retirees-full-cost-breakdown-including-bank-requirement`
+
+[^41]: `https://www.issacompass.com/insights/americans-moving-to-thailand` — Kat Hewett, updated November 4, 2026.
+
+[^42]: `https://www.issacompass.com/insights/retiring-in-thailand-visas-healthcare-and-costs` — Nic Bunpamee, updated November 13, 2026.
