@@ -138,6 +138,60 @@ The available evidence does not establish unauthorized data transfers or undiscl
 
 **It establishes that AGENTS operates a commercial ecosystem in which immigration assistance, hospitality partnerships, telecommunications, and additional travel services are deliberately interconnected.**
 
+## Insurance Distribution Partnerships and Regulatory Accountability
+
+On September 24, 2025, a sponsored article published by The Thaiger identified several commercial partnerships integrated into AGENTS CO., LTD.'s Thailand Digital Arrival Card submission platform.[^20]
+
+The article identified:
+
+- Tune Protect as the travel insurance provider.
+- Bolttech as the technology and insurance distribution partner.
+- TrueMove as the telecommunications distribution partner.
+
+These disclosures establish publicly advertised commercial relationships with businesses outside the immediate immigration-services network, although the underlying partnership agreements have not been independently examined.
+
+### Historical Insurance Operations
+
+AGENTS' corporate website identifies a COVID-era insurance comparison platform as one of its earlier commercial operations, claiming to have assisted more than 100,000 travelers.[^10]
+
+Its subsequent integration of insurance purchases into TDAC submissions represents a continuation of this commercial strategy.
+
+Rather than attracting customers exclusively through conventional insurance advertising, the company offers insurance products alongside assistance with mandatory immigration procedures.[^21]
+
+### Insurance Brokerage and Licensing
+
+Thailand regulates insurance agents and brokers through the Office of Insurance Commission (OIC).
+
+Bolttech's Thai customer portal identifies Bolttech Insurance Broker (Thailand) Co., Ltd. and publishes insurance licensing information.[^22]
+
+AGENTS' corporate website, meanwhile, prominently displays travel-business licence 11/10602 but does not identify an insurance brokerage licence.[^10]
+
+The available disclosures do not explain whether AGENTS acts solely as a marketing intermediary, receives referral commissions, collects insurance premiums, or performs other regulated distribution activities.
+
+A travel-business licence does not independently establish authorization to conduct insurance brokerage.
+
+The involvement of a licensed insurance partner may provide an appropriate regulatory arrangement, but the precise allocation of responsibilities remains unverified.
+
+### Upcoming Insurance Advertising Requirements
+
+On September 15, 2026, Thailand's OIC issued amendments to its insurance sales and advertising framework, scheduled to take effect on January 1, 2027.
+
+According to a September 24 legal analysis by Tilleke & Gibbins, the amendments strengthen requirements concerning third-party advertising, seller identification, promotional disclosures, and insurer oversight.[^23]
+
+These developments are relevant to commercial insurance promotions integrated into immigration-assistance websites.
+
+### Commercial Use of Immigration Information
+
+The sponsored article also describes telecommunications services linked to travelers' verified TDAC profiles.[^20]
+
+This establishes an advertised integration between immigration information and additional commercial services.
+
+AGENTS should clarify which information is transferred to its commercial partners, how customers authorize those transfers, which company receives insurance payments, and whether referral compensation is involved.
+
+The available evidence does not establish unlicensed insurance brokerage, unauthorized information sharing, or regulatory misconduct by any of the named partners.
+
+Nevertheless, the documented partnerships demonstrate that AGENTS' immigration platforms also function as distribution channels for regulated commercial products.
+
 ## References
 
 [^1]: https://www.dataforthai.com/company/0115562031107/
@@ -159,3 +213,11 @@ The available evidence does not establish unauthorized data transfers or undiscl
 [^17]: `https://tdac.agents.co.th/scam` — Published TDAC pricing comparison, complimentary hotel-partner submissions, and additional commercial services; accessed November 25, 2026.
 [^18]: https://tdac.immigration.go.th/manual/en/faq.html — Immigration Bureau guidance concerning authorized travel-agency submissions and personal-data processing.
 [^19]: `https://agents.co.th/tdac-apply/policy/privacy/` — Privacy Policy concerning commercial marketing and affiliated-company information sharing.
+
+[^20]: `https://thethaiger.com/travel/thailand-travel/early-thailand-tdac-applications-enhanced-by-insurance-and-esim-partnerships` — Sponsored article, September 24, 2025.
+
+[^21]: `https://agents.co.th/tdac-apply/about/` — Commercial TDAC service and optional insurance offerings.
+
+[^22]: `https://customer.bolttech.co.th/en/login` — Bolttech's corporate identity and insurance licensing disclosures.
+
+[^23]: https://www.tilleke.com/insights/thailand-amends-rules-on-insurance-policy-delivery-sales-and-advertising/ — September 24, 2026, legal analysis of upcoming insurance regulations.
