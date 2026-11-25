@@ -118,6 +118,34 @@ The available evidence does not establish that `tp.in.th` was officially classif
 
 It does, however, establish a historical pattern of commercializing free government registration procedures through privately operated immigration websites, warranting scrutiny of pricing transparency, customer-data handling, and representations concerning government processing.
 
+## Historical Immigration Data Collection and Subsequent Commercial Marketing
+
+Thailand Pass required travelers to provide personal identification, passport documentation, accommodation information, insurance records, and other supporting documents during the COVID-19 pandemic.[^7]
+
+The Ministry of Foreign Affairs explicitly restricted the stated purposes of personal information collected through its official registration system to processing and facilitating arrivals in Thailand.
+
+However, the privacy arrangements governing information collected through independently operated commercial registration services remain less clear.
+
+### Connection to Subsequent Immigration Marketing
+
+Thai Visa Centre has publicly acknowledged operating both tp.in.th and aq.in.th during the pandemic.[^1]
+
+As documented in the separate [AQ.in.th investigation](aq.in.th.md), a traveler reported receiving immigration-service marketing in May 2022 that expressly referenced an earlier quarantine accommodation booking.
+
+This historical account raises questions about whether customer information collected through pandemic-era travel services was subsequently incorporated into the agency's wider immigration marketing operations.
+
+### Retention Following the Abolition of Thailand Pass
+
+The government abolished mandatory Thailand Pass registration on July 1, 2022.[^6]
+
+The available records do not establish whether Thai Visa Centre subsequently deleted customer application documents, retained them for other commercial purposes, or transferred them to associated companies.
+
+The end of the government registration program therefore provides an important historical milestone against which to examine the retention and secondary use of customer information.
+
+The available evidence does not establish unauthorized processing of Thailand Pass records specifically. Nor does the reported reuse of quarantine booking information establish that passport or health documentation was reused for marketing.
+
+Nevertheless, the historical connection between pandemic-era travel assistance and subsequent immigration promotions warrants clarification of the businesses' original privacy disclosures, retention practices, and customer-consent arrangements.
+
 ## References
 
 [^1]: `https://tvc.co.th/scam`
