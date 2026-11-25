@@ -16,6 +16,46 @@ On March 17, 2022, longtime moderator [Tod Daniels](../people/tod-daniels.md) pu
 
 The acquisition transferred control of an established immigration advice community to a commercial visa agency. Members expressed appreciation for Daniels and the other moderators, while others raised concerns about the group's independence, potential promotion of paid visa services, and whether its previously impartial advice would be affected by the new ownership.[^4][^8]
 
+## June 2023: Membership Data Collection and Moderator Independence
+
+On June 22, 2023, longtime community member **Andy Oswald** questioned the increasing promotion of visa agencies within the Facebook community then identified as **Thai Visa Advice and Everything Else**.
+
+Oswald requested that moderators disclose whether they benefited personally or professionally from members using paid immigration services.[^14]
+
+### Acquisition Payments and Email Address Collection
+
+A former administrator or moderator identified as **Michael** claimed that the group's original founder was the only recipient of money from the acquisition. He denied that moderators received incentives to promote immigration services.
+
+However, he also disclosed a change introduced following the commercial takeover:
+
+> Also personally didnt like the addition of collecting e mail address by new owners
+
+Michael subsequently explained that prospective members were asked to supply their email addresses when joining. He did not know why the information was requested and said he had previously approved applicants who left the field blank.[^14]
+
+**This account identifies a potential source of customer contact information introduced through the acquisition of an established expatriate community.**
+
+### Moderator Recommendations and Commercial Independence
+
+Moderator **Brandon Thurkettle** denied financial affiliation with the agency but acknowledged recommending Thai Visa Centre's paid airport-entry services under certain circumstances.
+
+Moderator **Stuart Cumming** likewise denied receiving compensation or instructions to promote the owner's services, while defending recommendations of commercial immigration intermediaries.[^14]
+
+Other members defended the moderators' independence, although some complained about persistent promotion of Thai Visa Centre by another participant.
+
+### Personal Data Protection and Historical Marketing Complaints
+
+Sections 22–23 of Thailand's Personal Data Protection Act require proportionate collection of personal information and disclosure of its intended purposes, retention periods, potential recipients, and responsible controller.
+
+Section 32 also establishes the right to object to processing for direct marketing.[^15]
+
+The reported introduction of email collection is relevant to historical complaints concerning unsolicited Thai Visa Centre marketing.
+
+It raises specific questions about whether membership information was exported from Facebook, incorporated into commercial customer databases, or used to distribute immigration-service advertisements.
+
+The available discussion does not establish that these activities occurred.
+
+Nevertheless, acquiring established online communities and introducing requests for members' contact information creates a potential customer-acquisition channel that warrants investigation independently of the moderators' compensation arrangements.
+
 ## September 2023: Tod Daniels Faces Calls for Removal
 
 On September 24, 2023, longtime **Thai Visa Advice** moderator [Tod Daniels](../people/tod-daniels.md) publicly addressed a dispute involving a group member who demanded his removal after Daniels deleted what he described as an off-topic comment. Daniels alleged that the member had threatened to involve Thai police and have him arrested or deported over the moderation decision.[^5]
@@ -105,3 +145,7 @@ The original poster's full account name remains unverified because Ask Thailand 
 [^12]: `https://asq.in.th/question/what-are-the-recent-changes-to-the-thailand-visa-related-group-and-what-are-the-communitys-reactions` — Discussion dated November 7, 2026, retrieved through an indexed copy on November 25, 2026.
 
 [^13]: `https://asq.in.th/question/what-are-the-recent-changes-to-the-group-moderation-and-community-guidelines-and-how-do-they-affect-the-quality-of-information-shared` — Discussion dated November 7, 2026, retrieved through an indexed copy on November 25, 2026.
+
+[^14]: `https://asq.in.th/question/why-is-the-group-emphasizing-the-use-of-visa-agents-now-and-are-moderators-affiliated-with-them` — Discussion initiated by Andy Oswald, June 22, 2023.
+
+[^15]: https://mdes.go.th/law/detail/3577-Personal-Data-Protection-Act-B-E2562-2019- — Ministry of Digital Economy and Society, English translation of Thailand's Personal Data Protection Act, Sections 22, 23 and 32.
