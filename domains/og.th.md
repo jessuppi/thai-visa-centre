@@ -48,6 +48,43 @@ The clinic's published standard operating procedures describe prescription contr
 
 The actual transaction workflow and the relevant regulatory permissions would need examination before determining whether prohibited online sales are occurring.
 
+### Medical Treatment Claims Contradicted by Refund Policy
+
+OG.TH's published Resolution, Exchange & Refund Policy, last updated February 25, 2024, explicitly states:
+
+> These products are not intended to diagnose, treat, cure or prevent any medical ailments.[^17]
+
+The policy also denies providing medical advice and generally excludes refunds for dissatisfaction with product potency or medical efficacy.
+
+However, the website's more recent telemedicine standard operating procedure identifies Herb Plug Thai Traditional Medicine Clinic as its medical provider and describes clinical assessments, prescriptions, contraindication screening, and controlled dispensing.[^4]
+
+Thailand's June 2025 cannabis restrictions expressly limit lawful cannabis access to medical purposes involving authorized prescriptions.[^3]
+
+**OG.TH continues publishing commercial product terms that expressly deny the medical purpose upon which its current operating model relies.**
+
+### Restrictive Customer Refund Conditions
+
+The refund policy also imposes conditions characteristic of a conventional online retail business:
+
+- Customers must supply a complete unboxing video within 24 hours to obtain assistance concerning missing products.
+- Photographic evidence alone is rejected.
+- Undeliverable shipments may be compensated through store credit or replacement rather than a cash refund.
+- A delivery confirmation can eliminate refund eligibility even when the customer reports not receiving the shipment.[^17]
+
+The policy does not distinguish ordinary retail disputes from failures involving prescribed medical treatment.
+
+Meanwhile, OG.TH's general Terms & Conditions, dated June 9, 2022, attempt to limit aggregate liability to the greater of one dollar or qualifying payments made during the preceding month.[^1]
+
+The relationship between these historical retail conditions and the clinic's current medical responsibilities remains unexplained.
+
+### Unresolved Patient Protections
+
+The transition from recreational cannabis retail to regulated medical treatment should be reflected in the operator's contractual documentation.
+
+OG.TH's continued publication of nonmedical product disclaimers, restrictive retail refund conditions, and general commercial liability limitations raises questions about which protections apply to patients obtaining prescribed cannabis through its platform.
+
+The operator should clarify whether its historical retail policies remain applicable to medical transactions and identify the separate contractual arrangements governing clinical services and patient complaints.
+
 ## Conflicting Telemedicine Authorization Dates Across Languages
 
 OG.TH's multilingual compliance pages have displayed inconsistent information concerning Herb Plug Clinic's telemedicine authorization.
@@ -152,3 +189,5 @@ OG.TH also appears on Tripadvisor as a Bangkok attraction. A September 2026 comp
 [^14]: https://sumsub.com/privacy-notice-service/ — Sumsub service Privacy Notice, including international transfers and retention arrangements.
 [^15]: `https://og.th/policy/privacy` — General website Privacy Policy.
 [^16]: `https://og.th/policy/data-protection` — Data Protection Policy, last updated June 9, 2022.
+
+[^17]: `https://og.th/policy/refund` — Resolution, Exchange & Refund Policy, last updated February 25, 2024.
