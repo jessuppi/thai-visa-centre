@@ -285,6 +285,54 @@ This undermines confidence in the accuracy of testimonials used to market the ag
 
 The underlying discrepancy is examined further in the [`ltr.in.th`](ltr.in.th.md) investigation.
 
+## Commercial Bank-Account Assistance and Misleading Branch Discretion Claims
+
+Thai Visa Centre advertises a commercial bank-account opening service targeting retirement visa holders affected by recent banking policy changes and account freezes.[^655]
+
+The company's published pricing includes:
+
+| Service | Existing customers | New customers |
+| --- | --- | --- |
+| Bank-account opening | 7,000 THB | 8,000 THB |
+| Annual retirement extension | 15,000 THB | 15,000 THB |
+| Optional bank-account opening alongside an extension | 7,000 THB | 7,000 THB |
+
+The retirement extension prices exclude government fees.
+
+### Misleading Presentation of Branch Discretion
+
+Thai Visa Centre's separate national and Bangkok banking guides identify Bangkok Bank, Kasikornbank, Siam Commercial Bank, and Krung Thai Bank as popular institutions among foreign residents.[^656][^657]
+
+The guides repeatedly emphasize branch-manager discretion, suggesting that DTV holders can improve their prospects through introductions to cooperative branches.
+
+However, Kasikornbank's published savings-account eligibility requirements expressly exclude holders of tourist visas, visa exemptions, visas on arrival, and Destination Thailand Visas.[^658]
+
+This is an institution-wide published restriction rather than merely a preference expressed by individual branch employees.
+
+Thai Visa Centre's guides do not adequately distinguish these formal eligibility restrictions from discretionary decisions concerning supporting documentation.
+
+### Commercial Opportunities Created by Banking Restrictions
+
+On January 30, 2025, the Bank of Thailand announced strengthened measures addressing mule accounts and financial fraud, including enhanced screening and restrictions on high-risk customers.[^659]
+
+Thai Visa Centre subsequently advertised commercial assistance specifically addressing difficulties associated with banking restrictions and account freezes.
+
+Its publications acknowledge that customers must personally attend identity-verification interviews and that immigration agencies cannot legitimately bypass mandatory banking controls.
+
+Nevertheless, the agency simultaneously promotes its relationships with cooperative branches as a commercial advantage.
+
+**The company's marketing illustrates how stricter financial-compliance requirements can create additional revenue opportunities for immigration intermediaries.**
+
+### Unresolved Commercial Accountability
+
+The dedicated retirement banking service does not identify the participating financial institutions or explain whether its fees are refundable when account-opening applications are unsuccessful.
+
+The reviewed banking guides also do not explain whether Thai Visa Centre receives compensation from participating banks.
+
+The published material establishes a paid bank-account assistance service for retirement visa holders, not a separately priced account-opening service for DTV holders.
+
+It does not establish that Thai Visa Centre has circumvented banking restrictions or participated in improper account-opening arrangements.
+
 ## Misleading Retirement Visa Bank-Deposit Instructions
 
 Thai Visa Centre publishes an FAQ titled *Do Retirement Funds Have to Stay in the Bank Account?*, claiming customers can withdraw their 800,000-baht retirement deposit after immigration approves their extension and replenish the account before their next renewal.[^21]
@@ -11266,3 +11314,13 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^653]: `https://tvc.co.th/guides/litigation-thailand-legal-services` — Thai Visa Centre, Thailand Legal Services, reviewed June 2026.
 
 [^654]: https://resourcehub.bakermckenzie.com/en/resources/global-attorney-client-privilege-guide/asia-pacific/thailand/topics/03---scope-of-privilege — Baker McKenzie, Global Privilege and Professional Secrecy Guide, Thailand.
+
+[^655]: `https://tvc.co.th/retirement-bank-services` — Commercial bank-account opening and retirement extension services.
+
+[^656]: `https://tvc.co.th/guides/other-services-opening-a-bank-account-in-thailand` — National banking guide, last reviewed June 2026.
+
+[^657]: `https://tvc.co.th/guides/other-services-opening-a-bank-account-in-bangkok` — Bangkok banking guide and branch-introduction claims.
+
+[^658]: https://www.kasikornbank.com/en/personal/Account/Pages/savings.aspx — Kasikornbank's official savings-account eligibility requirements.
+
+[^659]: https://www.bot.or.th/en/news-and-media/news/news-20250130.html — Bank of Thailand, January 30, 2025, announcement concerning enhanced mule-account management measures.
