@@ -666,6 +666,32 @@ The available evidence does not establish that individual immigration offices ac
 
 Nevertheless, the company's published guidance should distinguish national eligibility criteria from local administrative practices.
 
+## Incorrect LTR Dependent Application Procedures
+
+In her guide to LTR dependent visas, updated November 14, 2026, Issa Compass immigration consultant Kat Hewett instructs families to obtain primary applicant approval before submitting dependent applications.[^43]
+
+The article's FAQ explicitly denies that dependents can apply before the primary applicant is approved.
+
+However, the Board of Investment's official application instructions establish a different procedure:[^44]
+
+- The primary applicant initiates an application and obtains a document number.
+- Each dependent creates a separate account and submits an application.
+- The primary applicant approves the linking request through their account.
+
+This procedure permits linked applications before the government completes its qualification assessment.
+
+The article therefore conflates application submission with final visa eligibility and issuance.
+
+### Commercial Significance
+
+The same article promotes Issa Compass's real-time verification system as capable of checking dependent applications against current embassy requirements.
+
+However, its instructions concerning application sequencing contradict the government agency responsible for administering LTR qualification endorsements.
+
+Families following the company's guidance could unnecessarily delay dependent applications while awaiting the primary applicant's approval.
+
+The available evidence does not establish that Issa Compass actually delays dependent applications or that customers have experienced adverse immigration outcomes as a result.
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -742,3 +768,7 @@ Nevertheless, the company's published guidance should distinguish national eligi
 [^41]: `https://www.issacompass.com/insights/americans-moving-to-thailand` — Kat Hewett, updated November 4, 2026.
 
 [^42]: `https://www.issacompass.com/insights/retiring-in-thailand-visas-healthcare-and-costs` — Nic Bunpamee, updated November 13, 2026.
+
+[^43]: `https://www.issacompass.com/insights/ltr-visa-dependents-bringing-your-spouse-and-children-to-thailand` — Kat Hewett, updated November 14, 2026.
+
+[^44]: https://ltr.boi.go.th/ — Official BOI application process, particularly the instructions for linking dependent applications.
