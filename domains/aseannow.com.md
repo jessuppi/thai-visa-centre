@@ -1306,6 +1306,30 @@ Nickles requested regulatory scrutiny of these practices, raising concerns about
 
 The complaint represents a formal escalation of the concerns documented in this article. Its allegations remain disputed or unverified, and no regulatory findings or enforcement decision have been established from the available information.
 
+## May 2021 Guaranteed COVID Extension Advertising
+
+On May 6, 2021, Thai Visa Centre's official Forum Sponsor account advertised pandemic-related 60-day extensions for 5,400 baht, including the government's 1,900-baht application fee.[^77]
+
+The agency promised guaranteed approval for accepted customers, document collection and delivery, application tracking, and a full 60-day stamp without an intermediate under-consideration period.
+
+The advertised price therefore included a commercial service charge of 3,500 baht.
+
+### Comparison With Ordinary Immigration Procedures
+
+Contemporary reporting by Pattaya Mail on June 1, 2021, identified the standard government fee as 1,900 baht and described the pandemic-related eligibility requirements.[^88]
+
+A community discussion dated May 21, 2021, subsequently republished on Thai Visa Centre's associated Ask Thailand platform, also describes the ordinary two-stage application procedure involving an under-consideration stamp and a subsequent immigration-office visit.[^89]
+
+The agency's commercial offer therefore explicitly marketed avoidance of an administrative stage experienced by ordinary applicants.
+
+### Historical Significance
+
+The advertisement establishes that guaranteed immigration outcomes formed part of Thai Visa Centre's commercial strategy by May 2021, less than a year after the August 2020 police investigation.
+
+The guarantee was conditional upon the agency accepting the customer.
+
+The available evidence does not establish how the agency obtained expedited decisions, whether immigration officers applied different procedures to its customers, or whether any improper payments occurred.
+
 ## References
 
 [^1]: `https://aseannow.com/forum_rules/`
@@ -1395,3 +1419,7 @@ The complaint represents a formal escalation of the concerns documented in this 
 [^85]: `https://aseannow.com/topic/1233360-aq-hotels-7-10-day-pricing-updated-regularly-by-the-hotels/`
 [^86]: `https://aseannow.com/topic/1255500-agent-for-residence-certificate-bangkok/`
 [^87]: `https://aseannow.com/topic/1240046-best-website-to-book-a-testgo-hotel/`
+
+[^88]: https://www.pattayamail.com/latestnews/news/covid-visa-extension-applications-approved-until-july-29-357777 — Pattaya Mail, June 1, 2021.
+
+[^89]: `https://asq.in.th/question/will-i-be-charged-again-for-my-60-day-covid-extension-in-thailand-1` — Republished community discussion dated May 21, 2021.
