@@ -24,6 +24,49 @@ Its Privacy Policy promises account and file deletion upon closure, subject to e
 
 These disclosures are relevant to evaluating the protection of sensitive immigration documents handled across multiple jurisdictions.
 
+### Automatic Document-Deletion Promises Versus Published Retention Terms
+
+Issa Compass's consumer guide, *What Happens to Your Personal Data After You Submit It to a Thailand Visa Service*, describes a specific automatic deletion procedure for uploaded immigration documents.[^12]
+
+The article states that all uploaded files are deleted once two conditions have been satisfied:
+
+- The applicant's visa has been issued.
+- The applicant has left Thailand.
+
+It expressly states that this process does not require a separate deletion request from the customer.
+
+The article also denies that administration of the company's money-back guarantee requires additional retention beyond this deletion trigger.
+
+However, Section 6 of Issa Compass's Privacy Policy, effective August 23, 2026, establishes a broader retention framework covering service delivery, payments, refunds, guarantee administration, taxation, disputes, and legal obligations.[^3]
+
+The policy describes account closure as a means of obtaining deletion, subject to exceptions for records the company must retain.
+
+It does not expressly reproduce the automatic deletion commitment described in the consumer guide.
+
+### Unresolved Retention Scenarios
+
+The relationship between these two published explanations remains unclear, particularly for customers whose applications are rejected, withdrawn, or abandoned before visa issuance.
+
+The automatic deletion procedure described in the article requires successful visa issuance, but does not explain what alternative deletion triggers apply when that condition is never satisfied.
+
+Similarly, the Privacy Policy does not clearly distinguish the retention of uploaded passport copies and financial documents from the retention of payment and refund records.
+
+These distinctions matter because retaining financial transaction records does not necessarily require retaining the underlying immigration documents.
+
+### Issa Compass's Own Consumer-Protection Advice
+
+The same consumer guide advises prospective customers to examine whether a visa agency's privacy policy clearly explains document retention periods, identifying vague disclosures as a warning sign.[^12]
+
+**Issa Compass therefore recommends a standard of retention transparency that its own published documents do not consistently demonstrate.**
+
+The two explanations could coexist if the company automatically deletes uploaded documents while separately retaining necessary contractual and financial records.
+
+However, that distinction is not clearly established in the published Privacy Policy.
+
+The available evidence does not establish improper document retention, unauthorized disclosure, or a failure to perform automatic deletion.
+
+It establishes an unresolved discrepancy between the company's specific public deletion assurances and its broader privacy terms.
+
 ## Unsubstantiated Monthly Application Volumes and Inconsistent Customer Statistics
 
 On April 9, 2026, Issa Compass announced that it had surpassed **100,000 users**. The same press release described 100,000 consultations, claimed a **99% visa approval rate for pre-qualified applications**, and reported reaching $1 million in annualized revenue within five months.[^5]
@@ -100,3 +143,4 @@ The reviewed publications do not supply this reconciliation. The company's own c
 [^9]: `https://www.issacompass.com/insights/thailands-growing-expat-economy-immigration-insights-from-issa-compass` — *Thailand's Growing Expat Economy: Immigration Insights from Issa Compass's 10,000+ Monthly Users*, published April 15, 2026, updated November 14, 2026; describes monthly platform and inbound users.
 [^10]: `https://www.issacompass.com/insights/how-issa-compass-prepares-your-thai-visa-application-before-it-ever-reaches-the-` — *How Issa Compass Prepares Your Thai Visa Application Before It Ever Reaches the Embassy*; describes processing and preparing applications for more than 10,000 expatriates monthly.
 [^11]: `https://www.issacompass.com/insights/how-to-verify-a-thailand-visa-services-credentials-before-you-hand-over-your-pas` — *How to Verify a Thailand Visa Service's Credentials Before You Hand Over Your Passport and Personal Documents*; advises consumers to seek independently verifiable reviews and track records.
+[^12]: `https://www.issacompass.com/insights/what-happens-to-your-personal-data-after-you-submit-it-to-a-thailand-visa-servic` — Consumer guide describing automatic document deletion, guarantee administration, and recommended privacy standards.
