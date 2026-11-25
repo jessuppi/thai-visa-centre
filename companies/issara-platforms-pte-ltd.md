@@ -130,6 +130,48 @@ The reviewed publications do not supply this reconciliation. The company's own c
 
 **The available evidence establishes inconsistent terminology and insufficiently substantiated performance statistics, not that the figures were fabricated or that the company failed to serve the stated number of users.**
 
+## Contractual Liability Limits and Singapore Consumer Protection
+
+Issa Compass's Terms of Service, updated November 24, 2026, impose substantial restrictions on the financial compensation available to customers experiencing service failures.[^13]
+
+### Compensation Limited to Previous Customer Payments
+
+Section 10 generally limits the company's aggregate liability to fees paid by the customer during the 12 months preceding the event giving rise to the claim.
+
+The restriction expressly extends to ordinary negligence, contractual breaches, and breaches of statutory duties, subject to applicable legal exceptions.
+
+The company also excludes numerous categories of damages, including consequential losses and loss of data.
+
+These restrictions are particularly significant for immigration customers whose potential financial losses may substantially exceed the original service fees.
+
+### Security Incidents and Customer Liability
+
+Section 9 acknowledges responsibility for losses directly caused by security incidents affecting the company's systems or personnel, subject to its contractual liability restrictions.
+
+Section 12 separately requires customers to indemnify the company and its affiliates against certain third-party claims arising from customer misconduct, inaccurate documentation, or unauthorized system access attributable to the customer.
+
+The reviewed provisions do not establish an equivalent express monetary cap on customers' indemnification obligations.
+
+### Singapore's Statutory Reasonableness Test
+
+Singapore's Unfair Contract Terms Act 1977 restricts contractual exclusions of liability for negligence and certain breaches of contract.
+
+Sections 2, 4 and 11 establish relevant safeguards concerning negligence liability, consumer indemnification obligations, and the reasonableness of contractual restrictions.[^14]
+
+Singapore's High Court has explained that assessing monetary liability limits involves consideration of the business's available financial resources and its ability to obtain insurance.[^15]
+
+### Express Exceptions and Unresolved Questions
+
+Issa Compass's terms expressly preserve liability for fraud, wilful misconduct, gross negligence, and other liabilities that cannot lawfully be excluded.
+
+The agreement also explicitly acknowledges the statutory reasonableness requirement.
+
+These qualifications are important and prevent the liability restrictions from being interpreted as absolute.
+
+Nevertheless, the company should clarify how its compensation limits apply to immigration-processing errors, compromised customer documents, and financial losses exceeding the original service fees.
+
+The available evidence does not establish that a Singapore court has assessed these particular provisions or determined them to be unenforceable.
+
 ## References
 
 [^1]: https://www.sgpbusiness.com/company/Issara-Platforms-Pte-Ltd
@@ -144,3 +186,9 @@ The reviewed publications do not supply this reconciliation. The company's own c
 [^10]: `https://www.issacompass.com/insights/how-issa-compass-prepares-your-thai-visa-application-before-it-ever-reaches-the-` — *How Issa Compass Prepares Your Thai Visa Application Before It Ever Reaches the Embassy*; describes processing and preparing applications for more than 10,000 expatriates monthly.
 [^11]: `https://www.issacompass.com/insights/how-to-verify-a-thailand-visa-services-credentials-before-you-hand-over-your-pas` — *How to Verify a Thailand Visa Service's Credentials Before You Hand Over Your Passport and Personal Documents*; advises consumers to seek independently verifiable reviews and track records.
 [^12]: `https://www.issacompass.com/insights/what-happens-to-your-personal-data-after-you-submit-it-to-a-thailand-visa-servic` — Consumer guide describing automatic document deletion, guarantee administration, and recommended privacy standards.
+
+[^13]: `https://www.issacompass.com/terms` — Terms of Service, updated November 24, 2026, Sections 9–12.
+
+[^14]: https://sso.agc.gov.sg/Act/UCTA1977 — Singapore Unfair Contract Terms Act 1977.
+
+[^15]: https://www.elitigation.sg/gd/s/2022_SGHC_10 — Singapore High Court judgment discussing statutory reasonableness requirements for liability limitations.
