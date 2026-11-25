@@ -521,6 +521,39 @@ These omissions are particularly significant because the directory recommends pa
 
 The available evidence does not establish deliberate deception or financial losses suffered by applicants. It does establish discrepancies between the directory's published guidance and official immigration requirements, alongside an unsubstantiated numerical approval claim.
 
+## Misleading O-X Retirement Visa Eligibility Requirements
+
+Thai Visa Reviews' retirement visa guide presents incomplete financial requirements and misleading health insurance guidance for Thailand's ten-year Non-Immigrant O-X visa.[^29]
+
+### Omission of Alternative Financial Eligibility
+
+The directory identifies a three-million-baht bank deposit as a mandatory financial requirement.
+
+However, Thailand's Department of Consular Affairs recognizes two qualifying arrangements:[^30]
+
+- A deposit of at least 3 million baht.
+- A deposit of at least 1.8 million baht combined with annual income of at least 1.2 million baht.
+
+Applicants using the second arrangement must subsequently accumulate the required three-million-baht deposit within one year.
+
+The directory omits this alternative, potentially misleading applicants about the initial capital required.
+
+### Overstated Health Insurance Requirements
+
+The directory also claims that O-X applicants must obtain the same three-million-baht medical insurance coverage required for O-A applicants.
+
+However, official guidance published by the Royal Thai Embassies in Washington and Budapest identifies O-X insurance thresholds of 40,000 baht for outpatient treatment and 400,000 baht for inpatient treatment.[^31][^32]
+
+Individual diplomatic missions may impose additional documentation or coverage conditions. Nevertheless, the directory fails to distinguish these requirements from the general O-X eligibility criteria.
+
+### Commercial Significance
+
+These inaccuracies appear alongside recommendations for commercial immigration agencies.
+
+Prospective retirees could incorrectly conclude that they are financially ineligible or require substantially more expensive medical insurance.
+
+The available evidence does not establish that customers purchased unnecessary services or insurance because of this guidance.
+
 ## References
 
 [^1]: `https://thaivisareviews.com/`
@@ -554,3 +587,11 @@ The available evidence does not establish deliberate deception or financial loss
 [^27]: https://osaka.thaiembassy.org/en/content/announcement-updated-requirements-dtv — Royal Thai Consulate-General, August 28, 2026, announcement of additional documentary requirements.
 
 [^28]: https://bucharest.thaiembassy.org/en/page/destination-thailand-visa-dtv — Royal Thai Embassy, official DTV requirements, updated November 15, 2026.
+
+[^29]: `https://thaivisareviews.com/visa/retirement` — Retirement visa guide, reviewed November 25, 2026.
+
+[^30]: https://thailand.go.th/issue-focus-detail/010_023 — Department of Consular Affairs, official O-X eligibility criteria.
+
+[^31]: https://washingtondc.thaiembassy.org/en/page/non-ox — Royal Thai Embassy, Washington, O-X requirements.
+
+[^32]: https://budapest.thaiembassy.org/en/publicservice/non-immigrant-o-x-visa-long-stay-10-years — Royal Thai Embassy, Budapest, O-X requirements.
