@@ -58,6 +58,42 @@ Consequently, the documented complaints do not independently establish grounds f
 
 Nevertheless, the Foundation's historical commitments and its current status as Thailand's designated domain manager provide relevant institutional context for requests that it review the conduct of its appointed registrar.
 
+## September 2025 Anti-Phishing Guidance and Unresolved Complaints
+
+On September 9, 2025, the THNIC Foundation published an educational article concerning deceptive website addresses, featuring explanations attributed to its director, Dr. Pensri Arunwatanamongkol.[^11]
+
+The article identifies several warning signs associated with deceptive websites:
+
+- Domain names resembling legitimate websites.
+- Recently registered domains.
+- Unclear domain ownership.
+- Requests for unnecessary personal information or important documents.
+- Misleading assurances of security based on SSL certificates.
+
+The Foundation recommends examining domain registration records and verifying the authenticity of websites before submitting personal information.
+
+### Relevance to Earlier Immigration Website Complaints
+
+These recommendations are directly relevant to the complaints submitted to THNIC between February and May 2025 concerning privately operated immigration websites associated with Thai Visa Centre.
+
+Those complaints raised questions about misleading website presentation, domain ownership, government affiliation, and the collection of travelers' personal information.
+
+The Foundation's September publication demonstrates institutional awareness of these general cybersecurity risks.
+
+However, the available complaint records do not establish whether equivalent criteria were applied when examining the reported immigration websites.
+
+### Domain Registration Versus Government Authorization
+
+The Foundation also promotes Thai domain registrations as a means of enhancing commercial credibility, including through its participation in a Department of Business Development event on February 27, 2025.[^12]
+
+Nevertheless, its registration policy distinguishes general-purpose .in.th domains and commercial .co.th domains from government-specific .go.th domains.
+
+Eligibility to register a Thai domain does not independently establish government authorization, professional competence, or the legitimacy of every service subsequently advertised through that domain.
+
+The Foundation's public cybersecurity guidance provides an additional benchmark against which to evaluate its oversight of the registrar's complaint-handling practices.
+
+The September article does not specifically identify Thai Visa Centre or establish that the reported immigration websites constitute phishing operations.
+
 [^1]: https://thnic.or.th/en/registryregistrar-eng/
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: THNIC correspondence, April 13–18, 2025 and October 21–November 12, 2026 (private correspondence; cases QWK-ZGJNX-001, VRK-ZLCQS-392, SKW-BDLDD-392, and QLL-SSKGH-073).
@@ -68,3 +104,7 @@ Nevertheless, the Foundation's historical commitments and its current status as 
 [^8]: https://www.iana.org/help/cctld-delegation-answers — IANA guidance concerning country-code domain management and delegation.
 [^9]: https://thnic.or.th/en/ — THNIC Foundation chairman's published statement.
 [^10]: https://www.iana.org/help/cctld-revocation — IANA guidance concerning revocation and the limits of international oversight.
+
+[^11]: https://thnic.or.th/sureandshare-link-scam/ — THNIC Foundation, cybersecurity guidance concerning deceptive website addresses, September 9, 2025.
+
+[^12]: https://thnic.or.th/en/news-thaionline-dbd2025_/ — THNIC Foundation, March 13, 2025, reporting on its participation in the February 27 business credibility event.
