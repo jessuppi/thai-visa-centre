@@ -236,6 +236,61 @@ The operator should clarify which processing activities it controls, identify an
 
 **For a business handling sensitive immigration records, unclear allocation of responsibility undermines its published assurances that customers' personal information receives appropriate legal protection.**
 
+## Misleading Government System Comparisons and Rejection-Resolution Advertising
+
+AGENTS CO., LTD. publishes a dedicated landing page targeting foreigners whose online 90-day immigration reports have been rejected.[^19]
+
+The page reproduces the government's rejection-message wording before directing visitors toward its paid reporting service, starting at 375 baht per report.
+
+### Government Application Tracking
+
+The company claims that online applications can remain pending indefinitely without any means of checking their progress.
+
+However, the Immigration Bureau's published instructions expressly describe an application-status feature within its free online reporting portal.[^20]
+
+The instructions also explain several functions available directly through the government system:
+
+| Feature | Official government system |
+| --- | --- |
+| Application tracking | Available through the applicant's account |
+| Application results | Delivered by email |
+| Reporting reminders | Sent 15 days before the next reporting date |
+| Previous submissions | Accessible through the status interface |
+
+The government's instructions describe a normal processing period of three working days.
+
+Technical failures and administrative delays may occur, but **the company's categorical claim that applicants cannot check pending applications contradicts the government's published system documentation.**
+
+### Presenting Ordinary Eligibility Restrictions as Technical Failures
+
+The commercial landing page attributes online rejection problems to technical errors, document-format restrictions, and address-verification difficulties.
+
+However, some applicants are expressly ineligible to use the online reporting system.
+
+For example, the Immigration Bureau requires foreigners who have obtained replacement passports to complete their next report through the immigration office responsible for their residence, either personally or through an authorized representative.[^20]
+
+Subsequent reports can ordinarily resume through the online system.
+
+This restriction is an established administrative requirement rather than necessarily a technical malfunction.
+
+The company's rejection-resolution page does not clearly distinguish between system failures and legitimate procedural restrictions.
+
+### Unsupported Claims About Immigration Consequences
+
+The same page warns that missed reports can result in airport departure difficulties, refused visa extensions, and adverse visa decisions in other countries.[^19]
+
+Although overdue reporting can result in financial penalties, the company does not provide official documentation establishing the broader consequences it describes.
+
+Its advertising also promises that purchasing the service will prevent missed deadlines and maintain a clean immigration record.
+
+These assurances should be considered alongside the previously documented contractual disclaimer concerning immigration outcomes.
+
+**The commercial landing page exaggerates deficiencies in the free government system while presenting paid assistance as protection against a wider range of immigration consequences than its supporting evidence establishes.**
+
+The available evidence does not establish that the government's online reporting system operates without problems or that commercial proxy assistance provides no legitimate benefit.
+
+It establishes specific discrepancies between the operator's promotional representations and the government's documented reporting features.
+
 ## References
 
 [^1]: https://www.reddit.com/r/expatsinbangkok/comments/1tdqdc8/thailand_90_day_online_reporting/
@@ -257,3 +312,5 @@ The operator should clarify which processing activities it controls, identify an
 [^17]: https://test.immigration.go.th/?page_id=1648
 
 [^18]: https://www.mdes.go.th/law/detail/1905-Personal-Data-Protection-Act--B-E--2562--2019-
+[^19]: `https://90day.in.th/your-application-for-staying-longer-than-90-days-has-been-rejected` — Commercial rejection-resolution landing page, accessed November 25, 2026.
+[^20]: https://uttaradit.immigration.go.th/การรับแจ้งอยู่ในราชอาณา/ — Uttaradit Immigration, official 90-day reporting instructions, including application tracking, notifications, and passport replacement procedures.
