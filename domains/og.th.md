@@ -64,6 +64,51 @@ None of these website statements independently verifies the current telemedicine
 
 **The differing published dates and missing independent regulatory verification warrant clarification, but the older Chinese-language copy cannot by itself establish an ongoing live discrepancy.**
 
+## Biometric Verification and Unresolved Medical Data Processing Arrangements
+
+OG.TH's published telemedicine standard operating procedure describes extensive collection of sensitive personal information through Herb Plug Thai Traditional Medicine Clinic.[^4]
+
+The documented workflow includes identity authentication, facial matching, medical histories, medication records, allergies, clinical assessments, and prescription records.
+
+### Thailand-Only Hosting and External Biometric Processing
+
+The clinic expressly states that its data is hosted within Thailand on ISO 27001-certified infrastructure.
+
+However, the same document identifies Sumsub as its external identity-verification provider, responsible for identity authentication, liveness detection, and facial matching.
+
+Sumsub's published service Privacy Notice permits international transfers of personal information where necessary to provide its services, subject to applicable safeguards.[^14]
+
+These general provisions do not establish that OG.TH customer information is actually transferred outside Thailand.
+
+Nevertheless, OG.TH does not explain whether its domestic hosting assurance extends to biometric information processed by Sumsub, its subcontractors, or associated verification infrastructure.
+
+**Hosting the clinic's own application within Thailand does not necessarily establish that every external processing activity also occurs within Thailand.**
+
+### Privacy Documentation Does Not Reflect Medical Operations
+
+OG.TH's general Privacy Policy describes ordinary account information, contact details, commercial transactions, and information obtained from external marketing partners.[^15]
+
+Its separate Data Protection Policy, last updated June 9, 2022, describes the company's business activities as centered on travel and accommodation.[^16]
+
+Substantially similar wording appears in the privacy documentation examined in the [WEED.TH corporate investigation](../companies/weed-th-co-ltd.md).
+
+The continued availability of this generic documentation is particularly noteworthy given OG.TH's subsequent expansion into medical consultations, biometric authentication, and prescription management.
+
+### Unresolved Data Protection Responsibilities
+
+The clinic's telemedicine documentation describes controlled retention schedules but does not publish their specific durations.
+
+The operator should clarify:
+
+- Whether its Thailand-only hosting assurance includes external biometric verification.
+- Which organizations retain identity documents and facial-verification records.
+- Applicable retention periods for clinical and biometric information.
+- Whether medical records are excluded from general commercial marketing activities.
+
+The available evidence does not establish unauthorized international data transfers, improper medical-data disclosure, or inaccurate security certification claims.
+
+It establishes that the operator's specific medical-data and domestic-hosting assurances are not fully explained by its publicly available general privacy documentation.
+
 ## Relevance to Thai Visa Centre
 
 These questions extend beyond an independent cannabis retailer.
@@ -104,3 +149,6 @@ OG.TH also appears on Tripadvisor as a Bangkok attraction. A September 2026 comp
 [^11]: `https://og.th/zh-CN/telemedicine-sop`
 [^12]: `https://og.th/ja/telemedicine-sop`
 [^13]: `https://og.th/ru/telemedicine-sop`
+[^14]: https://sumsub.com/privacy-notice-service/ — Sumsub service Privacy Notice, including international transfers and retention arrangements.
+[^15]: `https://og.th/policy/privacy` — General website Privacy Policy.
+[^16]: `https://og.th/policy/data-protection` — Data Protection Policy, last updated June 9, 2022.
