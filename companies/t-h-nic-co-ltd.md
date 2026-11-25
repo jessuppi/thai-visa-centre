@@ -51,7 +51,55 @@ The Foundation's English translation expressly identifies the Thai-language vers
 
 For the detailed complaint chronology, see the [THNIC investigation](../brands/thnic.md).
 
+## Operational Guidelines for Misleading Domains and Registrant Verification
+
+T.H.NIC Co., Ltd. publishes separate Domain Name Registration Guidelines describing how its personnel implement the THNIC Foundation's registration policies.[^5]
+
+These guidelines establish additional administrative procedures relevant to complaints concerning immigration-related websites.
+
+### Misleading Domain Names as Grounds for Rejection
+
+Section 2.5 expressly identifies domain names that mislead or confuse the public as grounds for rejecting or cancelling domain-related applications.
+
+The Foundation's underlying Domain Name Registration Policy also establishes relevant naming restrictions:
+
+- Section 7.9 addresses similarities to existing domains that could mislead the public concerning their respective holders.
+- Section 7.11 addresses names resembling well-known names or trademarks in ways that could misrepresent the origin or ownership of services.
+- Sections 7.14–7.15 establish the registrar's authority to examine registration rights, reject applications, and withdraw registered domains.[^2]
+
+These provisions are directly relevant to the registration of domains resembling the names of Thai government immigration programs.
+
+The general availability of .in.th registrations does not exempt applicants from the remaining naming restrictions.
+
+### Seven-Day Registrant Information Requirements
+
+Section 2.6 of the registrar's operational guidelines permits T.H.NIC to request updated information or verify existing information concerning domain registration and usage.[^5]
+
+Following such a request, the domain holder or relevant administrator must supply the requested information or update the registration system within seven days of receiving notification.
+
+The registrar also reserves the right to cancel registrations subsequently found to contain information inconsistent with its policies.
+
+Section 2.2 separately identifies failure to respond within a prescribed period, or inability to contact responsible parties, as circumstances potentially resulting in domain suspension or deletion.
+
+**The registrar therefore possesses a documented administrative mechanism for verifying domain registration information without first obtaining a judicial determination.**
+
+### Relevance to the November 2026 Complaints
+
+On October 29, 2026, THNIC confirmed that it had contacted the registered holder of `tvc.co.th` concerning disputed website content.[^3]
+
+However, the available correspondence does not establish whether this communication included a formal registration-information request under Section 2.6.
+
+The subsequent November 12 complaints also explicitly requested verification of the responsible domain holders and examination of potentially related registrations.[^4]
+
+T.H.NIC should clarify whether it exercised its information-verification powers, whether any formal response deadlines were imposed, and whether the resulting information established compliance with its naming and registration requirements.
+
+The seven-day deadline applies to registrants responding to qualifying registrar requests, not to the registrar's obligation to answer abuse complaints.
+
+Nevertheless, these operational guidelines identify specific administrative procedures through which the registrar could examine reported registration irregularities independently of disputes concerning website content.
+
 [^1]: https://thnic.or.th/en/registryregistrar-eng/
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: THNIC correspondence, February 27–May 1, 2025 and October 21–November 12, 2026 (private correspondence; cases QWK-ZGJNX-001, VRK-ZLCQS-392, SKW-BDLDD-392, and QLL-SSKGH-073).
 [^4]: Formal complaints submitted by Jesse Nickles to `abuse@thnic.co.th` and the THNIC Foundation on November 12, 2026, concerning `tdac.in.th`, `agents.co.th`, `tdac.agents.co.th`, `90day.in.th`, multiple immigration-related domain registrations, and independent review of registrar enforcement (private correspondence).
+
+[^5]: https://guideline.thnic.co.th/home — T.H.NIC Co., Ltd., Domain Name Registration Guidelines, particularly Sections 2.2, 2.5 and 2.6, examined November 26, 2026.
