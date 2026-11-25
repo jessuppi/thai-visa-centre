@@ -310,6 +310,38 @@ The available evidence does not establish unlawful data transfers, the sale of c
 
 Nevertheless, **historical consumer reports indicate that the commercial relationship between AQ.in.th and Thai Visa Centre extended beyond travel-booking assistance into subsequent immigration marketing.**
 
+## Historical Insurance Distribution and Misleading Entry Requirements
+
+On April 26, 2022, Pattaya Mail reported that Thai Visa Centre maintained an insurance comparison service through AQ.in.th.[^9]
+
+On May 25, 2022, The Thaiger published a sponsored article promoting insurance products from FWD, WorldTrips, MSIG, and LUMA through links to ASQ.in.th.[^10]
+
+The article also directed prospective customers to AQ.in.th's support team, providing further contemporaneous evidence of the commercial relationship between these websites.
+
+### Misleading Insurance and Visa Requirements
+
+The sponsored article claimed that Thai immigration authorities accepted insurance from only a limited selection of providers.
+
+However, the Ministry of Foreign Affairs had expressly confirmed that qualifying general health insurance could satisfy Thailand Pass requirements.[^11]
+
+The Royal Thai Embassy in Astana's guidance applicable from May 1, 2022, also identified alternative coverage arrangements for eligible foreign residents, including social security coverage and employer certification.[^12]
+
+Furthermore, the sponsored article presented possession of a valid visa as a general entry requirement, whereas the embassy's instructions expressly qualified that requirement according to whether a visa was necessary.
+
+These distinctions were commercially relevant because the advertisement directed travelers toward specific insurance products and immigration assistance services.
+
+### Historical Commercial Insurance Relationships
+
+The documented insurance promotions predate AGENTS CO., LTD.'s subsequent insurance partnerships associated with its commercial TDAC platform by approximately three years.
+
+They establish that insurance distribution and immigration-related customer acquisition were already interconnected during the pandemic.
+
+The available evidence does not establish the commission arrangements, insurance-broker licensing status, or contractual relationships governing the products advertised in 2022.
+
+Nor does it establish that customers purchased unnecessary insurance as a result of the sponsored article.
+
+Nevertheless, the publication documents commercially favorable representations about government entry requirements that were not adequately supported by official guidance.
+
 ## Related Records
 
 - [Anybody used AQ.in.th? (January 2022)](../threads/2022-01-01-reddit-anybody-used-the-aq-in-th.md)
@@ -334,3 +366,8 @@ Nevertheless, **historical consumer reports indicate that the commercial relatio
 [^6]: `https://asq.in.th/question/how-did-my-personal-details-get-shared-after-booking-flights-insurance-and-accommodation-in-thailand` — Republished community discussion dated November 8, 2021, preserved in an indexed historical capture.
 [^7]: https://www.reddit.com/r/ThailandTourism/comments/ui8lrq/ — *Extending Visa via "Thai Visa Centre"*, May 4, 2022.
 [^8]: `https://asq.in.th/policy/privacy` — AGENTS CO., LTD. Privacy Policy, last updated July 16, 2024.
+
+[^9]: https://www.pattayamail.com/latestnews/news/us10000-thai-insurance-bond-for-inbound-visitors-creates-confusion-396335 — April 26, 2022.
+[^10]: `https://thethaiger.com/guides/press-room/thailand-covid-insurance-for-thailand-pass` — Sponsored article, May 25, 2022.
+[^11]: https://mfa.go.th/en/content/thailand-pass-faqs — Ministry of Foreign Affairs, October 31, 2021, documentation FAQ.
+[^12]: https://astana.thaiembassy.org/en/page/choose-a-right-plan-to-enter-thailand — Official entry requirements effective May 1, 2022.
