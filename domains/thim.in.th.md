@@ -60,6 +60,48 @@ The unresolved questions concern which companies receive customer information, w
 
 **The distinction between mandatory government immigration reporting and optional commercial data processing should be prominently communicated before travelers disclose their personal information.**
 
+## Discussion-Based Customer Acquisition and Commercial Referrals
+
+As examined on November 26, 2026, `thim.in.th` operates a public discussion platform alongside its guide to Thailand's official immigration application.
+
+The website displayed 285 comments, including questions concerning passport verification, application errors, accommodation information, and arrival-card submissions.[^9]
+
+However, visitors wishing to participate are instructed:
+
+> Click comment and we will ask for your email, then OTP, then name.
+
+Published comments carry email-verification labels and individual account identifiers.
+
+**The website therefore provides AGENTS CO., LTD. with an additional mechanism for collecting verified contact information from travelers who are not necessarily purchasing its immigration services.**
+
+### Integration With Existing Commercial Communities
+
+The website also incorporates discussions from [asq.in.th](asq.in.th.md) and actively encourages visitors to join both Facebook visa-advice communities controlled by Thai Visa Centre.[^9]
+
+This arrangement connects visitors researching a government immigration application with the agency's established commercial community network.
+
+It is particularly relevant to the June 2023 disclosures concerning email-address collection following Thai Visa Centre's acquisition of an established Facebook visa-advice community.
+
+### Commercial Assistance Prioritized Over Official App Downloads
+
+Although `thim.in.th` reproduces official application screenshots and identifies Google Play and Apple's App Store among its sources, the examined page did not contain direct links to either official application listing.
+
+Its prominent application button instead directs visitors to AGENTS' private TDAC submission service.
+
+The official Android application is published under the Royal Thai Police developer account and explicitly identified as a government application.[^10]
+
+The Tourism Authority of Thailand separately confirmed in June 2026 that THIM was optional and that travelers could continue using the existing government TDAC website.[^11]
+
+The private website acknowledges both its unofficial status and the availability of the government TDAC portal. Nevertheless, its navigation prioritizes commercial assistance over direct access to the application whose name it uses.
+
+### Personal Data Processing Responsibilities
+
+The Privacy Policy linked from the website is AGENTS' general TDAC service policy, rather than a separate policy explaining the operation of the THIM discussion platform.[^7]
+
+It does not specifically explain whether verified commenter email addresses are retained separately from immigration customer records or excluded from affiliated-company marketing.
+
+The operator should clarify how discussion accounts are managed, whether their contact information is incorporated into shared customer databases, and how users can decline commercial communications without losing access to community discussions.
+
 ## References
 
 [^1]: https://www.whoxy.com/thim.in.th
@@ -71,3 +113,9 @@ The unresolved questions concern which companies receive customer information, w
 [^6]: `https://agents.co.th/tdac-apply` — Commercial TDAC submission form operated by AGENTS CO., LTD.
 [^7]: `https://agents.co.th/tdac-apply/policy/privacy/` — AGENTS Privacy Policy, updated April 2, 2025.
 [^8]: `https://agents.co.th/tdac-apply/policy/data-protection/` — AGENTS Data Protection Policy, updated April 2, 2025.
+
+[^9]: `https://thim.in.th/` — Public discussion interface, email-verification requirements, community referrals, and application guidance, examined November 26, 2026.
+
+[^10]: https://play.google.com/store/apps/details?id=th.go.immigration.thim — Official THIM application listing under RoyalThaiPolice.
+
+[^11]: https://www.tatnews.org/2026/06/thailand-immigration-management-application-introduced-to-streamline-foreign-traveller-registration/ — Tourism Authority of Thailand, June 11, 2026.
