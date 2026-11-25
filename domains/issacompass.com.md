@@ -576,6 +576,30 @@ The available evidence does not establish that any landlord incurred a penalty b
 
 Nevertheless, the company's categorical denial of the 24-hour deadline directly contradicts published government guidance and its own immigration glossary.
 
+## Contradictory Permanent Residency Guidance
+
+In an article updated October 18, 2026, Issa Compass immigration consultant Monica Thet Htar describes the LTR visa as transforming Thailand from a temporary base into "a permanent residency."[^29]
+
+The same article advertises Issa Compass's 35,000-baht LTR endorsement assistance fee.
+
+However, in a separate article updated October 20, 2026, immigration consultant Kat Hewett expressly acknowledges that the LTR visa does not grant permanent resident status under Thai immigration law.[^30]
+
+### Official Immigration Requirements
+
+Thailand's Board of Investment confirms that LTR holders initially receive five years of authorized stay and must reconfirm their eligibility to obtain the remaining five years.[^31]
+
+The Immigration Bureau's permanent residence application guidelines establish separate eligibility requirements, including a qualifying history of annual non-immigrant visa extensions for at least three consecutive years under the ordinary quota-based application procedure.[^32]
+
+Issa Compass's own permanent residency guide correctly acknowledges these requirements.[^33]
+
+### Commercial Significance
+
+Although the digital nomad article may use permanent residency colloquially to describe long-term stability, the terminology is misleading in the context of professional immigration guidance.
+
+Customers pursuing indefinite residence should understand the distinction between renewable immigration permission and legally recognized permanent resident status before purchasing expensive application assistance.
+
+The available evidence does not establish that customers were promised formal permanent residency through individual consultations.
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -624,3 +648,13 @@ Nevertheless, the company's categorical denial of the 24-hour deadline directly 
 [^27]: `https://www.issacompass.com/insights/building-a-thai-visa-document-folder-system-what-to-keep-scan-and-carry-to-every`
 
 [^28]: `https://www.issacompass.com/insights/non-b-thai-visa-diy-turning-your-90-day-entry-into-a-one-year-extension`
+
+[^29]: `https://www.issacompass.com/insights/ltr-visa-digital-nomad` — Monica Thet Htar, updated October 18, 2026.
+
+[^30]: `https://www.issacompass.com/insights/ltr-vs-dtv-visa-thailand-which-is-better-for-working-professionals` — Kat Hewett, updated October 20, 2026.
+
+[^31]: https://ltr.boi.go.th/page/faq.html — Official LTR stay-permit conditions.
+
+[^32]: https://chiangsaen.immigration.go.th/wp-content/uploads/2025/03/2.2คำแนะนำอังกฤษ-2567.pdf — Immigration Bureau permanent residence application guidelines, Section 1.1.
+
+[^33]: `https://www.issacompass.com/insights/how-to-apply-for-permanent-residency-in-thailand` — Issa Compass permanent residency guide.
