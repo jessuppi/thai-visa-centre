@@ -225,6 +225,43 @@ The website does not identify a separate government provision requiring the appl
 
 Whether its automated qualification test implements the same restrictive interpretation has not been independently established.
 
+## Misleading Annual Reporting and Continuing Eligibility Guidance
+
+### Incorrect Annual Reporting Deadlines
+
+The November 26, 2026 revision of `ltr.in.th` describes annual immigration reporting as occurring once a year from the date permission to stay was granted.[^17]
+
+However, the Board of Investment explicitly states that international travel resets the reporting period. Following re-entry into Thailand, the next report becomes due one year after the most recent arrival.[^18]
+
+The official instructions also establish that:
+
+- Reporting is required after one year of continuous residence.
+- LTR holders submit Form TM.95 instead of the conventional TM.47 90-day report.
+- An authorized representative may submit the report.
+- Existing TM.30 residence-notification obligations remain applicable.[^5][^18]
+
+The commercial website's reporting summary omits these distinctions, potentially causing frequent international travelers to misunderstand their reporting obligations.
+
+### Understating the Consequences of Losing Qualifying Employment
+
+The website states that if employment ends, investments are sold, or qualifying financial or insurance arrangements lapse, the BOI can refuse the next qualification endorsement.[^17]
+
+Although the website elsewhere acknowledges that eligibility conditions must be maintained throughout the visa's validity, its explanation of the consequences focuses on future endorsement rather than possible termination of an existing visa.
+
+The BOI's official FAQ expressly states that Highly-Skilled Professionals changing employers must notify the LTR unit at least one month before ending their previous employment contract.
+
+If the new employer does not satisfy the relevant eligibility criteria, the existing LTR visa must be terminated.[^5]
+
+The BOI separately publishes procedures for terminating an LTR visa before its expiration and promptly cancelling associated work permits.[^19]
+
+**Loss of qualifying employment can therefore have immediate immigration consequences rather than merely affecting eligibility at the next five-year review.**
+
+### Commercial Significance
+
+These omissions are particularly relevant because `ltr.in.th` offers prospective applicants qualification testing while promoting Thai Visa Centre's paid immigration services.
+
+Accurate explanations of continuing eligibility, visa termination, and reporting obligations are essential for applicants making long-term employment, investment, and relocation decisions.
+
 ## References
 
 [^1]: `https://ltr.in.th/`
@@ -247,3 +284,9 @@ Whether its automated qualification test implements the same restrictive interpr
 [^15]: `https://ltr.in.th/` — Work-from-Thailand Professionals guidance, updated November 25, 2026.
 
 [^16]: https://ltr.boi.go.th/documents/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_3_2568_(TH).pdf — Official Thai-language BOI Announcement Por. 3/2568, Section 3.3.1, page 3.
+
+[^17]: `https://ltr.in.th/` — Updated LTR guidance, November 26, 2026, particularly the Reporting and Re-entry section.
+
+[^18]: https://ltr.boi.go.th/page/1-year-reporting.html — Board of Investment, official annual immigration reporting requirements.
+
+[^19]: https://ltr.boi.go.th/page/cancellation.html — Board of Investment, official LTR visa and work-permit termination procedures.
