@@ -100,6 +100,46 @@ The advertising material is distinct from the original participants' contributio
 
 The available evidence does not establish that individual contributors authorized this commercial reuse or that the advertisements appeared in the original Facebook discussions.
 
+## Republication of Sensitive Personal Information
+
+Ask Thailand's aggregation of historical community discussions extends beyond ordinary immigration questions to conversations involving medical conditions, treatment histories, criminal records, and previous convictions.
+
+Publicly indexed examples include discussions concerning medical eligibility for Destination Thailand Visas and the immigration consequences of criminal convictions.[^10][^11]
+
+Some contributors use anonymous identities, while the platform more generally retains partially obscured names, profile imagery, and historical discussion details.
+
+### Enhanced Protection Under Thailand's PDPA
+
+Section 26 of Thailand's Personal Data Protection Act establishes additional restrictions on collecting sensitive personal information, including health information and criminal records.[^7]
+
+Unlike ordinary personal information, processing these categories generally requires explicit consent or a qualifying statutory exception.
+
+Section 26 also establishes additional safeguards specifically concerning the collection of criminal-record information.
+
+Although the legislation recognizes an exception for information publicly disclosed with the individual's explicit consent, participation in an online discussion does not automatically establish that this exception applies to subsequent commercial republication.
+
+### Inadequate Explanation of Sensitive Data Processing
+
+Ask Thailand's published Privacy Policy identifies ordinary account information, contact details, and basic personal information among the categories collected by the operator.[^4]
+
+It also acknowledges collecting information from external sources.
+
+However, the policy does not specifically explain the collection and republication of sensitive medical or criminal-record information obtained through historical community discussions.
+
+Nor does it explain the safeguards applicable to this material or distinguish fully anonymized contributions from information that could remain attributable to identifiable individuals.
+
+**Obscuring portions of a contributor's name does not necessarily establish that their personal information has been effectively anonymized.**
+
+### Commercial Significance
+
+Ask Thailand converts historical community discussions into independently searchable pages maintained by a commercial immigration-services business.
+
+This creates an additional distribution channel for potentially sensitive information originally shared in a different context.
+
+The operator should identify the applicable legal basis for this processing, explain its anonymization procedures, and provide an accessible mechanism through which original contributors can request removal.
+
+The available evidence establishes the republication of sensitive discussion material but does not establish whether particular contributors remain identifiable or whether AGENTS has obtained appropriate consent.
+
 ## References
 
 - `https://asq.in.th/policy/terms-and-conditions`
@@ -115,3 +155,7 @@ The available evidence does not establish that individual contributors authorize
 [^7]: https://mdes.go.th/law/detail/3577-Personal-Data-Protection-Act-B-E--2562--2019 — Thailand's Personal Data Protection Act, particularly Sections 24–26.
 [^8]: `https://asq.in.th/question/what-are-the-best-visa-run-companies-in-thailand-and-how-can-i-find-a-reliable-fixer`
 [^9]: `https://asq.in.th/question/what-are-the-options-for-obtaining-a-retirement-visa-in-thailand-without-the-required-funds`
+
+[^10]: Ask Thailand, publicly indexed discussion concerning DTV medical-treatment applications, examined November 26, 2026.
+
+[^11]: `https://asq.in.th/question/does-a-criminal-record-automatically-disqualify-you-from-obtaining-a-dtv-visa-in-thailand` — September 8, 2026, discussion containing anonymized contributions concerning criminal records.
