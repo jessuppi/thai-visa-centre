@@ -198,6 +198,36 @@ Until those matters are clarified, its third-party presentation should not be tr
 
 **The documented referral chain adds another example of how apparently separate immigration-information and reputation websites direct travelers toward services within Thai Visa Centre's wider commercial network.**
 
+## Bulk Review Republication and Google Content Restrictions
+
+The website acknowledges that its review statistics are generated from a locally stored CSV dataset containing 1,795 reviews.[^1]
+
+Its published FAQ confirms that the imported information includes written comments, review dates, star ratings, profile photographs, and Local Guide status.[^4]
+
+The featured testimonials contain Google translation notices and profile photographs served from Google's image infrastructure, indicating that at least some of the material originated from Google's review ecosystem.
+
+### Restrictions on Bulk Content Collection
+
+Google Maps' End User Additional Terms of Service restrict bulk downloading, redistribution, and copying of its content, subject to applicable permissions and intellectual-property exceptions.[^9]
+
+Google Maps Platform's developer policies separately restrict the unauthorized storage and redistribution of review content and establish attribution requirements.[^10]
+
+The ordinary Place Details API provides up to five reviews in a single place-details response.[^11]
+
+The website does not explain the acquisition method, licensing arrangements, or permissions governing its substantially larger dataset.
+
+### Reviewer Information and Commercial Reuse
+
+The imported material is used to promote Thai Visa Centre's reputation and direct prospective customers toward its commercial immigration services.
+
+However, the reviewed homepage, About page, and FAQ do not identify a responsible publisher or explain how reviewers can request corrections or removal of republished material.
+
+Public availability of a customer review does not necessarily establish unrestricted permission to reproduce it for separate commercial purposes.
+
+The available evidence does not establish that the dataset was obtained through prohibited scraping, that Google has determined a policy violation, or that the publisher lacks appropriate permissions.
+
+Nevertheless, the website's acknowledged bulk storage of review content warrants clarification of its data acquisition methods, republication rights, and responsibilities toward the original contributors.
+
 ## References
 
 [^1]: `https://www.thaivisacentrereviews.com/`
@@ -209,3 +239,9 @@ Until those matters are clarified, its third-party presentation should not be tr
 [^6]: `https://ask.in.th/thailand-fasttrack` — redirects to `https://agents.co.th/tdac-apply/`
 [^7]: https://tdac.immigration.go.th/manual/en/faq.html
 [^8]: `https://tvc.co.th/scam`
+
+[^9]: https://maps.google.com/help/terms_maps/ — Google Maps End User Additional Terms of Service.
+
+[^10]: https://developers.google.com/maps/documentation/places/web-service/policies — Google Maps Platform content storage and attribution policies.
+
+[^11]: https://developers.google.com/maps/documentation/places/web-service/place-details — Official Place Details API documentation.
