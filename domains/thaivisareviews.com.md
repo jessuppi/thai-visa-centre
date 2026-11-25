@@ -422,6 +422,71 @@ Instead, Thai Visa Reviews publishes unexplained differences in review totals, o
 
 Combined with its previously documented incorrect corporate information and unsupported accreditation badges, these findings raise further questions about the reliability of its supposedly independent verification process.
 
+## Incorrect LTR Employment Rights and Financial Eligibility Requirements
+
+Thai Visa Reviews publishes a dedicated guide to Thailand's Long-Term Resident (LTR) visa program alongside its commercial agency rankings and recommendations.[^23]
+
+However, several of its published eligibility requirements directly contradict guidance issued by Thailand's Board of Investment (BOI).
+
+### Incorrect Work-Permit Guidance
+
+The directory claims that Work-from-Thailand Professionals and Highly-Skilled Professionals receive digital work permits, while holders of the wealthy visa categories do not qualify for employment authorization.
+
+The BOI's official FAQ establishes substantially different rules:[^24]
+
+| LTR category | Eligibility to apply for a work permit |
+| --- | --- |
+| Wealthy Global Citizen | Eligible |
+| Wealthy Pensioner | Eligible |
+| Highly-Skilled Professional | Eligible |
+| Dependent | Eligible |
+| Work-from-Thailand Professional | Not eligible |
+
+Eligibility to apply for a work permit does not automatically authorize employment. Applicants must satisfy the applicable employment and work-permit requirements.
+
+**Thai Visa Reviews effectively reverses the employment restrictions applicable to remote workers and wealthy LTR visa holders.**
+
+This error could have significant consequences for foreigners selecting a visa category based on their intended employment arrangements.
+
+### Incorrect Financial Eligibility Requirements
+
+The directory describes Wealthy Global Citizens as requiring either US$1 million in assets or US$80,000 in annual income.[^23]
+
+However, the BOI currently requires both US$1 million in qualifying assets and at least US$500,000 in qualifying Thai investments. The previous minimum-income requirement is no longer included in the published criteria.[^25]
+
+The directory also describes Wealthy Pensioners as requiring either US$40,000 in annual income or US$250,000 in investments.
+
+In reality, the BOI requires either:
+
+- At least US$80,000 in annual passive income; or
+- At least US$40,000 in annual passive income combined with US$250,000 in qualifying Thai investments.[^25]
+
+Investment alone does not satisfy the pensioner category's financial requirements.
+
+**These discrepancies concern fundamental visa eligibility requirements rather than minor differences in terminology.**
+
+### Unsubstantiated Success Rate
+
+The guide prominently advertises a 95% LTR visa success rate without identifying the underlying application records, sample size, reporting period, or calculation methodology.[^23]
+
+It does not explain whether this figure represents government approval statistics, outcomes reported by listed agencies, or an internally generated estimate.
+
+The directory also advertises commercial agency fees ranging from 30,000 to 80,000 baht.
+
+The BOI confirms that its application and qualification-assessment process is free, with the government visa issuance fee payable following approval.[^24]
+
+Commercial assistance may legitimately involve additional charges, but the directory provides no evidence establishing that purchasing such assistance produces the advertised success rate.
+
+### Implications for Agency Recommendations
+
+These inaccuracies are particularly significant because Thai Visa Reviews presents itself as an independent evaluator of immigration agencies and their professional expertise.
+
+Its LTR guide directs prospective applicants toward commercial service providers, while its agency profiles display purported government accreditation credentials.
+
+The available evidence does not establish that customers suffered financial losses or immigration consequences because of the directory's guidance.
+
+Nevertheless, **a publication claiming to verify immigration specialists should accurately represent the fundamental eligibility requirements of the services it recommends.**
+
 ## References
 
 [^1]: `https://thaivisareviews.com/`
@@ -446,3 +511,6 @@ Combined with its previously documented incorrect corporate information and unsu
 [^20]: `https://thaivisareviews.com/agency/tvs-visa-services-pattaya`
 [^21]: `https://thaivisareviews.com/agency/thai-visa-expert`
 [^22]: https://hatyaiimmigration.go.th/ITA/ita68/8/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%9E%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B8%B0/New%2050%20Handbooks/23-Public-Handbook-2.22-retirement.pdf — Immigration Bureau public handbook, Section 2.22, retirement extensions, published November 8, 2019; copy hosted by Hat Yai Immigration.
+[^23]: `https://thaivisareviews.com/visa/ltr` — LTR visa guide, reviewed November 25, 2026.
+[^24]: https://ltr.boi.go.th/page/faq.html — Official BOI frequently asked questions concerning work permits and application fees.
+[^25]: https://ltr.boi.go.th/index.html — Official BOI LTR eligibility requirements and application procedures.
