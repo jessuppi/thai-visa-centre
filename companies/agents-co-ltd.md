@@ -190,6 +190,40 @@ Its subsequent integration of insurance purchases into TDAC submissions represen
 
 Rather than attracting customers exclusively through conventional insurance advertising, the company offers insurance products alongside assistance with mandatory immigration procedures.[^21]
 
+### Historical Insurance Recommendations and Customer Servicing
+
+Between March and May 2022, the ThaiVisaCentre Forum Sponsor account on ASEAN NOW actively promoted several insurance providers through its AQ.in.th comparison platform.
+
+On March 23, 2022, the account recommended MSIG insurance and directed prospective customers to its commercial insurance comparison page.[^34]
+
+On May 1, 2022, the account interpreted FWD's COVID-19 insurance coverage conditions and recommended alternative products from MSIG and WorldTrips depending on travelers' departure schedules and willingness to undergo PCR testing.[^35]
+
+On May 5, 2022, the account again recommended MSIG through a dedicated AQ.in.th referral URL, while commenting on payment-processing difficulties involving FWD.[^36]
+
+These activities demonstrate involvement in product selection and interpretation of insurance coverage conditions, rather than merely displaying general advertisements.
+
+#### Assistance With Insurance Policy Amendments
+
+On May 7, 2022, ASEAN NOW contributor **Sheryl**, identified as a Health Forum Expert, reported difficulties changing the effective date of an insurance policy following a two-day postponement of travel.
+
+According to Sheryl, the insurer required customers to purchase a replacement policy before receiving a refund for the original policy.
+
+Thai Visa Centre invited affected customers who had purchased insurance through its comparison platform to contact the agency directly for assistance.[^36]
+
+Its representatives subsequently discussed cancellation, refunds, policy amendments and the potential consequences for Thailand Pass applications.
+
+#### Regulatory Significance
+
+These historical discussions provide additional context for AGENTS CO., LTD.'s subsequent expansion into insurance distribution through its TDAC platform.
+
+**Thai Visa Centre's historical activities encompassed insurance product recommendations, interpretation of coverage conditions, customer referrals and post-purchase assistance.**
+
+The precise regulatory classification of these activities depends on the company's contractual relationships with insurers, compensation arrangements and the responsibilities undertaken by licensed intermediaries.
+
+The available historical records do not identify the insurance brokerage licences under which these activities were conducted.
+
+Clarification is warranted concerning whether AGENTS received commissions from the named insurers and whether its personnel were authorized to provide insurance advice and customer servicing.
+
 ### Insurance Brokerage and Licensing
 
 Thailand regulates insurance agents and brokers through the Office of Insurance Commission (OIC).
@@ -363,3 +397,9 @@ The reviewed publications do not disclose the financial arrangements governing p
 [^32]: https://www.awnews.org/gents-co-ltd-launches-new-tdac-platform-for-travel-agents-and-tour-operators/ — June 16, 2025, syndicated copy identifying PressReleaseCC and Web and IT News.
 
 [^33]: https://www.nationthailand.com/pr-news/40052186 — The Nation, PR News, July 6, 2025.
+
+[^34]: `https://aseannow.com/topic/1254407-luma-thailand-pass/` — ThaiVisaCentre, March 23, 2022.
+
+[^35]: `https://aseannow.com/topic/1258340-650-baht-insurance-is-not-650-baht/` — ThaiVisaCentre, May 1, 2022, interpretation of insurance conditions and alternative product recommendations.
+
+[^36]: `https://aseannow.com/topic/1258654-thailandpass/` — May 5–7, 2022, insurance recommendations and discussions concerning policy amendments and refunds.
