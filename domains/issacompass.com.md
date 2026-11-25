@@ -453,6 +453,57 @@ The available evidence does not establish that Issa Compass improperly retained 
 
 **The discrepancy concerns the completeness of the company's promotional disclosures, particularly where apparently fee-free assistance involves a payment that customers may subsequently lose.**
 
+## Incorrect Work-Permit Eligibility and Foreign Employment Penalties
+
+Issa Compass's published guide to obtaining a Thai work visa contains material inaccuracies concerning employment eligibility and penalties for unauthorized employment.[^15]
+
+### Incorrect Exclusion of LTR Visa Holders
+
+The guide repeatedly claims that only holders of the Highly-Skilled Professional category of the Long-Term Resident (LTR) visa can obtain Thai work permits.
+
+However, Thailand's Board of Investment explicitly identifies the following eligibility arrangements:[^16]
+
+| LTR category | Eligible to apply for a work permit |
+| --- | --- |
+| Wealthy Global Citizen | Yes |
+| Wealthy Pensioner | Yes |
+| Highly-Skilled Professional | Yes |
+| Dependent | Yes |
+| Work-from-Thailand Professional | No |
+
+Eligibility remains subject to the relevant employment requirements and continued compliance with the conditions of the applicant's LTR category.
+
+Issa Compass therefore incorrectly excludes three categories of LTR visa holders from work-permit eligibility.
+
+This error resembles the misleading employment-rights comparisons separately documented in the investigation of [ltr.in.th](ltr.in.th.md).
+
+### Incorrect Penalties for Unauthorized Employment
+
+The same guide states that working without a valid work permit carries a maximum fine of 100,000 baht.[^15]
+
+However, official Thai government guidance distinguishes the penalties applicable to foreign workers from those applicable to their employers.[^17]
+
+| Offender | Applicable fine |
+| --- | --- |
+| Foreign worker without required authorization | 5,000–50,000 baht |
+| Employer unlawfully employing a foreign worker | 10,000–100,000 baht per worker |
+
+Foreign workers may also face deportation, while employers committing repeated violations face additional penalties.
+
+The guide incorrectly attributes the employer's ordinary maximum financial penalty to the foreign worker.
+
+### Commercial Significance
+
+These inaccuracies appear within a publication promoting Issa Compass's paid visa and work-permit assistance.
+
+The company simultaneously advertises specialist immigration expertise and automated document verification against government requirements.
+
+Incorrectly excluding otherwise eligible visa categories could influence customers' choice of immigration services, while overstating financial penalties could unnecessarily increase anxiety about employment compliance.
+
+The available evidence does not establish deliberate misrepresentation or financial losses suffered by individual customers.
+
+**Nevertheless, the company's published professional guidance contains specific errors that can be verified against readily accessible government documentation.**
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -473,3 +524,9 @@ The available evidence does not establish that Issa Compass improperly retained 
 [^13]: `https://www.issacompass.com/visas/thailand-privilege-visa` — Thailand Privilege sales page, displaying a September 2026 verification date; retrieved November 25, 2026.
 
 [^14]: `https://www.issacompass.com/insights/thailand-elite-visa-2026-cost-tiers-and-is-thailand-privilege-worth-it` — Thailand Privilege guide, updated October 18, 2026.
+
+[^15]: `https://www.issacompass.com/insights/what-are-the-requirements-for-getting-a-work-visa-in-thailand` — Issa Compass work-visa requirements guide, retrieved November 25, 2026.
+
+[^16]: https://ltr.boi.go.th/page/faq.html — Thailand Board of Investment, official LTR work-permit eligibility guidance.
+
+[^17]: https://thailand.go.th/visit-thailand-detail/007_016 — Thai government guidance concerning penalties for unauthorized foreign employment, January 15, 2023.
