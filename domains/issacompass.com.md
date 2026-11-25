@@ -413,6 +413,46 @@ They also provide a concrete basis for comparing its commercial practices with t
 
 That discrepancy warrants clearer disclosure before customers commit money to a visa application.
 
+## Thailand Privilege Deposit and Conditional Refund Arrangements
+
+Issa Compass advertises Thailand Privilege applications without a separate agency service fee, identifying itself as a registered Individual Sales Agent of Thailand Privilege Card Co., Ltd.[^13]
+
+However, Section 7.3.6 of its Terms of Service establishes a separate financial arrangement requiring customers to pay a **5,000-baht deposit** before application preparation and submission.[^8]
+
+### Circumstances Resulting in Deposit Forfeiture
+
+The contractual conditions distinguish several possible outcomes:
+
+| Customer outcome | Deposit treatment |
+| --- | --- |
+| Membership approved and paid | Refundable |
+| Membership application refused | Refundable |
+| Customer voluntarily withdraws | Non-refundable |
+| Requested documents not supplied within 30 days | Non-refundable |
+| Membership payment deadline missed | Non-refundable |
+
+The company treats certain missed deadlines as decisions not to proceed, even without an explicit cancellation request from the customer.
+
+### Full Refund Advertising Versus Processing Deductions
+
+Issa Compass's October 2026 Thailand Privilege guide explicitly acknowledges the deposit and describes eligible refunds as being returned in full.[^14]
+
+However, Section 7.3.6(d) permits deductions for bank or card-processing charges and specifies a refund-processing period of up to 30 business days.[^8]
+
+The guide does not explain these deductions.
+
+### Incomplete Disclosure on the Main Sales Page
+
+The retrieved Thailand Privilege sales page repeatedly emphasizes the absence of separate Issa service fees without explaining the mandatory deposit, forfeiture conditions, or refund-processing deductions.[^13]
+
+Although the deposit is disclosed elsewhere in the company's published materials, it represents a financial commitment that prospective customers should understand before beginning an application.
+
+A deposit is not necessarily equivalent to a service fee. Nevertheless, when forfeited, it becomes a financial cost to the customer.
+
+The available evidence does not establish that Issa Compass improperly retained any particular customer's deposit or failed to disclose these conditions during checkout.
+
+**The discrepancy concerns the completeness of the company's promotional disclosures, particularly where apparently fee-free assistance involves a payment that customers may subsequently lose.**
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -429,3 +469,7 @@ That discrepancy warrants clearer disclosure before customers commit money to a 
 [^10]: `https://www.issacompass.com/insights/do-you-need-a-dtv-visa-agent-how-to-choose-one` — Updated October 18, 2026.
 [^11]: `https://www.issacompass.com/insights/how-issa-compass-prepares-your-thai-visa-application-before-it-ever-reaches-the-` — Updated September 30, 2026.
 [^12]: `https://www.issacompass.com/insights/document-pre-checks-approval-guarantees-and-expert-support-what-to-demand-from-a` — *Document Pre-Checks, Money-Back Guarantees, and Expert Support: What to Demand From Any Thailand Visa Platform Before You Apply*, published April 8, 2026, updated November 14, 2026; accessed November 24, 2026.
+
+[^13]: `https://www.issacompass.com/visas/thailand-privilege-visa` — Thailand Privilege sales page, displaying a September 2026 verification date; retrieved November 25, 2026.
+
+[^14]: `https://www.issacompass.com/insights/thailand-elite-visa-2026-cost-tiers-and-is-thailand-privilege-worth-it` — Thailand Privilege guide, updated October 18, 2026.
