@@ -40,6 +40,34 @@ Whether those limitations would be enforceable under Thai law is a separate ques
 
 Nevertheless, the provisions demonstrate how both businesses attempt to restrict their financial exposure through nearly identical contractual language.
 
+### Statutory Restrictions on Liability Limitations
+
+Thailand's Unfair Contract Terms Act B.E. 2540 (1997) establishes important restrictions on the enforceability of contractual liability exclusions.[^10][^11]
+
+Section 4 provides that unfair terms giving businesses an unreasonable advantage over consumers are enforceable only to the extent considered fair and reasonable under the circumstances.
+
+Section 8 establishes stronger protections concerning personal injury and medical harm.
+
+Specifically, advance contractual provisions attempting to exclude or restrict liability for damage to another person's life, body, or health resulting from intentional conduct or negligence cannot be relied upon where the party would otherwise be legally responsible.
+
+Other advance liability restrictions, where not otherwise void, remain subject to an assessment of fairness and reasonableness.
+
+### Particular Significance for Medical Services
+
+WEED.TH's contractual provisions extend beyond ordinary commercial disputes, expressly addressing negligence, tort liability, and breaches of statutory duties.[^5]
+
+The company also operates a platform facilitating medical consultations and prescriptions.
+
+**A general US$1 liability limitation cannot automatically shield a medical-services business from legally established responsibility for negligent conduct causing personal injury.**
+
+WEED.TH's terms qualify their liability restrictions by referring to applicable law. However, they do not specifically explain the statutory protections relevant to medical harm.
+
+The same contractual template appears in Thai Visa Centre's immigration-services agreement.[^6]
+
+While the two businesses face different operational risks, neither can determine the full extent of its legal responsibility merely by publishing restrictive standard-form contractual provisions.
+
+No judicial determination concerning these particular agreements has been identified. The enforceability of individual provisions depends on the circumstances, applicable legislation, and the legal responsibilities of the parties involved.
+
 ### Data Protection Policies Reproduce the Same Business Description
 
 The similarities also extend to the companies' data-protection policies.
@@ -98,3 +126,5 @@ The important unresolved questions concern who prepared these documents, whether
 [^7]: `https://tvc.co.th/policy/data-protection`
 [^8]: `https://card.weed.th/`
 [^9]: `https://card.weed.th/policy/privacy`
+[^10]: https://lawnode.org/eli/th/act/2540/act_unfair_contracts_2540 — Thai-language text of the Unfair Contract Terms Act B.E. 2540 (1997), particularly Sections 4, 8, 10 and 11.
+[^11]: https://aseanconsumer.org/cterms-businesses/unfair-contract-terms — ASEAN consumer-protection guidance concerning unfair contractual provisions in Thailand.
