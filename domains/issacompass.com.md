@@ -744,6 +744,38 @@ The course fee represents a substantial portion of the customer's expenditure an
 
 Issa Compass should identify the documentary basis for its institutional pre-approval claims and prominently distinguish refundable course packages from those governed exclusively by individual training providers' cancellation policies.
 
+## Misleading Financial Requirements for Retirement Visa Dependents
+
+In a family immigration guide updated November 14, 2026, Issa Compass immigration consultant Nic Bunpamee claims that each dependent of a Non-Immigrant O retirement visa holder must demonstrate an additional 800,000 baht in savings.[^50]
+
+According to this interpretation, a retired foreign national relocating with a dependent spouse and child would require 2.4 million baht if relying on the bank-deposit method.
+
+### Conflicting Official Immigration Requirements
+
+Thailand's Immigration Bureau establishes separate criteria for retirement extensions and extensions granted to family members of foreign nationals temporarily residing in Thailand.
+
+Clause 2.20 expressly includes family members of foreigners granted retirement extensions under Clause 2.22.[^51][^52]
+
+The published dependent-extension criteria concern qualifying immigration status, evidence of family relationships, marital status, and applicable age restrictions.
+
+They do not establish an additional 800,000-baht deposit requirement for each dependent.
+
+### Initial Visa Applications Versus Extensions of Stay
+
+Issa Compass also fails to adequately distinguish between initial visa applications submitted overseas and subsequent extensions obtained within Thailand.
+
+The Royal Thai Embassy in Kuala Lumpur expressly states that its retirement visa does not qualify accompanying family members for a Non-O dependent visa.[^53]
+
+This restriction concerns the embassy's visa issuance procedures rather than the separate dependent-extension provisions administered by Thailand's Immigration Bureau.
+
+### Commercial Significance
+
+Issa Compass promotes paid family immigration assistance alongside its published eligibility guidance.
+
+Its explanation substantially exaggerates the financial requirements applicable to the ordinary retirement dependent-extension route while overlooking important differences between consular visa issuance and domestic immigration procedures.
+
+**Prospective customers could incorrectly conclude that relocating with their family requires hundreds of thousands of baht in additional savings for each dependent.**
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -834,3 +866,11 @@ Issa Compass should identify the documentary basis for its institutional pre-app
 [^48]: https://london.thaiembassy.org/en/page/dtv-for-soft-power-activities — Official DTV soft-power activity requirements, updated November 24, 2026.
 
 [^49]: `https://www.issacompass.com/terms` — Terms of Service, Sections 7.3.1 and 7.3.4, concerning partner course refunds.
+
+[^50]: `https://www.issacompass.com/insights/can-a-spouse-or-dependent-join-you-in-thailand-visa-eligibility-rules-for-famili` — Nic Bunpamee, published April 29, 2026, updated November 14, 2026.
+
+[^51]: https://lamphun.immigration.go.th/คู่มือการให้บริการประชาชน/ — Immigration Bureau public handbook, Section 20.
+
+[^52]: https://phitsanulok.immigration.go.th/คู่มือการให้บริการประชาชน/ — Official immigration extension criteria, Sections 20 and 22.
+
+[^53]: https://kualalumpur.thaiembassy.org/en/publicservice/non-immigrant-visa-o-for-retirement — Royal Thai Embassy, Kuala Lumpur, updated July 17, 2026.
