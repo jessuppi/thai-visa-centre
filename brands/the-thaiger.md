@@ -88,6 +88,44 @@ Commercial referrals are not inherently improper. However, the publisher's earli
 
 The 2019 article does not identify Thai Visa Centre as a participant in the reported commission arrangements, and its allegations concerning individual agents have not been independently verified.
 
+## Historical Visa Agency Partnerships and Undisclosed Referral Recipients
+
+The Thaiger's commercial involvement in immigration services predates its acquisition of ASEAN NOW and subsequent promotion of AGENTS CO., LTD.
+
+### 2021 Partnership With Tadoo and TMT Visa Services
+
+On August 25 and September 1, 2021, sponsored articles authored by Ann Carter promoted business and Thailand Elite visa services through The Thaiger's commercial partner Tadoo.[^12][^13]
+
+On November 3, 2021, The Thaiger announced a partnership between Tadoo and TMT Visa Services Phuket involving education visa packages.[^14]
+
+Tadoo CEO Sapir Maton publicly endorsed TMT's inclusion in the company's service-provider network and expressed plans to introduce additional products through the partnership.
+
+On April 11, 2022, The Thaiger published another promotional article extensively advertising TMT's immigration services, using first-person language from the visa agency itself.[^15]
+
+These publications establish a historical commercial relationship connecting the publisher, a comparison and referral platform, and a specific immigration agency.
+
+### Confidential Immigration Inquiries in 2026
+
+The Thaiger's current overstay guide solicits names, email addresses, telephone numbers, and descriptions of applicants' immigration circumstances.[^16]
+
+The form describes the assistance as confidential and identifies the intended recipient only as a vetted specialist partner.
+
+However, neither this form nor the equivalent Destination Thailand Visa enquiry form identifies the receiving agency or explains the criteria used to vet its qualifications.[^11]
+
+The publisher's Privacy Policy also permits automated or manual analysis of communications between users and service providers for purposes including product development and regulatory compliance.[^17]
+
+These provisions are particularly relevant when prospective customers disclose potentially incriminating immigration circumstances under assurances of confidentiality.
+
+### Commercial Accountability
+
+The publisher's historical articles explicitly identified Tadoo and TMT as commercial partners. Its current enquiry forms provide less transparency concerning the identities of participating immigration agencies.
+
+The reviewed forms do not disclose whether the publisher receives referral commissions, fixed lead-generation payments, or other compensation.
+
+The available evidence does not establish that Tadoo, TMT, Thai Visa Centre, or Issa Compass currently receives these inquiries.
+
+Nevertheless, prospective customers should be able to identify the businesses receiving their personal immigration information and understand the commercial arrangements underlying the publisher's recommendations.
+
 ## References
 
 [^1]: https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand
@@ -104,3 +142,15 @@ The 2019 article does not identify Thai Visa Centre as a participant in the repo
 [^10]: `https://thethaiger.com/terms-of-use` — Sections 2 and 3, third-party liability and commercial referral arrangements.
 
 [^11]: `https://thethaiger.com/visas/dtv/` — Commercial immigration enquiry form, guide dated August 26, 2026.
+
+[^12]: `https://thethaiger.com/sponsored/apply-for-a-business-visa-in-thailand-easily` — Ann Carter, August 25, 2021.
+
+[^13]: `https://thethaiger.com/sponsored/stay-in-thailand-long-term-with-the-thailand-elite-visa` — Ann Carter, September 1, 2021.
+
+[^14]: `https://thethaiger.com/sponsored/tmt-education-visa-pr` — November 3, 2021, Tadoo and TMT partnership announcement.
+
+[^15]: `https://thethaiger.com/guides/visa-information/applying-or-renewing-your-visa-in-thailand-made-easy-with-tmt-visa-services-phuket` — April 11, 2022.
+
+[^16]: `https://thethaiger.com/visas/services/overstay/` — Immigration overstay enquiry form.
+
+[^17]: `https://thethaiger.com/privacy` — Privacy Policy, updated November 25, 2026, Section 4.2.
