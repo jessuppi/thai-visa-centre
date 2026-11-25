@@ -132,6 +132,58 @@ The available evidence does not establish that StampStay has improperly denied r
 
 It establishes that the website markets precise performance figures and potentially costly immigration consequences without publishing sufficient supporting evidence, while its contractual documents leave important questions about refund eligibility unresolved.
 
+## Commercial Exploitation of Travel Disruptions and Omission of Government Relief Measures
+
+StampStay prominently advertises commercial immigration risk assessments to travelers affected by the Middle Eastern conflict that began on February 28, 2026.
+
+Its dedicated Thailand travel-disruption guide, dated March 2, 2026, promotes a US$79 professional risk assessment covering emergency extensions, overstay penalties, alternative departure strategies, and future immigration consequences.[^10]
+
+A separate international disruption guide, published on March 15, 2026, directs readers toward the same commercial service.[^11]
+
+### Omission of Official Overstay Fine Waivers
+
+On March 2, 2026, Thailand's Immigration Bureau published temporary relief measures for foreign nationals unable to depart Thailand because of Middle Eastern airspace closures.[^12]
+
+The Tourism Authority of Thailand reiterated these measures on March 4.[^13]
+
+The government announced:
+
+- Waiver of overstay fines upon departure for qualifying stranded travelers whose permission to stay expired on or after February 28, 2026.
+- Temporary extensions of stay of up to 30 days per application.
+- An alternative procedure allowing immigration officers to record applicants' circumstances when an embassy supporting letter could not be obtained.
+
+Travelers whose permitted stay had already expired and who instead sought an extension remained subject to the applicable fine-settlement procedure.
+
+Neither of StampStay's reviewed crisis guides mentions the departure-related fine waiver.
+
+Its March 15 publication appeared almost two weeks after immigration authorities announced these measures.
+
+### Unsubstantiated Emergency Extension Statistics
+
+StampStay's Thailand guide additionally publishes precise purported approval probabilities:
+
+| Circumstances | Claimed approval probability |
+| --- | --- |
+| Application at least seven days before expiry | 70–85% |
+| Application three to six days before expiry | 40–60% |
+| Application supported by an embassy letter | 70–85% |
+
+The website does not provide underlying datasets, sample sizes, immigration statistics, or a reproducible methodology supporting these figures.
+
+Its commercial assessment is advertised as drawing upon more than 500 documented crisis scenarios.[^10]
+
+### Commercial Significance
+
+StampStay encourages stranded travelers to purchase personalized assessments comparing extension costs, overstay penalties, alternative flights, and future immigration risks.
+
+However, the omission of an officially announced financial relief measure materially undermines the accuracy of those comparisons.
+
+**The website promotes paid immigration risk assessments to travelers experiencing an emergency while failing to disclose a directly relevant government measure designed to alleviate their financial hardship.**
+
+Both guides remained publicly accessible when examined on November 26, 2026.
+
+No independently verified evidence establishes a corporate relationship between StampStay and Thai Visa Centre, or whether customers incurred unnecessary expenses as a result of these publications.
+
 ## References
 
 [^1]: `https://www.stampstay.com/`
@@ -143,3 +195,11 @@ It establishes that the website markets precise performance figures and potentia
 [^7]: https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng/ — Regulation (EU) 2016/679, Articles 3, 4 and 13.
 [^8]: `https://www.stampstay.com/visa-analysis` — Commercial immigration risk-analysis sales page, accessed November 25, 2026.
 [^9]: https://www.thailand.go.th/public/useful-information-detail/001_01_210 — Thai government guidance, *Important Information for Foreigners before Travelling to Thailand*.
+
+[^10]: `https://www.stampstay.com/travel-disruptions/thailand-flight-cancellation-march-2026` — Thailand travel-disruption guide, dated March 2, 2026.
+
+[^11]: `https://www.stampstay.com/travel-disruptions/middle-east-airspace-march-2026` — International travel-disruption guide, dated March 15, 2026.
+
+[^12]: https://www.phangngaimmigration.go.th/news/02-03-2026 — Immigration Bureau announcement, March 2, 2026.
+
+[^13]: https://www.tatnews.org/2026/03/thai-immigration-bureau-introduces-temporary-relief-measures-for-travellers-affected-by-middle-east-airspace-closures/ — Tourism Authority of Thailand, March 4, 2026.
