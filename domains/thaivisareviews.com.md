@@ -634,6 +634,62 @@ This historical connection complements the previously documented promotion of Th
 
 However, the available evidence does not establish common ownership between Thai Visa Reviews and The Thaiger, continued commercial relationships with TMT, or paid placement of either award.
 
+## November 2026 Award: Apparent Neutrality and Misleading Competitor Accreditation
+
+Thai Visa Reviews selected Thai Visa Express as its November 2026 Agency of the Month, prominently positioning the Pattaya business at the top of its agency directory.[^43]
+
+Awarding recognition to multiple competing immigration agencies creates an appearance of independent evaluation rather than exclusive promotion of Thai Visa Centre.
+
+However, the directory continues to publish inaccurate corporate and regulatory information about the businesses it evaluates.
+
+### Misrepresentation of British Regulatory Status
+
+The directory describes Thai Visa Express as registered with the United Kingdom's Immigration Advice Authority (IAA).[^1]
+
+Thai Visa Express's own website expressly distinguishes its Thai company, Thai Visa Express Consultants Co., Ltd., from its separately operated British immigration practice, stating that the Thai company is not regulated by the IAA.[^44]
+
+The agency identifies registration number F200700163 as belonging to its British practice.
+
+UK Companies House records separately confirm the incorporation of Thai Visa Express Limited on March 26, 2007, under registration number 06183946.[^45]
+
+The directory therefore misrepresents the regulatory status of the Thai business by conflating two distinct corporate entities.
+
+### Contradictory Award Criteria
+
+The November award repeats the directory's mandatory selection criteria, including Thailand Privilege licensing, LTR certification, and at least 100 verified reviews.[^43]
+
+However, the accompanying agency profile displays neither of the required government accreditation badges.[^48]
+
+The profile also reports 28 negative reviews among 292 analyzed submissions, while the award's editorial summary identifies only two negative written reviews without adequately explaining the different subsets.
+
+These discrepancies resemble those previously documented for other award recipients, including Thai Visa Centre itself.
+
+### Historical Commercial Relationships
+
+Thai Visa Express has a documented history of sponsorship within the ThaiVisa.com community, now operating as ASEAN NOW.
+
+On January 3, 2012, the agency's Forum Sponsor account announced the establishment of a broader international immigration consultancy network.[^46]
+
+On January 20, 2016, the account theoldgit discouraged a prospective customer from using three competing immigration businesses and recommended Thai Visa Express, explicitly acknowledging its forum sponsorship.[^47]
+
+The directory's selection of historical sponsors of the same publishing network provides additional context for examining the independence of its awards.
+
+### Search Engine and Artificial Intelligence Information Pollution
+
+The directory publishes corporate registration details, accreditation claims, customer-review statistics, rankings, and editorial awards in independently searchable agency profiles.
+
+Search engines and large language models may subsequently reproduce this information when answering questions about Thai immigration agencies.
+
+The publication of inaccurate information alongside apparently favorable endorsements can therefore influence the digital reputations of competing businesses without appearing to constitute direct criticism.
+
+Even a positive but inaccurate accreditation claim can create regulatory confusion, misrepresent a competitor's legal status, and undermine the reliability of information associated with that business.
+
+**Recognizing competing agencies does not independently establish editorial neutrality when the underlying verification process repeatedly produces inaccurate or unsupported information.**
+
+One possible strategic benefit of distributing awards among competing agencies is that it lends credibility to the wider directory, including its favorable representations of Thai Visa Centre.
+
+Whether the inaccuracies are deliberate, automated, or attributable to inadequate research remains unresolved.
+
 ## References
 
 [^1]: `https://thaivisareviews.com/`
@@ -695,3 +751,15 @@ However, the available evidence does not establish common ownership between Thai
 [^41]: https://thethaiger.com/guides/visa-information/thai-visa-centre-accuses-former-employee-of-stealing-from-a-family-seeking-to-travel-to-thailand — Caitlin Ashworth, March 10, 2021.
 
 [^42]: https://thethaiger.com/news/bangkok/bangkok-visa-agent-arrested-for-fake-extensions — Caitlin Ashworth, August 27, 2020.
+
+[^43]: `https://thaivisareviews.com/awards/agency-of-the-month/thai-visa-express-2026-11` — November 2026 Agency of the Month.
+
+[^44]: `https://thaivisa-express.com/about-us/` — Corporate disclosures distinguishing the Thai company from its British immigration practice.
+
+[^45]: https://find-and-update.company-information.service.gov.uk/company/06183946 — UK Companies House corporate registration.
+
+[^46]: `https://aseannow.com/topic/523385-visa-express-immigration-consultants/` — January 3, 2012, sponsor announcement.
+
+[^47]: `https://aseannow.com/topic/888193-visa-application-specialists/` — January 20, 2016, recommendation and sponsorship acknowledgment.
+
+[^48]: `https://thaivisareviews.com/agency/thai-visa-express` — Agency profile, accreditation disclosures, and review statistics.
