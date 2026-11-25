@@ -48,6 +48,42 @@ This ownership history is relevant to the investigation into [Thai Visa Centre](
 
 The documented transaction involved ASEAN NOW's digital assets rather than an acquisition of Choice Group Asia itself.
 
+## 2020 Advertorial Sales and Targeted Visa Agency Promotions
+
+On March 3, 2020, during Choice Group Asia's ownership of ThaiVisa.com, the platform's sales team published a discounted advertising offer costing 6,000 baht per month.[^6]
+
+The package included pinned advertorials, newsletter placements, and Facebook promotions.
+
+The sales announcement explicitly described the advantage of advertorials:
+
+> They are perceived by many as a genuine article, not so much an advert.
+
+The publisher also promoted the permanent search-engine visibility of these commercial publications and invited advertisers to supply their own headlines, promotional content, photographs, pricing information, and destination URLs.
+
+This establishes that the perceived editorial authenticity of paid content was explicitly marketed as a commercial advantage.
+
+### August 2020 Advertising Campaign Targeting Visa Agencies
+
+On August 14, 2020, ThaiVisa's sales team announced a dedicated 45-day advertising package exclusively targeting visa agencies, priced at 7,500 baht.[^7]
+
+The campaign included:
+
+- Two newsletter placements, targeting a claimed 335,000 subscribers.
+- Two Facebook promotions.
+- Two promotional posts in regional discussion forums selected by the advertiser.
+
+The announcement encouraged visa agencies to capitalize on increased demand surrounding the approaching expiration of Thailand's pandemic-era visa amnesty.
+
+The campaign was announced just ten days after the August 4, 2020 police raid involving Thai Visa Centre's founders.
+
+On September 15, 2020, ThaiVisa subsequently published an advertorial specifically promoting Thai Visa Centre, as documented in the separate [ASEAN NOW domain investigation](../domains/aseannow.com.md).
+
+The available evidence does not establish whether Thai Visa Centre purchased the specific August advertising package.
+
+Nevertheless, these historical announcements document a deliberate commercial strategy of selling editorial-style exposure and search-engine visibility to businesses, including immigration agencies.
+
+This strategy predates The Thaiger's acquisition of ASEAN NOW by four years and provides important historical context for the platform's subsequent sponsor-protection policies and commercial immigration coverage.
+
 ## References
 
 [^1]: https://www.dataforthai.com/company/0205554009008/
@@ -55,3 +91,7 @@ The documented transaction involved ASEAN NOW's digital assets rather than an ac
 [^3]: `https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand`
 [^4]: `https://aseannow.com/topic/713328-are-your-customers-expats/` — Original joint advertising announcement and pricing clarification, March 24, 2014.
 [^5]: `https://aseannow.com/topic/985394-siam-media-solutions-joins-forces-with-choice-group-asia-media-group/` — Joint commercial partnership announcement, May 29, 2017.
+
+[^6]: `https://aseannow.com/topic/1151497-content-is-king-online-%E2%80%93advertise-now-with-a-google-authority-site-thaivisa-march-special-promotions/` — Original advertising announcement, March 3, 2020.
+
+[^7]: `https://aseannow.com/topic/1177695-special-offer-for-visa-agents-only-%E2%80%93take-advantage-of-the-visa-amnesty-period/` — Visa-agency advertising offer, August 14, 2020.
