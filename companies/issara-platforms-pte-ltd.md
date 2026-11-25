@@ -67,6 +67,33 @@ The available evidence does not establish improper document retention, unauthori
 
 It establishes an unresolved discrepancy between the company's specific public deletion assurances and its broader privacy terms.
 
+### Contradictory Data Residency and Processing Assurances
+
+Issa Compass's Security page claims that customer information is stored exclusively within Google Cloud's Singapore infrastructure and that documents are handled solely through its secured application, without third-party agents.[^4]
+
+However, Sections 4 and 5 of its Privacy Policy describe external contractor access, international service-provider processing, and data storage primarily, rather than exclusively, in Singapore.[^3]
+
+The security assurances therefore present a narrower description of customer-data handling than the company's legal disclosures.
+
+### Commercial Reuse of Immigration Application Data
+
+In an article published April 14, 2026, and updated October 17, immigration consultant Kat Hewett describes how completed customer applications contribute information to Issa Compass's proprietary immigration requirements database.[^16]
+
+The company's Technology page advertises:
+
+- 87 diplomatic missions monitored hourly.
+- 24,200 live reports.
+- Coverage of 158 nationalities.
+- Prediction accuracy exceeding 95%.[^17]
+
+These publications establish that application-derived information contributes to a commercial intelligence product extending beyond individual visa applications.
+
+However, the Privacy Policy does not specifically explain the retention, anonymization, or secondary processing of information incorporated into this database.
+
+Customers are not clearly informed whether deleting their accounts also removes identifiable information incorporated into the company's immigration intelligence systems.
+
+**Issa Compass markets restrictive data-handling assurances to prospective customers while describing a broader commercial data-processing operation in its technical and legal publications.**
+
 ## Unsubstantiated Monthly Application Volumes and Inconsistent Customer Statistics
 
 On April 9, 2026, Issa Compass announced that it had surpassed **100,000 users**. The same press release described 100,000 consultations, claimed a **99% visa approval rate for pre-qualified applications**, and reported reaching $1 million in annualized revenue within five months.[^5]
@@ -192,3 +219,7 @@ The available evidence does not establish that a Singapore court has assessed th
 [^14]: https://sso.agc.gov.sg/Act/UCTA1977 — Singapore Unfair Contract Terms Act 1977.
 
 [^15]: https://www.elitigation.sg/gd/s/2022_SGHC_10 — Singapore High Court judgment discussing statutory reasonableness requirements for liability limitations.
+
+[^16]: `https://www.issacompass.com/insights/inside-issa-compass-how-our-ai-verification-engine-catches-the-visa-requirements` — Kat Hewett, updated October 17, 2026.
+
+[^17]: `https://www.issacompass.com/technology` — Commercial immigration intelligence platform and advertised performance statistics.
