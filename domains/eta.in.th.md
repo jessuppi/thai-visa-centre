@@ -64,6 +64,38 @@ On November 12, 2026, Nickles included `eta.in.th` among seven domains in a form
 
 Despite the complaints submitted between February 2025 and November 2026, the available correspondence contains no documented response specifically addressing the original `eta.in.th` allegations, no confirmation that THNIC independently investigated the domain, and no final enforcement determination. This does not establish that no internal review occurred, but leaves the registrar's handling of the reported concerns unclear.[^1][^2][^3]
 
+## Government Announcements Repurposed as Commercial Referral Content
+
+On January 31, 2025, Thailand's Ministry of Tourism and Sports published an announcement concerning preparations for the introduction of the Thailand Digital Arrival Card (TDAC).[^15]
+
+AGENTS subsequently reproduced an English translation of this announcement on `eta.in.th`, attributing the material to the ministry.[^5]
+
+However, the republished announcement incorporates five hyperlinks directing readers to the company's privately operated `tdac.in.th` website.
+
+### Commercial Links Embedded Within Government Statements
+
+The inserted hyperlinks appear in passages concerning:
+
+- Government preparations for the TDAC launch.
+- Development of the digital arrival card by the Immigration Bureau.
+- Integration with airlines, disease-control authorities, and customs departments.
+- Official Immigration Bureau informational brochures.
+- Government instructional videos explaining the TDAC procedure.
+
+The original Thai-language announcement contains no links to `tdac.in.th` and does not identify AGENTS CO., LTD. as a participant in the government project.[^15]
+
+Nevertheless, the translated publication repeatedly associates the company's commercial domain with descriptions of government infrastructure and official public services.
+
+### Conversion of Government Information Into Commercial Traffic
+
+The linked domain currently redirects visitors to `tdac.agents.co.th`, where AGENTS promotes its private submission service, paid advance submissions, insurance, eSIMs, and airport assistance.[^16]
+
+**The republication transforms an official government announcement into a commercial customer-acquisition channel while retaining the authority associated with the original government source.**
+
+Although both private websites carry disclaimers concerning their unofficial status, those disclaimers do not explain that the hyperlinks embedded within the translated announcement were absent from the original publication.
+
+This practice is particularly significant given the company's repeated criticism of competing TDAC intermediaries for misleading travelers about their official status.
+
 ## References
 
 [^1]: Email to THNIC, February 27, 2025, subject *eta.in.th and dtv.in.th and asq.in.th abuse* (private correspondence).
@@ -80,3 +112,7 @@ Despite the complaints submitted between February 2025 and November 2026, the av
 [^12]: `https://agents.co.th/`
 [^13]: `https://eta.in.th/id` — Indonesian-language ETA guidance, accessed November 25, 2026.
 [^14]: `https://eta.in.th/policy/refund` — Refund Policy, last updated July 16, 2024.
+
+[^15]: https://www.mots.go.th/news/1001976 — Ministry of Tourism and Sports, January 31, 2025, original Thai-language announcement concerning the online TM6 system.
+
+[^16]: `https://tdac.in.th/` — Redirect to `https://tdac.agents.co.th/`, commercial TDAC information and submission services, observed November 26, 2026.
