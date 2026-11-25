@@ -60,6 +60,38 @@ The website provides no independently verifiable government accreditation establ
 
 The concern is therefore not simply that AGENTS criticizes competitors. It is that the company **combines competitor blacklisting, prepared advertising complaints, and promotion of its own paid service**, without clearly separating independent consumer protection from its commercial interests.
 
+## Omission of Mandatory Ebola-Related Entry Restrictions
+
+As of November 25, 2026, the TDAC guide operated by AGENTS CO., LTD. presents detailed instructions concerning immigration health declarations, travel history, and yellow fever vaccination requirements.[^9]
+
+Despite displaying a same-day update timestamp, the guide contains no reference to Ebola-related entry restrictions introduced by Thailand's public health authorities during 2026.
+
+### Revised October 2026 Entry Restrictions
+
+On October 15, 2026, the Civil Aviation Authority of Thailand published Aeronautical Information Circular AIC 09/26, implementing revised public health requirements effective October 16.[^10]
+
+The circular establishes that:
+
+- Travelers departing from the Democratic Republic of the Congo may enter Thailand only through Suvarnabhumi Airport.
+- A mandatory 21-day quarantine period applies, calculated from departure from the affected areas.
+- Travelers departing from Uganda may use standard immigration procedures but must present valid yellow fever vaccination certificates at the port health station.
+
+The circular remains effective until further notice.
+
+Thailand's Tourism Authority had previously published guidance concerning the introduction of Ebola-related screening measures and their relationship to TDAC registration in May 2026.[^11]
+
+### Commercial Significance
+
+The AGENTS guide promotes its commercial submission platform alongside detailed explanations of travel documentation and health requirements.
+
+However, travelers relying exclusively on this guidance may remain unaware of restrictions affecting their airport selection, onward travel arrangements, and quarantine obligations.
+
+The omission is particularly consequential given the website's prominently displayed update timestamp.
+
+The available evidence does not establish whether the company's actual submission form provides additional warnings or whether customers have experienced disrupted travel arrangements.
+
+Nevertheless, an apparently current commercial immigration guide should distinguish successful arrival-card submission from compliance with separate mandatory public health entry requirements.
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
@@ -70,3 +102,9 @@ The concern is therefore not simply that AGENTS criticizes competitors. It is th
 [^6]: `https://tdac.agents.co.th/scam/AR03369521742019035137`
 [^7]: `https://tdac.agents.co.th/scam/AR09798246863894216705`
 [^8]: https://support.google.com/adspolicy/answer/13156083
+
+[^9]: `https://tdac.agents.co.th/` — TDAC guide, displaying November 25, 2026 as its latest update.
+
+[^10]: https://aip.caat.or.th/2026-10-16/html/eAIC/VT-eAIC-26-09-en-GB.html — Civil Aviation Authority of Thailand, AIC 09/26, published October 15, 2026.
+
+[^11]: https://www.tatnews.org/2026/05/thailand-applies-ebola-screening-measures-for-travellers-from-risk-areas/ — Tourism Authority of Thailand, May 2026.
