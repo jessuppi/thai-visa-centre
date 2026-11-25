@@ -325,6 +325,23 @@ The available evidence does not establish that AGENTS has exercised its content-
 
 The concern is the unresolved scope of its published contractual provisions.
 
+## Misleading Reporting Options Advertised to DTV Holders
+
+AGENTS CO., LTD. publishes a dedicated landing page targeting Destination Thailand Visa (DTV) holders with its paid 90-day reporting service.[^22]
+
+The page presents two alternatives for DTV holders unable to use the government's online reporting system:
+
+- Personally visiting an immigration office.
+- Purchasing the company's reporting service.
+
+However, Thailand's published government instructions recognize four reporting methods, including submission by an authorized representative and registered mail.[^10][^23]
+
+The company's promotional material omits these alternatives, presenting its commercial service as the only way to avoid personally attending an immigration office.
+
+Customers can authorize another person without necessarily employing a commercial immigration agency. Registered mail also provides an alternative where permitted by the responsible immigration office.
+
+**AGENTS uses restrictions on government online reporting to promote its paid service while omitting other officially recognized reporting methods.**
+
 ## References
 
 [^1]: https://www.reddit.com/r/expatsinbangkok/comments/1tdqdc8/thailand_90_day_online_reporting/
@@ -350,3 +367,7 @@ The concern is the unresolved scope of its published contractual provisions.
 [^20]: https://uttaradit.immigration.go.th/การรับแจ้งอยู่ในราชอาณา/ — Uttaradit Immigration, official 90-day reporting instructions, including application tracking, notifications, and passport replacement procedures.
 
 [^21]: `https://90day.in.th/policy/disclaimer` — Disclaimer, updated April 2, 2025, Content and Postings section.
+
+[^22]: `https://90day.in.th/dtv-90-day-reporting` — Commercial DTV reporting landing page.
+
+[^23]: https://thaiconsulatela.thaiembassy.org/en/publicservice/foreigners-staying-in-thailand-more-than-90-days — Royal Thai Consulate-General, official reporting procedures.
