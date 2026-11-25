@@ -154,6 +154,50 @@ The available evidence does not establish that Tadoo, TMT, Thai Visa Centre, or 
 
 Nevertheless, prospective customers should be able to identify the businesses receiving their personal immigration information and understand the commercial arrangements underlying the publisher's recommendations.
 
+## Thaiger AI and Automated Commercial Customer Acquisition
+
+The Thaiger's commercial activities extend beyond advertising, sponsored publications, and conventional customer referrals.
+
+Its associated technology business, `thaiger.ai`, explicitly identifies its origins within Thaiger Media's technology department and lists Michael Kenner as a board member.[^19]
+
+Its Privacy Policy identifies [The Thaiger Pte. Ltd.](../companies/the-thaiger-pte-ltd.md) as the website's owner and operator.[^20]
+
+### Integration With Associated Property Businesses
+
+Thaiger AI publishes several case studies documenting its commercial and technical relationships with businesses associated with The Thaiger's wider corporate network.[^21]
+
+| Business | Advertised services |
+| --- | --- |
+| Dot Property | Automated WhatsApp customer engagement and appointment scheduling |
+| FazWaz | Automated telephone calls, recorded responses, and property database updates |
+| AA Insurance Brokers | Automated customer acquisition combined with Thaiger Media sponsorship |
+
+These arrangements predate The Thaiger's disclosed 2026 acquisition by Dot Property.
+
+The case studies demonstrate that the publisher's commercial operations include direct involvement in customer communications and transaction-related workflows, rather than merely selling advertising space.
+
+### Integration of Media Sponsorship and Customer Acquisition
+
+The AA Insurance Brokers case study explicitly describes combining automated appointment generation with sponsored exposure through Thaiger Media.
+
+Thaiger AI separately promotes its proprietary ThaigerGo customer-management platform, which facilitates automated customer classification, personalized communications, appointment scheduling, and advertising optimization.[^22]
+
+Its advertised target industries include healthcare, finance, and legal services.
+
+**The publisher therefore operates an integrated commercial infrastructure combining media exposure, customer acquisition, automated communications, and service-provider referrals.**
+
+### Data Protection and Commercial Accountability
+
+Thaiger AI's Privacy Policy, last updated December 10, 2024, describes collecting contact information, technical usage records, and customer communications.[^20]
+
+However, it does not specifically explain the retention and processing arrangements governing automated telephone recordings, AI-generated customer profiles, or customer information processed on behalf of commercial clients.
+
+These omissions are relevant given The Thaiger's subsequent introduction of immigration enquiry forms and account-associated immigration records.
+
+The reviewed documents do not establish that Thaiger AI processes immigration inquiries on behalf of Thai Visa Centre or AGENTS CO., LTD.
+
+Nevertheless, they establish a broader commercial infrastructure capable of connecting publishing operations with automated customer acquisition and service delivery.
+
 ## References
 
 [^1]: https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand
@@ -184,3 +228,11 @@ Nevertheless, prospective customers should be able to identify the businesses re
 [^17]: `https://thethaiger.com/privacy` — Privacy Policy, updated November 25, 2026, Section 4.2.
 
 [^18]: `https://thethaiger.com/advertise/the-thaiger-content-and-advertising-guidelines/` — The Thaiger Content and Advertising Guidelines, particularly Sections 1, 3.5 and 5, reviewed November 26, 2026.
+
+[^19]: `https://www.thaiger.ai/about-us` — Corporate history and management disclosures.
+
+[^20]: `https://www.thaiger.ai/privacy` — Privacy Policy, updated December 10, 2024.
+
+[^21]: `https://www.thaiger.ai/case-studies` — Published case studies concerning Dot Property, FazWaz, and AA Insurance Brokers.
+
+[^22]: `https://www.thaiger.ai/ai-services/ai-marketing-and-lead-generation` — Automated customer acquisition and ThaigerGo service description.
