@@ -273,6 +273,47 @@ The documents do not establish a contractual partnership, referral compensation,
 
 Nevertheless, they provide concrete third-party evidence of the commercial platform being incorporated into international travel guidance without a clear distinction between government registration and private immigration assistance.
 
+## June–July 2025 Press Release Syndication Campaign
+
+AGENTS CO., LTD.'s promotion of its commercial TDAC platform extended beyond The Thaiger, ASEAN NOW, and Travel Daily Media into international press-release distribution networks and Thailand's national media.
+
+### June 16, 2025: International Press Release Distribution
+
+Web and IT News and AWNews published substantially identical promotional articles announcing AGENTS' commercial TDAC platform.[^31][^32]
+
+Both publications attribute the material to PressReleaseCC and identify the following media contact:
+
+- Company: AGENTS CO
+- Contact person: Thomas
+- Country: Thailand
+- Website: `tdac.agents.co.th`
+
+The articles repeat substantially identical wording, pricing, performance statistics, and commercial advantages appearing in The Thaiger's June 13, 2025 publication.[^13]
+
+The syndicated copies provide additional documentary evidence that the promotional material originated from a coordinated corporate publicity campaign rather than separate independent evaluations of the platform.
+
+### July 6, 2025: Promotion Through The Nation
+
+The Nation subsequently published an article titled *AGENTS unveils new TDAC platform, offering flexible and efficient processing* within its PR News section.[^33]
+
+The publication repeated several of the company's earlier promotional claims, including:
+
+- A reported success rate exceeding 99% during the May 7 government website outage.
+- Compliance with Thailand's Personal Data Protection Act.
+- Indefinitely retained application drafts unless deleted.
+- The supposed advantages of individual TDAC documents for LTR visa applicants.
+- Thai domain extensions as indicators of legitimate providers.
+
+The article also described AGENTS' private websites using official TDAC terminology while separately identifying the government's actual registration portal.
+
+### Commercial Significance
+
+The repeated publication of substantially similar corporate promotional material across multiple media outlets should not be interpreted as independent corroboration of AGENTS' performance statistics, regulatory compliance, or reliability claims.
+
+The distribution campaign demonstrates that the company's publicity strategy extended beyond its established relationships with Thailand's expatriate publishing network.
+
+The reviewed publications do not disclose the financial arrangements governing placement of the promotional material.
+
 ## References
 
 [^1]: https://www.dataforthai.com/company/0115562031107/
@@ -316,3 +357,9 @@ Nevertheless, they provide concrete third-party evidence of the commercial platf
 [^29]: `https://r.pl/wytyczne/tajlandia/` — Rainbow's Thailand entry guidance, updated March 11, 2026.
 
 [^30]: `https://static.r.pl/wytyczne/fd90820d-0b7d-4b2f-bf04-b29d12786ac9/Tajlandia%20-%20Instrukcja%20wype%C5%82nienia%20Arrival%20Card%20%28TDAC%29.pdf` — Replacement instruction document illustrating the official government TDAC interface.
+
+[^31]: https://www.webanditnews.com/2025/06/16/gents-co-ltd-launches-new-tdac-platform-for-travel-agents-and-tour-operators/ — June 16, 2025, syndicated press release containing AGENTS' media-contact information.
+
+[^32]: https://www.awnews.org/gents-co-ltd-launches-new-tdac-platform-for-travel-agents-and-tour-operators/ — June 16, 2025, syndicated copy identifying PressReleaseCC and Web and IT News.
+
+[^33]: https://www.nationthailand.com/pr-news/40052186 — The Nation, PR News, July 6, 2025.
