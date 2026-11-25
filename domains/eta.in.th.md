@@ -12,11 +12,47 @@ The Privacy Policy states that personal information, including names, email addr
 
 On November 30, 2024, the **ThaiVisaCentre** account on ASEAN NOW publicly acknowledged operating `eta.in.th` after forum participants questioned its unofficial status and published ETA requirements. Participants specifically challenged the website's descriptions of required travel tickets, accommodation details, and proof of funds, including 10,000 THB for individual travelers and 20,000 THB for families. Thai Visa Centre responded that these requirements were not finalized, citing preliminary government discussions and stating that the website would be updated when further official information became available.[^10]
 
-As of November 2026, `eta.in.th` identifies itself as an unofficial immigration information website and includes a February 23, 2025 notice acknowledging that the proposed ETA system may have been replaced by the Thailand Digital Arrival Card (TDAC). However, further down the same page, it continues describing ETA registration as mandatory for visa-exempt travelers, outlines application procedures, and displays an estimated approval time of 24 hours. These contradictory statements remain published despite the Thai government's confirmation that TDAC replaced the proposed ETA system effective May 1, 2025.[^5][^6]
-
 The website retains an **“Official Thailand ETA Links”** section pointing to older government publications and continues inviting visitors to subscribe for ETA notifications. Alongside its outdated application requirements, these features could mislead travelers about whether an ETA application system exists or remains planned.[^5][^6]
 
 Although `eta.in.th` acknowledges that the Thailand Digital Arrival Card (TDAC) replaced the proposed ETA system, its prominent **“TDAC Information”** links direct visitors to [tdac.in.th](tdac.in.th.md), another privately operated immigration website, rather than directly to the Thai Immigration Bureau's official TDAC portal. The website also links to `thim.in.th`, an unofficial immigration guide that directs visitors to a third-party TDAC submission service at `agents.co.th`. These links document how visitors to `eta.in.th` are directed toward related private immigration websites and services.[^5][^7][^11][^12]
+
+## Partial Corrections and Inconsistent Multilingual Guidance
+
+As of November 25, 2026, the English-language homepage of `eta.in.th` describes Thailand's Electronic Travel Authorization (ETA) as a proposed system whose mandatory implementation remains conditional upon approval.[^5]
+
+This represents a qualification of the website's earlier presentation. However, its Indonesian-language version continues describing the ETA as a forthcoming mandatory requirement for visa-exempt travelers.[^13]
+
+The English-language website also retains an estimated approval time of 24 hours, despite acknowledging elsewhere that Thailand's Ministry of Foreign Affairs has not published an approval timeframe.
+
+Thailand's government has already confirmed that the TDAC system replaced the proposed ETA and became operational on May 1, 2025.[^6]
+
+**The website's partial corrections have not resolved its inconsistent presentation of a superseded immigration proposal across different languages.**
+
+### Commercial Referrals in Response to Traveler Confusion
+
+The website's public discussion section contains numerous questions from travelers attempting to locate the nonexistent ETA application procedure.
+
+Repeated anonymous replies correctly explain that an ETA is not required but direct travelers to the commercial TDAC submission service at `agents.co.th/tdac-apply` rather than the government's free registration portal.[^5]
+
+The identities and commercial affiliations of these anonymous contributors have not been independently established.
+
+Nevertheless, the published exchanges demonstrate how confusion surrounding the proposed ETA can generate referrals to another immigration service operated by the same commercial network.
+
+### Refund Terms for an Unimplemented Immigration System
+
+The website expressly describes itself as providing unofficial travel information and newsletters.
+
+However, its Refund Policy, dated July 16, 2024, describes paid visa assistance, applications submitted to embassies or consulates, government application charges, and refunds of agency fees following unsuccessful applications.[^14]
+
+The policy also provides for transaction-fee deductions of 2–7% in certain cancellation circumstances.
+
+Substantially similar contractual provisions appear on the affiliated [LTR website](ltr.in.th.md), despite that website also disclaiming direct application services.
+
+The available evidence does not establish that AGENTS has accepted payment for nonexistent ETA applications. The refund provisions may represent an obsolete contractual template.
+
+However, their continued publication raises questions about which commercial services the website actually provides and which customer transactions its legal policies govern.
+
+**The continued operation of an outdated ETA information website creates a commercial referral channel for immigration services, even though the government has superseded the proposed system.**
 
 ## THNIC Abuse Complaints
 
@@ -42,3 +78,5 @@ Despite the complaints submitted between February 2025 and November 2026, the av
 [^10]: `https://aseannow.com/topic/1344826-the-thai-eta-electronic-system-for-travel-authorisation/` — November 30, 2024 discussion and replies from the ThaiVisaCentre account.
 [^11]: `https://thim.in.th/`
 [^12]: `https://agents.co.th/`
+[^13]: `https://eta.in.th/id` — Indonesian-language ETA guidance, accessed November 25, 2026.
+[^14]: `https://eta.in.th/policy/refund` — Refund Policy, last updated July 16, 2024.
