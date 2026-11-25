@@ -58,6 +58,62 @@ These inconsistencies are significant because the agency handles sensitive custo
 
 The published policies leave customers without a clear explanation of which registered company assumes contractual liability and personal-data protection responsibilities.
 
+## Missing Statutory Privacy Disclosures and Direct-Marketing Rights
+
+Thai Visa Centre's Privacy Policy and Data Protection Policy, both dated February 9, 2025, expressly acknowledge Thailand's Personal Data Protection Act (PDPA).[^5][^6]
+
+However, the published documents omit important information that Section 23 of the legislation requires data controllers to communicate to individuals.[^8]
+
+### Unspecified Personal Data Retention
+
+Section 23(3) requires data controllers to disclose how long personal information will be retained or, where a precise period cannot be established, the expected retention period.
+
+Neither of Thai Visa Centre's published privacy documents provides a defined or estimated retention period for customer information.
+
+This omission is particularly significant for an immigration agency whose services involve passport documentation, financial evidence, immigration histories, and personal correspondence.
+
+Customers cannot determine from these documents how long their immigration records will remain in the agency's possession after their applications are completed or their commercial relationship ends.
+
+### Missing Explanation of Statutory Privacy Rights
+
+Section 23(6) requires data controllers to inform individuals of their applicable statutory rights, including:
+
+- Withdrawal of consent.
+- Access to personal information.
+- Data portability.
+- Objection to processing.
+- Erasure and restriction of processing.
+- Correction of inaccurate information.
+- Complaints to the competent regulatory authority.
+
+Thai Visa Centre provides a general contact email for privacy complaints but does not adequately explain these statutory rights or the conditions governing their exercise.[^5][^6]
+
+### Collection of Information From Marketing Partners
+
+The Privacy Policy acknowledges obtaining personal information from public databases and joint marketing partners.
+
+Section 25 of the PDPA establishes requirements governing information obtained indirectly, including notification and consent where applicable, subject to statutory exceptions.[^8]
+
+Where the information is collected for communication with an individual and the relevant notification obligation applies, the required disclosures must be provided at the first communication.
+
+Section 32 separately establishes an individual's right to object to the processing of personal information for direct marketing.
+
+**Once an individual exercises that right, the controller must discontinue processing their information for direct-marketing purposes.**
+
+These requirements are relevant to the unsolicited marketing complaints documented in the [THNIC investigation](../brands/thnic.md).
+
+The existence of a marketing-partner arrangement does not independently establish unlawful collection or advertising. However, the company's published privacy documents do not adequately explain these statutory protections.
+
+### Corporate Accountability
+
+The deficiencies compound the previously documented uncertainty concerning which registered company acts as the data controller.
+
+Thai Visa Centre should identify the responsible legal entity, disclose applicable retention periods, explain customers' statutory rights, and clarify the legal basis governing information obtained through external marketing relationships.
+
+The available evidence does not establish that the company lacks internal retention procedures or that it fails to provide additional privacy notices during individual transactions.
+
+**It establishes that its publicly accessible privacy documents do not contain several material disclosures expressly contemplated by Thailand's data-protection legislation.**
+
 ## THNIC Complaints
 
 During October–November 2026, Jesse Nickles submitted complaints to THNIC concerning allegedly defamatory material and unauthorized photographs published on `tvc.co.th`.
@@ -77,6 +133,7 @@ The correspondence is documented in the [tvc.co.th domain investigation](../doma
 [^5]: `https://tvc.co.th/policy/privacy`
 [^6]: `https://tvc.co.th/policy/data-protection`
 [^7]: `https://tvc.co.th/policy/refund`
+[^8]: https://mdes.go.th/law/detail/1905-Personal-Data-Protection-Act--B-E--2562--2019- — Ministry of Digital Economy and Society, unofficial English translation of the Personal Data Protection Act B.E. 2562 (2019), particularly Sections 23, 25 and 32.
 
 ### Additional Sources
 
