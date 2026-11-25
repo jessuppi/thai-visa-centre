@@ -66,6 +66,28 @@ Despite this enthusiastic endorsement, Daniels denied having any personal affili
 
 His denial of affiliation is difficult to reconcile with his ongoing role moderating a Facebook community owned by the very agency he was promoting. The financial arrangements surrounding the group's acquisition, including whether Daniels received payment or other benefits, were not disclosed.[^7]
 
+## November 2026: Relaxation of Moderation Rules
+
+On November 7, 2026, an account identified in Ask Thailand's republished discussion as `THAI ******************************` announced changes intended to increase participation in the visa-advice community.[^12][^13]
+
+The changes included fewer locked discussions, relaxed post approvals, greater flexibility in editing submissions, and less restrictive moderation.
+
+A member identified as Michael criticized the changes as prioritizing algorithmic visibility over reliability. He also questioned the usefulness of maintaining two similarly named communities under Thai Visa Centre's ownership.
+
+Another member, identified as Brian, defended the previous moderation system and questioned why increased activity was necessary.
+
+### Coordinated Management of Both Communities
+
+Responding to Michael, the original poster acknowledged that the two communities served distinct purposes: one focused on independent visa applications, while the other permitted discussions involving commercial assistance.
+
+The account also disclosed that merging the groups had been considered.
+
+In separate responses, the account confirmed that the previously private group had become public, that moderators from the other community had been added, and that Tod Daniels had also been appointed as a moderator of the other group.[^12]
+
+These statements provide further evidence of coordinated management across both communities.
+
+The original poster's full account name remains unverified because Ask Thailand masks contributor names in its republished discussions.
+
 ## References
 
 [^1]: `https://asq.in.th/question/what-are-the-rules-for-joining-the-thai-visa-advice-group-1`
@@ -79,3 +101,7 @@ His denial of affiliation is difficult to reconcile with his ongoing role modera
 [^9]: `https://ask.in.th/question/what-are-the-official-rules-for-posting-in-the-thai-visa-advice-facebook-group`
 [^10]: `https://asq.in.th/question/do-i-need-to-stay-in-the-country-where-i-applied-for-a-thailand-visa-until-it-is-approved`
 [^11]: `https://www.facebook.com/groups/thaivisaadvice/about`
+
+[^12]: `https://asq.in.th/question/what-are-the-recent-changes-to-the-thailand-visa-related-group-and-what-are-the-communitys-reactions` — Discussion dated November 7, 2026, retrieved through an indexed copy on November 25, 2026.
+
+[^13]: `https://asq.in.th/question/what-are-the-recent-changes-to-the-group-moderation-and-community-guidelines-and-how-do-they-affect-the-quality-of-information-shared` — Discussion dated November 7, 2026, retrieved through an indexed copy on November 25, 2026.
