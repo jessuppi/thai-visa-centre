@@ -692,6 +692,58 @@ Families following the company's guidance could unnecessarily delay dependent ap
 
 The available evidence does not establish that Issa Compass actually delays dependent applications or that customers have experienced adverse immigration outcomes as a result.
 
+## DTV Partner Packages and Unsubstantiated Pre-Approval Claims
+
+Issa Compass operates a commercial network of Muay Thai gyms and Thai cooking schools selling bundled Destination Thailand Visa application packages.
+
+Its published sales page lists 13 packages, with individual course fees ranging from US$725 to US$2,172 or more, alongside an additional US$299 visa-service fee.[^45]
+
+In an article originally published on April 15, 2026, immigration consultant Kat Hewett describes these partner memberships as pre-approved qualifying activities.[^46]
+
+The article further claims that documentation supplied by its partner institutions has been validated through thousands of previous applications.
+
+However, neither publication identifies the government authority responsible for granting the claimed pre-approval or provides corresponding approval records.
+
+### Institutional Licensing and Government Approval
+
+Official guidance published by the Royal Thai Embassy in Bucharest, updated November 15, 2026, identifies supporting documentation relevant to activity-based DTV applications:[^47]
+
+- Muay Thai institutions: documentation issued by the Sports Authority of Thailand or Ministry of Tourism and Sports.
+- Culinary institutions: relevant school licences, business licences, or corporate registration documents.
+
+The Royal Thai Embassy in London separately identifies institutional registration, authorization to operate courses, and a minimum activity duration of six months in its November 24, 2026 guidance.[^48]
+
+**A commercially selected training provider is not necessarily a government-approved DTV provider, and previous successful applications do not establish blanket approval of future applications.**
+
+Issa Compass's general disclaimer correctly acknowledges that government authorities retain responsibility for visa decisions. Nevertheless, its specific institutional pre-approval claims are not accompanied by documentary evidence establishing their scope.
+
+### Inconsistent Course Refund Protection
+
+The company's published package listings also distinguish between courses displaying an Issa Guarantee badge and those without one.[^45]
+
+Examples of packages displayed without that badge include:
+
+| Partner institution | Course fee |
+| --- | ---: |
+| Phuket King | US$725 |
+| Bangkok Thai Cooking Academy (9 months) | US$760 |
+| Dang Muay Thai Gym | US$901 |
+| Bangkok Thai Cooking Academy (12 months) | US$1,065 |
+
+Each package additionally carries a US$299 Full Service fee.
+
+Section 7.3.1 of Issa Compass's Terms of Service establishes that partner course fees qualify for reimbursement only when the purchased package or payment confirmation expressly includes that protection.[^49]
+
+Section 7.3.4 separately subjects course refunds following voluntary withdrawal to the relevant provider's cancellation policy.
+
+Consequently, purchasing an all-inclusive DTV package does not automatically establish that its entire commercial cost is covered by the advertised money-back guarantee.
+
+### Commercial Accountability
+
+The course fee represents a substantial portion of the customer's expenditure and can considerably exceed the immigration-service fee itself.
+
+Issa Compass should identify the documentary basis for its institutional pre-approval claims and prominently distinguish refundable course packages from those governed exclusively by individual training providers' cancellation policies.
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -772,3 +824,13 @@ The available evidence does not establish that Issa Compass actually delays depe
 [^43]: `https://www.issacompass.com/insights/ltr-visa-dependents-bringing-your-spouse-and-children-to-thailand` — Kat Hewett, updated November 14, 2026.
 
 [^44]: https://ltr.boi.go.th/ — Official BOI application process, particularly the instructions for linking dependent applications.
+
+[^45]: `https://www.issacompass.com/thailand-visas` — Commercial DTV partner package listings, pricing, and guarantee badges, examined November 26, 2026.
+
+[^46]: `https://www.issacompass.com/insights/the-dtv-partner-package-explained-how-issa-compass-bundles-your-visa-with-muay-t` — Kat Hewett, published April 15, 2026, updated October 12, 2026.
+
+[^47]: https://bucharest.thaiembassy.org/en/page/destination-thailand-visa-dtv — Official DTV requirements, updated November 15, 2026.
+
+[^48]: https://london.thaiembassy.org/en/page/dtv-for-soft-power-activities — Official DTV soft-power activity requirements, updated November 24, 2026.
+
+[^49]: `https://www.issacompass.com/terms` — Terms of Service, Sections 7.3.1 and 7.3.4, concerning partner course refunds.
