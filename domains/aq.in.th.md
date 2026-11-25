@@ -348,6 +348,52 @@ Nevertheless, the publication documents commercially favorable representations a
 - [Anyone have experience with aq.in.th? (March 2022)](../threads/2022-03-23-reddit-anyone-experience-with-aq-in-th.md)
 - [Extending Visa via Thai Visa Centre (May 2022)](../threads/2022-05-04-reddit-extending-visa-thai-visa-centre.md)
 
+## February 2022 Customer Data Deletion Assurances and Misleading Entry Requirements
+
+On February 23, 2022, the ThaiVisaCentre Forum Sponsor account published an announcement promoting its Test & Go hotel-booking services through ASEAN NOW.[^13]
+
+The announcement advertised more than 400 accommodation packages and identified three initial hotel partners:
+
+- The Elegant Bangkok.
+- Lohas Residences Sukhumvit.
+- The Legacy Hotel.
+
+The agency promoted secure payment processing, immediate booking confirmations, faster Thailand Pass approvals, and a specific customer-data deletion commitment.
+
+### Fourteen-Day Customer Data Deletion Promise
+
+Thai Visa Centre expressly stated:
+
+> all of your info is protected, and will be removed 14 days after checkout
+
+This assurance appeared alongside allegations that other hotels used insecure payment methods and had experienced security breaches potentially exposing credit-card information.[^13]
+
+The company presented its own booking infrastructure as a safer alternative.
+
+However, on May 4, 2022, a traveler subsequently reported receiving Thai Visa Centre immigration-service marketing explicitly referencing an earlier AQ.in.th booking.[^7]
+
+Although the available evidence does not establish whether that particular booking qualified for the advertised deletion commitment, the account raises questions about the scope of the agency's data-retention assurances.
+
+The announcement did not distinguish between booking documentation, payment records, contact information, and information retained for subsequent commercial marketing.
+
+### Incorrect Medical Insurance Requirements
+
+The same February 23 announcement claimed that Thailand's mandatory medical insurance coverage would be reduced from US$50,000 to 20,000 Thai baht.[^13]
+
+However, the Ministry of Foreign Affairs confirmed that the revised minimum coverage was US$20,000 per person, effective March 1, 2022.[^14]
+
+The agency also suggested that the updated Thailand Pass system might not become available until March 6 and recommended delaying arrival until after March 10.
+
+The government subsequently confirmed that the revised entry requirements became effective on March 1.
+
+### Historical Commercial Significance
+
+The announcement documents an early example of Thai Visa Centre combining immigration guidance, security assurances, accelerated processing claims, and commercial travel referrals.
+
+**Its specific fourteen-day deletion promise provides a historical benchmark against which subsequent customer-data retention and immigration marketing practices should be examined.**
+
+The available records do not establish whether the operator fulfilled its deletion commitments or whether the reported May 2022 marketing recipient was covered by that particular promise.
+
 ## References
 
 - `https://tvc.co.th/scam`
@@ -371,3 +417,7 @@ Nevertheless, the publication documents commercially favorable representations a
 [^10]: `https://thethaiger.com/guides/press-room/thailand-covid-insurance-for-thailand-pass` — Sponsored article, May 25, 2022.
 [^11]: https://mfa.go.th/en/content/thailand-pass-faqs — Ministry of Foreign Affairs, October 31, 2021, documentation FAQ.
 [^12]: https://astana.thaiembassy.org/en/page/choose-a-right-plan-to-enter-thailand — Official entry requirements effective May 1, 2022.
+
+[^13]: `https://aseannow.com/topic/1251303-1-day-test-go/` — ThaiVisaCentre, February 23, 2022, commercial announcement concerning Test & Go packages, information security, data deletion, and revised entry requirements.
+
+[^14]: https://mfa.go.th/en/content/weeklypressbriefing03032565 — Ministry of Foreign Affairs, March 3, 2022, official confirmation of revised Test & Go requirements effective March 1.
