@@ -10013,6 +10013,50 @@ It does establish that **the agency's own Privacy Policy misrepresents a fundame
 
 Thai Visa Centre should identify the legal entity acting as controller for its ordinary customer services, explain circumstances involving genuine third-party processors, and stop presenting routine customers as controllers merely because they submit their information.
 
+### Litigation Referrals and Unresolved Legal Confidentiality Protections
+
+Thai Visa Centre advertises litigation support services covering criminal defence, employment disputes, family proceedings, commercial litigation, and other legal matters.[^652][^653]
+
+The agency expressly acknowledges that it is not a litigation law firm.
+
+Nevertheless, its advertised service workflow involves:
+
+- Collecting details of prospective clients' legal disputes.
+- Preparing supporting evidence and documentation.
+- Coordinating police-related documentation.
+- Transferring case information to partner attorneys.
+- Maintaining communications between customers and legal counsel.
+
+The agency also claims to verify attorney registration before making referrals but does not identify the participating law firms in the reviewed service descriptions.
+
+#### Professional Confidentiality Versus Commercial Privacy
+
+Thailand's legal professional confidentiality framework establishes specific obligations and protections for licensed lawyers.
+
+As explained by international law firm Baker McKenzie, the applicability of professional privilege to individuals outside the legal profession depends on their status, responsibilities, and the relevant statutory provisions.[^654]
+
+**Information disclosed to an immigration agency before establishing a relationship with licensed legal counsel cannot automatically be assumed to receive the same professional protections as confidential attorney-client communications.**
+
+#### General Commercial Policies Applied to Litigation Customers
+
+Thai Visa Centre's general Privacy Policy permits collected personal information to be used for product development, customer feedback, service updates, and testimonials.[^520]
+
+The policy does not specifically address criminal allegations, litigation evidence, confidential legal correspondence, or the handling of privileged communications.
+
+Its separate Disclaimer also claims broad rights over submitted material, as documented elsewhere in this investigation.[^518]
+
+Neither of the reviewed litigation service descriptions explains whether legal case information is governed by separate confidentiality agreements or excluded from ordinary commercial data-processing activities.
+
+#### Unidentified Legal Partners and Commercial Responsibilities
+
+Thai Visa Centre should identify the law firms participating in its referral network, clarify whether referral compensation is involved, and explain when responsibility for confidential case information passes from the immigration agency to licensed counsel.
+
+The distinction is particularly important for customers facing criminal investigations, immigration enforcement, or sensitive personal disputes.
+
+The available documents do not establish that confidential legal information has been improperly disclosed.
+
+They establish that the agency advertises the collection and transfer of sensitive litigation information without adequately explaining the specific confidentiality arrangements governing that service.
+
 ### Conflicting Customer Protections Across TVC's Published Policies
 
 The discrepancies are easier to see when the agency's documents are compared directly:
@@ -11216,3 +11260,9 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^650]: https://phnompenh.thaiembassy.org/en/publicservice/additional-documents-required-for-citizens-from-certain-countries
 
 [^651]: `https://tvc.co.th/faq/how-long-to-obtain-a-thai-visa`
+
+[^652]: `https://tvc.co.th/guides/litigation-team-about-us` — Thai Visa Centre, Legal Referral and Dispute Support.
+
+[^653]: `https://tvc.co.th/guides/litigation-thailand-legal-services` — Thai Visa Centre, Thailand Legal Services, reviewed June 2026.
+
+[^654]: https://resourcehub.bakermckenzie.com/en/resources/global-attorney-client-privilege-guide/asia-pacific/thailand/topics/03---scope-of-privilege — Baker McKenzie, Global Privilege and Professional Secrecy Guide, Thailand.
