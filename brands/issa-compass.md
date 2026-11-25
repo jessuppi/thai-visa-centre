@@ -225,6 +225,24 @@ Paid creator marketing is not inherently unlawful. However, concealing compensat
 
 The available evidence establishes the existence of the commercial program, but does not yet establish that individual participants have published undisclosed advertisements or fabricated testimonials.
 
+### Independent Review Assurances and Paid Commercial Endorsements
+
+Issa Compass's dedicated customer reviews page expressly states:
+
+> We never pay for reviews, offer anything in return, or tell anyone what to write.[^12]
+
+However, its separate creator recruitment program openly offers payments of up to $2,000 per video, supplies prepared scripts, and encourages participants to publish promotional content in a casual, personal style through independently operated social media accounts.[^7]
+
+The company's review assurances do not explain how it distinguishes compensated social media recommendations from independent customer endorsements.
+
+Its security guide also advertises more than 865 verified Google reviews as evidence of its legitimacy.[^3] However, it does not explain what verification procedure supports this designation.
+
+Google prohibits compensated reviews and requires contributions to reflect genuine customer experiences.[^13] Trustpilot similarly prohibits incentivized reviews and reviews from individuals whose commercial relationships with a business could introduce bias.[^14]
+
+Issa Compass should explain how it separates its paid creators from its independent review-collection activities and ensures that compensated endorsements are prominently identified as advertising.
+
+**Independent customer feedback and company-scripted commercial endorsements represent fundamentally different forms of evidence.**
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -239,6 +257,12 @@ The available evidence establishes the existence of the commercial program, but 
 [^9]: https://asas.org.sg/About/Social-Media — Advertising Standards Authority of Singapore, Guidelines for Interactive Marketing Communication and Social Media, effective August 29, 2016, particularly Sections 3.1 and 3.5.
 [^10]: https://www.ccs.gov.sg/media-and-events/newsroom/announcements-and-media-releases/ccs-takes-action-against-45-businesses-and-a-fake-review-provider-for-fabricating-online-reviews/ — Competition and Consumer Commission of Singapore, September 30, 2026 enforcement announcement concerning fabricated online reviews.
 [^11]: https://moscow.thaiembassy.org/en/publicservice/thai-e-visa-application-procedures-recommendations — Royal Thai Embassy in Moscow, *Thai e-Visa Application Procedures, Recommendations and Precautions*, November 19, 2026.
+
+[^12]: `https://www.issacompass.com/reviews` — Public assurances concerning customer review collection, accessed November 25, 2026.
+
+[^13]: https://support.google.com/business/answer/3474122 — Google's official customer review requirements.
+
+[^14]: https://corporate.trustpilot.com/legal/for-businesses/guidelines-for-businesses/sep-2026 — Trustpilot Guidelines for Businesses, September 2026.
 
 ## Additional Sources
 
