@@ -140,6 +140,36 @@ The available evidence does not establish unauthorized telecommunications operat
 
 It does, however, establish inconsistent corporate identification and unresolved questions concerning contractual, data-protection, and regulatory responsibilities within another commercial platform associated with AGENTS CO., LTD.
 
+## White-Label Distribution and End-Customer Privacy
+
+AGENTS promotes its wholesale eSIM platform to online travel agencies, hotels, and other hospitality businesses as an integrated commercial service.
+
+Its hotel-specific promotional page claims that more than 500 hotels across Thailand already use the platform.[^7]
+
+Its separate travel-agency page promotes white-label distribution, allowing commercial partners to supply eSIM products under their own branding.[^8]
+
+### Inconsistent Customer Data Documentation
+
+The promotional website describes direct email delivery of eSIM activation information to travelers and illustrates API requests containing a customerEmail parameter.[^1][^8]
+
+However, the detailed public API documentation does not list this parameter among the supported order-creation fields.[^5]
+
+The Privacy Policy primarily describes business-account information, identity-verification documents, transaction records, and technical activity.[^4]
+
+It does not separately explain how travelers' email addresses obtained through wholesale partners are processed or retained.
+
+### Undisclosed Commercial Intermediaries
+
+White-label distribution may result in travelers purchasing telecommunications products from hotels or travel agencies without recognizing AGENTS as the underlying commercial intermediary.
+
+The published documentation does not clearly distinguish the data-protection responsibilities of wholesale partners, AGENTS, and the telecommunications providers supplying connectivity.
+
+The company should clarify which end-customer information it receives, whether direct email delivery is currently supported, and which businesses are responsible for providing appropriate privacy disclosures.
+
+The available evidence does not establish unauthorized information sharing or improper processing of travelers' email addresses.
+
+The claimed scale of the company's hotel partnerships also remains independently unverified.
+
 ## References
 
 [^1]: `https://esim.agents.co.th/` — Wholesale platform, commercial services, verification claims, and corporate disclosures.
@@ -148,3 +178,7 @@ It does, however, establish inconsistent corporate identification and unresolved
 [^4]: `https://esim.agents.co.th/privacy` — Privacy Policy, last updated March 2025.
 [^5]: `https://esim.agents.co.th/api-docs` — Public wholesale eSIM API documentation.
 [^6]: https://www.tilleke.com/insights/thailand-tightens-telecom-registration-data-and-ip-address-rules-to-combat-tech-crime/ — Tilleke & Gibbins, May 19, 2026.
+
+[^7]: `https://esim.agents.co.th/for-hotels` — Hotel-specific promotional page claiming more than 500 participating hotels.
+
+[^8]: `https://esim.agents.co.th/for-otas` — Travel-agency promotional page describing white-label distribution and customer email processing.
