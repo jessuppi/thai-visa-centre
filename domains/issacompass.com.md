@@ -544,6 +544,38 @@ The available evidence does not establish that Issa Compass's automated reminder
 
 Nevertheless, its dedicated professional guidance contradicts both official government instructions and information published elsewhere on its own website.
 
+## Incorrect TM30 Accommodation Reporting Deadline
+
+Issa Compass's guide to residential rental contracts and housing rights expressly denies the existence of a 24-hour deadline for TM30 accommodation reporting.[^24]
+
+The article states:
+
+> there is no specific 24-hour deadline.
+
+However, Section 38 of Thailand's Immigration Act B.E. 2522 (1979) requires the responsible accommodation provider to notify immigration authorities within 24 hours of a foreign national taking up residence, where the reporting obligation applies.[^25]
+
+Thailand's official government information portal explicitly confirms this statutory deadline.
+
+### Contradictory Guidance Across Multiple Publications
+
+Issa Compass's immigration forms glossary, marked as checked on November 13, 2026, correctly identifies the 24-hour reporting requirement.[^26]
+
+However, its document preparation guide, updated October 17, 2026, describes TM30 submission as occurring on or after the entry date without specifying the statutory deadline.[^27]
+
+Its newly published November 2026 business visa extension guide repeats this incomplete instruction.[^28]
+
+The company therefore maintains several incompatible or incomplete explanations of the same immigration obligation.
+
+### Commercial Significance
+
+The housing guide encourages foreign tenants to explain TM30 requirements to prospective landlords, despite incorrectly describing the applicable reporting deadline.
+
+This could result in accommodation providers relying on inaccurate professional guidance when fulfilling their statutory obligations.
+
+The available evidence does not establish that any landlord incurred a penalty because of Issa Compass's advice.
+
+Nevertheless, the company's categorical denial of the 24-hour deadline directly contradicts published government guidance and its own immigration glossary.
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -582,3 +614,13 @@ Nevertheless, its dedicated professional guidance contradicts both official gove
 [^22]: `https://www.issacompass.com/insights/what-each-thai-visa-lets-you-do`
 
 [^23]: https://ltr.boi.go.th/page/faq.html
+
+[^24]: `https://www.issacompass.com/insights/thailand-long-term-rental-contracts-lease-agreements-and-housing-rights-for-expa`
+
+[^25]: https://thailand.go.th/issue-focus-detail/001_01_060?hl=en — Official government guidance concerning Section 38 of the Immigration Act.
+
+[^26]: `https://www.issacompass.com/insights/thai-immigration-forms-and-terms-glossary`
+
+[^27]: `https://www.issacompass.com/insights/building-a-thai-visa-document-folder-system-what-to-keep-scan-and-carry-to-every`
+
+[^28]: `https://www.issacompass.com/insights/non-b-thai-visa-diy-turning-your-90-day-entry-into-a-one-year-extension`
