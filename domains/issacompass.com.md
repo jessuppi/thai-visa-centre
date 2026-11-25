@@ -504,6 +504,46 @@ The available evidence does not establish deliberate misrepresentation or financ
 
 **Nevertheless, the company's published professional guidance contains specific errors that can be verified against readily accessible government documentation.**
 
+## Contradictory 90-Day Reporting and Re-Entry Permit Guidance
+
+Issa Compass's dedicated 90-day reporting guide, originally published April 8, 2026, and updated November 14, 2026, contains several misleading statements concerning Thailand's immigration reporting requirements.[^18]
+
+### Incorrect Reporting Deadline After International Travel
+
+The article initially states that the reporting obligation applies regardless of whether foreigners have departed and re-entered Thailand during the relevant period.
+
+It subsequently acknowledges that international travel resets the reporting deadline, but introduces an unsupported exception suggesting that travelers holding re-entry permits may retain their previous reporting deadlines.
+
+The Royal Thai Embassy in Moscow explicitly confirms that the reporting period restarts upon arrival following international travel.[^19]
+
+Issa Compass's separate November 4, 2026 visa-run guide correctly explains this requirement without introducing an exception for re-entry permit holders.[^20]
+
+### Incorrect Generalization About Re-Entry Permits
+
+The dedicated reporting guide also presents re-entry permits as mandatory for long-stay visa holders traveling temporarily outside Thailand.
+
+However, visas with valid multiple-entry privileges, including the Destination Thailand Visa, generally permit additional entries without purchasing separate re-entry permits.[^21]
+
+Issa Compass's own visa comparison guide correctly acknowledges this distinction.[^22]
+
+### Incorrect Reporting Requirements for LTR Visa Holders
+
+The reporting guide identifies quarterly address reporting as a key legal requirement for Long-Term Resident visa holders.
+
+However, Thailand's Board of Investment expressly confirms that LTR visa holders submit an annual TM95 report instead of quarterly TM47 reports.[^23]
+
+The company's separate visa comparison guide correctly identifies the annual reporting requirement.
+
+### Commercial Significance
+
+These contradictions appear in an article promoting Issa Compass's immigration compliance tools, deadline tracking, and professional assistance.
+
+Incorrect reporting deadlines could generate unnecessary appointments or purchases of reporting assistance, while inaccurate re-entry permit guidance could result in avoidable government charges.
+
+The available evidence does not establish that Issa Compass's automated reminder system reproduces these errors or that individual customers incurred unnecessary expenses.
+
+Nevertheless, its dedicated professional guidance contradicts both official government instructions and information published elsewhere on its own website.
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -530,3 +570,15 @@ The available evidence does not establish deliberate misrepresentation or financ
 [^16]: https://ltr.boi.go.th/page/faq.html — Thailand Board of Investment, official LTR work-permit eligibility guidance.
 
 [^17]: https://thailand.go.th/visit-thailand-detail/007_016 — Thai government guidance concerning penalties for unauthorized foreign employment, January 15, 2023.
+
+[^18]: `https://www.issacompass.com/insights/understanding-the-90-day-reporting-rule-in-thailand`
+
+[^19]: https://moscow.thaiembassy.org/en/publicservice/89981-notification-of-staying-in-the-kingdom-over-90-days-(online)
+
+[^20]: `https://www.issacompass.com/insights/do-visa-runs-still-work-in-thailand-2026`
+
+[^21]: https://london.thaiembassy.org/en/page/after-e-visa-approval
+
+[^22]: `https://www.issacompass.com/insights/what-each-thai-visa-lets-you-do`
+
+[^23]: https://ltr.boi.go.th/page/faq.html
