@@ -71,6 +71,46 @@ The available corporate records establish shared commercial interests and the vo
 
 The precise current ownership of every intermediate subsidiary and any subsequent changes to the holding company's shareholding remain unverified.
 
+## Customer Communication Recording, AI Processing, and Group-Wide Data Access
+
+LIFULL Connect's published Privacy Policy contains a supplementary consent notice specifically governing FazWaz's recording and automated analysis of customer communications.[^9]
+
+The notice identifies the submission of a contact form as an act of consent to recording and processing telephone calls and WhatsApp conversations between customers and agents.
+
+The stated purposes include employee performance evaluation, operational reporting, AI-assisted information extraction, and staff development.
+
+### Access by Associated Companies
+
+The policy permits communication data to be accessed by FazWaz personnel, other LIFULL Connect group entities, and authorized external technology providers.
+
+It also acknowledges potential international data transfers, which it claims are conducted with safeguards under Thailand's Personal Data Protection Act (PDPA).
+
+The supplementary notice does not specify which group companies receive access, identify the AI processing providers, or explain whether information extracted from conversations is retained separately from the original recordings.
+
+### Unspecified Retention Period
+
+Although the notice contains a dedicated retention section, it does not specify a maximum storage duration or estimated retention period for recorded conversations.
+
+Instead, it refers to retention for legal purposes or until consent is withdrawn, whichever occurs first.
+
+Section 23(3) of Thailand's PDPA requires disclosure of the applicable retention period or an estimated period where a precise duration cannot be established.[^10]
+
+### Consent Bundled With Property Enquiries
+
+The published notice treats making a property enquiry as consent to communication recording and AI processing.
+
+Section 19 of Thailand's PDPA requires freely given consent and restricts conditioning services on consent to unnecessary or unrelated personal-data processing.[^10]
+
+Whether prospective customers can submit enquiries while declining recording and AI analysis remains unverified.
+
+### Relevance to the Wider Corporate Network
+
+These disclosures are significant given FazWaz's documented corporate and commercial relationships with The Thaiger and ASEAN NOW.
+
+The policy establishes a framework permitting communication data to be shared within the LIFULL Connect group for specified purposes. It does not establish that customer conversations have actually been supplied to either publisher or to Thai Visa Centre.
+
+The company should clarify which affiliated businesses can access recorded communications, the retention periods applicable to recordings and AI-generated derivatives, and whether customers can decline automated analysis without losing access to ordinary property services.
+
 ## References
 
 [^1]: https://www.dataforthai.com/company/0105561044787/
@@ -81,3 +121,7 @@ The precise current ownership of every intermediate subsidiary and any subsequen
 [^6]: https://lifull.com/doc/2025/01/kaigai_keikaEN.pdf — LIFULL Co., Ltd., January 17, 2025, notice concerning the transfer of a specified subsidiary, particularly pages 1–2.
 [^7]: https://lifull.com/doc/2025/01/kaigaikanryo_20250122EN.pdf — LIFULL Co., Ltd., January 22, 2025, confirmation of completed share transfer.
 [^8]: https://www.dfdl.com/insights/news/dfdl-advises-fazwaz-on-strategic-acquisition-of-lifull-connect-in-vietnam — DFDL, February 11, 2025, confirmation of the transaction structure.
+
+[^9]: `https://www.lifullconnect.com/global-privacy-policy-region2/` — LIFULL Connect Privacy Policy, Communication Recording & AI Processing Consent, accessed November 25, 2026.
+
+[^10]: https://mdes.go.th/law/detail/1905-Personal-Data-Protection-Act--B-E--2562--2019- — Thailand's Personal Data Protection Act B.E. 2562 (2019), Sections 19 and 23.
