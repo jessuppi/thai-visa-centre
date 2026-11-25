@@ -216,6 +216,24 @@ AGENTS CO., LTD. may offer genuine administrative conveniences by handling large
 
 The published comparison risks exaggerating a limitation of the official government system while promoting the commercial platform as a necessary alternative for larger groups.
 
+### Ambiguous Registration Windows and Commercial Early-Submission Pricing
+
+AGENTS CO., LTD.'s commercial comparison table describes official government TDAC submissions more than 72 hours before arrival as unavailable, while advertising its own early-submission service for US$8 (270 baht).[^15]
+
+Thailand's Immigration Bureau contributes to this ambiguity by using both three-day and 72-hour terminology in its official FAQ.[^16]
+
+However, the Royal Thai Embassy in Tehran provides a calendar-based example, explaining that travelers arriving on May 1, 2025, could complete their TDAC on April 28.[^39]
+
+The distinction is potentially significant because calendar-day eligibility does not necessarily correspond to an exact 72-hour countdown.
+
+AGENTS' commercial comparison does not acknowledge this ambiguity or explain whether its pricing threshold follows calendar dates or elapsed hours.
+
+**Because early submission is the company's principal advertised paid TDAC service, the precise point at which free government registration becomes available has direct commercial significance.**
+
+The available evidence does not establish that AGENTS charges travelers who are already eligible for free government registration. Nor does it establish that the company deliberately misrepresents government requirements.
+
+Nevertheless, greater clarity about the registration window and the corresponding commercial pricing threshold would allow travelers to make more informed purchasing decisions.
+
 ## Claims and Inaccuracies on the TDAC Scam-Warning Page
 
 ### Competitor Blacklist and Unsupported Fraud Classifications
@@ -357,3 +375,4 @@ The combination of inconsistent pricing information and aggressive accusations a
 [^36]: Email correspondence between Jesse Nickles and Wassamon Treekul, April 17–18, 2025 (private correspondence; case VRK-ZLCQS-392).
 [^37]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^38]: Email from Jesse Nickles to `abuse@thnic.co.th`, November 12, 2026, subject *Formal Supplemental Abuse Complaint – tdac.in.th – Section 17 and Unresolved April 2025 Report* (private correspondence; original case VRK-ZLCQS-392). Archived website: `https://web.archive.org/web/20250417185034/https://tdac.in.th/`.
+[^39]: https://tehran.thaiembassy.org/en/content/guidelines-for-the-thailand-digital-arrival-card-t — Royal Thai Embassy, April 21, 2025, official TDAC guidance and calendar-date example.
