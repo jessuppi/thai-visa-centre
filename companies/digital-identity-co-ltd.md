@@ -73,6 +73,69 @@ Nevertheless, the discrepancies warrant clarification given the sensitivity of t
 
 **The Immigration Bureau and its contracted technology providers should ensure that public app-store disclosures accurately communicate the categories of personal and biometric information collected through THIM.**
 
+## Commercial Partnerships and Monetization of Immigration Services
+
+Thailand's official THIM application has expanded beyond immigration administration into commercial promotions, financial services, telecommunications, transportation, retail, hospitality, and healthcare.
+
+On November 2, 2026, WorldTechPro Co., Ltd. announced that it was coordinating a network of more than 40 commercial partners providing services and promotional benefits through THIM.[^10]
+
+Named participants include:
+
+- True Corporation.
+- Grab Thailand.
+- The Mall Group.
+- WiPay.
+- Minor International and Minor Food Group.
+- Bangkok Dusit Medical Services (BDMS).
+
+The announcement identifies WorldTechPro as responsible for recruiting and coordinating commercial partners for the immigration application.
+
+### Financial Products Promoted Through THIM
+
+On September 28, 2026, WiPay announced a promotional campaign specifically targeting foreign THIM users.[^11]
+
+Travelers receiving promotional codes through the immigration application could purchase Wi Wallet prepaid Visa cards for 1,000 baht, with temporary transaction-fee exemptions and conditional cashback benefits.
+
+On November 11, 2026, The Mall Group separately announced a commercial strategy connecting THIM, Wi Wallet, and WORPT to increase spending by international visitors.[^12]
+
+THIM users can obtain shopping vouchers and promotional benefits before arriving in Thailand.
+
+**The official immigration application therefore also functions as a distribution channel for selected commercial businesses.**
+
+### Shared Biometric Technology Provider
+
+The relationship becomes particularly relevant when examining WORPT, a commercial cryptocurrency-conversion platform operated by Wipay Co., Ltd. and Waan Exchange Co., Ltd.
+
+WORPT's Privacy Notice explicitly identifies KYC Now Co., Ltd. as a processor responsible for passport authentication, electronic passport-chip processing, facial matching, and liveness detection.[^13]
+
+The same company is identified as a biometric and document-verification processor in THIM's official Privacy Notice.[^5]
+
+KYC Now was also Digital Identity's original majority shareholder and acquired East Coast Furnitech's remaining 25% interest in May 2025.[^2][^3]
+
+These disclosures establish an overlapping technology provider serving both government immigration infrastructure and commercial financial services targeting international travelers.
+
+They do not establish that immigration records are transferred between the two platforms or that their biometric databases are interconnected.
+
+### Commercial Transparency and Purpose Limitation
+
+Section IX of THIM's official Privacy Notice identifies immigration administration, identity verification, security screening, government recordkeeping, and service improvement among its processing purposes.[^5]
+
+It does not expressly identify commercial advertising, financial-product marketing, or retail customer acquisition as separate processing purposes.
+
+Displaying general promotional offers does not necessarily require disclosing immigration records to participating businesses.
+
+Nevertheless, the expansion of commercial partnerships raises important accountability questions:
+
+- How are commercial partners selected?
+- Do participating businesses pay referral fees or commissions?
+- Which organizations receive revenue from commercial activities within THIM?
+- Are promotional offers personalized using immigration information?
+- How are government and commercial biometric-processing environments kept separate?
+
+The available evidence does not establish unlawful data sharing, improper procurement, or undisclosed financial compensation.
+
+**However, the integration of commercial promotions into an official immigration application warrants greater transparency concerning financial arrangements, partner selection, and the separation of government records from commercial customer data.**
+
 ## References
 
 [^1]: https://www.dataforthai.com/company/0135567034490/
@@ -84,3 +147,7 @@ Nevertheless, the discrepancies warrant clarification given the sensitivity of t
 [^7]: https://apps.apple.com/id/app/thim-thai-immigration-bureau/id6759272559 — Official THIM Apple App Store listing, reviewed November 25, 2026.
 [^8]: https://developer.apple.com/app-store/app-privacy-details/ — Apple's developer requirements concerning app privacy disclosures.
 [^9]: https://support.google.com/googleplay/android-developer/answer/10787469 — Google Play Data Safety disclosure requirements and exceptions.
+[^10]: https://www.ryt9.com/s/prg/12853696 — WorldTechPro commercial partnership announcement, November 2, 2026.
+[^11]: https://www.ryt9.com/en/prg/12846790 — WiPay announcement concerning its THIM promotional partnership, September 28, 2026.
+[^12]: https://techsauce.co/pr-news/the-mall-group-tourist-spending-thim-wi-wallet-worpt — The Mall Group commercial partnership announcement, November 11, 2026.
+[^13]: `https://www.worpt.com/privacy` — WORPT Privacy Notice, particularly Section 6 concerning KYC Now's biometric-processing responsibilities.
