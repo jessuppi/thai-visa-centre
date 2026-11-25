@@ -34,6 +34,46 @@ These arrangements raise questions about **commercial influence over immigration
 
 The published policies establish that visa referrals form part of the publisher's commercial activities, although they do not identify the recipients of individual customer inquiries.
 
+## Shared Shareholders With FazWaz Prior to the 2026 Acquisition
+
+The commercial relationship between The Thaiger and FazWaz predates The Thaiger's disclosed acquisition by Dot Property Pte. Ltd. in 2026.
+
+On January 22, 2025, The Thaiger published a press release announcing the transfer of control of LIFULL Connect to the founders of FazWaz.
+
+The publication explicitly acknowledged:
+
+> FazWaz and Thaiger share core shareholders
+
+This disclosure establishes that the publisher publicly acknowledged overlapping shareholders with FazWaz more than a year before announcing its acquisition by Dot Property.[^8]
+
+### Ultimate Corporate Control
+
+Official investor disclosures published by Japan's LIFULL Co., Ltd. establish that the transfer of LIFULL Connect was completed on January 21, 2025.[^9][^10]
+
+The FazWaz founders acquired 100% of the voting rights in CONNECT NEXT PTE. LTD., which became the parent company of LIFULL Connect. The Japanese company retained a 55% economic interest through non-voting preferred shares.
+
+Consequently, The Thaiger's subsequent acquisition by a company within the LIFULL Connect group occurred after voting control of that group had passed to the FazWaz founders.
+
+The detailed transaction structure is documented in the [FazWaz corporate investigation](fazwaz-co-ltd.md).
+
+### Continued Commercial Promotion
+
+On June 10, 2025, The Thaiger published another press release promoting the establishment of SEA Connect Ventures, a wholly owned LIFULL Connect subsidiary consolidating several Southeast Asian property businesses, including FazWaz and Dot Property.[^11]
+
+These publications demonstrate that The Thaiger was actively promoting developments within the associated property-business network during 2025.
+
+Its January publication disclosed the overlapping shareholders, and both articles were identified as press releases.
+
+### Relevance to Immigration Coverage
+
+The acknowledged shareholder relationship predates The Thaiger's June–November 2025 promotional publications concerning AGENTS CO., LTD. and its commercial immigration services.
+
+The relationship provides additional corporate context for examining The Thaiger's advertising operations, its ownership of ASEAN NOW, and its historical commercial partnerships.
+
+However, the available evidence does not establish that FazWaz shareholders held financial interests in Thai Visa Centre or AGENTS CO., LTD., or that they directed particular immigration-related publications or moderation decisions.
+
+The precise identities and ownership percentages of the shared shareholders before the 2026 acquisition remain undisclosed in the reviewed publications.
+
 ## References
 
 [^1]: https://www.sgpbusiness.com/company/The-Thaiger-Pte-Ltd
@@ -43,3 +83,7 @@ The published policies establish that visa referrals form part of the publisher'
 [^5]: `https://thethaiger.com/privacy`
 [^6]: `https://thethaiger.com/about-us-2`
 [^7]: `https://www.lifullconnect.com/brands/dotproperty/`
+[^8]: `https://thethaiger.com/property/fazwaz-assumes-control-of-lifull-connect-for-thai-global-real-estate-leadership-and-innovation` — January 22, 2025, press release acknowledging shared shareholders.
+[^9]: https://lifull.com/doc/2025/01/kaigai_keikaEN.pdf — LIFULL investor disclosure, January 17, 2025.
+[^10]: https://lifull.com/doc/2025/01/kaigaikanryo_20250122EN.pdf — Confirmation of completed share transfer, January 22, 2025.
+[^11]: `https://thethaiger.com/thai-life/property/lifull-connect-launches-sea-connect-ventures-to-lead-southeast-asias-proptech-market` — June 10, 2025, press release.
