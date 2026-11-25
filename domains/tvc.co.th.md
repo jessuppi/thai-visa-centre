@@ -10046,35 +10046,48 @@ This wording can make readers believe they cannot use available court or governm
 
 The evidence establishes what TVC’s publications tell readers. It does not establish that a particular customer paid unnecessary fees because of those claims. But the repetition across unrelated legal topics is not an isolated wording error: **TVC repeatedly turns optional professional assistance into an apparent legal mandate.**
 
-## Contradictory Malaysian E-Visa Eligibility and Consular Instructions
+## Misleading Thai Embassy and Consular Visa Guidance
 
-Thai Visa Centre publishes specialized guides for applicants seeking Thai visas through diplomatic missions in Malaysia, containing contradictory consular instructions and incorrect residency requirements.
+Thai Visa Centre publishes an extensive collection of country-specific guides concerning Thai visa applications at overseas diplomatic missions. These guides repeatedly misrepresent official application procedures, consular jurisdiction, eligibility requirements, payment methods, and processing times.
 
-### Conflicting Penang Application Instructions
+### Malaysia: Contradictory Consular Instructions and Residency Requirements
 
-The company's Penang guide repeatedly identifies the Royal Thai Embassy in Kuala Lumpur as the assigned diplomatic mission for applicants in Penang, Perak, Kedah, and Perlis.
+Thai Visa Centre's Penang guide identifies the Royal Thai Embassy in Kuala Lumpur as the assigned diplomatic mission for applicants in Penang, Perak, Kedah, and Perlis.
 
 However, its application checklist instructs applicants to select the Royal Thai Consulate in Penang instead.[^640]
 
-The same guide identifies selecting the wrong diplomatic mission as a common applicant mistake and claims that its official sources were verified in June 2026.
+Both the Penang and Kuala Lumpur guides incorrectly present legal residency as a general application requirement.[^640][^641]
 
-### Incorrect Legal Residency Requirements
+The respective diplomatic missions expressly accept Malaysian immigration arrival records as evidence of an applicant's current location, without universally requiring Malaysian residency status.[^642][^643]
 
-Thai Visa Centre's Penang and Kuala Lumpur guides both incorrectly present legal residency as a general requirement for visa applicants.[^640][^641]
+The company's Kuala Lumpur guide also advertises typical processing times of three to ten business days, whereas the embassy specifies seven to fourteen working days for ordinary tourist and non-immigrant visas, and approximately one month or longer for DTV applications.[^643]
 
-The Royal Thai Consulate-General in Penang explicitly accepts Malaysian immigration arrival stamps and alternative arrival documentation as evidence of current location for foreign visitors.[^642]
+### Laos: Incorrect Payment Procedures and Processing Times
 
-The Royal Thai Embassy in Kuala Lumpur's FAQ, updated October 29, 2026, likewise confirms that foreign nationals currently in Malaysia are eligible to apply for electronic visas. Its accepted documentation includes ordinary tourist arrival records.[^643]
+Thai Visa Centre's Vientiane and Savannakhet guides repeatedly instruct applicants to pay visa application fees online.[^644][^645]
 
-Thai Visa Centre's guidance confuses physical presence with legal residency status.
+However, neither diplomatic mission accepts online payments. Applicants must arrange payment in cash using Thai baht, either personally or through a representative.[^646][^647]
 
-### Commercial Significance
+| Diplomatic mission | Payment hours |
+|---|---|
+| Vientiane | 09:00–12:00 |
+| Savannakhet | 09:00–11:00 |
 
-Thai Visa Centre advertises professional document preparation and immigration expertise alongside these inaccurate guides.
+Both missions accept payments on weekdays, excluding official holidays.
 
-Incorrect diplomatic mission selection risks wasting non-refundable application fees, while overstated residency requirements can discourage eligible applicants from applying independently.
+The company's guides additionally advertise processing times of three to ten business days, whereas both diplomatic missions specify approximately five to ten working days beginning after payment.
 
-**The company identifies application mistakes as a reason to purchase professional assistance while publishing those same mistakes in its own immigration guides.**
+The Vientiane guide also incorrectly presents legal residency as a general eligibility requirement, confusing physical presence with category-specific residency conditions. Revised DTV requirements effective August 31, 2026, separately require applicants to be nationals or permanent residents of the country of application.[^646]
+
+### Commercial Significance of the Consular Guidance Errors
+
+Thai Visa Centre claims to have verified official sources in June 2026 while advertising professional assistance with applications at these diplomatic missions.
+
+Yet its published guides contain contradictory mission-selection instructions, incorrect payment procedures, overstated eligibility requirements, and understated processing times.
+
+These errors can result in unnecessary travel, delayed applications, wasted non-refundable government fees, and avoidable commercial assistance costs.
+
+**Thai Visa Centre presents itself as a specialist in preventing immigration application mistakes while repeatedly publishing those same mistakes in its own consular guides.**
 
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
@@ -11173,3 +11186,11 @@ Incorrect diplomatic mission selection risks wasting non-refundable application 
 [^642]: https://penang.thaiembassy.org/th/content/frequently-asked-questions-regarding-to-e-visa?cate=5d75da2115e39c242c005a96 — Updated May 2, 2025.
 
 [^643]: https://kualalumpur.thaiembassy.org/en/publicservice/frequently-ask-questions-faqs-for-e-visa — Updated October 29, 2026.
+
+[^644]: `https://tvc.co.th/embassies/thai-embassy-and-consulates-in-vientiane-laos`
+
+[^645]: `https://tvc.co.th/embassies/thai-embassy-and-consulates-in-suvannakhet-laos`
+
+[^646]: https://vientiane.thaiembassy.org/en/page/applying-for-a-visa
+
+[^647]: https://savannakhet.thaiembassy.org/th/page/104407-applying-for-visa%3Fmenu%3D5d84a44c15e39c26b400453c
