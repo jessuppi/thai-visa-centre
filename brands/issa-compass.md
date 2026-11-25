@@ -291,6 +291,57 @@ The published Privacy Policy does not specifically identify these referral partn
 
 The company's referral arrangements warrant greater transparency concerning compensation, regulatory responsibilities, partner selection, and customer-data processing.
 
+## Misleading Competitor Accreditation Warnings and Unspecified Professional Licensing
+
+In a consumer-protection guide published on May 28, 2026, and updated on October 17, 2026, Issa Compass immigration consultant Ana Liangsupree advises prospective customers to distrust private visa services claiming official government authorization or partnership.[^17]
+
+The article categorically dismisses such designations as illegitimate while promoting Issa Compass's own commercial immigration services.
+
+### Thailand's Government Certifies Private Immigration Agencies
+
+Contrary to the article's categorical warning, Thailand's Board of Investment operates a formal certification program for private agencies assisting foreigners with Long-Term Resident (LTR) visa applications.[^18][^19]
+
+Certified agencies undertake responsibilities including application preparation, representation of applicants, and coordination with government authorities.
+
+The government's published qualification criteria include financial stability, appropriate business activities, operational planning, and information-security measures.
+
+As of November 26, 2026, the BOI identifies eight certified agencies:
+
+- Dej-Udom & Associates Limited
+- True Digital Park Company Limited
+- Star Visa Service 14 Company Limited
+- Thai Relo Services
+- Siam Legal (Thailand) Co., Ltd.
+- Adecco Bangna Ltd.
+- Phuket Management and Consultant
+- Visa Vow Company Limited
+
+Neither Issa Compass nor its two disclosed operating companies appears on this register.
+
+Certification does not confer government decision-making authority or guarantee visa approval. However, it represents a genuine government-issued professional designation that contradicts Issa Compass's categorical consumer warning.
+
+### Contradictory Consumer Advice
+
+A separate Issa Compass guide provides a materially different explanation, acknowledging that private visa providers may legitimately claim official authorization when supported by a specific, independently verifiable designation.[^20]
+
+This distinction is absent from the first guide.
+
+The second article also acknowledges that Thailand does not impose a single universal licensing requirement on every visa-service provider.
+
+Nevertheless, the first article describes Issa Compass's own personnel as licensed immigration consultants without identifying the relevant licensing authority, individual licence numbers, or scope of those credentials.
+
+### Commercial Significance
+
+Issa Compass markets its immigration services through informational articles advising readers how to evaluate competing businesses.
+
+Its categorical warnings could cause prospective customers to distrust legitimate government-certified competitors while accepting Issa Compass's own unspecified professional licensing claims.
+
+**The company encourages consumers to independently verify competitors' credentials without providing equivalent supporting documentation for the licensing claims made in the reviewed article.**
+
+These publications also create contradictory information that may be reproduced by search engines and AI-generated recommendations concerning Thai immigration agencies.
+
+The company should distinguish legitimate government certification from government impersonation and identify the professional credentials underlying its own licensing claims.
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -315,6 +366,14 @@ The company's referral arrangements warrant greater transparency concerning comp
 [^15]: `https://www.issacompass.com/partners` — Published commercial partner directory, reviewed November 26, 2026.
 
 [^16]: `https://www.maxforesight.com/services` — Financial advisory services and corporate licensing disclosures.
+
+[^17]: `https://www.issacompass.com/insights/how-to-verify-a-thailand-visa-services-credentials-before-you-hand-over-your-pas` — Ana Liangsupree, published May 28, 2026, updated October 17, 2026.
+
+[^18]: https://ltr.boi.go.th/page/ca.html — Board of Investment, official certified agency register, reviewed November 26, 2026.
+
+[^19]: https://thailand.go.th/public/useful-information-detail/006_068?hl=en — Thai government, official LTR certified-agent qualification criteria.
+
+[^20]: `https://www.issacompass.com/insights/how-to-read-thailand-visa-service-reviews-without-being-misled-a-practical-check` — Consumer guidance acknowledging verifiable government designations and the absence of a universal visa-service licence.
 
 ## Additional Sources
 
