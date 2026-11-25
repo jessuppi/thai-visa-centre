@@ -42,6 +42,34 @@ Yet the websites identify different legal companies, including one classified as
 
 **The central issue is corporate accountability:** customers are presented with essentially identical claims of experience, success, and refund protection without a clear explanation of which registered company originally delivered those services, whether customer relationships were transferred, or which entity is responsible for honoring the advertised guarantees.
 
+## Outdated Immigration Guidance and Professional Success Claims
+
+Thai Visa Center's published frequently asked questions contain outdated immigration instructions alongside its advertised 100% success rate and money-back guarantee.[^9]
+
+### Incorrect Visa-Exemption Extension Guidance
+
+The website states that foreigners who entered Thailand without a visa and subsequently apply for an extension will receive instructions to depart within seven days after their existing permission to stay expires.
+
+However, the Royal Thai Embassy in Washington confirms that, under the tourist visa-exemption scheme effective September 15, 2026, eligible travelers may receive an extension of up to 30 additional days, subject to immigration approval.[^10]
+
+The commercial website fails to distinguish ordinary tourist extensions from circumstances in which an extension application is unsuccessful.
+
+### Reliance on Historical Immigration Regulations
+
+The same FAQ repeatedly references Immigration Bureau Order 777/2551, dating to 2008, and older government website addresses.
+
+The publication does not display a clear revision date or explain whether its instructions have been reassessed against subsequent immigration regulations.
+
+### Commercial Accountability
+
+These deficiencies are relevant to the company's claims of professional expertise and universal application success.
+
+The available evidence does not establish that Thai Visa Center currently processes customer applications using these outdated instructions.
+
+Nevertheless, its publicly accessible professional guidance contains information inconsistent with current government requirements.
+
+This finding concerns Thai Visa Center, operating through thaivisacenter.com, and should not be attributed to the separately documented Thai Visa Centre operation without further evidence.
+
 ## References
 
 [^1]: `https://www.thaivisacenter.com/`
@@ -52,6 +80,9 @@ Yet the websites identify different legal companies, including one classified as
 [^6]: https://www.dataforthai.com/company/0105559069387/
 [^7]: `https://www.thaivisacenter.com/15113612/our-pride`
 [^8]: `https://www.sawadeevisa.com/14928999/our-clients`
+
+[^9]: `https://www.thaivisacenter.com/15113589/ถาม-ตอบ` — Thai Visa Center frequently asked questions.
+[^10]: https://washingtondc.thaiembassy.org/en/page/visa-information — Royal Thai Embassy, official visa-exemption arrangements effective September 15, 2026.
 
 ## Additional Existing Sources
 
