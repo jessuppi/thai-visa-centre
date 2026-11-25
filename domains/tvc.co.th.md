@@ -10046,6 +10046,36 @@ This wording can make readers believe they cannot use available court or governm
 
 The evidence establishes what TVC’s publications tell readers. It does not establish that a particular customer paid unnecessary fees because of those claims. But the repetition across unrelated legal topics is not an isolated wording error: **TVC repeatedly turns optional professional assistance into an apparent legal mandate.**
 
+## Contradictory Malaysian E-Visa Eligibility and Consular Instructions
+
+Thai Visa Centre publishes specialized guides for applicants seeking Thai visas through diplomatic missions in Malaysia, containing contradictory consular instructions and incorrect residency requirements.
+
+### Conflicting Penang Application Instructions
+
+The company's Penang guide repeatedly identifies the Royal Thai Embassy in Kuala Lumpur as the assigned diplomatic mission for applicants in Penang, Perak, Kedah, and Perlis.
+
+However, its application checklist instructs applicants to select the Royal Thai Consulate in Penang instead.[^640]
+
+The same guide identifies selecting the wrong diplomatic mission as a common applicant mistake and claims that its official sources were verified in June 2026.
+
+### Incorrect Legal Residency Requirements
+
+Thai Visa Centre's Penang and Kuala Lumpur guides both incorrectly present legal residency as a general requirement for visa applicants.[^640][^641]
+
+The Royal Thai Consulate-General in Penang explicitly accepts Malaysian immigration arrival stamps and alternative arrival documentation as evidence of current location for foreign visitors.[^642]
+
+The Royal Thai Embassy in Kuala Lumpur's FAQ, updated October 29, 2026, likewise confirms that foreign nationals currently in Malaysia are eligible to apply for electronic visas. Its accepted documentation includes ordinary tourist arrival records.[^643]
+
+Thai Visa Centre's guidance confuses physical presence with legal residency status.
+
+### Commercial Significance
+
+Thai Visa Centre advertises professional document preparation and immigration expertise alongside these inaccurate guides.
+
+Incorrect diplomatic mission selection risks wasting non-refundable application fees, while overstated residency requirements can discourage eligible applicants from applying independently.
+
+**The company identifies application mistakes as a reason to purchase professional assistance while publishing those same mistakes in its own immigration guides.**
+
 [^1]: Correspondence between Jesse Nickles and Suthida Tepaloon, October 29 and November 5–12, 2026 (private correspondence; cases SKW-BDLDD-392 and QLL-SSKGH-073).
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: `https://tvc.co.th/scam`
@@ -11135,3 +11165,11 @@ The evidence establishes what TVC’s publications tell readers. It does not est
 
 [^638]: `https://tvc.co.th/law/tenants-rights-ocpb` — Thai Visa Centre, *Tenants' Rights, Residential Leases & Property Tax*, accessed November 24, 2026; correctly identifies the September 2025 notification but its plain-English summary continues to say residential landlords operating five or more units are covered, excepting a reference to digital platforms; its source list identifies the five-unit threshold as part of the superseded 2019 notification.
 [^639]: https://www.thailawonline.com/thai-civil-code/section-1266/ — Civil and Commercial Code, Section 1266, requiring an immediate bankruptcy application by liquidators where assets remain insufficient after all capital contributions or shares have been fully paid; accessed November 24, 2026.
+
+[^640]: `https://tvc.co.th/embassies/thai-embassy-and-consulates-in-penang-malaysia`
+
+[^641]: `https://tvc.co.th/embassies/thai-embassy-and-consulates-in-kuala-lumpur-malaysia`
+
+[^642]: https://penang.thaiembassy.org/th/content/frequently-asked-questions-regarding-to-e-visa?cate=5d75da2115e39c242c005a96 — Updated May 2, 2025.
+
+[^643]: https://kualalumpur.thaiembassy.org/en/publicservice/frequently-ask-questions-faqs-for-e-visa — Updated October 29, 2026.
