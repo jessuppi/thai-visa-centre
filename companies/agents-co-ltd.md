@@ -224,6 +224,55 @@ The available evidence does not establish unlicensed insurance brokerage, unauth
 
 Nevertheless, the documented partnerships demonstrate that AGENTS' immigration platforms also function as distribution channels for regulated commercial products.
 
+## International Travel Industry Promotion and Government Platform Confusion
+
+### June 2025: Promotion Through Travel Daily Media
+
+On June 17, 2025, international travel-industry publication Travel Daily Media published an article promoting AGENTS CO., LTD.'s commercial TDAC submission platform under the byline of Marga Manlapig.[^27]
+
+The article advertised discounted advance-submission fees ranging from US$0.50 to US$8 per traveler, depending on group size.
+
+It also identified AGENTS' privately operated websites as official TDAC resources and repeated substantially identical performance and regulatory compliance claims appearing in The Thaiger's June 13, 2025 press release.[^13]
+
+This provides further evidence of the distribution of AGENTS' promotional material beyond Thailand's expatriate media network.
+
+### 2025: Rainbow Tours Customer Instructions
+
+Polish tour operator **Rainbow Tours S.A.** published a detailed Polish-language TDAC submission guide on its corporate website, `r.pl`.[^28]
+
+The document instructs customers to visit Thailand's official government TDAC website, `tdac.immigration.go.th`.
+
+However, the accompanying screenshots illustrate AGENTS CO., LTD.'s privately operated submission platform, including:
+
+- Its Polish-language homepage, displaying a June 23, 2025 update date.
+- Its commercial contact and passport information form.
+- Its per-traveler billing interface.
+- Its group document-download functionality.
+
+The guide also incorrectly states that completing the arrival card more than three days before the tour begins will incur a fee.
+
+Thailand's government system does not offer a paid advance-submission option. Such fees are associated with private intermediaries rather than the official registration procedure.[^18]
+
+**Rainbow's instructions therefore combined the official government website address with the application workflow and pricing conditions of a private commercial intermediary.**
+
+### Subsequent Correction
+
+Rainbow's revised Thailand entry guidance, displaying a March 11, 2026 update date, directs customers to the official government portal and correctly identifies TDAC registration as free.[^29]
+
+Its linked replacement instruction document also uses screenshots of the genuine government application instead of AGENTS' commercial interface.[^30]
+
+However, the replacement PDF retains the earlier warning concerning fees for premature applications.
+
+The historical AGENTS-based instruction document also remained publicly accessible on Rainbow's website when examined on November 26, 2026.
+
+### Commercial Significance
+
+The Rainbow documentation demonstrates that confusion between AGENTS' commercial platform and Thailand's official immigration service extended into customer instructions published by an established international tour operator.
+
+The documents do not establish a contractual partnership, referral compensation, or the number of Rainbow customers who submitted personal information through AGENTS.
+
+Nevertheless, they provide concrete third-party evidence of the commercial platform being incorporated into international travel guidance without a clear distinction between government registration and private immigration assistance.
+
 ## References
 
 [^1]: https://www.dataforthai.com/company/0115562031107/
@@ -259,3 +308,11 @@ Nevertheless, the documented partnerships demonstrate that AGENTS' immigration p
 [^25]: https://www.thailandlawonline.com/translations/unfair-contract-terms-act — Unfair Contract Terms Act B.E. 2540 (1997), Sections 4 and 8, English translation.
 
 [^26]: https://mdes.go.th/law/detail/1905-Personal-Data-Protection-Act--B-E--2562--2019- — Ministry of Digital Economy and Society, English translation of the Personal Data Protection Act, Sections 77–78, pages 29–30.
+
+[^27]: https://www.traveldailymedia.com/agents-co-ltd-introduces-its-platform-for-thailand-digital-arrival-cards/ — Marga Manlapig, June 17, 2025.
+
+[^28]: `https://r.pl/do-pobrania/dokumenty/wytyczne_sanitarne/Instrukcja_TDAC.pdf` — Rainbow's historical Polish-language TDAC guide illustrating AGENTS' commercial submission platform.
+
+[^29]: `https://r.pl/wytyczne/tajlandia/` — Rainbow's Thailand entry guidance, updated March 11, 2026.
+
+[^30]: `https://static.r.pl/wytyczne/fd90820d-0b7d-4b2f-bf04-b29d12786ac9/Tajlandia%20-%20Instrukcja%20wype%C5%82nienia%20Arrival%20Card%20%28TDAC%29.pdf` — Replacement instruction document illustrating the official government TDAC interface.
