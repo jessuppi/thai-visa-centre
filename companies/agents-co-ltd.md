@@ -94,6 +94,50 @@ The company's promotional material has also been distributed through [The Thaige
 
 The documented incorporation-date contradiction, retroactive community milestone, and unsupported official-recognition claim undermine the reliability of the experience credentials used to promote the company's current immigration services.
 
+## Cross-Service Incentives and Commercial Customer Acquisition
+
+AGENTS CO., LTD. operates several interconnected travel and immigration services, using preferential pricing and complimentary benefits to encourage participation in its wider commercial network.
+
+Its published pricing distinguishes between ordinary travelers, existing immigration-service customers, and commercial hospitality partners.[^10][^17]
+
+| Customer category | Advance TDAC submission |
+| --- | --- |
+| Ordinary travelers | US$8 (270 baht) |
+| Existing 90-day reporting customers | Complimentary |
+| Participating hotel partners | Complimentary |
+
+The company's corporate website explicitly promotes complimentary advance TDAC submissions as a benefit available to customers using its paid [90-day reporting service](../domains/90day.in.th.md).
+
+### Immigration Services as a Commercial Distribution Channel
+
+AGENTS also promotes travel insurance, electronic SIM cards, airport transportation, and fast-track services through its TDAC platform.[^17]
+
+Its corporate website describes a wholesale eSIM distribution system targeting hotels, travel agencies, tour operators, and online travel platforms, advertising partner margins of 60% and integration through an application programming interface.[^10]
+
+These arrangements establish a commercial model extending beyond fees charged for immigration assistance itself.
+
+Complimentary or discounted immigration services can serve as customer-acquisition incentives for other products and business partnerships.
+
+### Different Personal-Data Processing Arrangements
+
+Thailand's Immigration Bureau permits authorized travel agencies to submit TDAC declarations on behalf of their customers.[^18]
+
+However, the government's published privacy assurances restrict official TDAC information to immigration and border-security purposes.
+
+AGENTS' commercial Privacy Policy permits substantially broader processing, including marketing its own products and services and those of affiliated companies.[^19]
+
+The absence of a direct submission fee therefore does not make the commercial platform equivalent to the government's free registration service in terms of personal-data processing.
+
+### Commercial Transparency
+
+Bundling services and offering complimentary benefits are not inherently unlawful.
+
+However, the company's published arrangements raise questions about referral compensation, marketing permissions, and the extent to which customer information is used across its different commercial platforms.
+
+The available evidence does not establish unauthorized data transfers or undisclosed payments from particular hotel partners.
+
+**It establishes that AGENTS operates a commercial ecosystem in which immigration assistance, hospitality partnerships, telecommunications, and additional travel services are deliberately interconnected.**
+
 ## References
 
 [^1]: https://www.dataforthai.com/company/0115562031107/
@@ -112,3 +156,6 @@ The documented incorporation-date contradiction, retroactive community milestone
 [^14]: `https://esim.agents.co.th/`
 [^15]: `https://esim.agents.co.th/terms`
 [^16]: `https://esim.agents.co.th/privacy`
+[^17]: `https://tdac.agents.co.th/scam` — Published TDAC pricing comparison, complimentary hotel-partner submissions, and additional commercial services; accessed November 25, 2026.
+[^18]: https://tdac.immigration.go.th/manual/en/faq.html — Immigration Bureau guidance concerning authorized travel-agency submissions and personal-data processing.
+[^19]: `https://agents.co.th/tdac-apply/policy/privacy/` — Privacy Policy concerning commercial marketing and affiliated-company information sharing.
