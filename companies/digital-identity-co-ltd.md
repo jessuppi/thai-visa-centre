@@ -15,6 +15,38 @@ The filing described plans to develop identity-verification technology, includin
 
 On **May 15, 2025**, East Coast Furnitech sold its entire 25% holding to KYC Now. The transaction was publicly disclosed the following day, establishing that KYC Now acquired the remaining shares previously held by the publicly listed company.[^3]
 
+### Historical Ownership of KYC Now and Corporate Governance
+
+East Coast Furnitech's November 7, 2024 stock exchange disclosure identifies KYC Now Co., Ltd. under Thai company registration number **0105567154461**, with registered capital of 1 million baht.[^2]
+
+The filing discloses the following ownership structure:
+
+| Shareholder | Shares | Ownership |
+| --- | ---: | ---: |
+| Natakorn Tanachaihirun | 7,500 | 75% |
+| Nakanda Tanachaihirun | 1,250 | 12.5% |
+| Tatchaya Tanachaihirun | 1,250 | 12.5% |
+
+All three shareholders were also identified as directors of KYC Now.
+
+Digital Identity's original joint-venture arrangement provided for three board representatives from KYC Now and two from East Coast Furnitech. Its disclosed signing arrangements required representatives from both shareholders.
+
+East Coast Furnitech subsequently sold its entire 2,500-share holding to KYC Now on May 15, 2025.[^3]
+
+The disposal announcement does not disclose the transaction price or the revised board composition and signing arrangements.
+
+### Relevance to Government Biometric Processing
+
+KYC Now's significance extends beyond its historical investment in Digital Identity.
+
+THIM's official Privacy Notice separately identifies KYC Now as a biometric and document-verification processor, while Digital Identity provides application development and technical services.[^5]
+
+The corporate filings therefore establish a historical ownership connection between two private companies subsequently identified as participants in Thailand's government immigration infrastructure.
+
+The November 2024 ownership disclosures should not be interpreted as confirmation of the companies' current ultimate beneficial ownership.
+
+Updated shareholder registers and director filings, particularly following Digital Identity's April 2026 capital increase, would be necessary to establish the present corporate structure.
+
 ## THIM Immigration Platform
 
 On May 28, 2026, Amazon Web Services announced that Digital Identity had developed the **Thailand Immigration Management System (THIM)** in partnership with Thailand's Immigration Bureau, using AWS infrastructure in Bangkok.[^4]
