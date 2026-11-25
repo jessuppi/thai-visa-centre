@@ -342,6 +342,51 @@ Customers can authorize another person without necessarily employing a commercia
 
 **AGENTS uses restrictions on government online reporting to promote its paid service while omitting other officially recognized reporting methods.**
 
+## Misleading Reporting Eligibility and Immigration Office Jurisdiction
+
+The homepage of `90day.in.th` provides general instructions for foreigners wishing to complete their immigration reporting independently.
+
+However, these instructions contain substantive inaccuracies concerning both the responsible immigration office and the reporting obligations applicable to certain long-term visa categories.[^24]
+
+### Incorrect Immigration Office Instructions
+
+AGENTS instructs foreigners to visit the immigration office where their visa was obtained.
+
+Thailand's published immigration procedures instead generally assign reporting responsibility according to the foreigner's place of residence.[^20][^23]
+
+The distinction is particularly relevant to foreigners who obtained immigration permissions in another province or subsequently relocated within Thailand.
+
+Following the company's instructions could result in unnecessary travel to an immigration office that no longer has jurisdiction over the applicant's residence.
+
+### Omission of Annual Reporting Privileges
+
+The website also categorically describes 90-day reporting as a requirement for foreigners holding long-term visas.
+
+However, Thailand's Board of Investment expressly identifies annual reporting privileges for certain visa categories:
+
+| Visa category | Ordinary reporting interval |
+| --- | --- |
+| Retirement visa | 90 days |
+| Destination Thailand Visa | 90 days |
+| Long-Term Resident Visa (LTR) | One year |
+| SMART Startup Visa | One year |
+
+The official LTR guidance specifically requires eligible holders to submit form TM95 instead of TM47 after one year of continuous residence.[^25]
+
+The SMART Startup Visa program similarly provides annual reporting privileges.[^26]
+
+These exceptions are absent from the commercial homepage's explanation.
+
+### Contradictory Guidance Across Affiliated Websites
+
+AGENTS separately operates `ltr.in.th`, which promotes Thailand's LTR visa program.
+
+Its commercial network therefore advertises both immigration categories carrying annual reporting privileges and a paid reporting service whose general instructions omit those privileges.
+
+**The reporting website should accurately distinguish customers who require TM47 submissions from foreigners who benefit from alternative statutory reporting arrangements before encouraging them to purchase prepaid reporting credits.**
+
+The available evidence does not establish that AGENTS has actually sold unnecessary reporting services to LTR or SMART visa holders.
+
 ## References
 
 [^1]: https://www.reddit.com/r/expatsinbangkok/comments/1tdqdc8/thailand_90_day_online_reporting/
@@ -371,3 +416,9 @@ Customers can authorize another person without necessarily employing a commercia
 [^22]: `https://90day.in.th/dtv-90-day-reporting` — Commercial DTV reporting landing page.
 
 [^23]: https://thaiconsulatela.thaiembassy.org/en/publicservice/foreigners-staying-in-thailand-more-than-90-days — Royal Thai Consulate-General, official reporting procedures.
+
+[^24]: `https://90day.in.th/` — Commercial reporting homepage and independent reporting instructions, reviewed November 26, 2026.
+
+[^25]: https://ltr.boi.go.th/page/faq.html — Board of Investment, official LTR frequently asked questions, particularly the annual reporting section.
+
+[^26]: https://smart-visa.boi.go.th/smart/pages/smart_s.html — Board of Investment, official SMART Startup Visa privileges.
