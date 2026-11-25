@@ -76,6 +76,62 @@ This denial is relevant to the scope of the repository's investigation and shoul
 
 The substantive concerns established here are the lack of a clearly identified legal operator, the unspecified governing jurisdiction, and unreconciled privacy disclosures. These issues matter independently of any alleged affiliation with another immigration business.
 
+## Unsubstantiated Approval Rates and Conditional Refund Protection
+
+StampStay's commercial visa-analysis page advertises three additional performance metrics alongside its paid immigration risk-assessment services:[^8]
+
+- More than 487 analyses delivered.
+- A 94% approval rate.
+- An average customer rating of 4.9 out of 5.
+
+However, the website does not identify the calculation methodology, reporting period, number of confirmed immigration outcomes, or independent review platform supporting these figures.
+
+### Undefined Immigration Approval Statistics
+
+StampStay sells assessments covering several distinct immigration situations, including entry through immigration checkpoints, Destination Thailand Visa applications, and border crossings.
+
+Its advertised approval rate does not distinguish between these categories or explain whether customers who never subsequently traveled or applied for a visa are excluded from the calculation.
+
+The website also does not explain how it verifies customer outcomes or accounts for customers who do not report their results.
+
+**A numerical approval rate cannot establish the predictive accuracy of an immigration risk-assessment service without an adequately documented methodology.**
+
+StampStay's Legal Disclaimer acknowledges that its information is derived partly from online community reports, aggregated user experiences, and publicly available information rather than official access to immigration records.[^4]
+
+### Unsubstantiated Re-Entry Restrictions
+
+The commercial sales page identifies a 60–90-day re-entry restriction and permanently reduced future entry flexibility among the consequences of being denied entry to Thailand.[^8]
+
+However, it does not identify a government regulation or immigration order establishing such a restriction as a general consequence of entry refusal.
+
+Thailand's official government guidance explains that immigration officers may refuse admission based on the grounds established by the Immigration Act.[^9]
+
+An ordinary refusal of admission should not automatically be equated with a formal prohibition on future entry.
+
+The website also estimates the average financial cost of an entry refusal at $1,500–$3,000 without identifying the underlying data supporting that calculation.
+
+These claims appear within promotional material encouraging travelers to purchase a $79 risk assessment before booking their flights.
+
+### Conditional Money-Back Guarantee
+
+Section 4.3 of StampStay's Terms of Service advertises a full satisfaction-based refund guarantee but requires customers to submit their refund requests within seven days of receiving their analysis and explain why the service did not meet their expectations.[^2]
+
+The contract separately addresses customers who follow StampStay's recommendations but are subsequently denied entry to Thailand.
+
+Under that provision, the operator reviews the circumstances and determines whether its original analysis was sufficiently inaccurate to justify a refund.
+
+The relationship between this special refund provision and the general seven-day deadline is not clearly explained.
+
+This ambiguity is commercially significant because StampStay encourages customers to purchase assessments before booking their flights, potentially weeks or months before their planned arrival.
+
+**A customer may not discover whether the purchased assessment accurately predicted their immigration outcome until after the ordinary refund period has expired.**
+
+Section 6 also disclaims warranties concerning the accuracy, completeness, and reliability of the company's analysis.
+
+The available evidence does not establish that StampStay has improperly denied refunds, fabricated customer testimonials, or deliberately manipulated its approval statistics.
+
+It establishes that the website markets precise performance figures and potentially costly immigration consequences without publishing sufficient supporting evidence, while its contractual documents leave important questions about refund eligibility unresolved.
+
 ## References
 
 [^1]: `https://www.stampstay.com/`
@@ -85,3 +141,5 @@ The substantive concerns established here are the lack of a clearly identified l
 [^5]: `https://www.stampstay.com/privacy-policy`
 [^6]: `https://www.stampstay.com/about` — About page, independence notice and privacy disclosures, reviewed November 24, 2026.
 [^7]: https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng/ — Regulation (EU) 2016/679, Articles 3, 4 and 13.
+[^8]: `https://www.stampstay.com/visa-analysis` — Commercial immigration risk-analysis sales page, accessed November 25, 2026.
+[^9]: https://www.thailand.go.th/public/useful-information-detail/001_01_210 — Thai government guidance, *Important Information for Foreigners before Travelling to Thailand*.
