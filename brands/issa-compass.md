@@ -243,6 +243,54 @@ Issa Compass should explain how it separates its paid creators from its independ
 
 **Independent customer feedback and company-scripted commercial endorsements represent fundamentally different forms of evidence.**
 
+## Commercial Referral Network and Financial Services Accountability
+
+Issa Compass has expanded beyond immigration assistance into a commercial referral network targeting expatriates relocating to Thailand.
+
+Its published partner directory identifies seven commercial service providers:[^15]
+
+| Partner | Commercial activity |
+| --- | --- |
+| FlexiRent | Residential property rentals |
+| Thai Property Guide | Real estate brokerage |
+| RakBaan | Property listings |
+| Allied Thailand | Relocation and transportation |
+| Pacific Prime | Health insurance brokerage |
+| Genki | International health insurance |
+| Max Foresight | Investment and wealth management |
+
+Rather than simply linking visitors to these businesses, Issa Compass encourages prospective customers to create accounts through its own platform to arrange introductions.
+
+### Financial Services and Regulatory Accountability
+
+Of particular significance is the promotion of Max Foresight, an international financial advisory business offering investment portfolio management, pensions, insurance, tax planning, and wealth preservation services.[^16]
+
+Max Foresight identifies itself as a division of NEBA Private Clients, part of TEAM plc, and describes financial-services licences held within its wider corporate network in several jurisdictions.
+
+However, its published licensing statement does not identify a Thai financial-services licence or explain which regulated entity would contract with customers referred by Issa Compass.
+
+The Issa Compass partner directory likewise provides no explanation of the applicable regulatory jurisdiction or investor-protection arrangements.
+
+### Commercial Recommendations Versus Contractual Responsibility
+
+Issa Compass presents its partners as businesses already serving its immigration customers.
+
+However, Section 15 of its Terms of Service expressly disclaims endorsement of, and responsibility for, third-party products and services. Customers are instructed to use such services at their own risk.[^5]
+
+The published partner directory does not disclose whether Issa Compass receives referral commissions, customer-acquisition payments, or other commercial compensation from these businesses.
+
+### Immigration Data and Commercial Customer Acquisition
+
+Issa Compass already collects passport information, financial documentation, employment records, and other personal information relevant to immigration eligibility.[^2]
+
+Its expansion into investment and insurance referrals creates additional questions concerning the separation of immigration records from commercial customer-acquisition activities.
+
+The published Privacy Policy does not specifically identify these referral partners as recipients of customer information or explain which information is transferred when a customer requests an introduction.
+
+**Issa Compass increasingly operates as a commercial intermediary connecting immigration customers with additional financial and lifestyle services, rather than exclusively as a visa-processing software platform.**
+
+The company's referral arrangements warrant greater transparency concerning compensation, regulatory responsibilities, partner selection, and customer-data processing.
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -263,6 +311,10 @@ Issa Compass should explain how it separates its paid creators from its independ
 [^13]: https://support.google.com/business/answer/3474122 — Google's official customer review requirements.
 
 [^14]: https://corporate.trustpilot.com/legal/for-businesses/guidelines-for-businesses/sep-2026 — Trustpilot Guidelines for Businesses, September 2026.
+
+[^15]: `https://www.issacompass.com/partners` — Published commercial partner directory, reviewed November 26, 2026.
+
+[^16]: `https://www.maxforesight.com/services` — Financial advisory services and corporate licensing disclosures.
 
 ## Additional Sources
 
