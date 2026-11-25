@@ -16,6 +16,46 @@ On May 19, 2024, an account identifying itself as Thai Visa Centre requested rem
 
 In August 2025, a [Thai360 forum participant](../threads/2025-06-30-thai360-non-immigrant-o-visa.md) who had previously praised Thai Visa Centre's retirement-extension services alleged that the agency paid websites to remove related coverage. The participant reported that an article he attempted to share was deleted and that the agency's Facebook page disappeared, then reported on August 14 that the original 2020 Thaiger article and Facebook page had reappeared. He also suggested that the situation might involve a dispute between agencies or the targeting of a business owner.[^80] Unlike the archived Udon Map exchange, this account does not independently establish a removal request by Thai Visa Centre, payment to publishers, or the reason for any reported disappearance.
 
+## 2019 Retirement Visa Marketing Following Immigration Fraud Crackdown
+
+On February 1, 2019, The Nation reported that Thailand's Immigration Bureau was introducing stricter retirement-extension financial requirements to combat the falsification of supporting bank documentation by visa agents.[^84]
+
+The revised requirements became effective on March 1, 2019.
+
+### March 2019: Nationwide Immigration Office Claims
+
+On March 21, 2019, ThaiVisa.com member **zoza** reported receiving approximately ten promotional Facebook messages within one month from Thai Visa Centre.[^85]
+
+According to the account, the agency advertised retirement immigration services costing between 22,000 and 24,000 baht, with a three-day processing period.
+
+The contributor reproduced the following representation attributed to the agency:
+
+> we deal with every Immigration Office everywhere in Thailand
+
+The reported advertising appeared only 20 days after the strengthened financial requirements became effective.
+
+### September–November 2019: Customer Data and Recurring Reporting Fees
+
+On September 7, 2019, forum member **beddhist** reported receiving an unsolicited promotional email from Thai Visa Centre despite having no previous contact with the agency.[^86]
+
+The contributor questioned whether personal information had been disclosed by someone within Thai Immigration and considered submitting a corruption complaint.
+
+On October 7, another account, **DulceDee**, described obtaining retirement-extension assistance through the agency for 14,000 baht and being offered additional paid 90-day reporting services.
+
+The account discouraged customers from independently submitting their immigration reports, citing the agency's purported connections.
+
+On November 15, **walterrose** similarly reported paying Thai Visa Centre 14,000 baht and recommended the company over a competing agency.
+
+### Historical Significance
+
+These discussions establish that concerns about unsolicited marketing, extensive immigration-office relationships, expedited retirement extensions, and dependence on paid reporting services existed before the August 2020 police raid.
+
+They also document an early commercial model in which retirement-extension assistance generated opportunities to sell recurring immigration-reporting services.
+
+**The historical complaints are particularly relevant because Thai Visa Centre was reportedly promoting expedited immigration services during the same period that authorities were attempting to suppress fraudulent retirement applications.**
+
+The accounts do not independently establish the source of customer contact information, the authenticity of supporting financial documentation, or improper payments to immigration officials.
+
 ## August 2020 Police Raid
 
 On August 4, 2020, Immigration Bureau chief **Pol. Lt. Gen. Sompong Chingduang** announced the arrests of American national [Chad Scira](../people/chad-scira.md) and his Thai wife, Grace Scira, in connection with an alleged visa and government-document forgery operation associated with Thai Visa Centre. Police reported discovering suspected forged documents and **55 government-agency rubber stamps** during a raid on the couple's Bangkok residence. Sompong publicly identified the couple as having established the business operating under the Thai Visa Centre name.[^5]
@@ -694,3 +734,9 @@ Individual examples, original publications, and supporting legal sources are doc
 [^81]: `https://tvc.co.th/reviews/retirement?page=2` — Customer reviews dated March 6 and March 10, 2026.
 [^82]: https://hatyaiimmigration.go.th/ITA/ita68/8/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%9E%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B8%B0/New%2050%20Handbooks/23-Public-Handbook-2.22-retirement.pdf — Immigration Bureau public handbook, Section 2.22, retirement extensions, published November 8, 2019; copy hosted by Hat Yai Immigration.
 [^83]: `https://www.thaivisacentrereviews.com/reviews` — Historical review archive reproducing both customer testimonials.
+
+[^84]: https://www.nationthailand.com/in-focus/30363375 — The Nation, February 1, 2019, reporting on strengthened retirement-extension requirements and immigration fraud concerns.
+
+[^85]: `https://aseannow.com/topic/1088377-new-retirement-procedure-jomtien-immigration-specifically/` — March 21, 2019, contribution by zoza.
+
+[^86]: `https://aseannow.com/topic/1025873-retirement-visa-centre-question/page/2/` — September–November 2019 contributions by beddhist, DulceDee, and walterrose.
