@@ -92,6 +92,42 @@ The available evidence does not establish whether the company's actual submissio
 
 Nevertheless, an apparently current commercial immigration guide should distinguish successful arrival-card submission from compliance with separate mandatory public health entry requirements.
 
+## Fast-Track Airport Services and Immigration Bureau Warnings
+
+AGENTS CO., LTD.'s TDAC scam-warning page lists fast-track airport services among the commercial advantages of its own platform, identifying their absence as a disadvantage of competing TDAC providers.[^4]
+
+However, the legitimacy of airport assistance depends on the nature of the service, the provider's authorization, and applicable immigration procedures.
+
+### May 2026 Immigration Bureau Warning
+
+On May 19, 2026, The Thaiger published an article by Chattarin Siradakul reporting an Immigration Bureau warning concerning purported paid fast-track immigration services advertised through Trip.com.[^12]
+
+The authorities warned that unauthorized services could expose travelers to financial losses, fraud, and misuse of personal information.
+
+ASEAN NOW republished the warning on the same day under the account snoop1130.[^13]
+
+Neither publication identified AGENTS CO., LTD. or Thai Visa Centre as a subject of that particular warning.
+
+### Integration With the Commercial TDAC Platform
+
+As of November 25, 2026, the address `asq.in.th/thailand-fasttrack` redirects visitors to the AGENTS commercial TDAC application form.[^14]
+
+The application's associated service description also advertises optional VIP airport assistance and transportation services.[^15]
+
+The reviewed promotional pages do not identify the specific fast-track operator, its authorization arrangements, or the conditions governing access to priority immigration facilities.
+
+### Distinguishing Legitimate Assistance From Unauthorized Immigration Services
+
+Thailand's government recognizes legitimate priority immigration arrangements for certain eligible travelers, including qualifying BOI-promoted investors and executives.[^16]
+
+Commercial airport assistance should therefore not automatically be classified as fraudulent merely because customers pay for it.
+
+Nevertheless, AGENTS should clarify whether its advertised fast-track services consist of authorized airport assistance, priority-lane access, or another arrangement.
+
+The available evidence does not establish that AGENTS provides unauthorized immigration services.
+
+The company's commercial comparison is significant because it promotes fast-track availability as a measure of service superiority without explaining the regulatory distinctions highlighted by its associated media platforms.
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
@@ -108,3 +144,13 @@ Nevertheless, an apparently current commercial immigration guide should distingu
 [^10]: https://aip.caat.or.th/2026-10-16/html/eAIC/VT-eAIC-26-09-en-GB.html — Civil Aviation Authority of Thailand, AIC 09/26, published October 15, 2026.
 
 [^11]: https://www.tatnews.org/2026/05/thailand-applies-ebola-screening-measures-for-travellers-from-risk-areas/ — Tourism Authority of Thailand, May 2026.
+
+[^12]: `https://thethaiger.com/news/national/suvarnabhumi-fast-track-claim-denied-immigration-bureau` — Chattarin Siradakul, May 19, 2026.
+
+[^13]: `https://aseannow.com/thailand-news/thai-airport-officials-warn-on-fake-fast-track-service-at-suvarnabhumi-r1865/` — snoop1130, May 19, 2026.
+
+[^14]: `https://asq.in.th/thailand-fasttrack` — Redirect to AGENTS' TDAC application portal, observed November 25, 2026.
+
+[^15]: `https://agents.co.th/tdac-apply/about/` — Commercial service description.
+
+[^16]: https://thailand.go.th/public/issue-focus-detail/--vip--fast-track-lane--boi- — Official government guidance concerning eligible BOI investors and executives.
