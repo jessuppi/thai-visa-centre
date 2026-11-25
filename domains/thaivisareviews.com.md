@@ -487,6 +487,40 @@ The available evidence does not establish that customers suffered financial loss
 
 Nevertheless, **a publication claiming to verify immigration specialists should accurately represent the fundamental eligibility requirements of the services it recommends.**
 
+## Misleading DTV Eligibility Requirements and Unsubstantiated Approval Statistics
+
+Thai Visa Reviews' Destination Thailand Visa (DTV) guide advertises a 97% success rate and commercial agency fees ranging from 25,000 to 60,000 baht.[^26]
+
+However, its published application instructions contain significant omissions and misleading generalizations concerning official visa requirements.
+
+### Missing Permanent Residence Requirement
+
+The directory recommends neighboring countries such as Laos, Vietnam, and Malaysia as potential application destinations for foreigners already visiting Thailand.
+
+However, Thailand introduced additional supporting-document requirements on August 31, 2026, including proof of permanent residence in the jurisdiction where the application is submitted.[^27]
+
+Although the directory includes criminal-record clearance in its document checklist, it omits the permanent residence requirement.
+
+### Exaggerated Financial and Insurance Requirements
+
+The directory categorically states that each applicant, including dependent children, must demonstrate 500,000 baht in their own bank account.
+
+However, the Royal Thai Embassy in Bucharest's guidance, updated November 15, 2026, expressly recognizes sponsorship letters as an alternative form of financial evidence, including for dependent applications.[^28]
+
+The directory also lists health insurance among the required DTV application documents, despite its absence from the embassy's published standard checklist.
+
+Individual diplomatic missions may request additional documentation, but the directory fails to distinguish mission-specific requirements from general visa eligibility conditions.
+
+### Unsubstantiated 97% Success Rate
+
+The directory does not identify the application records, sample size, reporting period, or calculation methodology supporting its advertised 97% success rate.
+
+It also does not establish whether this figure represents independent applicants, customers of commercial agencies, or an internally generated estimate.
+
+These omissions are particularly significant because the directory recommends paid immigration agencies while presenting itself as an independent evaluator of professional visa services.
+
+The available evidence does not establish deliberate deception or financial losses suffered by applicants. It does establish discrepancies between the directory's published guidance and official immigration requirements, alongside an unsubstantiated numerical approval claim.
+
 ## References
 
 [^1]: `https://thaivisareviews.com/`
@@ -514,3 +548,9 @@ Nevertheless, **a publication claiming to verify immigration specialists should 
 [^23]: `https://thaivisareviews.com/visa/ltr` — LTR visa guide, reviewed November 25, 2026.
 [^24]: https://ltr.boi.go.th/page/faq.html — Official BOI frequently asked questions concerning work permits and application fees.
 [^25]: https://ltr.boi.go.th/index.html — Official BOI LTR eligibility requirements and application procedures.
+
+[^26]: `https://thaivisareviews.com/visa/dtv` — Destination Thailand Visa guide.
+
+[^27]: https://osaka.thaiembassy.org/en/content/announcement-updated-requirements-dtv — Royal Thai Consulate-General, August 28, 2026, announcement of additional documentary requirements.
+
+[^28]: https://bucharest.thaiembassy.org/en/page/destination-thailand-visa-dtv — Royal Thai Embassy, official DTV requirements, updated November 15, 2026.
