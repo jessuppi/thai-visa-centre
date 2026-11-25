@@ -592,6 +592,30 @@ The available evidence does not establish that Thai Visa Centre supplied the ina
 
 Nevertheless, these discrepancies undermine the reliability of the directory's immigration advice and commercial recommendations.
 
+## Historical Commercial Promotion of TMT Thailand
+
+Thai Visa Reviews' July 2026 Agency of the Month recipient, TMT Thailand, was previously promoted through The Thaiger's commercial publishing network.[^10]
+
+The directory identifies the agency using company registration number 0835561002972 and the website `tmtvisaservicephuket.com`, matching the business promoted in The Thaiger's historical publications.[^11][^36]
+
+### Commercial Promotion Between 2021 and 2022
+
+In November 2021, The Thaiger announced Tadoo's partnership with TMT for education visa services.[^37]
+
+Digital Broker Ventures identifies Tadoo as originating within The Thaiger's Thai-language publishing operation.[^38]
+
+On April 11, 2022, The Thaiger published another article promoting TMT's visa, banking, travel, and relocation services.[^39]
+
+Although published under The Thaiger's own byline in its Visa Information category, the article is substantially written from the perspective of TMT itself.
+
+### Relevance to the Directory's Awards
+
+TMT represents another recipient of a Thai Visa Reviews award with an independently documented history of commercial promotion through The Thaiger's business network.
+
+This historical connection complements the previously documented promotion of Thai Visa Centre, the directory's June 2026 award recipient.
+
+However, the available evidence does not establish common ownership between Thai Visa Reviews and The Thaiger, continued commercial relationships with TMT, or paid placement of either award.
+
 ## References
 
 [^1]: `https://thaivisareviews.com/`
@@ -639,3 +663,11 @@ Nevertheless, these discrepancies undermine the reliability of the directory's i
 [^34]: https://smart-visa.boi.go.th/smart/document/related/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_5_2568_EN.pdf — BOI Announcement Por. 5/2568, February 18, 2025, Sections 5–6, official website's English translation.
 
 [^35]: https://smart-visa.boi.go.th/smart/pages/about.html — Official BOI application procedures and annual visa fees.
+
+[^36]: https://www.dataforthai.com/company/0835561002972/ — TMT Visa Service Co., Ltd.
+
+[^37]: `https://thethaiger.com/sponsored/tmt-education-visa-pr`
+
+[^38]: `https://dbventures.io/portfolio/tadoo/`
+
+[^39]: `https://thethaiger.com/guides/visa-information/applying-or-renewing-your-visa-in-thailand-made-easy-with-tmt-visa-services-phuket`
