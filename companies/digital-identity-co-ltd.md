@@ -168,6 +168,52 @@ The available evidence does not establish unlawful data sharing, improper procur
 
 **However, the integration of commercial promotions into an official immigration application warrants greater transparency concerning financial arrangements, partner selection, and the separation of government records from commercial customer data.**
 
+## WORPT Financial Services, Media Promotion, and Overlapping Identity Infrastructure
+
+On November 5 and November 16, 2026, [The Thaiger](../brands/the-thaiger.md) published articles promoting WORPT, the cryptocurrency-conversion platform operated by Wipay Co., Ltd. and Waan Exchange Co., Ltd.[^14][^15]
+
+The first appeared under Business News, while the second was identified as a press release.
+
+These publications establish another connection between The Thaiger's commercial coverage and businesses participating in the wider THIM tourism-services ecosystem.
+
+### Government and Commercial Data Processing
+
+Although THIM and WORPT both employ KYC Now Co., Ltd. for identity verification, their published data-processing arrangements differ substantially.[^5][^13]
+
+| Subject | THIM | WORPT |
+| --- | --- | --- |
+| Primary purpose | Immigration administration | Financial transactions |
+| Biometric processor | KYC Now | KYC Now |
+| Additional records | Immigration and security information | Financial histories, immigration stamps and cryptocurrency transactions |
+| Targeted advertising | Not expressly specified as a processing purpose | Permitted with consent |
+| Retention | Three years, subject to extensions | Potentially ten years for legal claims |
+
+WORPT's Privacy Notice also permits international transfers of passport and biometric information under specified legal conditions.
+
+Its disclosed information sources include government authorities where legally permitted.
+
+These provisions do not establish that WORPT obtains information from THIM. However, they reinforce the importance of maintaining independently controlled government and commercial identity-verification environments.
+
+### Temporary Regulatory Approval and Continuing Commercial Obligations
+
+WORPT operates under Thailand's TouristDigiPay regulatory sandbox, which permits approved financial businesses to test their services for up to 18 months.[^16]
+
+The company's published exit plan identifies March 25, 2028, as its scheduled service-closure date.[^17]
+
+The plan provides for automatic conversion of remaining baht balances into USDT and the continuation of account-maintenance charges for inactive accounts after service closure.
+
+Neither of The Thaiger's reviewed articles explains these specific financial conditions.
+
+### Relevance to the Wider Commercial Network
+
+The overlapping relationships now encompass an official immigration application, private biometric infrastructure, regulated financial services, tourism promotions, and commercial media coverage.
+
+**The same technology provider processes sensitive identity information within government immigration infrastructure and a commercial financial platform promoted by The Thaiger.**
+
+The respective businesses should clarify how their processing environments remain separated and how commercial relationships are governed.
+
+The published records do not establish unauthorized information transfers between THIM and WORPT or direct involvement by AGENTS CO., LTD.
+
 ## References
 
 [^1]: https://www.dataforthai.com/company/0135567034490/
@@ -183,3 +229,11 @@ The available evidence does not establish unlawful data sharing, improper procur
 [^11]: https://www.ryt9.com/en/prg/12846790 — WiPay announcement concerning its THIM promotional partnership, September 28, 2026.
 [^12]: https://techsauce.co/pr-news/the-mall-group-tourist-spending-thim-wi-wallet-worpt — The Mall Group commercial partnership announcement, November 11, 2026.
 [^13]: `https://www.worpt.com/privacy` — WORPT Privacy Notice, particularly Section 6 concerning KYC Now's biometric-processing responsibilities.
+
+[^14]: `https://thethaiger.com/news/business/thailand-launches-worpt-crypto-payment-app-to-turn-tourist-holdings-into-local-spending` — Mitch Connor, November 5, 2026.
+
+[^15]: `https://thethaiger.com/guides/finance/worpt-app-spend-crypto-in-thailand` — Ryan Turner, November 16, 2026, press release.
+
+[^16]: https://www.sec.or.th/EN/Pages/Shortcut/TouristDigiPay.aspx — Securities and Exchange Commission, official TouristDigiPay regulatory framework.
+
+[^17]: `https://www.worpt.com/exit-plan` — Service Closure and Exit Plan, updated October 5, 2026.
