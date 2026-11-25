@@ -155,6 +155,24 @@ Applicable exceptions or subsequent procedural changes may permit certain applic
 
 Nevertheless, a publication claiming to independently evaluate immigration agencies should distinguish ordinary administrative assistance from arrangements that appear to depart from published government procedures.
 
+### Complaint-Free Certification Ignores Documented Police Investigations
+
+Among its mandatory award eligibility requirements, Thai Visa Reviews expressly identifies:
+
+> No legal complaints on record.[^9]
+
+However, on August 5, 2020, The Nation reported that Immigration Bureau chief Sompong Chingduang publicly identified Thai Visa Centre as a business connected to an investigation into alleged visa and government-document forgery.[^40]
+
+On March 10, 2021, The Thaiger journalist Caitlin Ashworth explicitly reported that the police investigation followed complaints concerning forged documents.[^41]
+
+The Thaiger also published Thai Visa Centre's subsequent denial of the visa-forgery allegations on August 27, 2020.[^42]
+
+Despite this publicly documented history, the directory's June 2026 award provides no explanation of the investigation, its outcome, or the legal records examined when assessing the agency's eligibility.
+
+The directory's published methodology emphasizes corporate documentation, customer reviews, and complaint resolution, but does not identify a procedure for examining historical police investigations or court records.[^1]
+
+**Positive customer reviews cannot establish an absence of historical legal complaints.** The directory's certification requires substantially more evidence than favorable review statistics.
+
 ### Credibility of the Award
 
 The problem is not simply that Thai Visa Centre received a favorable review.
@@ -671,3 +689,9 @@ However, the available evidence does not establish common ownership between Thai
 [^38]: `https://dbventures.io/portfolio/tadoo/`
 
 [^39]: `https://thethaiger.com/guides/visa-information/applying-or-renewing-your-visa-in-thailand-made-easy-with-tmt-visa-services-phuket`
+
+[^40]: https://www.nationthailand.com/news/30392449 — The Nation, August 5, 2020.
+
+[^41]: https://thethaiger.com/guides/visa-information/thai-visa-centre-accuses-former-employee-of-stealing-from-a-family-seeking-to-travel-to-thailand — Caitlin Ashworth, March 10, 2021.
+
+[^42]: https://thethaiger.com/news/bangkok/bangkok-visa-agent-arrested-for-fake-extensions — Caitlin Ashworth, August 27, 2020.
