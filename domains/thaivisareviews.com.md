@@ -554,6 +554,44 @@ Prospective retirees could incorrectly conclude that they are financially inelig
 
 The available evidence does not establish that customers purchased unnecessary services or insurance because of this guidance.
 
+## Misleading SMART Visa Employment Rights and Government Fees
+
+Thai Visa Reviews' SMART visa guide correctly acknowledges the 2025 restructuring of the program toward technology-based startup entrepreneurs. However, its explanations of employment rights and government fees contain several inaccuracies.[^33]
+
+### Work Permit Exemption Versus Embedded Work Permit
+
+The directory describes the SMART visa as providing an embedded work permit.
+
+However, Section 5 of BOI Announcement Por. 5/2568, dated February 18, 2025, establishes an exemption from work permit requirements for qualifying activities.[^34]
+
+Changes or additions to those activities require further certification.
+
+The distinction matters because the exemption does not constitute unrestricted authorization to undertake unrelated employment.
+
+### Overstated Employment Rights for Spouses
+
+The directory expressly claims that dependent spouses can work for any company in Thailand.
+
+However, Section 6 of the same BOI announcement establishes that a dependent spouse's employment rights cannot exceed those of the primary SMART visa holder.[^34]
+
+The directory's categorical assurance therefore omits an explicit regulatory limitation.
+
+### Incomplete Government Fee Disclosure
+
+The directory identifies the government visa fee as 10,000 baht while advertising commercial agency fees ranging from 40,000 to 80,000 baht.
+
+The BOI specifies that the government fee is 10,000 baht per year of authorized stay.[^35]
+
+Consequently, a full two-year SMART visa ordinarily incurs government fees totaling 20,000 baht.
+
+### Relevance to Agency Recommendations
+
+The directory lists Thai Visa Centre among five recommended SMART visa specialists.
+
+The available evidence does not establish that Thai Visa Centre supplied the inaccurate guidance or that customers incurred unexpected costs.
+
+Nevertheless, these discrepancies undermine the reliability of the directory's immigration advice and commercial recommendations.
+
 ## References
 
 [^1]: `https://thaivisareviews.com/`
@@ -595,3 +633,9 @@ The available evidence does not establish that customers purchased unnecessary s
 [^31]: https://washingtondc.thaiembassy.org/en/page/non-ox — Royal Thai Embassy, Washington, O-X requirements.
 
 [^32]: https://budapest.thaiembassy.org/en/publicservice/non-immigrant-o-x-visa-long-stay-10-years — Royal Thai Embassy, Budapest, O-X requirements.
+
+[^33]: `https://thaivisareviews.com/visa/smart` — SMART visa guide, indexed copy reviewed November 25, 2026.
+
+[^34]: https://smart-visa.boi.go.th/smart/document/related/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_5_2568_EN.pdf — BOI Announcement Por. 5/2568, February 18, 2025, Sections 5–6, official website's English translation.
+
+[^35]: https://smart-visa.boi.go.th/smart/pages/about.html — Official BOI application procedures and annual visa fees.
