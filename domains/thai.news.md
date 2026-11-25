@@ -102,6 +102,40 @@ The available evidence does not establish which organization originally prepared
 
 Nevertheless, the overlapping messaging and different editorial disclosures provide further grounds for questioning the independence of THAI.NEWS's coverage of AGENTS CO., LTD.
 
+## Misleading Destination Thailand Visa Guidance and Commercial Referrals
+
+On May 29, 2024, THAI.NEWS published an article titled *Destination Thailand Visa (DTV): The Digital Nomads Visa* under its generic Editorial Team byline.[^8]
+
+The article presented the DTV as an already introduced immigration program, despite Thailand's Ministry of Foreign Affairs explicitly stating that its implementation remained subject to completion of the necessary legal procedures.[^9]
+
+The visa ultimately became available on July 15, 2024.[^10]
+
+### Incorrect Visa Validity and Stay Restrictions
+
+The article claimed that DTV holders could remain in Thailand for only 180 days per year and that extending their stay would require a 10,000-baht filing fee.
+
+More significantly, it stated:
+
+> After being used twice, the DTV visa would expire.
+
+These claims misrepresented the fundamental structure of the immigration program.
+
+The Ministry of Foreign Affairs' May 29, 2024 announcement already identified the DTV as a five-year, multiple-entry visa.[^9]
+
+Subsequent official guidance confirmed that holders could receive up to 180 days of permitted stay per entry, apply for an extension, and subsequently return to Thailand using the same visa throughout its validity period.[^11]
+
+### Commercial Referrals and Uncorrected Information
+
+Rather than directing readers to the Ministry of Foreign Affairs, the article recommends `dtv.in.th` as its source for further information and updates.
+
+That website is operated by [Agents Co., Ltd.](../companies/agents-co-ltd.md) and promotes the commercial immigration services of [Thai Visa Centre](../brands/thai-visa-centre.md).
+
+As of November 2026, `dtv.in.th` correctly describes the DTV's multiple-entry validity and reproduces the original government announcements, while the THAI.NEWS article continues publishing contradictory information.[^12]
+
+**The affiliated immigration website now contains the official documentation necessary to correct the news publisher's inaccurate article, yet the original misleading guidance remains publicly accessible.**
+
+The article provides another example of THAI.NEWS directing readers seeking government immigration information toward commercially connected websites without identifying the underlying business relationship.
+
 ## References
 
 [^1]: `https://thai.news/news/thailand/how-to-select-a-trustworthy-visa-agency-in-thailand`
@@ -112,3 +146,13 @@ Nevertheless, the overlapping messaging and different editorial disclosures prov
 [^6]: https://tdac.immigration.go.th/manual/en/faq.html
 
 [^7]: `https://thethaiger.com/travel/thailand-travel/apply-for-your-tdac-early-today-with-agents` — Press release published June 13, 2025.
+
+[^8]: `https://thai.news/news/thailand/destination-thailand-visa-dtv-the-digital-nomads-visa` — Editorial Team, May 29, 2024.
+
+[^9]: https://image.mfa.go.th/mfa/0/tDJBi9m15g/New_Measures_as_of_29_May_2024_-_1850_1.pdf — Department of Consular Affairs, original visa measures announcement, May 29, 2024.
+
+[^10]: https://www.mfa.go.th/en/content/thailandnewvisa-en — Ministry of Foreign Affairs, July 16, 2024.
+
+[^11]: https://phnompenh.thaiembassy.org/en/publicservice/destination-thailand-visa-dtv — Royal Thai Embassy, July 23, 2024, official DTV validity and extension guidance.
+
+[^12]: `https://dtv.in.th/` — Updated immigration guidance and reproduced government announcements, November 25, 2026.
