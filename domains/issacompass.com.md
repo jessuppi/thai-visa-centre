@@ -600,6 +600,40 @@ Customers pursuing indefinite residence should understand the distinction betwee
 
 The available evidence does not establish that customers were promised formal permanent residency through individual consultations.
 
+## Contradictory Marriage Visa Financial Requirements
+
+Issa Compass publishes conflicting explanations of the financial requirements applicable to marriage-based immigration extensions.
+
+### Incorrect Bank Deposit Maintenance Period
+
+In her marriage visa cost guide, updated November 14, 2026, immigration consultant Kat Hewett identifies a three-month bank deposit maintenance requirement.[^34]
+
+A separate guide by immigration consultant Ana Liangsupree, updated October 18, 2026, distinguishes between a two-month requirement for initial annual extensions and three months for subsequent renewals.[^35]
+
+However, the Immigration Bureau's published extension criteria specify a two-month maintenance period for the qualifying 400,000-baht deposit, without establishing a longer period for subsequent annual renewals.[^36][^37]
+
+Liangsupree additionally states that applicants must maintain the entire 400,000-baht balance throughout the year. This additional restriction is not established by the reviewed government criteria.
+
+### Contradictory Foreign Income Eligibility
+
+Hewett's November guide expressly excludes overseas earnings from the 40,000-baht monthly income alternative, restricting eligibility to individuals working legally in Thailand.
+
+Liangsupree's October guide, however, expressly identifies foreign income supported by embassy certification as an eligible alternative.
+
+The Immigration Bureau's published criteria establish an average monthly income threshold without restricting qualifying income exclusively to Thai employment.
+
+Individual applicants may encounter different documentary requirements depending on their nationality and immigration office.
+
+Nevertheless, Issa Compass's categorical exclusion of overseas income contradicts its own published guidance.
+
+### Commercial Significance
+
+Liangsupree's article advertises annual extension and renewal assistance costing 10,000 baht, excluding government fees.
+
+Prospective customers relying on these articles could unnecessarily restrict access to their savings or incorrectly conclude that their overseas income makes them ineligible.
+
+The available evidence does not establish that individual customers were rejected by Issa Compass on these grounds.
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -658,3 +692,11 @@ The available evidence does not establish that customers were promised formal pe
 [^32]: https://chiangsaen.immigration.go.th/wp-content/uploads/2025/03/2.2คำแนะนำอังกฤษ-2567.pdf — Immigration Bureau permanent residence application guidelines, Section 1.1.
 
 [^33]: `https://www.issacompass.com/insights/how-to-apply-for-permanent-residency-in-thailand` — Issa Compass permanent residency guide.
+
+[^34]: `https://www.issacompass.com/insights/thailand-marriage-visa-cost-guide-financial-requirements-government-fees-and-wha` — Kat Hewett, updated November 14, 2026.
+
+[^35]: `https://www.issacompass.com/insights/thai-marriage-visa-requirements-2026` — Ana Liangsupree, updated October 18, 2026.
+
+[^36]: https://www.thailand.go.th/issue-focus-detail/001_01_124-2 — Official government guidance concerning extensions for foreign family members of Thai nationals.
+
+[^37]: https://phitsanulok.immigration.go.th/คู่มือการให้บริการประชาชน/ — Immigration Bureau public handbook, Section 18.
