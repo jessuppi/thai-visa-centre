@@ -257,6 +257,59 @@ The available documents establish that AGENTS publicly claims official recogniti
 
 The [related Thailand Pass investigation](tp.in.th.md) documents the agency's contemporaneous promotion of expedited application assistance, government warnings concerning unofficial registration websites, and the subsequent transition to automatic QR-code issuance.
 
+## Historical Customer Data Reuse and Immigration Marketing
+
+Historical consumer discussions raise questions about whether personal information collected through pandemic-era travel services was subsequently used to promote Thai Visa Centre's immigration services.
+
+### November 2021: Reports of Unexpected Marketing Emails
+
+A community discussion dated November 8, 2021, subsequently republished on Ask Thailand, concerns a traveler who reported receiving an unexpected marketing email after making inquiries concerning flights, insurance, and accommodation.[^6]
+
+Several participants reported receiving similar messages.
+
+Some contributors associated the emails with the use of AQ.in.th or ASQ.in.th, while others suggested that hotels or insurance providers might have supplied customer information.
+
+These explanations remain unverified.
+
+The republished discussion is particularly significant because Ask Thailand is maintained by Thai Visa Centre itself. The page also incorporates separate testimonials and promotional material advertising the agency's immigration services.
+
+### May 2022: Marketing Email Referenced an Earlier AQ.in.th Booking
+
+On May 4, 2022, a traveler reported on Reddit receiving an email from an address using the `thaivisacentre.com` domain offering visa extensions and other immigration services.[^7]
+
+The traveler specifically stated:
+
+> In the email they reference AQ.in.th, where I booked my Test and Go package.
+
+According to the account, the agency also requested immigration documentation, including passport photographs and information concerning the customer's existing visa.
+
+Unlike the earlier discussion, which contains competing explanations about the source of customer information, this account describes a marketing communication explicitly referencing an earlier transaction with the associated quarantine-booking platform.
+
+The original email and its transmission records have not been independently obtained.
+
+### Subsequent Privacy Assurances
+
+AGENTS CO., LTD.'s July 2024 Privacy Policy on ASQ.in.th expressly states that personal information will not be used in a materially different manner from that originally disclosed without the individual's consent.[^8]
+
+The policy retains `contact@aq.in.th` as its contact address.
+
+However, this later document does not establish which privacy disclosures or marketing-consent arrangements applied to AQ.in.th customers during 2021 and 2022.
+
+### Unresolved Commercial Use of Historical Customer Records
+
+The documented accounts raise questions about whether information obtained through quarantine accommodation bookings was incorporated into a broader immigration-services marketing database.
+
+Relevant unresolved questions include:
+
+- Whether customers separately agreed to receive visa-service promotions.
+- Whether historical booking records were transferred between associated businesses.
+- Whether customer information remained in commercial marketing databases after Thailand Pass was abolished.
+- Which registered company controlled those records.
+
+The available evidence does not establish unlawful data transfers, the sale of customer information, or the number of affected travelers.
+
+Nevertheless, **historical consumer reports indicate that the commercial relationship between AQ.in.th and Thai Visa Centre extended beyond travel-booking assistance into subsequent immigration marketing.**
+
 ## Related Records
 
 - [Anybody used AQ.in.th? (January 2022)](../threads/2022-01-01-reddit-anybody-used-the-aq-in-th.md)
@@ -278,3 +331,6 @@ The [related Thailand Pass investigation](tp.in.th.md) documents the agency's co
 [^3]: https://agents.co.th/ — Corporate information and travel-business licence disclosure.
 [^4]: https://www.dataforthai.com/company/0115562031107/ — AGENTS CO., LTD. corporate registration and business activities.
 [^5]: https://image.mfa.go.th/mfa/0/zE6021nSnu/%E0%B8%81%E0%B8%AD%E0%B8%87_0302/Thailand_Pass_FAQs_THAI-ENG__18_Apr_2022_12.00.pdf — Ministry of Foreign Affairs, Thailand Pass FAQs, April 18, 2022, Q1, question 2, page 1.
+[^6]: `https://asq.in.th/question/how-did-my-personal-details-get-shared-after-booking-flights-insurance-and-accommodation-in-thailand` — Republished community discussion dated November 8, 2021, preserved in an indexed historical capture.
+[^7]: https://www.reddit.com/r/ThailandTourism/comments/ui8lrq/ — *Extending Visa via "Thai Visa Centre"*, May 4, 2022.
+[^8]: `https://asq.in.th/policy/privacy` — AGENTS CO., LTD. Privacy Policy, last updated July 16, 2024.
