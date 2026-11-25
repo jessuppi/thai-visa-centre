@@ -70,6 +70,38 @@ Nevertheless, the recurring promotional coverage and direct links to affiliated 
 
 The documented publishing pattern establishes a basis for examining editorial independence without requiring an unverified conclusion about the publisher's legal ownership.
 
+## Corporate Press-Release Material Presented as Editorial Coverage
+
+A comparison of THAI.NEWS's May 9, 2025 article and The Thaiger's June 13, 2025 press release concerning AGENTS CO., LTD. reveals substantially overlapping commercial messaging.[^3][^7]
+
+Both publications repeat the following claims:
+
+- More than 99% of customers received their TDACs without delay during the May 7 government website disruption.
+- Applications are typically processed within one to five minutes.
+- Draft applications remain available indefinitely unless deleted.
+- AGENTS complies fully with Thailand's Personal Data Protection Act (PDPA).
+- Thai commercial domain extensions provide reassurance concerning provider legitimacy.
+
+Neither publication identifies independent supporting records for the reported performance statistics or a regulatory assessment establishing the company's claimed PDPA compliance.
+
+### Different Editorial Disclosures
+
+The Thaiger explicitly identifies its publication as a press release at the end of the article.
+
+THAI.NEWS instead publishes substantially similar commercial claims under its generic Editorial Team byline, without an identifiable press-release or sponsorship disclosure in the reviewed version.
+
+The publication dates establish that THAI.NEWS distributed this promotional messaging more than a month before The Thaiger.
+
+### Implications for Independent Verification
+
+The similarities are significant because favorable coverage across multiple news websites could create an impression of independent corroboration.
+
+However, repetition of substantially identical corporate claims does not constitute independent verification of those claims.
+
+The available evidence does not establish which organization originally prepared the promotional material, whether THAI.NEWS received compensation, or whether the publishers coordinated their coverage.
+
+Nevertheless, the overlapping messaging and different editorial disclosures provide further grounds for questioning the independence of THAI.NEWS's coverage of AGENTS CO., LTD.
+
 ## References
 
 [^1]: `https://thai.news/news/thailand/how-to-select-a-trustworthy-visa-agency-in-thailand`
@@ -78,3 +110,5 @@ The documented publishing pattern establishes a basis for examining editorial in
 [^4]: `https://thai.news/news/thailand/thailand-digital-arrival-card-tdac-new-agents-update-hotel-drop-off`
 [^5]: `https://thai.news/news/thailand/thailand-90-day-reporting-service-by-agents`
 [^6]: https://tdac.immigration.go.th/manual/en/faq.html
+
+[^7]: `https://thethaiger.com/travel/thailand-travel/apply-for-your-tdac-early-today-with-agents` — Press release published June 13, 2025.
