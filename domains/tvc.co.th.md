@@ -10079,6 +10079,20 @@ The company's guides additionally advertise processing times of three to ten bus
 
 The Vientiane guide also incorrectly presents legal residency as a general eligibility requirement, confusing physical presence with category-specific residency conditions. Revised DTV requirements effective August 31, 2026, separately require applicants to be nationals or permanent residents of the country of application.[^646]
 
+### Cambodia: Incorrect Residency Requirements and Processing Times
+
+Thai Visa Centre's Phnom Penh guide explicitly identifies legal residency in Cambodia as a prerequisite for applying for Thai visas, excluding ordinary foreign visitors.[^648]
+
+However, the Royal Thai Embassy in Phnom Penh expressly acknowledges applications from foreigners traveling to Cambodia specifically to obtain Thai visas. Its nationality-specific instructions also establish procedures for processing applications from non-residents.[^649][^650]
+
+The company's guide advertises tourist visa processing times of three to ten business days, while its separate visa-processing FAQ advertises an even shorter timeframe of two to five days.[^651]
+
+The embassy specifies ten working days, excluding the submission date, with expedited processing reserved for documented medical or family emergencies.[^649]
+
+The same Thai Visa Centre FAQ further contradicts official processing timelines in Laos and Malaysia, advertising one to three days for Vientiane and Savannakhet and three to seven days for Kuala Lumpur.
+
+These discrepancies demonstrate that the company's inaccurate processing estimates extend across multiple publications rather than being confined to individual embassy guides.
+
 ### Commercial Significance of the Consular Guidance Errors
 
 Thai Visa Centre claims to have verified official sources in June 2026 while advertising professional assistance with applications at these diplomatic missions.
@@ -11194,3 +11208,11 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^646]: https://vientiane.thaiembassy.org/en/page/applying-for-a-visa
 
 [^647]: https://savannakhet.thaiembassy.org/th/page/104407-applying-for-visa%3Fmenu%3D5d84a44c15e39c26b400453c
+
+[^648]: `https://tvc.co.th/embassies/thai-embassy-in-phnom-penh-cambodia`
+
+[^649]: https://phnompenh.thaiembassy.org/en/publicservice/general-information-for-visa-applicants
+
+[^650]: https://phnompenh.thaiembassy.org/en/publicservice/additional-documents-required-for-citizens-from-certain-countries
+
+[^651]: `https://tvc.co.th/faq/how-long-to-obtain-a-thai-visa`
