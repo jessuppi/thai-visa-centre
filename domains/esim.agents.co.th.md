@@ -48,6 +48,26 @@ Although the terms establish Thai law and Bangkok courts as the applicable juris
 
 **Businesses depositing funds should be able to identify precisely which registered company holds their money and is responsible for honoring contractual obligations.**
 
+### Upfront Payment Obligations and Undisclosed Pricing Details
+
+AGENTS promotes its wholesale eSIM platform to travel agencies using the assurance:
+
+> No upfront commitment, no inventory to manage. Pay only for what you sell.[^8]
+
+However, Section 6 of its Terms of Service requires purchases to be made against prepaid account balances, with unused funds generally refundable only at the company's discretion.[^3]
+
+Although the absence of a minimum order quantity reduces inventory commitments, it does not eliminate the financial obligations associated with depositing funds into the platform.
+
+The hotel-specific promotional page also advertises transparent pricing without hidden fees.[^7]
+
+However, the public API documentation includes an illustrative payment transaction containing a 140-baht processing fee and 187 baht in VAT within a 5,000-baht payment.[^5]
+
+The example credits the full 5,000 baht to the customer's wallet, leaving the precise commercial treatment of these charges unclear.
+
+The public promotional material does not explain the applicable processing-fee schedule, minimum account deposits, or potential deductions from refunded balances.
+
+**Wholesale customers should be informed of these financial conditions before transferring funds to the platform.**
+
 ## Identity Documents and Personal Data Retention
 
 The platform requires wholesale customers to undergo Know Your Customer (KYC) verification.
