@@ -62,6 +62,34 @@ The current publisher should clarify whether previously published promotional im
 
 **The issue is not the mere publication of sponsored material, but whether readers can readily distinguish commercial immigration promotions from independently researched consumer guidance.**
 
+### Advertising Verification Versus Contractual Disclaimers
+
+The Thaiger's separate Content and Advertising Guidelines establish mandatory editorial review of commercial material before publication.[^18]
+
+Section 5 requires advertisers to provide valid documentary evidence of applicable licences and permits. It also authorizes the publisher to remove misleading advertisements and report serious violations to relevant authorities.
+
+However, Section 2.1 of The Thaiger's Terms of Use expressly disclaims verification, endorsement, and responsibility for third-party content, including advertisements.[^10]
+
+**The publisher therefore promises editorial scrutiny in its advertising guidelines while disclaiming verification of advertising content in its agreement with readers.**
+
+### Application to AGENTS' Promotional Claims
+
+The Thaiger's June 13, 2025 promotional article concerning AGENTS' commercial TDAC platform claimed that more than 99% of customers received their arrival cards without delay during a government-system outage. It also asserted full compliance with Thailand's Personal Data Protection Act.[^3]
+
+Its September 24, 2025 sponsored article similarly claimed that AGENTS' customer information was hosted on ISO 27001-certified infrastructure and that its telecommunications integration guaranteed access to Thailand's fastest networks.[^4]
+
+Neither article identifies an independent performance assessment, security auditor, certification number, or regulatory determination supporting these assurances.
+
+The distinction between certified hosting infrastructure and certification of the commercial application itself is also left unexplained.
+
+These claims concern the reliability and security of a private intermediary collecting travelers' passport information and immigration declarations.
+
+Under The Thaiger's currently published advertising guidelines, such material is subject to editorial review rather than automatic acceptance of advertiser-supplied assurances.
+
+The publisher should clarify what documentary evidence supported these promotional claims, whether its current advertising standards have been applied retrospectively to existing publications, and how its editorial review requirements are reconciled with its contractual disclaimers.
+
+**Readers should not mistake the publication of commercial security and compliance assurances by a news organization for independent verification of those assurances.**
+
 ## June 2019 Investigation Into Undisclosed Visa-Agent Commissions
 
 On June 13, 2019, The Thaiger published an article examining the commercial network surrounding Thai visa applications in Penang, Malaysia.[^9]
@@ -154,3 +182,5 @@ Nevertheless, prospective customers should be able to identify the businesses re
 [^16]: `https://thethaiger.com/visas/services/overstay/` — Immigration overstay enquiry form.
 
 [^17]: `https://thethaiger.com/privacy` — Privacy Policy, updated November 25, 2026, Section 4.2.
+
+[^18]: `https://thethaiger.com/advertise/the-thaiger-content-and-advertising-guidelines/` — The Thaiger Content and Advertising Guidelines, particularly Sections 1, 3.5 and 5, reviewed November 26, 2026.
