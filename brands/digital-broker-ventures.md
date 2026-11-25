@@ -73,6 +73,32 @@ The group's historical business model does not independently establish that part
 
 That documented strategy is relevant when evaluating the distinction between independent editorial coverage and commercial promotion within the broader publishing network.
 
+## Tadoo's Origins Within The Thaiger's Publishing Business
+
+Digital Broker Ventures' corporate portfolio identifies Tadoo as having originated within The Thaiger's Thai-language news operation before developing into an online comparison and transaction platform covering insurance, finance, telecommunications, and other consumer products.[^8]
+
+This disclosure provides important additional context for The Thaiger's subsequent promotion of Tadoo's commercial immigration services.
+
+### Shared Commercial Network
+
+On September 13, 2021, The Thaiger announced a digital entrepreneurship summit hosted by its co-founder Michael Kenner.
+
+The advertised participants included FazWaz co-founder Brennan Campbell and Tadoo co-founder and CEO Sapir Matmon, representing two businesses included in Digital Broker Ventures' portfolio.[^9]
+
+On November 3, 2021, The Thaiger promoted Tadoo's partnership with TMT Visa Services Phuket for commercial education visa packages.[^10]
+
+Although this promotional article identified Tadoo as a longstanding trusted partner, it did not explain that Tadoo had originated within The Thaiger's own publishing operation.
+
+### Commercial Significance
+
+These disclosures establish a historical connection between Digital Broker Ventures' media operations, consumer comparison platforms, and commercial immigration referrals.
+
+The precise shareholding arrangements, referral compensation, and division of revenue between the participating businesses remain unverified.
+
+Nevertheless, Tadoo's documented origins demonstrate that The Thaiger's historical immigration promotions extended beyond advertising unrelated external businesses.
+
+This relationship provides additional context for evaluating the publisher's subsequent immigration referral activities and the transparency of its commercial recommendations.
+
 ## References
 
 [^1]: `https://thethaiger.com/about-us-2`
@@ -82,3 +108,9 @@ That documented strategy is relevant when evaluating the distinction between ind
 [^5]: `https://dbventures.io/about/` — Corporate strategy describing shared resources, publishing advantages, search-engine backlinks, and audience targeting.
 [^6]: `https://dbventures.io/portfolio/fazwaz-group/` — FazWaz portfolio description documenting property-content development and collaboration with The Thaiger.
 [^7]: `https://dbventures.io/news/preparing-for-2020/` — Historical corporate update describing readership growth and commercial opportunities across the portfolio.
+
+[^8]: `https://dbventures.io/portfolio/tadoo/` — Digital Broker Ventures' corporate description of Tadoo's origins.
+
+[^9]: `https://thethaiger.com/sponsored/the-thaiger-digital-summit-seven-thai-tech-start-ups-speak-out` — September 13, 2021.
+
+[^10]: `https://thethaiger.com/sponsored/tmt-education-visa-pr` — November 3, 2021.
