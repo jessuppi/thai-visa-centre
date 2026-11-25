@@ -177,6 +177,57 @@ However, the available material does not establish how long the earlier statemen
 
 The corrections should therefore be preserved as part of the historical record without presenting the superseded guidance as information that remains currently published.
 
+## Misleading 90-Day Reporting Guidance and Commercial Referrals
+
+The dedicated 90-day reporting guide published on `dtv.in.th` promotes the affiliated [90day.in.th](90day.in.th.md) service, charging 500 baht for individual reports or 375 baht per report through prepaid packages.[^12]
+
+The guide presents paid assistance as particularly beneficial for DTV holders who frequently travel internationally.
+
+### Omitting Alternative Reporting Methods
+
+The website presents personal attendance at an immigration office and its own commercial service as the alternatives available to DTV holders unable to report online.
+
+However, the Immigration Bureau identifies four reporting methods:
+
+- Personal attendance at immigration.
+- Submission through an authorized representative.
+- Submission by registered post.
+- Online submission, subject to eligibility.[^13]
+
+The official instructions also describe the documentation and postage requirements for postal submissions.
+
+Although individual immigration offices may impose procedural conditions, the commercial guide does not explain these additional alternatives.
+
+### Unsupported Restrictions on Online Reporting
+
+The website claims that every departure and subsequent re-entry into Thailand resets online reporting eligibility.
+
+It further identifies an in-country DTV extension as the sole exception allowing subsequent online reporting.
+
+However, the reviewed Immigration Bureau instructions distinguish the resetting of the 90-day reporting period from eligibility to use the online system.
+
+They also describe procedures for restoring online reporting eligibility following a passport replacement without requiring a DTV extension.[^13]
+
+The operator does not identify an official DTV-specific regulation establishing its claimed exclusive exception.
+
+Actual online reporting eligibility may depend on immigration records, local procedures, and system limitations. Nevertheless, the website's categorical restrictions are not substantiated by the official instructions reviewed.
+
+### Frequent Travelers May Not Need to Report
+
+The Immigration Bureau confirms that departure from Thailand resets the calculation of the 90-day reporting period upon re-entry.[^13]
+
+Consequently, DTV holders who leave Thailand before their reporting obligation becomes due may not need to submit a report during that particular stay.
+
+This qualification is particularly relevant because the website markets prepaid reporting packages to frequent international travelers without clearly explaining how their travel patterns affect the reporting obligation.
+
+### Commercial Significance
+
+The guide demonstrates how the DTV information website directs prospective immigration customers toward additional paid services operated within the same commercial network.
+
+The available evidence does not establish that commercial proxy reporting is unlawful or that the service provides no legitimate convenience.
+
+However, the omission of alternative reporting methods and the unsupported restrictions on online eligibility create an incomplete presentation of customers' available options.
+
 ## References
 
 [^1]: `https://dtv.in.th/`
@@ -192,6 +243,9 @@ The corrections should therefore be preserved as part of the historical record w
 
 [^10]: https://consular.mfa.go.th/th/content/28-8-69-00 — Department of Consular Affairs, August 2026 announcement concerning revised DTV documentation requirements.
 [^11]: https://osaka.thaiembassy.org/en/content/announcement-updated-requirements-dtv — Royal Thai Consulate-General, Osaka, August 28, 2026.
+
+[^12]: `https://dtv.in.th/90-day-reporting` — 90-day reporting guide and commercial service promotion, accessed November 25, 2026.
+[^13]: https://uttaradit.immigration.go.th/การรับแจ้งอยู่ในราชอาณา/ — Uttaradit Immigration, official reporting methods, online eligibility instructions, and reporting-period calculations.
 
 ### Additional Existing Sources
 
