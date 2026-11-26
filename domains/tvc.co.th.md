@@ -4810,6 +4810,32 @@ Nor does its service page explicitly instruct permanent residents to use TM8 ins
 
 TVC should identify the TM13 endorsement and applicable TM22 requirements, distinguish them from ordinary TM8 permits, and explain the one-year return requirement under the Immigration Act.
 
+### November 2026 Update: TVC Corrects Application Dates but Introduces Inaccurate Fee Guidance
+
+By November 27, 2026, Thai Visa Centre had substantially rewritten its principal permanent-residency service page, incorporating information from its expanding legal archive.[^158][^663]
+
+The revised publication correctly identifies the March 9–April 3, 2026 application period for the 2025 permanent-residency quota and acknowledges that applications must be submitted using Form TM.9 rather than through Thailand's e-Visa portal.
+
+However, the rewrite introduces another discrepancy by replacing previously accurate government fee information with the higher statutory figures reproduced in its legal archive.
+
+| Government charge | Previously advertised fee | Revised advertised fee |
+|---|---:|---:|
+| Application | 7,600 baht | 8,000 baht |
+| Standard residence certificate | 191,400 baht | 200,000 baht |
+| Reduced residence certificate | 95,700 baht | 100,000 baht |
+
+Thai Visa Centre's own November 22, 2026 archive of Bangkok Immigration's official fee schedule confirms the lower operational charges.[^672]
+
+**In rewriting its permanent-residency service page, Thai Visa Centre has corrected certain historical inaccuracies while replacing previously accurate fee information with misleading figures.**
+
+Meanwhile, its separate permanent-residency application guide continues directing applicants toward embassies and the e-Visa portal, warning about a December deadline, and including ordinary temporary-stay compliance instructions in its post-approval guidance.[^159]
+
+That publication now incorporates fifteen legal references without resolving these fundamental procedural errors.
+
+The contradictory instructions demonstrate why expanding a legal archive and adding statutory citations cannot substitute for properly reviewing the accuracy of customer-facing immigration advice.
+
+The precise timing and motivation behind these revisions remain unverified. The evidence does not establish that TVC has collected excessive government fees from individual customers.
+
 ## Marriage and Retirement Visa Pages Give Incorrect Renewal Instructions
 
 Thai Visa Centre's commercial marriage-visa and retirement-visa pages contain incorrect instructions concerning annual extensions of stay.
