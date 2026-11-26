@@ -8,6 +8,34 @@ The company's [agents.co.th](agents.co.th.md) website also identifies `asq.in.th
 
 These records establish the company's stated contractual role and the shared contact information. They do not independently establish legal ownership of either domain during the earlier pandemic period.
 
+## March–July 2021 Commercial Travel Communities
+
+On March 29, 2021, Thai Visa Centre used its designated Forum Sponsor account on ThaiVisa.com to promote its ASQ hotel-booking platform and an associated Facebook community named **ASQ Hotels & Reviews**.[^16]
+
+The agency explicitly described both the website and Facebook group as its own operations, claiming that its platform contained more than 200 genuine reviews from travelers who had experienced quarantine accommodation.
+
+In a subsequent contribution, Thai Visa Centre linked to a hotel announcement within the Facebook group while discussing changing government quarantine requirements.
+
+This establishes a publicly acknowledged connection between the visa agency, the commercial accommodation platform, and the Facebook community at that time.
+
+### Commercial Insurance and Accommodation Recommendations
+
+On July 30–31, 2021, Thai Visa Centre participated in another forum discussion concerning the reliability of accommodation packages advertised through ASQ.in.th.[^17]
+
+The agency provided detailed advice concerning hotel prices, airport transportation, booking requests, immigration requirements, and travel insurance.
+
+Its recommendations included insurance products from SafetyWing and TuneProtect, with the latter reportedly costing 5,300 baht for 60 days.
+
+The published discussion does not disclose whether the agency received commissions from either insurance provider.
+
+### Historical Significance
+
+**Thai Visa Centre was already combining community management, customer reviews, travel advice, and commercial service recommendations in 2021.**
+
+This predates its acquisition of the Thai Visa Advice Facebook group in March 2022 and provides historical context for the subsequent development of ASQ.in.th into the Ask Thailand community-content aggregation platform.
+
+The agency's own statements establish its historical operation of the ASQ Facebook community, although the group's subsequent ownership history and the extent to which its original content was incorporated into Ask Thailand remain unverified.
+
 ## Aggregation of Facebook Discussions and Reuse of Community Content
 
 The `asq.in.th` website operates as **Ask Thailand**, a question-and-answer platform that republishes and organizes discussions from Thailand-focused online communities. Its About page claims to aggregate **millions of responses** from multiple communities covering immigration, visas, housing, banking, and expatriate life. The platform explicitly identifies [Thai Visa Centre](../brands/thai-visa-centre.md) as its maintainer and describes an associated community network with more than 200,000 combined members. These audience and content-volume claims are published by the operator and have not been independently verified.[^1]
@@ -207,3 +235,7 @@ The operator should clarify its link-redaction policies, comment-deduplication p
 [^14]: `https://thim.in.th/` — Commercially affiliated immigration guide and TDAC service referrals.
 
 [^15]: https://tdac.immigration.go.th/manual/en/faq.html — Immigration Bureau, official TDAC guidance.
+
+[^16]: https://aseannow.com/topic/1211822-tm-30-visas-and-asq-hotels/ — ThaiVisaCentre, March 29, 2021, acknowledgment of the ASQ platform and associated Facebook community.
+
+[^17]: https://aseannow.com/topic/1225576-has-anyone-used-asqinth-to-book-a-sandbox-hotel-package-and-can-anyone-confirm-the-page-info-is-correct-about-eligibility-requirements-that-some-of-the-low-prices-arent-a-scam/ — ThaiVisaCentre, July 30–31, 2021.
