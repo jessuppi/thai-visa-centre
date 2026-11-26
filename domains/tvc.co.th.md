@@ -2001,6 +2001,31 @@ It does establish that the same material error appears across multiple pages cla
 The central question is why an agency whose business depends on understanding retirement-visa requirements continues publishing obsolete insurance figures nearly five years after the government increased the required coverage.
 
 
+### November 2026 Update: TVC's Own Legal Archive Confirms Its Retirement Insurance Advice Is Incorrect
+
+By November 2026, Thai Visa Centre had expanded its website to include an extensive legal archive featuring government regulations, Royal Gazette publications, and explanatory guides covering Thai immigration and expatriate affairs.
+
+Notably, its dedicated guide concerning mandatory health insurance and Social Security correctly acknowledges the revised insurance requirements for Non-Immigrant O-A retirement visas.[^677]
+
+The archive explicitly identifies Royal Thai Police Order 548/2562 as superseded by Royal Thai Police Order 654/2564 and correctly distinguishes between the insurance requirements applicable to O-A and O-X visa holders.
+
+| Visa category | Requirements acknowledged in TVC's legal archive |
+|---|---|
+| Non-Immigrant O-A | 3 million baht or US$100,000 |
+| Non-Immigrant O-X | 40,000 baht outpatient and 400,000 baht inpatient |
+
+However, as of November 27, 2026, the company's dedicated retirement insurance guide, general health insurance guide, and health insurance FAQ continued presenting the superseded insurance thresholds as applicable to O-A applicants.[^83][^84][^85]
+
+**Thai Visa Centre is now publishing the very regulations that contradict its own professional immigration advice.**
+
+While expanding public access to Thai immigration legislation is potentially useful, publishing an extensive legal archive does not compensate for continuing to distribute materially incorrect advice to prospective paying customers.
+
+The contradiction is particularly concerning given that Thai Visa Centre promotes its expertise in retirement applications and insurance compliance, while warning customers that inadequate insurance documentation can result in application delays or refusals.
+
+The company should prioritize correcting its existing commercial guidance rather than allowing contradictory information to coexist across its expanding website.
+
+Whether this inconsistency results from inadequate editorial oversight, automated content production, or another cause remains unverified. Nevertheless, the company is responsible for the accuracy of the immigration advice published under its brand.
+
 ## Inflated Government Visa Fees and Contradictory Service Prices
 
 Thai Visa Centre publishes substantially inaccurate financial comparisons in its guide *Thai Elite Visa Cost: Thailand Privilege Membership Fees, Family Add-ons, Hidden Costs*.
@@ -11581,3 +11606,5 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^675]: https://tvc.co.th/law/privilege — Separate legal guide describing the special employment-related immigration arrangement.
 
 [^676]: https://tvc.co.th/law/smart — SMART Visa legal guide, including its plain-English explanation and 57-document reference table, reviewed November 27, 2026.
+
+[^677]: https://tvc.co.th/law/health-insurance-sso — Mandatory health insurance and Social Security, including its 13-document legislative reference table. Reviewed November 27, 2026.
