@@ -4947,6 +4947,30 @@ Nevertheless, its published checklists omit distinctions that directly affect th
 
 TVC should explain the separate requirements under Clauses 2.18(6) and 2.18(7), distinguish initial Non-Immigrant O visa applications from annual extensions of stay, and stop presenting the foreign-husband financial test as a universal requirement for every foreign spouse.
 
+### November 2026 Update: TVC Revises Its Marriage Visa Advertising but Retains Misleading Financial Instructions
+
+By November 27, 2026, Thai Visa Centre had substantially rewritten its principal marriage-visa service page.[^162]
+
+The revised publication removes the previously incorrect TM47 renewal instructions and acknowledges that Immigration Bureau Order 12/2568 establishes specific financial requirements for foreign husbands married to Thai women.
+
+Its expanding legal archive also includes a dedicated marriage-stay guide supported by 59 legislative and official references.[^683]
+
+However, the company's separate marriage-visa FAQ continues presenting the 400,000-baht deposit or 40,000-baht monthly income requirement as generally applicable to foreign spouses.[^210]
+
+The FAQ now incorporates fifteen official legal references, including Immigration Bureau Order 12/2568, without adequately explaining the separate financial provisions applicable to foreign wives and gender-diverse marriages.
+
+**Thai Visa Centre has revised its principal commercial publication while leaving materially inconsistent financial instructions elsewhere on its website.**
+
+The discrepancy is financially significant because the company advertises professional document reviews, bank-account assistance, and marriage-based extensions.
+
+Customers relying on its generalized financial checklist could incorrectly conclude that transferring or maintaining 400,000 baht in their own Thai bank account is compulsory for their particular application category.
+
+Notably, the FAQ continues identifying June 2026 as its last review date despite incorporating references to government measures published as recently as November 2026.
+
+The addition of recent legislative references therefore does not establish that the underlying commercial advice has received an equally thorough substantive review.
+
+The precise timing and motivation behind the revisions remain unverified, as does whether individual customers incurred unnecessary expenses because of the earlier instructions.
+
 ## Business Visa Page Incorrectly Requires Applicants to Leave Thailand
 
 Thai Visa Centre advertises professional assistance with Non-Immigrant B visas, including business sponsorship, employment documentation, visa extensions, and work-permit coordination.
@@ -11778,3 +11802,5 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^681]: https://tvc.co.th/id/law/documents/work-boi-ltr-faq — Indonesian-language edition of Thai Visa Centre's archived BOI LTR FAQ, explicitly identifying November 22, 2026 as the capture date. Retrieved November 27, 2026.
 
 [^682]: https://tvc.co.th/law/documents/deep-dtv-consular-dtv-tightening-aug-2026 — Department of Consular Affairs announcement dated August 28, 2026, captured by Thai Visa Centre on November 22, 2026. Retrieved November 27, 2026.
+
+[^683]: https://tvc.co.th/law/marriage — Thai Visa Centre's marriage-stay legal guide, including its 59-document reference table and explanation of Immigration Bureau Order 12/2568. Retrieved November 27, 2026.
