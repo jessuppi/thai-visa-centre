@@ -102,6 +102,28 @@ On August 16, 2023, an ASEAN NOW member asked whether a Bangkok visa agent's 35,
 
 Other participants questioned the legality of obtaining retirement extensions without satisfying the financial requirements, and one suggested that the described services resembled Thai Visa Centre's offerings. DrJack54 later acknowledged that the applicant already held a Non-O visa and advised that anyone able to deposit the required funds could handle the extension independently.[^13]
 
+## December 2023: Referral Following a Retirement Extension Refusal
+
+On December 19, 2023, ASEAN NOW participant **likerdup1** reported being refused a retirement extension at Chaeng Watthana because he lacked a one-year residential lease.[^33]
+
+DrJack54 questioned the additional documentation requirement and suggested that an immigration agency might assist the applicant.
+
+The participant subsequently described rejecting an unnamed agency's proposed alternative address arrangement and expressed a preference for an agency with established relationships with immigration officers.
+
+Responding directly to that contribution, DrJack54 stated:
+
+> Contact @ThaiVisaCentre
+>
+> They can explain the lease issue.
+
+### Significance of the Referral
+
+The exchange documents another instance of DrJack54 directing an applicant experiencing difficulties with immigration requirements toward Thai Visa Centre, an established commercial sponsor of the forum.
+
+The referral is particularly relevant to subsequent discussions concerning Thai Visa Centre's handling of residential documentation and retirement extensions.
+
+However, DrJack54 did not expressly endorse falsifying residential documents or making improper payments. The discussion does not establish that Thai Visa Centre accepted the applicant's case, circumvented documentation requirements, or obtained an extension.
+
 ## August–September 2024: Inviting Thai Visa Centre to Explain Airport Fast-Track Services
 
 On August 31, 2024, an ASEAN NOW discussion about repeated visa-exempt entries turned to the possibility of travelers using paid assistance when facing additional immigration scrutiny. DrJack54 asked another member to identify agents offering airport "meet and greet" services. When fellow Global Moderator BrandonJT identified Thai Visa Centre as offering assistance at Bangkok and Phuket airports, DrJack54 directly tagged the agency's forum account and asked it to explain the available arrangements and costs.[^21]
@@ -252,3 +274,5 @@ Other participants pointed out that Thailand's immigration application form prov
 [^31]: https://aseannow.com/topic/1255044-extension-of-stay-with-activecurrent-covid-infection/page/2/ — ThaiVisaCentre and claudioc, March 30–31, 2022.
 
 [^32]: https://aseannow.com/topic/1204630-volunteer-visa-and-nationality/ — DrJack54 and ThaiVisaCentre, February 3–4, 2021.
+
+[^33]: https://aseannow.com/topic/1314718-refused-first-1-year-extension-of-stay-on-non-o-retirment-visa-at-cw-today/ — likerdup1 and DrJack54, December 19, 2023.
