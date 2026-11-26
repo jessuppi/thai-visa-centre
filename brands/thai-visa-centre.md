@@ -206,6 +206,36 @@ Corporate records identify the company's registered office as **91/11 Moo 15, Ba
 
 Thai Visa Centre's own website describes its physical visa operations as being run by **"Thai Visa Centre"**, while identifying Agents Co., Ltd. as responsible for digital services. It does not clearly identify TVC. Visa Agent Co., Ltd. as the legal operator of its physical agency. The timing of the company's incorporation, its shared address, and the agency's ambiguous explanation of its corporate structure raise questions about **which registered entity assumed responsibility for the Thai Visa Centre operation following the August 2020 police raid**.[^3][^27][^28]
 
+## Post-Raid Volunteer Visa Services and Subsequent Customer Complaints
+
+Thai Visa Centre's own published customer review archive documents the continuation of commercial volunteer visa assistance following the August 2020 police raid.
+
+On March 7, 2021, a Facebook review attributed to **Scott D.** described obtaining a one-year volunteer visa through Thai Visa Centre. The customer reported that the agency completed the process and returned his passport using its own courier service within approximately seven working days.[^91]
+
+On September 21, 2021, a Google review attributed to **Iurii U.** similarly reported obtaining a one-year volunteer visa through the agency.[^92]
+
+Both testimonials remain published as favorable customer endorsements on Thai Visa Centre's website.
+
+### Subsequent Complaint Concerning Volunteer Organization Registration
+
+An October 3, 2024 RaiYai forum post reproduced a customer complaint describing a three-month immigration extension purchased from Thai Visa Centre for 25,000 baht.[^93]
+
+The complainant alleged that immigration officers subsequently identified the volunteer organization associated with the application as nonexistent and questioned the legality of the arrangement.
+
+The customer also described extensive questioning upon returning to Thailand approximately two years later, although immigration officers ultimately permitted entry.
+
+An earlier February 2023 Reddit discussion similarly documented prospective Thai Visa Centre customers expressing concerns about the validity of their immigration stamps and the agency's recommendation that customers purchase additional airport immigration assistance.[^94]
+
+### Historical Significance
+
+**Thai Visa Centre's own published testimonials indicate that the agency continued providing volunteer visa assistance after the August 2020 police raid and during the period subsequently investigated by Thai authorities over improperly issued volunteer and business visas.[^90]**
+
+These endorsements emphasize processing speed, convenience, and successful issuance rather than the underlying charitable activities.
+
+The subsequent customer complaint illustrates the potential distinction between obtaining an immigration stamp and establishing the legitimacy of the underlying eligibility documentation.
+
+The testimonials do not establish whether their authors undertook genuine voluntary work, and the later customer's allegations have not been independently verified.
+
 ## March 2021 Employee Theft Allegations and Customer Payments
 
 On March 10, 2021, [The Thaiger](the-thaiger.md) reported that [Thai Visa Centre](thai-visa-centre.md) had publicly accused former employee **Asim Muhammad Mehran** of stealing money from customers and colleagues. The agency alleged that Mehran directed some customers to communicate with him privately rather than through its official LINE account or email address, and claimed that a family seeking to enter Thailand had lost **130,000 baht**.[^57]
@@ -779,3 +809,11 @@ Individual examples, original publications, and supporting legal sources are doc
 [^89]: https://thaiconsulatela.thaiembassy.org/en/publicservice/non-immigrant-type-o-volunteer — Royal Thai Consulate-General, Los Angeles, published December 8, 2021, updated November 30, 2023.
 
 [^90]: https://www.thephuketnews.com/over-100-cops-to-be-charged-over-illegal-visas-87084.php — Bangkok Post reporting republished by The Phuket News, February 7, 2023.
+
+[^91]: `https://tvc.co.th/reviews?page=27` — Facebook review attributed to Scott D., dated March 7, 2021.
+
+[^92]: `https://tvc.co.th/reviews/review/b7c96544-7427-43fc-b1ca-fb5a4e2cfde4` — Google review attributed to Iurii U., dated September 21, 2021.
+
+[^93]: https://www.raiyai.com/forum/topic/be-careful-using-thai-visa-centre-agency/ — Customer complaint reproduced on October 3, 2024.
+
+[^94]: https://www.reddit.com/r/Thailand/comments/114we6a/comment/jgle27a/ — February 2023 discussion concerning Thai Visa Centre, immigration documentation, and commercial airport assistance.
