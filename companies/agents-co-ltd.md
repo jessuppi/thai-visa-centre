@@ -348,6 +348,49 @@ The distribution campaign demonstrates that the company's publicity strategy ext
 
 The reviewed publications do not disclose the financial arrangements governing placement of the promotional material.
 
+## Conflicting Retail and Wholesale Telecommunications Policies
+
+AGENTS CO., LTD. operates a retail telecommunications business through [esimcard.in.th](../domains/esimcard.in.th.md), in addition to its wholesale distribution platform.
+
+The retail website explicitly identifies its association with the team behind Thai Visa Centre.[^37]
+
+On February 8, 2023, Thai Visa Centre's ASEAN NOW account claimed that the agency lost money on each eSIM sold using its promotional discount code, which was ordinarily distributed to existing customers.[^38]
+
+This establishes an early example of telecommunications products being offered as a subsidized benefit to immigration customers.
+
+### Conflicting Data-Controller Classifications
+
+The retail and wholesale telecommunications platforms publish substantially different explanations of their data-protection responsibilities.
+
+| Provision | Retail platform | Wholesale platform |
+| --- | --- | --- |
+| Contracting company | AGENTS CO., LTD. | eSIM Agents Co., Ltd. |
+| Data-controller classification | Customers submitting personal information | Operating company |
+| Identity verification | Government identification and potentially bank statements | Corporate records and representative identification |
+| Document retention | Unspecified retention period | Five years for KYC documents |
+
+The retail Privacy Policy characterizes AGENTS as a data processor acting according to customer instructions.[^39]
+
+However, its Terms & Conditions authorize the company to independently determine whether transactions present elevated risks and whether additional identity or financial documentation is required.[^40]
+
+Section 6 of Thailand's Personal Data Protection Act defines a data controller according to its actual decision-making authority over personal information, rather than its preferred contractual designation.[^41]
+
+**The retail platform's classification is difficult to reconcile with its independently determined fraud-prevention, customer-verification, and commercial data-processing activities.**
+
+### More Restrictive Liability Terms for Retail Customers
+
+The retail platform attempts to limit aggregate liability to the greater of US$1 or payments received from the customer during the preceding month.[^40]
+
+The wholesale platform also excludes various categories of damages but does not impose the same one-dollar aggregate liability formula.[^15]
+
+The distinction demonstrates that AGENTS applies different contractual protections to individual travelers and commercial distribution partners.
+
+### Commercial Significance
+
+The telecommunications businesses extend the corporate-identity and data-protection inconsistencies already documented across AGENTS' immigration platforms.
+
+The company should clarify which registered entity operates each telecommunications service, its respective data-controller responsibilities, and the justification for substantially different customer protections.
+
 ## References
 
 [^1]: https://www.dataforthai.com/company/0115562031107/
@@ -403,3 +446,13 @@ The reviewed publications do not disclose the financial arrangements governing p
 [^35]: `https://aseannow.com/topic/1258340-650-baht-insurance-is-not-650-baht/` — ThaiVisaCentre, May 1, 2022, interpretation of insurance conditions and alternative product recommendations.
 
 [^36]: `https://aseannow.com/topic/1258654-thailandpass/` — May 5–7, 2022, insurance recommendations and discussions concerning policy amendments and refunds.
+
+[^37]: `https://esimcard.in.th/en`
+
+[^38]: https://aseannow.com/topic/1285744-ais-sim-central-bkk-300mbps-rubbish/ — ThaiVisaCentre, February 7–8, 2023.
+
+[^39]: `https://esimcard.in.th/en/policy/privacy`
+
+[^40]: `https://esimcard.in.th/en/policy/terms-and-conditions`
+
+[^41]: https://library.siam-legal.com/thai-law/personal-data-protection-act-general-provisions-sections-1-7/ — Personal Data Protection Act, Section 6.
