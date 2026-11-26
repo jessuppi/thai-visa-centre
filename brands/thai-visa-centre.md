@@ -206,6 +206,35 @@ Corporate records identify the company's registered office as **91/11 Moo 15, Ba
 
 Thai Visa Centre's own website describes its physical visa operations as being run by **"Thai Visa Centre"**, while identifying Agents Co., Ltd. as responsible for digital services. It does not clearly identify TVC. Visa Agent Co., Ltd. as the legal operator of its physical agency. The timing of the company's incorporation, its shared address, and the agency's ambiguous explanation of its corporate structure raise questions about **which registered entity assumed responsibility for the Thai Visa Centre operation following the August 2020 police raid**.[^3][^27][^28]
 
+## September 2020 ThaiVisa.com Sponsorship Following Police Raid
+
+On September 15, 2020, approximately six weeks after the police raid involving Thai Visa Centre, the ThaiVisa.com forum (subsequently renamed ASEAN NOW) published a dedicated advertisement promoting the agency's long-term immigration services.[^95]
+
+The advertisement, published by the forum's sales account, presented Thai Visa Centre as a trustworthy visa agency while disclaiming any affiliation beyond the advertising arrangement.
+
+Thai Visa Centre participated extensively in the resulting discussion using its designated **Forum Sponsor** account. The archived thread contains 205 replies, including 53 contributions attributed to the agency.
+
+### Contemporary Concerns About Immigration Corruption
+
+On September 26, 2020, several participants openly debated the legality of commercial visa arrangements involving payments to immigration officers, temporary bank deposits, and extensions issued outside an applicant's province of residence.[^96]
+
+- **Orton Rd** questioned whether extensions obtained in provinces where applicants had never resided could be legitimate.
+- **2530Ubon** characterized payments to immigration officers to overlook financial requirements as bribery.
+- **jacko45k** distinguished discretionary waivers of deposit-maintenance requirements from arrangements involving temporary bank deposits.
+- **CorpusChristie** defended the validity of agent-assisted immigration extensions and reported receiving an immigration receipt.
+
+These exchanges demonstrate that concerns about the underlying mechanisms of commercial visa services were already being discussed publicly within Thai Visa Centre's own sponsored advertising thread in September 2020.
+
+### Historical Significance
+
+**ThaiVisa.com provided Thai Visa Centre with a dedicated commercial promotional platform shortly after the agency had been publicly identified in a police investigation involving alleged immigration document forgery.**
+
+The surviving advertisement does not mention the August 2020 police raid.
+
+The sponsorship establishes an important historical precedent for the agency's subsequently documented commercial relationship with ASEAN NOW and the forum's handling of discussions concerning Thai Visa Centre.
+
+The participants' allegations and arguments do not independently establish that Thai Visa Centre engaged in the specific corrupt practices discussed.
+
 ## Post-Raid Volunteer Visa Services and Subsequent Customer Complaints
 
 Thai Visa Centre's own published customer review archive documents the continuation of commercial volunteer visa assistance following the August 2020 police raid.
@@ -817,3 +846,7 @@ Individual examples, original publications, and supporting legal sources are doc
 [^93]: https://www.raiyai.com/forum/topic/be-careful-using-thai-visa-centre-agency/ — Customer complaint reproduced on October 3, 2024.
 
 [^94]: https://www.reddit.com/r/Thailand/comments/114we6a/comment/jgle27a/ — February 2023 discussion concerning Thai Visa Centre, immigration documentation, and commercial airport assistance.
+
+[^95]: https://aseannow.com/topic/1182571-thai-visa-centre-visa-agent/ — Sponsored advertisement published September 15, 2020.
+
+[^96]: https://aseannow.com/topic/1182571-thai-visa-centre-visa-agent/page/3/ — Discussion concerning immigration payments, financial requirements, and provincial jurisdiction, September 26–27, 2020.
