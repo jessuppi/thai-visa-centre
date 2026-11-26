@@ -2672,7 +2672,32 @@ The inconsistency is particularly apparent because TVC's dedicated Thailand Priv
 
 That publication separately advertises assistance with reporting through Thailand Privilege offices.
 
-**The agency therefore acknowledges the correct requirement on its membership sales pages while suggesting nonexistent annual-reporting exceptions in its broader immigration guidance.**
+**The agency therefore acknowledges the correct requirement on its membership sales pages while suggesting annual-reporting exceptions in its broader immigration guidance without explaining the separate qualifying conditions of the Flexible Plus Program.**
+
+#### Legal Archive Misapplies the Flexible Plus Reporting Exemption
+
+Thai Visa Centre's subsequently published 90-day reporting law archive categorically states:
+
+> Long-Term Resident and Privilege file once a year instead.[^673]
+
+The publication cites Clause 8 of a Ministry of Interior notification published in the Royal Gazette on January 6, 2022.
+
+However, the cited notification concerns the **Flexible Plus Program**, rather than ordinary Thailand Privilege membership.
+
+Thai Visa Centre's own archived English translation identifies several relevant conditions:[^674]
+
+- Certification of eligibility by the Tourism Authority of Thailand.
+- Conversion to a special Non-Immigrant visa for employment.
+- Compliance with applicable work-permit requirements.
+- Annual residence notifications for qualifying participants and dependents.
+
+Thai Visa Centre's separate legal guide concerning Thailand Privilege correctly describes the notification as an employment-related arrangement requiring additional certification.[^675]
+
+**The agency's general reporting guide therefore omits the qualifying conditions contained in its own cited legislation.**
+
+Ordinary Privilege Entry visa holders remain subject to the standard 90-day reporting requirement, as confirmed by Thailand Privilege Card Co., Ltd.[^297]
+
+The documented error is not the existence of an annual reporting exemption, but its presentation as a general benefit of Thailand Privilege membership.
 
 #### Consequences for Visa Holders
 
@@ -11517,3 +11542,9 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^671]: https://tvc.co.th/law/re-entry — Re-entry permits, including the contradictory fee guidance and reference 11.
 
 [^672]: https://tvc.co.th/law/documents/imm-bkk-fees — Archived Bangkok Immigration fee schedule, dated November 22, 2026.
+
+[^673]: https://tvc.co.th/law/ninety-day — General 90-day reporting guidance.
+
+[^674]: https://tvc.co.th/law/documents/privilege — Archived Ministry of Interior notification and unofficial English translation, particularly Clauses 3, 4, 6 and 8.
+
+[^675]: https://tvc.co.th/law/privilege — Separate legal guide describing the special employment-related immigration arrangement.
