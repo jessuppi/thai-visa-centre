@@ -506,6 +506,26 @@ It also demonstrates that the agency's historical remote-processing services ext
 
 The advertisement alone does not establish that immigration officers waived these requirements improperly or that customers never attended immigration.
 
+### February 2023 Comparison With Official Electronic Extensions
+
+On February 21, 2023, an ASEAN NOW participant described using the official VFS Global electronic extension service to extend a visa-exempt stay in Thailand.[^115]
+
+The applicant reported paying the statutory 1,900-baht extension fee and an additional 500-baht VFS service charge, for a combined cost of 2,400 baht.
+
+The electronic application included an appointment for personal attendance at an immigration office.
+
+Thai Visa Centre subsequently entered the discussion through its designated Forum Sponsor account, advertising its own competing service for **3,500 baht, including all fees**.
+
+The agency emphasized that it collected customers' documents from their residences and returned them following completion, identifying the additional cost as approximately 1,100 baht compared with the VFS option.
+
+**The advertisement directly establishes that Thai Visa Centre marketed residential document collection and delivery as a commercial advantage over the government's authorized electronic extension system.**
+
+However, the agency again did not explain whether its customers were required to attend an immigration office for identity verification.
+
+The statement corroborates the agency's November 2022 advertisement and demonstrates that it continued promoting courier-based extensions several months after the official electronic system became operational.
+
+The discussion does not establish that Thai Visa Centre customers were exempted from mandatory attendance requirements or that immigration officers processed applications improperly.
+
 ## Email Collection and Unsolicited Marketing
 
 Thai Visa Centre publicly claims to maintain a mailing list exceeding **375,000 subscribers**, while insisting that all addresses are obtained through voluntary opt-in. Its published spam policy acknowledges collecting email addresses through affiliated immigration websites, including `tdac.in.th`, `dtv.in.th`, `ltr.in.th`, and `eta.in.th`, while denying that subscriber information is sold or shared with third parties.[^3][^26]
@@ -1125,3 +1145,5 @@ Individual examples, original publications, and supporting legal sources are doc
 [^113]: https://aseannow.com/topic/1211628-overstay-question/ — ThaiVisaCentre and BKKTRAVELER, March 30, 2021.
 
 [^114]: https://aseannow.com/topic/1220227-thai-elite-visa-overstay/ — ThaiVisaCentre, June 12, 2021.
+
+[^115]: https://aseannow.com/topic/1287173-review-of-vfs-online-visa-exempt-extension/ — ThaiVisaCentre and mattuk90, February 21, 2023.
