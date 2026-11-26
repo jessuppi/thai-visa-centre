@@ -28,6 +28,44 @@ The traveler stated that the agency nearly completed the application within two 
 
 The discussion does not conclusively identify the website through which the payment was processed.[^4]
 
+## February–April 2022 Pricing and Approval Guarantees
+
+On February 3, 2022, Thai Visa Centre participated in an ASEAN NOW discussion concerning technical difficulties affecting Thailand's official Thailand Pass registration system.[^12]
+
+The agency advertised a standard processing fee of **3,000 baht** for customers applying at least seven days before arrival, accompanied by an explicit approval guarantee.
+
+It acknowledged charging considerably higher fees for urgent applications because those customers received priority within its processing queue.
+
+Thai Visa Centre also claimed to have accumulated more than 480 Facebook reviews and 75 Google reviews specifically concerning its Thailand Pass services, with an average rating of 5.0.
+
+### Reduced Pricing Following Relaxation of Entry Requirements
+
+On April 30, 2022, following the introduction of simplified government entry requirements, Thai Visa Centre advertised a revised Thailand Pass processing fee of **1,500 baht**, with an additional 400-baht option incorporating insurance.[^13]
+
+The agency claimed to have successfully obtained more than 150 approvals under the revised entry arrangements since the previous day.
+
+It also acknowledged that all these applications used insurance policies from its recommended selection.
+
+The published advertisement did not identify any insurance commissions or other commercial incentives associated with those recommendations.
+
+### Comparison With Free Government Processing
+
+Participants in the same April discussion reported independently obtaining Thailand Pass approvals within 12 hours.[^13]
+
+On May 5, 2022, Thailand's Ministry of Foreign Affairs reported that 190,854 of the 201,141 registrations submitted under the revised entry arrangements had already been approved.[^14]
+
+Thai Visa Centre expressly provided a link to the free government application system in its advertisement.
+
+Nevertheless, its claims of accelerated approval did not establish whether its commercial processing arrangements produced consistently faster results than direct government submissions.
+
+### Historical Commercial Significance
+
+**Thai Visa Centre's Thailand Pass business incorporated guaranteed approvals, urgency-based pricing, customer reviews, and bundled insurance recommendations several years before the introduction of its commercial TDAC services.**
+
+These historical advertisements establish the agency's published pricing and commercial strategy directly, rather than relying exclusively on customer recollections.
+
+The available evidence does not establish preferential treatment by government officials, improper approval arrangements, or the actual profitability of the associated insurance services.
+
 ## Government Warnings, Free Registration, and Commercial Expedited Processing
 
 ### October 2021 Government Privacy Assurances
@@ -159,3 +197,9 @@ Nevertheless, the historical connection between pandemic-era travel assistance a
 [^9]: https://www.antifakenewscenter.com/%E0%B8%99%E0%B9%82%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9A%E0%B8%B2%E0%B8%A5-%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%A3/%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%A1-%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%8A%E0%B8%A3%E0%B9%8C-%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95%E0%B9%8C-thailand-pass-%E0%B8%A1%E0%B8%B5%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%A1-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8/ — Anti-Fake News Center Thailand, May 22, 2022, government fact-check concerning Thailand Pass registration fees, verified by the Digital Government Development Agency.
 [^10]: https://www.mfa.go.th/en/content/press-briefing-25may22?cate=5d5bcb4e15e39c306000683e — Ministry of Foreign Affairs press briefing, May 25, 2022.
 [^11]: https://tdac.immigration.go.th/manual/en/faq.html — Immigration Bureau's official TDAC FAQ.
+
+[^12]: https://aseannow.com/topic/1248848-thailand-pass-system-issue-checking-status/ — ThaiVisaCentre, February 3, 2022, pricing and approval guarantees.
+
+[^13]: https://aseannow.com/topic/1258030-thailand-pass-guide-and-how-early-can-one-apply/ — ThaiVisaCentre and other participants, April 29–30, 2022.
+
+[^14]: https://mfa.go.th/en/content/weeklypressbriefing05052565-2?cate=5d5bcb4e15e39c306000683e — Ministry of Foreign Affairs, May 5, 2022, official Thailand Pass registration and approval statistics.
