@@ -198,6 +198,62 @@ The reviewed documents do not establish that Thaiger AI processes immigration in
 
 Nevertheless, they establish a broader commercial infrastructure capable of connecting publishing operations with automated customer acquisition and service delivery.
 
+## Commercial Influence Over Search Rankings and AI-Generated Recommendations
+
+On July 2, 2026, The Thaiger published an article explaining how businesses can increase their visibility within AI-generated recommendations, specifically identifying ChatGPT, Claude, and Gemini.[^23]
+
+The publication recommends high placements in listing advertorials and repeated coverage through press releases published by reputable third-party websites.
+
+The article expressly identifies commercial rankings as a mechanism for influencing the frequency with which artificial intelligence systems recommend particular businesses.
+
+### Manufacturing the Appearance of Independent Consensus
+
+The Thaiger's article explains that repeated favorable coverage across multiple publications can increase the perceived credibility of commercial information within AI-generated responses.
+
+This strategy is particularly relevant to The Thaiger's ownership of ASEAN NOW.
+
+The publisher can distribute favorable commercial material through its news website, discussion forums, newsletters, and associated social media channels.
+
+These publications may subsequently appear to search engines and AI systems as multiple sources supporting the same commercial claims, despite originating from coordinated promotional arrangements.
+
+### Selling Community Authority and Search-Ranking Links
+
+On September 4, 2025, The Thaiger published an advertising guide promoting ASEAN NOW's commercial partnership packages.[^24]
+
+The advertised benefits included:
+
+- Pinned advertorials within relevant discussion forums.
+- Sponsored accounts with opportunities to answer community questions.
+- Premium business-directory placements.
+- Social media and newsletter promotions.
+- Do-follow backlinks intended to improve search-engine rankings.
+
+The publisher explicitly marketed sponsored status using the phrase:
+
+> Become a trusted voice within the community.
+
+This establishes that perceived community authority is itself presented as a commercially purchasable benefit.
+
+### Conflict With Google's Published Search Policies
+
+Google's published spam policies prohibit purchasing or selling links primarily to manipulate search rankings.[^25]
+
+Paid advertising links remain permissible when appropriately qualified using sponsored or nofollow attributes.
+
+Google also distinguishes legitimate advertorial publication from commercial content hosted primarily to exploit an established website's search-ranking reputation.
+
+ASEAN NOW's explicit promotion of paid do-follow backlinks for ranking purposes therefore warrants examination under these policies.
+
+### Relevance to Thai Visa Centre
+
+These commercial strategies are particularly significant given the previously documented promotion of Thai Visa Centre and AGENTS CO., LTD. across both media platforms, alongside moderation rules restricting criticism of commercial sponsors.
+
+**The Thaiger explicitly markets techniques intended to influence search-engine rankings, AI-generated recommendations, and perceived authority within online communities.**
+
+The combination of favorable commercial coverage and restricted criticism creates a risk that search engines and AI systems encounter a disproportionately favorable representation of sponsoring businesses.
+
+The available evidence does not establish that Thai Visa Centre purchased a specific AI optimization campaign or that Google has imposed penalties against either publication.
+
 ## References
 
 [^1]: https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand
@@ -236,3 +292,9 @@ Nevertheless, they establish a broader commercial infrastructure capable of conn
 [^21]: `https://www.thaiger.ai/case-studies` — Published case studies concerning Dot Property, FazWaz, and AA Insurance Brokers.
 
 [^22]: `https://www.thaiger.ai/ai-services/ai-marketing-and-lead-generation` — Automated customer acquisition and ThaigerGo service description.
+
+[^23]: `https://thethaiger.com/guides/digital-marketing/ai-search-seo` — The Thaiger, July 2, 2026, commercial guidance concerning AI search optimization, advertorial rankings, and press-release coverage.
+
+[^24]: `https://thethaiger.com/guides/digital-marketing/maximise-your-brands-visibility-with-asean-now-partnership` — The Thaiger, September 4, 2025, ASEAN NOW commercial advertising packages.
+
+[^25]: https://developers.google.com/search/docs/essentials/spam-policies — Google Search Central, official policies concerning link spam and site reputation abuse.
