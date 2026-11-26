@@ -36,6 +36,36 @@ His response downplayed the significance of widely reported August 2020 arrests 
 
 Rather than address the substance of the police allegations, DrJack54 redirected attention toward favorable reviews. The exchange raises questions about whether his repeated endorsements reflected independent recommendations or contributed to a broader effort to rehabilitate the agency's reputation.
 
+## March 2022: Defending Sponsor Referrals and Provincial COVID Extension Processing
+
+On March 29, 2022, ASEAN NOW member **claudioc** sought assistance obtaining an immigration extension while isolating with COVID-19.
+
+DrJack54 recommended Thai Visa Centre's passport collection and delivery service.
+
+When forum participant **problemfarang** questioned why a specific commercial agency was being recommended without the original poster requesting one, DrJack54 defended his recommendation by expressly identifying Thai Visa Centre as an ASEAN NOW sponsor.[^30]
+
+### Commercial Offer and Provincial Processing
+
+Thai Visa Centre subsequently entered the discussion and advertised a 60-day extension service costing **6,300 baht**, including government fees.
+
+The agency also claimed that it had assisted travelers during home isolation and quarantine stays through its hotel partnerships.
+
+On March 30, claudioc reported that Thai Visa Centre's staff had quoted a processing period of seven to ten days and specifically acknowledged working with immigration offices outside Bangkok.[^30]
+
+Thai Visa Centre responded that most extensions were completed within three to four days. It also claimed that its processing period would not count toward an applicant's overstay and that the applicable date was determined by when the agency received the passport.[^31]
+
+The agency did not identify the immigration regulation supporting that assurance.
+
+### Customer Ultimately Obtained Assistance Without the Agency
+
+On March 31, claudioc reported that a friend had successfully obtained the extension on his behalf through his local provincial immigration office using the required immigration documents and medical evidence.[^31]
+
+The exchange documents an early instance of a forum participant challenging DrJack54's commercial recommendations, followed by his explicit acknowledgment of the recommended agency's sponsorship.
+
+It also provides contemporary evidence of Thai Visa Centre's commercial relationship with quarantine hotels and a prospective customer's account of its provincial immigration-processing arrangements.
+
+The discussion does not establish that DrJack54 personally received compensation for the recommendation.
+
 ## August 2023: Discussing Retirement Extensions Without the Required Bank Deposit
 
 On August 16, 2023, an ASEAN NOW member asked whether a Bangkok visa agent's 35,000-baht package for opening a bank account and obtaining a retirement extension was legitimate. DrJack54 responded that the price was reasonable if it included opening an account, obtaining Non-O retirement status without the applicant depositing 800,000 baht, and arranging a 12-month extension.[^13]
@@ -186,3 +216,7 @@ Other participants pointed out that Thailand's immigration application form prov
 [^27]: `https://aseannow.com/topic/1383006-switch-from-non-o-marriage-visa-to-retirement-visa/`
 [^28]: `https://aseannow.com/topic/1383091-first-90-day-report/`
 [^29]: `https://tvc.co.th/scam`
+
+[^30]: https://aseannow.com/topic/1255044-extension-of-stay-with-activecurrent-covid-infection/ — DrJack54, problemfarang, ThaiVisaCentre and claudioc, March 29–30, 2022.
+
+[^31]: https://aseannow.com/topic/1255044-extension-of-stay-with-activecurrent-covid-infection/page/2/ — ThaiVisaCentre and claudioc, March 30–31, 2022.
