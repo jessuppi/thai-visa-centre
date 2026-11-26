@@ -6486,6 +6486,30 @@ Both mistakes can affect corporate ownership arrangements, registration costs, l
 The agency should correct both guides, identify the applicable Civil and Commercial Code provisions, and distinguish genuine single-owner business structures from private limited companies requiring multiple shareholders.
 
 
+### November 2026 Update: TVC Supplements Incorrect Company Registration Advice With Irrelevant Legislation
+
+As of November 27, 2026, Thai Visa Centre's limited-company and company-registration guides each incorporated six legislative and official references.[^291][^293]
+
+Despite these additions, both publications retain their previously documented claims concerning single-shareholder companies, while the dedicated limited-company guide continues identifying three shareholders as the standard minimum.
+
+Neither publication's legislative reference table includes the Civil and Commercial Code amendment that reduced the minimum number of company promoters from three to two, effective February 7, 2023.[^292]
+
+More significantly, both publications cite the Condominium Act B.E. 2522 when discussing nominee shareholders in ordinary Thai limited companies.
+
+The cited legislation concerns condominium ownership, including foreign ownership quotas and qualifying financial arrangements. The relevant prohibition against nominee shareholding used to circumvent foreign-business restrictions instead appears in Section 36 of the Foreign Business Act.
+
+**Thai Visa Centre has added legal citations to its company-registration guidance without identifying the legislation governing its incorrect shareholder requirements, while attaching unrelated condominium legislation to its corporate-ownership advice.**
+
+These are substantive citation deficiencies rather than merely missing references.
+
+The company's expanding legal archive creates an impression of extensive statutory research, but these publications demonstrate that the presence of official government documents does not necessarily establish the accuracy of the accompanying advice.
+
+Foreign entrepreneurs relying on these guides could misunderstand the minimum shareholder requirements or the statutory basis governing their proposed ownership arrangements.
+
+The evidence does not establish whether the incorrect citation assignments resulted from automated content production or inadequate editorial oversight.
+
+Nevertheless, Thai Visa Centre remains responsible for ensuring that its published references actually support the legal claims presented to prospective customers.
+
 ### Corporate-Lawyer Guide Falsely Claims Lawyers Are Mandatory for Company Registration and BOI Applications
 
 Thai Visa Centre's *Contact a Corporate Lawyer in Thailand* guide incorrectly presents licensed legal counsel as mandatory for ordinary company incorporation and Board of Investment applications.[^470]
