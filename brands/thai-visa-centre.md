@@ -245,6 +245,30 @@ On September 21, 2021, a Google review attributed to **Iurii U.** similarly repo
 
 Both testimonials remain published as favorable customer endorsements on Thai Visa Centre's website.
 
+### December 2020 Commercial Volunteer Visa Pricing
+
+On December 14, 2020, approximately four months after the police raid, Thai Visa Centre publicly advertised its volunteer visa services through its designated Forum Sponsor account on ThaiVisa.com.[^110]
+
+Responding to a discussion about annual volunteer visas costing 45,000 baht, the agency stated that its normal price ranged between **35,000 and 40,000 baht**.
+
+In a subsequent response to forum participant **jimn**, Thai Visa Centre distinguished between annual visa options for foreigners younger than 50 and its retirement-extension services.
+
+The agency advertised retirement extensions costing 14,000 baht, including immigration reporting and reminders concerning visa expiration and passport renewal.
+
+**These statements directly establish that Thai Visa Centre continued commercially marketing volunteer visas after the August 2020 police raid.**
+
+### January 2022 Difficulties Following Volunteer Visas
+
+On January 19, 2022, forum participant **MajorTom** reported that Phuket immigration officers had refused a marriage-based extension because of his previous volunteer visa and extension.[^111]
+
+Thai Visa Centre responded that it could potentially assist with obtaining a marriage visa provided the applicant satisfied the relevant requirements.
+
+Another participant, **James Bernard**, reported contacting several agencies without successfully finding assistance with a comparable family-based immigration application.
+
+The discussion illustrates the difficulties some foreigners reported when attempting to transition from volunteer-based immigration status to other categories.
+
+The original agencies responsible for these particular volunteer visas were not identified.
+
 ### Subsequent Complaint Concerning Volunteer Organization Registration
 
 An October 3, 2024 RaiYai forum post reproduced a customer complaint describing a three-month immigration extension purchased from Thai Visa Centre for 25,000 baht.[^93]
@@ -1049,3 +1073,7 @@ Individual examples, original publications, and supporting legal sources are doc
 [^108]: https://www.bal.com/immigration-news/thailand-covid-19-state-of-emergency-extended-entry-requirements-modified/ — Contemporary immigration guidance concerning discretionary approval of pandemic-related extensions.
 
 [^109]: https://aseannow.com/topic/1248076-covid-visa-extension-denied/page/3/ — ThaiVisaCentre and DrJack54, January 26, 2022.
+
+[^110]: https://aseannow.com/topic/1196582-covid-extension-then-what/ — ThaiVisaCentre, December 14, 2020, commercial volunteer and retirement visa pricing.
+
+[^111]: https://aseannow.com/topic/1247163-volunteer-visa-impossible-to-apply-for-non-o-following-volunteer-visa-via-agent/ — MajorTom, James Bernard and ThaiVisaCentre, January 19, 2022.
