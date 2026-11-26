@@ -3187,6 +3187,32 @@ It establishes that **the agency publishes penalty information inconsistent with
 TVC should correct its explanation of children's overstay penalties and distinguish exactly 90 days from more than 90 days when explaining voluntary-surrender restrictions.
 
 
+### November 2026 Update: TVC Archives Official Immigration Guidance Contradicting Its Own Advice
+
+On November 22, 2026, Thai Visa Centre captured and republished Immigration Division 1's official FAQ as part of its expanding legal archive.[^679]
+
+The archived government publication correctly identifies the standard overstay fine as 500 baht per day, capped at 20,000 baht, and distinguishes between re-entry bans applicable to voluntary surrender and arrest.
+
+However, TVC's previously indexed commercial overstay guide contains materially different instructions.[^121]
+
+| Issue | TVC's commercial guide | Official guidance archived by TVC |
+|---|---|---|
+| Maximum overstay fine | Presented under overstays exceeding 90 days | 20,000 baht regardless of duration once the ceiling is reached |
+| One-year re-entry ban upon voluntary surrender | 90–365 days | More than 90 days |
+| Arrest and prosecution | General warning about blacklisting | Separate mandatory five-year or ten-year exclusion periods |
+
+The standard daily fine reaches its maximum after 40 days, not 90 days.
+
+Although TVC's commercial guide mentions the correct maximum amount, its presentation misleadingly associates that ceiling with overstays exceeding 90 days.
+
+**Thai Visa Centre has now republished official immigration guidance that directly contradicts the penalty information in its own previously indexed commercial publication.**
+
+This discrepancy is particularly concerning because the company claims to handle urgent overstay cases every week and actively encourages foreigners facing immigration penalties to purchase professional assistance.
+
+Expanding its legal archive is not a substitute for ensuring the accuracy of the commercial guidance through which it attracts customers.
+
+The available evidence does not establish whether TVC deliberately misstated these penalties or whether customers suffered financial losses as a result.
+
 ## Digital Work Permits Advertised for LTR Applicants Who Are Ineligible to Receive Them
 
 Thai Visa Centre repeatedly advertises digital work permits as a benefit of Thailand's Long-Term Resident (LTR) visa for Work-from-Thailand Professionals.
@@ -11638,3 +11664,5 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^677]: https://tvc.co.th/law/health-insurance-sso — Mandatory health insurance and Social Security, including its 13-document legislative reference table. Reviewed November 27, 2026.
 
 [^678]: https://tvc.co.th/law/retirement — Thai Visa Centre's retirement legal guide, including its explanation of Immigration Bureau Order 12/2568, clause 2.22. Reviewed November 27, 2026.
+
+[^679]: https://tvc.co.th/law/documents/imm-bkk-faq — Immigration Division 1 official FAQ, archived by Thai Visa Centre on November 22, 2026, including overstay fines and separate re-entry ban schedules for voluntary surrender and arrest.
