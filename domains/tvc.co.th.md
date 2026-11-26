@@ -5880,6 +5880,36 @@ TVC should identify the operative Ministry of Interior authority permitting expa
 
 Until that discrepancy is resolved, advertising unrestricted family eligibility as an established entitlement is potentially misleading.
 
+### November 2026 Update: TVC Replaces Its Misleading LTR Commercial Guidance
+
+By November 27, 2026, a substantially rewritten version of Thai Visa Centre's principal LTR visa service page had appeared in search indexes.[^197]
+
+Comparing the previously indexed commercial publication with the revised version reveals several significant changes.
+
+| Previously published claim | Revised publication |
+|---|---|
+| Non-refundable 50,000-baht application fee | BOI qualification precedes visa issuance |
+| Mandatory private health insurance | Blanket requirement removed |
+| USD 80,000 income requirement for Wealthy Global Citizens | Obsolete requirement removed |
+| Mandatory five years of professional experience | Obsolete requirement removed |
+| Stay period of up to ten years | Initial permission to stay not exceeding five years |
+
+These changes follow the expansion of Thai Visa Centre's legal archive, including its November 22, 2026 capture of the BOI's official LTR visa FAQ.[^681]
+
+The archived government guidance explicitly confirms that initial qualification processing is free and that the 50,000-baht government fee for issuance in Bangkok becomes payable following approval.
+
+**Thai Visa Centre previously advertised a substantial financial risk that does not exist at the initial government qualification stage.**
+
+The revised commercial publication also acknowledges BOI Announcement Por. 3/2568 as the current qualification framework, rather than continuing to reproduce several requirements abolished in February 2025.
+
+Although these revisions are welcome, removing inaccurate information is not equivalent to publishing a comprehensive correction or notifying customers who may have relied upon the earlier guidance.
+
+The rewritten page also continues using generalized statements about work-permit requirements without clearly explaining the exclusion applicable to Work-from-Thailand Professionals, despite that exclusion appearing in TVC's own archived BOI guidance.
+
+The timing of these revisions is noteworthy given the company's expanding publication of official immigration regulations that contradict its earlier commercial advice.
+
+However, the precise publication date of the rewritten page and the reasons for these changes remain unverified.
+
 ## Citizenship Guidance Misrepresents Permanent Residency Requirements for Foreign Spouses
 
 Thai Visa Centre's FAQ *Do I Get Thai Nationality After Marriage?*, marked reviewed June 2026, presents permanent residency as a necessary stage before citizenship for foreign spouses.[^201]
@@ -11688,3 +11718,5 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^679]: https://tvc.co.th/law/documents/imm-bkk-faq — Immigration Division 1 official FAQ, archived by Thai Visa Centre on November 22, 2026, including overstay fines and separate re-entry ban schedules for voluntary surrender and arrest.
 
 [^680]: https://tvc.co.th/th/law/documents/work-boi-ltr-faq — Thai Visa Centre's archived BOI LTR visa FAQ, indexed November 27, 2026, including the exclusion of Work-from-Thailand Professionals from work-permit eligibility.
+
+[^681]: https://tvc.co.th/id/law/documents/work-boi-ltr-faq — Indonesian-language edition of Thai Visa Centre's archived BOI LTR FAQ, explicitly identifying November 22, 2026 as the capture date. Retrieved November 27, 2026.
