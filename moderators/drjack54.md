@@ -10,6 +10,36 @@ DrJack54 responded that nothing had resulted from what he characterized as an un
 
 His reassurances came just three months after Thai immigration police publicly announced the arrests of Grace and Chad Scira in connection with alleged document forgery and cannabis cultivation. Police reported discovering forged documents and 55 government stamps during their investigation. DrJack54's characterization minimized these documented events while offering broad assurances about the agency's legitimacy.[^7]
 
+## February 2021: Volunteer Visa Referrals and Legitimacy Assurances
+
+On February 3, 2021, a ThaiVisa.com participant raised concerns about conflicting information received from visa agencies regarding volunteer visa eligibility and nationality restrictions.[^32]
+
+DrJack54 responded by describing agent-assisted volunteer visa conversions and extensions, asserting:
+
+> The stamps etc are 100% legit.
+
+He also acknowledged previously helping several foreigners through agencies including Thai Visa Centre and Key Visa.
+
+After the participant clarified that he held an education visa, DrJack54 recommended consulting an established agency and suggested that its assurances should alleviate concerns about the resulting immigration stamps.
+
+### Thai Visa Centre's Response
+
+On February 4, 2021, Thai Visa Centre entered the discussion through its designated Forum Sponsor account.
+
+The agency acknowledged that it could not accept applicants of every nationality but suggested that other agencies might operate under different acceptance criteria.
+
+It recommended examining an agency's physical office and operating history when assessing its reliability.
+
+Neither Thai Visa Centre nor DrJack54 addressed whether the underlying volunteer activities would satisfy the substantive immigration requirements.
+
+### Historical Significance
+
+**DrJack54 was publicly endorsing agent-assisted volunteer visa arrangements and referring foreigners to Thai Visa Centre approximately six months after the August 2020 police raid.**
+
+His categorical assurances concerning immigration stamps are particularly relevant to his subsequent March 2021 defense of volunteer visa arrangements involving no actual volunteering.
+
+The discussion establishes his historical recommendations but does not establish that he received referral compensation, held a moderator position at the time, or knowingly facilitated unlawful immigration applications.
+
 ## March 2021: Defending Visas Obtained Without Actual Volunteering
 
 On March 27, 2021, an ASEAN NOW member described a visa agent offering a one-year volunteer visa for 38,000 baht without requiring any actual volunteer work. Asked whether the arrangement was legitimate, DrJack54 declared it "100% legit" because the immigration stamps would be genuine. He dismissed objections from other members and advised that he would use an agent in the same circumstances.[^14]
@@ -220,3 +250,5 @@ Other participants pointed out that Thailand's immigration application form prov
 [^30]: https://aseannow.com/topic/1255044-extension-of-stay-with-activecurrent-covid-infection/ — DrJack54, problemfarang, ThaiVisaCentre and claudioc, March 29–30, 2022.
 
 [^31]: https://aseannow.com/topic/1255044-extension-of-stay-with-activecurrent-covid-infection/page/2/ — ThaiVisaCentre and claudioc, March 30–31, 2022.
+
+[^32]: https://aseannow.com/topic/1204630-volunteer-visa-and-nationality/ — DrJack54 and ThaiVisaCentre, February 3–4, 2021.
