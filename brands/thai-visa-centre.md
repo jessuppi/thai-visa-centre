@@ -630,6 +630,20 @@ These official warnings contrast with the commercial platform operated by [Agent
 
 **None of the cited government announcements specifically identifies `tdac.in.th` as fraudulent or establishes unlawful conduct by AGENTS CO., LTD.** Nevertheless, the contrast is significant: while Thai authorities repeatedly directed travelers away from paid intermediaries and toward the free government portal, the company continued promoting its own paid offering as trustworthy and distinguishing itself from competing providers it publicly labeled scams.[^33][^45][^46][^48]
 
+## September 2025 Commercial Airport-Entry Screening
+
+On September 10, 2025, an ASEAN NOW participant using the name NitJune described contacting Thai Visa Centre concerning possible immigration restrictions arising from an overstay dating back to 2000.[^112]
+
+According to the participant, the agency initially requested copies of historical Thai immigration stamps before requesting a renewed passport to conduct further checks.
+
+The prospective customer understood that Thai Visa Centre conducted entry-eligibility checks through immigration officers at Bangkok's international airport and reported receiving an approximate quote of **10,000 baht** for assistance.
+
+The reported arrangement provides additional historical context for Thai Visa Centre's subsequent commercial airport-entry services, including the guaranteed admission claims reported by prospective customers in January 2026.
+
+**The account raises questions about the agency's claimed access to historical immigration records, its relationship with airport immigration personnel, and the distinction between preliminary eligibility checks and guaranteed admission.**
+
+The participant's interpretation of the agency's relationship with immigration officers remains independently unverified. The discussion does not establish that payment was completed, that immigration records were accessed, or that the prospective customer successfully entered Thailand.
+
 ## January 2026 Guaranteed Airport Re-entry Claims
 
 On January 25, 2026, a traveler posting on Reddit reported that [Thai Visa Centre](thai-visa-centre.md) had offered a **100% guarantee of entry into Thailand** after the traveler and their companion were refused admission on January 19 and returned to Vietnam. The travelers stated that they had previously spent 171 days in Thailand using visa exemptions and border runs.[^60]
@@ -1077,3 +1091,5 @@ Individual examples, original publications, and supporting legal sources are doc
 [^110]: https://aseannow.com/topic/1196582-covid-extension-then-what/ — ThaiVisaCentre, December 14, 2020, commercial volunteer and retirement visa pricing.
 
 [^111]: https://aseannow.com/topic/1247163-volunteer-visa-impossible-to-apply-for-non-o-following-volunteer-visa-via-agent/ — MajorTom, James Bernard and ThaiVisaCentre, January 19, 2022.
+
+[^112]: https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/4/ — NitJune, September 10, 2025.
