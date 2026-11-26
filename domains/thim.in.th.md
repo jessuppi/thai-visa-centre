@@ -102,6 +102,47 @@ It does not specifically explain whether verified commenter email addresses are 
 
 The operator should clarify how discussion accounts are managed, whether their contact information is incorporated into shared customer databases, and how users can decline commercial communications without losing access to community discussions.
 
+## Misleading Arrival Card Requirements and Approval Terminology
+
+As examined on November 26, 2026, the privately operated THIM guide presents TDAC registration as mandatory for all non-Thai nationals entering Thailand, without explaining applicable exemptions.[^9]
+
+### Omission of Government Exemptions
+
+Official Immigration Bureau and consular guidance identifies several circumstances in which TDAC registration is unnecessary:[^5][^12]
+
+- Airline crew.
+- Transit passengers who do not pass through immigration control.
+- Foreign nationals entering Thailand using a Border Pass.
+
+The commercial THIM guide does not identify these exemptions.
+
+It also omits the availability of government registration kiosks at five international airports, which provide assistance to travelers without suitable devices or internet access.[^5]
+
+These omissions reproduce deficiencies documented elsewhere within AGENTS' commercial immigration-information network.
+
+### Instant Approval Versus Arrival Card Confirmation
+
+Immediately above its commercial application button, the website displays the following promotional terminology:
+
+- TDAC Cost: FREE.
+- Approval Time: Instant Approval.
+
+The application button directs travelers to AGENTS' privately operated submission platform rather than the government's registration portal.[^9]
+
+However, the TDAC is an arrival-information declaration, not a visa or advance authorization to enter Thailand. Successful submission produces a confirmation and QR code for presentation during immigration processing.[^13]
+
+The THIM guide itself acknowledges elsewhere that digital preparation does not eliminate immigration screening.
+
+**Its prominent instant-approval advertising therefore conflicts with the more accurate explanation provided within its own informational material.**
+
+### Commercial Significance
+
+AGENTS uses official immigration application branding, government announcements, and application screenshots to attract travelers toward its commercial submission platform.
+
+The operator's presentation should clearly distinguish mandatory registration requirements, applicable exemptions, free government assistance, and actual immigration authorization.
+
+The same terminology and omissions appearing across multiple commercially affiliated websites increase the potential for inaccurate immigration information to be repeatedly indexed and reproduced by search engines and AI-generated information services.
+
 ## References
 
 [^1]: https://www.whoxy.com/thim.in.th
@@ -119,3 +160,7 @@ The operator should clarify how discussion accounts are managed, whether their c
 [^10]: https://play.google.com/store/apps/details?id=th.go.immigration.thim — Official THIM application listing under RoyalThaiPolice.
 
 [^11]: https://www.tatnews.org/2026/06/thailand-immigration-management-application-introduced-to-streamline-foreign-traveller-registration/ — Tourism Authority of Thailand, June 11, 2026.
+
+[^12]: https://hongkong.thaiembassy.org/en/page/entry-regulation — Royal Thai Consulate-General, Hong Kong, official TDAC requirements and exemptions.
+
+[^13]: https://lima.thaiembassy.org/en/content/how-to-submit-the-thailand-digital-arrival-card-td — Royal Thai Embassy, Lima, official arrival-card submission and confirmation procedures.
