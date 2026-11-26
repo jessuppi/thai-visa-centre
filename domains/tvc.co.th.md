@@ -5057,6 +5057,30 @@ Conversely, attempting an in-country transition without proper coordination coul
 
 The agency should distinguish situations requiring departure from those eligible for coordinated domestic transfers rather than recommending unnecessary international travel.
 
+### November 2026 Update: TVC Publishes Regulations Contradicting Its Business Visa Advice
+
+On November 19, 2026, Thai Visa Centre's legal archive reportedly transcribed a 15-page Immigration Bureau regulation governing visa issuance and changes of immigration status, dated September 28, 2023.[^684]
+
+The publication describes the domestic visa-conversion procedure, including the use of Form TM.86 and the applicable 2,000-baht government fee.
+
+Thai Visa Centre's expanding immigration forms directory also explicitly identifies Non-Immigrant B as one of the visa categories available through qualifying in-country conversions.[^685]
+
+However, the company's recently indexed commercial business-visa service page categorically instructs tourist visa holders to leave Thailand and apply through an overseas diplomatic mission.[^166]
+
+**Thai Visa Centre is now publishing the government regulations and application forms for a procedure that its own commercial guidance claims is unavailable.**
+
+Thailand's official government portal independently confirms that qualifying applicants may change their immigration status to Non-Immigrant B for employment with a Thai company without leaving the country.[^167]
+
+Approval remains discretionary and subject to documentary requirements, employer qualifications, and the applicant's remaining permission to stay.
+
+The discrepancy is commercially significant because incorrect advice could lead customers to incur unnecessary international travel, accommodation, and overseas visa-processing expenses.
+
+Publishing extensive legislative material does not compensate for providing contradictory instructions to prospective paying customers.
+
+The available evidence does not establish that TVC has deliberately directed customers toward unnecessary overseas applications or profited from such arrangements.
+
+Whether the company has subsequently corrected its commercial business-visa page remains unverified.
+
 ## Non-Immigrant Visa Page Incorrectly Requires Conversion to Non-B for Employment
 
 Thai Visa Centre's commercial *Thailand 90-Day Non-Immigrant Visa* page incorrectly tells applicants that obtaining a Non-Immigrant B visa is mandatory before working in Thailand.[^212]
@@ -11804,3 +11828,7 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^682]: https://tvc.co.th/law/documents/deep-dtv-consular-dtv-tightening-aug-2026 — Department of Consular Affairs announcement dated August 28, 2026, captured by Thai Visa Centre on November 22, 2026. Retrieved November 27, 2026.
 
 [^683]: https://tvc.co.th/law/marriage — Thai Visa Centre's marriage-stay legal guide, including its 59-document reference table and explanation of Immigration Bureau Order 12/2568. Retrieved November 27, 2026.
+
+[^684]: https://tvc.co.th/law/documents/visascan — Immigration Bureau regulation dated September 28, 2023, with TVC's unofficial English transcription identifying November 19, 2026 as the transcription date. Retrieved November 27, 2026.
+
+[^685]: https://tvc.co.th/law/documents?tab=forms — Thai Visa Centre's immigration forms directory, including TM.86 and its explanation of domestic Non-Immigrant visa conversions. Reviewed November 27, 2026.
