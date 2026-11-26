@@ -68,6 +68,30 @@ The public promotional material does not explain the applicable processing-fee s
 
 **Wholesale customers should be informed of these financial conditions before transferring funds to the platform.**
 
+### Advance Provisioning and Non-Refundable Customer Orders
+
+AGENTS encourages hotels and online travel agencies to integrate automatic eSIM issuance into their booking-confirmation systems, allowing activation codes to be distributed before travelers arrive in Thailand.[^7][^8]
+
+However, Section 4 of its Terms of Service generally excludes refunds once an activation code has been issued, rather than when the traveler activates or uses the telecommunications service.[^3]
+
+This distinction creates potential financial exposure for wholesale partners when accommodation reservations are cancelled, travel plans change, or customers discover that their devices are incompatible with eSIM technology.
+
+The published API documentation does not identify a cancellation or refund endpoint through which wholesale customers can automatically reverse previously issued orders.[^5]
+
+Although advance provisioning may simplify distribution, the promotional material does not adequately explain the financial consequences of issuing non-refundable telecommunications products before customers actually travel.
+
+### Contradictory Wholesale Order Limits
+
+AGENTS' promotional page targeting online travel agencies advertises the ability to order between one and 10,000 eSIMs.[^8]
+
+However, its public API documentation specifies a maximum quantity of 2,000 eSIMs per purchase order.[^5]
+
+The marketing material does not explain this limitation or whether larger purchases must be divided into multiple transactions.
+
+This distinction is commercially relevant because AGENTS also promotes immediate volume-based discounts calculated across individual orders and qualifying purchase histories.[^1]
+
+The company should clarify how larger wholesale purchases are processed, how pricing tiers apply to divided orders, and what cancellation protections are available when automatically provisioned eSIMs remain unused.
+
 ## Identity Documents and Personal Data Retention
 
 The platform requires wholesale customers to undergo Know Your Customer (KYC) verification.
