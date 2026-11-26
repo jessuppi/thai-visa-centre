@@ -6545,6 +6545,37 @@ The available evidence does not establish that TVC charged particular customers 
 It should acknowledge DBD Biz Regist and BOI e-Investment Promotion as official filing channels and explain which specialized situations genuinely require legal representation instead of describing all company-registration and BOI matters as requiring licensed counsel.
 
 
+### November 2026 Update: TVC Archives Anti-Nominee Enforcement While Retaining Misleading Business Advice
+
+As of November 27, 2026, Thai Visa Centre's business-structures guide had been supplemented with sixteen official legal references, including the Foreign Business Act B.E. 2542.[^225]
+
+Nevertheless, its description of standard Thai-majority companies continues identifying "nominee arrangements reviewed by corporate counsel" as an available ownership structure.
+
+The article also retains its warning against nominee shareholders without documented control structures reviewed by lawyers, rather than clearly explaining the statutory prohibition.
+
+Meanwhile, Thai Visa Centre's expanding Foreign Business Act legal archive contains 231 references, including numerous government announcements concerning enforcement against unlawful nominee arrangements.[^693]
+
+These include government reports addressing:
+
+- Enforcement against lawyers and accountants facilitating prohibited nominee companies.
+- Enhanced shareholder financial verification effective August 1, 2026.
+- Expanded cooperation between government agencies and professional regulatory bodies.
+- The November 2026 expansion of investigations into unlawful foreign-controlled corporate structures.
+
+**Thai Visa Centre is now archiving government enforcement measures targeting the very ownership arrangements that its own commercial guidance continues presenting as acceptable when reviewed by lawyers.**
+
+Section 36 of the Foreign Business Act prohibits nominee shareholding used to circumvent restrictions on foreign business activities.[^226]
+
+Professional legal review does not legalize an otherwise prohibited arrangement.
+
+The continued publication of this advice is particularly concerning given the government's intensified scrutiny of professional intermediaries involved in company formation during 2026.[^632][^633]
+
+Adding hundreds of official references to a legal archive does not compensate for retaining commercially consequential advice that contradicts those sources.
+
+The company's business-structures guide also continues identifying June 2026 as its last review date.
+
+The evidence establishes contradictory published guidance. It does not establish that Thai Visa Centre or its professional partners have created unlawful nominee companies or participated in the activities targeted by government investigations.
+
 ## Franchise Guide Invents Trademark Preconditions While Omitting Mandatory Franchisee Protections
 
 Thai Visa Centre's *Franchise Lawyers in Thailand*, marked reviewed June 2026, misstates the role of trademark registration in franchising while overlooking important protections for existing franchisees.
@@ -11924,3 +11955,5 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^691]: https://www.nationthailand.com/news/policy/40068085 — Cabinet approval extending the nationality and legal-status programme until June 30, 2027.
 
 [^692]: https://tvc.co.th/guides/thailand-service-inter-country-adoption-in-thailand — Additional adoption guide containing incorrect court requirements and five legislative references. Indexed November 27, 2026.
+
+[^693]: https://tvc.co.th/law/foreign-business — Thai Visa Centre's Foreign Business Act legal archive, including its 231-document reference table and government anti-nominee enforcement reports. Retrieved November 27, 2026.
