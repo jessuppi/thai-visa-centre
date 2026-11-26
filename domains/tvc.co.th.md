@@ -397,6 +397,34 @@ The agency markets itself as an expert in navigating Thai immigration requiremen
 
 **The published advice conflicts with the continuing financial obligations governing the very retirement-extension services Thai Visa Centre sells.**
 
+### November 2026 Update: TVC Corrects Its Misleading Retirement Deposit Advice
+
+By November 27, 2026, Thai Visa Centre had substantially rewritten its previously misleading FAQ concerning retirement bank-deposit requirements.[^21]
+
+The revised publication now correctly acknowledges the financial obligations that its earlier version omitted.
+
+| Requirement | Previously published advice | Revised advice |
+|---|---|---|
+| Before application | Deposit seasoning required | 800,000 baht for two months |
+| After approval | Withdrawals permitted | 800,000 baht retained for three months |
+| Remaining period | Restore funds before renewal | Maintain at least 400,000 baht |
+
+The company has also published a dedicated retirement section within its expanding legal archive, explicitly acknowledging the deposit-maintenance requirements under Immigration Bureau Order 12/2568.[^678]
+
+Its principal retirement visa service page now similarly identifies these requirements.[^24]
+
+**Thai Visa Centre has effectively corrected the material regulatory errors identified in its earlier retirement deposit guidance.**
+
+However, the revised FAQ continues displaying June 2026 as its last review date, without identifying when the substantive corrections were introduced or acknowledging that its previous instructions were inaccurate.
+
+This is particularly concerning because the earlier publication explicitly encouraged retirees to withdraw or invest their qualifying deposits after approval, despite the continuing financial obligations imposed by immigration regulations.
+
+Correcting inaccurate guidance is welcome, but silently replacing it does not erase the historical record or establish whether customers previously relied on that advice.
+
+The correction also does not resolve separate concerns surrounding Thai Visa Centre's advertised financial assistance services and published customer testimonials describing retirement extensions obtained without maintaining the prescribed bank balances.
+
+There is no verified evidence establishing what prompted the revisions.
+
 ## Incorrect Multiple-Entry Visa and 90-Day Stay Guidance
 
 Thai Visa Centre's FAQ titled *Multiple-Entry 90-Day Non-Immigrant Visa: How It Works* repeatedly tells customers that a valid multiple-entry Non-Immigrant visa does not require leaving Thailand every 90 days.[^25]
@@ -11608,3 +11636,5 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^676]: https://tvc.co.th/law/smart — SMART Visa legal guide, including its plain-English explanation and 57-document reference table, reviewed November 27, 2026.
 
 [^677]: https://tvc.co.th/law/health-insurance-sso — Mandatory health insurance and Social Security, including its 13-document legislative reference table. Reviewed November 27, 2026.
+
+[^678]: https://tvc.co.th/law/retirement — Thai Visa Centre's retirement legal guide, including its explanation of Immigration Bureau Order 12/2568, clause 2.22. Reviewed November 27, 2026.
