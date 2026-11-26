@@ -1899,6 +1899,36 @@ Nevertheless, the contradiction is concrete and financially relevant.
 
 TVC should correct its DTV service page to identify the 1,900-baht government extension fee, distinguish it from the initial visa-issuance charge, and disclose optional agency assistance costs separately.
 
+### November 2026 Update: TVC Adds Legal References Without Correcting Its DTV Application Advice
+
+On November 22, 2026, Thai Visa Centre captured and republished the Department of Consular Affairs' official announcement concerning the revised Destination Thailand Visa application requirements.[^682]
+
+The archived publication explicitly acknowledges that, effective August 31, 2026:
+
+- Permanent-residence evidence replaced the previous requirement to demonstrate an applicant's current location.
+- Criminal-record clearance became a mandatory supporting document.
+- Applications submitted before the effective date remained subject to the previous requirements.
+
+Despite publishing this information, Thai Visa Centre's commercial DTV application guides continued providing outdated instructions as of November 27, 2026.[^78][^79]
+
+Notably, the articles now incorporate extensive legal reference tables and links to the company's expanding law archive.
+
+Its dedicated 2026 DTV requirements guide includes eleven official references, while its step-by-step application guide includes twelve.
+
+Nevertheless, the former continues presenting residence documentation as conditional and omits police clearance from its core document checklist.
+
+The latter continues recommending nearby embassies in Laos, Cambodia, Vietnam, and Malaysia to applicants leaving Thailand, without clearly explaining the permanent-residence restriction.
+
+**Thai Visa Centre has added an appearance of greater legal authority to its immigration publications without resolving the substantive regulatory errors contained within them.**
+
+The problem is no longer simply that the agency has failed to publish the relevant government announcement. It has now incorporated that announcement into its own legal archive while continuing to distribute incompatible commercial advice.
+
+Adding legislative citations does not make inaccurate application instructions reliable.
+
+This discrepancy is especially concerning because the company advertises professional document review and embassy selection as services intended to help customers avoid unsuccessful applications and wasted visa fees.
+
+Whether these inconsistencies result from automated content production, inadequate editorial oversight, or another cause remains unverified.
+
 ## Obsolete Retirement Visa Insurance Requirements Repeated Across Multiple Guides
 
 Thai Visa Centre repeatedly publishes outdated health-insurance requirements for Thailand's Non-Immigrant O-A retirement visa, advising applicants that policies providing **40,000 baht in outpatient coverage and 400,000 baht in inpatient coverage** satisfy the relevant minimums.
@@ -11720,3 +11750,5 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^680]: https://tvc.co.th/th/law/documents/work-boi-ltr-faq — Thai Visa Centre's archived BOI LTR visa FAQ, indexed November 27, 2026, including the exclusion of Work-from-Thailand Professionals from work-permit eligibility.
 
 [^681]: https://tvc.co.th/id/law/documents/work-boi-ltr-faq — Indonesian-language edition of Thai Visa Centre's archived BOI LTR FAQ, explicitly identifying November 22, 2026 as the capture date. Retrieved November 27, 2026.
+
+[^682]: https://tvc.co.th/law/documents/deep-dtv-consular-dtv-tightening-aug-2026 — Department of Consular Affairs announcement dated August 28, 2026, captured by Thai Visa Centre on November 22, 2026. Retrieved November 27, 2026.
