@@ -313,6 +313,40 @@ They provide important historical context for the agency's later claims concerni
 
 The published discussions establish the existence of these customer-management practices but do not reveal the applicable retention periods, information-sharing arrangements, or security controls.
 
+## 2021–2022 Visa Agent Dependency and Provincial Immigration Reporting
+
+On January 12, 2021, ThaiVisa.com participant **VyacheslavKHV** reported that an acquaintance holding a volunteer visa had encountered difficulties completing 90-day reporting in Bangkok because the visa had been obtained in another province.[^99]
+
+On January 13, Thai Visa Centre responded that it was common practice for customers to retain the same visa agent for subsequent 90-day reporting because agents submitted reports in the province where the original visa had been obtained.
+
+The agency recommended contacting the original visa agent to resolve the reporting difficulties, while acknowledging that submitting an updated TM30 residence notification could allow customers to complete their own reports.
+
+### Residence Certificates Restricted to Existing Visa Customers
+
+On April 2, 2022, Thai Visa Centre participated in another discussion concerning residence certificates for foreigners living in Bangkok.[^100]
+
+The agency confirmed that it offered residence certificates exclusively to its existing visa customers and that these applications were not processed through Bangkok's then-designated Mueang Thong Thani immigration facility.
+
+Forum participant **BKKTRAVELER** interpreted this restriction as a consequence of the agency obtaining immigration extensions through provincial contacts outside Bangkok.
+
+Thai Visa Centre did not identify the alternative immigration office responsible for issuing these certificates.
+
+### Conflict With Published Immigration Jurisdiction Rules
+
+Official Thai consular guidance published in December 2021 identifies the immigration office responsible for the foreigner's residential area as the appropriate authority for provincial 90-day reporting.[^101]
+
+Thai Visa Centre's own subsequently published legal archive reproduces police regulations establishing the same residence-based jurisdiction requirement.[^102]
+
+**The province where an immigration extension was originally obtained is not necessarily the province where the foreigner actually resides.**
+
+### Historical Commercial Significance
+
+These discussions document how immigration extensions obtained through agents could generate continuing demand for additional reporting and residence-document services.
+
+They also predate Thai Visa Centre's subsequent promotion of paid immigration reporting through [90day.in.th](../domains/90day.in.th.md).
+
+The available evidence does not establish that the agency submitted false residential addresses in these particular cases. However, its own historical statements demonstrate that the relationship between provincial visa processing and recurring immigration services was already publicly discussed in 2021.
+
 ## May 2022 AQ.in.th Customer Data and Visa Marketing
 
 On May 4, 2022, a traveler reported receiving an unsolicited email from `thaivisacentre.com` advertising visa-extension services. The message specifically referenced an earlier Test & Go booking the traveler had made through [aq.in.th](../domains/aq.in.th.md), despite the traveler not having requested visa assistance from Thai Visa Centre.[^14]
@@ -892,3 +926,11 @@ Individual examples, original publications, and supporting legal sources are doc
 [^97]: https://aseannow.com/topic/1182571-thai-visa-centre-visa-agent/page/7/ — ThaiVisaCentre and edwardandtubs, April 28–29, 2021.
 
 [^98]: https://aseannow.com/topic/1232852-recommendation-for-visa-agent-in-bangkok/ — ThaiVisaCentre and problemfarang, September 24, 2021.
+
+[^99]: https://aseannow.com/topic/1201024-long-term-visa-options-after-i-come-on-tourist-visa/ — VyacheslavKHV and ThaiVisaCentre, January 12–14, 2021.
+
+[^100]: https://aseannow.com/topic/1255500-agent-for-residence-certificate-bangkok/ — ThaiVisaCentre, DrJack54 and BKKTRAVELER, April 2, 2022.
+
+[^101]: https://thaiconsulatela.thaiembassy.org/en/publicservice/foreigners-staying-in-thailand-more-than-90-days — Royal Thai Consulate-General, Los Angeles, December 9, 2021.
+
+[^102]: `https://tvc.co.th/law/documents/rtp37` — Thai Visa Centre's legal archive, Royal Thai Police regulations concerning residence notifications and 90-day reporting.
