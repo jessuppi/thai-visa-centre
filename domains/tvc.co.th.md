@@ -6066,6 +6066,34 @@ Nevertheless, its published guidance fails to explain legally significant altern
 
 TVC should distinguish ordinary naturalization from nationality acquisition under Section 9 and the exemptions under Section 11, rather than presenting permanent residency as a standard compulsory step for foreign spouses.
 
+### November 2026 Update: TVC Publishes Nationality Legislation Contradicting Its Own Citizenship Advice
+
+By November 27, 2026, Thai Visa Centre's expanding legal archive included a dedicated nationality guide supported by 27 legal references, including unofficial English translations of the Nationality Act B.E. 2508 and its 2008 amendment.[^686][^687][^688]
+
+These publications establish important distinctions that the company's previously indexed citizenship FAQ fails to explain:
+
+- Section 9 establishes a separate nationality acquisition procedure for foreign wives of Thai nationals.
+- Section 11 exempts specified applicants from the ordinary five-year domicile and Thai-language requirements.
+- The 2008 amendment expressly extends those exemptions to foreign husbands of Thai nationals.
+
+Despite publishing these legislative provisions, TVC's previously indexed citizenship FAQ categorically rejects the possibility of bypassing permanent residency through marriage and presents permanent residence as a necessary intermediate stage.[^201]
+
+**Thai Visa Centre is now publishing the legislation that undermines its own generalized citizenship advice to foreign spouses.**
+
+Its unofficial English translation of the original Nationality Act also omits Section 11(4) from the main statutory text, requiring readers to consult the separately published 2008 amendment to identify the exemption for foreign husbands.
+
+Although the archive identifies the amendment separately and warns that its translations are unofficial, this presentation illustrates the importance of consulting the complete amended legislation rather than relying on individual translated extracts.
+
+The discrepancy is commercially relevant because Thai Visa Centre markets permanent-residency assistance and marriage-based immigration services.
+
+Incorrectly presenting permanent residency as compulsory could encourage eligible applicants to pursue an expensive and time-consuming immigration procedure that their particular citizenship pathway does not necessarily require.
+
+Marriage does not automatically confer Thai citizenship, and qualifying applicants remain subject to applicable administrative requirements and discretionary approval.
+
+However, these limitations do not justify overlooking statutory exemptions that have existed for many years.
+
+The evidence does not establish that TVC intentionally misdirected customers or collected unnecessary fees. Whether its citizenship FAQ has subsequently been corrected remains unverified.
+
 ## Thai Nationality FAQ Incorrectly Excludes Children of Foreign Parents
 
 Thai Visa Centre's FAQ *Thai Nationality by Birth – Who Qualifies?*, marked reviewed June 2026, categorically states in its comparison table that children born in Thailand to two foreign parents do not acquire Thai nationality.[^311]
@@ -11832,3 +11860,9 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^684]: https://tvc.co.th/law/documents/visascan — Immigration Bureau regulation dated September 28, 2023, with TVC's unofficial English transcription identifying November 19, 2026 as the transcription date. Retrieved November 27, 2026.
 
 [^685]: https://tvc.co.th/law/documents?tab=forms — Thai Visa Centre's immigration forms directory, including TM.86 and its explanation of domestic Non-Immigrant visa conversions. Reviewed November 27, 2026.
+
+[^686]: https://tvc.co.th/law/nationality — Thai Visa Centre's nationality legal guide, including its 27-document reference table. Retrieved November 27, 2026.
+
+[^687]: https://tvc.co.th/law/documents/nat2508 — Unofficial English translation of the Nationality Act B.E. 2508, particularly Sections 9–11. Retrieved November 27, 2026.
+
+[^688]: https://tvc.co.th/law/documents/nat4 — Unofficial English translation of the 2008 Nationality Act amendment, particularly Section 9 introducing Section 11(4). Retrieved November 27, 2026.
