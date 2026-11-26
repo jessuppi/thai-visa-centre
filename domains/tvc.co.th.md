@@ -299,6 +299,30 @@ The company's published pricing includes:
 
 The retirement extension prices exclude government fees.
 
+### 2022–2023 Origins of Commercial Banking Assistance
+
+On May 28, 2022, Thai Visa Centre responded to an ASEAN NOW discussion concerning difficulties opening Thai bank accounts while holding tourist visas.[^665]
+
+Following a referral from forum contributor DrJack54, the agency confirmed that it provided bank-account assistance exclusively to its existing visa customers, while acknowledging the possibility of expanding the arrangement into a general commercial service.
+
+On January 7, 2023, Thai Visa Centre participated in another discussion initiated by a foreigner who reported repeated bank-account application refusals while attempting to satisfy the financial requirements for a retirement visa.[^666]
+
+The agency invited the prospective customer to contact its staff privately and indicated that the availability of assistance depended on the applicant's nationality.
+
+The agency did not publicly identify the participating financial institutions, applicable eligibility criteria, or service charges.
+
+### Subsequent Commercial Expansion
+
+By September 2025, Thai Visa Centre was publicly advertising retirement immigration packages incorporating bank-account opening for applicants holding tourist visas or entering under visa exemptions.[^667]
+
+Its subsequently published retirement banking service introduced separate bank-account opening charges for existing and new customers.[^655]
+
+**These historical disclosures document the development of bank-account assistance from a service restricted to visa customers into a separately priced commercial offering.**
+
+The progression predates the Bank of Thailand's enhanced financial-fraud prevention measures in 2025 and illustrates how banking eligibility difficulties became an established component of the agency's commercial immigration services.
+
+The historical statements do not establish that the agency circumvented mandatory banking regulations, obtained accounts through improper arrangements, or received compensation from participating financial institutions.
+
 ### Misleading Presentation of Branch Discretion
 
 Thai Visa Centre's separate national and Bangkok banking guides identify Bangkok Bank, Kasikornbank, Siam Commercial Bank, and Krung Thai Bank as popular institutions among foreign residents.[^656][^657]
@@ -11380,3 +11404,9 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^663]: `https://tvc.co.th/law/residence` — Residence under Section 41.
 
 [^664]: `https://tvc.co.th/visas/thailand-permanent-residency` — Commercial permanent-residency service page.
+
+[^665]: https://aseannow.com/topic/1260997-bank-account-on-a-tourist-visa/ — ThaiVisaCentre, May 28, 2022.
+
+[^666]: https://aseannow.com/topic/1282832-agent-wanted-to-open-bank-account/ — ThaiVisaCentre, January 7, 2023.
+
+[^667]: https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/3/ — September 2025 retirement immigration packages.
