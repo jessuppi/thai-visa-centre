@@ -313,6 +313,42 @@ They provide important historical context for the agency's later claims concerni
 
 The published discussions establish the existence of these customer-management practices but do not reveal the applicable retention periods, information-sharing arrangements, or security controls.
 
+## May 2021 Guaranteed COVID Extension Approvals
+
+On May 6, 2021, Thai Visa Centre advertised a door-to-door 60-day immigration extension service through its sponsored ThaiVisa.com discussion.[^97]
+
+The agency charged **5,400 baht**, including the official 1,900-baht government fee, and advertised the following benefits:
+
+- Guaranteed approval for accepted applications.
+- Complimentary document collection and delivery within Bangkok.
+- Issuance of the full 60-day extension without an intermediate consideration stamp.
+- Online application tracking and notifications.
+- Expedited processing.
+
+The advertisement expressly promised **"Guaranteed approval if we accept"**.
+
+### Government Approval Remained Discretionary
+
+Contemporary immigration guidance published by international immigration law firm Berry Appleman & Leiden explained that pandemic-related extensions were not automatically granted and remained subject to the discretion of the adjudicating immigration officer.[^108]
+
+Thai Visa Centre's advertisement did not explain how the agency could guarantee a discretionary government decision or consistently eliminate the intermediate consideration period.
+
+### Subsequent Restrictions in January 2022
+
+On January 26, 2022, an ASEAN NOW participant reported being refused another pandemic-related extension and receiving seven days to leave Thailand.[^109]
+
+Responding to a direct inquiry from forum contributor DrJack54, Thai Visa Centre claimed that it could still assist some comparable cases despite the newly imposed restrictions.
+
+However, the agency acknowledged that certain applications involving non-immigrant visas could not be completed within one week.
+
+### Historical Significance
+
+**Thai Visa Centre was commercially advertising guaranteed immigration approvals and accelerated processing as early as May 2021.**
+
+The advertisement provides historical context for its subsequent guarantees concerning retirement extensions, visa conversions and airport immigration assistance.
+
+Although screening applicants before accepting payment could explain the agency's confidence in successful outcomes, the advertisement does not identify the administrative arrangements supporting its promises.
+
 ## August–October 2021 Retirement Visa Financial Assistance
 
 On August 30, 2021, ThaiVisa.com participant **mtls2005** asked whether Thai Visa Centre remained a forum sponsor and whether the agency processed retirement extensions through Bangkok's Chaeng Watthana immigration office.[^97]
@@ -1009,3 +1045,7 @@ Individual examples, original publications, and supporting legal sources are doc
 [^106]: https://thailand.go.th/issue-focus-detail/001_01_259 — Government explanation of electronic extension procedures, incorporating Immigration Bureau information dated November 8, 2022.
 
 [^107]: https://aseannow.com/topic/1237128-visa-agent-cost/ — Jenson55 and other forum participants, October 28, 2021.
+
+[^108]: https://www.bal.com/immigration-news/thailand-covid-19-state-of-emergency-extended-entry-requirements-modified/ — Contemporary immigration guidance concerning discretionary approval of pandemic-related extensions.
+
+[^109]: https://aseannow.com/topic/1248076-covid-visa-extension-denied/page/3/ — ThaiVisaCentre and DrJack54, January 26, 2022.
