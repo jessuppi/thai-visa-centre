@@ -6155,6 +6155,30 @@ Nevertheless, **the agency presents an incomplete explanation of nationality law
 
 TVC should revise its FAQ to distinguish children of temporary foreign residents from children whose parents hold qualifying permanent residence, explain the relevant statutory exceptions, and direct families to the Department of Provincial Administration for individual nationality determinations.
 
+### November 2026 Update: TVC Archives Nationality Pathways Omitted From Its Family Guidance
+
+By November 27, 2026, Thai Visa Centre's expanding nationality archive included the Ministry of Interior's June 30, 2025 notification establishing accelerated citizenship procedures for qualifying persons born in Thailand to foreign parents.[^686][^689]
+
+The archive also includes the Department of Provincial Administration's corresponding application and verification procedures.[^690]
+
+On June 30, 2026, Thailand's Cabinet approved an additional year for implementing the nationality and legal-status programme, extending its deadline to June 30, 2027.[^691]
+
+However, Thai Visa Centre's previously indexed nationality-by-birth FAQ continues categorically identifying children of two foreign parents as ineligible for Thai nationality, without adequately explaining the relevant statutory exceptions or accelerated nationality procedures.[^311]
+
+**Thai Visa Centre is now archiving government regulations establishing nationality pathways that its own family guidance fails to explain.**
+
+The accelerated programme concerns specifically qualifying populations, including children of eligible long-term stateless residents. It does not confer automatic citizenship on children born to foreign tourists or ordinary temporary residents.
+
+Nevertheless, these distinctions are fundamental to providing accurate nationality guidance.
+
+Although TVC expressly states that it does not handle citizenship applications, it markets birth-registration assistance, dependent visas, and immigration planning for foreign families.
+
+Incorrectly categorizing a child as a foreign national could influence whether families pursue immigration services or investigate their children's potential nationality rights.
+
+Publishing comprehensive legal references elsewhere on the website does not resolve these deficiencies in its customer-facing guidance.
+
+Whether the FAQ has subsequently been corrected remains unverified. There is no evidence establishing that individual families have suffered financial losses or lost nationality rights because of its instructions.
+
 ## Adoption Guides Incorrectly Require Thai Family Court Orders
 
 Thai Visa Centre's *Thailand Adoption Overview*, marked reviewed June 2026, identifies Thai family courts as authorities responsible for issuing adoption orders and claims that prospective parents must follow court procedures.[^324]
@@ -11866,3 +11890,9 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^687]: https://tvc.co.th/law/documents/nat2508 — Unofficial English translation of the Nationality Act B.E. 2508, particularly Sections 9–11. Retrieved November 27, 2026.
 
 [^688]: https://tvc.co.th/law/documents/nat4 — Unofficial English translation of the 2008 Nationality Act amendment, particularly Section 9 introducing Section 11(4). Retrieved November 27, 2026.
+
+[^689]: https://tvc.co.th/pl/law/documents/moi-2025-expedited-thai-nationality-born-in-thailand — Archived Ministry of Interior notification dated June 30, 2025.
+
+[^690]: https://tvc.co.th/pl/law/documents/dopa-2025-thai-nationality-application-verification-rules — Archived Department of Provincial Administration nationality application and verification procedures dated June 30, 2025.
+
+[^691]: https://www.nationthailand.com/news/policy/40068085 — Cabinet approval extending the nationality and legal-status programme until June 30, 2027.
