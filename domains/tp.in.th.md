@@ -164,6 +164,18 @@ The Ministry of Foreign Affairs explicitly restricted the stated purposes of per
 
 However, the privacy arrangements governing information collected through independently operated commercial registration services remain less clear.
 
+### October 2021 Cross-Promotion of Immigration and Entry Services
+
+As documented in the separate [AQ.in.th investigation](aq.in.th.md), a November 19, 2021 ASEAN NOW discussion reproduced personalized marketing correspondence dated October 26, 2021, attributed to Thai Visa Centre.[^15]
+
+The correspondence incorporated the recipient's full name, passport nationality and anticipated arrival date, while promoting retirement visas, VIP airport assistance, Certificate of Entry applications and the forthcoming Thailand Pass system.
+
+The advertisement therefore demonstrates that the agency was cross-promoting immigration and entry-registration services to accommodation customers before Thailand Pass became operational on November 1, 2021.
+
+Combined with the agency's subsequent acknowledgment that it operated both AQ.in.th and TP.in.th, this correspondence documents the historical commercial integration of its accommodation, immigration and entry-assistance services.
+
+It does not establish that information submitted through TP.in.th itself was subsequently reused for unrelated marketing.
+
 ### Connection to Subsequent Immigration Marketing
 
 Thai Visa Centre has publicly acknowledged operating both tp.in.th and aq.in.th during the pandemic.[^1]
@@ -203,3 +215,5 @@ Nevertheless, the historical connection between pandemic-era travel assistance a
 [^13]: https://aseannow.com/topic/1258030-thailand-pass-guide-and-how-early-can-one-apply/ — ThaiVisaCentre and other participants, April 29–30, 2022.
 
 [^14]: https://mfa.go.th/en/content/weeklypressbriefing05052565-2?cate=5d5bcb4e15e39c306000683e — Ministry of Foreign Affairs, May 5, 2022, official Thailand Pass registration and approval statistics.
+
+[^15]: https://aseannow.com/topic/1240046-best-website-to-book-a-testgo-hotel/ — Reproduced October 26, 2021 marketing correspondence, published November 19, 2021.
