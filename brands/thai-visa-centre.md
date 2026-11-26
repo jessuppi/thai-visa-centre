@@ -313,6 +313,36 @@ They provide important historical context for the agency's later claims concerni
 
 The published discussions establish the existence of these customer-management practices but do not reveal the applicable retention periods, information-sharing arrangements, or security controls.
 
+## August–October 2021 Retirement Visa Financial Assistance
+
+On August 30, 2021, ThaiVisa.com participant **mtls2005** asked whether Thai Visa Centre remained a forum sponsor and whether the agency processed retirement extensions through Bangkok's Chaeng Watthana immigration office.[^97]
+
+Longtime immigration forum contributor **ubonjoe** confirmed the continuing sponsorship but explained that the agency arranged retirement extensions outside Bangkok for applicants requiring assistance with financial evidence.
+
+He initially estimated the service cost at 20,000–25,000 baht or more, subsequently revising the figure to **14,000 baht** after receiving updated pricing information directly from Thai Visa Centre.
+
+The contributor then closed the sponsored discussion, identifying it as outdated advertising material.
+
+### October 2021 Pricing Reports
+
+On October 28, 2021, forum participant **Jenson55** reported that an acquaintance had paid Thai Visa Centre 32,000 baht for an initial Non-Immigrant O visa and subsequent extension.[^107]
+
+The participant also reported that the agency was quoting 20,000 baht for another annual extension, compared with 17,000 baht quoted by a competing agency.
+
+The broader discussion explicitly addressed differences in agency pricing depending on whether applicants could independently satisfy immigration's financial requirements.
+
+### Historical Significance
+
+The August 2021 exchange is particularly significant because the description of Thai Visa Centre's financial-assistance services came from an established contributor within the forum hosting the agency's commercial advertising.
+
+Thailand had strengthened its retirement-extension financial requirements in March 2019 specifically amid concerns about immigration fraud.[^84]
+
+**By August 2021, Thai Visa Centre's arrangements involving financial evidence and immigration processing outside Bangkok were being openly discussed within its own sponsored forum thread.**
+
+These disclosures provide historical context for subsequent customer accounts describing the agency's 800,000-baht financial-assistance packages and out-of-province immigration extensions.
+
+The underlying financial transactions, specific immigration offices and individual applicants' eligibility remain unverified.
+
 ## 2021–2022 Visa Agent Dependency and Provincial Immigration Reporting
 
 On January 12, 2021, ThaiVisa.com participant **VyacheslavKHV** reported that an acquaintance holding a volunteer visa had encountered difficulties completing 90-day reporting in Bangkok because the visa had been obtained in another province.[^99]
@@ -977,3 +1007,5 @@ Individual examples, original publications, and supporting legal sources are doc
 [^105]: https://thailand.go.th/visit-thailand-detail/001_01_074 — Government tourist extension requirements, March 2023.
 
 [^106]: https://thailand.go.th/issue-focus-detail/001_01_259 — Government explanation of electronic extension procedures, incorporating Immigration Bureau information dated November 8, 2022.
+
+[^107]: https://aseannow.com/topic/1237128-visa-agent-cost/ — Jenson55 and other forum participants, October 28, 2021.
