@@ -337,6 +337,34 @@ They provide important historical context for the agency's later claims concerni
 
 The published discussions establish the existence of these customer-management practices but do not reveal the applicable retention periods, information-sharing arrangements, or security controls.
 
+## March–June 2021 Overstay Resolution Services
+
+On March 30, 2021, Thai Visa Centre publicly acknowledged regularly assisting foreigners seeking immigration extensions despite having overstayed their existing permission to remain in Thailand.[^113]
+
+Responding to a discussion concerning an elderly foreigner's immigration difficulties, the agency stated:
+
+> We help with this type of situation regularly, and yes he would need to clear the overstay fine.
+
+The agency subsequently suggested that applicants attempting to resolve comparable situations independently might experience different outcomes.
+
+However, the original forum participant reported that the affected foreigner had successfully paid his fine and applied for an extension without using Thai Visa Centre.
+
+### June 2021 Thailand Elite Overstay Case
+
+On June 12, 2021, Thai Visa Centre participated in another discussion concerning a Thailand Elite visa holder facing blacklisting after an extended overstay.[^114]
+
+The agency invited the affected foreigner to contact its staff privately so that it could assess whether assistance was possible.
+
+Thai Visa Centre acknowledged uncertainty about its ability to resolve the situation and explained that ordinary departure procedures and applicable overstay penalties would remain an alternative.
+
+### Historical Significance
+
+**Thai Visa Centre was actively promoting assistance with existing immigration violations by March 2021.**
+
+These statements provide historical context for its subsequent commercial blacklist assistance, airport-entry screening and admission-related services.
+
+Neither discussion establishes that Thai Visa Centre successfully removed an immigration blacklist entry, obtained an unlawful extension, or secured an exemption from mandatory penalties.
+
 ## May 2021 Guaranteed COVID Extension Approvals
 
 On May 6, 2021, Thai Visa Centre advertised a door-to-door 60-day immigration extension service through its sponsored ThaiVisa.com discussion.[^97]
@@ -1093,3 +1121,7 @@ Individual examples, original publications, and supporting legal sources are doc
 [^111]: https://aseannow.com/topic/1247163-volunteer-visa-impossible-to-apply-for-non-o-following-volunteer-visa-via-agent/ — MajorTom, James Bernard and ThaiVisaCentre, January 19, 2022.
 
 [^112]: https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/4/ — NitJune, September 10, 2025.
+
+[^113]: https://aseannow.com/topic/1211628-overstay-question/ — ThaiVisaCentre and BKKTRAVELER, March 30, 2021.
+
+[^114]: https://aseannow.com/topic/1220227-thai-elite-visa-overstay/ — ThaiVisaCentre, June 12, 2021.
