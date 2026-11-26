@@ -3408,6 +3408,26 @@ It adds another substantial inconsistency to the existing investigation into Tha
 **An agency claiming to specialize in complex immigration applications should not direct customers toward a work permit that Thailand's own investment authority explicitly states they cannot obtain.**
 
 
+### November 2026 Update: TVC Archives Official Guidance Contradicting Its Digital Work Permit Claims
+
+By November 27, 2026, Thai Visa Centre's expanding legal archive included a dedicated publication reproducing and summarizing the Board of Investment's official LTR visa frequently asked questions.[^680]
+
+The archived material acknowledges that Work-from-Thailand Professionals cannot obtain Thai work permits under that visa category.
+
+This directly contradicts the company's previously indexed commercial guide, which repeatedly advertises digital work permits as a benefit of the Work-from-Thailand Professionals category.[^123]
+
+The contradiction extends to the application procedure itself, with the commercial guide instructing successful applicants to apply for a digital work permit after receiving their LTR visa.
+
+**Thai Visa Centre is now archiving official government guidance explaining why prospective customers cannot obtain a document that its own commercial publication promises.**
+
+The distinction is particularly significant because the company promotes digital work permits as an advantage of choosing the more financially demanding LTR visa over the Destination Thailand Visa.
+
+Publishing government legislation and official guidance may improve public access to immigration information. However, it does not establish professional expertise when the company's own commercial advice contradicts the government material it publishes.
+
+Thai Visa Centre should reconcile these publications, remove the unavailable work-permit benefit from its advertising, and clarify whether customers have previously been advised to pursue unnecessary work-permit processing.
+
+The available evidence does not establish deliberate deception, the issuance of fraudulent permits, or financial losses suffered by individual customers.
+
 ## Mandatory LTR Health Insurance Claims Contradict Official BOI Alternatives
 
 Thai Visa Centre publishes misleading instructions concerning the health-insurance requirements of Thailand's Long-Term Resident (LTR) visa program.
@@ -11666,3 +11686,5 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^678]: https://tvc.co.th/law/retirement — Thai Visa Centre's retirement legal guide, including its explanation of Immigration Bureau Order 12/2568, clause 2.22. Reviewed November 27, 2026.
 
 [^679]: https://tvc.co.th/law/documents/imm-bkk-faq — Immigration Division 1 official FAQ, archived by Thai Visa Centre on November 22, 2026, including overstay fines and separate re-entry ban schedules for voluntary surrender and arrest.
+
+[^680]: https://tvc.co.th/th/law/documents/work-boi-ltr-faq — Thai Visa Centre's archived BOI LTR visa FAQ, indexed November 27, 2026, including the exclusion of Work-from-Thailand Professionals from work-permit eligibility.
