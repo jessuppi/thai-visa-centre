@@ -140,6 +140,46 @@ The operator should identify the applicable legal basis for this processing, exp
 
 The available evidence establishes the republication of sensitive discussion material but does not establish whether particular contributors remain identifiable or whether AGENTS has obtained appropriate consent.
 
+## Obscured Government Links and Affiliated Immigration Referrals
+
+An examination of Ask Thailand on November 26, 2026 identified examples of republished community discussions in which references to official government resources were obscured while links to commercially affiliated websites remained accessible.
+
+### October and November 2026 TDAC Discussions
+
+An October 18, 2026 discussion concerning TDAC fees contains several contributions recommending Thailand's free government registration service.[^12]
+
+However, some links accompanying those recommendations are replaced with strings of asterisks.
+
+A November 25, 2026 discussion concerning difficulties completing the TDAC contains similar obscured links, including links accompanying recommendations to use official government websites and mobile applications.[^13]
+
+Both pages prominently display an operator-inserted notice directing readers to the privately operated `thim.in.th` website.
+
+That website, in turn, prominently promotes AGENTS' commercial TDAC submission service, although it also provides a link to the official government portal.[^14]
+
+### Contradiction With Published Verification Advice
+
+Ask Thailand's About page advises readers to verify important immigration requirements through official Thai government sources.[^1]
+
+Thailand's Immigration Bureau explicitly identifies `tdac.immigration.go.th` as its official registration website.[^15]
+
+**Obscuring links accompanying community recommendations to use government resources while retaining prominent links to affiliated websites creates an inconsistent presentation of available immigration services.**
+
+This arrangement can introduce an additional commercial intermediary between travelers and the government resources they are seeking.
+
+### Duplicated Community Contributions
+
+Both examined discussions also contain repeated comments attributed to the same displayed contributors.
+
+The duplication raises questions about whether the platform's published response totals accurately represent distinct community contributions.
+
+The available evidence does not establish whether these repetitions result from the original discussions, automated content-import procedures, or subsequent processing.
+
+### Commercial Significance
+
+Ask Thailand is not merely a passive archive of community conversations. Its operator adds summaries, classifications, related-content recommendations, and prominent referrals to affiliated immigration websites.
+
+The operator should clarify its link-redaction policies, comment-deduplication procedures, and criteria for inserting commercial referrals into republished discussions.
+
 ## References
 
 - `https://asq.in.th/policy/terms-and-conditions`
@@ -159,3 +199,11 @@ The available evidence establishes the republication of sensitive discussion mat
 [^10]: Ask Thailand, publicly indexed discussion concerning DTV medical-treatment applications, examined November 26, 2026.
 
 [^11]: `https://asq.in.th/question/does-a-criminal-record-automatically-disqualify-you-from-obtaining-a-dtv-visa-in-thailand` — September 8, 2026, discussion containing anonymized contributions concerning criminal records.
+
+[^12]: `https://asq.in.th/question/is-there-a-charge-for-the-digital-arrival-card-for-thailand` — October 18, 2026 discussion.
+
+[^13]: `https://asq.in.th/question/why-am-i-unable-to-use-the-digital-arrival-card-for-my-trip-to-thailand` — November 25, 2026 discussion.
+
+[^14]: `https://thim.in.th/` — Commercially affiliated immigration guide and TDAC service referrals.
+
+[^15]: https://tdac.immigration.go.th/manual/en/faq.html — Immigration Bureau, official TDAC guidance.
