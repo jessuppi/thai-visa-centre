@@ -2168,6 +2168,51 @@ Accurate disclosure of government fees is particularly important when customers 
 
 The discrepancy does not establish that TVC actually charges customers inflated government fees. It establishes that its legal information archive presents statutory maximums without adequately explaining the lower applicable charges, despite publishing correct figures elsewhere.
 
+## Immigration Law Archive Includes Irrelevant References and Contradictory Fee Guidance
+
+As of November 27, 2026, Thai Visa Centre's legal guide concerning extensions of temporary stay lists 130 supporting legal instruments, government publications, and archived documents.[^670]
+
+However, numerous documents concern extensions of taxation incentives rather than extensions of immigration permission.
+
+### Unrelated Corporate Tax Legislation
+
+Examples include:
+
+| Legislation | Actual subject |
+| --- | --- |
+| Royal Decree No. 611 (2016) | Corporate tax deductions for domestic seminars and tourism |
+| Royal Decree No. 635 (2017) | Tax exemptions for property fund conversions |
+| Royal Decree No. 658 (2018) | Corporate tax exemptions for qualifying startups |
+| Royal Decree No. 669 (2018) | Extension of reduced VAT rates |
+| Royal Decree No. 726 (2021) | Tax deductions for employing former prisoners |
+| Royal Decree No. 800 (2025) | Tax incentives for hotel renovations |
+
+These documents are presented alongside genuinely relevant immigration legislation without explaining their relevance to temporary-stay extensions.
+
+The apparent association is consistent with an overly broad interpretation of the word "extension," encompassing unrelated financial and administrative procedures.
+
+### Correct Government Fees Appear Within the Archive
+
+The extension-of-stay guide incorrectly identifies 2,000 baht as the applicable extension fee.[^670]
+
+The separate re-entry permit guide similarly presents 2,000 baht as the single-entry permit fee under the 1999 statutory schedule.[^671]
+
+However, reference 11 within that same re-entry permit guide correctly identifies the applicable single-entry permit fee as 1,000 baht and the multiple-entry permit fee as 3,800 baht.
+
+Thai Visa Centre's archived copy of Bangkok Immigration's official fee schedule also identifies the ordinary temporary-stay extension fee as 1,900 baht.[^672]
+
+These figures correspond with the official Immigration Bureau fee schedule previously examined in this investigation.[^661]
+
+### Reliability of the Legal Archive
+
+**Thai Visa Centre's legal archive contains relevant government information that contradicts its own explanatory guidance, alongside unrelated legislation presented as supporting material.**
+
+The findings raise questions about document classification, source selection, editorial review, and whether the published summaries have been adequately reconciled with their underlying references.
+
+They do not establish that the documents themselves are fabricated, that the archive was generated using artificial intelligence, or that the agency intentionally inflated its reference counts.
+
+Nevertheless, the number of cited documents should not be interpreted as evidence of legal accuracy.
+
 ## Incorrect Immigration Form Instructions Contradict Official Requirements and the Agency's Own Guides
 
 Thai Visa Centre publishes contradictory instructions concerning two fundamental Thai immigration forms: **TM7 and TM87**.
@@ -11466,3 +11511,9 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^668]: https://aseannow.com/topic/1232852-recommendation-for-visa-agent-in-bangkok/ — ThaiVisaCentre and other forum participants, September 24–25, 2021, pricing, refund guarantees and immigration receipts.
 
 [^669]: https://aseannow.com/topic/1305125-recommended-firmcompany-to-purchase-thai-elite-visa/ — ThaiVisaCentre, DrJack54 and other participants, August 30–31, 2023.
+
+[^670]: https://tvc.co.th/law/extension — Extension of stay, including its 130-document reference table.
+
+[^671]: https://tvc.co.th/law/re-entry — Re-entry permits, including the contradictory fee guidance and reference 11.
+
+[^672]: https://tvc.co.th/law/documents/imm-bkk-fees — Archived Bangkok Immigration fee schedule, dated November 22, 2026.
