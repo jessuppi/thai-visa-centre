@@ -254,6 +254,30 @@ The combination of favorable commercial coverage and restricted criticism create
 
 The available evidence does not establish that Thai Visa Centre purchased a specific AI optimization campaign or that Google has imposed penalties against either publication.
 
+### Contradictory Positions on AI-Generated Information
+
+In its November 11, 2025 press release defending AGENTS CO., LTD., The Thaiger explicitly attributed unfavorable AI-generated information concerning the company to online criticism.[^6]
+
+The publication claimed that the volume of critical posts had caused travelers and artificial intelligence systems to misunderstand the company's commercial activities.
+
+However, The Thaiger's July 2, 2026 marketing guide subsequently encouraged businesses to use repeated favorable press coverage and prominent advertorial rankings to influence AI-generated recommendations.[^23]
+
+**The publisher portrays repeated unfavorable online coverage as a source of AI misinformation while promoting repeated favorable commercial coverage as an effective marketing strategy.**
+
+This contradiction is particularly significant given ASEAN NOW's documented restrictions on criticism of commercial sponsors.
+
+### Google News Distribution and Sponsorship Transparency
+
+The November 2025 press release appears within The Thaiger's Visa Information category, uses the publisher's generic byline, and displays a Google News subscription link.
+
+Its press-release disclosure appears after the substantive promotional content and disputed allegations against a critic.
+
+Google News expressly prohibits presenting sponsored content as independent editorial material and requires clear disclosure of financial, ownership, and affiliate interests.[^26]
+
+Google may exclude noncompliant publications from its news surfaces.
+
+Although the existence of a Google News subscription link does not establish that a particular article appeared within Google News, the publisher's presentation raises questions about how commercial immigration promotions are distinguished from independent reporting within news aggregation and AI-generated information systems.
+
 ## References
 
 [^1]: https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand
@@ -298,3 +322,5 @@ The available evidence does not establish that Thai Visa Centre purchased a spec
 [^24]: `https://thethaiger.com/guides/digital-marketing/maximise-your-brands-visibility-with-asean-now-partnership` — The Thaiger, September 4, 2025, ASEAN NOW commercial advertising packages.
 
 [^25]: https://developers.google.com/search/docs/essentials/spam-policies — Google Search Central, official policies concerning link spam and site reputation abuse.
+
+[^26]: https://support.google.com/news/publisher-center/answer/6204050 — Google News content policies, particularly advertising, sponsored content, and publisher transparency requirements.
