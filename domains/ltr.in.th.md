@@ -262,6 +262,32 @@ These omissions are particularly relevant because `ltr.in.th` offers prospective
 
 Accurate explanations of continuing eligibility, visa termination, and reporting obligations are essential for applicants making long-term employment, investment, and relocation decisions.
 
+## LTR Renewal Guidance Omits the BOI's Recommended Application Window
+
+The English-language homepage of `ltr.in.th`, updated November 26, 2026, repeatedly instructs Long-Term Resident visa holders to apply for renewed qualification endorsement at least 20 working days before their existing permission expires.[^20]
+
+Although this accurately reflects the regulatory minimum established by BOI Announcement Por. 4/2568, the website omits the considerably earlier application window recommended by the BOI itself.
+
+### Regulatory Minimum Versus Practical Application Window
+
+The BOI's official frequently asked questions recommend submitting five-year renewal applications between **120 and 60 days before the expiration of existing permission to stay**.[^5]
+
+Sections 4–6 of BOI Announcement Por. 4/2568 distinguish three procedural requirements:[^21]
+
+- Qualification endorsement applications must be submitted at least 20 working days before expiration.
+- The BOI has 20 working days to consider the application.
+- Applicants must subsequently obtain their immigration extension before their existing permission expires.
+
+**Submitting an application at the regulatory minimum could therefore leave insufficient time to complete the subsequent immigration procedure.**
+
+### Commercial Significance
+
+The omission is particularly relevant as the earliest LTR visa holders approach their initial five-year renewals in 2027.
+
+Accurate renewal guidance should distinguish the minimum regulatory deadline from the government's recommended application window, allowing sufficient time for additional documentation, qualification assessment, and immigration processing.
+
+While `ltr.in.th` accurately reproduces the regulatory minimum, its practical application instructions remain incomplete compared with the BOI's current guidance.
+
 ## References
 
 [^1]: `https://ltr.in.th/`
@@ -290,3 +316,7 @@ Accurate explanations of continuing eligibility, visa termination, and reporting
 [^18]: https://ltr.boi.go.th/page/1-year-reporting.html — Board of Investment, official annual immigration reporting requirements.
 
 [^19]: https://ltr.boi.go.th/page/cancellation.html — Board of Investment, official LTR visa and work-permit termination procedures.
+
+[^20]: `https://ltr.in.th/` — LTR guidance, updated November 26, 2026, particularly the visa duration and application procedure sections.
+
+[^21]: https://ltr.boi.go.th/documents/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_4_2568_EN.pdf — BOI Announcement Por. 4/2568, February 18, 2025, Sections 4–6, page 3.
