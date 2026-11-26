@@ -5007,6 +5007,37 @@ However, **the company's commercial website continues promoting discontinued imm
 Thai Visa Centre should update its advertised categories, remove obsolete four-year eligibility claims, and explain which immigration pathways remain available to professionals and investors affected by the 2025 changes.
 
 
+### TVC's Own Legal Archive Acknowledges the Revised Eligibility Rules
+
+As of November 27, 2026, Thai Visa Centre's dedicated SMART Visa legal archive identifies BOI Announcement No. Por. 5/2568 as the applicable qualification framework.[^676]
+
+Its reference table explicitly describes the announcement as establishing a startup-only SMART Visa pathway.
+
+However, the same publication's plain-English explanation continues identifying highly skilled professionals, investors, executives, and startup entrepreneurs as eligible categories without clearly distinguishing historical eligibility from current application requirements.
+
+### Obsolete Application Materials Remain in the Archive
+
+The legal guide also includes historical qualification criteria and application checklists for discontinued categories, including:
+
+- SMART Talent (T).
+- SMART Investor (I).
+- SMART Executive (E).
+
+Preserving historical documents is not inherently misleading. However, presenting them alongside current application materials without consistently identifying their superseded status creates ambiguity for prospective applicants.
+
+The BOI announcement expressly repealed the previous qualification framework and restricted new applications to qualifying startup entrepreneurs and their eligible dependents.[^170]
+
+### Contradiction Between Legal Knowledge and Commercial Advertising
+
+**Thai Visa Centre's own legal archive acknowledges the startup-only framework while its commercial website continues advertising the former eligibility categories.**
+
+This establishes an inconsistency between the legislation the company publishes, its explanatory guidance, and its commercial immigration services.
+
+The evidence does not establish deliberate deception or that customers have paid for unavailable immigration services.
+
+Nevertheless, the company cannot resolve the discrepancy merely by publishing additional legislative references. Its customer-facing eligibility explanations must accurately reflect those references.
+
+
 ## Tourist Visa Page Understates Financial Requirements and Misstates Insurance Rules
 
 Thai Visa Centre's commercial tourist-visa page provides incorrect guidance concerning financial evidence and travel insurance.
@@ -11548,3 +11579,5 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^674]: https://tvc.co.th/law/documents/privilege — Archived Ministry of Interior notification and unofficial English translation, particularly Clauses 3, 4, 6 and 8.
 
 [^675]: https://tvc.co.th/law/privilege — Separate legal guide describing the special employment-related immigration arrangement.
+
+[^676]: https://tvc.co.th/law/smart — SMART Visa legal guide, including its plain-English explanation and 57-document reference table, reviewed November 27, 2026.
