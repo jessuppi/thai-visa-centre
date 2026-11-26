@@ -128,6 +128,60 @@ The available evidence does not establish that AGENTS provides unauthorized immi
 
 The company's commercial comparison is significant because it promotes fast-track availability as a measure of service superiority without explaining the regulatory distinctions highlighted by its associated media platforms.
 
+## Omitted Government Assistance and Contradictory Group Submission Limits
+
+As examined on November 26, 2026, AGENTS CO., LTD.'s commercial TDAC guide contains incomplete information concerning government assistance, reporting exemptions, and the capabilities of its own submission platform.[^17]
+
+### Omission of Free Airport Registration Facilities
+
+Thailand's Immigration Bureau provides TDAC registration kiosks at five international airports:
+
+- Suvarnabhumi Airport.
+- Don Mueang International Airport.
+- Phuket International Airport.
+- Chiang Mai International Airport.
+- Hat Yai International Airport.
+
+These facilities assist travelers who lack suitable electronic devices or internet access.[^18]
+
+On February 3, 2026, the Royal Thai Embassy in Lima also confirmed that travelers could complete their TDAC before passing through immigration, including through airport registration facilities.[^19]
+
+However, AGENTS' detailed commercial guide does not explain the availability of these kiosks.
+
+Instead, it promotes its own advance submission, document-delivery, customer-support, and airport-assistance services.
+
+### Thai Visa Centre's Own Legal Archive Identifies the Missing Information
+
+Thai Visa Centre published an archived version of the Immigration Bureau's official TDAC guidance, captured on November 22, 2026.[^20]
+
+The archive explicitly documents all five airport kiosk locations, assistance for travelers without internet access, and procedures for travelers who have not received their confirmation email.
+
+It also identifies airline crew as exempt from TDAC registration.
+
+AGENTS' commercial guide identifies transit passengers and Border Pass holders as exempt but omits the airline crew exemption.
+
+**The missing government assistance options and exemptions are documented within the affiliated agency's own legal archive but remain absent from its commercial TDAC guide.**
+
+### Contradictory Group Submission Limits
+
+AGENTS repeatedly advertises unlimited group submissions as a commercial advantage over the official government portal.
+
+However, its own TDAC guide describes a maximum of 100 travelers per submission.[^17]
+
+Its separate commercial service description continues advertising unrestricted group sizes.[^21]
+
+The operator does not explain whether larger groups are automatically divided into separate submissions or whether the advertised unlimited capacity is subject to operational restrictions.
+
+This discrepancy is particularly relevant to travel agencies and tour operators purchasing advance submission services for large groups.
+
+### Commercial Significance
+
+Government registration facilities provide an alternative for travelers experiencing technical difficulties or arriving without completed arrival cards.
+
+Although advance registration remains advisable, travelers should not be led to believe that purchasing commercial assistance is necessary to resolve these difficulties.
+
+AGENTS should clearly identify available government assistance, accurately communicate registration exemptions, and reconcile its contradictory group-capacity claims.
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
@@ -154,3 +208,13 @@ The company's commercial comparison is significant because it promotes fast-trac
 [^15]: `https://agents.co.th/tdac-apply/about/` — Commercial service description.
 
 [^16]: https://thailand.go.th/public/issue-focus-detail/--vip--fast-track-lane--boi- — Official government guidance concerning eligible BOI investors and executives.
+
+[^17]: `https://tdac.agents.co.th/` — Commercial TDAC guide, reviewed November 26, 2026.
+
+[^18]: https://tdac.immigration.go.th/manual/en/faq.html — Immigration Bureau, official TDAC FAQ.
+
+[^19]: https://lima.thaiembassy.org/en/content/how-to-submit-the-thailand-digital-arrival-card-td — Royal Thai Embassy, Lima, February 3, 2026.
+
+[^20]: `https://tvc.co.th/law/documents/imm-tdac-faq` — Thai Visa Centre's archived government FAQ, captured November 22, 2026.
+
+[^21]: `https://agents.co.th/tdac-apply/about/` — Commercial service comparison and group submission advertising.
