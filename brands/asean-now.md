@@ -38,6 +38,52 @@ The exchange occurred within the same discussion where **Thai Visa Centre partic
 
 **The incident raises questions about the reliability and independence of immigration advice provided by ASEAN NOW moderators.** The published statements do not establish that Thai Visa Centre actually arranged temporary deposits, that a particular visa was obtained unlawfully, or that the moderator participated in improper transactions. They do establish that a moderator publicly described a practice inconsistent with the financial conditions governing ordinary retirement extensions, without producing evidence or distinguishing it from legitimate immigration procedures.[^8][^9]
 
+## Historical Advertiser Protection and Continuity Following The Thaiger Acquisition
+
+ASEAN NOW's restrictions on criticism of commercial sponsors substantially predate its sponsorship relationship with Thai Visa Centre and its acquisition by The Thaiger.
+
+### November 2010: Advertising Revenue Used to Justify Restrictions
+
+On November 21, 2010, ThaiVisa.com member **fridgemagnet** reported that a post criticizing a commercial sponsor had been removed and publicly challenged the forum's policy.[^10]
+
+Responding to the complaint, forum contributor **cdnvic** defended the arrangement by emphasizing that sponsors financed the infrastructure required to operate the discussion platform.
+
+The contributor directed dissatisfied customers toward the advertising sales department or private communication with the sponsor.
+
+He also cited Thailand's strict defamation laws and the possibility of competitors abusing anonymous discussion accounts.
+
+### June 2012: Contractual Restrictions on Advertiser Criticism
+
+On June 10, 2012, during a discussion concerning the legality of a sponsored television service, forum member **SaNim** reproduced the following provision attributed to ThaiVisa's then-current forum rules:
+
+> Our contracts with our advertisers prohibit comments with regard to advertisements which appear on our forums.
+
+The provision additionally required such comments to be removed.[^11]
+
+The contributor questioned whether the restriction prevented members from publicly examining the legality of services advertised by commercial sponsors.
+
+This historical exchange indicates that advertiser protection was presented as a contractual obligation rather than merely a general moderation preference.
+
+### April 2024: Sponsor Protection Reaffirmed After Acquisition
+
+On April 23, 2024, just four days after The Thaiger announced its acquisition of ASEAN NOW, longtime forum member **simon43** criticized increasingly intrusive advertising and anti-ad-blocking notifications.[^1][^12]
+
+The forum account **george** responded by citing three rules, including Rule 37:
+
+> You will not post negative comments concerning advertisements on ASEAN NOW or our sponsors.
+
+The discussion was subsequently closed to further replies.
+
+### Relevance to Thai Visa Centre
+
+On November 5, 2025, ASEAN NOW administrator Captain Flack invoked the same rule when acknowledging the removal of criticism concerning Thai Visa Centre.[^5]
+
+**These historical records demonstrate that commercially motivated restrictions on public criticism existed long before The Thaiger's acquisition and remained in operation following the ownership transition.**
+
+Their continued enforcement is particularly significant given The Thaiger's subsequent marketing of sponsored community participation, search-engine visibility, and AI-generated recommendations.
+
+The historical advertising contracts themselves have not been obtained, and the available evidence does not establish that Thai Visa Centre negotiated specific censorship provisions.
+
 ## References
 
 [^1]: https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand
@@ -49,3 +95,9 @@ The exchange occurred within the same discussion where **Thai Visa Centre partic
 [^7]: https://tdac.immigration.go.th/manual/en/faq.html
 [^8]: https://aseannow.com/topic/1377910-thai-visa-centre-bangna-grace/page/2/
 [^9]: https://thailand.go.th/public/visit-thailand-detail/001_01_134
+
+[^10]: `https://aseannow.com/topic/419172-criticism-of-sponsors/` — November 21, 2010, discussion concerning removal of sponsor criticism and advertising revenue.
+
+[^11]: `https://aseannow.com/topic/561410-thai-expat-tv-forum-sponsers/page/2/` — June 10, 2012, discussion reproducing contractual advertiser-protection rules.
+
+[^12]: `https://aseannow.com/topic/1325695-more-pop-ups-is-not-a-good-start-to-this-forums-new-owners/` — April 23, 2024, reaffirmation of Rule 37 following The Thaiger's acquisition.
