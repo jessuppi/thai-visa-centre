@@ -275,6 +275,44 @@ A separate March 2021 report published on ASEAN NOW described approximately **30
 
 The incident raises questions about Thai Visa Centre's historical handling of customer payments, employee access to client funds, and internal financial controls. The agency acknowledged the alleged losses, claimed to have compensated affected customers, and announced changes to its procedures. However, the available reporting does not independently establish the final criminal proceedings or the total amount of money recovered.[^58][^59]
 
+## 2021 Automated Customer Profiling and Passport Data Collection
+
+In April 2021, Thai Visa Centre publicly described its investment in customer relationship management (CRM) technology, including comprehensive customer profiles, automated questionnaires, reminder systems, and cross-platform identity matching.[^97]
+
+On April 28, 2021, the agency explained that its automated system initially requested three pieces of information:
+
+- Passport nationality.
+- Age.
+- Email address.
+
+The agency explicitly acknowledged using email addresses to automatically associate customer profiles across Facebook and LINE.
+
+### Requests for Immigration Documents Before Providing Quotations
+
+On April 29, 2021, forum participant **edwardandtubs** complained that Thai Visa Centre had requested photographs of his passport information page, entry stamp, and previous visa before answering a pricing inquiry.
+
+Thai Visa Centre responded that it required photographs of immigration stamps to provide accurate quotations. It clarified that passport photographs were required for accepting cases rather than providing general advice.
+
+The agency also acknowledged that prospective customers who declined to provide information could experience difficulty reaching human staff.
+
+It justified its automated screening process by claiming that its team sometimes communicated with between 300 and 1,000 people per day.[^97]
+
+### September 2021 Complaints About Automated Document Requests
+
+On September 24, 2021, forum participant **problemfarang** similarly criticized Thai Visa Centre for requesting passport photographs, visa photographs, TM6 arrival-card images, and other information immediately after customers contacted its LINE account.[^98]
+
+Thai Visa Centre confirmed that these requests were automated and that the information was used to place prospective customers into a prioritized service queue.
+
+### Historical Significance
+
+**Thai Visa Centre's own statements establish that it had implemented automated customer profiling, cross-platform identity matching, and immigration-document collection by April 2021.**
+
+These disclosures predate its subsequent expansion into Thailand Pass, digital arrival cards, online visa qualification tests, and other immigration-related platforms.
+
+They provide important historical context for the agency's later claims concerning its extensive customer database and mailing list.
+
+The published discussions establish the existence of these customer-management practices but do not reveal the applicable retention periods, information-sharing arrangements, or security controls.
+
 ## May 2022 AQ.in.th Customer Data and Visa Marketing
 
 On May 4, 2022, a traveler reported receiving an unsolicited email from `thaivisacentre.com` advertising visa-extension services. The message specifically referenced an earlier Test & Go booking the traveler had made through [aq.in.th](../domains/aq.in.th.md), despite the traveler not having requested visa assistance from Thai Visa Centre.[^14]
@@ -850,3 +888,7 @@ Individual examples, original publications, and supporting legal sources are doc
 [^95]: https://aseannow.com/topic/1182571-thai-visa-centre-visa-agent/ — Sponsored advertisement published September 15, 2020.
 
 [^96]: https://aseannow.com/topic/1182571-thai-visa-centre-visa-agent/page/3/ — Discussion concerning immigration payments, financial requirements, and provincial jurisdiction, September 26–27, 2020.
+
+[^97]: https://aseannow.com/topic/1182571-thai-visa-centre-visa-agent/page/7/ — ThaiVisaCentre and edwardandtubs, April 28–29, 2021.
+
+[^98]: https://aseannow.com/topic/1232852-recommendation-for-visa-agent-in-bangkok/ — ThaiVisaCentre and problemfarang, September 24, 2021.
