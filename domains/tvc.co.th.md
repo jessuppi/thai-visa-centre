@@ -2074,6 +2074,52 @@ Thai Visa Centre's guide fails those basic tests.
 
 The company should explain the basis for its US$2,000 embassy-fee claim, clarify why its reporting-service price differs from that published by AGENTS CO., LTD., and update its Thailand Privilege deadline information.
 
+### Immigration Law Archive Misrepresents Statutory Fee Ceilings as Actual Charges
+
+Thai Visa Centre's immigration law archive publishes a dedicated *Visa and Extension Fees* guide that presents the fee schedule established by the Immigration Act (No. 3) B.E. 2542 (1999) as an applicable government price list.[^660]
+
+However, the guide fails to distinguish between statutory maximum fees and the actual charges prescribed by subsequent ministerial regulations.
+
+#### Inflated Government Fees
+
+A comparison with the Immigration Bureau's published fee schedule identifies several discrepancies:
+
+| Immigration procedure | TVC law archive | Official fee |
+|---|---:|---:|
+| Extension of temporary stay | ฿2,000 | ฿1,900 |
+| Single re-entry permit | ฿2,000 | ฿1,000 |
+| Permanent-residence application | ฿8,000 | ฿7,600 |
+| Standard residence certificate | ฿200,000 | ฿191,400 |
+| Qualifying reduced-fee residence certificate | ฿100,000 | ฿95,700 |
+
+The official charges are published by Samut Prakan Immigration, which identifies Ministerial Regulation No. 27 B.E. 2546 (2003) as the applicable regulatory basis.[^661]
+
+#### Confusing Statutory Maximums With Applicable Fees
+
+Section 5 of Thailand's Immigration Act authorizes the establishment of fees through ministerial regulations, subject to the maximum amounts specified in the Act's attached schedule.[^662]
+
+The amounts appearing in the 1999 statutory schedule therefore do not necessarily represent the fees payable by applicants.
+
+Nevertheless, TVC describes that schedule as a price list and instructs readers to pay the fee corresponding to their immigration procedure.
+
+Its separate *Residence under Section 41* legal guide repeats the inflated permanent-residency figures without adequately explaining the distinction.[^663]
+
+#### Thai Visa Centre Contradicts Its Own Commercial Website
+
+Thai Visa Centre's dedicated permanent-residency service page correctly identifies the application fee as 7,600 baht and the standard approval fee as 191,400 baht.[^664]
+
+Its commercial service page also identifies the reduced approval fee of 95,700 baht.
+
+**Thai Visa Centre's own immigration law archive therefore contradicts the government fees published elsewhere on its commercial website.**
+
+#### Commercial Significance
+
+Thai Visa Centre advertises paid assistance with visa extensions, re-entry permits, and permanent-residency applications.
+
+Accurate disclosure of government fees is particularly important when customers must distinguish mandatory immigration charges from optional agency fees.
+
+The discrepancy does not establish that TVC actually charges customers inflated government fees. It establishes that its legal information archive presents statutory maximums without adequately explaining the lower applicable charges, despite publishing correct figures elsewhere.
+
 ## Incorrect Immigration Form Instructions Contradict Official Requirements and the Agency's Own Guides
 
 Thai Visa Centre publishes contradictory instructions concerning two fundamental Thai immigration forms: **TM7 and TM87**.
@@ -11324,3 +11370,13 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^658]: https://www.kasikornbank.com/en/personal/Account/Pages/savings.aspx — Kasikornbank's official savings-account eligibility requirements.
 
 [^659]: https://www.bot.or.th/en/news-and-media/news/news-20250130.html — Bank of Thailand, January 30, 2025, announcement concerning enhanced mule-account management measures.
+
+[^660]: `https://tvc.co.th/law/fees` — Visa and Extension Fees.
+
+[^661]: https://www.samutprakanimmigration.go.th/immigration-fees/ — Official Immigration Bureau fee schedule and regulatory basis.
+
+[^662]: https://www.thailandlawonline.com/thai-family-and-marriage-law/thailand-immigration-law — Immigration Act, Section 5, English translation.
+
+[^663]: `https://tvc.co.th/law/residence` — Residence under Section 41.
+
+[^664]: `https://tvc.co.th/visas/thailand-permanent-residency` — Commercial permanent-residency service page.
