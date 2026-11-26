@@ -776,6 +776,55 @@ Its explanation substantially exaggerates the financial requirements applicable 
 
 **Prospective customers could incorrectly conclude that relocating with their family requires hundreds of thousands of baht in additional savings for each dependent.**
 
+## Contradictory Foreign-Income Taxation and Remittance Guidance
+
+In a tax residency guide published on July 17, 2026, Issa Compass immigration consultant Kat Hewett incorrectly describes Thailand's foreign-income taxation rules as applying regardless of when the income was earned.[^54]
+
+The article specifically states:
+
+> Income earned in 2023 (or any prior year) and remitted in 2026 is still assessable in 2026 under current guidance.
+
+This assertion directly contradicts the Thai Revenue Department's published guidance.
+
+### Official Revenue Department Exemptions
+
+The Revenue Department's publication *How Do Foreigners Living in Thailand Pay Tax?* explains two important circumstances in which subsequently remitted foreign income is not subject to Thai taxation:[^55]
+
+- Foreign-sourced income earned before January 1, 2024.
+- Foreign-sourced income earned during a year in which the individual was not a Thai tax resident.
+
+The department distinguishes the taxpayer's residency during the year income was earned from the subsequent year in which that income is transferred to Thailand.
+
+Issa Compass's July article fails to adequately distinguish these circumstances.
+
+**The incorrect article directly cites the Revenue Department document that contradicts its own conclusions.**
+
+### Contradictory Guidance From Another Issa Compass Consultant
+
+On November 4, 2026, Issa Compass published another tax residency guide authored by immigration consultant Ana Liangsupree and updated on November 13.[^56]
+
+This second publication correctly explains both exemptions.
+
+However, it also directs readers to Hewett's earlier article for a more detailed explanation of the 180-day residency rule.
+
+The company therefore simultaneously publishes contradictory explanations of the same taxation requirements and links readers between them.
+
+### Commercial Financial Services Referrals
+
+The newer article promotes Max Foresight, an Issa Compass commercial partner providing wealth-management services to expatriates.
+
+It also encourages readers to purchase immigration assistance through Issa Compass.
+
+Although the article acknowledges that Issa Compass does not provide professional tax or investment advice, the company's publications make substantive representations concerning taxation that could influence customers' financial and relocation decisions.
+
+### Commercial Significance
+
+The incorrect taxation guidance could cause foreign residents to unnecessarily delay transferring savings into Thailand, misunderstand their tax liabilities, or make inappropriate financial arrangements.
+
+Both versions of the guidance remained publicly accessible when examined on November 26, 2026.
+
+**Issa Compass's contradictory publications demonstrate deficiencies in the accuracy and consistency of its financial information, despite its marketing of professionally reviewed immigration assistance.**
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -874,3 +923,9 @@ Its explanation substantially exaggerates the financial requirements applicable 
 [^52]: https://phitsanulok.immigration.go.th/คู่มือการให้บริการประชาชน/ — Official immigration extension criteria, Sections 20 and 22.
 
 [^53]: https://kualalumpur.thaiembassy.org/en/publicservice/non-immigrant-visa-o-for-retirement — Royal Thai Embassy, Kuala Lumpur, updated July 17, 2026.
+
+[^54]: `https://www.issacompass.com/insights/thailand-tax-residency-explained-the-180-day-rule-and-how-foreign-income-is-actu` — Kat Hewett, published July 17, 2026.
+
+[^55]: https://www.rd.go.th/fileadmin/user_upload/lorkhor/newspr/2024/FOREIGNERS_PAY_TAX2024.pdf — Thai Revenue Department, *How Do Foreigners Living in Thailand Pay Tax?*, particularly pages 2–4.
+
+[^56]: `https://www.issacompass.com/insights/thailand-tax-residency-and-money-for-new-arrivals` — Ana Liangsupree, published November 4, 2026, updated November 13, 2026.
