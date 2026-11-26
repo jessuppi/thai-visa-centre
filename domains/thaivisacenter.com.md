@@ -70,6 +70,40 @@ Nevertheless, its publicly accessible professional guidance contains information
 
 This finding concerns Thai Visa Center, operating through thaivisacenter.com, and should not be attributed to the separately documented Thai Visa Centre operation without further evidence.
 
+## Obsolete Work Permit Penalties and Misleading Application Guidance
+
+Thai Visa Center's published work-permit guide continues to present outdated employment regulations alongside advertisements for its professional immigration services and a claimed 100% success rate.[^11]
+
+### Incorrect Penalties for Unauthorized Employment
+
+The English-language guide describes unauthorized employment as punishable by imprisonment of up to three months, a fine not exceeding 5,000 baht, or both.
+
+However, on January 15, 2026, Thailand's Department of Employment reaffirmed the applicable penalties for unauthorized foreign employment:[^12]
+
+- Fines ranging from 5,000 to 50,000 baht.
+- Deportation to the worker's country of origin.
+- Prohibition on obtaining another work permit for two years following punishment.
+
+The commercial guide therefore substantially misrepresents the applicable financial penalties and omits significant immigration consequences.
+
+### Defective English-Language Legal Guidance
+
+The same publication repeatedly substitutes references to the United Kingdom for Thailand when explaining immigration and employment procedures.
+
+It also cites regulations dating to 1979 and 1994, alongside historical migrant-worker arrangements from 2000.
+
+These passages remain presented as practical employment guidance without an accompanying warning identifying their historical nature.
+
+### Omission of Electronic Work Permit Services
+
+Thailand's Ministry of Labour introduced its nationwide e-WorkPermit system on October 13, 2025, enabling employers and foreign workers to submit applications electronically, track processing, make payments, and schedule appointments.[^13]
+
+Thai Visa Center's guide does not explain these developments and continues describing historical application procedures.
+
+**The publication's obsolete legal references, incorrect penalties, and defective translations undermine its representations of professional immigration expertise.**
+
+This finding concerns Thai Visa Center, operated through thaivisacenter.com, rather than the separately documented Thai Visa Centre brand.
+
 ## References
 
 [^1]: `https://www.thaivisacenter.com/`
@@ -83,6 +117,12 @@ This finding concerns Thai Visa Center, operating through thaivisacenter.com, an
 
 [^9]: `https://www.thaivisacenter.com/15113589/ถาม-ตอบ` — Thai Visa Center frequently asked questions.
 [^10]: https://washingtondc.thaiembassy.org/en/page/visa-information — Royal Thai Embassy, official visa-exemption arrangements effective September 15, 2026.
+
+[^11]: `https://www.thaivisacenter.com/14945321/เวิร์คเพอร์มิท` — Published work-permit guidance, retrieved November 26, 2026.
+
+[^12]: https://www.doe.go.th/prd/alien/news/param/site/152/cat/7/sub/0/pull/detail/view/detail/object_id/98581 — Department of Employment, January 15, 2026.
+
+[^13]: https://www.mol.go.th/en/news/labour-minister-launches-e-workpermit-online-system-for-foreign-worker-registration-24-hour-nationwide-service-begins-october-13 — Ministry of Labour, October 24, 2025.
 
 ## Additional Existing Sources
 
