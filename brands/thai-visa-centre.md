@@ -353,6 +353,41 @@ On May 4, 2022, a traveler reported receiving an unsolicited email from `thaivis
 
 The traveler questioned whether the agency was legitimate before supplying additional personal information, including passport photographs, visa details, and their TM6 arrival card. The incident documents **cross-service marketing using information from an earlier travel booking**, raising questions about how Thai Visa Centre shared and used customer information between its websites.[^14]
 
+## November 2022 Courier-Based Tourist Extensions
+
+On November 8, 2022, Thailand's Immigration Bureau formally launched its electronic extension system in cooperation with VFS Global.[^103]
+
+The government initiative allowed applicants to submit documentation and pay application fees electronically while retaining personal identity verification at an immigration office.
+
+On November 9, Thai Visa Centre responded to an ASEAN NOW discussion concerning the new government system by advertising its own door-to-door tourist extension service for **3,500 baht**.[^104]
+
+The advertised package included:
+
+- Collection and return of documents within Bangkok.
+- The official 1,900-baht immigration fee.
+- Preparation of application documents.
+- A typical processing period of one to three working days.
+
+The agency stated that customers needed to supply only their passport and photograph.
+
+### Personal Attendance Requirements
+
+The government's published tourist extension procedure requires applicants to submit Form TM7 personally.[^105]
+
+Even the official electronic extension system retained an appointment with immigration officers for identity verification and issuance of the extension sticker.[^106]
+
+Thai Visa Centre's advertisement did not identify a personal attendance requirement, explain whether customers would subsequently attend an immigration appointment, or identify an authorized exception to the ordinary procedure.
+
+### Historical Significance
+
+The advertisement documents Thai Visa Centre's promotion of courier-based immigration processing as a commercial alternative to the government's newly introduced digital system.
+
+It also demonstrates that the agency's historical remote-processing services extended beyond retirement extensions and routine 90-day reporting to ordinary tourist extensions.
+
+**The agency advertised a document collection and return service without explaining how the government's personal attendance and identity-verification requirements would be satisfied.**
+
+The advertisement alone does not establish that immigration officers waived these requirements improperly or that customers never attended immigration.
+
 ## Email Collection and Unsolicited Marketing
 
 Thai Visa Centre publicly claims to maintain a mailing list exceeding **375,000 subscribers**, while insisting that all addresses are obtained through voluntary opt-in. Its published spam policy acknowledges collecting email addresses through affiliated immigration websites, including `tdac.in.th`, `dtv.in.th`, `ltr.in.th`, and `eta.in.th`, while denying that subscriber information is sold or shared with third parties.[^3][^26]
@@ -934,3 +969,11 @@ Individual examples, original publications, and supporting legal sources are doc
 [^101]: https://thaiconsulatela.thaiembassy.org/en/publicservice/foreigners-staying-in-thailand-more-than-90-days — Royal Thai Consulate-General, Los Angeles, December 9, 2021.
 
 [^102]: `https://tvc.co.th/law/documents/rtp37` — Thai Visa Centre's legal archive, Royal Thai Police regulations concerning residence notifications and 90-day reporting.
+
+[^103]: https://phitsanulok.immigration.go.th/en/e-extension-online-application-for-temporary-stay-extension-in-3-minutes/ — Immigration Bureau announcement concerning the November 8, 2022 launch.
+
+[^104]: https://aseannow.com/topic/1277196-thailand-e-extension-website/ — ThaiVisaCentre, November 9, 2022.
+
+[^105]: https://thailand.go.th/visit-thailand-detail/001_01_074 — Government tourist extension requirements, March 2023.
+
+[^106]: https://thailand.go.th/issue-focus-detail/001_01_259 — Government explanation of electronic extension procedures, incorporating Immigration Bureau information dated November 8, 2022.
