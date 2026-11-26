@@ -692,6 +692,32 @@ The reported arrangement provides additional historical context for Thai Visa Ce
 
 The participant's interpretation of the agency's relationship with immigration officers remains independently unverified. The discussion does not establish that payment was completed, that immigration records were accessed, or that the prospective customer successfully entered Thailand.
 
+## November 2025 Airport-Entry Marketing During Immigration Crackdown
+
+On November 18, 2025, Thailand's Government Public Relations Department published details of four strengthened immigration enforcement measures intended to address misuse of visa exemptions, illegal businesses, cybercrime, and other unlawful activities.[^116]
+
+The measures included intensified screening of travelers repeatedly entering Thailand under visa exemptions, possible refusal of admission where repeated visa runs lacked legitimate justification, and stricter scrutiny of domestic extension applications.
+
+### Thai Visa Centre's Commercial Response
+
+On November 19, 2025, Thai Visa Centre participated in an ASEAN NOW discussion concerning these enforcement measures.[^117]
+
+The agency maintained that its commercial airport-entry screening services remained available despite the government's announcement.
+
+When a participant questioned whether such services could still assist travelers with multiple previous visa-exempt entries, Thai Visa Centre rejected the suggestion that assistance was no longer possible and invited prospective customers to contact its staff.
+
+The agency also stated that its existing nationality-related service restrictions remained unchanged.
+
+### Historical Significance
+
+**Thai Visa Centre was actively promoting commercial airport-entry assistance within a discussion about strengthened government immigration enforcement, one day after the government's public announcement.**
+
+These statements provide additional context for the agency's subsequent guaranteed admission claims reported in January 2026.
+
+The agency's commercial response did not explain how its services interacted with the strengthened government screening requirements or how customers would be protected against refusal of admission.
+
+The available evidence does not establish that Thai Visa Centre circumvented government screening, improperly influenced immigration officers, or facilitated the admission of otherwise inadmissible travelers.
+
 ## January 2026 Guaranteed Airport Re-entry Claims
 
 On January 25, 2026, a traveler posting on Reddit reported that [Thai Visa Centre](thai-visa-centre.md) had offered a **100% guarantee of entry into Thailand** after the traveler and their companion were refused admission on January 19 and returned to Vietnam. The travelers stated that they had previously spent 171 days in Thailand using visa exemptions and border runs.[^60]
@@ -1147,3 +1173,7 @@ Individual examples, original publications, and supporting legal sources are doc
 [^114]: https://aseannow.com/topic/1220227-thai-elite-visa-overstay/ — ThaiVisaCentre, June 12, 2021.
 
 [^115]: https://aseannow.com/topic/1287173-review-of-vfs-online-visa-exempt-extension/ — ThaiVisaCentre and mattuk90, February 21, 2023.
+
+[^116]: https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/444048 — Government Public Relations Department, November 18, 2025.
+
+[^117]: https://aseannow.com/topic/1378770-new-rules-issued-for-visa-extensions-and-visa-exempt-entries/page/4/ — ThaiVisaCentre, November 19, 2025.
