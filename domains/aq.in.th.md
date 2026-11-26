@@ -261,6 +261,38 @@ The [related Thailand Pass investigation](tp.in.th.md) documents the agency's co
 
 Historical consumer discussions raise questions about whether personal information collected through pandemic-era travel services was subsequently used to promote Thai Visa Centre's immigration services.
 
+### October 2021 Personalized Immigration Marketing Emails
+
+On November 19, 2021, ASEAN NOW participant **soi3eddie** reported receiving unsolicited immigration-service advertising after using ASQ.in.th to arrange accommodation.[^15]
+
+The participant reproduced an email dated October 26, 2021, attributed to Grace of Thai Visa Centre.
+
+The message incorporated several details concerning the recipient:
+
+- Full name, including both middle names.
+- British passport nationality.
+- Scheduled arrival in Thailand on November 4, 2021.
+
+The email promoted long-term retirement visas, VIP airport assistance, Certificate of Entry applications, and Thailand Pass services.
+
+It also provided separate LINE contact channels for Thai Visa Centre's immigration business and ASQ.in.th's accommodation services.
+
+Another forum participant, **NanLaew**, confirmed receiving a similar email after using the accommodation platform.
+
+#### Commercial Reuse of Travel Information
+
+The significance of the reproduced correspondence extends beyond ordinary email advertising.
+
+**Thai Visa Centre's promotional message incorporated individualized travel information apparently obtained through its associated accommodation-booking operations.**
+
+The correspondence provides additional historical evidence that the agency used travelers' personal information to promote immigration services before their arrival in Thailand.
+
+These reports predate the previously documented May 2022 complaint concerning immigration advertising that explicitly referenced an AQ.in.th booking.
+
+The available evidence does not establish whether customers accepted a separate marketing-consent provision during the original booking process, whether information was transferred between distinct legal entities, or how long the records were retained.
+
+Nevertheless, the reproduced email provides specific evidence of personalized cross-service marketing as early as October 2021.
+
 ### November 2021: Reports of Unexpected Marketing Emails
 
 A community discussion dated November 8, 2021, subsequently republished on Ask Thailand, concerns a traveler who reported receiving an unexpected marketing email after making inquiries concerning flights, insurance, and accommodation.[^6]
@@ -421,3 +453,5 @@ The available records do not establish whether the operator fulfilled its deleti
 [^13]: `https://aseannow.com/topic/1251303-1-day-test-go/` — ThaiVisaCentre, February 23, 2022, commercial announcement concerning Test & Go packages, information security, data deletion, and revised entry requirements.
 
 [^14]: https://mfa.go.th/en/content/weeklypressbriefing03032565 — Ministry of Foreign Affairs, March 3, 2022, official confirmation of revised Test & Go requirements effective March 1.
+
+[^15]: https://aseannow.com/topic/1240046-best-website-to-book-a-testgo-hotel/ — Contributions by soi3eddie and NanLaew, November 19, 2021, including reproduced marketing correspondence dated October 26, 2021.
