@@ -5189,6 +5189,34 @@ However, the company's separately published Refund Policy allows certain payment
 
 **The public documents do not clearly explain how these deductions operate alongside the company's advertised full-refund guarantee.**
 
+### September 2021 Immediate Refund and Receipt Guarantees
+
+On September 24, 2021, Thai Visa Centre responded to customer criticism concerning its immigration-service pricing and anticipated changes affecting visa agencies.[^668]
+
+The agency expressly stated:
+
+> We also guarantee full immediate refund if we cannot obtain the extension.
+
+Thai Visa Centre additionally promised not to increase agreed prices after accepting payment, provided customers had disclosed existing immigration complications.
+
+It also stated that it aimed to provide official immigration receipts within 72 hours and advised prospective customers to obtain government receipts when dealing with competing agencies.
+
+The discussion followed a complaint from forum participant problemfarang, who reported receiving a 30,000-baht quotation and criticized the agency's pricing.
+
+Another participant subsequently reported a positive experience with Thai Visa Centre, including receiving receipts despite an immigration processing delay.
+
+### Comparison With the Subsequent Published Refund Policy
+
+Unlike the company's February 2025 Refund Policy, which primarily describes applications submitted to embassies and consulates, the September 2021 guarantee expressly addressed unsuccessful immigration extensions.
+
+**Thai Visa Centre therefore previously provided a more explicit public refund assurance concerning domestic immigration extensions than appears in its subsequently published general refund policy.**
+
+The historical statement also promised immediate repayment, rather than merely establishing eligibility for a refund.
+
+The available evidence does not establish when these specific assurances changed, whether they remain applicable under individual customer agreements, or whether customers have experienced difficulties obtaining refunds.
+
+Nevertheless, the distinction demonstrates the importance of clearly identifying the refund conditions applicable to domestic immigration services.
+
 ### Homepage Promises Full Refunds for Uncompleted Services
 
 Under *Transparent payments, refundable deposits, and nationwide service*, Thai Visa Centre states that all visa-service payments are accepted as refundable deposits under written agreements.
@@ -11410,3 +11438,5 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^666]: https://aseannow.com/topic/1282832-agent-wanted-to-open-bank-account/ — ThaiVisaCentre, January 7, 2023.
 
 [^667]: https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/3/ — September 2025 retirement immigration packages.
+
+[^668]: https://aseannow.com/topic/1232852-recommendation-for-visa-agent-in-bangkok/ — ThaiVisaCentre and other forum participants, September 24–25, 2021, pricing, refund guarantees and immigration receipts.
