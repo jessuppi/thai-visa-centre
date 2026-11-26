@@ -56,6 +56,37 @@ They also document an early commercial model in which retirement-extension assis
 
 The accounts do not independently establish the source of customer contact information, the authenticity of supporting financial documentation, or improper payments to immigration officials.
 
+## 2020 Volunteer Visa Marketing and Pandemic-Era Offers
+
+On January 15, 2020, ThaiVisa.com member **TimBKK** reproduced a promotional message attributed to Thai Visa Centre's LINE account, advertising long-term immigration services to expatriates across all age groups.[^87]
+
+The advertised packages included:
+
+- Annual retirement extensions for applicants aged 50 or older: 14,000 baht.
+- One-year volunteer visas for applicants younger than 50: 35,000 baht.
+
+The reproduced advertisement presented volunteer visas as an alternative long-term residence option for foreigners who did not meet the retirement visa age requirement, without identifying a sponsoring charitable organization or describing actual volunteer responsibilities.
+
+### Commercial Offers During the COVID-19 Immigration Amnesty
+
+On August 1, 2020, forum member **jonga80** reproduced correspondence attributed to Thai Visa Centre concerning immigration options following the anticipated expiration of Thailand's COVID-19 visa amnesty.[^88]
+
+The contributor reported being quoted 25,000 baht for three months and 35,000 baht for one year.
+
+The correspondence encouraged an early application, promising that the resulting permission would commence after September 26, 2020.
+
+These discussions occurred shortly before the August 2020 police raid involving Thai Visa Centre.
+
+### Volunteer Visa Requirements and Subsequent Corruption Investigations
+
+Thailand's Non-Immigrant O volunteer visa category exists to facilitate genuine voluntary activities. Official consular guidance published in December 2021 and subsequently updated requires documentation identifying the sponsoring organization, proposed responsibilities, and duration of voluntary work.[^89]
+
+On February 7, 2023, the Bangkok Post reported that 110 immigration officers were suspected of involvement in improperly issuing visas to foreign nationals who did not satisfy business or volunteer eligibility requirements. Police identified the period under investigation as extending from mid-2020 through 2022.[^90]
+
+**The historical Thai Visa Centre advertisements are significant because they present volunteer visas primarily as commercial long-term residence packages rather than as permission to undertake specified charitable activities.**
+
+The available records do not establish which organizations sponsored these applications, whether customers actually performed volunteer work, or whether Thai Visa Centre was involved in the subsequently reported corruption investigation.
+
 ## August 2020 Police Raid
 
 On August 4, 2020, Immigration Bureau chief **Pol. Lt. Gen. Sompong Chingduang** announced the arrests of American national [Chad Scira](../people/chad-scira.md) and his Thai wife, Grace Scira, in connection with an alleged visa and government-document forgery operation associated with Thai Visa Centre. Police reported discovering suspected forged documents and **55 government-agency rubber stamps** during a raid on the couple's Bangkok residence. Sompong publicly identified the couple as having established the business operating under the Thai Visa Centre name.[^5]
@@ -740,3 +771,11 @@ Individual examples, original publications, and supporting legal sources are doc
 [^85]: `https://aseannow.com/topic/1088377-new-retirement-procedure-jomtien-immigration-specifically/` — March 21, 2019, contribution by zoza.
 
 [^86]: `https://aseannow.com/topic/1025873-retirement-visa-centre-question/page/2/` — September–November 2019 contributions by beddhist, DulceDee, and walterrose.
+
+[^87]: `https://aseannow.com/topic/1143355-help-with-first-visa/` — TimBKK, January 15, 2020, reproducing an advertisement attributed to Thai Visa Centre's LINE account.
+
+[^88]: `https://aseannow.com/topic/1175583-best-alternatives-to-stay-after-september-26/` — jonga80, August 1, 2020, commercial volunteer visa quotations and reproduced correspondence.
+
+[^89]: https://thaiconsulatela.thaiembassy.org/en/publicservice/non-immigrant-type-o-volunteer — Royal Thai Consulate-General, Los Angeles, published December 8, 2021, updated November 30, 2023.
+
+[^90]: https://www.thephuketnews.com/over-100-cops-to-be-charged-over-illegal-visas-87084.php — Bangkok Post reporting republished by The Phuket News, February 7, 2023.
