@@ -6281,6 +6281,32 @@ Nevertheless, its published guidance repeatedly identifies judicial procedures a
 
 **TVC should correct its adoption guides to distinguish Child Adoption Board approval, statutory registration, receiving-country requirements, and the exceptional circumstances in which Thai court intervention may actually be necessary.**
 
+### November 2026 Update: TVC Adds Legal Citations to Incorrect Adoption Guidance
+
+As of November 27, 2026, Thai Visa Centre's adoption requirements guide continued incorrectly presenting Thai family-court proceedings as mandatory, despite incorporating six legislative and official references.[^325]
+
+These references include Immigration Bureau Order 214/2569, published on November 4, 2026, demonstrating that the article's legal references were recently supplemented.
+
+A fourth publication, *Adopting Children in Thailand: Legal Process Explained*, repeats the same fundamental error.[^692]
+
+The article presents a Thai court order as the exclusive means of establishing legal adoptive parentage and claims that all lawful adoptions require family-court involvement.
+
+Its five-document legislative reference table includes regulations concerning family registration, immigration extensions, visa conversions, and the Thailand Digital Arrival Card.
+
+However, the table does not identify a provision establishing the purported universal requirement for a Thai court judgment.
+
+**Thai Visa Centre has supplemented its inaccurate adoption guidance with official legislative citations without correcting its fundamental misrepresentation of the adoption process.**
+
+The United States Department of State's current intercountry adoption guidance expressly confirms that ordinary Thai intercountry adoptions do not involve Thai courts.[^329]
+
+Thailand's own government guidance similarly distinguishes administrative approval and registration from circumstances requiring judicial intervention.[^328]
+
+The discrepancy now extends across at least four separate TVC publications.
+
+Given the company's commercial promotion of immigration assistance, document legalization, and legal referrals, presenting unnecessary judicial proceedings as mandatory could distort prospective adoptive parents' expectations concerning costs, travel, and legal representation.
+
+The available evidence does not establish that TVC has collected fees for unnecessary court proceedings or deliberately misrepresented adoption law.
+
 ## Misleading Company Formation, Foreign Ownership, and Legal-Service Requirements
 
 Four TVC guides present related errors about lawful shareholding structures, foreign ownership, company-registration requirements, and when professional lawyers are compulsory. Examining them together shows how incorrect incorporation advice can steer readers toward unnecessary shareholders or legal services while obscuring the prohibition on unlawful nominee arrangements.
@@ -11896,3 +11922,5 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^690]: https://tvc.co.th/pl/law/documents/dopa-2025-thai-nationality-application-verification-rules — Archived Department of Provincial Administration nationality application and verification procedures dated June 30, 2025.
 
 [^691]: https://www.nationthailand.com/news/policy/40068085 — Cabinet approval extending the nationality and legal-status programme until June 30, 2027.
+
+[^692]: https://tvc.co.th/guides/thailand-service-inter-country-adoption-in-thailand — Additional adoption guide containing incorrect court requirements and five legislative references. Indexed November 27, 2026.
