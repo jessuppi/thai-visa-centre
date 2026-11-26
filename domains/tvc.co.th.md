@@ -1086,6 +1086,30 @@ Thai Visa Centre advertises itself as an authorized General Sales and Services A
 
 These are commercially important credentials for an intermediary handling memberships costing hundreds of thousands or millions of baht. Yet TVC's examined publications do not identify the registered company holding its claimed authorization or receiving the awards. The program's published corporate agent list identifies another immigration firm, Siam Legal, whose documented office and award claims overlap with TVC's representations.
 
+### August 2023 Thailand Elite and LTR Service Promotion
+
+On August 30, 2023, Thai Visa Centre participated in an ASEAN NOW discussion concerning Thailand Elite membership applications ahead of anticipated membership price increases.[^669]
+
+Several participants expressed uncertainty about which websites represented the official membership provider and which belonged to commercial intermediaries.
+
+Thai Visa Centre entered the discussion through its designated Forum Sponsor account, provided its commercial contact channels, and stated:
+
+> We have assisted with many Elite, and LTR cases.
+
+The agency did not identify an official accreditation number, registered sales-agent identity, or authorized intermediary through which it handled Thailand Elite applications.
+
+On August 31, forum contributor DrJack54 directed the prospective applicant toward Thai Visa Centre after initially recommending direct applications to the membership provider.
+
+### Distinction Between Commercial Assistance and Official Accreditation
+
+**The historical advertisement establishes that Thai Visa Centre was commercially promoting Thailand Elite and LTR application assistance by August 2023.**
+
+However, providing application assistance is not equivalent to holding official General Sales and Services Agent accreditation.
+
+The distinction is relevant to the agency's subsequent representations that it is an authorized Thailand Privilege sales agent and recipient of sales performance awards in 2024 and 2025.
+
+The historical correspondence does not establish whether Thai Visa Centre held accreditation at the time, subsequently obtained authorization, or handled applications through another authorized business.
+
 ### GSSA Claims Versus the Published Agent List
 
 TVC's *Thailand Elite Visa Application Forms* guide calls it an authorized GSSA and directs readers to obtain application documents through the business.[^52] Another guide names **Thai Visa Centre** as the GSSA through which customers should select membership tiers.[^53] A four-office guide claims its Bangkok, Phuket, Pattaya, and Chiang Mai locations handle Thailand Privilege applications as authorized agents.[^54]
@@ -11440,3 +11464,5 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^667]: https://aseannow.com/topic/1371991-overstay-from-2000-%E2%80%93-ban-expired-visa-conversion-help/page/3/ — September 2025 retirement immigration packages.
 
 [^668]: https://aseannow.com/topic/1232852-recommendation-for-visa-agent-in-bangkok/ — ThaiVisaCentre and other forum participants, September 24–25, 2021, pricing, refund guarantees and immigration receipts.
+
+[^669]: https://aseannow.com/topic/1305125-recommended-firmcompany-to-purchase-thai-elite-visa/ — ThaiVisaCentre, DrJack54 and other participants, August 30–31, 2023.
