@@ -219,6 +219,32 @@ The official Privacy Notice does not establish that every traveler receives a nu
 
 The available evidence also does not establish any corporate relationship between StampStay and Thai Visa Centre.
 
+## Unverified Immigration Dataset Composition and Predictive Accuracy
+
+StampStay's free Immigration Risk Checker advertises more than 500 real analyses as evidence supporting its assessment capabilities.[^16]
+
+However, its About page confirms that every completed risk check contributes to its growing immigration intelligence dataset.[^6]
+
+Completing a risk questionnaire does not independently establish that the traveler subsequently attempted to enter Thailand or experienced the predicted immigration outcome.
+
+### Unverified Statistical Methodology
+
+StampStay's Privacy Policy cites a 35% denial rate among travelers with at least 180 days in Thailand and three or more border runs as an example of the intelligence its dataset produces.[^5]
+
+However, the company does not disclose how many records contain confirmed immigration outcomes, how duplicate submissions are excluded, or how it distinguishes hypothetical travel plans from completed journeys.
+
+Its Legal Disclaimer also acknowledges reliance on publicly available community reports rather than official immigration records.[^4]
+
+### Commercial Accountability
+
+**StampStay promotes the size of its immigration intelligence dataset without establishing how much of that dataset consists of independently verified immigration outcomes.**
+
+The number of completed questionnaires or delivered assessments is not equivalent to the number of documented admission or refusal decisions.
+
+The operator should distinguish submitted travel profiles, community reports and confirmed immigration outcomes when presenting statistical probabilities to prospective paying customers.
+
+The available evidence does not establish that StampStay's statistics are fabricated or that records without confirmed outcomes are necessarily included in its denial-rate calculations.
+
 ## References
 
 [^1]: `https://www.stampstay.com/`
@@ -242,3 +268,5 @@ The available evidence also does not establish any corporate relationship betwee
 [^14]: https://www.stampstay.com/blog/thailand/entry-patterns/risk-score-explained — StampStay Research Team, published March 7, 2026, reviewed November 27, 2026.
 
 [^15]: https://thim.immigration.go.th/privacy-notice — Immigration Bureau, THIM Privacy Notice, version 3.0, October 9, 2026, Section XIV, Automated Decision-Making.
+
+[^16]: https://www.stampstay.com/tools/immigration-risk-checker — Free immigration risk assessment tool and dataset-related promotional claims, examined November 27, 2026.
