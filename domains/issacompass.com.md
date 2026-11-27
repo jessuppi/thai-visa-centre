@@ -936,6 +936,46 @@ The company should clarify whether it has a separately authorized transportation
 
 The available evidence does not establish that any customer's passport has been lost or that Grab has authorized an exception for Issa Compass.
 
+## Premature Apostille Convention Recognition and Misleading Document Guidance
+
+On April 29, 2026, Issa Compass published a guide concerning document formatting, translation, notarization and authentication, subsequently updated on October 17, 2026.[^63]
+
+The article describes Thailand as a country in which documents authenticated under the Hague Apostille Convention are already recognized. Its comparison table also presents apostille certification as a requirement for submitting foreign public documents to Thai authorities.
+
+### Actual Convention Implementation Timeline
+
+Official records establish a different timeline:
+
+| Date | Development |
+| --- | --- |
+| December 9, 2025 | Thai Cabinet approves accession |
+| April 29, 2026 | Issa Compass publishes its guide |
+| June 30, 2026 | Thailand deposits its instrument of accession |
+| October 17, 2026 | Issa Compass updates its guide |
+| February 28, 2027 | Scheduled entry into force for Thailand |
+
+The Hague Conference on Private International Law and Thailand's Ministry of Foreign Affairs confirm the February 2027 implementation date.[^64][^65]
+
+Accession does not immediately establish the convention's legal effectiveness.
+
+### Contradictory Document Preparation Advice
+
+A separate Issa Compass article published on October 22, 2026, more accurately explains that authentication requirements vary according to the document, visa category and relevant diplomatic mission.[^66]
+
+That article acknowledges that legalization through foreign ministries and Thai diplomatic missions may still be required.
+
+However, the earlier guide continues presenting apostille certification as an established authentication procedure for documents submitted to Thai authorities.
+
+### Commercial Significance
+
+Issa Compass markets professional document verification as a central advantage of its paid immigration services.
+
+Incorrect authentication guidance could expose applicants to unnecessary certification expenses, additional legalization requirements and application delays.
+
+The company should correct its description of Thailand's treaty status and distinguish existing document legalization procedures from the forthcoming Apostille Convention arrangements.
+
+The available evidence does not establish that particular customers have submitted improperly authenticated documents or suffered financial losses because of this guidance.
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -1054,3 +1094,11 @@ All three sources were examined on November 27, 2026.
 [^61]: https://www.issacompass.com/insights/thailand-address-registration-tm30-and-90-day-reporting-the-residency-admin-chec — Ana Liangsupree, published May 28, 2026, updated November 14, 2026.
 
 [^62]: https://www.grab.com/th/terms-policies/transport-delivery-logistics/ — Grab Thailand, official transportation and delivery terms, particularly Sections 2.1.2, 2.2.1 and 2.2.7, examined November 27, 2026.
+
+[^63]: https://www.issacompass.com/insights/how-to-organize-your-thai-visa-document-package-formatting-translation-and-notar — Ana Liangsupree, published April 29, 2026, updated October 17, 2026.
+
+[^64]: https://www.hcch.net/en/instruments/status-table?cid=41 — Official Apostille Convention status table.
+
+[^65]: https://www.mfa.go.th/en/content/apostille-convention-eng — Ministry of Foreign Affairs, July 6, 2026, announcement confirming Thailand's accession and scheduled entry into force.
+
+[^66]: https://www.issacompass.com/insights/certified-translations-for-thai-visa-applications-when-you-need-one-and-when-you — Nic Bunpamee, published October 22, 2026.
