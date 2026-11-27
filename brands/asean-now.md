@@ -150,6 +150,34 @@ Some critical comments remained publicly visible. The available evidence does no
 
 Nevertheless, questions concerning legal compliance are directly relevant to prospective customers evaluating paid immigration assistance and should not automatically be treated as irrelevant to commercial recommendations.
 
+## August 2026 Customer Concerns and Additional Immigration Service Referrals
+
+On August 4, 2026, an ASEAN NOW member using the name TonBrow questioned whether retirement extensions arranged through Thai Visa Centre were accepted without difficulty when obtaining other immigration services.[^15]
+
+Thai Visa Centre responded through its sponsored forum account, offering to arrange a certificate of residence on the customer's behalf and explaining that it might already possess the necessary passport documentation.
+
+### Conflicting Customer Experiences
+
+Another participant claimed that Thai Visa Centre included an initial 90-day report and TM30 documentation within its extension services.
+
+On August 5, TonBrow disputed whether this reflected his own experience:
+
+> They've never sent me a tm 30 and always charge 500 baht to make a 90 day report.
+
+He also expressed concern about passports reportedly being sent to immigration offices in northeastern Thailand and whether his extension would attract scrutiny elsewhere.
+
+Other participants discussed potential complications involving extensions issued outside the customer's province of residence.
+
+### Continued Reliance on Commercial Assistance
+
+**The discussion illustrates how uncertainty concerning an agent-arranged extension can encourage customers to purchase additional immigration assistance from the same agency rather than approach immigration independently.**
+
+The surviving discussion also contains favorable customer experiences and legitimate questions from a moderator concerning immigration-office jurisdiction.
+
+Unlike the previously documented November 2025 and May 2026 discussions, this exchange does not independently establish that moderators removed critical comments.
+
+The available evidence does not establish that the customer's extension was fraudulent, that Thai Visa Centre improperly filed residence notifications, or that immigration authorities rejected any subsequent application.
+
 ## References
 
 [^1]: https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand
@@ -171,3 +199,5 @@ Nevertheless, questions concerning legal compliance are directly relevant to pro
 [^13]: https://thethaiger.com/guides/digital-marketing/maximise-your-brands-visibility-with-asean-now-partnership — September 4, 2025, commercial advertising packages and sponsored community participation.
 
 [^14]: https://aseannow.com/topic/1394428-looking-for-a-retirement-visa-vis-agent/ — ASEAN NOW discussion beginning May 13, 2026, including Thai Visa Centre's commercial participation and moderator statements.
+
+[^15]: https://aseannow.com/topic/1401947-thai-visa-centre-immigration/ — ASEAN NOW discussion, August 4–6, 2026, concerning retirement extensions, residence certificates and additional reporting services.
