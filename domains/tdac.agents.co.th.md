@@ -336,6 +336,32 @@ The operator should reconcile its field guidance with the Immigration Bureau's c
 
 The available evidence does not establish that AGENTS' underlying software enforces these restrictions, alters customer information or has caused immigration refusals.
 
+## Incomplete Guidance Concerning Optional TDAC Information
+
+As examined on November 28, 2026, AGENTS' commercial TDAC field guide does not adequately distinguish mandatory government information requirements from optional submission fields.[^17]
+
+### Optional Departure Information
+
+The Immigration Bureau's software release dated March 25, 2025, explicitly identifies departure information as optional.[^18]
+
+However, AGENTS' field guide describes departure dates, transportation methods and departure identifiers without explaining that travelers may omit this information from the official arrival card.
+
+Separate immigration requirements concerning proof of onward travel may still apply.
+
+### Optional Vaccination Certificate Uploads
+
+The same government software release identifies vaccination certificate uploads as optional within the health declaration section.
+
+AGENTS' guide states that travelers affected by yellow fever requirements must provide vaccination status and supporting documentation without clearly distinguishing electronic document uploads from mandatory presentation of vaccination certificates where applicable.
+
+### Commercial Accountability
+
+AGENTS should distinguish its own commercial application requirements from those of the official government system.
+
+This distinction is particularly relevant when customers disclose additional travel information or medical documentation to a private intermediary.
+
+The available evidence does not establish that AGENTS' software actually requires these optional fields or that the company has improperly collected vaccination records.
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
