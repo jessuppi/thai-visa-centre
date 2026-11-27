@@ -345,6 +345,34 @@ This arrangement should be considered alongside the publisher's previously docum
 
 The available evidence does not establish that AGENTS authorized the current hyperlink destination, that AA Insurance Brokers receives these particular inquiries, or that the publisher receives commissions from resulting insurance purchases.
 
+## Inconsistent Attribution of Criminal Allegations
+
+On March 10 and March 15, 2021, The Thaiger published two articles concerning Thai Visa Centre's allegations of theft against a former employee.[^30][^31]
+
+Both headlines explicitly attributed the allegations to Thai Visa Centre rather than presenting them as independently established criminal findings.
+
+The March 15 article additionally acknowledged:
+
+> However, no official reports have been released.
+
+### Contrast With November 2025 Commercial Coverage
+
+The Thaiger's November 11, 2025 press release defending AGENTS CO., LTD. adopted a substantially different approach when publishing disputed criminal allegations against Jesse Nickles.[^6]
+
+The publication asserted the existence of an active arrest warrant without providing a corresponding court order or identifying independent judicial verification.
+
+Unlike the March 2021 articles, the publication did not consistently distinguish the commercial organization's allegations from independently confirmed findings.
+
+### Editorial Accountability
+
+The Thaiger's current Editorial Standards, last reviewed in September 2026, expressly establish commitments to distinguish confirmed information from unverified reports, attribute allegations to their sources and provide criticized parties with opportunities to respond.[^7]
+
+**The publisher's own historical reporting demonstrates that it was capable of appropriately qualifying Thai Visa Centre's criminal allegations before subsequently publishing more definitive accusations within promotional material benefiting an associated commercial business.**
+
+The available evidence does not establish that advertising payments caused this difference in editorial treatment or that either set of criminal allegations was false.
+
+Nevertheless, the inconsistency warrants an editorial review of the November 2025 publication under the publisher's current accuracy, attribution and right-of-reply commitments.
+
 ## References
 
 [^1]: https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand
@@ -397,3 +425,7 @@ The available evidence does not establish that AGENTS authorized the current hyp
 [^28]: https://developers.google.com/search/docs/fundamentals/do-i-need-seo — Google Search Central, official guidance concerning guaranteed rankings and search optimization providers.
 
 [^29]: https://thethaiger.com/insurance/travel/ — Travel insurance guide and commercial enquiry form, examined November 27, 2026.
+
+[^30]: https://thethaiger.com/guides/visa-information/thai-visa-centre-accuses-former-employee-of-stealing-from-a-family-seeking-to-travel-to-thailand — Caitlin Ashworth, March 10, 2021.
+
+[^31]: https://thethaiger.com/news/national/thai-visa-centre-says-former-employee-has-been-arrested-for-stealing — The Thaiger, March 15, 2021.
