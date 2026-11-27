@@ -902,6 +902,40 @@ The company should clarify retention periods for unsuccessful applications, iden
 
 The available evidence does not establish that Issa Compass has improperly retained customer documents, transferred information unlawfully or experienced a data breach.
 
+## Passport Courier Recommendations Contradicting Grab Delivery Restrictions
+
+In an article published on May 28, 2026, and updated on November 14, 2026, Issa Compass promotes its 600-baht immigration reporting service to foreign residents in Bangkok.[^61]
+
+The company recommends that customers either deliver their passports personally or:
+
+> simply send your passport over by Grab messenger.
+
+### Grab Express Prohibits Passport Deliveries
+
+Section 2.2.1 of Grab Thailand's published transportation and delivery terms expressly prohibits consumers from sending passports and other official identification documents through GrabExpress.[^62]
+
+Section 2.1.2 establishes corresponding restrictions for delivery partners.
+
+Section 2.2.7 additionally permits Grab and its delivery partners to inspect packages suspected of containing prohibited items and refuse their delivery.
+
+Issa Compass does not acknowledge these contractual restrictions when recommending the courier service.
+
+### Contradictory Document Security Assurances
+
+Issa Compass's security page emphasizes that customer documents are handled exclusively through its secured application rather than by third-party agents.[^60]
+
+However, its immigration reporting service encourages customers to entrust original identity documents to an external delivery provider.
+
+Digital document processing and physical passport transportation involve different security considerations, but the company's general security assurances do not clearly distinguish between them.
+
+### Commercial Accountability
+
+**Issa Compass recommends transporting original customer passports through a commercial delivery service whose published terms expressly prohibit such items.**
+
+The company should clarify whether it has a separately authorized transportation arrangement and explain responsibility for lost, damaged or undelivered passports.
+
+The available evidence does not establish that any customer's passport has been lost or that Grab has authorized an exception for Issa Compass.
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -1016,3 +1050,7 @@ The available evidence does not establish that Issa Compass has improperly retai
 [^60]: https://www.issacompass.com/security — Commercial security and data-storage assurances.
 
 All three sources were examined on November 27, 2026.
+
+[^61]: https://www.issacompass.com/insights/thailand-address-registration-tm30-and-90-day-reporting-the-residency-admin-chec — Ana Liangsupree, published May 28, 2026, updated November 14, 2026.
+
+[^62]: https://www.grab.com/th/terms-policies/transport-delivery-logistics/ — Grab Thailand, official transportation and delivery terms, particularly Sections 2.1.2, 2.2.1 and 2.2.7, examined November 27, 2026.
