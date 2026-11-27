@@ -254,6 +254,52 @@ The company should reconcile its published integration examples with the detaile
 
 The available evidence does not establish that any wholesale customer has experienced duplicate charges, financial losses, or refused refunds resulting from these discrepancies.
 
+## Network Operator Data Sharing and Subscriber Registration Disclosures
+
+As of November 27, 2026, AGENTS continued promoting its wholesale eSIM platform as fully compliant with Thai telecommunications regulations.[^1]
+
+However, its published Privacy Policy and technical documentation raise further questions concerning individual subscriber registration and the identity of its telecommunications suppliers.
+
+### Restricted Information Sharing With Network Operators
+
+Section 5 of the platform's Privacy Policy describes information shared with network operators as the minimum necessary for eSIM provisioning, specifying:
+
+> no personal data beyond order reference
+
+This representation is particularly significant because Thailand's amended telecommunications regulations require identity verification of individual foreign subscribers.[^4][^6]
+
+The published policy does not explain whether network operators collect subscriber identity information independently or whether another commercial intermediary performs that function.
+
+### Unclear Telecommunications Provider Identity
+
+The platform's illustrative API responses identify the provider using the designation `TDAC`.[^5]
+
+This designation appears in examples concerning available products, completed purchases and previously issued eSIMs.
+
+However, the documentation does not explain whether it represents an internal product classification, a separate provisioning platform or a telecommunications intermediary.
+
+An illustrative API response does not establish the identity of the actual licensed network operator.
+
+Nevertheless, the designation warrants clarification given AGENTS' extensive commercial operations involving Thailand Digital Arrival Card services.
+
+### Automated Distribution and Individual Identity Verification
+
+AGENTS encourages hotels to distribute eSIM activation codes through reservation-confirmation emails and front-desk services.[^7]
+
+Its promotional material targeting online travel agencies similarly describes a purchasing and activation process requiring no manual fulfillment steps.[^8]
+
+Neither published workflow identifies a separate individual subscriber-verification stage.
+
+This omission is particularly relevant following the May 2026 regulatory amendments requiring in-person registration through telecommunications branches or authorized dealers.[^6]
+
+**AGENTS advertises automated telecommunications distribution and regulatory compliance while its published documentation leaves the individual subscriber-registration process unexplained.**
+
+The company should identify its licensed telecommunications suppliers, explain the meaning of its provider designation and clarify whether participating hotels and travel agencies have any authorized subscriber-registration responsibilities.
+
+The available evidence does not establish that AGENTS combines TDAC immigration records with telecommunications subscriber records, bypasses mandatory identity verification or distributes unlawfully registered SIM cards.
+
+The concern is the absence of a clear explanation reconciling its published data-sharing commitments, automated distribution model and applicable telecommunications requirements.
+
 ## References
 
 [^1]: `https://esim.agents.co.th/` — Wholesale platform, commercial services, verification claims, and corporate disclosures.
