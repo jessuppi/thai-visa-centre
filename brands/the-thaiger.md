@@ -278,6 +278,49 @@ Google may exclude noncompliant publications from its news surfaces.
 
 Although the existence of a Google News subscription link does not establish that a particular article appeared within Google News, the publisher's presentation raises questions about how commercial immigration promotions are distinguished from independent reporting within news aggregation and AI-generated information systems.
 
+## Guaranteed Search Rankings and Paid Editorial Placements
+
+An indexed version of The Thaiger's advertising page, examined on November 27, 2026, explicitly marketed sponsored articles using guaranteed Google search visibility.[^27]
+
+The publisher advertised first-page placement within four to six weeks, followed by anticipated placement among the top three search results.
+
+### Commercially Purchased Business Rankings
+
+The publisher's advertised commercial packages included:
+
+- Inclusion within best-of business rankings.
+- Dedicated promotional articles.
+- Permanent publication commitments.
+- Republication and renewed promotion after six and twelve months.
+
+The advertising material specifically promoted the production of natural-looking articles using the publisher's established search authority.
+
+These commercial arrangements demonstrate why favorable business rankings published by The Thaiger should not automatically be interpreted as independent comparative assessments.
+
+### Conflict With Google's Published Guidance
+
+Google expressly warns businesses against search optimization providers promising guaranteed rankings.[^28]
+
+Its separate spam policies also address commercial content published primarily to exploit an established website's ranking signals.[^25]
+
+The publication of sponsored content is not inherently prohibited. However, guarantees of search visibility and the commercial sale of favorable business placements warrant scrutiny.
+
+### Subsequent Editorial Commitments
+
+The Thaiger's editorial standards, reviewed in September 2026, state that sponsored material is separated from independent news and paid links are appropriately identified.[^7]
+
+When examined on November 27, 2026, the advertising page redirected to the publisher's Content and Advertising Guidelines rather than displaying the earlier promotional packages.[^18]
+
+Nevertheless, the earlier advertising material remained accessible through Google's indexed content.
+
+### Relevance to Thai Visa Centre
+
+**The Thaiger's historical advertising material explicitly establishes that favorable editorial-style coverage, prominent business rankings and sustained search visibility were commercially marketed products.**
+
+This provides additional context for the publisher's repeated promotion of Thai Visa Centre and AGENTS CO., LTD., particularly its November 2025 publication defending AGENTS against online criticism.
+
+The available evidence does not establish that Thai Visa Centre purchased these particular advertising packages, that the advertised search-ranking guarantees were fulfilled, or that Google imposed any penalties.
+
 ## References
 
 [^1]: https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand
@@ -324,3 +367,7 @@ Although the existence of a Google News subscription link does not establish tha
 [^25]: https://developers.google.com/search/docs/essentials/spam-policies — Google Search Central, official policies concerning link spam and site reputation abuse.
 
 [^26]: https://support.google.com/news/publisher-center/answer/6204050 — Google News content policies, particularly advertising, sponsored content, and publisher transparency requirements.
+
+[^27]: https://thethaiger.com/advertise — Earlier indexed advertising material, examined November 27, 2026; the live address redirected to the publisher's advertising guidelines.
+
+[^28]: https://developers.google.com/search/docs/fundamentals/do-i-need-seo — Google Search Central, official guidance concerning guaranteed rankings and search optimization providers.
