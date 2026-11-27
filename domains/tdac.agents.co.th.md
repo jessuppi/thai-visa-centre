@@ -254,6 +254,28 @@ The company should identify the official basis for its LTR-related advertising a
 
 The available evidence does not establish that the BOI accepts every format of group-generated arrival-card documentation or that any applicant has purchased unnecessary commercial assistance.
 
+## VIP Airport Photograph Collection and Restrictive Refund Conditions
+
+AGENTS' Refund Policy, last updated May 15, 2025, identifies selfie photographs among the documents that customers may be required to upload when purchasing VIP airport arrival services.[^24]
+
+The policy excludes refunds where customers fail to supply required documentation following repeated requests and this prevents delivery of the purchased service.
+
+### Incomplete Personal Data Disclosures
+
+The associated Privacy Policy describes general categories of personal information but does not specifically address photographs collected for VIP airport assistance.[^25]
+
+It does not explain whether these photographs are used exclusively for passenger identification, whether they are transferred to airport assistance providers, or whether separate retention periods apply.
+
+Meanwhile, the company's Data Protection Policy permits certain information sharing with affiliated businesses for marketing purposes.[^26]
+
+### Commercial Accountability
+
+**Customers may face financial consequences for declining to supply photographs without receiving a clear, service-specific explanation of how those photographs will be handled.**
+
+AGENTS should disclose the purpose of collecting photographs, the parties receiving them, applicable retention periods and mandatory documentation requirements before accepting payment.
+
+The available evidence does not establish that AGENTS uses facial recognition technology, processes photographs for biometric identification, or distributes customer photographs for unrelated commercial purposes.
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
@@ -294,3 +316,9 @@ The available evidence does not establish that the BOI accepts every format of g
 [^22]: https://ltr.boi.go.th/page/visa-issuance-info.html — Board of Investment, official LTR visa issuance procedures and required documentation.
 
 [^23]: https://tdac.immigration.go.th/manual/en/ — Immigration Bureau, official TDAC user guide describing individual and group submissions.
+
+[^24]: https://agents.co.th/tdac-apply/policy/refund/ — Refund Policy, updated May 15, 2025.
+
+[^25]: https://agents.co.th/tdac-apply/policy/privacy/ — Privacy Policy, updated April 2, 2025.
+
+[^26]: https://agents.co.th/tdac-apply/policy/data-protection/ — Data Protection Policy, updated April 2, 2025.
