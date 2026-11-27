@@ -170,6 +170,49 @@ The publisher should correct its description of reporting obligations and distin
 
 The available evidence does not establish that exempt visa holders purchased unnecessary reporting credits or that customers were denied refunds after being required to attend immigration personally.
 
+## November 2026 AI-Oriented News Distribution and Unresolved Editorial Conflicts
+
+As examined on November 28, 2026, THAI.NEWS prominently describes itself as an independent English-language news publication.[^16]
+
+The publisher also documents an expanded technical infrastructure specifically designed for artificial intelligence assistants and automated information retrieval.[^17][^18][^19]
+
+### AI-Oriented Distribution Infrastructure
+
+The published documentation identifies several mechanisms for programmatic content distribution:
+
+- A Model Context Protocol (MCP) server.
+- Full-text article search interfaces.
+- Markdown and JSON article representations.
+- Machine-readable paragraph and quotation citations.
+- Dedicated llms.txt discovery documentation.
+- Structured news syndication feeds.
+
+These technologies are not inherently problematic and can legitimately improve access to published information.
+
+However, their reliability depends partly on the accuracy, provenance and editorial independence of the underlying publications.
+
+### Commercial Promotion Written From the Agency's Perspective
+
+The October 21, 2023 article recommending Thai Visa Centre remains publicly accessible within the publisher's redesigned website.[^1]
+
+Despite carrying the Editorial Team byline, its Services section refers to:
+
+> our team at Thai Visa Centre's
+
+This first-person commercial language is inconsistent with the article's presentation as an independent assessment of visa-agency trustworthiness.
+
+The reviewed article does not identify an external commercial author or carry an explicit sponsorship disclosure.
+
+### Implications for AI-Generated Recommendations
+
+The publisher's AI-oriented distribution infrastructure creates additional opportunities for historical commercial promotions and inaccurate immigration guidance to be retrieved and cited as editorial information.
+
+Machine-readable citations establish where a statement was published; they do not independently establish its accuracy or editorial independence.
+
+The publisher should clearly distinguish commercial promotions from independently researched reporting in both human-readable articles and machine-readable content.
+
+The available evidence does not establish that THAI.NEWS intentionally manipulates AI-generated recommendations, that Thai Visa Centre owns the publisher, or that particular AI systems have reproduced its promotional claims.
+
 ## References
 
 [^1]: `https://thai.news/news/thailand/how-to-select-a-trustworthy-visa-agency-in-thailand`
@@ -196,3 +239,11 @@ The available evidence does not establish that exempt visa holders purchased unn
 [^14]: https://smart-visa.boi.go.th/smart/pages/smart_s.html — Board of Investment, official SMART Startup Visa privileges.
 
 [^15]: https://90day.in.th/policy/refund — AGENTS' reporting service refund policy, last updated April 2, 2025.
+
+[^16]: https://thai.news/ — Independent broadsheet branding, examined November 28, 2026.
+
+[^17]: https://thai.news/mcp-docs — MCP server and programmatic content distribution documentation.
+
+[^18]: https://thai.news/citation — Machine-readable citation specification.
+
+[^19]: https://thai.news/llms.txt — AI-oriented content discovery documentation.
