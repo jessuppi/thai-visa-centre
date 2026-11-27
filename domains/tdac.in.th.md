@@ -334,6 +334,48 @@ These contradictory statements concern the same commercial TDAC service and unde
 
 The combination of inconsistent pricing information and aggressive accusations against critical reviewers is especially concerning for a private service that collects travelers' sensitive immigration information while promoting itself as a trusted alternative to the free government system.
 
+## Contradictory Uptime Advertising and Unsupported Submission Guarantees
+
+As of November 27, 2026, AGENTS' commercial TDAC comparison continued questioning the reliability of Thailand's official government registration platform while presenting its own service as reliable.[^5]
+
+However, the company's separately published TDAC uptime monitor reported 100% government website availability across all four published rolling measurement periods, including the preceding 90 days.[^40]
+
+The most recent recorded outage occurred on June 23, 2026, and lasted three minutes.
+
+### Limitations of the Monitoring Methodology
+
+AGENTS describes its monitoring infrastructure as using independent checks from inside and outside Thailand.
+
+However, its historical incident log includes HTTP 403 Forbidden responses classified as government website downtime.
+
+Such responses can result from access restrictions or automated traffic protection rather than general service unavailability.
+
+The published monitor does not provide sufficient methodological information to establish whether each recorded incident prevented ordinary travelers from completing their arrival cards.
+
+Similarly, successful HTTP responses do not independently establish that every underlying registration function was operational.
+
+### Contradictory Submission Guarantees
+
+The monitoring page promotes guaranteed TDAC submissions within five minutes through AGENTS' commercial platform.[^40]
+
+However, the same page acknowledges that when government systems are unavailable, AGENTS retains customer submissions and forwards them after government services recover.
+
+Consequently, the company cannot independently guarantee successful government registration within five minutes during an indefinite government outage.
+
+### Omitted Government Assistance
+
+Thailand's Immigration Bureau advises travelers experiencing website errors to retain evidence of the error and seek assistance from airport or immigration personnel.[^16]
+
+AGENTS' uptime monitor instead emphasizes waiting for government service restoration or using its commercial submission platform.
+
+### Commercial Significance
+
+**AGENTS uses government website reliability as a commercial differentiator despite publishing its own statistics demonstrating excellent recent government uptime.**
+
+The company should distinguish website connectivity monitoring from successful immigration registration, disclose its monitoring methodology and clarify that submission guarantees remain dependent upon government system availability.
+
+The available evidence does not establish that AGENTS fabricated its monitoring statistics or deliberately misclassified government outages.
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
@@ -376,3 +418,5 @@ The combination of inconsistent pricing information and aggressive accusations a
 [^37]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^38]: Email from Jesse Nickles to `abuse@thnic.co.th`, November 12, 2026, subject *Formal Supplemental Abuse Complaint – tdac.in.th – Section 17 and Unresolved April 2025 Report* (private correspondence; original case VRK-ZLCQS-392). Archived website: `https://web.archive.org/web/20250417185034/https://tdac.in.th/`.
 [^39]: https://tehran.thaiembassy.org/en/content/guidelines-for-the-thailand-digital-arrival-card-t — Royal Thai Embassy, April 21, 2025, official TDAC guidance and calendar-date example.
+
+[^40]: https://tdac.agents.co.th/tdac-uptime — AGENTS' public TDAC uptime monitor, historical incident log and commercial submission guarantees, examined November 27, 2026.
