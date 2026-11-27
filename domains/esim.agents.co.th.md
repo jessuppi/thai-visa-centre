@@ -300,6 +300,30 @@ The available evidence does not establish that AGENTS combines TDAC immigration 
 
 The concern is the absence of a clear explanation reconciling its published data-sharing commitments, automated distribution model and applicable telecommunications requirements.
 
+## Unclear Activation Deadlines and Advance Provisioning Risks
+
+AGENTS encourages hotels and travel agencies to automatically provision eSIMs when customers confirm their travel reservations.[^7][^8]
+
+However, the platform's homepage illustrates an API response containing an `expiresAt` field, suggesting that issued activation credentials may have an associated expiration date.[^1]
+
+The detailed public API documentation does not identify this field in its published order-creation, order-status or order-history response examples.[^5]
+
+### Commercial Risks of Advance Issuance
+
+Travel reservations may be confirmed several months before customers arrive in Thailand.
+
+The published integration guidance does not clearly distinguish between the validity of an unused activation code and the duration of telecommunications service following activation.
+
+Furthermore, Section 4 of the Terms of Service generally excludes refunds once an activation code has been issued.[^3]
+
+### Commercial Accountability
+
+**AGENTS encourages automated advance purchasing of generally non-refundable telecommunications products without clearly documenting their activation deadlines.**
+
+Wholesale customers should receive clear information about activation-code validity, expiration dates and replacement arrangements before automatically purchasing eSIMs for future travelers.
+
+The available evidence does not establish that any issued activation code has expired prematurely or that any customer has suffered financial losses. The discrepancy concerns the information provided to prospective wholesale partners.
+
 ## References
 
 [^1]: `https://esim.agents.co.th/` — Wholesale platform, commercial services, verification claims, and corporate disclosures.
