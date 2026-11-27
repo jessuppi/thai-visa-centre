@@ -193,6 +193,51 @@ The company should update its launch chronology, provide verified official appli
 
 The available evidence does not establish that AGENTS distributed malicious software, compromised travelers' devices or fabricated the discussion contributions.
 
+## Omitted Biometric Processing and Official Privacy Disclosures
+
+On October 9, 2026, Thailand's Immigration Bureau adopted version 3.0 of its official THIM Privacy Notice.[^20]
+
+Despite displaying a November 27, 2026 update timestamp, the commercial THIM guide operated by AGENTS CO., LTD. provides only a generalized explanation of digital identity verification, cloud infrastructure and application security.[^14]
+
+### Biometric and Location Information
+
+The official Privacy Notice identifies several categories of information processed through THIM, including:
+
+- Facial biometric templates derived from liveness-detection photographs.
+- Machine-readable passport information.
+- Electronic passport chip information.
+- Location information where required for particular services.
+
+The commercial guide does not adequately explain these categories of data collection.
+
+### Three-Year Retention and Extended Storage
+
+Section XII of the official Privacy Notice establishes a three-year retention period calculated from collection or the most recent processing activity, whichever occurs later.
+
+It also permits extended retention under specified circumstances, including national security and legitimate government purposes.
+
+The commercial website does not explain these retention arrangements when promoting the convenience of reusable traveler profiles.
+
+### Automated Security Assessments
+
+Section XIV of the official Privacy Notice identifies automated biometric matching, document-authenticity assessment and security risk scoring among the application's processing functions.
+
+The notice also describes human oversight, appeal procedures and manual intervention.
+
+These functions are absent from the commercial guide's explanation of THIM's digital identity infrastructure.
+
+### Different Privacy Policies for Different Services
+
+The privacy-related links displayed in the footer of thim.in.th direct visitors to AGENTS' commercial TDAC policies rather than the Immigration Bureau's official THIM Privacy Notice.
+
+These documents govern different processing arrangements involving different responsible entities.
+
+**AGENTS reproduces official application imagery and government statements while providing an incomplete explanation of the application's privacy framework and directing visitors toward its own commercial immigration services.**
+
+The website should prominently identify the official THIM Privacy Notice and distinguish government biometric processing from the personal-information collection performed through AGENTS' commercial submission platform.
+
+The available evidence does not establish that AGENTS receives THIM biometric records, participates in government risk scoring or has access to the application's location information.
+
 ## References
 
 [^1]: https://www.whoxy.com/thim.in.th
@@ -226,3 +271,5 @@ The available evidence does not establish that AGENTS distributed malicious soft
 [^18]: https://thim.in.th/comments/2 — Archived traveler discussion containing APK installation advice.
 
 [^19]: https://support.google.com/android/answer/9457058 — Google's official Android application installation and security guidance.
+
+[^20]: https://thim.immigration.go.th/privacy-notice — Immigration Bureau, THIM Privacy Notice, version 3.0, October 9, 2026, particularly Sections III, IV, XII and XIV.
