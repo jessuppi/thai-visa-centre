@@ -426,6 +426,34 @@ The announcement documents an early example of Thai Visa Centre combining immigr
 
 The available records do not establish whether the operator fulfilled its deletion commitments or whether the reported May 2022 marketing recipient was covered by that particular promise.
 
+## December 2021 Insurance Referrals and Coverage Suitability
+
+On December 10, 2021, an ASEAN NOW participant requested recommendations for travel insurance that covered pre-existing medical conditions while satisfying Thailand Pass requirements.[^16]
+
+On December 11, the ThaiVisaCentre Forum Sponsor account directed the participant to its AQ.in.th insurance comparison platform.
+
+The agency identified AXA and Tune as popular options and WorldTrips as frequently offering the lowest price.
+
+However, its response did not specifically address the requested coverage for pre-existing medical conditions.
+
+### Moderator Challenges the Recommendations
+
+ASEAN NOW global moderator Sheryl subsequently questioned whether any of the recommended products covered the medical conditions identified by the prospective traveler.
+
+The moderator emphasized the distinction between purchasing insurance to satisfy government entry requirements and obtaining meaningful protection against medical expenses.
+
+### Commercial and Regulatory Significance
+
+The exchange establishes that Thai Visa Centre was actively recommending insurance products through AQ.in.th by December 2021, several months before its documented insurance promotions in March–May 2022.
+
+It also illustrates the potential conflict between price-oriented commercial referrals and customers' individual insurance requirements.
+
+**Insurance documentation sufficient for immigration purposes does not necessarily establish that a policy provides the medical coverage a particular traveler requires.**
+
+The agency's recommendations should be considered alongside the unresolved insurance-distribution and licensing questions documented in the [AGENTS CO., LTD. investigation](../companies/agents-co-ltd.md).
+
+The available evidence does not establish that the recommended policies excluded every pre-existing condition, that the traveler purchased unsuitable insurance, or that Thai Visa Centre received commissions from these recommendations.
+
 ## References
 
 - `https://tvc.co.th/scam`
@@ -455,3 +483,5 @@ The available records do not establish whether the operator fulfilled its deleti
 [^14]: https://mfa.go.th/en/content/weeklypressbriefing03032565 — Ministry of Foreign Affairs, March 3, 2022, official confirmation of revised Test & Go requirements effective March 1.
 
 [^15]: https://aseannow.com/topic/1240046-best-website-to-book-a-testgo-hotel/ — Contributions by soi3eddie and NanLaew, November 19, 2021, including reproduced marketing correspondence dated October 26, 2021.
+
+[^16]: https://aseannow.com/topic/1242597-what-is-best-insurance-for-thailand-pass/ — December 10–11, 2021, insurance recommendations and moderator responses.
