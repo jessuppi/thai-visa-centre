@@ -372,6 +372,34 @@ The operator should distinguish the general penalty schedule from applicable exc
 
 The available evidence does not establish that any customer has received an incorrect individual assessment or suffered financial losses because of these omissions.
 
+## Statistically Unsupported Embassy Approval Comparisons
+
+StampStay's February 2026 DTV embassy comparison claims to derive embassy-specific approval rates from an analysis of 847 successful visa applications across 15 embassies.[^26]
+
+### Selection Bias and Missing Application Outcomes
+
+A dataset consisting exclusively of successful applications cannot independently establish the proportion of applications rejected.
+
+The publication does not disclose the number of unsuccessful applications examined or explain how rejected applicants were incorporated into its statistical calculations.
+
+A separate processing-time article describes the same number of 847 applications without specifying that they were all successful.[^27]
+
+The relationship between these datasets remains unexplained.
+
+### Contradictory Approval Assurances
+
+The embassy comparison characterizes one recommended application destination as offering guaranteed approval while simultaneously assigning it an 82% approval rate for remote workers.
+
+These representations are inconsistent.
+
+### Commercial Accountability
+
+The publication directs prospective applicants toward StampStay's $79 personalized immigration assessment service.
+
+The operator should disclose its underlying sample sizes, unsuccessful application outcomes, verification procedures and statistical methodology before presenting precise comparative approval probabilities.
+
+The available evidence does not establish that the underlying application records are fabricated. However, the published description of the dataset does not adequately support the statistical conclusions presented.
+
 ## References
 
 [^1]: `https://www.stampstay.com/`
@@ -415,3 +443,7 @@ The available evidence does not establish that any customer has received an inco
 [^24]: https://www.pattaniimmigration.go.th/files/com_networknews/2018-05_a7270aa7cfdfde1.pdf — Ministry of Interior Order 1/2558, November 27, 2015, published in the Royal Gazette on December 21, 2015.
 
 [^25]: https://www.tatnews.org/2016/02/thailand-to-reinforce-re-entry-ban-on-overstay-foreign-visitors/ — Tourism Authority of Thailand, February 15, 2016.
+
+[^26]: https://www.stampstay.com/blog/thailand/dtv/embassy-guide — DTV embassy comparison, updated February 22, 2026.
+
+[^27]: https://www.stampstay.com/blog/thailand/dtv/processing-times-by-embassy — DTV processing-time analysis, updated February 22, 2026.
