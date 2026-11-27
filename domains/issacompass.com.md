@@ -861,6 +861,47 @@ The contractual restriction does not apply to self-submission plans and expressl
 
 The available evidence does not establish that Issa Compass has submitted inaccurate or unauthorized declarations on behalf of particular customers.
 
+## Inconsistent Data Retention and Storage Assurances
+
+On July 1, 2026, Issa Compass published an educational article examining the privacy practices of commercial immigration services, subsequently updated on September 30, 2026.[^58]
+
+The article repeatedly promises automatic deletion of uploaded customer documents once two conditions have been satisfied:
+
+- The customer's visa has been issued.
+- The customer has left Thailand.
+
+However, the company's Privacy Policy, effective August 23, 2026, establishes broader retention arrangements.[^59]
+
+### Unclear Automatic Deletion Conditions
+
+Section 6 of the Privacy Policy permits personal-data retention for service delivery, payments, refunds, guarantee administration, taxation, disputes and other legal obligations.
+
+It does not expressly establish the automatic deletion trigger advertised in the educational article.
+
+The article also fails to explain what happens to uploaded documents belonging to customers whose visa applications are rejected, withdrawn or never submitted.
+
+In these circumstances, the visa-issuance condition necessary to trigger automatic deletion may never be satisfied.
+
+### Conflicting Data Storage Representations
+
+Issa Compass's security page states:
+
+> Your data is stored exclusively on Google Cloud Platform's Singapore data center
+
+However, its Privacy Policy describes Singapore as the primary storage location rather than an exclusive one and acknowledges that certain service providers process information internationally.[^59][^60]
+
+The policy also confirms that its Thai operating company maintains physical customer files.
+
+These arrangements are not necessarily incompatible with secure digital hosting, but the security page does not clearly explain the narrower scope of its exclusive-storage assurance.
+
+### Commercial Accountability
+
+**Issa Compass advises prospective immigration customers to scrutinize competing providers' privacy and retention practices while publishing its own unreconciled data-deletion and storage assurances.**
+
+The company should clarify retention periods for unsuccessful applications, identify exceptions to automatic document deletion and distinguish its primary digital infrastructure from other physical and international processing arrangements.
+
+The available evidence does not establish that Issa Compass has improperly retained customer documents, transferred information unlawfully or experienced a data breach.
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -967,3 +1008,11 @@ The available evidence does not establish that Issa Compass has submitted inaccu
 [^56]: `https://www.issacompass.com/insights/thailand-tax-residency-and-money-for-new-arrivals` — Ana Liangsupree, published November 4, 2026, updated November 13, 2026.
 
 [^57]: https://www.issacompass.com/insights/what-happens-if-you-submit-the-wrong-file-format-on-a-thailand-e-visa-portal — Issa Compass consumer guidance concerning application verification and submission errors, reviewed November 27, 2026.
+
+[^58]: https://www.issacompass.com/insights/what-happens-to-your-personal-data-after-you-submit-it-to-a-thailand-visa-servic — Kat Hewett, published July 1, 2026, updated September 30, 2026.
+
+[^59]: https://www.issacompass.com/privacy — Privacy Policy, effective August 23, 2026, particularly Sections 1, 5 and 6.
+
+[^60]: https://www.issacompass.com/security — Commercial security and data-storage assurances.
+
+All three sources were examined on November 27, 2026.
