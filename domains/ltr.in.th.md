@@ -430,6 +430,42 @@ These omissions are also relevant to the company's historical and continuing inv
 
 The available evidence does not establish that Thai Visa Centre has recommended unsuitable insurance to LTR applicants or that customers have incurred unnecessary insurance expenses.
 
+## Outdated Remote-Worker Checklist and Incomplete Financial Evidence Guidance
+
+Despite displaying a November 27, 2026 update timestamp, AGENTS' commercial LTR guide continues identifying the BOI's June 30, 2025 Work-from-Thailand Professional document checklist as the current version.[^24][^29]
+
+However, the BOI's official application-document directory links to a revised checklist dated November 6, 2025.[^30][^31]
+
+### Alternative Income Evidence for Tax-Free Jurisdictions
+
+The commercial website's summary identifies tax returns as the required evidence of personal income.
+
+However, the revised government checklist expressly permits applicants who worked in jurisdictions without income-tax requirements to demonstrate their income through payroll slips and bank statements, with notarization where necessary.[^30]
+
+AGENTS does not explain this documentary alternative in its remote-worker eligibility guidance.
+
+This omission could affect otherwise qualified applicants working in jurisdictions where individual income-tax returns are not required.
+
+### Inconsistent Bank Deposit Documentation
+
+The June 2025 checklist linked by AGENTS expressly excludes investment portfolios and fixed deposits from the US$100,000 bank-deposit alternative to health insurance.[^29]
+
+However, the November 2025 replacement no longer contains those express exclusions.[^30]
+
+AGENTS' general financial guidance does not explain this difference between the government documents.
+
+The omission of those exclusions from the revised checklist does not independently establish that fixed deposits or investment portfolios are now accepted.
+
+Applicants should obtain confirmation from the BOI before relying on particular account types or rearranging substantial financial assets.
+
+### Commercial Significance
+
+**AGENTS advertises unofficial visa qualification testing and promotes Thai Visa Centre's professional assistance while describing an outdated government checklist as current more than one year after its replacement was published.**
+
+The operator should update its documentary references, explain alternative income-verification procedures and clarify uncertainties concerning qualifying bank deposits.
+
+The available evidence does not establish that any applicant has been incorrectly rejected by AGENTS' qualification test or suffered financial losses because of the outdated guidance.
+
 ## References
 
 [^1]: `https://ltr.in.th/`
@@ -476,3 +512,9 @@ The available evidence does not establish that Thai Visa Centre has recommended 
 [^27]: https://www.thailawonline.com/thailand-ltr-visa/ — November 2026 legal analysis concerning LTR eligibility and outstanding Ministry of Interior requirements.
 
 [^28]: https://ltr.boi.go.th/documents/Required-docs-Wealthy-Pensioners-06-11-2025.pdf — BOI, official Wealthy Pensioner application checklist, November 6, 2025, page 5, health insurance exclusions and documentary requirements.
+
+[^29]: https://ltr.boi.go.th/documents/Required-docs-Work-From-Thailand-Professional-30-06-2025.pdf — BOI, June 30, 2025 remote-worker checklist.
+
+[^30]: https://ltr.boi.go.th/documents/Required-docs-Work-From-Thailand-Professional-06-11-2025.pdf — Revised BOI checklist, November 6, 2025, particularly pages 2 and 5.
+
+[^31]: https://ltr.boi.go.th/page/required-documents.html — BOI's official directory of current LTR application documents.
