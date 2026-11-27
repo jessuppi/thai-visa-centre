@@ -228,6 +228,56 @@ The available evidence does not establish that commercial proxy reporting is unl
 
 However, the omission of alternative reporting methods and the unsupported restrictions on online eligibility create an incomplete presentation of customers' available options.
 
+## Questionable Traveler Discussions Contradict Government Border Closure Warnings
+
+As of November 27, 2026, `dtv.in.th` advertised a live DTV discussion containing 576 comments alongside its promotion of Thai Visa Centre as a trusted immigration agency.[^14]
+
+However, several recently published comments describe apparently successful international travel through the Poipet land border crossing between Cambodia and Thailand, despite the continuing suspension of ordinary cross-border travel.
+
+### Purported November 2026 Border Crossing
+
+A participant displaying an email-verification designation described plans to cross at Poipet approximately three weeks earlier.
+
+Another purported traveler responded by describing a successful crossing during the preceding month.
+
+The original participant subsequently reported:
+
+> The Poipet crossing is settled: they checked the ticket, the cash stayed in the bag.
+
+The website displayed this follow-up as having been posted approximately two weeks before November 27, 2026.
+
+### Multiple Governments Confirm Continuing Border Closures
+
+These accounts conflict with published government travel advisories.
+
+The United Kingdom's Foreign, Commonwealth & Development Office, in guidance current on November 26, 2026, confirmed that land crossings between Thailand and Cambodia remained suspended.[^15]
+
+Australia's official Smartraveller advisory similarly confirmed that the land crossings remained closed.[^16]
+
+Canada's government travel advisory, updated October 14, 2026, also identified the continuing closure.[^17]
+
+**The purported traveler experiences therefore describe ordinary immigration crossings during a period when multiple governments reported that those crossings remained closed.**
+
+### Reliability of the Website's Traveler Discussions
+
+The discrepancy raises questions about the authenticity, accuracy and moderation of the discussions published by AGENTS CO., LTD.
+
+The website displays email-verification designations beside participants' names, but verification of an email address does not independently establish that a person's claimed travel experiences are genuine.
+
+This distinction is particularly important because the discussion platform operates alongside commercial immigration advertising and includes contributions from Thai Visa Centre's designated administrator account.
+
+### Potential Safety Consequences
+
+Inaccurate accounts of successful border crossings could encourage foreign residents to arrange unnecessary travel to a restricted border region.
+
+The United Kingdom and Australia also maintain significant safety warnings concerning areas near the Thailand–Cambodia border.
+
+AGENTS should investigate the contradictory travel accounts, explain how its discussion content is moderated, and prominently identify continuing border restrictions.
+
+The available evidence does not establish that AGENTS generated these comments, fabricated the participating accounts, or knowingly published false travel experiences.
+
+Nevertheless, the documented contradiction warrants scrutiny of the reliability of the website's purported traveler discussions.
+
 ## References
 
 [^1]: `https://dtv.in.th/`
@@ -246,6 +296,14 @@ However, the omission of alternative reporting methods and the unsupported restr
 
 [^12]: `https://dtv.in.th/90-day-reporting` — 90-day reporting guide and commercial service promotion, accessed November 25, 2026.
 [^13]: https://uttaradit.immigration.go.th/การรับแจ้งอยู่ในราชอาณา/ — Uttaradit Immigration, official reporting methods, online eligibility instructions, and reporting-period calculations.
+
+[^14]: https://dtv.in.th/ — DTV information website and traveler discussion, retrieved November 27, 2026.
+
+[^15]: https://www.gov.uk/foreign-travel-advice/cambodia — United Kingdom government travel advisory, current November 26, 2026.
+
+[^16]: https://www.smartraveller.gov.au/destinations/asia/cambodia — Australian government travel advisory, current November 26, 2026.
+
+[^17]: https://travel.gc.ca/destinations/cambodia — Canadian government travel advisory, updated October 14, 2026.
 
 ### Additional Existing Sources
 
