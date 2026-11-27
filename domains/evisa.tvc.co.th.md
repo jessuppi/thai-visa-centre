@@ -307,6 +307,66 @@ That increases the importance of identifying the business responsible for contra
 
 The company should identify the actual contracting entity, clearly distinguish the data-protection responsibilities of its associated businesses, and reconcile its published agreements with the services customers are purchasing.
 
+## Installable Client Portal and Incomplete Statutory Privacy Disclosures
+
+As of November 27, 2026, Thai Visa Centre continued encouraging immigration customers to install its client portal as a home-screen web application on Android, iPhone and iPad devices.[^10][^11]
+
+Both installation guides prominently advertise:
+
+> OTP only. No leftover staff access.
+
+The guides also encourage customers to enable notifications for immigration case updates, providing an alternative to communication through LINE and WhatsApp.
+
+However, the company's publicly accessible privacy documents do not adequately explain several important aspects of the resulting personal-data processing arrangements.
+
+### Missing Immigration Record Retention Periods
+
+Thai Visa Centre's Privacy Policy, last updated February 9, 2025, describes collecting account details, contact information and other customer information.[^3]
+
+However, it does not specify retention periods for immigration records, identity documents, completed applications or customer communications.
+
+Section 23(3) of Thailand's Personal Data Protection Act requires controllers to disclose personal-data retention periods or expected retention periods where precise durations cannot be determined.[^12]
+
+This information must ordinarily be provided before or when personal information is collected.
+
+**Customers reviewing Thai Visa Centre's public privacy documents cannot determine how long their immigration records will remain within the agency's digital infrastructure after their cases are completed.**
+
+### Incomplete Explanation of Statutory Data Rights
+
+Section 23(6) additionally requires controllers to inform individuals of their applicable statutory data-protection rights.[^12]
+
+These include rights concerning access, correction, objection, erasure, restriction of processing, withdrawal of consent and complaints to the competent authority.
+
+Thai Visa Centre's general Privacy Policy provides a contact email address but does not comprehensively explain these rights or the procedures for exercising them.
+
+Its separate Data Protection Policy promises appropriate complaint handling and general compliance with the PDPA but does not resolve these disclosure deficiencies.[^6]
+
+### Staff Access and Authentication Are Separate Issues
+
+The installation guides' assurance concerning staff access appears alongside their description of one-time-password authentication.
+
+However, customer authentication and employee authorization are separate security functions.
+
+One-time-password authentication does not independently establish how employee access is granted, monitored or revoked.
+
+The publicly accessible portal simultaneously advertises ongoing case management by agency staff.[^1]
+
+The company should clarify the scope of its staff-access assurance and distinguish access to customer accounts from authorized access to immigration case records.
+
+### Statutory Data Breach Responsibilities
+
+Section 37 of Thailand's PDPA establishes security, data-erasure and breach-notification responsibilities for data controllers.[^12]
+
+Qualifying breaches must be reported to the competent authority without delay and, where feasible, within 72 hours of discovery. Breaches presenting a high risk to affected individuals also require notification to those individuals.
+
+These obligations remain applicable irrespective of the company's general contractual disclaimers.
+
+**Thai Visa Centre promotes an increasingly integrated digital immigration service while its publicly accessible privacy documentation leaves important questions concerning retention, customer rights and responsibility for immigration records unresolved.**
+
+The company should provide clear portal-specific privacy disclosures, identify the responsible registered company and explain the lifecycle of customer immigration records.
+
+The available evidence does not establish unauthorized employee access, improper retention of immigration documents, a data breach or failure to report an actual security incident.
+
 ## References
 
 [^1]: `https://evisa.tvc.co.th/`
@@ -320,3 +380,9 @@ The company should identify the actual contracting entity, clearly distinguish t
 
 [^8]: https://unctad.org/system/files/official-document/ditccplp2022d1_en.pdf — United Nations Conference on Trade and Development, *Voluntary Peer Review of Consumer Protection Law and Policy: Thailand*, section 3.1, examining the Unfair Contract Terms Act B.E. 2540.
 [^9]: https://library.siam-legal.com/thai-law/civil-and-commercial-code-obligations-section-369-376/ — Thailand Civil and Commercial Code, Section 373, English translation concerning advance exclusions of liability for fraud or gross negligence.
+
+[^10]: https://tvc.co.th/client-portal-android — Official Android client portal installation guide, retrieved November 27, 2026.
+
+[^11]: https://tvc.co.th/client-portal-ios — Official iPhone and iPad client portal installation guide, retrieved November 27, 2026.
+
+[^12]: https://www.mdes.go.th/law/detail/1905-Personal-Data-Protection-Act--B-E--2562--2019- — Ministry of Digital Economy and Society, English translation of the Personal Data Protection Act, particularly Sections 23 and 37, pages 9 and 16.
