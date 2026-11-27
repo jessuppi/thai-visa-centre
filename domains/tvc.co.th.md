@@ -7042,6 +7042,48 @@ Thai Visa Centre should revise its probate and succession publications to explai
 
 **The agency should avoid portraying Thai co-executors and court-appointed probate administration as universal requirements when Thailand's legislation and published Land Department procedures establish more flexible alternatives.**
 
+### November 2026 Update: TVC Misrepresents the Inheritance Rights of Surviving Parents
+
+As of November 27, 2026, Thai Visa Centre's probate and succession guide continued publishing incorrect information about statutory inheritance rights.[^235]
+
+Its explanation of the second class of statutory heirs states:
+
+> Inherit when no descendants survive the deceased.
+
+However, Section 1630, paragraph two, of Thailand's Civil and Commercial Code expressly establishes an exception to the ordinary priority between classes of statutory heirs.[^695]
+
+Where qualifying descendants and parents survive the deceased, each surviving parent is entitled to an inheritance share equivalent to that of a child.
+
+**The existence of surviving children does not automatically extinguish the inheritance rights of the deceased's parents.**
+
+For example, if an unmarried person dies intestate leaving two children and both parents, the four qualifying heirs would ordinarily receive equal shares of the distributable estate.
+
+Under TVC's incorrect explanation, the parents would appear to receive nothing.
+
+This represents a separate error from the company's previously documented claims concerning mandatory inheritance shares under valid wills.
+
+#### Expanded Legal References Fail to Address Succession Law
+
+TVC's probate guide now incorporates eight legislative and official references, including regulations governing:
+
+- Immigration status and visa conversions.
+- Condominium ownership.
+- Marriage and divorce registration.
+- Immigration address reporting.
+- Thailand Digital Arrival Cards.
+
+However, its reference table does not identify the Civil and Commercial Code's applicable succession provisions.
+
+Its separate guide concerning wills for foreigners similarly retains its incorrect forced-heirship claims while providing three legislative references concerning condominiums and family registration.[^237]
+
+**Thai Visa Centre continues publishing incorrect information about fundamental inheritance rights while supplementing its estate-planning publications with official documents that do not substantiate those claims.**
+
+The presence of official legislative references does not establish the accuracy of the accompanying legal guidance, particularly when those references fail to address the relevant statutory provisions.
+
+These inaccuracies could affect families' understanding of substantial inheritance entitlements, including property, bank deposits, and other assets.
+
+The evidence does not establish that TVC has caused an incorrect estate distribution or financial loss to any particular beneficiary.
+
 ### Commercial Significance Across Estate Planning and Probate
 
 TVC promotes estate-planning coordination, legal-service referrals, and assistance with inherited Thai assets while publishing blanket statements about compulsory inheritance shares, lawyers, Thai co-administrators, and court proceedings. The underlying legal questions differ: a testator's freedom to dispose of an estate, the formal requirements for making a will, eligibility to administer an estate, and the transfer process for particular property must each be assessed on their own terms.
@@ -12012,3 +12054,5 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^693]: https://tvc.co.th/law/foreign-business — Thai Visa Centre's Foreign Business Act legal archive, including its 231-document reference table and government anti-nominee enforcement reports. Retrieved November 27, 2026.
 
 [^694]: https://www.tilleke.com/insights/iclg-franchise-thailand/ — Tilleke & Gibbins, *ICLG: Franchise 2027 – Thailand*, published November 9, 2026.
+
+[^695]: https://www.thailawonline.com/th/thai-civil-code/section-1630/ — Civil and Commercial Code, Section 1630, Thai statutory text and English translation, updated November 6, 2026.
