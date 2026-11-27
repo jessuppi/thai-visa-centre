@@ -315,6 +315,26 @@ The operator should distinguish the legal availability of an appeal from its pra
 
 The available evidence does not establish that any traveler has forfeited an appeal because of StampStay's advice, or that immigration authorities consistently facilitate the appeal process in practice.
 
+## Misleading Distinction Between Visa Issuance and Immigration Admission
+
+StampStay's March 7, 2026 publication concerning recovery from immigration refusals presents obtaining an embassy-issued tourist visa as the most effective route to subsequent admission.[^17]
+
+### Overstating the Effect of Visa Issuance
+
+The publication characterizes the immigration officer's role as shifting from gatekeeper to verifier when a traveler presents a valid visa.
+
+However, official Thai consular guidance confirms that immigration officers retain the authority to refuse admission to visa holders under the Immigration Act.[^20][^21]
+
+A consular visa approval does not constitute a binding determination of admissibility at an immigration checkpoint.
+
+StampStay acknowledges elsewhere in the same publication that tourist visas do not guarantee entry, but its characterization of the officer's changing responsibilities understates the continuing scope of immigration discretion.
+
+### Commercial Accountability
+
+The operator should distinguish consular visa issuance from immigration admission and substantiate claims concerning improved admission probabilities following previous refusals.
+
+Obtaining an appropriate visa may genuinely improve a traveler's circumstances. The available evidence does not establish that StampStay's recommendations are ineffective or that any customer has suffered an additional refusal because of this guidance.
+
 ## References
 
 [^1]: `https://www.stampstay.com/`
@@ -346,3 +366,7 @@ The available evidence does not establish that any traveler has forfeited an app
 [^18]: https://phrae.immigration.go.th/wp-content/uploads/2024/06/Immigration_Act_B.E._2522.pdf — Immigration Act B.E. 2522, Section 22, English translation prepared by the Office of the Council of State.
 
 [^19]: https://uthaithani.immigration.go.th/wp-content/uploads/2024/02/1.1.13-กฎกระทรวงกำหนดแบบเอกสารฉบับที่-1.pdf — Official TM.11 appeal form.
+
+[^20]: https://mumbai.thaiembassy.org/en/publicservice/59444-what-does-the-visa-expiration-date-mean — Official consular guidance concerning visa validity and admission.
+
+[^21]: https://helsinki.thaiembassy.org/en/publicservice/information-about-visa-and-validity-of-stay-permit — Official embassy guidance concerning immigration officers' continuing authority to refuse admission.
