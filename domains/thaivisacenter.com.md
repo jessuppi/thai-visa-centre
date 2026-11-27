@@ -125,6 +125,38 @@ The operator should reconcile its multilingual guidance and clearly distinguish 
 
 The available evidence does not establish that the agency has actually collected inflated government fees from customers.
 
+## Outdated Retirement Extension Financial Requirements
+
+As examined on November 28, 2026, Thai Visa Center's retirement visa guide and frequently asked questions provide incomplete and outdated financial eligibility instructions.[^17][^9]
+
+### Outdated Bank Deposit Requirements
+
+The company's FAQ describes a three-month deposit requirement before renewal, with a shorter 60-day requirement for initial applications.
+
+Current published immigration guidance for retirement extensions using the bank-deposit method instead specifies:[^16][^18]
+
+- At least 800,000 baht deposited for two months before applying.
+- Maintenance of that balance for three months following approval.
+- A minimum remaining balance of 400,000 baht after that period.
+
+The agency's guidance omits these continuing financial obligations.
+
+### Inconsistent Income Requirements
+
+The retirement visa guide presents a monthly income threshold of 65,000 baht alongside an additional annual income threshold of 800,000 baht.
+
+Official immigration guidance identifies the monthly income threshold as a separate eligibility route.
+
+The agency's FAQ separately acknowledges the combination of annual income and bank deposits as another eligibility route.
+
+### Commercial Accountability
+
+Incomplete financial guidance could cause retirement extension holders to withdraw funds prematurely or misunderstand their eligibility.
+
+The agency should update its publications to distinguish the available financial qualification methods and explain continuing obligations following approval.
+
+The available evidence does not establish that any customer has lost immigration eligibility because of these publications.
+
 ## References
 
 [^1]: `https://www.thaivisacenter.com/`
@@ -150,6 +182,10 @@ The available evidence does not establish that the agency has actually collected
 [^15]: https://test.immigration.go.th/?page_id=1401 — Immigration Bureau's official fee schedule.
 
 [^16]: https://uttaradit.immigration.go.th/การขออยู่ต่อ-2/ — Uttaradit Immigration's official application guidance and fee information.
+
+[^17]: https://www.thaivisacenter.com/15113581/วีซ่าเกษียณอายุ-retirement-visa — Bilingual retirement visa guide.
+
+[^18]: https://phitsanulok.immigration.go.th/คู่มือการให้บริการประชา/ — Phitsanulok Immigration, official retirement extension eligibility criteria.
 
 ## Additional Existing Sources
 
