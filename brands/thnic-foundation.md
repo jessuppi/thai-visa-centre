@@ -94,6 +94,30 @@ The Foundation's public cybersecurity guidance provides an additional benchmark 
 
 The September article does not specifically identify Thai Visa Centre or establish that the reported immigration websites constitute phishing operations.
 
+## April 2023 Public Assurances Regarding Fraudulent Domain Use
+
+On April 5, 2023, the THNIC Foundation published an announcement concerning its partnership with the Digital Council of Thailand.[^13]
+
+Discussing fraudulent websites and the benefits of verified Thai domain registrations, executive director Dr. Pensri Arunwatanamongkol stated:
+
+> In case of misuse or fraudulent activities, it is possible to contact the domain holder or administrators to suspend the usage.
+
+The Foundation presented domain-holder verification as a mechanism for reducing deceptive registrations and protecting internet users.
+
+### Relevance to Subsequent Abuse Complaints
+
+Between February 2025 and November 2026, Jesse Nickles submitted multiple complaints concerning immigration-related domains associated with Thai Visa Centre and Agents Co., Ltd.[^3][^4]
+
+These complaints raised precisely the types of concerns addressed in the Foundation's earlier public statements, including potentially misleading website identities and the collection of personal information through privately operated immigration websites.
+
+The registrar subsequently stated that suspension of tvc.co.th would require an explicit court or competent government order.
+
+**The Foundation's earlier assurances make it particularly important to establish what investigative and intervention procedures are available when suspected domain misuse is reported.**
+
+The April 2023 statement does not establish that every abuse complaint warrants suspension or that the Foundation can independently adjudicate defamation disputes.
+
+Nevertheless, it provides additional grounds for requesting clarification of the registrar's enforcement procedures and the Foundation's oversight responsibilities.
+
 [^1]: https://thnic.or.th/en/registryregistrar-eng/
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: THNIC correspondence, April 13–18, 2025 and October 21–November 12, 2026 (private correspondence; cases QWK-ZGJNX-001, VRK-ZLCQS-392, SKW-BDLDD-392, and QLL-SSKGH-073).
@@ -108,3 +132,5 @@ The September article does not specifically identify Thai Visa Centre or establi
 [^11]: https://thnic.or.th/sureandshare-link-scam/ — THNIC Foundation, cybersecurity guidance concerning deceptive website addresses, September 9, 2025.
 
 [^12]: https://thnic.or.th/en/news-thaionline-dbd2025_/ — THNIC Foundation, March 13, 2025, reporting on its participation in the February 27 business credibility event.
+
+[^13]: https://thnic.or.th/en/news-mou-dct-2/ — THNIC Foundation, April 5, 2023, announcement concerning its partnership with the Digital Council of Thailand.
