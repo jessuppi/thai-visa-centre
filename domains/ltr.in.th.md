@@ -332,6 +332,64 @@ The website should distinguish qualifying assets from general personal wealth an
 
 The available evidence does not establish that any applicant has suffered financial losses or purchased unsuitable investments because of these omissions.
 
+## Contradictory Dependent Eligibility Advice Within Traveler Discussions
+
+As of November 27, 2026, `ltr.in.th` advertised a live discussion containing 307 comments alongside its promotion of Thai Visa Centre's commercial immigration services.[^24]
+
+However, its purported traveler discussions contain advice that contradicts both the website's own legal explanations and the government's published eligibility requirements.
+
+### Misleading Advice Concerning Elderly Parents
+
+A participant displaying an email-verification designation described plans to relocate to Thailand with her husband, two children and elderly mother.
+
+The participant assumed that BOI Announcement Por. 3/2568 had already implemented expanded dependent eligibility.
+
+Another participant responded with instructions concerning separate applications, relationship documentation, health insurance and the US$25,000 deposit alternative.
+
+Neither participant addressed the outstanding Ministry of Interior requirements.
+
+The prospective applicant subsequently expressed relief regarding the deposit alternative because of the difficulty of obtaining health insurance for her 74-year-old mother.
+
+### Government Still Publishes Restricted Dependent Eligibility
+
+The BOI's official website continues to identify eligible dependents as lawful spouses and children younger than 20, subject to a maximum of four dependents per principal visa holder.[^25]
+
+The BOI's January 15, 2025 announcement expressly made the expansion of dependent rights conditional upon an additional Ministry of Interior announcement.[^26]
+
+Independent legal analysis published in November 2026 similarly identifies the outstanding implementing announcement and continuing restrictions.[^27]
+
+Furthermore, the prospective applicant's proposed family contains four dependents, not more than four. The principal obstacle under the earlier framework is the mother's relationship to the applicant, rather than the numerical limit.
+
+### Contradiction With the Website's Own Legal Guidance
+
+The commercial website itself acknowledges the unresolved distinction between BOI qualification rules and Ministry of Interior immigration requirements.
+
+Its November 27, 2026 guidance advises prospective applicants to confirm eligibility with the authorities before submitting applications for parents or additional dependents.[^24]
+
+However, the discussion exchange proceeds as though the mother's eligibility has already been established.
+
+**AGENTS publishes legal warnings concerning unresolved dependent eligibility while simultaneously displaying purported traveler discussions that disregard those warnings.**
+
+### Thai Visa Centre's Administrator Contradicts Published Reporting Guidance
+
+A separate discussion contains a response from Thai Visa Centre's verified administrator correctly explaining that international travel resets the annual immigration reporting period.
+
+Nevertheless, two tables on the same website continue describing annual reporting as calculated from the original grant of permission to stay.
+
+The administrator's explanation agrees with the BOI's official reporting instructions.[^18]
+
+This demonstrates that correct information is already present within the website's own discussions, while contradictory guidance remains in its principal immigration publication.
+
+### Commercial Significance and Discussion Reliability
+
+These inconsistencies matter because the website presents its discussions as a resource for prospective immigrants while advertising Thai Visa Centre's professional assistance.
+
+Families relying on inaccurate eligibility advice could incur unnecessary insurance, documentation and relocation expenses.
+
+The operator should reconcile its published guidance, correct misleading discussion contributions, and clearly distinguish verified email addresses from independently verified immigration experiences.
+
+The available evidence does not establish that AGENTS fabricated the comments or that any participant suffered financial losses.
+
 ## References
 
 [^1]: `https://ltr.in.th/`
@@ -368,3 +426,11 @@ The available evidence does not establish that any applicant has suffered financ
 [^22]: https://ltr.boi.go.th/documents/Required-docs-Wealthy-Global-Citizens-06-11-2025.pdf — BOI, official Wealthy Global Citizen application checklist, November 6, 2025, pages 3–4.
 
 [^23]: https://ltr.boi.go.th/documents/Required-docs-Wealthy-Pensioners-06-11-2025.pdf — BOI, official Wealthy Pensioner application checklist, November 6, 2025, page 4.
+
+[^24]: https://ltr.in.th/ — LTR guidance and traveler discussions, retrieved November 27, 2026.
+
+[^25]: https://ltr.boi.go.th/ — Official BOI eligibility criteria and dependent restrictions.
+
+[^26]: https://osos.boi.go.th/EN/news/2158 — BOI announcement dated January 15, 2025, including the conditional expansion of dependent rights.
+
+[^27]: https://www.thailawonline.com/thailand-ltr-visa/ — November 2026 legal analysis concerning LTR eligibility and outstanding Ministry of Interior requirements.
