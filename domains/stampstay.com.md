@@ -245,6 +245,42 @@ The operator should distinguish submitted travel profiles, community reports and
 
 The available evidence does not establish that StampStay's statistics are fabricated or that records without confirmed outcomes are necessarily included in its denial-rate calculations.
 
+## Contradictory Comparisons With Professional and Community Immigration Advice
+
+As examined on November 28, 2026, StampStay's commercial immigration assessment page presents its $79 service as a preferable alternative to community discussions and professional immigration lawyers.[^8]
+
+### Criticizing Its Own Information Sources
+
+The sales page criticizes Reddit and Facebook discussions for providing unreliable anecdotes that may lead travelers to underestimate their immigration risks.
+
+However, StampStay's About page acknowledges that its immigration pattern database originated substantially from answering questions within Reddit communities.[^6]
+
+Its Legal Disclaimer also identifies community reports, forums and social media among its principal information sources.[^4]
+
+Aggregating community reports may provide additional analytical value, but the operator does not publish sufficient methodological evidence demonstrating that its paid assessments overcome the reliability limitations attributed to those sources.
+
+### Discouraging Professional Consultation
+
+The commercial sales page claims immigration lawyers charge between $300 and $500 per hour and characterizes their services as unnecessary for ordinary entry-risk assessments.[^8]
+
+No comparative pricing research is supplied.
+
+Meanwhile, StampStay's Legal Disclaimer explicitly instructs users to consult licensed immigration lawyers or authorized visa agents before making immigration-related decisions.[^4]
+
+The operator also acknowledges that it is not a licensed immigration consultant and does not provide professional legal advice.
+
+### Unverified Comparative Outcomes
+
+The sales page presents a successful tourist visa entry as an example of its assessment capabilities, suggesting that the customer avoided possible adverse immigration consequences.[^8]
+
+However, a successful entry following a recommendation does not establish what would have happened had the traveler followed their original plans.
+
+### Commercial Significance
+
+StampStay should distinguish the demonstrated capabilities of its informational assessments from unverified claims of superiority over free community resources and professional immigration services.
+
+The available evidence does not establish that its assessments provide no value or that its published customer experiences are fabricated.
+
 ## References
 
 [^1]: `https://www.stampstay.com/`
