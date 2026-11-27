@@ -28,7 +28,7 @@ However, the company's own websites continue advertising electronic cannabis ord
 
 ### The Company Explicitly Advertises Delivery Orders
 
-WEED.TH's medical-card homepage tells customers that participating dispensaries offer discounts and that cardholders can order delivery services directly through its platform.[^8]
+WEED.TH's medical-card homepage previously told customers that participating dispensaries offered discounts and that cardholders could order delivery services directly through its platform.[^8] The redesigned homepage retrieved on November 28, 2026, no longer explicitly advertised delivery ordering. The earlier observation is therefore historical; the separate dispensary partnership page described below continued to advertise delivery requests in the reviewed version.
 
 Its dispensary partnership page is more explicit.
 
@@ -82,6 +82,28 @@ This distinction matters because the same business network also operates OG.TH, 
 
 WEED.TH's published ordering functionality demonstrates that those questions extend beyond a single cannabis storefront and into the wider commercial infrastructure associated with Thai Visa Centre.
 
+## Inconsistent Digital and Original Prescription Guidance
+
+As examined on November 28, 2026, WEED.TH publishes materially different explanations of the documentation required for medical cannabis transactions across its commercial websites.
+
+Its main cannabis-card page repeatedly emphasizes digital P.T.33 prescription proof without adequately distinguishing the documentation required before and after dispensing.[^3]
+
+However, its dedicated prescription portal explains that an original signed prescription is physically produced and that the digital copy serves as a separate patient record.[^8]
+
+### Government Requirements for Original Prescriptions
+
+The Department of Thai Traditional and Alternative Medicine's regulatory guidance, published in September 2025, expressly instructs dispensaries to retain the original P.T.33 prescription alongside their dispensing records for one year.[^13]
+
+WEED.TH's own expanded legal archive acknowledges this requirement and explains that a digital copy of a previously fulfilled prescription does not authorize another transaction.[^14]
+
+The company's newer documentation therefore provides an important distinction that remains inadequately explained on its older promotional page.
+
+### Commercial Accountability
+
+WEED.TH should reconcile its promotional material with its more detailed prescription procedures and clearly distinguish digital patient records from original dispensing documentation.
+
+The available evidence does not establish that WEED.TH has issued invalid prescriptions or that participating dispensaries have improperly accepted digital copies.
+
 ## References
 
 [^1]: https://www.dataforthai.com/company/0115566005267/
@@ -97,3 +119,7 @@ WEED.TH's published ordering functionality demonstrates that those questions ext
 [^10]: https://erx.weed.th/
 [^11]: https://thailand.prd.go.th/en/content/page/index/id/401785
 [^12]: https://www.thailand.go.th/public/issue-focus-detail/cannabis-now-strictly-regulated-in-thailand--important-notice-for-tourists
+
+[^13]: https://www.chiangmaihealth.go.th/document/251002175939036533.pdf — Department of Thai Traditional and Alternative Medicine, September 2025 regulatory guidance, page 2, concerning original prescription retention.
+
+[^14]: https://card.weed.th/law/patient-buy — WEED.TH's legal archive explaining original prescriptions and subsequent digital copies.
