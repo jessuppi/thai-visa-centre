@@ -58,6 +58,28 @@ The available evidence does not establish that THIM lacks certification, suffers
 
 It establishes that the reviewed public security assurances do not independently verify the extent of certification or auditing across the complete immigration platform.
 
+## App Marketplace Privacy Disclosures and External Biometric Processing
+
+As examined on November 28, 2026, THIM's official Google Play listing displays a declaration that no data is shared with third parties.[^2]
+
+However, Section X of the Immigration Bureau's Privacy Notice identifies several categories of potential information recipients, including government agencies, law enforcement authorities and contracted service providers.[^3]
+
+The notice expressly identifies KYCNow Company Limited as a processor responsible for biometric and document verification.
+
+### Google Play Disclosure Exceptions
+
+Google's published Data Safety requirements exclude certain information transfers from mandatory sharing declarations, including processing undertaken by contracted service providers and disclosures made for specified legal purposes.[^7]
+
+Consequently, THIM's marketplace declaration does not necessarily contradict Google's requirements.
+
+Nevertheless, travelers relying exclusively on that declaration may not appreciate the extent of external processing described in the application's full Privacy Notice.
+
+### Accountability for External Processing
+
+Digital Identity and the Immigration Bureau should clearly explain the relationship between marketplace privacy declarations, contracted biometric processing and legally authorized government disclosures.
+
+The available evidence does not establish inaccurate Google Play reporting, unauthorized information sharing or commercial access to immigration records by AGENTS CO., LTD.
+
 ## References
 
 [^1]: `https://www.di.co.th/`
@@ -68,3 +90,5 @@ It establishes that the reviewed public security assurances do not independently
 [^5]: https://www.iso.org/standard/27001 — ISO/IEC 27001:2022, information-security management systems.
 
 [^6]: https://press.aboutamazon.com/aws/2026/5/digital-identity-co-modernizes-thailand-immigration-bureau-services-with-aws — AWS announcement, May 28, 2026.
+
+[^7]: https://support.google.com/googleplay/android-developer/answer/10787469 — Google's official Data Safety disclosure requirements and service-provider exceptions.
