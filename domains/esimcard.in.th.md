@@ -90,6 +90,55 @@ The company should clarify its refund obligations, identify the circumstances go
 
 The available evidence does not establish that AGENTS has improperly retained bank statements, refused legally required refunds, or successfully enforced its liability limitations against any particular customer.
 
+## Omitted Tourist eSIM Registration and Renewal Restrictions
+
+As of November 27, 2026, `esimcard.in.th` continued advertising an extendable ten-day unlimited 5G eSIM for US$19 without explaining several important telecommunications restrictions applicable to foreign travelers.[^1]
+
+These omissions are particularly relevant following Thailand's introduction of stricter telecommunications regulations intended to combat technology-related crime.
+
+### August 2025 Tourist SIM Restrictions
+
+Section 8 of the National Broadcasting and Telecommunications Commission's August 2025 notification establishes a maximum initial validity period of 60 days for foreign tourist SIM cards.[^9]
+
+Travelers cannot extend the applicable validity period merely by adding prepaid credit. Continued service beyond the permitted period requires renewed identity verification with the telecommunications provider.
+
+Although AGENTS advertises its eSIM as extendable, its publicly accessible storefront does not explain these restrictions or the procedures required to maintain service.
+
+### May 2026 Registration Requirements
+
+Additional regulatory amendments became effective on May 16, 2026, strengthening telecommunications registration and identity-verification requirements.[^10]
+
+The amended framework includes:
+
+- A maximum of three mobile numbers per foreign individual per service provider.
+- In-person initial registration through a telecommunications branch or authorized dealer.
+- Activation within 60 days of registration.
+- Renewed identity verification where the activation deadline is exceeded.
+
+AGENTS does not prominently explain how its online purchasing process accommodates these requirements or identify which telecommunications provider performs the necessary subscriber registration.
+
+### More Transparent Disclosures From Network Operators
+
+Both AIS and True-dtac publish specific explanations of the restrictions affecting tourist SIM validity and identity reverification.[^11][^12]
+
+AGENTS instead emphasizes convenient electronic payment, immediate connectivity and extendability without comparable explanations of the applicable limitations.
+
+The availability of electronic payment and eSIM delivery does not eliminate telecommunications subscriber-registration obligations.
+
+### Telecommunications Data Retention
+
+The May 2026 amendments also establish additional personal-data retention obligations for telecommunications licensees, including retention for at least 180 days following contract expiration.[^10]
+
+These obligations create further questions concerning the relationship between AGENTS' retail customer records and the subscriber information maintained by its telecommunications suppliers.
+
+The applicable legal responsibilities may differ depending on whether AGENTS operates as a licensed telecommunications provider, an authorized distributor or another category of commercial intermediary.
+
+**AGENTS promotes convenient and extendable telecommunications services through Thai Visa Centre's commercial network without clearly explaining the regulatory conditions governing registration, activation and continued connectivity.**
+
+The company should identify its underlying telecommunications suppliers, explain applicable identity-verification procedures and distinguish its own customer-data retention obligations from those of licensed network operators.
+
+The available evidence does not establish that AGENTS has bypassed mandatory subscriber registration, supplied improperly registered SIM cards or violated telecommunications licensing requirements.
+
 ## References
 
 [^1]: `https://esimcard.in.th/en` — Retail eSIM website and corporate disclosures.
@@ -107,3 +156,11 @@ The available evidence does not establish that AGENTS has improperly retained ba
 [^7]: https://www.thailawonline.com/thai-civil-code/section-373/ — Civil and Commercial Code, Section 373.
 
 [^8]: https://esimcard.in.th/en/policy/disclaimer — AGENTS CO., LTD., retail eSIM Disclaimer, reviewed November 27, 2026.
+
+[^9]: https://ratchakitcha.soc.go.th/documents/84180.pdf — August 2025 NBTC notification concerning technology-crime prevention measures, particularly Section 8.
+
+[^10]: https://www.tilleke.com/insights/thailand-tightens-telecom-registration-data-and-ip-address-rules-to-combat-tech-crime/ — Tilleke & Gibbins, May 19, 2026, legal analysis of the amended NBTC requirements.
+
+[^11]: https://www.ais.th/en/consumers/package/international/tourist-plan — AIS tourist SIM registration and validity instructions.
+
+[^12]: https://www.true.th/promotion/prepaid/terms-tourist-infinite-sim — True-dtac tourist SIM terms, particularly service eligibility and SIM validity.
