@@ -7893,6 +7893,54 @@ However, its categorical explanations fail to distinguish the general prohibitio
 
 **Thai Visa Centre should revise its property guides to explain Section 96 bis, identify the applicable investment and ministerial-approval requirements, distinguish BOI-promoted corporate ownership from personal freehold rights, and clarify that nominee structures remain unlawful.**
 
+### November 2026 Update: TVC's Land-Law Archive Contradicts Its Matrimonial Property Guidance
+
+Thai Visa Centre's commercial guide concerning marriage and property in Thailand inadequately explains the legal significance of declarations signed by foreigners when their Thai spouses purchase land.[^697]
+
+Its matrimonial property comparison table describes land purchased using a foreign spouse's funds as follows:
+
+> Thai spouse holds title. Foreigner signs non-ownership declaration. Matrimonial rules still apply.
+
+This explanation omits the fundamental distinction between separate property (*Sin Suan Tua*) and matrimonial property (*Sin Somros*) under Thai law.
+
+#### Government Requires Confirmation of Separate Property
+
+The Royal Thai Embassy in Stockholm explains that both spouses must confirm in writing that the money used to purchase land belongs exclusively to the Thai spouse as separate property rather than matrimonial property.[^699]
+
+The required declaration is therefore more substantial than a simple acknowledgment that the foreign spouse will not appear on the land title.
+
+Section 1472 of Thailand's Civil and Commercial Code establishes that assets acquired using separate property ordinarily retain their separate-property classification.[^700]
+
+Section 1473 establishes that each spouse manages their own separate property.[^701]
+
+Consequently, a foreign spouse should not assume that ordinary matrimonial property protections automatically apply to land acquired under a declaration establishing the purchase funds as the Thai spouse's separate property.
+
+#### TVC's New Legal Archive Acknowledges the Actual Requirement
+
+The contradiction is particularly significant because Thai Visa Centre recently incorporated the Department of Lands' public service manual directory into its expanding legal archive.
+
+TVC identifies September 2, 2025, as the publication date and November 22, 2026, as its archive capture date.[^702]
+
+Its own summary correctly acknowledges the requirement for:
+
+> joint written confirmation that purchase funds are solely the Thai spouse's personal property
+
+**Thai Visa Centre has therefore archived and summarized the government requirement that its commercial property guidance fails to adequately explain.**
+
+#### Financial Consequences for Foreign Property Buyers
+
+This distinction could have substantial consequences for foreigners financing land purchases involving Thai spouses.
+
+A foreign purchaser might incorrectly assume that ordinary marital property division or spousal consent requirements will protect their financial contribution following a separation or divorce.
+
+The actual classification of disputed assets, enforceability of agreements, and potential financial remedies depend on the circumstances and applicable law.
+
+Neither marriage nor a private property agreement automatically overrides Thailand's foreign land ownership restrictions.
+
+TVC should explain the legal effect of the Department of Lands' confirmation letter, distinguish separate property from matrimonial assets, and reconcile its commercial recommendations with its own recently expanded legal archive.
+
+The available evidence does not establish that TVC has facilitated unlawful land acquisitions or caused any particular customer to lose property.
+
 ### Property Guide Promotes 90-Year Lease Structure Despite Supreme Court Ruling
 
 Thai Visa Centre's *Property Law in Thailand for Expats* guide, marked reviewed June 2026, prominently advertises **30+30+30 years** as a leasehold term available to foreign property buyers.[^306]
@@ -12164,3 +12212,11 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^697]: https://tvc.co.th/guides/property-thailand-property-marriage — Thai Visa Centre's marriage and property guide, recommending prenuptial or postnuptial property schedules in connection with land purchases.
 
 [^698]: https://www.thailawonline.com/thai-civil-code/section-1469/ — Civil and Commercial Code, Section 1469, including the amended Thai statutory text, English translation, and summaries of relevant Supreme Court decisions. Updated November 9, 2026.
+
+[^699]: https://thaiembassy.se/en/letter-of-confirmation-for-land-purchase-by-thai-citizens-married-to-foreigners/ — Royal Thai Embassy in Stockholm, official land-purchase confirmation requirements, updated January 17, 2025.
+
+[^700]: https://www.thailawonline.com/thai-civil-code/section-1472/ — Civil and Commercial Code, Section 1472, governing the substitution of separate property.
+
+[^701]: https://www.thailawonline.com/thai-civil-code/section-1473/ — Civil and Commercial Code, Section 1473, governing the management of separate property.
+
+[^702]: https://tvc.co.th/law/documents/life-dol-land-for-foreigners-directory — Thai Visa Centre's archived Department of Lands directory, captured November 22, 2026.
