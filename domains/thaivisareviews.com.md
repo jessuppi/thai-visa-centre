@@ -763,6 +763,35 @@ The available evidence does not establish that the underlying testimonials are f
 
 The documented concern relates to the directory's analysis and presentation of customer reviews, rather than misconduct by the reviewed agencies.
 
+## Indirect Collection of Reviewer Information and GDPR Transparency
+
+Thai Visa Reviews acknowledges aggregating publicly available customer reviews from Google Maps, Facebook and Trustpilot while claiming full GDPR compliance.[^16]
+
+### Indirect Personal Data Collection
+
+Article 14 of the GDPR establishes transparency obligations for data controllers obtaining personal information from sources other than the individuals concerned.[^18]
+
+The public availability of customer reviews does not automatically exempt subsequent processing from these obligations.
+
+Where applicable, the legislation requires disclosure of processing purposes, legal grounds, information sources, retention arrangements and applicable individual rights, subject to specified exceptions.
+
+### Indefinite Review Retention
+
+The directory's Privacy Policy states that review content may be retained indefinitely as part of its historical record.
+
+However, it does not specifically explain:
+
+- The legal basis for processing identifiable third-party reviews.
+- How original reviewers are informed of their republication.
+- Whether changes or deletions on the original review platforms are subsequently reflected in the directory.
+- Which exceptions, if any, the operator relies upon when individual notification is impracticable.
+
+### Commercial Accountability
+
+The operator should explain its third-party review processing arrangements and distinguish publicly accessible information from information that may be freely retained and republished without additional obligations.
+
+The available evidence does not establish whether individual reviewers have received separate notifications, whether statutory exceptions apply, or whether the directory falls within the GDPR's territorial scope.
+
 ## References
 
 [^1]: `https://thaivisareviews.com/`
