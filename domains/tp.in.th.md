@@ -196,6 +196,46 @@ The available evidence does not establish unauthorized processing of Thailand Pa
 
 Nevertheless, the historical connection between pandemic-era travel assistance and subsequent immigration promotions warrants clarification of the businesses' original privacy disclosures, retention practices, and customer-consent arrangements.
 
+## January 2022 Moderator Referrals and Paid Application Intervention
+
+On January 12, 2022, an ASEAN NOW discussion concerning delayed Phuket Sandbox applications documented travelers experiencing difficulties obtaining Thailand Pass approvals.[^16]
+
+The original contributor reported submitting an application on January 2 without receiving an approval ten days later.
+
+### Commercial Referrals From Forum Moderators
+
+On January 13, ASEAN NOW moderator Sheryl recommended Thai Visa Centre as a commercial intermediary capable of resolving pending applications without necessarily requiring resubmission.
+
+The moderator identified the agency's service fee as less than 3,000 baht.
+
+On January 14, the original contributor reported:
+
+> Approval received within 24 hours of using this service to take on the case.
+
+The contributor subsequently identified the cost as 3,000 baht and encouraged other travelers experiencing delays to purchase the same assistance.
+
+This provides contemporaneous evidence of a reported successful intervention involving an existing government application, rather than merely an agency preparing a new application.
+
+### Government Assistance Was Also Available
+
+The same discussion contains an account from another traveler who reportedly obtained approval after contacting the consular section of the Royal Thai Embassy in Kuala Lumpur.
+
+Subsequent official government guidance dated January 28, 2022, identified dedicated assistance channels for applications exceeding seven working days, including a separate contact address for travelers entering Phuket.[^17]
+
+These government assistance channels provided alternatives to purchasing commercial intervention.
+
+### Historical Commercial Significance
+
+The discussion demonstrates how difficulties with a mandatory government registration system created commercial opportunities for immigration intermediaries.
+
+It also establishes that ASEAN NOW moderators were recommending Thai Visa Centre's paid entry-registration assistance several years before the introduction of the company's commercial TDAC services.
+
+**The relationship between sponsored immigration businesses, community moderation and commercial customer referrals therefore predates the current TDAC controversy.**
+
+The reported successful intervention should nevertheless be distinguished from independently verified evidence of preferential government processing.
+
+The available records do not establish how Thai Visa Centre resolved the pending application, whether the approval resulted directly from its intervention, or whether the recommending moderator received compensation.
+
 ## References
 
 [^1]: `https://tvc.co.th/scam`
@@ -217,3 +257,7 @@ Nevertheless, the historical connection between pandemic-era travel assistance a
 [^14]: https://mfa.go.th/en/content/weeklypressbriefing05052565-2?cate=5d5bcb4e15e39c306000683e — Ministry of Foreign Affairs, May 5, 2022, official Thailand Pass registration and approval statistics.
 
 [^15]: https://aseannow.com/topic/1240046-best-website-to-book-a-testgo-hotel/ — Reproduced October 26, 2021 marketing correspondence, published November 19, 2021.
+
+[^16]: https://aseannow.com/topic/1246454-phuket-sandbox-application-taking-forever/ — January 12–14, 2022, moderator recommendation and subsequent customer account.
+
+[^17]: https://image.mfa.go.th/mfa/0/TkZZJfspCP/Year_2022/Update_e-mail%28ThailandPass%29_7_Feb_2022/Announcement_28_January_2022%28Update_e-mail%29.pdf — Official consular guidance dated January 28, 2022, concerning entry requirements and delayed Thailand Pass applications.
