@@ -72,6 +72,44 @@ Nevertheless, the publisher's activities now encompass immigration records, insu
 
 The actual implementation of its consent mechanisms, data separation, international processing safeguards, and deletion procedures has not been independently assessed.
 
+## Cross-Border Legal Remedies and Application Liability Restrictions
+
+As examined on November 27, 2026, The Thaiger's published Terms of Use retain an effective date of January 10, 2022, despite the publisher's subsequent expansion into immigration record management, insurance referrals and medical information processing.[^1][^4]
+
+### Exclusive Singapore Jurisdiction
+
+Section 7 of the Terms of Use establishes:
+
+- Singapore law as the governing law.
+- Exclusive jurisdiction for Singapore's courts.
+- An agreement not to pursue claims in other jurisdictions, expressly including Thailand.
+
+However, Section 8 of the Privacy Policy acknowledges the company's operations within Thailand and its obligations under Thailand's Personal Data Protection Act.[^4]
+
+Sections 73 and 77 of that legislation establish complaint and compensation mechanisms for qualifying personal-data violations.[^5][^6]
+
+A contractual choice of jurisdiction does not necessarily eliminate mandatory statutory protections.
+
+The publisher does not clearly explain how its restrictions on legal proceedings interact with the statutory remedies available to its customers in Thailand.
+
+### Liability for Immigration and Medical Information
+
+Sections 2 and 6 of the Terms of Use broadly exclude liability for data loss, unauthorized access, service interruptions and account suspension.[^1]
+
+The agreement also permits termination of access without advance notice.
+
+These provisions have become increasingly significant following the introduction of account-associated immigration deadlines, insurance records and medical test results.
+
+The publisher does not clearly distinguish its responsibilities as a media publisher and commercial referral intermediary from its responsibilities as the direct operator of these data-management services.
+
+### Commercial Accountability
+
+**The Thaiger's expansion into sensitive personal-data management warrants more specific contractual protections than those ordinarily associated with accessing an online news publication.**
+
+The company should clarify applicable statutory remedies, responsibility for its own application services and arrangements for retrieving personal records following account suspension.
+
+The available evidence does not establish that the jurisdiction clause is unenforceable, that customers have been denied statutory remedies or that the application has experienced data loss.
+
 ## References
 
 [^1]: `https://thethaiger.com/terms-of-use` — Terms of Use, particularly Sections 2–4.
@@ -79,3 +117,7 @@ The actual implementation of its consent mechanisms, data separation, internatio
 [^3]: `https://thethaiger.com/delete-account` — Published account and associated data-deletion procedures.
 
 [^4]: `https://thethaiger.com/privacy` — Revised Privacy Policy, November 25, 2026, Sections 7 and 10–11.3.
+
+[^5]: https://mdes.go.th/law/detail/1905-Personal-Data-Protection-Act--B-E--2562--2019- — Thailand's Personal Data Protection Act, particularly Section 77.
+
+[^6]: https://mdes.go.th/mission/detail/2320- — Ministry of Digital Economy and Society, official explanation of the expert committee's statutory complaint-handling responsibilities.
