@@ -7446,6 +7446,57 @@ Nevertheless, its conflicting instructions concern a legally significant propert
 
 **TVC should correct its family-law overview to explain that prenuptial terms must be recorded simultaneously with marriage registration, distinguish advance preparation from official registration, and reconcile the instructions across its published guides.**
 
+### November 2026 Update: TVC Omits Fundamental Limitations of Postnuptial Property Agreements
+
+Thai Visa Centre's prenuptial agreement and marital property publications recommend arrangements between spouses without adequately explaining their statutory vulnerability to cancellation.[^468][^697]
+
+Its property and marriage guide identifies the following as a common mistake among foreign property buyers:
+
+> Buying land in Thai spouse name without prenuptial or postnuptial property schedule
+
+Its separate prenuptial agreement guide also presents post-marital contracts as an available alternative after marriage registration.
+
+However, these recommendations omit a particularly important limitation established by Section 1469 of Thailand's Civil and Commercial Code.[^698]
+
+#### Either Spouse May Cancel Qualifying Property Agreements
+
+Section 1469 permits either spouse to avoid a qualifying property agreement made during marriage:
+
+- At any time during the marriage.
+- Within one year following divorce.
+
+The provision protects the rights of third parties acting in good faith.
+
+**A postnuptial property agreement does not necessarily provide the same lasting protection as a properly registered prenuptial agreement.**
+
+Furthermore, Section 1467 restricts alterations to registered prenuptial agreements after marriage without court authorization.
+
+These distinctions are especially important for foreign residents financing property purchases involving their Thai spouses.
+
+#### Thai Supreme Court Decisions Demonstrate the Financial Risks
+
+Thai Supreme Court Decision 3857/2562 concerned property purchased using 13.5 million baht received as a parental gift and subsequently registered in both spouses' names.
+
+The court recognized the joint registration arrangement as an agreement between spouses that could be avoided under Section 1469.[^698]
+
+The court has also recognized limitations on cancellation, including protections for good-faith third parties and circumstances involving the death of a spouse.
+
+These decisions demonstrate that the legal consequences of property agreements cannot be determined merely by establishing that an agreement was signed or registered.
+
+#### Expanded Legal References Omit the Relevant Statutory Protections
+
+As of November 27, 2026, TVC's prenuptial agreement guide displayed seven legislative and official references.
+
+Five concern immigration matters, including residence reporting, arrival cards, and overstay penalties.
+
+The remaining two concern family registration.
+
+The reference table does not identify Section 1469 or explain the statutory vulnerability of postnuptial property agreements.
+
+**Thai Visa Centre continues advertising professional coordination of marriage and property arrangements while omitting a fundamental legal limitation that could materially affect the financial security of international couples.**
+
+The available evidence does not establish that any particular TVC customer has lost property or suffered financial damages because of this guidance.
+
 ### Divorce Guides Incorrectly Require Joint Attendance and Misstate Court Procedures
 
 Thai Visa Centre's *Divorce in Thailand: Amphoe and Family Court Options for Foreigners* guide, marked reviewed June 2026, repeatedly instructs couples that both spouses must attend the same district office to register a divorce by mutual consent.[^346]
@@ -12109,3 +12160,7 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^695]: https://www.thailawonline.com/th/thai-civil-code/section-1630/ — Civil and Commercial Code, Section 1630, Thai statutory text and English translation, updated November 6, 2026.
 
 [^696]: https://tvc.co.th/faq/what-are-the-grounds-for-divorce-in-thailand — Thai Visa Centre's divorce-grounds FAQ, including its seven-document legislative reference table. Retrieved November 27, 2026.
+
+[^697]: https://tvc.co.th/guides/property-thailand-property-marriage — Thai Visa Centre's marriage and property guide, recommending prenuptial or postnuptial property schedules in connection with land purchases.
+
+[^698]: https://www.thailawonline.com/thai-civil-code/section-1469/ — Civil and Commercial Code, Section 1469, including the amended Thai statutory text, English translation, and summaries of relevant Supreme Court decisions. Updated November 9, 2026.
