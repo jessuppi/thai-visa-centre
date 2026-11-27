@@ -976,6 +976,36 @@ The company should correct its description of Thailand's treaty status and disti
 
 The available evidence does not establish that particular customers have submitted improperly authenticated documents or suffered financial losses because of this guidance.
 
+## Unsubstantiated Immigration Market Research and Comparative Pricing Claims
+
+On April 15, 2026, Issa Compass published an immigration market analysis attributed to immigration consultant Kat Hewett. Two versions of the publication remained accessible on November 28, 2026.[^67][^68]
+
+### Undisclosed Research Methodology
+
+The publication draws commercial and immigration-related conclusions from the company's claimed monthly audience of more than 10,000 users.
+
+However, neither version provides:
+
+- Monthly application volumes by visa category.
+- Historical figures demonstrating application growth.
+- A definition distinguishing website visitors, registered users and paying customers.
+- Documented reasons for application delays.
+- Evidence establishing that the platform's users represent Thailand's wider immigrant population.
+
+The company's own customer activity may provide useful commercial insights, but it does not necessarily constitute representative immigration research.
+
+### Comparative Pricing Claims
+
+The publications also advertise savings of up to 30% compared with traditional immigration service providers.
+
+Neither version identifies the competing businesses, equivalent service packages, comparison dates or calculation methodology supporting this percentage.
+
+### Commercial Accountability
+
+Issa Compass should distinguish independently verified immigration statistics from internal commercial observations and publish supporting evidence for its comparative pricing claims.
+
+The available evidence does not establish that its reported user figures are inaccurate or that the advertised savings are unattainable.
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -1102,3 +1132,7 @@ All three sources were examined on November 27, 2026.
 [^65]: https://www.mfa.go.th/en/content/apostille-convention-eng — Ministry of Foreign Affairs, July 6, 2026, announcement confirming Thailand's accession and scheduled entry into force.
 
 [^66]: https://www.issacompass.com/insights/certified-translations-for-thai-visa-applications-when-you-need-one-and-when-you — Nic Bunpamee, published October 22, 2026.
+
+[^67]: https://www.issacompass.com/insights/thailands-growing-expat-economy-immigration-insights-from-issa-compass — Updated November 14, 2026.
+
+[^68]: https://www.issacompass.com/insights/thailands-growing-expat-economy-immigration-insights-from-issa-compasss-10000-mo — Updated October 22, 2026.
