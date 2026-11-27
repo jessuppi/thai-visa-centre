@@ -288,6 +288,50 @@ Accurate renewal guidance should distinguish the minimum regulatory deadline fro
 
 While `ltr.in.th` accurately reproduces the regulatory minimum, its practical application instructions remain incomplete compared with the BOI's current guidance.
 
+## Incomplete Investment Eligibility and Asset Qualification Guidance
+
+The November 26, 2026 revision of `ltr.in.th` provides prospective Long-Term Resident visa applicants with detailed financial qualification tables while promoting Thai Visa Centre's commercial immigration services.[^20]
+
+However, its investment guidance omits several material restrictions established in the Board of Investment's published application checklists.
+
+### Cryptocurrencies and Luxury Assets Are Excluded
+
+The website describes the Wealthy Global Citizen category as requiring at least US$1 million in global assets, without explaining several important exclusions.
+
+The BOI's official checklist expressly excludes cryptocurrencies, digital tokens, gold futures, artwork, amulets, designer goods, watches and jewelry from the qualifying global asset calculation.[^22]
+
+A prospective applicant whose wealth is concentrated in these assets could therefore incorrectly conclude that they satisfy the financial qualification threshold.
+
+### Leasehold Investments Require Ten Remaining Years
+
+The website identifies Thai property as an eligible investment without explaining the minimum remaining duration applicable to leasehold arrangements.
+
+The BOI's official FAQ and application checklists establish that qualifying leases must have at least ten years remaining when the applicant applies.[^5][^22][^23]
+
+The application checklists also require recent documentation issued by the Department of Lands.
+
+**A substantial financial investment in Thai leasehold property does not automatically satisfy the LTR investment requirement.**
+
+### Publicly Traded Shares Have a Minimum Holding Period
+
+The commercial website identifies investments in Thai public companies as qualifying assets without explaining the applicable holding period for shares listed on the Stock Exchange of Thailand.
+
+The BOI's checklists require broker certification demonstrating that the applicant has held the relevant shares for at least one year before applying.[^22][^23]
+
+Purchasing sufficient shares immediately before submitting an LTR application would therefore not necessarily satisfy the documentary requirements.
+
+### Commercial Significance
+
+These omissions affect both the US$500,000 investment requirement for Wealthy Global Citizens and the US$250,000 investment alternative for qualifying Wealthy Pensioners.
+
+The website correctly explains the five-year remaining maturity requirement for government bonds but does not provide comparable explanations of the restrictions governing leasehold property or publicly traded shares.
+
+**AGENTS promotes Thai Visa Centre's professional immigration services and offers unofficial qualification testing while omitting financial eligibility restrictions that could materially affect substantial investment decisions.**
+
+The website should distinguish qualifying assets from general personal wealth and explain the applicable investment holding periods before encouraging prospective applicants to assess their eligibility.
+
+The available evidence does not establish that any applicant has suffered financial losses or purchased unsuitable investments because of these omissions.
+
 ## References
 
 [^1]: `https://ltr.in.th/`
@@ -320,3 +364,7 @@ While `ltr.in.th` accurately reproduces the regulatory minimum, its practical ap
 [^20]: `https://ltr.in.th/` — LTR guidance, updated November 26, 2026, particularly the visa duration and application procedure sections.
 
 [^21]: https://ltr.boi.go.th/documents/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_4_2568_EN.pdf — BOI Announcement Por. 4/2568, February 18, 2025, Sections 4–6, page 3.
+
+[^22]: https://ltr.boi.go.th/documents/Required-docs-Wealthy-Global-Citizens-06-11-2025.pdf — BOI, official Wealthy Global Citizen application checklist, November 6, 2025, pages 3–4.
+
+[^23]: https://ltr.boi.go.th/documents/Required-docs-Wealthy-Pensioners-06-11-2025.pdf — BOI, official Wealthy Pensioner application checklist, November 6, 2025, page 4.
