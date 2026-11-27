@@ -485,6 +485,40 @@ The available evidence does not establish that AGENTS has retroactively altered 
 
 Nevertheless, the combination of indefinite credit validity, a short liability calculation period, unilateral amendment rights and restrictive refund conditions creates material uncertainty for customers purchasing long-term immigration assistance.
 
+## Omitted First-Extension Reporting Provisions and Incomplete Penalty Guidance
+
+As of November 27, 2026, AGENTS CO., LTD. continued promoting prepaid immigration-reporting services without explaining several important qualifications to Thailand's reporting requirements.[^22][^24]
+
+### First Extension of Stay Can Satisfy Initial Reporting
+
+The Royal Thai Consulate-General in Los Angeles expressly identifies a foreigner's first application for an extension of stay as equivalent to the initial 90-day residence notification.[^23]
+
+However, AGENTS' general reporting instructions do not explain this provision.
+
+Foreigners whose initial reporting obligation has already been satisfied through an applicable extension procedure may not require a separate TM47 submission at that time.
+
+This distinction is commercially relevant because AGENTS encourages customers to purchase reporting credits in advance.
+
+Applicants should confirm their applicable reporting dates with the responsible immigration office rather than assuming that a separate paid submission is necessary.
+
+### Incomplete Explanation of Statutory Penalties
+
+AGENTS' dedicated DTV reporting page describes fines of up to 5,000 baht for foreigners apprehended with overdue reports.[^22]
+
+However, official consular guidance also identifies the possibility of additional fines of up to 200 baht per day until the reporting obligation is fulfilled.[^23]
+
+Although these additional penalties may not ordinarily be imposed, they form part of the published legal framework.
+
+The company's explanation therefore does not fully describe the potential statutory consequences of continued noncompliance.
+
+### Commercial Significance
+
+**AGENTS markets professional reporting assistance while omitting a provision that may eliminate the need for a separate initial submission and providing an incomplete explanation of applicable penalties.**
+
+The company should distinguish initial reporting obligations from subsequent notifications and accurately communicate the statutory penalty framework.
+
+The available evidence does not establish that AGENTS has sold unnecessary reporting credits or that any customer has incurred additional fines because of its published guidance.
+
 ## References
 
 [^1]: https://www.reddit.com/r/expatsinbangkok/comments/1tdqdc8/thailand_90_day_online_reporting/
