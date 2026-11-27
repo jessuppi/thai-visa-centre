@@ -492,6 +492,42 @@ The operator should distinguish email verification from professional credential 
 
 The available evidence does not establish that AGENTS or Thai Visa Centre authored the discussion response or that any applicant unnecessarily postponed employment because of it.
 
+## Omitted LTR Visa Issuance and Automated Entry Restrictions
+
+As examined on November 28, 2026, the LTR information website operated by AGENTS provides detailed instructions concerning visa endorsement and collection but omits several important restrictions published by the Board of Investment.[^24][^32]
+
+### Automated Immigration Gate Restrictions
+
+The BOI expressly requires approved applicants collecting their LTR visas in Thailand to possess a physical immigration entry stamp.
+
+Its official visa issuance instructions explain that automated immigration gate records are not currently accepted for this purpose.
+
+Applicants without a physical entry stamp may be unable to complete visa issuance and may need to reschedule their appointments.[^32]
+
+The commercial guide does not explain this restriction.
+
+### Restrictions on Changing the Issuance Location
+
+The BOI also states that applicants cannot change their selected visa issuance location after submitting the required updated information and supporting documents.
+
+However, the commercial guide describes domestic and overseas collection options without explaining when that selection becomes irreversible.
+
+### Existing Visa Cancellation Requirements
+
+Applicants collecting their LTR visas in Thailand may also need to terminate certain existing visa arrangements, including Non-Immigrant B visas, while retaining sufficient permission to remain in Thailand until their LTR appointments.[^32]
+
+The commercial guide does not adequately explain this procedural requirement.
+
+### Commercial Significance
+
+These omissions are particularly relevant because the qualification endorsement remains valid for only 60 days.
+
+Unexpected appointment delays or incorrect issuance arrangements could require applicants to repeat the qualification endorsement process.
+
+AGENTS should incorporate these restrictions into its published application instructions and distinguish general visa eligibility from the procedural requirements governing actual visa issuance.
+
+The available evidence does not establish that particular customers have missed appointments or lost their qualification endorsements because of these omissions.
+
 ## References
 
 [^1]: `https://ltr.in.th/`
