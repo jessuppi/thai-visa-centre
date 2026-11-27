@@ -208,6 +208,66 @@ Ask Thailand is not merely a passive archive of community conversations. Its ope
 
 The operator should clarify its link-redaction policies, comment-deduplication procedures, and criteria for inserting commercial referrals into republished discussions.
 
+## Duplicated Facebook Discussions and Misleading Editorial Summaries
+
+An examination of Ask Thailand on November 27, 2026 identified multiple separately indexed question pages reproducing the same Facebook discussion under different editorial titles.
+
+### November 2026 DTV Application Rejections
+
+Two pages reproduce an identical November 6, 2026 contribution concerning a married couple whose DTV applications were rejected by the Royal Thai Embassy in London.[^18][^19]
+
+The indexed versions display the following statistics:
+
+| Published question | Views | Replies | Likes |
+| --- | ---: | ---: | ---: |
+| Why was our DTV application rejected, and can we reapply? | 15,900 | 119 | 15 |
+| Why was our DTV visa application declined despite meeting other criteria? | 3,700 | 29 | 5 |
+
+Both pages link to the same original Facebook discussion, identified by permalink number 2516157922204359.[^20]
+
+Numerous community contributions also appear across both pages.
+
+**Ask Thailand therefore presents the same underlying Facebook discussion through multiple independently indexed publications with separate engagement statistics and editorial summaries.**
+
+### Editorial Summaries Misrepresent Embassy Requirements
+
+The first publication's summary suggests that maintaining the required funds for three months is important for successful DTV applications.
+
+The second publication similarly emphasizes a three-month holding period.
+
+However, the Royal Thai Embassy in London's official Workcation DTV guidance, updated November 24, 2026, distinguishes two separate financial requirements:[^21]
+
+- Applicants are advised to maintain the required funds for at least 15 days before submission and until a decision is made.
+- Three months of bank statements should demonstrate regular income transactions.
+
+These are not equivalent to maintaining the entire required balance continuously for three months.
+
+Several contributors within the republished discussions correctly identify this distinction, yet Ask Thailand's editorial summaries fail to communicate it accurately.
+
+### Incorrect Reapplication Location
+
+The first publication additionally advises the applicant to reapply after returning to Thailand in December.
+
+However, Thailand's official electronic visa system expressly states that applicants must be outside Thailand when applying.[^22]
+
+The original contributor actually intended to reapply after returning home from a holiday in Thailand.
+
+The editorial summary therefore changes the geographical meaning of the original contribution and produces advice incompatible with official application requirements.
+
+### Search Engine and AI Information Reliability
+
+These findings extend beyond previously documented duplication of individual comments.
+
+Ask Thailand publishes multiple searchable pages derived from the same underlying discussion, each containing separately generated editorial material.
+
+This arrangement creates the potential for search engines and AI-generated answers to encounter multiple apparently distinct publications repeating inaccurate interpretations of immigration requirements.
+
+**Thai Visa Centre's community aggregation platform introduces new immigration misinformation through its own editorial summaries rather than merely reproducing inaccurate statements made by community participants.**
+
+The operator should consolidate duplicated discussions, clarify its engagement-counting methodology, verify editorial summaries against official requirements, and distinguish original community contributions from subsequently generated material.
+
+The available evidence does not establish that the duplication was deliberately designed to manipulate search rankings or AI-generated answers.
+
 ## References
 
 - `https://asq.in.th/policy/terms-and-conditions`
@@ -239,3 +299,13 @@ The operator should clarify its link-redaction policies, comment-deduplication p
 [^16]: https://aseannow.com/topic/1211822-tm-30-visas-and-asq-hotels/ — ThaiVisaCentre, March 29, 2021, acknowledgment of the ASQ platform and associated Facebook community.
 
 [^17]: https://aseannow.com/topic/1225576-has-anyone-used-asqinth-to-book-a-sandbox-hotel-package-and-can-anyone-confirm-the-page-info-is-correct-about-eligibility-requirements-that-some-of-the-low-prices-arent-a-scam/ — ThaiVisaCentre, July 30–31, 2021.
+
+[^18]: https://asq.in.th/question/why-was-our-dtv-application-rejected-and-can-we-reapply — Indexed reproduction of the November 6, 2026 discussion.
+
+[^19]: https://asq.in.th/question/why-was-our-dtv-visa-application-declined-despite-meeting-other-criteria — Separate indexed reproduction of the same discussion.
+
+[^20]: https://www.facebook.com/groups/thailandvisaadvice/permalink/2516157922204359/ — Original Facebook permalink identified by both Ask Thailand publications.
+
+[^21]: https://london.thaiembassy.org/en/page/dtv-for-workcation — Royal Thai Embassy, London, official DTV requirements, updated November 24, 2026.
+
+[^22]: https://thaievisa.go.th/ — Ministry of Foreign Affairs, official electronic visa application system.
