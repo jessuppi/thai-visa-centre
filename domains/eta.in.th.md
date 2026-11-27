@@ -96,6 +96,61 @@ Although both private websites carry disclaimers concerning their unofficial sta
 
 This practice is particularly significant given the company's repeated criticism of competing TDAC intermediaries for misleading travelers about their official status.
 
+## Obsolete Visa Exemption Guidance Following September 2026 Reforms
+
+As of November 27, 2026, `eta.in.th` continued publishing guidance describing Thailand's 60-day visa exemption scheme for nationals of 93 countries and territories.[^5]
+
+The website also describes extending these stays to 90 days and resetting permitted stays through border runs.
+
+However, substantial changes to Thailand's visa exemption arrangements took effect on September 15, 2026.
+
+### Abolition of the 60-Day Visa Exemption Scheme
+
+Following publication of revised immigration measures in the Royal Gazette on August 31, 2026, Thailand's government confirmed the following changes:[^17]
+
+- Abolition of the 60-day visa exemption scheme.
+- A revised 30-day tourist visa exemption scheme covering 60 countries and territories.
+- A new 15-day tourist visa exemption scheme covering two countries or territories.
+- Reduction of visa-on-arrival eligibility to three countries or territories.
+
+Travelers already admitted under the previous arrangements could remain until the expiration of their existing permission to stay.
+
+Nevertheless, AGENTS continues presenting the superseded 60-day arrangement without explaining these changes.
+
+### Consequences for Previously Eligible Nationalities
+
+The outdated guidance is particularly significant for travelers whose visa exemption privileges were withdrawn entirely.
+
+The Royal Thai Embassy in Mexico expressly confirms that ordinary passport holders from Mexico, Guatemala and Cuba require visas from September 15, 2026.[^18]
+
+All three countries remain listed within the ETA website's published eligibility information.
+
+The distinction is therefore not merely a reduction in permitted stay duration. Some travelers may now require advance visa approval despite previously qualifying for visa-exempt entry.
+
+### Misleading Border Run Guidance
+
+The website also presents departure and re-entry as a method of resetting a visitor's permitted stay.
+
+However, on November 18, 2025, Thailand's Government Public Relations Department announced strengthened immigration screening targeting repeated visa runs without legitimate reasons.[^19]
+
+The measures include restrictions on repeated visa runs and closer scrutiny of extension applications.
+
+The Royal Thai Embassy in London also identifies a two-entry annual restriction for applicable visa-exempt land-border arrivals.[^20]
+
+AGENTS' guidance does not adequately explain these restrictions or the discretionary nature of subsequent immigration admission.
+
+### Commercial Significance
+
+Thai Visa Centre publicly maintains that its affiliated immigration-information websites are regularly updated.[^4]
+
+However, its ETA website continues publishing superseded entry requirements more than two months after the September 2026 reforms took effect.
+
+**AGENTS maintains an immigration-information and commercial referral website for a superseded travel authorization proposal while also publishing obsolete visa exemption requirements and incomplete border run advice.**
+
+The company should clearly identify the historical nature of its ETA material, replace outdated visa exemption guidance, and direct travelers to current official consular requirements.
+
+The available evidence does not establish that any traveler has been denied boarding or entry because of this website.
+
 ## References
 
 [^1]: Email to THNIC, February 27, 2025, subject *eta.in.th and dtv.in.th and asq.in.th abuse* (private correspondence).
@@ -116,3 +171,11 @@ This practice is particularly significant given the company's repeated criticism
 [^15]: https://www.mots.go.th/news/1001976 — Ministry of Tourism and Sports, January 31, 2025, original Thai-language announcement concerning the online TM6 system.
 
 [^16]: `https://tdac.in.th/` — Redirect to `https://tdac.agents.co.th/`, commercial TDAC information and submission services, observed November 26, 2026.
+
+[^17]: https://thailand.prd.go.th/en/content/category/detail/id/52/iid/538547 — Government Public Relations Department, September 4, 2026, revised visa exemption and visa-on-arrival arrangements.
+
+[^18]: https://mexico.thaiembassy.org/en/publicservice/visa — Royal Thai Embassy, Mexico City, revised visa requirements effective September 15, 2026.
+
+[^19]: https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/444048 — Government Public Relations Department, November 18, 2025, strengthened immigration measures concerning visa runs.
+
+[^20]: https://london.thaiembassy.org/en/page/exemp-visa — Royal Thai Embassy, London, current visa exemption and land-border entry requirements.
