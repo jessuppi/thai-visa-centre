@@ -143,6 +143,56 @@ The operator's presentation should clearly distinguish mandatory registration re
 
 The same terminology and omissions appearing across multiple commercially affiliated websites increase the potential for inaccurate immigration information to be repeatedly indexed and reproduced by search engines and AI-generated information services.
 
+## November 2026 Update: Outdated Launch Guidance and Unverified Application Downloads
+
+Despite displaying November 21, 2026 as its latest article update, AGENTS' privately operated THIM guide continues presenting historical launch information without adequately explaining subsequent developments.[^14]
+
+Its reproduction of the Immigration Bureau's earlier announcement identifies August 2026 as the scheduled full launch.
+
+However, the Immigration Bureau formally launched THIM on September 25, 2026, following earlier application availability beginning August 1.[^15][^16]
+
+The launch announcement also confirmed distribution through three official application marketplaces:
+
+- Apple App Store.
+- Google Play Store.
+- Huawei AppGallery.
+
+### Thai Visa Centre's Own Legal Archive Documents the Launch
+
+Thai Visa Centre's expanded TDAC legal archive includes the September 25 Immigration Bureau announcement and expressly acknowledges distribution through all three application marketplaces.[^17]
+
+The affiliated immigration-information website therefore retains incomplete launch guidance despite the updated information being available within Thai Visa Centre's own legal archive.
+
+### Unverified APK Installation Advice
+
+The THIM website's discussion archive contains a response to a Huawei device owner recommending the installation of an APK obtained from an allegedly official website.[^18]
+
+The participant claims to have successfully installed the application on a Huawei device without Google services.
+
+However, the contribution does not identify the download address or provide evidence that the installation package originated from the Immigration Bureau.
+
+Google's Android security guidance expressly warns that applications obtained from unknown sources can expose devices and personal information to security risks.[^19]
+
+This is particularly significant for an immigration application processing passport information and identity verification.
+
+The subsequent availability of THIM through Huawei AppGallery provides an established distribution alternative that should be identified prominently in the commercial guide.
+
+### Contradictory Advice From Thai Visa Centre's Administrator
+
+A separate discussion response from Thai Visa Centre's verified administrator states:
+
+> Only Thai passport holders are exempt.
+
+This categorical statement concerning TDAC registration contradicts official exemptions for airline crew, qualifying transit passengers and Border Pass holders.[^5][^12][^14]
+
+The problem therefore extends beyond omissions in the main article to advice directly attributed to the affiliated visa agency.
+
+**AGENTS uses official immigration application branding to promote its commercial services while retaining outdated guidance and publishing discussion contributions that lack adequate verification of application-download sources.**
+
+The company should update its launch chronology, provide verified official application-store links, correct its administrator's inaccurate exemption advice and clarify the provenance of any recommended APK downloads.
+
+The available evidence does not establish that AGENTS distributed malicious software, compromised travelers' devices or fabricated the discussion contributions.
+
 ## References
 
 [^1]: https://www.whoxy.com/thim.in.th
@@ -164,3 +214,15 @@ The same terminology and omissions appearing across multiple commercially affili
 [^12]: https://hongkong.thaiembassy.org/en/page/entry-regulation — Royal Thai Consulate-General, Hong Kong, official TDAC requirements and exemptions.
 
 [^13]: https://lima.thaiembassy.org/en/content/how-to-submit-the-thailand-digital-arrival-card-td — Royal Thai Embassy, Lima, official arrival-card submission and confirmation procedures.
+
+[^14]: https://thim.in.th/ — THIM commercial guide and discussion, retrieved November 27, 2026.
+
+[^15]: https://www.nationthailand.com/news/tourism/40071480 — September 25, 2026, reporting on the official THIM launch.
+
+[^16]: https://oananews.org/node/713231 — Thai News Agency, September 25, 2026, reporting on THIM's launch and official distribution channels.
+
+[^17]: https://tvc.co.th/fi/law/tdac — Thai Visa Centre's TDAC legal archive, particularly entry 66 concerning the September 25 THIM launch.
+
+[^18]: https://thim.in.th/comments/2 — Archived traveler discussion containing APK installation advice.
+
+[^19]: https://support.google.com/android/answer/9457058 — Google's official Android application installation and security guidance.
