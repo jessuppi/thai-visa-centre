@@ -431,6 +431,60 @@ The company should reconcile its age restrictions, explain its procedures for pa
 
 The available evidence does not establish that AGENTS has improperly processed minors' personal information or collected unnecessary bank statements from particular customers.
 
+## Non-Expiring Credits and Asymmetric Contractual Obligations
+
+As of November 27, 2026, AGENTS CO., LTD. continued advertising non-expiring immigration-reporting credits while maintaining contractual provisions that could substantially restrict customers' remedies long after their initial purchases.[^5][^6][^8]
+
+### Prepaid Services and the One-Month Liability Window
+
+The company's commercial model encourages customers to purchase multiple reporting credits in advance.
+
+However, its Terms & Conditions calculate aggregate liability using the greater of US$1 or qualifying payments made during the month preceding the event giving rise to liability.
+
+Consider a customer purchasing four reporting credits for 1,500 baht and using them throughout the following year.
+
+If an agency error occurs several months after purchase, the original payment could fall entirely outside the contractual liability calculation.
+
+**The company's financial liability could therefore be contractually limited to US$1 even when the customer has prepaid for the affected service.**
+
+The enforceability of this restriction remains subject to applicable law.
+
+### Unilateral Amendments to Existing Agreements
+
+The Terms & Conditions also permit AGENTS to modify its agreement at its discretion, ordinarily making revised terms effective upon publication.
+
+Individual notification is discretionary rather than mandatory.
+
+Continued use of the service constitutes acceptance of the revised agreement.[^8]
+
+This creates uncertainty for customers holding unused credits purchased under earlier contractual conditions.
+
+The published terms do not expressly guarantee that those credits will remain governed by the conditions applicable when they were purchased.
+
+### Revoking the Power of Attorney
+
+Customers may revoke the limited Power of Attorney granted to AGENTS before their reports are submitted.
+
+However, the agreement makes previously performed services billable, while the separate Refund Policy excludes refunds once information gathering or document preparation has commenced.[^6][^8]
+
+Consequently, customers exercising their contractual right to revoke authorization may still be unable to recover the corresponding service payment.
+
+### Thailand's Unfair Contract Terms Act
+
+Section 4 of Thailand's Unfair Contract Terms Act B.E. 2540 identifies several categories of potentially unfair contractual provisions, including restrictions on liability, unjustified nonperformance and provisions imposing additional obligations beyond those originally agreed.[^28]
+
+Unfair provisions are enforceable only to the extent considered fair and reasonable under the circumstances.
+
+The legislation is particularly relevant where consumers purchase services in advance but the business retains considerable discretion over subsequent contractual conditions.
+
+### Commercial Significance
+
+AGENTS should clarify whether prepaid credits retain their original contractual protections, explain the consequences of subsequent amendments, and establish liability provisions that account for advance payments.
+
+The available evidence does not establish that AGENTS has retroactively altered existing credit packages, improperly refused refunds following revocation, or successfully enforced its US$1 liability restriction.
+
+Nevertheless, the combination of indefinite credit validity, a short liability calculation period, unilateral amendment rights and restrictive refund conditions creates material uncertainty for customers purchasing long-term immigration assistance.
+
 ## References
 
 [^1]: https://www.reddit.com/r/expatsinbangkok/comments/1tdqdc8/thailand_90_day_online_reporting/
@@ -468,3 +522,5 @@ The available evidence does not establish that AGENTS has improperly processed m
 [^26]: https://smart-visa.boi.go.th/smart/pages/smart_s.html — Board of Investment, official SMART Startup Visa privileges.
 
 [^27]: https://mdes.go.th/law/detail/3577-Personal-Data-Protection-Act-B-E2562-2019- — Ministry of Digital Economy and Society, English translation of Thailand's Personal Data Protection Act, particularly Sections 20 and 22.
+
+[^28]: https://www.thailandlawonline.com/translations/unfair-contract-terms-act — English translation of Thailand's Unfair Contract Terms Act B.E. 2540, particularly Section 4.
