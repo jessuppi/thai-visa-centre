@@ -792,6 +792,34 @@ The operator should explain its third-party review processing arrangements and d
 
 The available evidence does not establish whether individual reviewers have received separate notifications, whether statutory exceptions apply, or whether the directory falls within the GDPR's territorial scope.
 
+## Incomplete Education Visa Guidance and Unsubstantiated Approval Statistics
+
+The Thai Visa Reviews education visa guide describes immigration options for international students without identifying the Non-ED Plus visa introduced on July 15, 2024.[^52][^53]
+
+### Omitted Higher Education Privileges
+
+Official Thai consular guidance identifies several benefits available to qualifying Non-ED Plus visa holders studying at bachelor's degree level or higher:
+
+- Exemption from re-entry permit requirements during their studies.
+- Eligibility for an additional year of residence following graduation.
+- Eligibility to apply for a different visa category within Thailand upon securing employment.
+
+The Royal Thai Embassy in London reaffirmed these privileges in guidance updated November 24, 2026.[^54]
+
+The directory does not distinguish these arrangements from conventional education visa procedures.
+
+### Unsubstantiated Approval Statistics
+
+The directory prominently advertises a 98% education visa success rate without identifying the underlying application records, measurement period, visa categories or statistical methodology.
+
+### Commercial Significance
+
+The directory recommends commercial immigration agencies while omitting important education visa privileges and presenting an unverified numerical success rate.
+
+The operator should update its guidance and distinguish independently verified immigration statistics from unsupported promotional figures.
+
+The available evidence does not establish that the advertised success rate is false or that students have incurred unnecessary expenses because of these omissions.
+
 ## References
 
 [^1]: `https://thaivisareviews.com/`
@@ -871,3 +899,9 @@ The available evidence does not establish whether individual reviewers have rece
 [^50]: https://thaivisareviews.com/agency/baan-thai-immigration — Agency profile and customer-review classifications.
 
 [^51]: https://thaivisareviews.com/visa/marriage — Thai marriage visa guide and specialist agency rankings.
+
+[^52]: https://thaivisareviews.com/visa/education — Education visa guide, indexed version examined November 28, 2026.
+
+[^53]: https://brussels.thaiembassy.org/en/content/effective-on-15-july-2024-thailand-has-introduced — Official announcement, July 15, 2024.
+
+[^54]: https://london.thaiembassy.org/en/page/non-ed-plus-visa-for-higher-education — Official Non-ED Plus guidance, updated November 24, 2026.
