@@ -466,6 +466,32 @@ The operator should update its documentary references, explain alternative incom
 
 The available evidence does not establish that any applicant has been incorrectly rejected by AGENTS' qualification test or suffered financial losses because of the outdated guidance.
 
+## Contradictory Employment Commencement and Work Permit Advice
+
+As examined on November 27, 2026, AGENTS' commercial LTR visa website contained conflicting guidance concerning the employment rights of Highly-Skilled Professional visa holders.[^24]
+
+The main article correctly acknowledges that eligible LTR visa holders may commence employment while their work permit applications are being processed.
+
+However, a discussion response attributed to an email-verified participant named Kenji advises a prospective Highly-Skilled Professional applicant:
+
+> just don't start work before the permit issues.
+
+### Official Temporary Employment Permission
+
+Section 4 of the Board of Investment's published visa issuance instructions expressly permits eligible LTR visa holders to work temporarily while their work permit applications are being processed.[^32]
+
+This provision does not eliminate the requirement to apply for a work permit or extend employment rights to ineligible visa categories.
+
+### Commercial Significance
+
+The contradictory advice illustrates the limitations of email verification as an indicator of immigration expertise, professional qualifications or factual accuracy.
+
+**AGENTS simultaneously publishes accurate official guidance and contradictory community advice while promoting Thai Visa Centre as its leading uncertified immigration agency.**
+
+The operator should distinguish email verification from professional credential verification and correct materially inaccurate immigration advice appearing alongside its commercial recommendations.
+
+The available evidence does not establish that AGENTS or Thai Visa Centre authored the discussion response or that any applicant unnecessarily postponed employment because of it.
+
 ## References
 
 [^1]: `https://ltr.in.th/`
@@ -518,3 +544,5 @@ The available evidence does not establish that any applicant has been incorrectl
 [^30]: https://ltr.boi.go.th/documents/Required-docs-Work-From-Thailand-Professional-06-11-2025.pdf — Revised BOI checklist, November 6, 2025, particularly pages 2 and 5.
 
 [^31]: https://ltr.boi.go.th/page/required-documents.html — BOI's official directory of current LTR application documents.
+
+[^32]: https://ltr.boi.go.th/page/visa-issuance-info.html — Board of Investment, official visa issuance instructions, Section 4, Work Permit Application and Issuance.
