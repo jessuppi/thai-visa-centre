@@ -358,6 +358,44 @@ These omissions are particularly significant for applicants purchasing Muay Thai
 
 The available evidence does not establish that any customer has purchased an unsuitable training package, submitted unacceptable documentation or suffered a visa refusal because of these omissions.
 
+## Incorrect Polish Application Fees and Obsolete Application Procedures
+
+As examined on November 27, 2026, AGENTS' country-specific Polish DTV guide contained several discrepancies with the Royal Thai Embassy in Warsaw's official application requirements.[^24][^25]
+
+### Incorrect Application Fee and Currency
+
+AGENTS repeatedly identifies the application fee as €350.
+
+However, the embassy specifies a non-refundable application fee of 1,575 Polish złoty (PLN), payable online.
+
+### Incorrect Application Methods
+
+The commercial guide advises prospective applicants that they can apply in person at their local Thai embassy or consulate. It also suggests that supporting documents may be submitted by post.
+
+However, the Royal Thai Embassy in Warsaw expressly requires online visa applications and states that postal applications will be rejected.
+
+### Outdated Criminal-Record and Residency Requirements
+
+AGENTS continues identifying proof of current location among its documentary requirements without explaining the revised residency conditions or mandatory criminal-record certificates.
+
+The embassy specifically requires documentation establishing qualifying residence in Poland or Ukraine, together with criminal-record clearance issued by the authorities of either country.
+
+### Additional Unsupported Documentary Requirements
+
+The commercial guide lists six months of salary records, authenticated employer documentation and authenticated company registration records among its workcation application requirements.
+
+However, these documents are not universally required under the embassy's published standard checklist.
+
+Although consular officers retain discretion to request additional evidence, AGENTS does not distinguish mandatory documentation from potentially requested supplementary material.
+
+### Commercial Significance
+
+**AGENTS recommends purchasing professional visa assistance to avoid application errors while its own Polish application guide contains incorrect and obsolete instructions.**
+
+The operator should reconcile its country-specific guidance with the responsible embassy's current application procedures.
+
+The available evidence does not establish that any applicant has incurred unnecessary authentication expenses, lost application fees or received a visa refusal because of these discrepancies.
+
 ## References
 
 [^1]: `https://dtv.in.th/`
@@ -396,6 +434,10 @@ The available evidence does not establish that any customer has purchased an uns
 [^22]: https://dtv.in.th/country/united-states — AGENTS' United States DTV application guide, reviewed November 27, 2026.
 
 [^23]: https://thaiconsulatela.thaiembassy.org/en/publicservice/dtv-visa — Royal Thai Consulate-General, Los Angeles, official DTV application requirements, updated October 1, 2026.
+
+[^24]: https://dtv.in.th/country/poland — AGENTS' Polish DTV application guide, indexed October 2026 and examined November 27, 2026.
+
+[^25]: https://warsaw.thaiembassy.org/en/page/visa-information — Royal Thai Embassy, Warsaw, official visa application requirements, updated September 15, 2026.
 
 ### Additional Existing Sources
 
