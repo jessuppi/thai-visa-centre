@@ -390,6 +390,46 @@ The operator should reconcile its published guidance, correct misleading discuss
 
 The available evidence does not establish that AGENTS fabricated the comments or that any participant suffered financial losses.
 
+## Incomplete Health Insurance Eligibility and Application Guidance
+
+As of November 27, 2026, AGENTS' LTR information website continued publishing health insurance qualification guidance alongside its promotion of Thai Visa Centre's commercial immigration services.[^24]
+
+Although the website correctly identifies the minimum coverage amount of US$50,000, its guidance omits several important conditions established by the Board of Investment.
+
+### Travel Insurance Is Not Accepted
+
+The BOI's official Wealthy Pensioner application checklist, dated November 6, 2025, expressly excludes travel insurance and life insurance without health insurance coverage.[^28]
+
+The commercial website does not identify these exclusions in its dedicated health insurance section.
+
+Consequently, applicants could incorrectly assume that a long-duration travel insurance policy satisfies LTR requirements merely because its medical coverage exceeds US$50,000.
+
+### Group Insurance Coverage
+
+The BOI also specifies that group health insurance must provide at least US$50,000 in coverage for each insured person.[^28]
+
+AGENTS' guidance does not explain this distinction, despite separately discussing health insurance requirements for spouses and dependent children.
+
+A shared policy's aggregate coverage amount does not necessarily establish that each applicant independently satisfies the qualification requirements.
+
+### Deferred Submission of Insurance Documents
+
+The commercial website advises applicants to resolve missing health coverage before filing their applications.
+
+However, the BOI permits applicants to defer submitting insurance documentation by providing a signed Document Request Acknowledgement Form. The required documentation is subsequently requested during government consideration of the application.[^28]
+
+This procedural alternative could be particularly useful for applicants arranging expensive international health insurance coverage.
+
+It does not remove the underlying insurance qualification requirement.
+
+### Commercial Significance
+
+**AGENTS offers unofficial LTR qualification testing while omitting insurance eligibility restrictions and documentary alternatives that could materially affect applicants' purchasing decisions.**
+
+These omissions are also relevant to the company's historical and continuing involvement in insurance distribution, documented in the separate [AGENTS CO., LTD. investigation](../companies/agents-co-ltd.md).
+
+The available evidence does not establish that Thai Visa Centre has recommended unsuitable insurance to LTR applicants or that customers have incurred unnecessary insurance expenses.
+
 ## References
 
 [^1]: `https://ltr.in.th/`
@@ -434,3 +474,5 @@ The available evidence does not establish that AGENTS fabricated the comments or
 [^26]: https://osos.boi.go.th/EN/news/2158 — BOI announcement dated January 15, 2025, including the conditional expansion of dependent rights.
 
 [^27]: https://www.thailawonline.com/thailand-ltr-visa/ — November 2026 legal analysis concerning LTR eligibility and outstanding Ministry of Interior requirements.
+
+[^28]: https://ltr.boi.go.th/documents/Required-docs-Wealthy-Pensioners-06-11-2025.pdf — BOI, official Wealthy Pensioner application checklist, November 6, 2025, page 5, health insurance exclusions and documentary requirements.
