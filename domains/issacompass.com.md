@@ -1006,6 +1006,35 @@ Issa Compass should distinguish independently verified immigration statistics fr
 
 The available evidence does not establish that its reported user figures are inaccurate or that the advertised savings are unattainable.
 
+## Unsubstantiated Visa Approval Rates and AI Performance Claims
+
+Issa Compass has repeatedly advertised a 99% approval rate for pre-qualified visa applications, attributing this performance to its automated document verification technology and professional oversight.[^69]
+
+### Undisclosed Statistical Methodology
+
+The company's promotional publications do not disclose:
+
+- The measurement period.
+- The total number of approved and rejected applications.
+- Approval rates by visa category.
+- The treatment of withdrawn or abandoned applications.
+- The proportion of prospective customers excluded during pre-qualification.
+- Independent verification of the reported results.
+
+An approval rate calculated exclusively from screened applicants does not necessarily represent the likelihood of success for all paying customers.
+
+### Changes to Published Performance Claims
+
+During research on November 28, 2026, older indexed versions of two Issa Compass publications contained the 99% approval figure, while more recently retrieved versions omitted it.[^70][^71]
+
+The reason for this discrepancy could not be independently established.
+
+### Commercial Accountability
+
+Issa Compass should publish the methodology supporting its advertised success rate and distinguish the predictive performance of its technology from the outcomes of applicants selected through its internal screening process.
+
+The available evidence does not establish that the reported approval rate is false or that the company deliberately manipulated its statistics.
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -1136,3 +1165,9 @@ All three sources were examined on November 27, 2026.
 [^67]: https://www.issacompass.com/insights/thailands-growing-expat-economy-immigration-insights-from-issa-compass — Updated November 14, 2026.
 
 [^68]: https://www.issacompass.com/insights/thailands-growing-expat-economy-immigration-insights-from-issa-compasss-10000-mo — Updated October 22, 2026.
+
+[^69]: https://www.issacompass.com/insights/how-issa-compass-prepares-your-thai-visa-application-before-it-ever-reaches-the- — Published April 14, 2026.
+
+[^70]: https://www.issacompass.com/insights/inside-issa-compass-how-our-ai-verification-engine-catches-the-visa-requirements — Comparison of indexed and more recently retrieved content.
+
+[^71]: https://www.issacompass.com/insights/what-happens-to-your-money-if-your-thai-visa-gets-rejected-refund-policies-guara — Published April 29, 2026, updated November 14, 2026.
