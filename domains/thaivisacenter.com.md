@@ -104,6 +104,27 @@ Thai Visa Center's guide does not explain these developments and continues descr
 
 This finding concerns Thai Visa Center, operated through thaivisacenter.com, rather than the separately documented Thai Visa Centre brand.
 
+## Contradictory Re-Entry Permit Fees and Misleading Immigration Guidance
+
+As examined on November 28, 2026, Thai Visa Center's bilingual re-entry permit guide publishes contradictory information concerning government application fees.[^14]
+
+| Permit type | Thai-language guidance | English-language guidance | Official government fee |
+| --- | ---: | ---: | ---: |
+| Single re-entry | 1,000 baht | 1,700 baht | 1,000 baht |
+| Multiple re-entry | 3,800 baht | 3,800 baht | 3,800 baht |
+
+The Immigration Bureau's published fee schedule confirms the lower single-entry amount.[^15][^16]
+
+The English-language instructions do not identify the additional 700 baht as a commercial assistance charge.
+
+### Commercial Accountability
+
+The discrepancy is particularly relevant because foreign customers who cannot read Thai may rely exclusively on the incorrect English-language instructions when estimating immigration expenses.
+
+The operator should reconcile its multilingual guidance and clearly distinguish government application fees from commercial service charges.
+
+The available evidence does not establish that the agency has actually collected inflated government fees from customers.
+
 ## References
 
 [^1]: `https://www.thaivisacenter.com/`
@@ -123,6 +144,12 @@ This finding concerns Thai Visa Center, operated through thaivisacenter.com, rat
 [^12]: https://www.doe.go.th/prd/alien/news/param/site/152/cat/7/sub/0/pull/detail/view/detail/object_id/98581 — Department of Employment, January 15, 2026.
 
 [^13]: https://www.mol.go.th/en/news/labour-minister-launches-e-workpermit-online-system-for-foreign-worker-registration-24-hour-nationwide-service-begins-october-13 — Ministry of Labour, October 24, 2025.
+
+[^14]: https://www.thaivisacenter.com/15113587/re-entry-permit — Bilingual re-entry permit guide.
+
+[^15]: https://test.immigration.go.th/?page_id=1401 — Immigration Bureau's official fee schedule.
+
+[^16]: https://uttaradit.immigration.go.th/การขออยู่ต่อ-2/ — Uttaradit Immigration's official application guidance and fee information.
 
 ## Additional Existing Sources
 
