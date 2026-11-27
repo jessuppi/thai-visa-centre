@@ -278,6 +278,46 @@ The available evidence does not establish that AGENTS generated these comments, 
 
 Nevertheless, the documented contradiction warrants scrutiny of the reliability of the website's purported traveler discussions.
 
+## Incorrect Irish Visa Fees and Omitted November 2026 Consular Requirements
+
+On November 12, 2026, the Royal Thai Embassy in London published dedicated guidance concerning Destination Thailand Visa applications under the workcation category. The embassy updated this guidance on November 24, 2026.[^18]
+
+However, AGENTS' DTV information website continues publishing several contradictory or incomplete application requirements.
+
+### Incorrect Application Fee for Ireland
+
+The website's dedicated Irish application guide identifies the government visa fee as €350.[^19]
+
+However, the Royal Thai Embassy in London processes applications from residents of Ireland and specifies a £300 workcation visa fee.[^18][^20]
+
+AGENTS' own main DTV guide correctly identifies London's £300 fee, while its country-specific Irish guide continues advertising a different amount in euros.[^1]
+
+### Omitted Sponsorship Restrictions
+
+The website repeatedly presents financial sponsorship as an alternative to demonstrating personal funds of at least 500,000 baht.[^1][^19][^21]
+
+However, London's updated workcation guidance restricts sponsorship of principal applicants to children younger than 16. Older applicants are required to provide individual bank statements.[^18]
+
+Although AGENTS acknowledges that individual diplomatic missions may impose additional requirements, its British and Irish application guides do not identify this specific restriction.
+
+### Criminal-Record Certificates From Multiple Countries
+
+AGENTS' guidance describes criminal-record certificates from either the applicant's country of nationality or country of application.
+
+However, London's updated requirements specify certificates from both countries where applicants hold permanent residence outside their country of nationality.[^18]
+
+The distinction is significant because obtaining additional criminal-record documentation may require considerable preparation before submitting a visa application.
+
+### Commercial Significance
+
+The website prominently promotes Thai Visa Centre's commercial immigration assistance alongside its country-specific application guidance.
+
+**The continued publication of incomplete country-specific requirements undermines the practical value of these guides, particularly when the website displays recent update dates and promotes professional visa assistance.**
+
+AGENTS should distinguish national minimum requirements from the specific requirements imposed by the diplomatic mission responsible for each country's applications.
+
+The available evidence does not establish that applicants have lost application fees or received visa refusals because of these discrepancies.
+
 ## References
 
 [^1]: `https://dtv.in.th/`
@@ -304,6 +344,14 @@ Nevertheless, the documented contradiction warrants scrutiny of the reliability 
 [^16]: https://www.smartraveller.gov.au/destinations/asia/cambodia — Australian government travel advisory, current November 26, 2026.
 
 [^17]: https://travel.gc.ca/destinations/cambodia — Canadian government travel advisory, updated October 14, 2026.
+
+[^18]: https://london.thaiembassy.org/en/page/dtv-for-workcation — Royal Thai Embassy, London, published November 12, 2026, updated November 24, 2026.
+
+[^19]: https://dtv.in.th/country/ireland — AGENTS' country-specific Irish DTV application guide.
+
+[^20]: https://london.thaiembassy.org/en/page/how-to-apply-for-a-thai-e-visa — Official application procedures for residents of the United Kingdom, Ireland and British Overseas Territories.
+
+[^21]: https://dtv.in.th/country/united-kingdom — AGENTS' country-specific British DTV application guide.
 
 ### Additional Existing Sources
 
