@@ -726,6 +726,43 @@ The publisher should disclose how these factors affect ranking positions and dis
 
 The available evidence does not establish that agencies have purchased favorable ranking positions or that Thai Visa Centre controls the ranking system.
 
+## Incorrect Review Classification and Specialist Agency Rankings
+
+As examined on November 28, 2026, Thai Visa Reviews describes its UserScore system as an AI-powered analysis of customer experiences intended to help applicants compare immigration agencies.[^1]
+
+However, its published review classifications contain demonstrable inaccuracies.
+
+### Incorrect Service Classifications
+
+Examples identified across two agency profiles include:
+
+| Agency | Service described by reviewer | Assigned category |
+| --- | --- | --- |
+| Siam Legal | Five-year Thailand Privilege visa | Long Term Resident |
+| Siam Legal | Marriage registration assistance | Visa Consultation |
+| BAAN THAI Immigration Solutions | K-1 fiancé visa | Marriage Visa |
+| BAAN THAI Immigration Solutions | Thai driving-license renewal | Visa Consultation |
+
+These classifications appear alongside the original customer testimonials.[^49][^50]
+
+The United States K-1 fiancé visa is distinct from Thailand's marriage-based immigration arrangements. Similarly, Thailand Privilege membership and the Long-Term Resident visa are separate immigration programs.
+
+### General Ratings Presented Alongside Specialist Recommendations
+
+The directory's individual visa guides recommend agencies as specialists while displaying general UserScore ratings and aggregate review totals.[^23][^51]
+
+The publisher does not clearly identify how many reviews relate specifically to the immigration category being recommended.
+
+Consequently, a favorable overall rating does not necessarily establish expertise or customer satisfaction concerning a particular visa program.
+
+### Commercial Significance
+
+The directory should distinguish general business reputation from verified experience with specific immigration procedures and correct its inaccurate review classifications.
+
+The available evidence does not establish that the underlying testimonials are fabricated or that the incorrectly classified reviews materially affected individual ranking positions.
+
+The documented concern relates to the directory's analysis and presentation of customer reviews, rather than misconduct by the reviewed agencies.
+
 ## References
 
 [^1]: `https://thaivisareviews.com/`
@@ -799,3 +836,9 @@ The available evidence does not establish that agencies have purchased favorable
 [^47]: `https://aseannow.com/topic/888193-visa-application-specialists/` — January 20, 2016, recommendation and sponsorship acknowledgment.
 
 [^48]: `https://thaivisareviews.com/agency/thai-visa-express` — Agency profile, accreditation disclosures, and review statistics.
+
+[^49]: https://thaivisareviews.com/agency/siam-legal — Agency profile and customer-review classifications.
+
+[^50]: https://thaivisareviews.com/agency/baan-thai-immigration — Agency profile and customer-review classifications.
+
+[^51]: https://thaivisareviews.com/visa/marriage — Thai marriage visa guide and specialist agency rankings.
