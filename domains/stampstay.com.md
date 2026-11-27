@@ -184,6 +184,41 @@ Both guides remained publicly accessible when examined on November 26, 2026.
 
 No independently verified evidence establishes a corporate relationship between StampStay and Thai Visa Centre, or whether customers incurred unnecessary expenses as a result of these publications.
 
+## Outdated Immigration Risk-Scoring Claims
+
+On March 7, 2026, StampStay published an article explaining how Thai immigration officers supposedly assess individual travelers' entry risks.[^14]
+
+The article categorically denies that Thailand's immigration authorities operate a computerized system assigning numerical risk scores to travelers.
+
+This guidance remained publicly accessible on November 27, 2026.
+
+### Official Disclosure of Automated Risk Scoring
+
+The Immigration Bureau's THIM Privacy Notice, version 3.0, dated October 9, 2026, expressly identifies automated processing for:
+
+- Biometric identity verification.
+- Document-authenticity assessment.
+- Security risk scoring.
+- Digital service credentials.
+
+Section 14.2 additionally establishes human oversight, manual overrides, appeal procedures and algorithmic auditing.[^15]
+
+The government therefore acknowledges automated risk-scoring capabilities that StampStay's published explanation fails to address.
+
+### Commercial Significance
+
+StampStay sells personalized immigration risk assessments for $79, with priority delivery costing $149.[^2]
+
+Its educational content promotes the supposed predictability of immigration officers' assessments while encouraging travelers to purchase its proprietary risk analysis.
+
+**StampStay continues monetizing immigration risk predictions without adequately accounting for the government's subsequently disclosed automated risk-scoring capabilities.**
+
+The operator should update its published guidance and explain the limitations of its proprietary assessments in light of government systems whose internal scoring methodology is not publicly disclosed.
+
+The official Privacy Notice does not establish that every traveler receives a numerical admission-risk score or that automated assessments independently determine admission decisions.
+
+The available evidence also does not establish any corporate relationship between StampStay and Thai Visa Centre.
+
 ## References
 
 [^1]: `https://www.stampstay.com/`
@@ -203,3 +238,7 @@ No independently verified evidence establishes a corporate relationship between 
 [^12]: https://www.phangngaimmigration.go.th/news/02-03-2026 — Immigration Bureau announcement, March 2, 2026.
 
 [^13]: https://www.tatnews.org/2026/03/thai-immigration-bureau-introduces-temporary-relief-measures-for-travellers-affected-by-middle-east-airspace-closures/ — Tourism Authority of Thailand, March 4, 2026.
+
+[^14]: https://www.stampstay.com/blog/thailand/entry-patterns/risk-score-explained — StampStay Research Team, published March 7, 2026, reviewed November 27, 2026.
+
+[^15]: https://thim.immigration.go.th/privacy-notice — Immigration Bureau, THIM Privacy Notice, version 3.0, October 9, 2026, Section XIV, Automated Decision-Making.
