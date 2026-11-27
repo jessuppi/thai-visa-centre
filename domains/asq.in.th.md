@@ -368,6 +368,40 @@ The available evidence does not establish improper payments to immigration offic
 
 Nevertheless, the agency should distinguish its document-handling services from its ability to guarantee government decisions.
 
+## Outdated eSIM Advertising and Incomplete Compatibility Guidance
+
+Ask Thailand's commercial eSIM guide, dated March 6, 2024, recommends purchasing telecommunications services through the affiliated esimcard.in.th website.[^30]
+
+The guide identifies the affiliated provider as the best purchasing option and advertises an eight-dollar price.
+
+However, as examined on November 27, 2026, the linked retail storefront advertised a ten-day unlimited 5G package for $19.[^31]
+
+The older guide does not distinguish the originally advertised package from the currently available product.
+
+### Incomplete Device Compatibility Information
+
+Ask Thailand publishes an extensive list of supposedly compatible smartphones, including the Google Pixel 2, Pixel 3, Pixel 3a and Samsung Galaxy S20 series.
+
+However, Google's official documentation identifies significant compatibility restrictions:[^32]
+
+- Pixel 2 devices must have been purchased with Google Fi service.
+- Certain Pixel 3 devices do not support eSIM because of their original market or carrier.
+- Pixel 3a devices purchased in Japan or through Verizon do not support eSIM.
+
+Samsung likewise states that eSIM availability for its Galaxy S20 series varies according to country and carrier.[^33]
+
+Ask Thailand's device list does not explain these restrictions, although the guide generally advises customers to verify compatibility before purchasing.
+
+### Commercial Accountability
+
+The guide recommends a telecommunications business operated by AGENTS CO., LTD., the same company identified in Ask Thailand's legal policies.[^31][^34]
+
+However, the recommendation does not clearly disclose this common operator or provide comparative evidence supporting its claim that the affiliated provider is the best purchasing option.
+
+The operator should update its commercial pricing information, qualify its device compatibility list and clearly disclose its relationship with the recommended supplier.
+
+The available evidence does not establish deliberate bait-and-switch advertising, improper refund refusals or actual customer losses.
+
 ## References
 
 - `https://asq.in.th/policy/terms-and-conditions`
@@ -423,3 +457,13 @@ Nevertheless, the agency should distinguish its document-handling services from 
 [^28]: https://asq.in.th/question/what-are-the-new-visa-rules-for-travelers-arriving-in-thailand — September 15, 2026 commercial announcement and subsequent discussion, examined November 27, 2026.
 
 [^29]: https://washingtondc.thaiembassy.org/en/page/visaexempt-voajul2024 — Royal Thai Embassy, official visa-exemption arrangements effective September 15, 2026.
+
+[^30]: https://asq.in.th/esim-sim-for-thailand — Commercial eSIM guide, dated March 6, 2024, retrieved through its ask.in.th redirect.
+
+[^31]: https://esimcard.in.th/en — Retail storefront and corporate disclosures, examined November 27, 2026.
+
+[^32]: https://support.google.com/pixelphone/answer/7086887?hl=en-GB — Google's official Pixel SIM compatibility documentation.
+
+[^33]: https://news.samsung.com/global/introducing-the-samsung-galaxy-s20-change-the-way-you-experience-the-world — Samsung's official Galaxy S20 specifications and eSIM availability restrictions.
+
+[^34]: https://asq.in.th/policy/terms-and-conditions — Terms & Conditions identifying AGENTS CO., LTD. as the operator.
