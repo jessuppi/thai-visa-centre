@@ -213,6 +213,34 @@ The publisher should clearly distinguish commercial promotions from independentl
 
 The available evidence does not establish that THAI.NEWS intentionally manipulates AI-generated recommendations, that Thai Visa Centre owns the publisher, or that particular AI systems have reproduced its promotional claims.
 
+## Inadequate Source Attribution and Automated Immigration Gate Guidance
+
+On September 18, 2026, THAI.NEWS published a report concerning the expansion of automated passport-control facilities at Suvarnabhumi Airport.[^20]
+
+### Inadequate Source Attribution
+
+Despite displaying a dedicated external references table, the article links to general government websites, Wikipedia and Reddit rather than the specific documents or discussions supporting its reporting.
+
+Official government announcements published on November 10 and 11, 2026, corroborate the expansion to 33 eligible jurisdictions.[^21][^22]
+
+However, those announcements do not substantiate every operational requirement or passenger-processing claim presented in the article.
+
+### Omitted Mandatory LTR Visa Issuance Requirements
+
+The article advises long-term residents to exercise caution when using automated immigration gates.
+
+However, the Board of Investment explicitly requires approved LTR applicants collecting their visas in Thailand to possess a physical immigration entry stamp. Automated gate entry records are currently not accepted for this procedure.[^23]
+
+The absence of a physical stamp may prevent visa issuance and necessitate rescheduling.
+
+### Editorial Accountability
+
+The publisher should link directly to supporting government documents, distinguish independently verified operational requirements from reported traveler experiences, and update its coverage to reflect applicable visa issuance restrictions.
+
+These improvements are particularly relevant given the website's promotion of machine-readable citations and AI-oriented news distribution.
+
+The available evidence does not establish that the article's unidentified sources or published reader experiences are fabricated.
+
 ## References
 
 [^1]: `https://thai.news/news/thailand/how-to-select-a-trustworthy-visa-agency-in-thailand`
@@ -247,3 +275,11 @@ The available evidence does not establish that THAI.NEWS intentionally manipulat
 [^18]: https://thai.news/citation — Machine-readable citation specification.
 
 [^19]: https://thai.news/llms.txt — AI-oriented content discovery documentation.
+
+[^20]: https://thai.news/news/immigration/suvarnabhumi-expands-automated-passport-control-arrival-gates-33-countries-2026 — September 18, 2026.
+
+[^21]: https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/559108 — Government Public Relations Department, November 11, 2026.
+
+[^22]: https://www.thailand.go.th/public/useful-information-detail/travelers-from-33-countries-and-territories-eligible-to-use-thailands-automated-passport-control — November 10, 2026.
+
+[^23]: https://ltr.boi.go.th/page/visa-issuance-info.html — Official BOI visa issuance requirements.
