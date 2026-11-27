@@ -136,6 +136,40 @@ As of November 2026, `dtv.in.th` correctly describes the DTV's multiple-entry va
 
 The article provides another example of THAI.NEWS directing readers seeking government immigration information toward commercially connected websites without identifying the underlying business relationship.
 
+## Misleading Immigration Reporting Requirements and Commercial Assurances
+
+On October 18, 2025, THAI.NEWS published an article promoting AGENTS CO., LTD.'s paid immigration reporting service under its generic Editorial Team byline.[^5]
+
+The article incorrectly presents 90-day address reporting as a universal obligation applicable to foreign residents remaining in Thailand for more than 90 consecutive days.
+
+### Omission of Annual Reporting Privileges
+
+The Board of Investment expressly confirms that qualifying LTR and SMART visa holders receive annual reporting privileges instead of ordinary 90-day reporting requirements.[^13][^14]
+
+These immigration privileges existed before the promotional article was published.
+
+Nevertheless, THAI.NEWS fails to identify these exceptions while promoting AGENTS' paid reporting services.
+
+### Unqualified Service Assurances
+
+The article also claims that AGENTS resolves immigration reporting problems directly with immigration authorities so that customers:
+
+> never have to make the trip yourself.
+
+However, AGENTS' published refund policy generally excludes refunds once processing begins, including preliminary document preparation.[^15]
+
+The promotional article does not explain what remedies are available if AGENTS cannot resolve an immigration reporting problem or if immigration authorities require the applicant's personal attendance.
+
+### Commercial Significance
+
+**THAI.NEWS exaggerates the applicability of mandatory immigration reporting requirements while promoting a commercially connected paid service through favorable editorial coverage.**
+
+The article combines inaccurate immigration information with unqualified service assurances without adequately explaining the corresponding contractual limitations.
+
+The publisher should correct its description of reporting obligations and distinguish promotional claims from independently verified service capabilities.
+
+The available evidence does not establish that exempt visa holders purchased unnecessary reporting credits or that customers were denied refunds after being required to attend immigration personally.
+
 ## References
 
 [^1]: `https://thai.news/news/thailand/how-to-select-a-trustworthy-visa-agency-in-thailand`
@@ -156,3 +190,9 @@ The article provides another example of THAI.NEWS directing readers seeking gove
 [^11]: https://phnompenh.thaiembassy.org/en/publicservice/destination-thailand-visa-dtv — Royal Thai Embassy, July 23, 2024, official DTV validity and extension guidance.
 
 [^12]: `https://dtv.in.th/` — Updated immigration guidance and reproduced government announcements, November 25, 2026.
+
+[^13]: https://ltr.boi.go.th/page/faq.html — Board of Investment, official LTR guidance, particularly the annual reporting section.
+
+[^14]: https://smart-visa.boi.go.th/smart/pages/smart_s.html — Board of Investment, official SMART Startup Visa privileges.
+
+[^15]: https://90day.in.th/policy/refund — AGENTS' reporting service refund policy, last updated April 2, 2025.
