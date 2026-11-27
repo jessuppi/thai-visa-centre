@@ -391,6 +391,30 @@ The telecommunications businesses extend the corporate-identity and data-protect
 
 The company should clarify which registered entity operates each telecommunications service, its respective data-controller responsibilities, and the justification for substantially different customer protections.
 
+## Indefinite Immigration Draft Retention and Statutory Deletion Obligations
+
+AGENTS CO., LTD.'s June–July 2025 publicity campaign promoted the indefinite retention of immigration application drafts unless customers deleted them.[^13][^33]
+
+The same promotional material asserted compliance with Thailand's Personal Data Protection Act.
+
+### Retention and Deletion Responsibilities
+
+Section 37(3) of Thailand's PDPA establishes responsibilities concerning the deletion or destruction of personal information when applicable retention periods expire or when the information is no longer relevant or necessary for its original processing purposes, subject to statutory exceptions.
+
+Section 23(3) separately establishes disclosure requirements concerning applicable or expected retention periods.[^26]
+
+The availability of a customer-controlled deletion function does not independently discharge the operator's statutory responsibilities.
+
+### Commercial Significance
+
+**AGENTS presented indefinite immigration draft storage as a commercial advantage while simultaneously asserting compliance with legislation that establishes independent data-retention and deletion responsibilities.**
+
+The company should explain how it handles abandoned applications, inactive customer accounts and immigration records that are no longer necessary for their original purposes.
+
+It should also distinguish unfinished application drafts from completed immigration submissions and records retained for legitimate contractual or statutory purposes.
+
+The available evidence does not establish that AGENTS has unlawfully retained personal information or failed to honor a valid deletion request.
+
 ## References
 
 [^1]: https://www.dataforthai.com/company/0115562031107/
