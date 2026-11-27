@@ -214,6 +214,46 @@ The available evidence does not establish unauthorized information sharing or im
 
 The claimed scale of the company's hotel partnerships also remains independently unverified.
 
+## Contradictory API Integration Guidance and Duplicate Purchase Risks
+
+As of November 27, 2026, AGENTS continued promoting its wholesale eSIM platform as readily integrated into hotel reservation systems and online travel agencies.[^1][^7][^8]
+
+However, its promotional integration examples differ substantially from its detailed public API documentation.[^5]
+
+### Inconsistent Technical Instructions
+
+The platform's homepage illustrates API authentication using an Authorization bearer token, while its detailed documentation specifies an `x-api-key` header.
+
+The promotional examples also identify products using descriptive strings, whereas the detailed documentation requires UUID product identifiers.
+
+The illustrated response structures likewise differ, including the location and naming of order identifiers and activation information.
+
+These discrepancies undermine the company's claims concerning straightforward commercial integration.
+
+### Duplicate Purchase Protection Omitted From Promotional Examples
+
+The detailed API documentation identifies an optional `idempotencyKey` parameter designed to prevent duplicate purchases when an order request is retried.
+
+However, the promotional integration examples omit this parameter.
+
+This is financially significant because automated booking systems may retry requests following connection interruptions, server timeouts, or incomplete responses.
+
+Without appropriate duplicate-order safeguards, repeated requests could potentially result in additional eSIM purchases and deductions from prepaid account balances.
+
+### Restrictive Refund Terms Increase Commercial Exposure
+
+Section 4 of the platform's Terms of Service generally excludes refunds following the issuance of an activation code.[^3]
+
+The company's contractual terms also exclude various categories of consequential damages, including lost revenue and business interruption.
+
+Consequently, wholesale customers implementing automated purchasing systems should understand both the technical safeguards and the contractual consequences of unintended purchases.
+
+**AGENTS promotes simplified commercial integration while its promotional examples omit a documented safeguard intended to prevent duplicate charges.**
+
+The company should reconcile its published integration examples with the detailed API specification and explicitly explain safe retry procedures before encouraging businesses to automate non-refundable purchases.
+
+The available evidence does not establish that any wholesale customer has experienced duplicate charges, financial losses, or refused refunds resulting from these discrepancies.
+
 ## References
 
 [^1]: `https://esim.agents.co.th/` — Wholesale platform, commercial services, verification claims, and corporate disclosures.
