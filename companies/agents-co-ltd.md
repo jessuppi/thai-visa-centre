@@ -295,6 +295,26 @@ The company should identify the responsible licensed intermediary, clarify appli
 
 The available evidence does not establish that AGENTS receives insurance-specific commissions, directly collects insurance premiums or conducts unlicensed insurance brokerage.
 
+### Independent Insurance Data Retention and Deletion Limitations
+
+AGENTS' September 24, 2025 sponsored article promoted integrated travel insurance supplied by Tune Protect through Bolttech, alongside assurances concerning customers' control over their personal information and immediate data removal.[^20]
+
+However, Tune Insurance Public Company Limited maintains independent personal-data processing and retention arrangements.[^44]
+
+Its Privacy Policy identifies passport information, medical records, financial information and insurance transaction histories among the categories of information it may process.
+
+The insurer also reserves the ability to retain information for applicable legal, regulatory, taxation and accounting purposes.
+
+AGENTS' own Privacy Policy describes account deletion as removing personal information from its systems, subject to an exception concerning payment transaction identifiers.[^19]
+
+However, it does not explain whether deleting an AGENTS account initiates corresponding deletion requests with its insurance partners.
+
+**The integration of insurance purchases into an immigration-registration platform creates separate data-protection responsibilities that are not necessarily resolved through a single account-deletion function.**
+
+AGENTS should clearly distinguish information retained within its own platform from information independently processed by insurers and insurance intermediaries, including the procedures customers must follow to exercise their rights with each organization.
+
+The available evidence does not establish that insurance partners unlawfully retain personal information or that AGENTS has failed to honor a valid deletion request.
+
 ## International Travel Industry Promotion and Government Platform Confusion
 
 ### June 2025: Promotion Through Travel Daily Media
@@ -521,3 +541,5 @@ The available evidence does not establish that AGENTS has unlawfully retained pe
 [^42]: https://oiceservice.oic.or.th/document/File/Law/368/a9379755-e613-450a-a31a-a7bc8e59d53c.%203%202558%29.pdf — Non-Life Insurance Act B.E. 2535, unofficial English translation hosted by the Office of Insurance Commission, particularly Sections 4, 63, 66 and 66/2.
 
 [^43]: https://agents.co.th/tdac-apply/policy/refund/ — AGENTS Refund Policy, last updated May 15, 2025, examined November 27, 2026.
+
+[^44]: https://www.tuneprotect.co.th/en/privacy-policy — Tune Insurance Public Company Limited, Data Privacy Policy, particularly Parts 1, 3, 4 and 7, examined November 27, 2026.
