@@ -222,6 +222,38 @@ The available evidence does not establish that customers have been unable to obt
 
 Nevertheless, the published comparison does not accurately communicate the limitations of the commercial service.
 
+## Unsubstantiated LTR Arrival Card Requirements in Commercial Advertising
+
+As of November 27, 2026, AGENTS continued promoting individually generated TDAC documents as a significant commercial advantage over Thailand's official immigration registration platform.[^21]
+
+The company's advertising specifically identifies the Long-Term Resident (LTR) visa program as requiring individual arrival-card documents.
+
+### Unsupported Restriction on Government Group Submissions
+
+The Board of Investment's official LTR visa issuance instructions require applicable applicants to provide their Thailand Digital Arrival Card and associated registration number.[^22]
+
+However, the published instructions do not expressly prohibit documents generated through the government's group submission procedure.
+
+AGENTS does not identify a specific government regulation or BOI instruction supporting its implied restriction.
+
+### Free Individual Government Submissions
+
+Thailand's Immigration Bureau expressly supports both individual and group arrival-card submissions through its free registration platform.[^18][^23]
+
+Travelers requiring separately issued documents can therefore complete individual government submissions without purchasing commercial assistance.
+
+AGENTS' feature comparison does not adequately communicate this alternative.
+
+### Commercial Significance
+
+**AGENTS invokes government visa-documentation requirements to promote its commercial service without adequately substantiating the claimed restriction or explaining the equivalent free government option.**
+
+Although individual document distribution may provide legitimate convenience and privacy advantages, those benefits should be distinguished from mandatory immigration requirements.
+
+The company should identify the official basis for its LTR-related advertising and clarify that travelers can obtain individual arrival cards directly from Thailand's Immigration Bureau.
+
+The available evidence does not establish that the BOI accepts every format of group-generated arrival-card documentation or that any applicant has purchased unnecessary commercial assistance.
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
@@ -258,3 +290,7 @@ Nevertheless, the published comparison does not accurately communicate the limit
 [^20]: `https://tvc.co.th/law/documents/imm-tdac-faq` — Thai Visa Centre's archived government FAQ, captured November 22, 2026.
 
 [^21]: `https://agents.co.th/tdac-apply/about/` — Commercial service comparison and group submission advertising.
+
+[^22]: https://ltr.boi.go.th/page/visa-issuance-info.html — Board of Investment, official LTR visa issuance procedures and required documentation.
+
+[^23]: https://tdac.immigration.go.th/manual/en/ — Immigration Bureau, official TDAC user guide describing individual and group submissions.
