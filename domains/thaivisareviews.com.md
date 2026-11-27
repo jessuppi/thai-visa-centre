@@ -690,6 +690,42 @@ One possible strategic benefit of distributing awards among competing agencies i
 
 Whether the inaccuracies are deliberate, automated, or attributable to inadequate research remains unresolved.
 
+## Contradictory Agency Ranking Methodology and Editorial Promotion
+
+As examined on November 27, 2026, Thai Visa Reviews' homepage FAQ claimed that agency rankings are determined solely by UserScore and customer feedback.[^1]
+
+However, its explanation of the recommended ranking system separately acknowledges that verified businesses receive an additional ranking advantage based partly on corporate registration and established business history.
+
+### Editorial Awards and Ranking Positions
+
+The homepage's Top Rated Agencies section displayed the following positions:
+
+| Agency | Position | UserScore | Reviews analyzed |
+| --- | ---: | ---: | ---: |
+| Thai Visa Express | 1 | 90% | 292 |
+| Star Visa Service – Nong Pa Khrang | 2 | 99% | 1,304 |
+| Thai Visa Pattaya | 3 | 100% | 600 |
+| Siam Legal | 4 | 97% | 1,814 |
+| Thai Visa Centre | 8 | 98% | 2,704 |
+
+Thai Visa Express occupies the first position while prominently displaying its November 2026 Agency of the Month award.
+
+The published ranking methodology does not clearly explain how editorial awards affect these positions or how they are weighted against review quality and quantity.
+
+### Unreliable Corporate Verification
+
+The additional ranking advantage granted to verified businesses is particularly concerning given the directory's documented inaccuracies concerning corporate registrations and government accreditations.
+
+A ranking system incorporating corporate verification cannot be considered reliable solely because its customer-review analysis is automated.
+
+### Commercial Significance
+
+**Thai Visa Reviews presents its rankings as objectively determined by customer feedback while also incorporating corporate verification advantages and prominently positioning editorial award recipients.**
+
+The publisher should disclose how these factors affect ranking positions and distinguish editorial promotions from statistically calculated recommendations.
+
+The available evidence does not establish that agencies have purchased favorable ranking positions or that Thai Visa Centre controls the ranking system.
+
 ## References
 
 [^1]: `https://thaivisareviews.com/`
