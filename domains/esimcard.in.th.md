@@ -139,6 +139,52 @@ The company should identify its underlying telecommunications suppliers, explain
 
 The available evidence does not establish that AGENTS has bypassed mandatory subscriber registration, supplied improperly registered SIM cards or violated telecommunications licensing requirements.
 
+## Asymmetric Retail and Wholesale Customer Protections
+
+As of November 27, 2026, AGENTS continued selling retail eSIM products through esimcard.in.th while operating a separate wholesale telecommunications platform.
+
+However, the two websites provide substantially different explanations of customer protections.
+
+### Missing Retail Refund Conditions
+
+Section 4 of the wholesale platform's Terms of Service establishes that orders generally become non-refundable once an eSIM activation code has been issued.[^13]
+
+The retail storefront provides no equivalent explanation of when purchases become non-refundable.[^1][^4]
+
+Its publicly linked legal documents also fail to establish specific remedies for customers experiencing:
+
+- Undelivered activation codes.
+- Unsuccessful eSIM installation.
+- Incompatible mobile devices.
+- Activation failures attributable to the supplier.
+- Cancellation of confirmed orders by AGENTS.
+
+The wholesale refund restrictions cannot automatically be assumed to govern retail transactions.
+
+### Unequal Notification of Contractual Changes
+
+Section 11 of the wholesale agreement expressly promises to notify registered customers of material contractual changes by email.[^13]
+
+However, the retail agreement makes individual notification discretionary and ordinarily establishes revised terms as effective immediately upon publication.[^4]
+
+**AGENTS therefore provides an explicit contractual notification commitment to wholesale businesses that is absent from its retail customer agreement.**
+
+### Incomplete Technical and Service Disclosures
+
+The retail storefront advertises unlimited high-speed connectivity without explaining device compatibility requirements or network-dependent performance limitations.[^1]
+
+By comparison, True-dtac's published tourist SIM conditions explicitly address device compatibility, network congestion, coverage limitations and variations in achievable connection speeds.[^12]
+
+These conditions are particularly relevant to international travelers purchasing connectivity before arriving in Thailand.
+
+### Commercial Significance
+
+AGENTS promotes its association with Thai Visa Centre as evidence of trustworthiness while providing retail customers with less specific contractual disclosures than those available to its wholesale partners.
+
+The company should publish service-specific retail refund conditions, explain activation-failure remedies, disclose technical compatibility requirements and provide meaningful notice of material contractual changes.
+
+The available evidence does not establish that AGENTS has improperly refused refunds or retroactively changed contractual conditions to the detriment of particular customers.
+
 ## References
 
 [^1]: `https://esimcard.in.th/en` — Retail eSIM website and corporate disclosures.
@@ -164,3 +210,5 @@ The available evidence does not establish that AGENTS has bypassed mandatory sub
 [^11]: https://www.ais.th/en/consumers/package/international/tourist-plan — AIS tourist SIM registration and validity instructions.
 
 [^12]: https://www.true.th/promotion/prepaid/terms-tourist-infinite-sim — True-dtac tourist SIM terms, particularly service eligibility and SIM validity.
+
+[^13]: https://esim.agents.co.th/terms — Wholesale eSIM Terms of Service, last updated March 2025, particularly Sections 4 and 11.
