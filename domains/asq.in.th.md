@@ -268,6 +268,42 @@ The operator should consolidate duplicated discussions, clarify its engagement-c
 
 The available evidence does not establish that the duplication was deliberately designed to manipulate search rankings or AI-generated answers.
 
+## Unsupported Editorial Assurances Concerning DTV Re-entry
+
+On September 9, 2026, a contributor asked whether Thailand's August 31 regulatory changes affected existing Destination Thailand Visa holders returning to Thailand.[^23]
+
+The contributor specifically requested recent firsthand experiences and information concerning additional documentation at immigration checkpoints.
+
+### Speculation Presented as Confirmation
+
+Ask Thailand's editorial summary states that community members have confirmed that existing DTV holders should encounter no re-entry problems and require no additional documentation, subject to standard requirements.
+
+However, none of the four published responses describes an actual border crossing following the regulatory changes.
+
+Instead, the responses contain personal interpretations of the revised requirements and general reassurances concerning existing visas.
+
+**The editorial summary presents unverified opinions as confirmed immigration experiences, exceeding the evidence contained in the underlying discussion.**
+
+### Immigration Admission Remains Discretionary
+
+The Royal Thai Embassy in Pretoria expressly distinguishes visa issuance from permission to enter Thailand.[^24]
+
+Immigration officers retain authority to refuse admission to valid visa holders where applicable statutory grounds exist.
+
+The Royal Thai Embassy in Warsaw similarly explains that entry permission remains the responsibility of immigration officers and separately identifies the conditions governing multiple-entry DTV visas.[^25]
+
+The distinction between revised visa application requirements and existing visa validity does not eliminate immigration screening upon arrival.
+
+### Commercial Significance
+
+Ask Thailand converts community discussions into searchable immigration guidance through editorial summaries maintained by a business associated with Thai Visa Centre.
+
+Its summaries should distinguish firsthand experiences, speculative interpretations and independently verified government requirements.
+
+Presenting predictions as confirmed experiences risks misleading readers and downstream automated information systems about the reliability of the underlying evidence.
+
+The available material does not establish that the original contributors fabricated their comments, that the editorial summary was deliberately deceptive, or that any traveler experienced immigration difficulties because of it.
+
 ## References
 
 - `https://asq.in.th/policy/terms-and-conditions`
@@ -309,3 +345,9 @@ The available evidence does not establish that the duplication was deliberately 
 [^21]: https://london.thaiembassy.org/en/page/dtv-for-workcation — Royal Thai Embassy, London, official DTV requirements, updated November 24, 2026.
 
 [^22]: https://thaievisa.go.th/ — Ministry of Foreign Affairs, official electronic visa application system.
+
+[^23]: https://asq.in.th/question/is-it-harder-to-re-enter-thailand-on-a-dtv-visa-after-the-august-31st-regulation-changes — September 9, 2026 discussion and editorial summary, reviewed November 27, 2026.
+
+[^24]: https://pretoria.thaiembassy.org/en/content/29761-important-information — Royal Thai Embassy, Pretoria, official guidance concerning immigration admission and valid visa holders.
+
+[^25]: https://warsaw.thaiembassy.org/en/page/visa-information — Royal Thai Embassy, Warsaw, official visa information and DTV conditions.
