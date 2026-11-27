@@ -820,6 +820,34 @@ The operator should update its guidance and distinguish independently verified i
 
 The available evidence does not establish that the advertised success rate is false or that students have incurred unnecessary expenses because of these omissions.
 
+## Incorrect Work Permit and Business Extension Income Requirements
+
+Thai Visa Reviews' business visa guide presents nationality-based minimum income thresholds as requirements for obtaining a Thai work permit.[^55]
+
+### Confusing Separate Regulatory Procedures
+
+The Board of Investment's One Start One Stop Investment Center explicitly distinguishes the Department of Employment's work permit requirements from the Immigration Bureau's income requirements for extensions of stay.[^56]
+
+The nationality-based income schedule applies to qualifying business-related immigration extensions rather than constituting a universal work permit salary requirement.
+
+Separate requirements may apply to BOI-promoted businesses and other employment categories.
+
+### Incorrect Nationality Classification
+
+The directory identifies Malaysian nationals as subject to a minimum monthly income requirement of 45,000 baht.
+
+However, Annex A of Immigration Bureau Order 12/2568 places Malaysia within the general Asian nationality category subject to a 35,000-baht monthly income threshold for the applicable business extension procedure.[^57]
+
+The directory therefore overstates the applicable threshold by 10,000 baht per month.
+
+### Commercial Significance
+
+The directory recommends commercial immigration agencies while providing inaccurate explanations of the financial requirements governing foreign employment and continued residence.
+
+The operator should distinguish work authorization from permission to remain in Thailand and accurately reproduce the applicable immigration income schedule.
+
+The available evidence does not establish that any applicant has incurred unnecessary expenses or been incorrectly advised by the recommended agencies.
+
 ## References
 
 [^1]: `https://thaivisareviews.com/`
@@ -905,3 +933,9 @@ The available evidence does not establish that the advertised success rate is fa
 [^53]: https://brussels.thaiembassy.org/en/content/effective-on-15-july-2024-thailand-has-introduced — Official announcement, July 15, 2024.
 
 [^54]: https://london.thaiembassy.org/en/page/non-ed-plus-visa-for-higher-education — Official Non-ED Plus guidance, updated November 24, 2026.
+
+[^55]: https://thaivisareviews.com/visa/business — Business visa guide, examined November 28, 2026.
+
+[^56]: https://osos.boi.go.th/s/faq-group/10/Cancelling-Visa--Work-permit/ — Official BOI guidance distinguishing employment and immigration requirements.
+
+[^57]: https://kamphaengphet.immigration.go.th/wp-content/uploads/2025/04/คำสั่ง-สตม.-ที่-12.68-เรื่อง-การอนุญาตให้คนต่าง.pdf — Immigration Bureau Order 12/2568, January 23, 2025, Annex A.
