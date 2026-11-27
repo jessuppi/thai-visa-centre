@@ -302,6 +302,56 @@ Finally, it should explain how its contractual liability limit applies to advanc
 
 Those discrepancies warrant correction because travelers relying on the company's services must understand both the government procedure being performed and their contractual rights if something goes wrong.
 
+## Group TDAC Submissions and Indirect Personal Data Collection
+
+As of November 27, 2026, AGENTS CO., LTD. continued promoting its TDAC submission platform to travel agencies and tour operators, emphasizing group administration, individual document delivery and enhanced privacy.[^11]
+
+However, the company's published policies do not adequately distinguish customers directly using its website from individual travelers whose information is submitted by another business.
+
+### Authorization to Submit Is Not Authorization to Market
+
+Thailand's Immigration Bureau expressly permits travel agencies to submit TDAC applications on behalf of authorized clients.[^10]
+
+However, authorization to complete a government arrival declaration does not automatically establish authorization to process the same information for unrelated commercial purposes.
+
+AGENTS' Privacy Policy permits using personal information to market its own products and services and those of affiliated companies.[^7]
+
+The policy does not specifically explain how these marketing provisions apply to travelers whose passport information, contact details and travel records were supplied by a tour operator.
+
+### Statutory Obligations When Collecting Information Indirectly
+
+Section 25 of Thailand's Personal Data Protection Act regulates personal information obtained from sources other than the individuals concerned.[^12]
+
+Where consent is required, the controller must notify the affected individual without undue delay and within the applicable statutory period. The legislation also provides exceptions and specific notification requirements concerning subsequent communications and disclosures.
+
+These provisions are particularly relevant to commercial TDAC group submissions because the person accepting AGENTS' website policies may not be the individual whose information is being processed.
+
+**Acceptance of AGENTS' Privacy Policy by a tour operator does not, by itself, establish that every traveler has authorized affiliated-company marketing.**
+
+### Right to Object to Direct Marketing
+
+Section 32 of the PDPA establishes an individual's right to object to the processing of personal information for direct marketing at any time.[^12]
+
+Once that right is exercised, the controller must discontinue the relevant processing.
+
+AGENTS' Privacy Policy refers generally to opting out and provides a support email address. However, it does not specifically explain how travelers can exercise their direct-marketing objection rights without deleting their accounts or interfering with pending arrival-card submissions.[^7]
+
+The position is particularly unclear for travelers who never created their own AGENTS accounts.
+
+### Contrast With Government Data Processing
+
+The Immigration Bureau's official FAQ describes TDAC information as being used for government border-control purposes.[^10]
+
+AGENTS' commercial platform separately reserves broader marketing and affiliated-company disclosure rights.
+
+Although individual document delivery may provide a genuine privacy advantage when distributing group confirmations, it does not resolve the broader questions concerning subsequent commercial processing.
+
+**AGENTS advertises privacy-focused group submissions while leaving important aspects of indirect personal-data collection and affiliated-company marketing unexplained.**
+
+The company should clarify how individual travelers receive privacy notices, distinguish immigration submission authorization from marketing permissions, and provide an accessible mechanism for exercising statutory objection rights.
+
+The available evidence does not establish that AGENTS has marketed services to unauthorized recipients or unlawfully processed information obtained from travel agencies.
+
 ## References
 
 [^1]: `https://agents.co.th/`
@@ -315,3 +365,7 @@ Those discrepancies warrant correction because travelers relying on the company'
 [^8]: `https://agents.co.th/tdac-apply/policy/refund/` — Refund Policy, updated May 15, 2025.
 [^9]: https://thailand.prd.go.th/en/content/page/index/id/475598 — Government Public Relations Department, February 12, 2026.
 [^10]: https://tdac.immigration.go.th/manual/en/faq.html — Official Immigration Bureau TDAC guidance.
+
+[^11]: https://agents.co.th/tdac-apply/about/ — Commercial TDAC service description, including group submissions and privacy-focused document distribution, reviewed November 27, 2026.
+
+[^12]: https://mdes.go.th/law/detail/3577-Personal-Data-Protection-Act-B-E--2562--2019 — Ministry of Digital Economy and Society, English translation of Thailand's Personal Data Protection Act, particularly Sections 25 and 32, pages 10 and 14.
