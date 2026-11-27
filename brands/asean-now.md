@@ -84,6 +84,38 @@ Their continued enforcement is particularly significant given The Thaiger's subs
 
 The historical advertising contracts themselves have not been obtained, and the available evidence does not establish that Thai Visa Centre negotiated specific censorship provisions.
 
+## Commercial Sale of Community Authority and Sponsor Participation
+
+On September 4, 2025, ASEAN NOW's parent publisher, The Thaiger, published an advertising guide promoting commercial partnership packages within its expatriate discussion community.[^13]
+
+The advertised benefits included sponsored accounts, direct participation in community discussions, pinned advertorials, premium business-directory placements and backlinks intended to improve search-engine rankings.
+
+### Commercially Acquired Community Credibility
+
+The publisher marketed sponsored participation using the phrase:
+
+> Become a trusted voice within the community.
+
+This establishes that perceived authority within the discussion platform was explicitly presented as a commercially obtainable benefit.
+
+The arrangement is particularly significant within immigration discussions, where prospective customers frequently seek independent assessments of visa agencies and immigration procedures.
+
+### Application to Thai Visa Centre
+
+Thai Visa Centre subsequently participated as a designated Forum Sponsor in the November 2025 discussion concerning its immigration services.[^5]
+
+During that discussion, moderators published favorable assessments of the agency, while an administrator acknowledged removing criticism under the forum's sponsor-protection rules.
+
+These documented events illustrate how commercially privileged participation and restrictions on criticism can operate simultaneously within discussions intended to provide immigration advice.
+
+### Commercial and Editorial Accountability
+
+**ASEAN NOW markets community credibility to advertisers while maintaining moderation rules that restrict ordinary members' ability to scrutinize commercial sponsors.**
+
+Consequently, favorable discussion content should not automatically be treated as representative of independent customer experiences or unrestricted community opinion.
+
+The available evidence does not establish that Thai Visa Centre purchased favorable moderator statements or that its sponsorship agreement included specific censorship provisions.
+
 ## References
 
 [^1]: https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand
@@ -101,3 +133,5 @@ The historical advertising contracts themselves have not been obtained, and the 
 [^11]: `https://aseannow.com/topic/561410-thai-expat-tv-forum-sponsers/page/2/` — June 10, 2012, discussion reproducing contractual advertiser-protection rules.
 
 [^12]: `https://aseannow.com/topic/1325695-more-pop-ups-is-not-a-good-start-to-this-forums-new-owners/` — April 23, 2024, reaffirmation of Rule 37 following The Thaiger's acquisition.
+
+[^13]: https://thethaiger.com/guides/digital-marketing/maximise-your-brands-visibility-with-asean-now-partnership — September 4, 2025, commercial advertising packages and sponsored community participation.
