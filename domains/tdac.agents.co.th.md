@@ -308,6 +308,34 @@ The operator should distinguish successful government registration from email de
 
 The available evidence does not establish who authored the anonymous responses or whether any traveler unnecessarily resubmitted personal information because of them.
 
+## Outdated TDAC Field Restrictions and Formatting Guidance
+
+As examined on November 28, 2026, AGENTS' commercial TDAC field guide publishes formatting restrictions that differ from the capabilities of the official government registration system.[^17][^18]
+
+| Information | AGENTS' published guidance | Official system capabilities |
+| --- | --- | --- |
+| Flight or vehicle number | Maximum seven characters | Up to 20 characters |
+| Visa number | Letters and digits only | Also supports hyphens and slashes |
+
+### Previously Documented Government Improvements
+
+The Immigration Bureau's published software release history identifies the following improvements:
+
+- May 3, 2025: Increased the supported length of arrival and departure flight or vehicle identifiers to 20 characters.
+- June 30, 2025: Introduced support for hyphens and slashes in visa numbers.
+
+Despite these improvements, AGENTS' guide continues publishing narrower formatting instructions.
+
+### Commercial Significance
+
+AGENTS markets its private submission platform as an improvement over the government system while instructing travelers to follow more restrictive formatting rules.
+
+These instructions could create unnecessary difficulties for customers whose travel or visa identifiers do not conform to the published restrictions.
+
+The operator should reconcile its field guidance with the Immigration Bureau's current specifications and distinguish any limitations of its own commercial interface from government requirements.
+
+The available evidence does not establish that AGENTS' underlying software enforces these restrictions, alters customer information or has caused immigration refusals.
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
