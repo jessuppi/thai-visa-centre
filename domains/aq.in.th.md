@@ -486,6 +486,32 @@ The available evidence includes favorable customer experiences and does not esta
 
 Nevertheless, its broad promotional assurances should be distinguished from the operational limitations of the underlying government registration system.
 
+## April 2022 Booking Cancellation and Refund Uncertainty
+
+On April 14, 2022, an ASEAN NOW participant reported booking accommodation through AQ.in.th for an anticipated May 4 arrival in Thailand.[^19]
+
+The customer expressed concern about recovering the booking cost if the government abolished mandatory hotel stays and PCR testing before his arrival.
+
+On April 22, 2022, Thailand's government approved the removal of these requirements for vaccinated travelers, effective May 1.[^20]
+
+The following day, the customer reported contacting the hotel to request a refund.
+
+### Responsibility for Customer Refunds
+
+Thai Visa Centre had previously described AQ.in.th as an intermediary connecting travelers directly with hotels, with payments made to the accommodation providers.[^21]
+
+This arrangement raises questions concerning the division of responsibility between the booking platform and participating hotels when changes to government regulations render previously purchased travel packages unnecessary.
+
+The customer reported that the hotel was willing to process a refund request, although the eventual outcome was not documented.
+
+### Historical Commercial Significance
+
+AQ.in.th's historical operations illustrate the importance of clearly communicating cancellation conditions when selling services associated with rapidly changing government requirements.
+
+Similar questions concerning refund eligibility and responsibility remain relevant to AGENTS' subsequent commercial immigration and travel services.
+
+The available evidence does not establish that AQ.in.th or the hotel improperly withheld this customer's payment.
+
 ## References
 
 - `https://tvc.co.th/scam`
@@ -521,3 +547,9 @@ Nevertheless, its broad promotional assurances should be distinguished from the 
 [^17]: https://www.reddit.com/r/Thailand/comments/tl5x7r/ — March 23–24, 2022, customer account concerning duplicate applications and subsequent approval.
 
 [^18]: https://news.cision.com/tourism-authority-of-thailand/r/updated--test---go-rules-to-ease-from-1-march-2022,c3514576 — Tourism Authority of Thailand, February 25, 2022, revised entry requirements and regional PCR testing arrangements.
+
+[^19]: https://aseannow.com/topic/1256511-so-uh-will-the-plan-to-scrap-pcr-hotel-booking-see-the-light-of-the-day-on-1st-may-2022/ — April 2022 customer discussion.
+
+[^20]: https://www.tatnews.org/2022/04/thailand-lifts-rt-pcr-testing-requirement-for-international-arrivals-from-1-may-2022/ — Tourism Authority of Thailand, April 22, 2022.
+
+[^21]: https://aseannow.com/topic/1224249-sandbox-model/ — Thai Visa Centre's July 16, 2021 explanation of direct hotel payments.
