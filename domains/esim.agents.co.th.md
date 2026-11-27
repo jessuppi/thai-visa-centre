@@ -414,6 +414,34 @@ AGENTS should distinguish historical hospitality relationships from active whole
 
 The available evidence does not establish that the advertised figures are inaccurate, that historical hotel relationships have been improperly counted, or that the two business networks overlap.
 
+## Inconsistent Wholesale Eligibility and Permitted Product Uses
+
+AGENTS' wholesale eSIM promotional material identifies several commercial use cases that are not clearly accommodated by its published Terms of Service.[^1][^3][^7]
+
+### Corporate Travel Departments
+
+The corporate homepage encourages businesses to purchase telecommunications services for employees traveling to Thailand.
+
+However, Section 2 of the Terms of Service restricts platform eligibility to verified businesses operating within the travel, tourism and hospitality industries.
+
+Corporate travel departments belonging to businesses outside these industries may therefore fall outside the published eligibility criteria.
+
+### Complimentary Hotel Services
+
+The hotel-specific promotional page encourages hotels to provide complimentary eSIMs to premium guests and loyalty-program members.
+
+However, Section 4 of the Terms of Service identifies resale to end consumers as the intended purpose of all products.
+
+The agreement does not explicitly address complimentary distribution or internal corporate use.
+
+### Commercial Accountability
+
+These discrepancies are particularly relevant because AGENTS reserves discretion to revoke account access and restrict refunds of prepaid balances.
+
+The operator should reconcile its advertised use cases with its contractual eligibility requirements and clarify whether complimentary distribution and employee connectivity are permitted.
+
+The available evidence does not establish that AGENTS has rejected or suspended customers for engaging in these advertised activities.
+
 ## References
 
 [^1]: `https://esim.agents.co.th/` — Wholesale platform, commercial services, verification claims, and corporate disclosures.
