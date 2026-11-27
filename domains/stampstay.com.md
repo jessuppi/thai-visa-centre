@@ -335,6 +335,43 @@ The operator should distinguish consular visa issuance from immigration admissio
 
 Obtaining an appropriate visa may genuinely improve a traveler's circumstances. The available evidence does not establish that StampStay's recommendations are ineffective or that any customer has suffered an additional refusal because of this guidance.
 
+## Incomplete Overstay Penalties and Statutory Blacklisting Exemptions
+
+StampStay's March 7, 2026 publications concerning overstay penalties and immigration blacklisting provide incomplete explanations of Thailand's statutory re-entry restrictions.[^22][^23]
+
+### Incomplete Penalty Schedule
+
+Both publications emphasize a minimum five-year entry ban for apprehended overstayers without clearly identifying the specific ten-year penalty applicable to longer overstays.
+
+Section 2 of Ministry of Interior Order 1/2558 establishes the following restrictions for foreigners arrested and prosecuted for overstaying:[^24]
+
+- Overstay not exceeding one year: five-year entry ban.
+- Overstay exceeding one year: ten-year entry ban.
+
+Both periods commence upon departure from Thailand.
+
+### Omitted Exemption for Children
+
+Section 3 of the same order expressly exempts foreigners who depart Thailand before reaching 18 years of age.
+
+Neither StampStay publication explains this exemption.
+
+The Tourism Authority of Thailand also explicitly identifies this exception in its February 15, 2016 announcement.[^25]
+
+### Incorrect Voluntary Departure Threshold
+
+StampStay identifies 90 days as the threshold triggering a one-year entry ban.
+
+However, Section 1.1 of the original order specifies an overstay exceeding 90 days rather than exactly 90 days.
+
+### Commercial Accountability
+
+StampStay promotes commercial immigration risk assessments alongside publications that omit important statutory distinctions and exemptions.
+
+The operator should distinguish the general penalty schedule from applicable exceptions and accurately reproduce the thresholds established by the governing legislation.
+
+The available evidence does not establish that any customer has received an incorrect individual assessment or suffered financial losses because of these omissions.
+
 ## References
 
 [^1]: `https://www.stampstay.com/`
@@ -370,3 +407,11 @@ Obtaining an appropriate visa may genuinely improve a traveler's circumstances. 
 [^20]: https://mumbai.thaiembassy.org/en/publicservice/59444-what-does-the-visa-expiration-date-mean — Official consular guidance concerning visa validity and admission.
 
 [^21]: https://helsinki.thaiembassy.org/en/publicservice/information-about-visa-and-validity-of-stay-permit — Official embassy guidance concerning immigration officers' continuing authority to refuse admission.
+
+[^22]: https://www.stampstay.com/blog/thailand/entry-patterns/overstay-consequences — Published March 7, 2026.
+
+[^23]: https://www.stampstay.com/blog/thailand/entry-patterns/immigration-blacklist — Published March 7, 2026.
+
+[^24]: https://www.pattaniimmigration.go.th/files/com_networknews/2018-05_a7270aa7cfdfde1.pdf — Ministry of Interior Order 1/2558, November 27, 2015, published in the Royal Gazette on December 21, 2015.
+
+[^25]: https://www.tatnews.org/2016/02/thailand-to-reinforce-re-entry-ban-on-overstay-foreign-visitors/ — Tourism Authority of Thailand, February 15, 2016.
