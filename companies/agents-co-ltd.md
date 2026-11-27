@@ -258,6 +258,43 @@ The available evidence does not establish unlicensed insurance brokerage, unauth
 
 Nevertheless, the documented partnerships demonstrate that AGENTS' immigration platforms also function as distribution channels for regulated commercial products.
 
+### Affiliate Commissions and Statutory Brokerage Responsibilities
+
+AGENTS' published Terms & Conditions expressly acknowledge that the company may receive affiliate commissions when customers purchase products through links on its website.[^24]
+
+However, the agreement does not identify which commercial relationships generate commissions or whether its integrated insurance offerings fall within these arrangements.
+
+Section 4 of Thailand's Non-Life Insurance Act B.E. 2535 defines insurance brokerage to include commission-based activities involving the identification or arrangement of opportunities to enter into insurance contracts.
+
+Section 63 establishes licensing requirements for non-life insurance agents and brokers, while Sections 66 and 66/2 establish authorization and documentation requirements concerning the collection of insurance premiums.[^42]
+
+Consequently, describing an insurance distribution arrangement as affiliate marketing does not independently resolve its regulatory classification.
+
+### Omitted Insurance Refund Conditions
+
+As examined on November 27, 2026, AGENTS' published Refund Policy specifically addressed four commercial service categories:
+
+- Early TDAC submissions.
+- VIP airport arrival assistance.
+- Airport transportation.
+- Electronic SIM cards.
+
+Despite the company's promotion of integrated travel insurance purchases through its TDAC platform, the policy contained no corresponding insurance cancellation or refund provisions.[^20][^43]
+
+Customers are therefore left without a service-specific explanation in this document identifying the responsible party for insurance refunds, policy amendments or cancellations.
+
+### Identifying the Responsible Licensed Intermediary
+
+Bolttech's Thai customer portal identifies Bolttech Insurance Broker (Thailand) Co., Ltd. and publishes non-life insurance brokerage licence number 00017/2559.[^22]
+
+The distinction between Bolttech's licensed brokerage activities and AGENTS' commercial customer-acquisition activities should be clearly communicated to travelers purchasing insurance through the integrated TDAC platform.
+
+**AGENTS acknowledges receiving affiliate commissions while leaving the regulatory and contractual responsibilities associated with its integrated insurance distribution arrangements insufficiently explained in its general public policies.**
+
+The company should identify the responsible licensed intermediary, clarify applicable commission arrangements and explain how customers can obtain insurance refunds or request policy amendments.
+
+The available evidence does not establish that AGENTS receives insurance-specific commissions, directly collects insurance premiums or conducts unlicensed insurance brokerage.
+
 ## International Travel Industry Promotion and Government Platform Confusion
 
 ### June 2025: Promotion Through Travel Daily Media
@@ -480,3 +517,7 @@ The available evidence does not establish that AGENTS has unlawfully retained pe
 [^40]: `https://esimcard.in.th/en/policy/terms-and-conditions`
 
 [^41]: https://library.siam-legal.com/thai-law/personal-data-protection-act-general-provisions-sections-1-7/ — Personal Data Protection Act, Section 6.
+
+[^42]: https://oiceservice.oic.or.th/document/File/Law/368/a9379755-e613-450a-a31a-a7bc8e59d53c.%203%202558%29.pdf — Non-Life Insurance Act B.E. 2535, unofficial English translation hosted by the Office of Insurance Commission, particularly Sections 4, 63, 66 and 66/2.
+
+[^43]: https://agents.co.th/tdac-apply/policy/refund/ — AGENTS Refund Policy, last updated May 15, 2025, examined November 27, 2026.
