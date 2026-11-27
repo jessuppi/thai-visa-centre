@@ -334,6 +334,24 @@ These contradictory statements concern the same commercial TDAC service and unde
 
 The combination of inconsistent pricing information and aggressive accusations against critical reviewers is especially concerning for a private service that collects travelers' sensitive immigration information while promoting itself as a trusted alternative to the free government system.
 
+### Review Moderation and Commercial Accountability
+
+AGENTS' October 2026 responses to negative Trustpilot reviews demonstrate the risks associated with treating unfavorable customer feedback as evidence of coordinated harassment.[^30]
+
+Businesses have legitimate reasons to challenge fabricated reviews and report suspected manipulation through a review platform's moderation procedures.
+
+However, publicly associating individual reviewers with alleged criminal activity without providing review-specific evidence is materially different from requesting an independent assessment of review authenticity.
+
+The operator's subsequent acknowledgment that a negative review might have been incorrectly classified illustrates the potential consequences of this approach.
+
+**AGENTS promotes consumer trust through publicly available reviews while simultaneously challenging unfavorable feedback through allegations that are not substantiated within its individual responses.**
+
+This conduct should also be considered alongside the documented restrictions on sponsor criticism within [ASEAN NOW](../brands/asean-now.md).
+
+The two platforms operate under different moderation arrangements, but both examples demonstrate why publicly visible feedback should not automatically be considered a comprehensive representation of customer experiences.
+
+The available evidence does not establish that every negative review was genuine, that AGENTS successfully removed legitimate reviews, or that Trustpilot imposed sanctions against the business.
+
 ## Contradictory Uptime Advertising and Unsupported Submission Guarantees
 
 As of November 27, 2026, AGENTS' commercial TDAC comparison continued questioning the reliability of Thailand's official government registration platform while presenting its own service as reliable.[^5]
