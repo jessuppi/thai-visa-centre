@@ -318,6 +318,46 @@ AGENTS should distinguish national minimum requirements from the specific requir
 
 The available evidence does not establish that applicants have lost application fees or received visa refusals because of these discrepancies.
 
+## Incomplete United States Application Requirements
+
+As of November 27, 2026, AGENTS continued publishing a dedicated Destination Thailand Visa application guide for the United States alongside its unofficial qualification test and promotion of Thai Visa Centre's commercial immigration services.[^22]
+
+However, the guide omits several important requirements published by the Royal Thai Consulate-General in Los Angeles, whose official instructions were updated on October 1, 2026.[^23]
+
+### FBI Criminal-Record Certificates
+
+AGENTS describes the criminal-record requirement without identifying the specific issuing authority or applicable document validity period.
+
+The Los Angeles consulate expressly requires an FBI criminal-record certificate issued within the preceding three months.
+
+A generic criminal-record certificate does not necessarily satisfy this requirement.
+
+### Additional Muay Thai Certification Requirements
+
+AGENTS' United States guide describes confirmation of participation in an eligible soft-power activity as supporting evidence for DTV applications.
+
+However, the Los Angeles consulate specifically requires Muay Thai applicants to provide an official acceptance and support letter from the Sports Authority of Thailand, together with documentation from a gym certified by that authority.
+
+AGENTS discusses government certification in connection with extensions of stay inside Thailand but does not identify this additional requirement for initial visa applications processed in Los Angeles.
+
+Consequently, prospective applicants could incorrectly assume that an ordinary gym enrollment letter is sufficient.
+
+### Foreign Document Certification
+
+The consulate additionally requires supporting documents issued outside Thailand and the United States to undergo certified English translation and specified official notarization procedures.
+
+AGENTS' country-specific guide does not explain these documentary requirements.
+
+### Commercial Significance
+
+Although AGENTS acknowledges that individual diplomatic missions may impose additional requirements, its dedicated United States guide primarily reproduces general national eligibility criteria.
+
+**The website promotes professional visa assistance and unofficial qualification testing without adequately distinguishing general eligibility from the specific documentary requirements imposed by individual American consular offices.**
+
+These omissions are particularly significant for applicants purchasing Muay Thai training packages or obtaining time-sensitive criminal-record documentation.
+
+The available evidence does not establish that any customer has purchased an unsuitable training package, submitted unacceptable documentation or suffered a visa refusal because of these omissions.
+
 ## References
 
 [^1]: `https://dtv.in.th/`
@@ -352,6 +392,10 @@ The available evidence does not establish that applicants have lost application 
 [^20]: https://london.thaiembassy.org/en/page/how-to-apply-for-a-thai-e-visa — Official application procedures for residents of the United Kingdom, Ireland and British Overseas Territories.
 
 [^21]: https://dtv.in.th/country/united-kingdom — AGENTS' country-specific British DTV application guide.
+
+[^22]: https://dtv.in.th/country/united-states — AGENTS' United States DTV application guide, reviewed November 27, 2026.
+
+[^23]: https://thaiconsulatela.thaiembassy.org/en/publicservice/dtv-visa — Royal Thai Consulate-General, Los Angeles, official DTV application requirements, updated October 1, 2026.
 
 ### Additional Existing Sources
 
