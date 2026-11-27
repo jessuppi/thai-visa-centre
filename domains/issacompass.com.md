@@ -825,6 +825,42 @@ Both versions of the guidance remained publicly accessible when examined on Nove
 
 **Issa Compass's contradictory publications demonstrate deficiencies in the accuracy and consistency of its financial information, despite its marketing of professionally reviewed immigration assistance.**
 
+## Prohibiting Customer Review of Prepared Immigration Applications
+
+Issa Compass's Terms of Service, last updated November 24, 2026, expressly prohibit customers using its assisted-submission services from inspecting or approving application materials prepared on their behalf before submission to immigration authorities.[^8]
+
+Section 6.8(a) states that customers cannot:
+
+> view, review, comment on or approve the application forms, cover letters, declarations or other materials
+
+This restriction extends beyond the protection of proprietary internal assessment methods and includes documents submitted to government authorities on behalf of individual applicants.
+
+### Contradictory Consumer Advice
+
+In a separate educational article concerning incorrect e-visa submissions, Issa Compass advises applicants to inspect generated application documents, verify their personal information and identify errors before final submission.[^57]
+
+The article emphasizes that inaccurate submissions can result in rejection, additional applications and the loss of non-refundable government fees.
+
+However, the company's contractual restrictions prevent its assisted-submission customers from independently performing these same checks on materials prepared by Issa Compass.
+
+### Refund Restrictions and Customer Responsibility
+
+Section 6.8(e) expressly establishes that customers' inability to inspect or approve submission materials does not constitute grounds for a refund.
+
+Section 6.6 separately places responsibility on customers for the accuracy and completeness of information and documents they provide.
+
+Although these provisions address different responsibilities, their combined effect raises legitimate concerns about applicants' ability to identify errors introduced during application preparation.
+
+### Commercial Accountability
+
+**Issa Compass advises applicants to verify immigration documents before submission while contractually denying its assisted-submission customers that same opportunity.**
+
+The company should distinguish confidential internal working materials from government-facing applications and provide customers with a meaningful opportunity to verify declarations submitted in their names.
+
+The contractual restriction does not apply to self-submission plans and expressly preserves applicable statutory data protection rights.
+
+The available evidence does not establish that Issa Compass has submitted inaccurate or unauthorized declarations on behalf of particular customers.
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -929,3 +965,5 @@ Both versions of the guidance remained publicly accessible when examined on Nove
 [^55]: https://www.rd.go.th/fileadmin/user_upload/lorkhor/newspr/2024/FOREIGNERS_PAY_TAX2024.pdf — Thai Revenue Department, *How Do Foreigners Living in Thailand Pay Tax?*, particularly pages 2–4.
 
 [^56]: `https://www.issacompass.com/insights/thailand-tax-residency-and-money-for-new-arrivals` — Ana Liangsupree, published November 4, 2026, updated November 13, 2026.
+
+[^57]: https://www.issacompass.com/insights/what-happens-if-you-submit-the-wrong-file-format-on-a-thailand-e-visa-portal — Issa Compass consumer guidance concerning application verification and submission errors, reviewed November 27, 2026.
