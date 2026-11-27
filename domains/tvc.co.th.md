@@ -6672,6 +6672,35 @@ It does establish that the company's published guide fails to distinguish recomm
 
 A business advertising referrals for professional franchise-law services should accurately explain the obligations and protections applicable to both franchisors and franchisees.
 
+### November 2026 Update: TVC Adds Irrelevant Legal Citations to Its Franchise Guidance
+
+As of November 27, 2026, Thai Visa Centre's franchise-law guide incorporated ten official legislative references without resolving its previously documented regulatory inaccuracies.[^483]
+
+Its expanded reference table includes:
+
+- Family Registration Act B.E. 2478.
+- Ministry of Interior Regulation on Family Registration (No. 4), 2025.
+- Immigration reporting regulations.
+- Thailand Digital Arrival Card regulations and tourism guidance.
+
+Although foreign-business and employment legislation can be relevant to foreign franchise operators, the article's family-registration references accompany an unrelated section explaining administrative divorce procedures.
+
+More significantly, its ten-document reference table does not include the Trademark Act, Trade Competition Act, or the Trade Competition Commission's franchise-specific regulations.
+
+On November 9, 2026, established Thai law firm Tilleke & Gibbins published its contribution to the 2027 International Comparative Legal Guide on franchising, addressing the actual regulatory framework governing franchise relationships in Thailand.[^694]
+
+The applicable competition rules include precontractual disclosure obligations and priority protections for existing franchisees when nearby outlets are proposed.[^486][^487]
+
+**Thai Visa Centre has supplemented its franchise guidance with official legislative citations concerning divorce and immigration procedures while omitting the specific regulations governing the commercial relationships it purports to explain.**
+
+The expanded citation table reinforces the appearance of legal research without resolving the article's substantive deficiencies.
+
+This also provides additional evidence of the previously documented problem involving unrelated administrative-divorce content appearing throughout TVC's commercial legal guides.
+
+Whether these citation assignments result from automated content generation, template reuse, or inadequate editorial oversight remains unverified.
+
+Nevertheless, the presence of official government documents should not be mistaken for evidence that the accompanying legal advice has been competently researched or reviewed.
+
 ## Misleading Estate-Planning, Inheritance, and Probate Requirements
 
 Thai Visa Centre's estate-planning and probate publications misstate three connected issues: whether statutory heirs must receive reserved inheritance shares despite a valid will, whether licensed Thai lawyers are universally required to prepare wills, and whether foreign estate administrators or heirs must use Thai co-executors and court-appointed administrators. Together, the errors present lawful estate-planning and property-transfer options as more restrictive or dependent on paid professional services than the governing rules generally require.
@@ -11981,3 +12010,5 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^692]: https://tvc.co.th/guides/thailand-service-inter-country-adoption-in-thailand — Additional adoption guide containing incorrect court requirements and five legislative references. Indexed November 27, 2026.
 
 [^693]: https://tvc.co.th/law/foreign-business — Thai Visa Centre's Foreign Business Act legal archive, including its 231-document reference table and government anti-nominee enforcement reports. Retrieved November 27, 2026.
+
+[^694]: https://www.tilleke.com/insights/iclg-franchise-thailand/ — Tilleke & Gibbins, *ICLG: Franchise 2027 – Thailand*, published November 9, 2026.
