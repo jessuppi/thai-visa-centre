@@ -367,6 +367,40 @@ The company should provide clear portal-specific privacy disclosures, identify t
 
 The available evidence does not establish unauthorized employee access, improper retention of immigration documents, a data breach or failure to report an actual security incident.
 
+## Missing Privacy Notices at the Point of Personal Data Collection
+
+As of November 27, 2026, Thai Visa Centre's publicly accessible client portal requests customers' email addresses or Thai telephone numbers to initiate authentication.[^1]
+
+However, the examined sign-in page does not display direct links to the company's Privacy Policy, Data Protection Policy or Terms & Conditions.
+
+### Privacy Disclosures Before Authentication
+
+Section 23 of Thailand's Personal Data Protection Act generally requires data controllers to inform individuals about relevant processing arrangements before or at the time their personal information is collected, unless those individuals already know the required details.[^12]
+
+These disclosures include processing purposes, retention periods, potential recipients, the controller's identity and applicable personal-data rights.
+
+The client portal directs visitors to Thai Visa Centre's main commercial website for company information but does not directly identify the privacy documentation governing authentication and subsequent case management.
+
+### Inconsistent Presentation Across Affiliated Websites
+
+Thai Visa Centre's Android and iPhone client portal installation guides provide direct links to its legal policies within their footers.[^10][^11]
+
+However, the separate authentication website does not display equivalent links.
+
+Customers accessing the portal directly or launching it through an installed home-screen application may therefore encounter a different presentation of the company's legal disclosures.
+
+### Contractual Acceptance Without Direct Policy Access
+
+Thai Visa Centre's general Privacy Policy states that using its services constitutes acknowledgment and acceptance of the policy.[^3]
+
+**The business claims contractual acceptance through service usage while its publicly accessible client portal does not directly present the relevant agreement at the initial personal-information entry screen.**
+
+Contractual acceptance also does not independently establish valid consent for every subsequent processing purpose under Thailand's PDPA.
+
+The company should provide directly accessible privacy and contractual notices at authentication, clearly identify the responsible registered entity and explain which processing purposes apply to customer contact information and immigration records.
+
+The available evidence does not establish that existing customers have never received appropriate privacy notices or that the company has violated the PDPA in particular transactions.
+
 ## References
 
 [^1]: `https://evisa.tvc.co.th/`
