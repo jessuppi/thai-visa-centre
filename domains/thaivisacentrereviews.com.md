@@ -260,6 +260,32 @@ The publisher should disclose its dataset source, editorial selection criteria a
 
 The available evidence does not establish that the reviews are fabricated, that the CSV was supplied directly by Thai Visa Centre, or that the agency owns the third-party domain.
 
+## Limitations of Local Guide Status as Review Verification
+
+As examined on November 28, 2026, the third-party Thai Visa Centre review website prominently identifies 685 Local Guide reviews as a trust signal within its imported dataset of 1,795 reviews.[^1]
+
+Approximately 38% of the imported reviews carry this designation, while all six testimonials selected for prominent homepage presentation are attributed to Local Guides.
+
+### Google Local Guide Status Does Not Verify Customer Transactions
+
+Google's official documentation explains that Local Guide badges are awarded according to accumulated contribution points.[^16]
+
+Participants earn points through various activities, including publishing photographs, submitting reviews, editing business information, answering questions and adding locations.
+
+The first Local Guide badge becomes available at Level 4, requiring 250 contribution points.
+
+This designation does not independently establish that a contributor purchased a particular immigration service, supplied accurate information or possesses professional expertise concerning immigration procedures.
+
+Google separately prohibits fabricated, incentivized and otherwise manipulated customer reviews.[^17]
+
+### Commercial Significance
+
+The review website emphasizes Local Guide participation without explaining the distinction between platform participation and independent customer verification.
+
+The publisher should distinguish contributor status from verified transactions and explain whether any additional authentication procedures were applied to the imported testimonials.
+
+The available evidence does not establish that the featured Local Guides published fabricated reviews or received compensation from Thai Visa Centre.
+
 ## References
 
 [^1]: `https://www.thaivisacentrereviews.com/`
@@ -285,3 +311,7 @@ The available evidence does not establish that the reviews are fabricated, that 
 [^14]: https://tvc.co.th/reviews/retirement?page=2 — Thai Visa Centre retirement visa review archive, including the March 10, 2026 review.
 
 [^15]: https://tvc.co.th/reviews/fake-reviews — Thai Visa Centre Review Transparency Report and downloadable CSV, examined November 27, 2026.
+
+[^16]: https://support.google.com/maps/answer/6225851?hl=en — Google's official Local Guides points, levels and badge requirements.
+
+[^17]: https://support.google.com/contributionpolicy/answer/7400114 — Google's official restrictions concerning fake engagement and misleading reviews.
