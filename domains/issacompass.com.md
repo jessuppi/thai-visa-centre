@@ -1035,6 +1035,34 @@ Issa Compass should publish the methodology supporting its advertised success ra
 
 The available evidence does not establish that the reported approval rate is false or that the company deliberately manipulated its statistics.
 
+## Unclear Multi-Factor Authentication and Encryption Assurances
+
+Issa Compass's security page promotes Google-powered authentication and encryption as safeguards for customers submitting passports, financial statements and other sensitive immigration documents.[^60]
+
+### Google Authentication Versus Mandatory MFA
+
+The company advertises multi-factor authentication through Google Sign-In.
+
+However, Google's official developer documentation distinguishes ordinary federated authentication from authentication events involving multiple factors.[^72]
+
+Google account holders may configure different authentication methods, and additional authentication-strength information is not necessarily returned to applications by default.
+
+Issa Compass does not publicly explain whether it requires MFA for every customer account or merely benefits from the security settings of customers' existing Google accounts.
+
+### Incorrect Encryption Terminology
+
+The company's security page describes personal information as encrypted both at rest and in transit using TLS.
+
+TLS protects information during transmission. Google Cloud separately documents its use of AES encryption for stored information.[^73]
+
+The company's explanation therefore conflates two distinct security mechanisms.
+
+### Commercial Accountability
+
+Given the sensitivity of immigration documents, Issa Compass should accurately explain its authentication requirements and distinguish cloud infrastructure protections from application-specific security controls.
+
+The available evidence does not establish that customer accounts lack MFA protection, that stored documents are unencrypted, or that any customer information has been compromised.
+
 ## References
 
 [^1]: `https://www.issacompass.com/`
@@ -1171,3 +1199,7 @@ All three sources were examined on November 27, 2026.
 [^70]: https://www.issacompass.com/insights/inside-issa-compass-how-our-ai-verification-engine-catches-the-visa-requirements — Comparison of indexed and more recently retrieved content.
 
 [^71]: https://www.issacompass.com/insights/what-happens-to-your-money-if-your-thai-visa-gets-rejected-refund-policies-guara — Published April 29, 2026, updated November 14, 2026.
+
+[^72]: https://developers.google.com/identity/siwg/security-bundle — Google's official authentication-strength and session-security documentation.
+
+[^73]: https://docs.cloud.google.com/docs/security/encryption/default-encryption — Google Cloud's official documentation concerning encryption at rest.
