@@ -7586,6 +7586,57 @@ Thai Visa Centre should revise its divorce publications to:
 
 These corrections would provide materially more accurate information to couples making significant legal, financial, and immigration decisions.
 
+### November 2026 Update: TVC Invents Divorce Requirements and Retains Obsolete Gender Distinctions
+
+Thai Visa Centre's divorce-law guide and separate FAQ concerning statutory grounds for divorce publish materially inaccurate descriptions of Thailand's family law.[^351][^696]
+
+Both publications suggest that spouses separating without mutual consent must wait five years before pursuing divorce on separation grounds.
+
+However, Section 1516(4/2) of Thailand's Civil and Commercial Code establishes two qualifying separation scenarios:
+
+- Voluntary separation exceeding three years because the spouses cannot live together peacefully.
+- Separation pursuant to a court order exceeding three years.
+
+**The legislation does not establish the alternative five-year separation requirement advertised by Thai Visa Centre.**[^242][^353]
+
+Other statutory grounds, including intentional desertion exceeding one year, may independently permit divorce proceedings where the relevant conditions are satisfied.
+
+TVC's inaccurate guidance could therefore cause individuals to believe they must remain legally married substantially longer than necessary.
+
+#### Obsolete Gender-Specific Divorce Guidance
+
+TVC's divorce FAQ also distinguishes a husband maintaining another woman as his wife from adultery committed by a wife.
+
+However, Thailand's Civil and Commercial Code Amendment Act (No. 24), B.E. 2567, which took effect on January 23, 2025, established gender-neutral language governing statutory divorce grounds.
+
+The amended Section 1516(1) applies to either spouse, including circumstances involving adultery or maintaining another person as a spouse.[^242]
+
+TVC's publication, presented as guidance for June 2026, therefore retains an obsolete gender-specific distinction more than a year after the legislation took effect.
+
+#### Misrepresentation of Marital Breakdown as an Independent Ground
+
+Both publications additionally describe a broken marital relationship as an independent divorce ground.
+
+Section 1516 does not establish a general ground of irretrievable marital breakdown.
+
+Its subsection (8) instead concerns breach of a written undertaking regarding conduct.
+
+Although circumstances surrounding marital breakdown may satisfy other enumerated statutory grounds, the distinction is legally significant.
+
+#### Expanded Legislative References Do Not Substantiate the Claims
+
+As of November 27, 2026, TVC's divorce FAQ displayed seven Royal Gazette and official legislative references.
+
+These include family-registration legislation, immigration regulations, and two instruments specifically concerning the Destination Thailand Visa.
+
+However, the reference table does not identify the Civil and Commercial Code's statutory grounds for divorce or the amendment establishing gender-neutral divorce provisions.
+
+**Thai Visa Centre continues publishing incorrect family-law guidance while presenting an expanded collection of official documents that do not substantiate its claims about divorce eligibility.**
+
+These inaccuracies could affect decisions concerning separation, remarriage, financial arrangements, and immigration status.
+
+The available evidence does not establish that any particular customer delayed divorce proceedings or incurred financial losses because of these publications.
+
 ### Commercial Significance for International Couples
 
 TVC's guidance does not consistently distinguish ordinary civil registration from contested legal proceedings or optional professional advice from compulsory statutory requirements. Eligible couples can pursue administrative marriage registration directly, while requirements for remarriage, prenuptial registration, and consensual divorce depend on the applicable law and the couple's circumstances. A lawyer may be useful for complex documents, disputed rights, or litigation without being a universal prerequisite for straightforward registry procedures.
@@ -12056,3 +12107,5 @@ These errors can result in unnecessary travel, delayed applications, wasted non-
 [^694]: https://www.tilleke.com/insights/iclg-franchise-thailand/ — Tilleke & Gibbins, *ICLG: Franchise 2027 – Thailand*, published November 9, 2026.
 
 [^695]: https://www.thailawonline.com/th/thai-civil-code/section-1630/ — Civil and Commercial Code, Section 1630, Thai statutory text and English translation, updated November 6, 2026.
+
+[^696]: https://tvc.co.th/faq/what-are-the-grounds-for-divorce-in-thailand — Thai Visa Centre's divorce-grounds FAQ, including its seven-document legislative reference table. Retrieved November 27, 2026.
