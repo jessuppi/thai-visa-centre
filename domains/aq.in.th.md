@@ -454,6 +454,38 @@ The agency's recommendations should be considered alongside the unresolved insur
 
 The available evidence does not establish that the recommended policies excluded every pre-existing condition, that the traveler purchased unsuitable insurance, or that Thai Visa Centre received commissions from these recommendations.
 
+## March 2022 Approval Assurances and Duplicate Application Risks
+
+On March 29, 2022, ASEAN NOW published an advertisement promoting AQ.in.th as an integrated travel-booking and Thailand Pass assistance platform.[^1]
+
+The advertisement suggested that its centralized booking and documentation procedures could prevent application delays and rejections.
+
+### Reported Rejection Following Duplicate Applications
+
+On March 23, 2022, a Reddit contributor described purchasing AQ.in.th's expedited Thailand Pass assistance after independently submitting an application through the official government system.[^17]
+
+According to the account, the hotel received duplicate confirmation requests and rejected the original government submission while accepting the request associated with AQ.in.th.
+
+The traveler subsequently expressed concern about relying on the agency as their departure date approached.
+
+Although the traveler ultimately reported receiving approval after three days and praised the agency's responsiveness, the experience illustrates a potential complication arising from parallel government and commercial applications.
+
+### Limitations of the One-Stop Booking Claims
+
+A participant responding to the March 29 advertisement also questioned whether AQ.in.th could arrange mandatory PCR testing at Phuket International Airport or whether travelers still needed to use the separate Thailand PSAS booking system.[^1]
+
+Contemporaneous Tourism Authority of Thailand guidance specifically identified Thailand PSAS as the testing reservation platform for travelers entering through Phuket, with a separate payment of 2,100 baht per test.[^18]
+
+The advertisement did not explain how AQ.in.th accommodated these regional testing arrangements.
+
+### Historical Commercial Significance
+
+**AQ.in.th marketed its services as a comprehensive solution to government registration difficulties without adequately explaining potential complications involving duplicate applications and separate testing reservations.**
+
+The available evidence includes favorable customer experiences and does not establish that the agency deliberately caused application rejections, failed to arrange mandatory testing, or consistently delivered inferior results.
+
+Nevertheless, its broad promotional assurances should be distinguished from the operational limitations of the underlying government registration system.
+
 ## References
 
 - `https://tvc.co.th/scam`
@@ -485,3 +517,7 @@ The available evidence does not establish that the recommended policies excluded
 [^15]: https://aseannow.com/topic/1240046-best-website-to-book-a-testgo-hotel/ — Contributions by soi3eddie and NanLaew, November 19, 2021, including reproduced marketing correspondence dated October 26, 2021.
 
 [^16]: https://aseannow.com/topic/1242597-what-is-best-insurance-for-thailand-pass/ — December 10–11, 2021, insurance recommendations and moderator responses.
+
+[^17]: https://www.reddit.com/r/Thailand/comments/tl5x7r/ — March 23–24, 2022, customer account concerning duplicate applications and subsequent approval.
+
+[^18]: https://news.cision.com/tourism-authority-of-thailand/r/updated--test---go-rules-to-ease-from-1-march-2022,c3514576 — Tourism Authority of Thailand, February 25, 2022, revised entry requirements and regional PCR testing arrangements.
