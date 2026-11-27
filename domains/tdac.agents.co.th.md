@@ -182,6 +182,46 @@ Although advance registration remains advisable, travelers should not be led to 
 
 AGENTS should clearly identify available government assistance, accurately communicate registration exemptions, and reconcile its contradictory group-capacity claims.
 
+## Contradictory Editing Claims and Last-Minute Correction Restrictions
+
+As of November 27, 2026, AGENTS continued advertising superior TDAC editing capabilities compared with Thailand's official Immigration Bureau platform.[^17][^21]
+
+Its commercial comparison describes the government system as providing partial editing support while identifying its own service as providing full support.
+
+### Restrictions on Same-Day Corrections
+
+Despite advertising the ability to modify submissions at any time, the company's own TDAC guide expressly states:
+
+> Same-day edits are not permitted.
+
+The guide also states that edits are permitted only when the arrival date is more than one day away.[^17]
+
+These restrictions are not disclosed in the company's commercial feature-comparison table.
+
+### Government Allows Corrections Before Entry
+
+Thailand's Immigration Bureau expressly permits travelers to update incorrect information or submit a replacement arrival card before entering Thailand.[^18]
+
+Its official FAQ specifically addresses changes to flights and accommodation arrangements.
+
+Although certain personal identifiers cannot be modified through the government's editing function, travelers may submit a replacement declaration containing the correct information.
+
+The most recent valid submission takes precedence.
+
+**AGENTS advertises superior editing capabilities while imposing a documented restriction on last-minute corrections that is not identified in the government's published guidance.**
+
+### Commercial Significance
+
+Travelers purchasing advance TDAC assistance may subsequently experience flight cancellations, accommodation changes or other unexpected disruptions shortly before arrival.
+
+The company's advertised editing advantage is particularly relevant in these circumstances.
+
+AGENTS should disclose its editing restrictions prominently and explain that travelers can use the free government platform to submit corrected information before entry.
+
+The available evidence does not establish that customers have been unable to obtain corrected arrival cards or suffered travel disruptions because of these restrictions.
+
+Nevertheless, the published comparison does not accurately communicate the limitations of the commercial service.
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
