@@ -321,6 +321,30 @@ This provides additional context for the publisher's repeated promotion of Thai 
 
 The available evidence does not establish that Thai Visa Centre purchased these particular advertising packages, that the advertised search-ranking guarantees were fulfilled, or that Google imposed any penalties.
 
+## Insurance Lead Generation Through Sponsored Immigration Coverage
+
+As examined on November 27, 2026, The Thaiger's September 24, 2025 sponsored article promoting AGENTS CO., LTD.'s integrated TDAC and insurance services contained a travel insurance hyperlink directing readers to the publisher's own commercial insurance enquiry page.[^4][^29]
+
+The destination page solicits prospective customers' names, email addresses, telephone numbers and information concerning their circumstances.
+
+The accompanying consent provision authorizes the publisher to transfer contact information to an unnamed specialist partner.
+
+### Commercial Transparency
+
+Although the sponsored article identifies Tune Protect and Bolttech as participants in AGENTS' insurance distribution arrangements, the publisher's own enquiry form does not identify its intended insurance referral recipient.
+
+Nor does it explain whether the publisher receives compensation for generating insurance inquiries.
+
+The destination page does correctly explain that insurance purchases offered alongside TDAC submissions are optional and do not constitute a general tourist entry requirement.
+
+### Commercial Significance
+
+**The Thaiger's sponsored immigration coverage also provides a pathway into its own commercial insurance customer-acquisition system.**
+
+This arrangement should be considered alongside the publisher's previously documented visa referral forms and its associated technology company's commercial relationship with AA Insurance Brokers.[^21]
+
+The available evidence does not establish that AGENTS authorized the current hyperlink destination, that AA Insurance Brokers receives these particular inquiries, or that the publisher receives commissions from resulting insurance purchases.
+
 ## References
 
 [^1]: https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand
@@ -371,3 +395,5 @@ The available evidence does not establish that Thai Visa Centre purchased these 
 [^27]: https://thethaiger.com/advertise — Earlier indexed advertising material, examined November 27, 2026; the live address redirected to the publisher's advertising guidelines.
 
 [^28]: https://developers.google.com/search/docs/fundamentals/do-i-need-seo — Google Search Central, official guidance concerning guaranteed rankings and search optimization providers.
+
+[^29]: https://thethaiger.com/insurance/travel/ — Travel insurance guide and commercial enquiry form, examined November 27, 2026.
