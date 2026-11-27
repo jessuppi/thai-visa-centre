@@ -116,6 +116,40 @@ Consequently, favorable discussion content should not automatically be treated a
 
 The available evidence does not establish that Thai Visa Centre purchased favorable moderator statements or that its sponsorship agreement included specific censorship provisions.
 
+## May 2026 Sponsor Referrals and Restrictions on Visa Legality Discussions
+
+On May 13, 2026, an ASEAN NOW member sought recommendations concerning Thai Visa Centre, explicitly acknowledging that he lacked the 800,000 baht ordinarily required under the bank-deposit route for retirement extensions.[^14]
+
+The following day, global moderator DrJack54 recommended contacting Thai Visa Centre directly and indicated an approximate price of 16,000 baht.
+
+Thai Visa Centre subsequently participated as a designated Forum Sponsor, advertising its annual extension services for approximately 16,000 baht and referring the prospective customer to its private communication channels for an individualized assessment.
+
+### Moderators Discourage Scrutiny of Legal Compliance
+
+On May 15, another forum participant suggested that the applicant should satisfy the applicable legal requirements before pursuing an extension.
+
+DrJack54 responded:
+
+> Thread is not about legality or otherwise of use of agent.
+
+The moderator subsequently announced the removal of off-topic posts.
+
+On May 17, another participant questioned whether the agency could lawfully assist someone who did not satisfy the financial requirements.
+
+DrJack54 acknowledged that some customers used agents to avoid financial requirements, while continuing to direct participants back toward the original question.
+
+Global moderator BrandonJT separately asserted that immigration officers possessed full discretion to approve extensions without normally required financial evidence. Another participant challenged that interpretation.
+
+### Commercial and Editorial Accountability
+
+**ASEAN NOW permitted its commercial sponsor to advertise immigration assistance to a prospective customer who acknowledged a financial shortfall, while a moderator discouraged discussion of the legality of the underlying arrangements.**
+
+The exchange provides further evidence that the concerns documented in November 2025 continued into May 2026.
+
+Some critical comments remained publicly visible. The available evidence does not establish that all removed posts concerned Thai Visa Centre, that the agency obtained an extension for this particular applicant, or that any immigration officer accepted an improper payment.
+
+Nevertheless, questions concerning legal compliance are directly relevant to prospective customers evaluating paid immigration assistance and should not automatically be treated as irrelevant to commercial recommendations.
+
 ## References
 
 [^1]: https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand
@@ -135,3 +169,5 @@ The available evidence does not establish that Thai Visa Centre purchased favora
 [^12]: `https://aseannow.com/topic/1325695-more-pop-ups-is-not-a-good-start-to-this-forums-new-owners/` — April 23, 2024, reaffirmation of Rule 37 following The Thaiger's acquisition.
 
 [^13]: https://thethaiger.com/guides/digital-marketing/maximise-your-brands-visibility-with-asean-now-partnership — September 4, 2025, commercial advertising packages and sponsored community participation.
+
+[^14]: https://aseannow.com/topic/1394428-looking-for-a-retirement-visa-vis-agent/ — ASEAN NOW discussion beginning May 13, 2026, including Thai Visa Centre's commercial participation and moderator statements.
