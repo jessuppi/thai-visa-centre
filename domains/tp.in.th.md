@@ -236,6 +236,42 @@ The reported successful intervention should nevertheless be distinguished from i
 
 The available records do not establish how Thai Visa Centre resolved the pending application, whether the approval resulted directly from its intervention, or whether the recommending moderator received compensation.
 
+## May 2022 Insurance Referrals and Policy Amendment Complaints
+
+On May 5, 2022, Thai Visa Centre responded to complaints concerning Thailand Pass insurance purchasing difficulties by promoting an MSIG insurance product through its affiliated AQ.in.th platform.[^18]
+
+The agency also acknowledged recurring payment-processing difficulties involving another insurer, FWD.
+
+### Reported Restrictions on Changing Travel Dates
+
+On May 7, ASEAN NOW contributor Sheryl warned that the recommended insurer reportedly refused to amend policy commencement dates after issuance.
+
+The contributor described a planned arrival date changing from May 11 to May 13, while the insurance policy had not yet commenced.
+
+According to the account, the insurer required customers to purchase a replacement policy before receiving a refund for the original policy.
+
+The contributor declined to risk making the additional payment.
+
+Thai Visa Centre invited customers who had purchased insurance through its comparison platform to contact the agency for assistance. It subsequently acknowledged that some insurers handled amendments through cancellation and repurchase rather than directly modifying existing policies.[^18]
+
+### Government Registration and Insurance Flexibility
+
+Thailand's Ministry of Foreign Affairs confirmed that foreign travelers entering under the revised May 2022 requirements generally needed medical insurance coverage of at least US$10,000.[^19]
+
+Government guidance also permitted certain changes to travel arrangements without requiring an entirely new Thailand Pass registration, subject to valid supporting documentation.
+
+However, flexibility within the government's registration system did not necessarily extend to commercially distributed insurance policies.
+
+### Historical Commercial Significance
+
+**Thai Visa Centre promoted insurance products alongside its paid Thailand Pass assistance, while customers could encounter separate contractual restrictions involving insurance amendments, replacement purchases and refunds.**
+
+The exchange further demonstrates the operational integration of the agency's immigration assistance, accommodation platform and insurance comparison services.
+
+The agency's financial arrangements with the recommended insurers, including potential commissions, have not been independently established.
+
+The available evidence also does not establish that the disputed policy was purchased through Thai Visa Centre, that the insurer ultimately refused a refund, or that the agency itself was responsible for the reported amendment restrictions.
+
 ## References
 
 [^1]: `https://tvc.co.th/scam`
@@ -261,3 +297,7 @@ The available records do not establish how Thai Visa Centre resolved the pending
 [^16]: https://aseannow.com/topic/1246454-phuket-sandbox-application-taking-forever/ — January 12–14, 2022, moderator recommendation and subsequent customer account.
 
 [^17]: https://image.mfa.go.th/mfa/0/TkZZJfspCP/Year_2022/Update_e-mail%28ThailandPass%29_7_Feb_2022/Announcement_28_January_2022%28Update_e-mail%29.pdf — Official consular guidance dated January 28, 2022, concerning entry requirements and delayed Thailand Pass applications.
+
+[^18]: https://aseannow.com/topic/1258654-thailandpass/ — May 5–7, 2022, insurance recommendations, reported policy amendment restrictions and Thai Visa Centre's responses.
+
+[^19]: https://www.mfa.go.th/en/content/entry-measures-into-thailand-by-air-travel-0105202 — Ministry of Foreign Affairs, official entry requirements effective May 1, 2022.
