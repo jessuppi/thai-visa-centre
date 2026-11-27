@@ -304,6 +304,36 @@ Presenting predictions as confirmed experiences risks misleading readers and dow
 
 The available material does not establish that the original contributors fabricated their comments, that the editorial summary was deliberately deceptive, or that any traveler experienced immigration difficulties because of it.
 
+## Unsupported Issa Compass Approval Guarantees in Editorial Summaries
+
+A December 5, 2025 discussion republished by Ask Thailand concerns recommendations for commercial Destination Thailand Visa assistance.[^26]
+
+One participant recommends Issa Compass on the basis that the company guarantees visa approval.
+
+Rather than identifying this as an unverified customer assertion, Ask Thailand repeats the claim in its editorial summary, describing Issa Compass as a company:
+
+> which guarantees approval.
+
+### Contradictory Contractual Terms
+
+Section 6.5 of Issa Compass's Terms of Service, last updated November 24, 2026, expressly disclaims any ability to guarantee visa approval or influence government immigration decisions.[^27]
+
+The company's conditional money-back guarantee is a separate contractual arrangement that applies only to qualifying customers and remains subject to numerous exclusions.
+
+A conditional refund arrangement is not a guarantee of government approval.
+
+### Commercial Significance
+
+**Thai Visa Centre's own community platform presents an unsupported commercial assurance about Issa Compass as factual immigration information.**
+
+The publication is particularly relevant because Ask Thailand identifies Thai Visa Centre as its maintainer and promotes the reliability of information available through its aggregated community discussions.[^1]
+
+The editorial summary should distinguish customer recommendations from independently verified commercial capabilities.
+
+The available evidence does not establish that Issa Compass commissioned the recommendation, that Thai Visa Centre authored the original comment, or that the two agencies share ownership.
+
+Nevertheless, the publication provides another documented example of Ask Thailand transforming unverified community assertions into misleading editorial guidance.
+
 ## References
 
 - `https://asq.in.th/policy/terms-and-conditions`
@@ -351,3 +381,7 @@ The available material does not establish that the original contributors fabrica
 [^24]: https://pretoria.thaiembassy.org/en/content/29761-important-information — Royal Thai Embassy, Pretoria, official guidance concerning immigration admission and valid visa holders.
 
 [^25]: https://warsaw.thaiembassy.org/en/page/visa-information — Royal Thai Embassy, Warsaw, official visa information and DTV conditions.
+
+[^26]: https://ask.in.th/question/what-are-the-recommended-dtv-agents-for-visa-assistance-in-thailand — December 5, 2025 discussion and editorial summary, indexed version examined November 27, 2026.
+
+[^27]: https://www.issacompass.com/terms — Terms of Service, updated November 24, 2026, particularly Sections 6.5 and 7.3.
