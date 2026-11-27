@@ -334,6 +334,40 @@ The available evidence does not establish that Issa Compass commissioned the rec
 
 Nevertheless, the publication provides another documented example of Ask Thailand transforming unverified community assertions into misleading editorial guidance.
 
+## Guaranteed Visa Extension Advertising and Immigration Discretion
+
+On September 15, 2026, coinciding with Thailand's revised visa-exemption arrangements, a discussion attributed to Thai Visa Centre advertised a door-to-door immigration extension service in Bangkok.[^28]
+
+The agency identified the following charges:
+
+| Service component | Cost |
+| --- | ---: |
+| Government extension fee | ฿1,900 |
+| Thai Visa Centre service fee | ฿3,100 |
+| Total | ฿5,000 |
+
+The agency explicitly advertised a:
+
+> Guaranteed 30 day extension (no 7 day stamp).
+
+### Government Authority Over Extension Decisions
+
+The Royal Thai Embassy's official guidance concerning the September 2026 visa-exemption arrangements expressly confirms that extensions remain at the discretion of immigration officers.[^29]
+
+Thai Visa Centre's commercial guarantee therefore concerns an immigration outcome over which government authorities retain decision-making power.
+
+### Commercial Exploitation of Extension Uncertainty
+
+The agency additionally suggested that applicants submitting their own extensions might receive only seven days instead of the requested 30 days.
+
+**Thai Visa Centre uses uncertainty surrounding discretionary immigration decisions to promote a paid service promising a specific government outcome.**
+
+The advertisement does not explain the legal or procedural basis for guaranteeing that outcome, or what remedies customers receive if the promised extension is not granted.
+
+The available evidence does not establish improper payments to immigration officers or demonstrate that any particular extension was unlawfully obtained.
+
+Nevertheless, the agency should distinguish its document-handling services from its ability to guarantee government decisions.
+
 ## References
 
 - `https://asq.in.th/policy/terms-and-conditions`
@@ -385,3 +419,7 @@ Nevertheless, the publication provides another documented example of Ask Thailan
 [^26]: https://ask.in.th/question/what-are-the-recommended-dtv-agents-for-visa-assistance-in-thailand — December 5, 2025 discussion and editorial summary, indexed version examined November 27, 2026.
 
 [^27]: https://www.issacompass.com/terms — Terms of Service, updated November 24, 2026, particularly Sections 6.5 and 7.3.
+
+[^28]: https://asq.in.th/question/what-are-the-new-visa-rules-for-travelers-arriving-in-thailand — September 15, 2026 commercial announcement and subsequent discussion, examined November 27, 2026.
+
+[^29]: https://washingtondc.thaiembassy.org/en/page/visaexempt-voajul2024 — Royal Thai Embassy, official visa-exemption arrangements effective September 15, 2026.
