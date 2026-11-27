@@ -151,6 +151,42 @@ The company should clearly identify the historical nature of its ETA material, r
 
 The available evidence does not establish that any traveler has been denied boarding or entry because of this website.
 
+## Incorrect Tax Residency Threshold and Speculative ETA Tax Integration
+
+As of November 27, 2026, AGENTS' ETA information website continued suggesting a possible connection between the proposed electronic travel authorization system and taxation of foreigners spending more than 180 days annually in Thailand.[^5]
+
+### Incorrect Statutory Residency Threshold
+
+Section 41 of Thailand's Revenue Code establishes tax residency when an individual's cumulative presence in Thailand reaches 180 days or more during a tax year.[^21]
+
+The distinction is significant because individuals spending exactly 180 days in Thailand satisfy the statutory domestic residency threshold.
+
+The Revenue Department's general English-language personal income tax overview contains a similar wording discrepancy, but its published statutory text establishes the correct threshold.[^22]
+
+### Thai Visa Centre's Own Legal Archive Contradicts the Guidance
+
+Thai Visa Centre's legal archive contains a copy of the Revenue Department's statutory provisions captured on November 22, 2026.[^23]
+
+Its explanation of Section 41 correctly identifies the cumulative 180-day threshold.
+
+Nevertheless, the affiliated ETA website continues publishing its earlier inaccurate wording.
+
+### Speculative Connection Between Immigration Registration and Taxation
+
+The Ministry of Foreign Affairs' May 30, 2024 announcement described the proposed ETA as a long-term immigration measure intended to operate alongside the electronic visa system.[^24]
+
+The announcement did not identify tax-residency enforcement as a function of the proposed system.
+
+AGENTS does not identify an official source substantiating its suggested connection between ETA registration and taxation.
+
+### Commercial Significance
+
+**Thai Visa Centre maintains a legal archive containing the correct statutory tax-residency threshold while its affiliated immigration-information website continues publishing contradictory guidance and speculative regulatory connections.**
+
+The operator should distinguish established tax legislation from speculation concerning proposed immigration technologies.
+
+The available evidence does not establish that Thai immigration registration systems are incapable of supporting future tax enforcement, or that any traveler has incurred additional tax liabilities because of AGENTS' published guidance.
+
 ## References
 
 [^1]: Email to THNIC, February 27, 2025, subject *eta.in.th and dtv.in.th and asq.in.th abuse* (private correspondence).
@@ -179,3 +215,11 @@ The available evidence does not establish that any traveler has been denied boar
 [^19]: https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/444048 — Government Public Relations Department, November 18, 2025, strengthened immigration measures concerning visa runs.
 
 [^20]: https://london.thaiembassy.org/en/page/exemp-visa — Royal Thai Embassy, London, current visa exemption and land-border entry requirements.
+
+[^21]: https://www.rd.go.th/english/37749.html — Revenue Department, Revenue Code, Section 41.
+
+[^22]: https://www.rd.go.th/english/6045.html — Revenue Department, general personal income tax overview, last updated March 21, 2024.
+
+[^23]: https://tvc.co.th/law/documents/fin-rd-revenue-code-s38-64 — Thai Visa Centre legal archive, government source captured November 22, 2026.
+
+[^24]: https://mfa.go.th/en/content/presscon300524-2 — Ministry of Foreign Affairs, May 30, 2024, announcement concerning proposed visa and travel facilitation measures.
