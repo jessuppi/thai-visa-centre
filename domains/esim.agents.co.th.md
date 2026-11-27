@@ -357,6 +357,36 @@ The company should substantiate its advertised margins and distinguish achievabl
 
 The API documentation contains illustrative pricing rather than independently verified transaction records. The available evidence does not establish that a 60% gross margin is unattainable for particular products or wholesale discount tiers.
 
+## Wholesale Service Suspension and Business Continuity Risks
+
+AGENTS promotes its wholesale eSIM platform as suitable for direct integration into hotel reservation systems and online travel agencies, emphasizing immediate fulfillment and minimal operational overhead.[^1][^7][^8]
+
+However, its Terms of Service establish substantially less reassuring conditions for businesses relying on these automated services.[^3]
+
+### Discretionary Account Suspension
+
+Section 2 reserves broad discretion to deny or revoke account access.
+
+Section 5 separately permits API access to be revoked for contractual violations and subjects automated integrations to fair-use rate limits.
+
+The public API documentation examined on November 27, 2026, does not specify numerical request-rate limits or explain the procedures for restoring suspended API access.[^5]
+
+### Financial Exposure Following Termination
+
+Section 6 makes refunds of unused prepaid balances following account termination conditional on verification and applicable deductions.
+
+Section 8 also excludes liability for various consequential losses, including lost revenue and business interruption, to the extent permitted by applicable law.
+
+These provisions are particularly significant for businesses that depend on automated eSIM fulfillment to satisfy commitments made to their own customers.
+
+### Commercial Accountability
+
+**AGENTS encourages businesses to depend on its automated telecommunications infrastructure without providing corresponding contractual assurances concerning service continuity, account restoration or repayment of unused funds.**
+
+The company should publish clear API usage limits, suspension procedures, service availability commitments and arrangements for recovering unused balances.
+
+The available evidence does not establish that AGENTS has improperly suspended wholesale customers, withheld their funds or caused business interruptions.
+
 ## References
 
 [^1]: `https://esim.agents.co.th/` — Wholesale platform, commercial services, verification claims, and corporate disclosures.
