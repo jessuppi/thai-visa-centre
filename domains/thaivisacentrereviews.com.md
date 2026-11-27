@@ -228,6 +228,38 @@ The available evidence does not establish that the dataset was obtained through 
 
 Nevertheless, the website's acknowledged bulk storage of review content warrants clarification of its data acquisition methods, republication rights, and responsibilities toward the original contributors.
 
+## Overlapping Review Datasets and Unverified Editorial Independence
+
+On November 27, 2026, a comparison of the supposedly third-party review website and Thai Visa Centre's own commercial review archive confirmed that both websites publish identical customer testimonials.
+
+Examples include reviews dated January 20, 2026, September 20, 2025, and March 10, 2026, with matching reviewer names, dates, ratings and written content.[^1][^3][^12][^13][^14]
+
+### Thai Visa Centre's Downloadable Review Database
+
+Thai Visa Centre's Review Transparency Report provides a downloadable CSV export of its review database.[^15]
+
+The supposedly third-party website separately acknowledges that its reputation statistics are calculated from an imported CSV dataset.
+
+The existence of Thai Visa Centre's downloadable database establishes a possible source for the third-party website's imported material, although the precise acquisition method remains unverified.
+
+### Selective Presentation of Customer Experiences
+
+All six testimonials featured on the third-party website's homepage carry five-star ratings and Google Local Guide designations.[^1]
+
+However, the broader imported dataset contains reviews with lower ratings and reviews from contributors without Local Guide status.
+
+The website does not explain its selection methodology or why these particular testimonials are considered representative of the overall customer experience.
+
+### Commercial Significance
+
+**The supposedly third-party website reinforces Thai Visa Centre's commercial reputation using testimonials that the agency already publishes through its own marketing infrastructure.**
+
+Republication of the same customer feedback across multiple domains does not constitute additional independent customer endorsement or corroboration.
+
+The publisher should disclose its dataset source, editorial selection criteria and any commercial relationship with Thai Visa Centre.
+
+The available evidence does not establish that the reviews are fabricated, that the CSV was supplied directly by Thai Visa Centre, or that the agency owns the third-party domain.
+
 ## References
 
 [^1]: `https://www.thaivisacentrereviews.com/`
@@ -245,3 +277,11 @@ Nevertheless, the website's acknowledged bulk storage of review content warrants
 [^10]: https://developers.google.com/maps/documentation/places/web-service/policies — Google Maps Platform content storage and attribution policies.
 
 [^11]: https://developers.google.com/maps/documentation/places/web-service/place-details — Official Place Details API documentation.
+
+[^12]: https://tvc.co.th/reviews/review/1893d503-445a-4a2c-a41a-2d77caca95f0 — Thai Visa Centre review dated January 20, 2026.
+
+[^13]: https://tvc.co.th/reviews/retirement?page=3 — Thai Visa Centre retirement visa review archive, including the September 20, 2025 review.
+
+[^14]: https://tvc.co.th/reviews/retirement?page=2 — Thai Visa Centre retirement visa review archive, including the March 10, 2026 review.
+
+[^15]: https://tvc.co.th/reviews/fake-reviews — Thai Visa Centre Review Transparency Report and downloadable CSV, examined November 27, 2026.
