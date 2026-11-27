@@ -58,6 +58,22 @@ This directly reinforces the site's existing comparisons favoring Thai Visa Cent
 
 Such editing misrepresents the customer's reported experience and undermines the reliability of the site's visa-specific testimonials.
 
+### Misleading Presentation of Review Recency
+
+As reexamined on November 28, 2026, both ltr.in.th and dtv.in.th continued displaying the testimonial attributed to Luca G. with the description "recently on Google."[^6][^7]
+
+However, Thai Visa Centre's own review archive dates this testimonial to September 25, 2024.[^8]
+
+The testimonial was therefore more than two years old when examined.
+
+Furthermore, the LTR website continued substituting LTR for DTV in the customer's original endorsement.
+
+The promotional presentation misrepresents both the subject and apparent recency of the customer's reported experience.
+
+The operator should preserve the original wording and publication dates of customer testimonials rather than presenting historical reviews as recent evidence of specialist service quality.
+
+The available evidence does not establish whether the misleading recency label results from automated website functionality or a deliberate editorial decision.
+
 ## Visa Refund Policies Contradict Qualification-Test Disclaimers
 
 AGENTS CO., LTD. publishes substantially identical visa-refund policies across its privately operated LTR and DTV information websites, despite both websites prominently stating that they provide only unofficial visa qualification tests.
