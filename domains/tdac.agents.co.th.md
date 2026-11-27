@@ -276,6 +276,38 @@ AGENTS should disclose the purpose of collecting photographs, the parties receiv
 
 The available evidence does not establish that AGENTS uses facial recognition technology, processes photographs for biometric identification, or distributes customer photographs for unrelated commercial purposes.
 
+## Unnecessary TDAC Resubmission Referrals and Email Delivery Assurances
+
+Historical traveler discussions remaining accessible on November 27, 2026, demonstrate how problems receiving government confirmation emails are used to recommend AGENTS' commercial TDAC platform.[^27]
+
+In one German-language discussion, a traveler explained that the government system had successfully issued a TDAC number and downloadable QR code, although the confirmation email had not yet arrived.
+
+An anonymous response recommended using AGENTS' submission platform instead.
+
+The traveler subsequently confirmed that the original government confirmation emails had arrived.
+
+### Government Confirmation Emails Are Not the Only Accepted Evidence
+
+The Immigration Bureau's official FAQ confirms that travelers may present their downloaded TDAC document and QR code on an electronic device.[^18]
+
+A delayed confirmation email therefore does not necessarily indicate an unsuccessful registration or require another submission.
+
+### Unsubstantiated Email Delivery Assurances
+
+In a separate Czech-language discussion on the same page, an anonymous response promoted AGENTS' platform by offering complete certainty of email delivery and continued document availability.[^27]
+
+No independent delivery-performance records accompanied this assurance.
+
+### Commercial Significance
+
+**The discussion platform directs travelers toward AGENTS' commercial services even when their existing government registration may already be sufficient.**
+
+Unnecessary duplicate submissions expose travelers' passport details and travel information to an additional private data processor.
+
+The operator should distinguish successful government registration from email delivery problems and clearly identify circumstances in which resubmission is genuinely necessary.
+
+The available evidence does not establish who authored the anonymous responses or whether any traveler unnecessarily resubmitted personal information because of them.
+
 ## References
 
 [^1]: `https://aseannow.com/topic/1359413-fake-tdac-website-emerges-as-new-system-debuts-in-thailand/`
@@ -322,3 +354,5 @@ The available evidence does not establish that AGENTS uses facial recognition te
 [^25]: https://agents.co.th/tdac-apply/policy/privacy/ — Privacy Policy, updated April 2, 2025.
 
 [^26]: https://agents.co.th/tdac-apply/policy/data-protection/ — Data Protection Policy, updated April 2, 2025.
+
+[^27]: https://tdac.agents.co.th/comments/12 — Historical traveler discussions concerning confirmation email delivery, downloadable QR codes and commercial submission referrals, examined November 27, 2026.
