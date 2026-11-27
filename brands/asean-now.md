@@ -178,6 +178,33 @@ Unlike the previously documented November 2025 and May 2026 discussions, this ex
 
 The available evidence does not establish that the customer's extension was fraudulent, that Thai Visa Centre improperly filed residence notifications, or that immigration authorities rejected any subsequent application.
 
+## October 2026 Same-Day Retirement Visa and Banking Packages
+
+On October 10, 2026, Thai Visa Centre advertised two retirement visa packages through its sponsored ASEAN NOW account, responding to an inquiry concerning a prospective applicant entering Thailand without a visa.[^16]
+
+The agency advertised the following prices and processing periods:
+
+- 45,000 baht for its standard two-to-three-week service.
+- 55,000 baht for same-day completion within approximately six to seven hours.
+
+Both packages included assistance opening a Thai bank account.
+
+### Financial Documentation and Personal Attendance
+
+Thailand's published government guidance concerning in-country conversion to Non-Immigrant O status for retirement purposes identifies financial evidence requirements, including an 800,000-baht deposit with evidence of overseas remittance, qualifying pension income, or an applicable combination of funds and income.[^17]
+
+The guidance also requires applicants to attend personally and establishes a government application fee of 2,000 baht.
+
+Thai Visa Centre's advertisement does not explain how its accelerated service satisfies these documentary and attendance requirements or identify which additional charges account for the substantial difference between its advertised prices and the government application fee.
+
+### Continued Commercial Promotion
+
+**Thai Visa Centre continues advertising accelerated retirement immigration services through ASEAN NOW, including packages combining bank account opening and visa issuance within a single day.**
+
+This provides additional commercial context for the previously documented discussions concerning financial eligibility and agent-arranged retirement extensions.
+
+The advertisement does not independently establish that Thai Visa Centre circumvents financial requirements, makes improper payments, or obtains immigration approvals unlawfully.
+
 ## References
 
 [^1]: https://thethaiger.com/news/national/aseannow-joins-the-thaiger-in-strategic-acquisition-to-expand-digital-reach-in-thailand
@@ -201,3 +228,7 @@ The available evidence does not establish that the customer's extension was frau
 [^14]: https://aseannow.com/topic/1394428-looking-for-a-retirement-visa-vis-agent/ — ASEAN NOW discussion beginning May 13, 2026, including Thai Visa Centre's commercial participation and moderator statements.
 
 [^15]: https://aseannow.com/topic/1401947-thai-visa-centre-immigration/ — ASEAN NOW discussion, August 4–6, 2026, concerning retirement extensions, residence certificates and additional reporting services.
+
+[^16]: https://aseannow.com/topic/1402094-hua-hin-visa-agent/ — Thai Visa Centre's sponsored post dated October 10, 2026.
+
+[^17]: https://www.thailand.go.th/public/useful-information-detail/001-01-044 — Official government guidance concerning in-country conversion to Non-Immigrant O status for retirement purposes.
