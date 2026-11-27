@@ -352,6 +352,34 @@ The company should clarify how individual travelers receive privacy notices, dis
 
 The available evidence does not establish that AGENTS has marketed services to unauthorized recipients or unlawfully processed information obtained from travel agencies.
 
+## Contradictory Corporate Information Accuracy Assurances
+
+As examined on November 27, 2026, AGENTS' corporate homepage advertised its Thailand Digital Arrival Card information portal using the assurance:
+
+> 100% Up-to-date Info
+
+The company presents this portal as a comprehensive information resource serving travelers, commercial agents and government officials.[^1]
+
+However, its published Terms & Conditions expressly disclaim any obligation to update, amend or clarify website information except where required by law.[^6]
+
+The agreement also warns that displayed update dates should not be interpreted as confirmation that all published information has been updated.
+
+### Demonstrably Inaccurate Corporate Comparisons
+
+AGENTS' corporate homepage identifies resubmission functionality as unsupported by the official government TDAC platform.[^1]
+
+However, the Immigration Bureau expressly confirms that travelers may submit replacement arrival cards and that the most recent valid submission takes precedence.[^10]
+
+This discrepancy also appears in the company's commercial TDAC advertising, as documented in the separate [tdac.in.th investigation](tdac.in.th.md).
+
+### Commercial Accountability
+
+**AGENTS advertises completely up-to-date immigration information while disclaiming responsibility for maintaining that information and publishing demonstrably inaccurate government service comparisons.**
+
+The company should substantiate its information-accuracy assurances, establish a transparent correction procedure and distinguish genuine commercial advantages from capabilities already available through government services.
+
+The available evidence does not establish that particular travelers have suffered financial losses because of these corporate representations.
+
 ## References
 
 [^1]: `https://agents.co.th/`
