@@ -185,6 +185,32 @@ The company should publish service-specific retail refund conditions, explain ac
 
 The available evidence does not establish that AGENTS has improperly refused refunds or retroactively changed contractual conditions to the detriment of particular customers.
 
+## Incomplete Payment Authentication and Verification Assurances
+
+As examined on November 27, 2026, AGENTS' retail eSIM website promotes Google Pay and Apple Pay as payment methods that circumvent the need for an active telephone number.[^1]
+
+This assurance is particularly relevant to international travelers purchasing connectivity because they cannot receive conventional payment authentication messages.
+
+### Additional Authentication Requirements
+
+Google's official merchant integration documentation explains that certain Google Pay transactions remain subject to additional 3D Secure authentication based on applicable risk criteria.[^14]
+
+Google and Apple also acknowledge that card issuers may require additional identity verification when customers configure their digital wallets, including authentication through SMS.[^15][^16]
+
+The retail website does not distinguish between previously authenticated digital wallets and payment methods requiring additional verification.
+
+### Additional Merchant Verification
+
+AGENTS' own Terms & Conditions permit the company to request government-issued identification and potentially a recent bank statement when it considers a transaction to present an elevated risk.[^4]
+
+Consequently, using a digital wallet does not necessarily eliminate additional verification requirements imposed by either the payment provider or AGENTS itself.
+
+### Commercial Accountability
+
+AGENTS should qualify its telephone-independent payment assurances and explain the circumstances in which customers may encounter additional authentication requirements.
+
+The available evidence does not establish that AGENTS improperly bypasses payment security controls or that its particular digital wallet integration requires SMS authentication.
+
 ## References
 
 [^1]: `https://esimcard.in.th/en` — Retail eSIM website and corporate disclosures.
@@ -212,3 +238,9 @@ The available evidence does not establish that AGENTS has improperly refused ref
 [^12]: https://www.true.th/promotion/prepaid/terms-tourist-infinite-sim — True-dtac tourist SIM terms, particularly service eligibility and SIM validity.
 
 [^13]: https://esim.agents.co.th/terms — Wholesale eSIM Terms of Service, last updated March 2025, particularly Sections 4 and 11.
+
+[^14]: https://developers.google.com/pay/api/web/guides/test-and-deploy/integration-checklist — Google's official merchant integration requirements.
+
+[^15]: https://support.google.com/wallet/answer/12098871 — Google's payment-method verification instructions.
+
+[^16]: https://applepaypartners.apple.com/issuers/features/card-verification-methods — Apple's official card verification documentation.
