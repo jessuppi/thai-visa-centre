@@ -118,6 +118,30 @@ The April 2023 statement does not establish that every abuse complaint warrants 
 
 Nevertheless, it provides additional grounds for requesting clarification of the registrar's enforcement procedures and the Foundation's oversight responsibilities.
 
+## June 2025 Anti-Cyberbullying Policy Recommendations
+
+On June 19, 2025, THNIC Foundation executive director Dr. Pensri Arunwatanamongkol participated in an International Stop Cyberbullying Day conference at the Thailand Institute of Justice.[^14]
+
+The Foundation's published account identifies several recommendations advanced by its executive director:
+
+- Strict verification of online account holders and website operators.
+- Accessible channels for reporting inappropriate online behavior.
+- Prompt responses and intervention following abuse reports.
+- Cooperation between government agencies and private-sector organizations.
+- Development of technologies capable of detecting online harassment.
+
+### Relevance to Subsequent Abuse Complaints
+
+These recommendations were published after Jesse Nickles's April 2025 complaints concerning allegedly defamatory material on websites associated with Thai Visa Centre, but before his October–November 2026 complaints concerning additional disputed publications.[^3][^4]
+
+The Foundation's executive director publicly advocated effective reporting mechanisms and timely intervention while complaints concerning domains administered through its appointed registrar remained unresolved in the available correspondence.
+
+**This raises legitimate questions about whether the Foundation's publicly advocated principles are reflected in its own registrar oversight and complaint-handling procedures.**
+
+Although the conference primarily addressed the protection of children and young people, its recommendations concerning identity verification, accessible reporting and timely responses provide relevant institutional context.
+
+The recommendations do not constitute binding domain registration rules or establish that THNIC was legally obligated to suspend the reported domains.
+
 [^1]: https://thnic.or.th/en/registryregistrar-eng/
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: THNIC correspondence, April 13–18, 2025 and October 21–November 12, 2026 (private correspondence; cases QWK-ZGJNX-001, VRK-ZLCQS-392, SKW-BDLDD-392, and QLL-SSKGH-073).
@@ -134,3 +158,5 @@ Nevertheless, it provides additional grounds for requesting clarification of the
 [^12]: https://thnic.or.th/en/news-thaionline-dbd2025_/ — THNIC Foundation, March 13, 2025, reporting on its participation in the February 27 business credibility event.
 
 [^13]: https://thnic.or.th/en/news-mou-dct-2/ — THNIC Foundation, April 5, 2023, announcement concerning its partnership with the Digital Council of Thailand.
+
+[^14]: https://thnic.or.th/en/news-stop-cyberbullying-day-2025_/ — THNIC Foundation, June 19, 2025, *THNIC Joins Efforts to Stop Online Bullying in Age of AI*.
