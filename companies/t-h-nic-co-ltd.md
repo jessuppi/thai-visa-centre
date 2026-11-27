@@ -97,6 +97,28 @@ The seven-day deadline applies to registrants responding to qualifying registrar
 
 Nevertheless, these operational guidelines identify specific administrative procedures through which the registrar could examine reported registration irregularities independently of disputes concerning website content.
 
+## Reserved Domain Safeguards and Preventive Registration Controls
+
+Section 4.4 of T.H.NIC Co., Ltd.'s Domain Name Registration Guidelines, revision 3.2, dated May 21, 2025, establishes a mechanism for maintaining a reserved domain-name list.[^5]
+
+The registrar's registration system blocks applications for reserved names. The registrar may also add names to this list following consideration of registration applications.
+
+### Relevance to Government Immigration Programs
+
+This mechanism provides a potential preventive safeguard against confusing registrations associated with newly announced government immigration programs.
+
+The complaints concerning eta.in.th, dtac.in.th, dtv.in.th and other immigration-related domains raise questions about whether the registrar considered reserving sensitive government program names before permitting private registrations.
+
+The registrar should clarify whether it consults relevant government agencies when establishing or updating its reserved-name list.
+
+### Preventive Measures Versus Retrospective Enforcement
+
+**THNIC possesses mechanisms for preventing certain domain registrations before disputes arise, rather than relying exclusively on subsequent complaints and judicial proceedings.**
+
+The available evidence does not establish that any of the reported immigration-related domains were previously reserved or that their registration violated Section 4.4.
+
+Nevertheless, preventive reservation deserves consideration as a means of reducing future confusion between government immigration services and privately operated commercial websites.
+
 [^1]: https://thnic.or.th/en/registryregistrar-eng/
 [^2]: https://thnic.or.th/doc/thPolicy-EN-MAR2024.pdf
 [^3]: THNIC correspondence, February 27–May 1, 2025 and October 21–November 12, 2026 (private correspondence; cases QWK-ZGJNX-001, VRK-ZLCQS-392, SKW-BDLDD-392, and QLL-SSKGH-073).
