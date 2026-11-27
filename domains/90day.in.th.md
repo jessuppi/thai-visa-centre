@@ -387,6 +387,50 @@ Its commercial network therefore advertises both immigration categories carrying
 
 The available evidence does not establish that AGENTS has actually sold unnecessary reporting services to LTR or SMART visa holders.
 
+## Contradictory Customer Age Requirements and Financial Data Collection
+
+As of November 27, 2026, AGENTS CO., LTD. continued publishing contradictory eligibility requirements for customers purchasing its 90-day immigration reporting services.
+
+### Customers Aged 16–19 Receive Conflicting Instructions
+
+The website's Terms & Conditions establish a minimum service age of 16.[^8]
+
+However, its Privacy Policy states:
+
+> If you are under the age of 20, please do not submit any Personal Information through the Website and Services.[^12]
+
+These instructions are incompatible for customers aged 16–19 seeking to use the reporting service independently.
+
+The company's Data Protection Policy confirms that completing an immigration report requires processing passport information, visa details, residential addresses and contact information.[^11]
+
+Customers cannot realistically purchase and complete the advertised reporting service without submitting personal information.
+
+### Thai Law Establishes More Nuanced Consent Requirements
+
+Section 20 of Thailand's Personal Data Protection Act establishes specific requirements concerning consent obtained from minors, including circumstances requiring parental authorization and exceptions relating to legal capacity.[^27]
+
+The legislation does not establish a universal prohibition against processing personal information belonging to everyone younger than 20.
+
+AGENTS should distinguish its commercial minimum-age requirement from statutory consent requirements and explain how eligible younger customers or their legal representatives may complete immigration reporting.
+
+### Collection of Financial Documents
+
+The company's Terms & Conditions also authorize AGENTS to demand government-issued photographic identification and potentially recent bank statements when it considers a transaction to present an elevated risk.[^8]
+
+Its Privacy Policy additionally permits collecting personal information from public databases and joint marketing partners.[^12]
+
+These provisions extend beyond the information ordinarily required to complete a TM47 immigration notification.
+
+Section 22 of Thailand's Personal Data Protection Act limits personal-data collection to what is necessary for the controller's lawful purposes.[^27]
+
+Although payment-fraud prevention may justify additional verification in appropriate circumstances, AGENTS does not clearly identify separate retention periods or processing restrictions for financial documents collected through this procedure.
+
+**AGENTS advertises professional immigration assistance while maintaining contradictory customer eligibility requirements and broadly worded permissions to collect additional financial information.**
+
+The company should reconcile its age restrictions, explain its procedures for parental authorization, and distinguish immigration documentation from payment-verification records.
+
+The available evidence does not establish that AGENTS has improperly processed minors' personal information or collected unnecessary bank statements from particular customers.
+
 ## References
 
 [^1]: https://www.reddit.com/r/expatsinbangkok/comments/1tdqdc8/thailand_90_day_online_reporting/
@@ -422,3 +466,5 @@ The available evidence does not establish that AGENTS has actually sold unnecess
 [^25]: https://ltr.boi.go.th/page/faq.html — Board of Investment, official LTR frequently asked questions, particularly the annual reporting section.
 
 [^26]: https://smart-visa.boi.go.th/smart/pages/smart_s.html — Board of Investment, official SMART Startup Visa privileges.
+
+[^27]: https://mdes.go.th/law/detail/3577-Personal-Data-Protection-Act-B-E2562-2019- — Ministry of Digital Economy and Society, English translation of Thailand's Personal Data Protection Act, particularly Sections 20 and 22.
