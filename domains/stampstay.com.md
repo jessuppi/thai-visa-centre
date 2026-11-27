@@ -281,6 +281,40 @@ StampStay should distinguish the demonstrated capabilities of its informational 
 
 The available evidence does not establish that its assessments provide no value or that its published customer experiences are fabricated.
 
+## Misrepresentation of Statutory Immigration Appeal Rights
+
+On March 7, 2026, the StampStay Research Team published an article addressing the options available to travelers refused entry into Thailand.[^17]
+
+The article categorically states that no formal appeal mechanism exists at the border and presents subsequent visa applications as the principal avenue for resolving entry refusals.
+
+### Contradiction of Thai Immigration Law
+
+Section 22 of the Immigration Act B.E. 2522 establishes a statutory appeal procedure against qualifying orders requiring foreigners to leave Thailand.[^18]
+
+The legislation provides for:
+
+- Written notification of the immigration officer's order.
+- Appeals to the responsible minister, except in cases falling under Sections 12(1) and 12(10).
+- A filing deadline of 48 hours following notification.
+- Suspension of expulsion while a properly submitted appeal awaits determination.
+- A statutory consequence favorable to the appellant if no ministerial decision is issued within seven days.
+
+Thai immigration authorities also publish Form TM.11 specifically for this appeal procedure.[^19]
+
+### Potential Harm to Travelers
+
+StampStay advises rejected travelers to arrange their departure and seek subsequent immigration remedies from outside Thailand.
+
+Travelers relying on this guidance could consequently miss the statutory deadline for challenging an eligible refusal.
+
+### Commercial Significance
+
+The publication promotes StampStay's immigration risk assessment services while providing materially inaccurate information about existing statutory protections.
+
+The operator should distinguish the legal availability of an appeal from its practical difficulty, eligibility restrictions and likelihood of success.
+
+The available evidence does not establish that any traveler has forfeited an appeal because of StampStay's advice, or that immigration authorities consistently facilitate the appeal process in practice.
+
 ## References
 
 [^1]: `https://www.stampstay.com/`
@@ -306,3 +340,9 @@ The available evidence does not establish that its assessments provide no value 
 [^15]: https://thim.immigration.go.th/privacy-notice — Immigration Bureau, THIM Privacy Notice, version 3.0, October 9, 2026, Section XIV, Automated Decision-Making.
 
 [^16]: https://www.stampstay.com/tools/immigration-risk-checker — Free immigration risk assessment tool and dataset-related promotional claims, examined November 27, 2026.
+
+[^17]: https://www.stampstay.com/blog/thailand/entry-patterns/denial-appeal — Published March 7, 2026.
+
+[^18]: https://phrae.immigration.go.th/wp-content/uploads/2024/06/Immigration_Act_B.E._2522.pdf — Immigration Act B.E. 2522, Section 22, English translation prepared by the Office of the Council of State.
+
+[^19]: https://uthaithani.immigration.go.th/wp-content/uploads/2024/02/1.1.13-กฎกระทรวงกำหนดแบบเอกสารฉบับที่-1.pdf — Official TM.11 appeal form.
