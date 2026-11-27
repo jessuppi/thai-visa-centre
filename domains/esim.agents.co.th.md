@@ -387,6 +387,33 @@ The company should publish clear API usage limits, suspension procedures, servic
 
 The available evidence does not establish that AGENTS has improperly suspended wholesale customers, withheld their funds or caused business interruptions.
 
+## Unsubstantiated Hotel Adoption and Commercial Track Record
+
+As examined on November 28, 2026, AGENTS' wholesale eSIM platform advertised more than 500 participating hotels throughout Thailand.[^7]
+
+The promotional page describes both historical business relationships with hotels and current adoption of its telecommunications platform without distinguishing between these categories.
+
+### Historical Hotel Relationships
+
+AGENTS' corporate website separately identifies:
+
+- More than 600 hotel partners associated with its pandemic-era accommodation booking business.
+- A wholesale eSIM distribution platform identified as a 2025 business initiative.
+
+The former accommodation business is described as no longer required.[^2]
+
+### Unverified Current Adoption
+
+The hotel-specific eSIM promotional page does not provide named hotel customers, implementation case studies, adoption dates or independently verifiable transaction statistics supporting its claimed customer base.
+
+Historical accommodation partnerships do not independently establish current telecommunications service adoption.
+
+### Commercial Accountability
+
+AGENTS should distinguish historical hospitality relationships from active wholesale eSIM customers and substantiate the adoption figures used to attract new commercial partners.
+
+The available evidence does not establish that the advertised figures are inaccurate, that historical hotel relationships have been improperly counted, or that the two business networks overlap.
+
 ## References
 
 [^1]: `https://esim.agents.co.th/` — Wholesale platform, commercial services, verification claims, and corporate disclosures.
