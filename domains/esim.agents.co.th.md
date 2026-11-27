@@ -324,6 +324,39 @@ Wholesale customers should receive clear information about activation-code valid
 
 The available evidence does not establish that any issued activation code has expired prematurely or that any customer has suffered financial losses. The discrepancy concerns the information provided to prospective wholesale partners.
 
+## Unsubstantiated Wholesale Partner Margin Claims
+
+As examined on November 27, 2026, AGENTS continued advertising 60% partner margins on its corporate website to promote its wholesale eSIM distribution business.[^2]
+
+However, the platform's public API documentation illustrates a 15-day eSIM product with the following pricing:[^5]
+
+| Pricing component | Amount |
+| --- | ---: |
+| Retail price | ฿450 |
+| Wholesale price | ฿225 |
+| Gross profit before expenses | ฿225 |
+| Gross profit margin | 50% |
+
+The illustrative transaction therefore produces a gross margin below the percentage advertised on the corporate website.
+
+### Undisclosed Commercial Assumptions
+
+The wholesale platform reserves detailed pricing information for verified business partners and operates a volume-based discount system.[^1]
+
+Its corporate advertising does not explain whether the advertised 60% margin represents an average, a maximum achievable margin, or a rate available only to qualifying high-volume customers.
+
+The platform also imposes restrictive refund conditions on prepaid account balances and previously issued activation codes.[^3]
+
+These conditions may further affect the actual profitability of wholesale customers.
+
+### Commercial Significance
+
+**AGENTS uses a specific profitability figure to attract commercial partners without publicly explaining the conditions or calculations necessary to achieve it.**
+
+The company should substantiate its advertised margins and distinguish achievable gross margins from actual profitability after operating expenses, payment costs and non-refundable purchases.
+
+The API documentation contains illustrative pricing rather than independently verified transaction records. The available evidence does not establish that a 60% gross margin is unattainable for particular products or wholesale discount tiers.
+
 ## References
 
 [^1]: `https://esim.agents.co.th/` — Wholesale platform, commercial services, verification claims, and corporate disclosures.
