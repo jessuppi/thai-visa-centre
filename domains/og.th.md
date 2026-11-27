@@ -170,6 +170,45 @@ The card itself is not a government medical credential. Legal authorization depe
 
 OG.TH also appears on Tripadvisor as a Bangkok attraction. A September 2026 complaint on Tripadvisor's support forum accused the business of using the attraction listing for search-engine promotion rather than representing a genuine tourist attraction.[^7][^8]
 
+## Conflicting Corporate Identities and Clinical Accountability
+
+As examined on November 27, 2026, OG.TH's published legal and medical documentation identified two different companies as responsible for its services.
+
+| Document | Identified company |
+| --- | --- |
+| Terms & Conditions | OG Thai Co., Ltd. |
+| Privacy Policy | OG Thai Co., Ltd. |
+| Data Protection Policy | OG Thai Co., Ltd. |
+| Telemedicine Standard Operating Procedure | GACP Co., Ltd. |
+
+The telemedicine documentation identifies Herb Plug Thai Traditional Medicine Clinic as the clinical provider, owned and operated by GACP Co., Ltd.[^4]
+
+However, the website's general contractual and privacy agreements continue identifying OG Thai Co., Ltd. as the responsible legal entity.[^1][^15][^16]
+
+### Unclear Responsibility for Medical Records
+
+The Privacy Policy describes circumstances in which customers themselves are classified as data controllers and OG Thai Co., Ltd. acts as their processor.[^15]
+
+This arrangement is difficult to reconcile with a clinical workflow in which healthcare providers independently determine the medical information required for assessments, prescriptions and regulatory reporting.
+
+The published policies do not clearly distinguish responsibility for ordinary customer accounts from responsibility for clinical records maintained by GACP's clinic.
+
+### Patient Complaints and Contractual Liability
+
+The telemedicine documentation promises clinical oversight and review of patient grievances.[^4]
+
+However, the general Terms & Conditions impose restrictive commercial liability provisions on OG Thai Co., Ltd.[^1]
+
+The website does not clearly establish whether separate clinical agreements govern medical negligence, prescription errors or complaints concerning treatment.
+
+### Commercial Accountability
+
+**OG.TH presents an integrated medical service without clearly distinguishing the contractual, clinical and data-protection responsibilities of the two companies identified in its published documentation.**
+
+The operators should identify the contracting party for each service, clarify responsibility for patient records and explain which complaint and compensation procedures apply to clinical services.
+
+The involvement of separate commercial and medical entities is not inherently improper. The available evidence establishes uncertainty in their published allocation of responsibilities, rather than unauthorized medical practice or unlawful data processing.
+
 ## References
 
 [^1]: `https://og.th/policy/terms-and-conditions`
