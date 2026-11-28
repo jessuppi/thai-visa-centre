@@ -400,6 +400,32 @@ The operator should disclose its underlying sample sizes, unsuccessful applicati
 
 The available evidence does not establish that the underlying application records are fabricated. However, the published description of the dataset does not adequately support the statistical conclusions presented.
 
+## Outdated Embassy-Shopping Recommendations and Misleading Source Attribution
+
+StampStay's February 2026 DTV embassy comparison recommends selecting application destinations according to purported approval probabilities, processing speeds and perceived leniency.[^26]
+
+### Superseded Application Eligibility
+
+Effective August 31, 2026, Thailand introduced revised worldwide DTV application requirements, including nationality or permanent residency in the country of application and criminal record clearance documentation.[^28][^29]
+
+As examined on November 28, 2026, StampStay continued publishing recommendations encouraging applicants to travel internationally to obtain supposedly more favorable application outcomes.
+
+Its comparative table continues identifying several destinations as having no residency requirement.
+
+### Unreliable Government Source Attribution
+
+Both the embassy comparison and the associated processing-time article attribute information to the Royal Thai Embassy while linking to `thaiest.go.th` rather than the official electronic visa platform at `thaievisa.go.th`.[^26][^27][^30]
+
+The cited address returned a gateway error during examination.
+
+### Commercial Significance
+
+Following these outdated recommendations could expose prospective applicants to unnecessary travel expenses and non-refundable visa application fees.
+
+StampStay should update its embassy recommendations, distinguish historical application conditions from current requirements, and correct its government source links.
+
+The available evidence does not establish that particular customers have incurred financial losses as a result.
+
 ## References
 
 [^1]: `https://www.stampstay.com/`
@@ -447,3 +473,9 @@ The available evidence does not establish that the underlying application record
 [^26]: https://www.stampstay.com/blog/thailand/dtv/embassy-guide — DTV embassy comparison, updated February 22, 2026.
 
 [^27]: https://www.stampstay.com/blog/thailand/dtv/processing-times-by-embassy — DTV processing-time analysis, updated February 22, 2026.
+
+[^28]: https://vientiane.thaiembassy.org/en/page/applying-for-a-visa — Official announcement concerning worldwide DTV requirements, updated August 28, 2026.
+
+[^29]: https://consular.mfa.go.th/th/content/28-8-69-00 — Department of Consular Affairs announcement, August 28, 2026.
+
+[^30]: https://thaievisa.go.th/ — Official electronic visa application platform.
