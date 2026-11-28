@@ -286,6 +286,26 @@ The publisher should distinguish contributor status from verified transactions a
 
 The available evidence does not establish that the featured Local Guides published fabricated reviews or received compensation from Thai Visa Centre.
 
+## Unrelated Five-Star Content Included in Customer Review Statistics
+
+As examined on November 28, 2026, both thaivisacentrereviews.com and Thai Visa Centre's own review archive publish a five-star review dated February 5, 2026, containing unrelated personal commentary.[^3][^18]
+
+The review does not describe an immigration service, customer transaction or interaction with Thai Visa Centre.
+
+The agency's own archive nevertheless labels the contribution as verified on Google.
+
+### Review Quality and Verification
+
+Google's published review policies require contributions to reflect genuine experiences with the relevant business and prohibit off-topic personal commentary.[^17]
+
+The review's inclusion demonstrates that importing Google reviews does not necessarily establish their relevance as evidence of customer satisfaction.
+
+### Commercial Significance
+
+The publishers should distinguish review-source verification from verification of actual customer experiences and explain their procedures for identifying unrelated or otherwise unsuitable review content.
+
+The available evidence does not establish that the review was fabricated, commissioned by Thai Visa Centre or intentionally retained to manipulate its aggregate rating.
+
 ## References
 
 [^1]: `https://www.thaivisacentrereviews.com/`
@@ -315,3 +335,5 @@ The available evidence does not establish that the featured Local Guides publish
 [^16]: https://support.google.com/maps/answer/6225851?hl=en — Google's official Local Guides points, levels and badge requirements.
 
 [^17]: https://support.google.com/contributionpolicy/answer/7400114 — Google's official restrictions concerning fake engagement and misleading reviews.
+
+[^18]: https://tvc.co.th/reviews?page=8 — Thai Visa Centre's verified review archive, examined November 28, 2026. Pagination may change as additional reviews are published.
