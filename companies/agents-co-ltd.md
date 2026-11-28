@@ -472,6 +472,30 @@ It should also distinguish unfinished application drafts from completed immigrat
 
 The available evidence does not establish that AGENTS has unlawfully retained personal information or failed to honor a valid deletion request.
 
+## Replicated Corporate Data Protection Policies and Unverified Internal Safeguards
+
+A comparison conducted on November 28, 2026, identified extensive textual similarities between Nippon Express's corporate Personal Data Protection Policy and policies published across several businesses associated with Thai Visa Centre.[^45][^46][^47][^48]
+
+### Shared Policy Language
+
+The policies reproduce substantially identical provisions concerning:
+
+- Personal data protection management systems.
+- Designated managers responsible for personal information.
+- Supervision of outsourced data processing.
+- Dedicated privacy inquiry desks.
+- Continual improvement of internal data protection procedures.
+
+The telecommunications and medicinal cannabis policies retain introductory language describing business activities centered on travel and accommodation.
+
+### Operational Accountability
+
+The existence of substantially identical policy language across unrelated industries does not independently demonstrate that the promised internal management systems, supervisory procedures or organizational safeguards have been implemented.
+
+AGENTS should clarify how these commitments are implemented across its different commercial services, particularly those processing passport information, financial documents and sensitive personal data.
+
+The available evidence does not establish the original authorship of the shared wording, unauthorized copying, a corporate relationship with Nippon Express or the absence of effective internal safeguards.
+
 ## References
 
 [^1]: https://www.dataforthai.com/company/0115562031107/
@@ -543,3 +567,11 @@ The available evidence does not establish that AGENTS has unlawfully retained pe
 [^43]: https://agents.co.th/tdac-apply/policy/refund/ — AGENTS Refund Policy, last updated May 15, 2025, examined November 27, 2026.
 
 [^44]: https://www.tuneprotect.co.th/en/privacy-policy — Tune Insurance Public Company Limited, Data Privacy Policy, particularly Parts 1, 3, 4 and 7, examined November 27, 2026.
+
+[^45]: https://www.nipponexpress.com/us/en/privacy-policy/
+
+[^46]: https://esimcard.in.th/en/policy/data-protection
+
+[^47]: https://90day.in.th/policy/data-protection
+
+[^48]: https://card.weed.th/policy/data-protection
