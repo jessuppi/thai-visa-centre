@@ -396,6 +396,32 @@ The operator should reconcile its country-specific guidance with the responsible
 
 The available evidence does not establish that any applicant has incurred unnecessary authentication expenses, lost application fees or received a visa refusal because of these discrepancies.
 
+## Inconsistent Residency Eligibility and Transitional Application Guidance
+
+As examined on November 28, 2026, the revised DTV homepage continued presenting inconsistent interpretations of the August 2026 application requirements.[^1][^26]
+
+### Nationality Versus Permanent Residency
+
+Several sections identify permanent residence in the country of application as a mandatory eligibility requirement.
+
+However, the Royal Thai Embassy in Vientiane expressly identifies nationality or permanent residency as alternative qualifications under the revised worldwide requirements.
+
+AGENTS reproduces this distinction in its official announcement summary but does not consistently incorporate it into its own eligibility guidance.
+
+### Previously Submitted Applications
+
+The homepage repeatedly indicates that applications submitted before August 31, 2026, remain subject to the previous documentary requirements.
+
+However, the Vientiane embassy expressly requires both application submission and completed visa payment before that date to qualify for transitional treatment.
+
+The website acknowledges this additional payment condition in its embassy summary but omits it from its general explanation.
+
+### Commercial Significance
+
+These inconsistencies demonstrate that reproducing official announcements does not necessarily ensure that accompanying commercial immigration guidance accurately reflects their contents.
+
+AGENTS should reconcile its eligibility summaries with the cited official instructions and distinguish general transitional arrangements from embassy-specific conditions.
+
 ## References
 
 [^1]: `https://dtv.in.th/`
@@ -438,6 +464,8 @@ The available evidence does not establish that any applicant has incurred unnece
 [^24]: https://dtv.in.th/country/poland — AGENTS' Polish DTV application guide, indexed October 2026 and examined November 27, 2026.
 
 [^25]: https://warsaw.thaiembassy.org/en/page/visa-information — Royal Thai Embassy, Warsaw, official visa application requirements, updated September 15, 2026.
+
+[^26]: https://vientiane.thaiembassy.org/en/page/applying-for-a-visa — Official application requirements, updated August 28, 2026.
 
 ### Additional Existing Sources
 
