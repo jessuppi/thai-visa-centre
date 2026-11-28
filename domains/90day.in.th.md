@@ -519,6 +519,33 @@ The company should distinguish initial reporting obligations from subsequent not
 
 The available evidence does not establish that AGENTS has sold unnecessary reporting credits or that any customer has incurred additional fines because of its published guidance.
 
+## Incomplete Data Breach Notification Commitments
+
+The Privacy Policy describes investigation and reporting following security incidents as measures that AGENTS reserves the right to undertake.[^12]
+
+However, Thailand's Personal Data Protection Act establishes mandatory notification obligations for data controllers in qualifying circumstances.
+
+### Statutory Notification Requirements
+
+Section 37(4) of the PDPA requires data controllers to:
+
+- Notify the Office of the Personal Data Protection Committee promptly and, where feasible, within 72 hours of discovering a breach, unless it is unlikely to threaten individuals' rights and freedoms.
+- Promptly inform affected individuals of high-risk breaches and the corresponding remedial measures.[^29]
+
+AGENTS' published Privacy Policy does not identify the regulatory authority or the applicable notification deadline.
+
+Its commitment to notifying affected customers acknowledges applicable legal requirements but does not explain the corresponding obligation to communicate remedial measures.
+
+### Significance for Immigration Customers
+
+The company's separate Data Protection Policy confirms that its reporting services involve collecting passport biographical pages, photographs, visa information and residential addresses.[^11]
+
+Compromise of these records could expose customers to identity theft and other forms of misuse.
+
+AGENTS should explicitly distinguish discretionary incident-response measures from mandatory regulatory reporting obligations.
+
+The available evidence does not establish that a data breach has occurred, that AGENTS has failed to notify regulators, or that its internal incident-response procedures are inadequate.
+
 ## References
 
 [^1]: https://www.reddit.com/r/expatsinbangkok/comments/1tdqdc8/thailand_90_day_online_reporting/
@@ -558,3 +585,5 @@ The available evidence does not establish that AGENTS has sold unnecessary repor
 [^27]: https://mdes.go.th/law/detail/3577-Personal-Data-Protection-Act-B-E2562-2019- — Ministry of Digital Economy and Society, English translation of Thailand's Personal Data Protection Act, particularly Sections 20 and 22.
 
 [^28]: https://www.thailandlawonline.com/translations/unfair-contract-terms-act — English translation of Thailand's Unfair Contract Terms Act B.E. 2540, particularly Section 4.
+
+[^29]: https://www.dpe.go.th/en/data-controller-guidelines — Department of Physical Education, official guidance reproducing Section 37(4) of Thailand's Personal Data Protection Act.
