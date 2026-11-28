@@ -211,6 +211,26 @@ AGENTS should qualify its telephone-independent payment assurances and explain t
 
 The available evidence does not establish that AGENTS improperly bypasses payment security controls or that its particular digital wallet integration requires SMS authentication.
 
+## Contradictory Third-Party Data Disclosure and Accountability Provisions
+
+AGENTS' retail eSIM Privacy Policy states that personally identifiable information will not be shared with third parties.[^5]
+
+However, the same policy authorizes disclosures to payment processors, subsidiaries, joint venture partners, affiliates and contracted service providers.
+
+### Restrictions on Customer Remedies
+
+The Terms & Conditions require customers to waive claims against AGENTS concerning third-party services, including losses associated with their privacy practices and data security procedures.[^4]
+
+These provisions are particularly significant because AGENTS relies on external telecommunications providers to fulfill its commercial eSIM offerings.[^1]
+
+The published agreement does not clearly distinguish optional external services from third-party infrastructure necessary to deliver purchased telecommunications products.
+
+### Commercial Accountability
+
+AGENTS should reconcile its privacy assurances with its authorized disclosures and clarify its responsibilities when essential service providers mishandle customer information or fail to fulfill purchased services.
+
+The available evidence does not establish that unauthorized disclosures have occurred or that these contractual waivers are enforceable in every circumstance.
+
 ## References
 
 [^1]: `https://esimcard.in.th/en` — Retail eSIM website and corporate disclosures.
